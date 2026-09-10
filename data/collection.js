@@ -9,6 +9,9 @@
    origin      "branded" | "custom"                   (required)
    theme       Franchise, or your own custom line.    "Star Wars"
    rank        Where they sit in the world.           see RANKS below
+   character   Shared key when two figures are the same PERSON at different
+               points in their life. Both entries get the same value and each
+               links to the other. Leave blank for a one-figure character.
    rating      1 to 5. Leave 0 or null for unrated.
    background  In-world lore. The story of the character.
    provenance  Real-world story. Where the figure actually came from.
@@ -22,9 +25,13 @@
    of the rank dropdown and the "Rank" sort. Add tiers as they show up. */
 window.RANKS = [
   "The First Man",
+  "Cosmic Deity",
   "Second in Command",
   "Demigod",
   "Archangel",
+  "King",
+  "Senator",
+  "Royal Child",
   "Mortal"
 ];
 
@@ -106,9 +113,9 @@ window.COLLECTION = [
       "Chill, ultimately. If you ever meet them you can just hang out. It's cool.",
     provenance: "",
     tags: ["twin", "archangel", "jetpack"],
-    images: ["images/the-blue-twin-01.jpg", "images/the-twins-together-01.jpg"],
+    images: ["images/the-twins-01.jpg"],
     acquired: "",
-    notes: "Left figure in the pair photo."
+    notes: "Left figure in the shared photo."
   },
 
   {
@@ -131,9 +138,9 @@ window.COLLECTION = [
       "committed to doing good no matter what, and chill enough to hang out with.",
     provenance: "",
     tags: ["twin", "archangel", "status-quo"],
-    images: ["images/the-black-twin-01.jpg", "images/the-twins-together-01.jpg"],
+    images: ["images/the-twins-01.jpg"],
     acquired: "",
-    notes: "Right figure in the pair photo."
+    notes: "Right figure in the shared photo."
   },
 
   {
@@ -188,9 +195,133 @@ window.COLLECTION = [
       "still empty — left behind by the former tenants. I coincidentally had a " +
       "spare black visor from a Rebel battle pack, and I gave it to him.",
     tags: ["mortal", "lightsaber", "green-saber", "force", "cybernetic", "found"],
-    images: ["images/the-second-01.jpg"],
+    images: ["images/the-second-01.jpg", "images/the-second-02.jpg"],
     acquired: "",
     notes: ""
+  },
+
+  {
+    id: "the-prince-king",
+    name: "The Prince",
+    variant: "As King",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "King",
+    character: "the-prince",
+    rating: 0,
+    background:
+      "He is known as the King right now, but he still refers to himself as a " +
+      "Prince.\n\n" +
+      "He started out as a senator in the earliest days of the Senate, and he " +
+      "tried his best. He ended up marrying the Space Princess, and on their " +
+      "marriage he became the Prince. They were happily married and had a few " +
+      "kids. She later disappeared for a while, which is how he became king — " +
+      "de facto, never by claim. He has never updated the title he uses for " +
+      "himself.\n\n" +
+      "He is a much better king now, and genuinely useful. He still sometimes " +
+      "wonders what makes him so special. The real answer is just that he has a " +
+      "good heart. He is not the super mega ultra genius politician. He " +
+      "genuinely just has a good heart.",
+    provenance: "",
+    tags: ["royal-family", "king", "married", "good-heart"],
+    images: ["images/the-prince-king-01.jpg"],
+    acquired: "",
+    notes: ""
+  },
+
+  {
+    id: "the-prince-senator",
+    name: "The Prince",
+    variant: "Senate era",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Senator",
+    character: "the-prince",
+    rating: 0,
+    background:
+      "The same man, much earlier. This is him in the earliest days of the " +
+      "Senate, when he was a senator in a purple T-shirt and nothing else.\n\n" +
+      "He tried his best. That was more or less the whole of it, and it turned " +
+      "out to be enough — this is the version of him that met and married the " +
+      "Space Princess, before there was any title attached to his name.",
+    provenance: "",
+    tags: ["royal-family", "senator", "early-era"],
+    images: ["images/the-prince-senator-01.jpg"],
+    acquired: "",
+    notes: ""
+  },
+
+  {
+    id: "the-space-princess",
+    name: "The Space Princess",
+    variant: "Blue dress, after her return",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Cosmic Deity",
+    character: "",
+    rating: 0,
+    background:
+      "Another cosmic deity. She can influence space, and through that, some " +
+      "aspects of the weather.\n\n" +
+      "She married the senator, and on their marriage he became the Prince. " +
+      "They were happily married and had a few kids. She later disappeared for " +
+      "a while, and in her absence he became king by default.\n\n" +
+      "She used to wear a white and black dress. Since she returned, she wears " +
+      "the blue one.",
+    provenance: "",
+    tags: ["royal-family", "cosmic", "space", "weather", "returned"],
+    images: ["images/the-space-princess-01.jpg"],
+    acquired: "",
+    notes: "The white-and-black dress version is a separate figure if you still have it — worth its own entry sharing character: \"the-space-princess\"."
+  },
+
+  {
+    id: "the-royal-son-straight",
+    name: "Royal Son",
+    variant: "Plain blue torso, brown legs",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Royal Child",
+    character: "",
+    rating: 0,
+    background:
+      "One of the two sons. They both wear blue, just like their dad — it is " +
+      "the family color.\n\n" +
+      "They both love adventure, but their adventures mostly consist of playing " +
+      "outside in nature and using their imagination. They have big dreams of " +
+      "one day being explorers, or soldiers. But they are still just kids.",
+    provenance: "",
+    tags: ["royal-family", "child", "adventure"],
+    images: ["images/the-royal-sons-01.jpg"],
+    acquired: "",
+    notes: "Front figure in the shared photo. Needs a real name."
+  },
+
+  {
+    id: "the-royal-son-spiky",
+    name: "Royal Son",
+    variant: "Blue jacket, spiky hair",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Royal Child",
+    character: "",
+    rating: 0,
+    background:
+      "One of the two sons. They both wear blue, just like their dad — it is " +
+      "the family color.\n\n" +
+      "They both love adventure, but their adventures mostly consist of playing " +
+      "outside in nature and using their imagination. They have big dreams of " +
+      "one day being explorers, or soldiers. But they are still just kids.",
+    provenance: "",
+    tags: ["royal-family", "child", "adventure"],
+    images: ["images/the-royal-sons-01.jpg"],
+    acquired: "",
+    notes: "Rear figure in the shared photo. Needs a real name."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
@@ -202,6 +333,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "",
     rank: "",
+    character: "",
     rating: 0,
     background: "",
     provenance: "",

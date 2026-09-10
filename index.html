@@ -127,6 +127,13 @@
           color:var(--dim); font-size:13.5px; white-space:pre-wrap; }
   .prov h4 { margin:0 0 3px; font-size:11px; letter-spacing:.09em; text-transform:uppercase;
              color:var(--faint); font-weight:600; }
+  .kin { margin-bottom:18px; }
+  .kin h4 { margin:0 0 6px; font-size:11px; letter-spacing:.09em; text-transform:uppercase;
+            color:var(--faint); font-weight:600; }
+  .kinbtn { background:var(--panel-2); border:1px solid var(--line); color:var(--dim);
+            border-radius:20px; padding:5px 11px; font:inherit; font-size:12px;
+            cursor:pointer; margin:0 5px 5px 0; }
+  .kinbtn:hover { border-color:var(--accent); color:var(--text); }
   .facts { border-top:1px solid var(--line); padding-top:14px; font-size:13px; color:var(--dim); }
   .facts div { margin-bottom:5px; }
   .facts b { color:var(--text); font-weight:500; }
@@ -217,7 +224,7 @@ function matches(f) {
   if (state.theme   !== "all" && f.theme   !== state.theme)   return false;
   if (state.rank    !== "all" && f.rank    !== state.rank)    return false;
   if (state.q) {
-    const hay = [f.name, f.variant, f.theme, f.rank, f.background, f.provenance, f.notes, (f.tags || []).join(" ")]
+    const hay = [f.name, f.variant, f.theme, f.rank, f.character, f.background, f.provenance, f.notes, (f.tags || []).join(" ")]
       .join(" ").toLowerCase();
     if (!hay.includes(state.q)) return false;
   }
@@ -289,6 +296,13 @@ function open(f) {
         <div class="stars">${stars(f.rating)}</div>
         <div class="bg">${esc(f.background || "")}</div>
         ${f.provenance ? `<div class="prov"><h4>How I got it</h4>${esc(f.provenance)}</div>` : ``}
+        ${(() => {
+          const kin = f.character
+            ? FIGS.filter(g => g.character === f.character && g._i !== f._i) : [];
+          return kin.length ? `<div class="kin"><h4>Same character</h4>${kin.map(g =>
+            `<button class="kinbtn" data-i="${g._i}">${esc(g.name)}${
+              g.variant ? ` — ${esc(g.variant)}` : ``}</button>`).join("")}</div>` : ``;
+        })()}
         ${(f.acquired || f.notes) ? `<div class="facts">
           ${f.acquired ? `<div><b>Acquired</b> — ${esc(f.acquired)}</div>` : ``}
           ${f.notes ? `<div><b>Notes</b> — ${esc(f.notes)}</div>` : ``}
@@ -306,6 +320,8 @@ $("grid").addEventListener("click", e => {
 
 $("detail").addEventListener("click", e => {
   if (e.target.id === "x") return $("detail").close();
+  const k = e.target.closest(".kinbtn");
+  if (k) return open(FIGS[+k.dataset.i]);
   const t = e.target.closest(".thumbs img");
   if (t) {
     $("main").src = t.dataset.src;

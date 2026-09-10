@@ -75,8 +75,9 @@ im.save(sys.argv[2], quality=82, optimize=True, progressive=True)
 " input.jpg images/output.jpg
 ```
 
-If one photo has two figures in it, crop it into one image per figure so each
-gets its own tile, and keep the original as a second image on both entries.
+If one photo has two figures in it, just point both entries at that same photo
+— pairs usually live together anyway. Use `notes` to say which one is which
+("left figure in the shared photo").
 
 ## Why files instead of a database
 
