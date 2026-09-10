@@ -70,6 +70,33 @@ window.LORE = [
   },
 
   {
+    title: "The Great Shadow War",
+    text:
+      "A war fought against the shadow, ended by negotiation rather than by " +
+      "someone winning it. The Shadow Prince — the Shadow King's own son — was " +
+      "part of getting that settlement done.\n\n" +
+      "The Shadow King is a villain. He has not been photographed yet."
+  },
+
+  {
+    title: "First contact",
+    text:
+      "Aliens did come, once. The man who saw it coming was an eighties-style " +
+      "conspiracy theorist working a gas station, and he turned out to be right " +
+      "about the alien life involved when nobody else was. He saved the day and " +
+      "then left that life behind.\n\n" +
+      "Aliens are ordinary enough now that one of them runs Royal Intelligence " +
+      "when Armstrong is away."
+  },
+
+  {
+    title: "The Great Base Plate",
+    text:
+      "One of the discoveries the arctic explorer is known for. Details still " +
+      "to come."
+  },
+
+  {
     title: "The Great Lego War",
     text:
       "A war in this world's history, big enough that people still measure each " +

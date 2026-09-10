@@ -1021,6 +1021,141 @@ window.COLLECTION = [
     notes: "Placeholder name."
   },
 
+  {
+    id: "the-explorer-and-the-monkey",
+    name: "The Explorer and the Monkey",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Explorer",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An arctic explorer, and the discoverer of things like the Great Base " +
+      "Plate.\n\n" +
+      "The monkey came from the jungle. By rights the two of them should never " +
+      "have been able to meet at all — a winter explorer and a jungle animal, " +
+      "with no overlap between where either could survive. They met anyway, and " +
+      "became best friends.\n\n" +
+      "And because of that friendship — because they're so connected, basically " +
+      "by magic — each of them can now survive the other's climate.",
+    provenance: "",
+    tags: ["explorer", "arctic", "jungle", "monkey", "friendship", "great-base-plate", "pair"],
+    images: ["images/the-explorer-and-the-monkey-01.jpg"],
+    acquired: "",
+    notes: "Neither has a name yet."
+  },
+
+  {
+    id: "the-shadow-prince",
+    name: "The Shadow Prince",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Prince",
+    location: "",
+    relations: [
+      { to: "the-shadow-king", label: "Son of" },
+    ],
+    rating: 0,
+    background:
+      "His father is the Shadow King, who is a villain. He is not.\n\n" +
+      "He helped negotiate the end of the Great Shadow War, and you can tell " +
+      "just by looking at him that he isn't full shadow — there's still some " +
+      "good on him, and it shows in his robes.\n\n" +
+      "He's very nice. He's young. He believes in the best of people, which is " +
+      "the thing his father does not.",
+    provenance: "",
+    tags: ["shadow", "prince", "negotiator", "great-shadow-war", "not-his-father"],
+    images: ["images/the-shadow-prince-01.jpg"],
+    acquired: "",
+    notes: "His connection to the Shadow King is already written down - it will start working the moment a figure with id \"the-shadow-king\" exists."
+  },
+
+  {
+    id: "the-jedi",
+    name: "The Jedi",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Jedi",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Very outgoing, and completely unorthodox about all of it. Playful, " +
+      "free-spirited, quick to laugh, and not remotely interested in doing " +
+      "things the way they're supposed to be done — which turns out to work.\n\n" +
+      "His lightsaber is blue, and it's a staff. He can activate it and it " +
+      "becomes about twice as long, which is where the unorthodox fighting " +
+      "style comes from.\n\n" +
+      "He's always down to mentor a young Padawan.",
+    provenance: "",
+    tags: ["jedi", "lightsaber-staff", "blue-saber", "unorthodox", "mentor"],
+    images: ["images/the-jedi-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Described by traits rather than the Avatar comparison, same as the Space Marshal - say the word if you'd rather it were named outright."
+  },
+
+  {
+    id: "the-gas-men",
+    name: "The Gas Men",
+    variant: "The angry one and his protege",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Gas Attendant",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The one in front is the angry gas man: a very grumpy gas attendant, and " +
+      "back in the day an eighties-flavoured conspiracy theorist. When aliens " +
+      "actually did come, he was the one who saved the day. He left that life " +
+      "behind him — but during first contact he had extreme intelligence about " +
+      "the alien life they were dealing with, and he was right.\n\n" +
+      "Behind him is his protege: the young but crazy gas man, heavily Kentucky " +
+      "hillbilly coded.",
+    provenance: "",
+    tags: ["gas-station", "grumpy", "conspiracy-theorist", "first-contact", "protege", "pair"],
+    images: ["images/the-gas-men-01.jpg"],
+    acquired: "",
+    notes: "Angry one on the left, protege on the right. One box because they share a photo - say so if you'd rather they were split."
+  },
+
+  {
+    id: "the-daredevils",
+    name: "The Daredevils",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Test Pilot",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Best friends, and daredevils. They test all kinds of experimental " +
+      "vehicles and ships, and they love doing every kind of crazy stunt.\n\n" +
+      "They grew up building vehicles in their backyard out of scrap pieces, " +
+      "which is exactly why they're always first to test-fly anything new — " +
+      "nobody else has that range behind the controls.",
+    provenance: "",
+    tags: ["test-pilot", "daredevil", "stunts", "scrap-built", "best-friends", "pair"],
+    images: ["images/the-daredevils-01.jpg"],
+    acquired: "",
+    notes: "Neither has a name yet."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
