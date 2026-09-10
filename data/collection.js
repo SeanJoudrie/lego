@@ -536,7 +536,10 @@ window.COLLECTION = [
       "entire city.",
     provenance: "",
     tags: ["intelligence", "spymaster", "undercover", "nice"],
-    images: ["images/armstrong-01.jpg"],
+    images: [
+      { src: "images/armstrong-01.jpg", caption: "Suit and tie" },
+      { src: "images/armstrong-02.jpg", caption: "Combat gear" }
+    ],
     acquired: "",
     notes: ""
   },
@@ -592,6 +595,116 @@ window.COLLECTION = [
     images: ["images/the-commissioner-01.jpg"],
     acquired: "",
     notes: "Needs a real name. You mentioned a gold visor - I can't see one in this shot, so check I photographed the right figure."
+  },
+
+  {
+    id: "the-deputy",
+    name: "The Deputy",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Royal Intelligence Deputy",
+    location: "Lego City",
+    rating: 0,
+    background:
+      "Armstrong's replacement. Whenever Armstrong is off planet, or busy, or " +
+      "undercover, or whatever else, this is who runs the agency.\n\n" +
+      "He's an alien, as you can tell from the green skin, but he wears the " +
+      "Royal Intelligence Agency uniform like everyone else. He's a lot more " +
+      "quiet than Armstrong. He is just as capable.",
+    provenance: "",
+    tags: ["intelligence", "alien", "quiet", "stand-in"],
+    images: ["images/the-deputy-01.jpg"],
+    acquired: "",
+    notes: "Wears physically the same torso as Armstrong's suit - that torso is the agency uniform. Placeholder name."
+  },
+
+  {
+    id: "the-space-marshal",
+    name: "The Space Marshal",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Chief of Space Police",
+    location: "",
+    rating: 0,
+    background:
+      "The man in charge of the space police. He has a team of his own, who " +
+      "you'll meet later.\n\n" +
+      "Bold and daring, with a lot of feelings running close to the surface — " +
+      "but an optimist underneath all of it. And he does not go to the dark " +
+      "side. He's chill.",
+    provenance: "",
+    tags: ["space-police", "bold", "daring", "optimist", "leads-a-team"],
+    images: ["images/the-space-marshal-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. His team is still to come."
+  },
+
+  {
+    id: "the-green-captain",
+    name: "The Green Captain",
+    variant: "Light green armor",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain, Verdauf Squadron",
+    location: "",
+    rating: 0,
+    background:
+      "He leads the Verdauf Squadron, the most elite unit there is — and an " +
+      "actual unit, not a handful of specific individuals each handed their own " +
+      "task. These men work together. You'll meet more of them later. He's " +
+      "known by his light green armor, and he's skilled in hand-to-hand " +
+      "combat.\n\n" +
+      "He and his younger brother grew up on a planet where militias were the " +
+      "only thing keeping the world safe from alien criminals, gangs, and " +
+      "violence in general. Their father was something like a space cop, though " +
+      "he never patrolled other planets — he was in charge of their settlement, " +
+      "and he was killed in the line of duty. Both sons joined the military " +
+      "after that.\n\n" +
+      "He dies aboard an exploding ship. There was a bomb about to go off and " +
+      "take the whole planet with it; he pushed his younger brother into an " +
+      "escape pod, and then set the bomb off on the ship instead. Everyone " +
+      "else lived.",
+    provenance: "",
+    tags: ["verdauf", "elite", "captain", "hand-to-hand", "brother", "deceased"],
+    images: ["images/the-green-captain-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name - you called him the Green Captain in passing."
+  },
+
+  {
+    id: "the-younger-brother",
+    name: "The Younger Brother",
+    variant: "His father's white, black and yellow armor",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    location: "",
+    rating: 0,
+    background:
+      "The Green Captain's younger brother. The white, black and yellow armor " +
+      "he wears is his dad's.\n\n" +
+      "They grew up on a planet where militias were the only thing keeping the " +
+      "world safe from alien criminals, gangs, and violence in general. Their " +
+      "father was something like a space cop, though he never patrolled other " +
+      "planets — he was in charge of their settlement, and he was killed in the " +
+      "line of duty. Both sons joined the military after that.\n\n" +
+      "He is alive because his brother pushed him into an escape pod and stayed " +
+      "aboard the ship to set off the bomb himself.",
+    provenance: "",
+    tags: ["soldier", "brother", "inherited-armor", "survivor"],
+    images: ["images/the-younger-brother-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
