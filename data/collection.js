@@ -707,6 +707,125 @@ window.COLLECTION = [
     notes: "Placeholder name."
   },
 
+  {
+    id: "the-discarded",
+    name: "The Discarded",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ambassador",
+    location: "",
+    rating: 0,
+    background:
+      "He is one of the Discarded — made as a throwaway character in a " +
+      "different civilization, and given refuge here.\n\n" +
+      "He's a kind, intelligent explorer, well-versed in other cultures, and " +
+      "he's used as a societal bridge between different worlds. An ambassador, " +
+      "essentially, for civilizations that aren't his own. He travels a great " +
+      "deal.\n\n" +
+      "His arm is the reason this society has cybernetics at all — they were " +
+      "able to study him, and built from what they found. He likes the arm: it " +
+      "takes different devices. But what he actually enjoys is meeting other " +
+      "civilizations.\n\n" +
+      "His modest appearance reflects who he is. He loves going for walks and " +
+      "studying poetry, which isn't what you'd guess from looking at him. He " +
+      "also loves sports.",
+    provenance: "",
+    tags: ["discarded", "ambassador", "explorer", "cybernetics", "poetry", "sports", "refugee"],
+    images: ["images/the-discarded-01.jpg"],
+    acquired: "",
+    notes: "\"The Discarded\" is what his people are called, not his own name - he may want one of his own."
+  },
+
+  {
+    id: "the-mad-ticket-man",
+    name: "The Mad Ticket Man",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Gatekeeper",
+    location: "The Royal Palace",
+    rating: 0,
+    background:
+      "Very grumpy, very grouchy, and widely considered an asshole. He would " +
+      "also be the first person to fight if anything happened.\n\n" +
+      "He controls security for the premises of the Royal Palace and the city, " +
+      "which means he knows not just which people get past the walls but which " +
+      "information and which goods do too.\n\n" +
+      "A lot of people assumed he'd turn out to be a bad guy when the Great " +
+      "Lego War came. He was devoutly loyal instead, which was very nice. He " +
+      "carries a small pistol.\n\n" +
+      "He comes from the same world as the Discarded.",
+    provenance: "",
+    tags: ["discarded", "gatekeeper", "grumpy", "loyal", "great-lego-war", "pistol"],
+    images: ["images/the-mad-ticket-man-01.jpg"],
+    acquired: "",
+    notes: ""
+  },
+
+  {
+    id: "heavy",
+    name: "Heavy",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Honor Guard",
+    location: "The Royal Palace",
+    rating: 0,
+    background:
+      "Young, friendly and useful — no more than nineteen. Eager and " +
+      "charismatic.\n\n" +
+      "He is also the one in charge of the largest gun in the entire Lego " +
+      "world, and somehow manages to be super accurate with it despite the " +
+      "insane recoil. He studied under Brute.\n\n" +
+      "He's part of the young honor guard: they go on missions and they protect " +
+      "the royal house from foreign invasion, and they're being trained to do " +
+      "elite work without needing to be closely monitored.\n\n" +
+      "His uncle is Armstrong, over at the Royal Intelligence Agency.",
+    provenance: "",
+    tags: ["honor-guard", "young", "heavy-weapons", "marksman", "trained-by-brute", "armstrong-nephew"],
+    images: [
+      { src: "images/heavy-01.jpg", caption: "Masked" },
+      { src: "images/heavy-02.jpg", caption: "Unmasked — he's nineteen" }
+    ],
+    acquired: "",
+    notes: ""
+  },
+
+  {
+    id: "the-activist",
+    name: "The Activist",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Rights Activist",
+    location: "",
+    rating: 0,
+    background:
+      "He comes from another world, one where Lego figures were destroyed and " +
+      "abused. He was rescued out of it — and then he went and rescued some of " +
+      "his own friends.\n\n" +
+      "His people are the Damaged. As he likes to put it: damaged, but not " +
+      "broken. Stronger than ever.\n\n" +
+      "He's an outspoken rights activist for damaged figures everywhere, in the " +
+      "hope that they can take refuge in this world and this society. Some of " +
+      "the Damaged are mean and don't trust other figures. He's really nice, " +
+      "and he's loyal.",
+    provenance: "",
+    tags: ["damaged", "activist", "rescuer", "refugee", "loyal", "hand-painted"],
+    images: ["images/the-activist-01.jpg"],
+    acquired: "",
+    notes: "\"The Damaged\" is what his people are called - he needs a name of his own. The most heavily hand-painted figure in the collection."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

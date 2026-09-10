@@ -17,6 +17,17 @@ location, or theme. Sort by rank, role, rating, name, theme, or most recently
 added. The search box covers everything written down. Click any figure for the
 full write-up.
 
+## World notes
+
+Facts that belong to the world rather than to any one figure — how travel
+between worlds works, who the Discarded and the Damaged are, what Padawan
+means here — live in `data/lore.js` and open behind the **World notes**
+button at the top of the page. Same shape as the collection: a plain list of
+`{ title, text }`, edited by hand.
+
+If a fact keeps having to be repeated across several figures' backgrounds, or
+has no figure to attach to at all, it belongs here.
+
 ## Adding a figure
 
 1. Put the photos in `images/`. Name them after the figure so they're easy to

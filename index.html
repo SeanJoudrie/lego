@@ -24,6 +24,15 @@
   header { display:flex; align-items:baseline; gap:14px; flex-wrap:wrap; margin-bottom:22px; }
   h1 { font-size:26px; margin:0; letter-spacing:-.02em; }
   .count { color:var(--faint); font-size:13px; }
+  .lorebtn { margin-left:auto; background:var(--panel); border:1px solid var(--line);
+             color:var(--dim); border-radius:8px; padding:7px 13px;
+             font:inherit; font-size:13px; cursor:pointer; }
+  .lorebtn:hover { border-color:var(--accent); color:var(--text); }
+  .lore { padding:26px 30px 30px; max-width:640px; }
+  .lore h2 { margin:0 0 20px; font-size:22px; letter-spacing:-.01em; }
+  .lore section { margin-bottom:22px; }
+  .lore h3 { margin:0 0 6px; font-size:14px; color:var(--accent); font-weight:600; }
+  .lore p { margin:0; color:#c8cddb; white-space:pre-wrap; font-size:14px; }
 
   /* ---------- controls ---------- */
   .controls {
@@ -159,6 +168,7 @@
   <header>
     <h1>The Collection</h1>
     <span class="count" id="count"></span>
+    <button class="lorebtn" id="lorebtn">World notes</button>
   </header>
 
   <div class="controls">
@@ -196,6 +206,7 @@
 <dialog id="detail"></dialog>
 
 <script src="data/collection.js"></script>
+<script src="data/lore.js"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", faction:"all", origin:"all", theme:"all", rank:"all", role:"all", location:"all", sort:"rank" };
@@ -348,7 +359,23 @@ function open(f) {
   showImg(0);
 }
 
+function openLore() {
+  gal = { imgs: [], i: 0 };            // no gallery here
+  $("detail").innerHTML = `
+    <button class="close" id="x" aria-label="Close">&times;</button>
+    <div class="lore">
+      <h2>World notes</h2>
+      ${(window.LORE || []).map(n => `
+        <section>
+          <h3>${esc(n.title)}</h3>
+          <p>${esc(n.text)}</p>
+        </section>`).join("")}
+    </div>`;
+  $("detail").showModal();
+}
+
 // ---- events ----
+$("lorebtn").addEventListener("click", openLore);
 $("grid").addEventListener("click", e => {
   const card = e.target.closest(".card");
   if (card) open(FIGS[+card.dataset.i]);
