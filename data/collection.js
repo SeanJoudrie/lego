@@ -129,7 +129,8 @@ window.COLLECTION = [
       "Afterwards they decided to meditate and grow as people over the thirty " +
       "years they've been alive, which is forever in a Lego lifespan.\n\n" +
       "Chill, ultimately. If you ever meet them you can just hang out. It's cool.",
-    provenance: "",
+    provenance:
+      "Not a kitbash. They come as a matched pair, as-is, from the same set.",
     tags: ["twin", "archangel", "jetpack", "status-quo", "pair"],
     images: ["images/the-twins-01.jpg"],
     acquired: "",
@@ -193,7 +194,10 @@ window.COLLECTION = [
       "When I was about eight we were moving into a house, and I found the " +
       "helmet behind where we were installing a microwave while the place was " +
       "still empty — left behind by the former tenants. I coincidentally had a " +
-      "spare black visor from a Rebel battle pack, and I gave it to him.",
+      "spare black visor from a Rebel battle pack, and I gave it to him.\n\n" +
+      "Parts: most of the figure comes from a Lego System set; the helmet itself " +
+      "is a racing helmet. Which is not a contradiction — that is what the piece " +
+      "is, and behind the microwave is where it came from. Fuller sourcing to come.",
     tags: ["mortal", "lightsaber", "green-saber", "force", "cybernetic", "found"],
     images: ["images/the-second-01.jpg", "images/the-second-02.jpg"],
     acquired: "",
@@ -442,8 +446,12 @@ window.COLLECTION = [
       "it doesn't have anything to do with the Force.\n\n" +
       "He's in charge of anti-terrorism, fortifications, and overall planning, " +
       "and he regularly volunteers to go fight whatever bad thing is on its way.",
-    provenance: "",
-    tags: ["veteran", "sniper", "police", "anti-terrorism", "has-apprentice"],
+    provenance:
+      "Brown headpiece from a Lego Indiana Jones pilot. The gold visor is from Lego " +
+      "Mars Mission. Face from Lego Space Police. Torso possibly Naboo. One further " +
+      "piece from a Star Wars Rebel battle pack.\n\n" +
+      "The gold visor I could not see in the photo is real — it is in there.",
+    tags: ["veteran", "sniper", "police", "anti-terrorism", "has-apprentice", "kitbash"],
     images: ["images/the-commissioner-01.jpg"],
     acquired: "",
     notes: "Needs a real name. You mentioned a gold visor - I can't see one in this shot, so check I photographed the right figure."
@@ -513,8 +521,10 @@ window.COLLECTION = [
       "repair his own skull. It healed perfectly, but it can't be taken off " +
       "right now.\n\n" +
       "Very friendly, and very funny.",
-    provenance: "",
-    tags: ["engineer", "aircraft", "prosthetic", "crash-survivor", "self-repaired"],
+    provenance:
+      "Hair from a Lego surfer. Face from Lego Power Miners. Torso from the Hoth " +
+      "rebels. The golden arm is from a Lego gladiator. Legs not yet identified.",
+    tags: ["engineer", "aircraft", "prosthetic", "crash-survivor", "self-repaired", "kitbash"],
     images: ["images/the-mechanic-01.jpg"],
     acquired: "",
     notes: "Placeholder name - 'The Engineer' was already taken by the Archangel."
@@ -811,7 +821,11 @@ window.COLLECTION = [
       "His modest appearance reflects who he is. He loves going for walks and " +
       "studying poetry, which isn't what you'd guess from looking at him. He " +
       "also loves sports.",
-    provenance: "",
+    provenance:
+      "Red cap from Lego City. Head from Indiana Jones. Torso from Lego Agents. " +
+      "Plain black legs.\n\n" +
+      "The silver arm is still unaccounted for — and it is the piece the whole " +
+      "cybernetics story hangs on.",
     tags: ["discarded", "ambassador", "explorer", "cybernetics", "poetry", "sports", "refugee"],
     images: ["images/the-discarded-01.jpg"],
     acquired: "",
@@ -905,11 +919,15 @@ window.COLLECTION = [
       "hope that they can take refuge in this world and this society. Some of " +
       "the Damaged are mean and don't trust other figures. He's really nice, " +
       "and he's loyal.",
-    provenance: "",
-    tags: ["damaged", "activist", "rescuer", "refugee", "loyal", "hand-painted"],
+    provenance:
+      "I never painted him. Someone was destroying these Lego figures, and I got " +
+      "them.\n\n" +
+      "The damage on him is real damage, done by somebody else. He is not a figure " +
+      "made to look like one of the Damaged — he is one.",
+    tags: ["damaged", "activist", "rescuer", "refugee", "loyal", "salvaged"],
     images: ["images/the-activist-01.jpg"],
     acquired: "",
-    notes: "\"The Damaged\" is what his people are called - he needs a name of his own. The most heavily hand-painted figure in the collection."
+    notes: "\"The Damaged\" is what his people are called - he needs a name of his own. Corrected: this figure was never painted by its owner. The damage is real, inflicted by someone else, and he was salvaged out of it."
   },
 
   {
@@ -1339,8 +1357,12 @@ window.COLLECTION = [
       "civilizations' weapons, their tactics, and what the world out there " +
       "actually looks like.\n\n" +
       "Very nice guy.",
-    provenance: "",
-    tags: ["damaged", "instructor", "combat", "foreign-tactics", "refugee", "mismatched-legs"],
+    provenance:
+      "Head wrap from Prince of Persia. Face is a damaged soldier from Indiana " +
+      "Jones. Body from Star Wars Endor rebels. Legs possibly from a collectible " +
+      "minifigure space villain.\n\n" +
+      "So the legs really did come off something else, exactly as the lore says.",
+    tags: ["damaged", "instructor", "combat", "foreign-tactics", "refugee", "mismatched-legs", "kitbash"],
     images: ["images/the-instructor-01.jpg"],
     acquired: "",
     notes: "Placeholder name. The damage is literal - the figure really is worn through and wearing two different legs, so the lore and the plastic agree again."

@@ -127,6 +127,8 @@ They're definitely a bit off. You're never quite on the same wavelength as them,
 
 Chill, ultimately. If you ever meet them you can just hang out. It's cool.
 
+*How it was got:* Not a kitbash. They come as a matched pair, as-is, from the same set.
+
 *Tags:* twin, archangel, jetpack, status-quo, pair
 
 ### 4. The Engineer — Helmet off
@@ -154,6 +156,8 @@ Super loyal to the creator — but more than that, they're best friends. They fo
 He's cybernetic, but it's magic cybernetic. He's not transhuman, he's living. A bit of a mystery, and he has a fuck ton of aura.
 
 *How it was got:* When I was about eight we were moving into a house, and I found the helmet behind where we were installing a microwave while the place was still empty — left behind by the former tenants. I coincidentally had a spare black visor from a Rebel battle pack, and I gave it to him.
+
+Parts: most of the figure comes from a Lego System set; the helmet itself is a racing helmet. Which is not a contradiction — that is what the piece is, and behind the microwave is where it came from. Fuller sourcing to come.
 
 *Connections:* Best friend and second to The First Man
 
@@ -263,7 +267,11 @@ A former sniper, and still a great shot. He's got a little old, so he has a prot
 
 He's in charge of anti-terrorism, fortifications, and overall planning, and he regularly volunteers to go fight whatever bad thing is on its way.
 
-*Tags:* veteran, sniper, police, anti-terrorism, has-apprentice
+*How it was got:* Brown headpiece from a Lego Indiana Jones pilot. The gold visor is from Lego Mars Mission. Face from Lego Space Police. Torso possibly Naboo. One further piece from a Star Wars Rebel battle pack.
+
+The gold visor I could not see in the photo is real — it is in there.
+
+*Tags:* veteran, sniper, police, anti-terrorism, has-apprentice, kitbash
 
 ### 14. Claws
 
@@ -302,7 +310,9 @@ He was damaged in a crash where his spaceship was shot down. He did the modifica
 
 Very friendly, and very funny.
 
-*Tags:* engineer, aircraft, prosthetic, crash-survivor, self-repaired
+*How it was got:* Hair from a Lego surfer. Face from Lego Power Miners. Torso from the Hoth rebels. The golden arm is from a Lego gladiator. Legs not yet identified.
+
+*Tags:* engineer, aircraft, prosthetic, crash-survivor, self-repaired, kitbash
 
 ### 16. Drake
 
@@ -424,6 +434,10 @@ His arm is the reason this society has cybernetics at all — they were able to 
 
 His modest appearance reflects who he is. He loves going for walks and studying poetry, which isn't what you'd guess from looking at him. He also loves sports.
 
+*How it was got:* Red cap from Lego City. Head from Indiana Jones. Torso from Lego Agents. Plain black legs.
+
+The silver arm is still unaccounted for — and it is the piece the whole cybernetics story hangs on.
+
 *Connections:* From the same world as The Mad Ticket Man
 
 *Tags:* discarded, ambassador, explorer, cybernetics, poetry, sports, refugee
@@ -470,7 +484,11 @@ His people are the Damaged. As he likes to put it: damaged, but not broken. Stro
 
 He's an outspoken rights activist for damaged figures everywhere, in the hope that they can take refuge in this world and this society. Some of the Damaged are mean and don't trust other figures. He's really nice, and he's loyal.
 
-*Tags:* damaged, activist, rescuer, refugee, loyal, hand-painted
+*How it was got:* I never painted him. Someone was destroying these Lego figures, and I got them.
+
+The damage on him is real damage, done by somebody else. He is not a figure made to look like one of the Damaged — he is one.
+
+*Tags:* damaged, activist, rescuer, refugee, loyal, salvaged
 
 ### 29. The Blue-Haired Ninja — Red robes
 
@@ -652,9 +670,13 @@ He came out of a different civilization with real combat experience, and he is h
 
 Very nice guy.
 
+*How it was got:* Head wrap from Prince of Persia. Face is a damaged soldier from Indiana Jones. Body from Star Wars Endor rebels. Legs possibly from a collectible minifigure space villain.
+
+So the legs really did come off something else, exactly as the lore says.
+
 *Connections:* Also one of the Damaged, like The Activist
 
-*Tags:* damaged, instructor, combat, foreign-tactics, refugee, mismatched-legs
+*Tags:* damaged, instructor, combat, foreign-tactics, refugee, mismatched-legs, kitbash
 
 ---
 
