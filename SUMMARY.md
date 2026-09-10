@@ -277,7 +277,20 @@ After that he was given all kinds of royal awards, and he reluctantly accepted h
 
 Really cool guy.
 
-*Tags:* clone, energy-sword, decorated, veteran, commander
+*How it was got:* There is not a single piece on him that comes from the same figure. The only matching pair is the arms, because arms come in twos.
+
+Helmet — Captain Rex, Star Wars
+Face underneath — a damaged Anakin Skywalker head
+Epaulette — Lego Pirates
+Torso — Star Wars Snowtrooper
+Arms — Lego City, blue
+Hands — black, off some other figure entirely
+Waist — blue, off a pair of blue pants
+Legs — 501st clone trooper
+The blue wrap around him — Bionicle
+Accessories — Halo
+
+*Tags:* clone, energy-sword, decorated, veteran, commander, kitbash
 
 ### 15. The Mechanic
 

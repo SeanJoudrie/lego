@@ -473,11 +473,23 @@ window.COLLECTION = [
       "all the clone armies now, and that's why he's decorated like that — so " +
       "everyone knows.\n\n" +
       "Really cool guy.",
-    provenance: "",
-    tags: ["clone", "energy-sword", "decorated", "veteran", "commander"],
+    provenance:
+      "There is not a single piece on him that comes from the same figure. The " +
+      "only matching pair is the arms, because arms come in twos.\n\n" +
+      "Helmet — Captain Rex, Star Wars\n" +
+      "Face underneath — a damaged Anakin Skywalker head\n" +
+      "Epaulette — Lego Pirates\n" +
+      "Torso — Star Wars Snowtrooper\n" +
+      "Arms — Lego City, blue\n" +
+      "Hands — black, off some other figure entirely\n" +
+      "Waist — blue, off a pair of blue pants\n" +
+      "Legs — 501st clone trooper\n" +
+      "The blue wrap around him — Bionicle\n" +
+      "Accessories — Halo",
+    tags: ["clone", "energy-sword", "decorated", "veteran", "commander", "kitbash"],
     images: ["images/claws-01.jpg"],
     acquired: "",
-    notes: "Built on a Star Wars clone trooper with a custom energy sword and shield. Filed as custom because Claws is your character, not the Star Wars one - tell me if you'd rather sort by what the figure is made of."
+    notes: "The most heavily kitbashed figure in the collection - nine different sources in one minifigure. Filed as custom, which in his case is not even a judgement call."
   },
 
   {
