@@ -13,6 +13,10 @@
    rank        What they ARE. Their nature.           see RANKS below
    role        What they DO. Their job or office.     "Archangel", "King"
    location    Where they're based.                   "Lego City"
+   relations   Links to other entries, shown as clickable chips:
+               [{ to: "armstrong", label: "Uncle" }]  — `to` is an id.
+               A link to an id that doesn't exist yet is skipped, so you
+               can write one before the other figure is photographed.
    rating      1 to 5. Leave 0 for unrated.
    background  In-world lore. The story of the character.
    provenance  Real-world story. Where the figure actually came from.
@@ -45,6 +49,10 @@ window.COLLECTION = [
     rank: "The First Man",
     role: "",
     location: "",
+    relations: [
+      { to: "the-green-demigod", label: "Took as Padawan" },
+      { to: "the-second", label: "Best friend" },
+    ],
     rating: 0,
     background:
       "He has no name. He is known only as the First Man — the first man to " +
@@ -78,6 +86,11 @@ window.COLLECTION = [
     rank: "Cosmic Deity",
     role: "Queen",
     location: "The Royal Palace",
+    relations: [
+      { to: "the-prince", label: "Married to" },
+      { to: "the-royal-sons", label: "Mother of" },
+      { to: "the-royal-daughter", label: "Mother of" },
+    ],
     rating: 0,
     background:
       "Another cosmic deity. She can influence space, and through that, some " +
@@ -104,6 +117,9 @@ window.COLLECTION = [
     rank: "Demigod",
     role: "",
     location: "",
+    relations: [
+      { to: "the-first-man", label: "Padawan of" },
+    ],
     rating: 0,
     background:
       "Just cool as fuck. Extremely swag, extremely fashionable. He likes " +
@@ -159,6 +175,9 @@ window.COLLECTION = [
     rank: "Mortal",
     role: "Second in Command",
     location: "",
+    relations: [
+      { to: "the-first-man", label: "Best friend and second to" },
+    ],
     rating: 0,
     background:
       "The second in command, and he truly holds that status. He dual-wields " +
@@ -222,6 +241,13 @@ window.COLLECTION = [
     rank: "",
     role: "King",
     location: "The Royal Palace",
+    relations: [
+      { to: "the-space-princess", label: "Married to" },
+      { to: "the-royal-sons", label: "Father of" },
+      { to: "the-royal-daughter", label: "Father of" },
+      { to: "the-outcast-prince", label: "Brother of" },
+      { to: "the-palace-chief", label: "Pushed into the Senate by" },
+    ],
     rating: 0,
     background:
       "He is known as the King right now, but he still refers to himself as a " +
@@ -257,6 +283,12 @@ window.COLLECTION = [
     rank: "",
     role: "Royal Child",
     location: "The Royal Palace",
+    relations: [
+      { to: "the-prince", label: "Sons of" },
+      { to: "the-space-princess", label: "Sons of" },
+      { to: "the-royal-daughter", label: "Brothers of" },
+      { to: "brute", label: "Idolise" },
+    ],
     rating: 0,
     background:
       "The Prince's two sons. They both wear blue, just like their dad — it is " +
@@ -281,6 +313,11 @@ window.COLLECTION = [
     rank: "",
     role: "Royal Child",
     location: "The Royal Palace",
+    relations: [
+      { to: "the-prince", label: "Daughter of" },
+      { to: "the-space-princess", label: "Daughter of" },
+      { to: "the-royal-sons", label: "Sister of" },
+    ],
     rating: 0,
     background:
       "The Prince's daughter. Blonde, very hyperactive, and every bit as " +
@@ -336,6 +373,9 @@ window.COLLECTION = [
     rank: "",
     role: "Head of Palace Control",
     location: "The Royal Palace",
+    relations: [
+      { to: "the-prince", label: "Pushed him into the Senate" },
+    ],
     rating: 0,
     background:
       "Head of control of the royal palace. A former veteran, still currently " +
@@ -360,6 +400,10 @@ window.COLLECTION = [
     rank: "",
     role: "Elected King",
     location: "The Sand Planet",
+    relations: [
+      { to: "the-prince", label: "Brother of" },
+      { to: "kaz", label: "Father of" },
+    ],
     rating: 0,
     background:
       "The Prince's brother. He was always a bit of an outcast, but never in a " +
@@ -391,6 +435,9 @@ window.COLLECTION = [
     rank: "",
     role: "Bounty Hunter",
     location: "The Sand Planet",
+    relations: [
+      { to: "the-outcast-prince", label: "Son of" },
+    ],
     rating: 0,
     background:
       "The Outcast Prince's son, inspired by his dad from growing up in those " +
@@ -526,6 +573,10 @@ window.COLLECTION = [
     rank: "",
     role: "Head of Royal Intelligence",
     location: "Lego City",
+    relations: [
+      { to: "heavy", label: "Uncle of" },
+      { to: "the-deputy", label: "Covered by" },
+    ],
     rating: 0,
     background:
       "Head of the Royal intelligence agency, with the whole thing under him. " +
@@ -554,6 +605,10 @@ window.COLLECTION = [
     rank: "",
     role: "Secretary of War",
     location: "",
+    relations: [
+      { to: "heavy", label: "Trained" },
+      { to: "the-royal-sons", label: "Idolised by" },
+    ],
     rating: 0,
     background:
       "Despite the rugged demeanor, he's actually a very nice guy. Very loud, " +
@@ -607,6 +662,9 @@ window.COLLECTION = [
     rank: "",
     role: "Royal Intelligence Deputy",
     location: "Lego City",
+    relations: [
+      { to: "armstrong", label: "Stands in for" },
+    ],
     rating: 0,
     background:
       "Armstrong's replacement. Whenever Armstrong is off planet, or busy, or " +
@@ -655,6 +713,9 @@ window.COLLECTION = [
     rank: "",
     role: "Captain, Verdauf Squadron",
     location: "",
+    relations: [
+      { to: "the-younger-brother", label: "Brother of" },
+    ],
     rating: 0,
     background:
       "He leads the Verdauf Squadron, the most elite unit there is — and an " +
@@ -689,6 +750,9 @@ window.COLLECTION = [
     rank: "",
     role: "Soldier",
     location: "",
+    relations: [
+      { to: "the-green-captain", label: "Brother of" },
+    ],
     rating: 0,
     background:
       "The Green Captain's younger brother. The white, black and yellow armor " +
@@ -717,6 +781,9 @@ window.COLLECTION = [
     rank: "",
     role: "Ambassador",
     location: "",
+    relations: [
+      { to: "the-mad-ticket-man", label: "From the same world as" },
+    ],
     rating: 0,
     background:
       "He is one of the Discarded — made as a throwaway character in a " +
@@ -749,6 +816,9 @@ window.COLLECTION = [
     rank: "",
     role: "Gatekeeper",
     location: "The Royal Palace",
+    relations: [
+      { to: "the-discarded", label: "From the same world as" },
+    ],
     rating: 0,
     background:
       "Very grumpy, very grouchy, and widely considered an asshole. He would " +
@@ -777,6 +847,10 @@ window.COLLECTION = [
     rank: "",
     role: "Honor Guard",
     location: "The Royal Palace",
+    relations: [
+      { to: "armstrong", label: "Nephew of" },
+      { to: "brute", label: "Trained by" },
+    ],
     rating: 0,
     background:
       "Young, friendly and useful — no more than nineteen. Eager and " +
@@ -826,6 +900,127 @@ window.COLLECTION = [
     notes: "\"The Damaged\" is what his people are called - he needs a name of his own. The most heavily hand-painted figure in the collection."
   },
 
+  {
+    id: "the-blue-haired-ninja",
+    name: "The Blue-Haired Ninja",
+    variant: "Red robes",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja",
+    location: "",
+    relations: [
+      { to: "the-samurai", label: "Studied under" },
+      { to: "the-red-ninja", label: "Studied under" },
+      { to: "the-street-ninja", label: "Rival of" },
+    ],
+    rating: 0,
+    background:
+      "The best ninja there is. He's known for carrying the golden sword, the " +
+      "sharpest sword in existence — in some cases almost a lightsaber, given " +
+      "how strong it can be, with the advantage of being completely silent.\n\n" +
+      "He started out raw, and the Samurai took him for just a young cocky kid " +
+      "at first. But he studied hard, and once the Samurai saw what he actually " +
+      "had, he trained him very well. After learning combat under the Samurai, " +
+      "he studied under the Red Ninja too — so he ended up with both sides of " +
+      "it.\n\n" +
+      "For a time he and the Street Ninja were rivals. They never actually " +
+      "hated each other. He did ultimately best him.\n\n" +
+      "Being the best in the world means a lot of high-profile missions, and " +
+      "not much time at home.",
+    provenance: "",
+    tags: ["ninja", "golden-sword", "silent", "prodigy", "rival"],
+    images: ["images/the-blue-haired-ninja-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. You called him the red ninja with the blue hair - he wears red robes, but he is not The Red Ninja, who is his teacher."
+  },
+
+  {
+    id: "the-samurai",
+    name: "The Samurai",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Shogun",
+    location: "",
+    relations: [
+      { to: "the-blue-haired-ninja", label: "Taught" },
+    ],
+    rating: 0,
+    background:
+      "A shogun, with a modest but very strict kingdom — and he taught the same " +
+      "way he ruled.\n\n" +
+      "He was hard on the blue-haired ninja, having written him off initially " +
+      "as a young cocky kid. Then he saw what the kid actually had, and trained " +
+      "him very well.",
+    provenance: "",
+    tags: ["samurai", "shogun", "strict", "teacher"],
+    images: ["images/the-samurai-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. His kingdom doesn't have one yet either."
+  },
+
+  {
+    id: "the-red-ninja",
+    name: "The Red Ninja",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja",
+    location: "",
+    relations: [
+      { to: "the-blue-haired-ninja", label: "Taught" },
+      { to: "the-street-ninja", label: "Taught" },
+    ],
+    rating: 0,
+    background:
+      "Teacher to both of them. He took the blue-haired ninja after the Samurai " +
+      "had finished with him, which is how that one came away with both sides " +
+      "of the craft, and he trained the Street Ninja as well.\n\n" +
+      "For a time he was tempted by evil. He decided not to do evil.",
+    provenance: "",
+    tags: ["ninja", "teacher", "tempted", "chose-good"],
+    images: ["images/the-red-ninja-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-street-ninja",
+    name: "The Street Ninja",
+    variant: "Backwards cap",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja",
+    location: "",
+    relations: [
+      { to: "the-red-ninja", label: "Studied under" },
+      { to: "the-blue-haired-ninja", label: "Rival of" },
+    ],
+    rating: 0,
+    background:
+      "Raised in the streets, and trained by the Red Ninja. He's superb with " +
+      "nunchucks and fights akimbo, a sword in each hand.\n\n" +
+      "For a time he and the blue-haired ninja were rivals. They never actually " +
+      "hated each other, and he was ultimately bested.\n\n" +
+      "He didn't mind. Being second meant he wasn't the one shipped out on " +
+      "every high-profile mission — which left him free to protect his own home " +
+      "and his own city, and to keep an eye on things at ground level. He liked " +
+      "that a great deal more.",
+    provenance: "",
+    tags: ["ninja", "streets", "nunchucks", "akimbo", "rival", "homebody"],
+    images: ["images/the-street-ninja-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
@@ -837,6 +1032,7 @@ window.COLLECTION = [
     rank: "",
     role: "",
     location: "",
+    relations: [],
     rating: 0,
     background: "",
     provenance: "",

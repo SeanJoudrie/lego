@@ -56,6 +56,23 @@ has no figure to attach to at all, it belongs here.
 },
 ```
 
+### Connections between figures
+
+`relations` links an entry to other entries, and they render as clickable chips
+at the bottom of the write-up — click one and you jump to that figure.
+
+```js
+relations: [
+  { to: "armstrong", label: "Nephew of" },
+  { to: "brute",     label: "Trained by" }
+],
+```
+
+`to` is another entry's `id`. A link pointing at an id that doesn't exist yet is
+skipped rather than breaking, so you can write "son of X" before X is
+photographed. Links are one-way in the data — put a matching one on the other
+figure if you want it to point back.
+
 ### Several photos of one character
 
 Add them to `images`. The first is the cover shown in the grid. When it matters
