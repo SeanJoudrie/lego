@@ -64,10 +64,11 @@
   .card:hover { border-color:var(--accent); transform:translateY(-2px); }
   .card:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
   .shot {
-    aspect-ratio:3/4; background:var(--panel-2); position:relative;
+    aspect-ratio:4/5; background:var(--panel-2); position:relative;
     display:flex; align-items:center; justify-content:center;
   }
-  .shot img { width:100%; height:100%; object-fit:cover; display:block; }
+  .shot img { position:absolute; inset:0; width:100%; height:100%;
+            object-fit:contain; display:block; }
   .shot .empty { color:var(--faint); font-size:12px; letter-spacing:.08em; }
   .flag {
     position:absolute; top:8px; left:8px; width:9px; height:9px; border-radius:50%;
@@ -102,7 +103,7 @@
   .detail { display:grid; grid-template-columns:300px 1fr; gap:0; }
   .gallery { background:var(--panel-2); padding:18px; }
   .gallery .main { width:100%; border-radius:8px; display:block; background:#0d0f14; }
-  .gallery .main.empty { aspect-ratio:3/4; display:flex; align-items:center;
+  .gallery .main.empty { aspect-ratio:4/5; display:flex; align-items:center;
                          justify-content:center; color:var(--faint); font-size:12px; }
   .thumbs { display:flex; gap:6px; margin-top:8px; flex-wrap:wrap; }
   .thumbs img { width:48px; height:48px; object-fit:cover; border-radius:5px;
@@ -121,6 +122,11 @@
   .info .stars { font-size:15px; margin-bottom:16px; }
   .bg { color:#c8cddb; white-space:pre-wrap; margin-bottom:18px; }
   .bg:empty { display:none; }
+  .badge.rank { color:#7fe0a8; border-color:rgba(127,224,168,.4); }
+  .prov { border-left:2px solid var(--line); padding-left:12px; margin-bottom:18px;
+          color:var(--dim); font-size:13.5px; white-space:pre-wrap; }
+  .prov h4 { margin:0 0 3px; font-size:11px; letter-spacing:.09em; text-transform:uppercase;
+             color:var(--faint); font-weight:600; }
   .facts { border-top:1px solid var(--line); padding-top:14px; font-size:13px; color:var(--dim); }
   .facts div { margin-bottom:5px; }
   .facts b { color:var(--text); font-weight:500; }
@@ -156,8 +162,10 @@
       <button data-v="branded">Branded</button>
       <button data-v="custom">Custom</button>
     </div>
+    <select id="rank"><option value="all">All ranks</option></select>
     <select id="theme"><option value="all">All themes</option></select>
     <select id="sort">
+      <option value="rank">Rank</option>
       <option value="rating">Highest rated</option>
       <option value="name">Name A–Z</option>
       <option value="theme">Theme</option>
@@ -175,14 +183,26 @@
 <script src="data/collection.js"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
-const state = { q:"", faction:"all", origin:"all", theme:"all", sort:"rating" };
+const state = { q:"", faction:"all", origin:"all", theme:"all", rank:"all", sort:"rank" };
+const RANKS = window.RANKS || [];
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
 const stars = n => {
-  const r = Math.max(0, Math.min(5, Math.round(n || 0)));
+  if (!n) return `<span class="off">unrated</span>`;   // don't fake a rating
+  const r = Math.max(0, Math.min(5, Math.round(n)));
   return "★".repeat(r) + `<span class="off">${"★".repeat(5 - r)}</span>`;
 };
+
+// rank dropdown, ordered by window.RANKS (not alphabetically)
+const usedRanks = new Set(FIGS.map(f => f.rank).filter(Boolean));
+RANKS.filter(r => usedRanks.has(r))
+  .concat([...usedRanks].filter(r => !RANKS.includes(r)).sort())
+  .forEach(r => {
+    const o = document.createElement("option");
+    o.value = r; o.textContent = r;
+    $("rank").append(o);
+  });
 
 // theme dropdown
 [...new Set(FIGS.map(f => f.theme).filter(Boolean))].sort().forEach(t => {
@@ -195,17 +215,21 @@ function matches(f) {
   if (state.faction !== "all" && f.faction !== state.faction) return false;
   if (state.origin  !== "all" && f.origin  !== state.origin)  return false;
   if (state.theme   !== "all" && f.theme   !== state.theme)   return false;
+  if (state.rank    !== "all" && f.rank    !== state.rank)    return false;
   if (state.q) {
-    const hay = [f.name, f.variant, f.theme, f.background, f.notes, (f.tags || []).join(" ")]
+    const hay = [f.name, f.variant, f.theme, f.rank, f.background, f.provenance, f.notes, (f.tags || []).join(" ")]
       .join(" ").toLowerCase();
     if (!hay.includes(state.q)) return false;
   }
   return true;
 }
 
+const rankPos = f => { const i = RANKS.indexOf(f.rank); return i < 0 ? 999 : i; };
+
 const SORTS = {
   rating: (a, b) => (b.rating || 0) - (a.rating || 0) || a.name.localeCompare(b.name),
   name:   (a, b) => a.name.localeCompare(b.name),
+  rank:   (a, b) => rankPos(a) - rankPos(b) || a.name.localeCompare(b.name),
   theme:  (a, b) => (a.theme || "~").localeCompare(b.theme || "~") || a.name.localeCompare(b.name),
   added:  (a, b) => b._i - a._i
 };
@@ -231,7 +255,7 @@ function render() {
         <h3>${esc(f.name)}</h3>
         ${f.variant ? `<div class="variant">${esc(f.variant)}</div>` : ``}
         <div class="row">
-          <span class="theme">${esc(f.theme || "")}</span>
+          <span class="theme">${esc(f.rank || f.theme || "")}</span>
           <span class="stars">${stars(f.rating)}</span>
         </div>
       </div>
@@ -258,11 +282,13 @@ function open(f) {
         <div class="badges">
           <span class="badge ${esc(f.faction)}">${esc((f.faction || "").toUpperCase())}</span>
           <span class="badge ${f.origin === "custom" ? "custom" : ""}">${esc((f.origin || "").toUpperCase())}</span>
+          ${f.rank ? `<span class="badge rank">${esc(f.rank)}</span>` : ``}
           ${f.theme ? `<span class="badge">${esc(f.theme)}</span>` : ``}
           ${(f.tags || []).map(t => `<span class="badge">${esc(t)}</span>`).join("")}
         </div>
         <div class="stars">${stars(f.rating)}</div>
         <div class="bg">${esc(f.background || "")}</div>
+        ${f.provenance ? `<div class="prov"><h4>How I got it</h4>${esc(f.provenance)}</div>` : ``}
         ${(f.acquired || f.notes) ? `<div class="facts">
           ${f.acquired ? `<div><b>Acquired</b> — ${esc(f.acquired)}</div>` : ``}
           ${f.notes ? `<div><b>Notes</b> — ${esc(f.notes)}</div>` : ``}
@@ -289,6 +315,7 @@ $("detail").addEventListener("click", e => {
 
 $("q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
 $("theme").addEventListener("change", e => { state.theme = e.target.value; render(); });
+$("rank").addEventListener("change", e => { state.rank = e.target.value; render(); });
 $("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
 
 ["faction", "origin"].forEach(key => {
