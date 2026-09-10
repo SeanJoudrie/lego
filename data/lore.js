@@ -22,6 +22,19 @@ window.LORE = [
   },
 
   {
+    title: "Crossing between worlds",
+    text:
+      "There is at least one known route in. A trickster god pilots an " +
+      "interdimensional boat, and he goes out to other worlds to collect the " +
+      "lost and the abandoned.\n\n" +
+      "The method is a dock. Someone being abused in their own civilization " +
+      "goes and waits on one, and he arrives and carries them across. Then he " +
+      "leaves them to make their own way here.\n\n" +
+      "Whether this is how the Discarded and the Damaged arrived is not yet " +
+      "settled — but it is the only crossing anyone has described."
+  },
+
+  {
     title: "People are made of pieces",
     text:
       "It is known, in-universe, that people can be made out of different " +
@@ -87,6 +100,13 @@ window.LORE = [
       "then left that life behind.\n\n" +
       "Aliens are ordinary enough now that one of them runs Royal Intelligence " +
       "when Armstrong is away."
+  },
+
+  {
+    title: "The Royal Space Academy",
+    text:
+      "Where pilots come up. The Flight Director rose through its ranks from " +
+      "test pilot to running every launch that goes out."
   },
 
   {

@@ -1156,6 +1156,124 @@ window.COLLECTION = [
     notes: "Neither has a name yet."
   },
 
+  {
+    id: "the-pineapple-ninja",
+    name: "The Pineapple Ninja",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja Master",
+    location: "The Mountain Dojo",
+    relations: [],
+    rating: 0,
+    background:
+      "A ninja master who is, literally, made of pineapple. You might wonder " +
+      "how a pineapple head is possible. Don't worry about it. He speaks " +
+      "without a mouth and that works too.\n\n" +
+      "He's very friendly. The only problem with him is that he lives " +
+      "inconveniently far away — he very much likes his dojo on top of the " +
+      "mountain and has no intention of moving it.\n\n" +
+      "If you ever need a ninja, he will be there to help. And then he will " +
+      "offer to have you back at his place for tea, because he is extremely " +
+      "hospitable.",
+    provenance: "",
+    tags: ["ninja", "pineapple", "hospitable", "mountain", "dojo", "no-mouth"],
+    images: ["images/the-pineapple-ninja-01.jpg"],
+    acquired: "",
+    notes: ""
+  },
+
+  {
+    id: "the-repair-crew",
+    name: "The Repair Crew",
+    variant: "Space engineers",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Engineer",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The space engineer crew. They don't really design things — they fix " +
+      "them. A squad that repairs everything after the battles are over, and " +
+      "works out moderate upgrades while they're in there.\n\n" +
+      "The one with the black hair is in charge of the team. He built a small " +
+      "twelve-foot red mech, bionic enough that they could pilot it — lifting " +
+      "gears, moving heavy things far faster than they otherwise could. He's " +
+      "cool.",
+    provenance: "",
+    tags: ["engineer", "space", "repair", "crew", "mech", "upgrades", "group"],
+    images: [
+      { src: "images/the-repair-crew-01.jpg", caption: "The crew" },
+      { src: "images/the-repair-crew-02.jpg", caption: "The chief, who built the mech" }
+    ],
+    acquired: "",
+    notes: "One box because the chief is in both photos. Say so if you'd rather he had his own entry - he's done enough to deserve one."
+  },
+
+  {
+    id: "the-flight-director",
+    name: "The Flight Director",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Launch Director",
+    location: "The Royal Space Academy",
+    relations: [],
+    rating: 0,
+    background:
+      "He runs the launches. Any big ship going up, any engineering project of " +
+      "size — he's the overseer, and he's in charge of the entire operation " +
+      "now.\n\n" +
+      "He used to be a pilot himself, testing the things other people had " +
+      "built, and he rose through the ranks of the Royal Space Academy from " +
+      "there. The big red jumpsuit comes with the job.\n\n" +
+      "When somebody up there says they have a problem, he's the one on the " +
+      "other end of it.",
+    provenance: "",
+    tags: ["space", "launch", "director", "former-pilot", "royal-space-academy"],
+    images: ["images/the-flight-director-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-ferryman",
+    name: "The Ferryman",
+    variant: "Top hat",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Cosmic Deity",
+    role: "Ferryman",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A trickster god. His origin is a mystery, he is very playful, and he " +
+      "will absolutely play pranks on you. He can do all kinds of weird magic. " +
+      "He's an odd guy, and he is fundamentally good.\n\n" +
+      "What he actually does is bring people here. He pilots an " +
+      "interdimensional boat, and he goes and collects the lost and the " +
+      "abandoned out of other worlds — by very strange means, but everyone he " +
+      "brings across is thankful for it.\n\n" +
+      "If someone is being abused in their own civilization, they can go and " +
+      "wait on a dock. He will arrive, pick them up, and carry them to safety " +
+      "here. Then he leaves them to it. Some people just want a boat ride. Some " +
+      "people just want to leave their city forever. He'll take either.",
+    provenance: "",
+    tags: ["trickster", "god", "boat", "rescue", "magic", "interdimensional", "playful"],
+    images: ["images/the-ferryman-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name - you called him a trickster god, and the boat is what he's actually known for."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
