@@ -1253,7 +1253,9 @@ window.COLLECTION = [
     rank: "Cosmic Deity",
     role: "Ferryman",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-tricksters-apprentice", label: "Took on" },
+    ],
     rating: 0,
     background:
       "A trickster god. His origin is a mystery, he is very playful, and he " +
@@ -1272,6 +1274,64 @@ window.COLLECTION = [
     images: ["images/the-ferryman-01.jpg"],
     acquired: "",
     notes: "Placeholder name - you called him a trickster god, and the boat is what he's actually known for."
+  },
+
+  {
+    id: "the-tricksters-apprentice",
+    name: "The Trickster's Apprentice",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Apprentice",
+    location: "",
+    relations: [
+      { to: "the-ferryman", label: "Apprentice to" },
+    ],
+    rating: 0,
+    background:
+      "The trickster god's protege — generally assisting him, and genuinely " +
+      "useful about it. He's also a bit of the comic relief, and he helps with " +
+      "the pranks.\n\n" +
+      "His origins are a little unknown too. Some people think he's the " +
+      "trickster's son. Some people think he was just a fan who hung around " +
+      "long enough that he eventually picked up some magical powers of his own.",
+    provenance: "",
+    tags: ["trickster", "apprentice", "pranks", "comic-relief", "magic", "unknown-origin"],
+    images: ["images/the-tricksters-apprentice-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Whether he's the Ferryman's son is deliberately left open, because you left it open."
+  },
+
+  {
+    id: "the-instructor",
+    name: "The Instructor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Combat Instructor",
+    location: "",
+    relations: [
+      { to: "the-activist", label: "Also one of the Damaged, like" },
+    ],
+    rating: 0,
+    background:
+      "Another of the Damaged. He is badly worn, and you can see it — the new " +
+      "society tried to fit him with a new pair of legs, and the join rips " +
+      "straight into his torso.\n\n" +
+      "He came out of a different civilization with real combat experience, and " +
+      "he is happy to teach and trade it. So he does: how to fight with other " +
+      "civilizations' weapons, their tactics, and what the world out there " +
+      "actually looks like.\n\n" +
+      "Very nice guy.",
+    provenance: "",
+    tags: ["damaged", "instructor", "combat", "foreign-tactics", "refugee", "mismatched-legs"],
+    images: ["images/the-instructor-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The damage is literal - the figure really is worn through and wearing two different legs, so the lore and the plastic agree again."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

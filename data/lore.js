@@ -59,7 +59,9 @@ window.LORE = [
       "of them got out; some of those went back for the others.\n\n" +
       "As they say it themselves: damaged, but not broken. Stronger than ever.\n\n" +
       "Some of the Damaged are mean, and don't trust other figures. Given where " +
-      "they came from, that's fair."
+      "they came from, that's fair.\n\n" +
+      "This society tries to repair them when they arrive — new legs, new " +
+      "parts. It doesn't always take cleanly, and the joins show."
   },
 
   {
