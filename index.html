@@ -13,6 +13,7 @@
     --radius:12px;
   }
   * { box-sizing:border-box; }
+  [hidden] { display:none !important; }   /* beats .controls{display:flex} */
   body {
     margin:0; background:var(--bg); color:var(--text);
     font:15px/1.55 ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -35,13 +36,25 @@
   .lore p { margin:0; color:#c8cddb; white-space:pre-wrap; font-size:14px; }
 
   /* ---------- controls ---------- */
+  .bar { display:flex; gap:10px; align-items:center; margin-bottom:12px; }
+  .toggle {
+    flex:0 0 auto; background:var(--panel); border:1px solid var(--line); color:var(--dim);
+    border-radius:8px; padding:9px 14px; font:inherit; font-size:13px; cursor:pointer;
+    white-space:nowrap;
+  }
+  .toggle:hover { color:var(--text); border-color:var(--accent); }
+  .toggle[aria-expanded="true"] { background:var(--panel-2); color:var(--text); }
+  .toggle.on { border-color:var(--accent); color:var(--accent); }
+  .clear { background:none; border:0; color:var(--faint); font:inherit; font-size:12px;
+           cursor:pointer; text-decoration:underline; padding:8px 4px; }
+  .clear:hover { color:var(--text); }
   .controls {
     display:flex; gap:10px; flex-wrap:wrap; align-items:center;
     background:var(--panel); border:1px solid var(--line);
     border-radius:var(--radius); padding:12px; margin-bottom:22px;
   }
   .search {
-    flex:1 1 220px; min-width:0;
+    flex:1 1 auto; min-width:0;
     background:var(--panel-2); border:1px solid var(--line); color:var(--text);
     border-radius:8px; padding:8px 11px; font:inherit; font-size:14px;
   }
@@ -166,7 +179,17 @@
 
   @media (max-width:640px) {
     .detail { grid-template-columns:1fr; }
-    .grid { grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); gap:12px; }
+    .grid { grid-template-columns:repeat(3, 1fr); gap:9px; }
+    .wrap { padding:20px 16px 60px; }
+    h1 { font-size:21px; }
+    .meta { padding:8px 9px 10px; }
+    .meta h3 { font-size:12.5px; line-height:1.2; }
+    .card .variant { font-size:10.5px; }
+    .row { margin-top:6px; gap:4px; }
+    .theme { font-size:9px; letter-spacing:.04em; }
+    .card .stars { font-size:9.5px; letter-spacing:0; }
+    .custom-tag { font-size:8.5px; padding:2px 5px; }
+    .card .stars .off { display:none; }   /* hide the "unrated" filler */
   }
 </style>
 </head>
@@ -179,8 +202,12 @@
     <button class="lorebtn" id="lorebtn">World notes</button>
   </header>
 
-  <div class="controls">
+  <div class="bar">
     <input class="search" id="q" type="search" placeholder="Search name, background, tags…">
+    <button class="toggle" id="filtertoggle" aria-expanded="false" aria-controls="filters">Filters</button>
+  </div>
+
+  <div class="controls" id="filters" hidden>
     <div class="seg" id="faction">
       <button data-v="all" aria-pressed="true">All</button>
       <button data-v="good">Good</button>
@@ -197,13 +224,15 @@
     <select id="location"><option value="all">Everywhere</option></select>
     <select id="theme"><option value="all">All themes</option></select>
     <select id="sort">
+      <option value="order">Order I added them</option>
       <option value="rank">Rank</option>
       <option value="role">Role</option>
       <option value="rating">Highest rated</option>
       <option value="name">Name A–Z</option>
       <option value="theme">Theme</option>
-      <option value="added">Recently added</option>
+      <option value="added">Newest first</option>
     </select>
+    <button class="clear" id="clearfilters" hidden>Clear</button>
   </div>
 
   <div class="grid" id="grid"></div>
@@ -217,7 +246,7 @@
 <script src="data/lore.js"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
-const state = { q:"", faction:"all", origin:"all", theme:"all", rank:"all", role:"all", location:"all", sort:"rank" };
+const state = { q:"", faction:"all", origin:"all", theme:"all", rank:"all", role:"all", location:"all", sort:"order" };
 const RANKS = window.RANKS || [];
 
 const $ = id => document.getElementById(id);
@@ -271,6 +300,7 @@ const rankPos = f => { const i = RANKS.indexOf(f.rank); return i < 0 ? 999 : i; 
 const SORTS = {
   rating: (a, b) => (b.rating || 0) - (a.rating || 0) || a.name.localeCompare(b.name),
   name:   (a, b) => a.name.localeCompare(b.name),
+  order:  (a, b) => a._i - b._i,
   rank:   (a, b) => rankPos(a) - rankPos(b)
                     || (a.role || "~").localeCompare(b.role || "~")
                     || a.name.localeCompare(b.name),
@@ -279,6 +309,16 @@ const SORTS = {
   added:  (a, b) => b._i - a._i
 };
 
+const FILTER_KEYS = ["faction", "origin", "rank", "role", "location", "theme"];
+
+function syncFilterUI() {
+  const n = FILTER_KEYS.filter(k => state[k] !== "all").length;
+  const btn = $("filtertoggle");
+  btn.textContent = n ? `Filters · ${n}` : "Filters";
+  btn.classList.toggle("on", n > 0);       // stays visible when the panel is shut
+  $("clearfilters").hidden = n === 0;
+}
+
 function render() {
   const list = FIGS.filter(matches).sort(SORTS[state.sort]);
   $("count").textContent =
@@ -286,6 +326,8 @@ function render() {
       ? `${FIGS.length} figure${FIGS.length === 1 ? "" : "s"}`
       : `${list.length} of ${FIGS.length}`;
   $("none").hidden = list.length > 0;
+
+  syncFilterUI();
 
   $("grid").innerHTML = list.map(f => {
     const cover = photos(f)[0];
@@ -427,6 +469,20 @@ $("sort").addEventListener("change", e => { state.sort = e.target.value; render(
     [...$(key).children].forEach(c => c.setAttribute("aria-pressed", c === b));
     render();
   });
+});
+
+$("filtertoggle").addEventListener("click", () => {
+  const open = $("filters").hidden;
+  $("filters").hidden = !open;
+  $("filtertoggle").setAttribute("aria-expanded", String(open));
+});
+
+$("clearfilters").addEventListener("click", () => {
+  FILTER_KEYS.forEach(k => state[k] = "all");
+  ["rank", "role", "location", "theme"].forEach(id => $(id).value = "all");
+  ["faction", "origin"].forEach(id =>
+    [...$(id).children].forEach((c, i) => c.setAttribute("aria-pressed", String(i === 0))));
+  render();
 });
 
 render();

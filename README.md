@@ -12,10 +12,14 @@ page through the photos inside it with the arrows, the arrow keys, or the
 thumbnails. Figures that come as a set (the twins, the orphans) are one box
 too. No character or group appears in the grid twice.
 
-Filter by faction (good / bad / neutral), custom vs. branded, rank, role,
-location, or theme. Sort by rank, role, rating, name, theme, or most recently
-added. The search box covers everything written down. Click any figure for the
-full write-up.
+Figures show in the order they were added. The search box is always there; the
+filters and sorting live behind the **Filters** button, which counts and
+highlights itself when something is active so a collapsed panel can't hide a
+filter from you. Filter by faction, custom vs. branded, rank, role, location or
+theme; sort by order added, rank, role, rating, name, theme, or newest first.
+
+Click any figure for the full write-up. Three across on a phone, more as the
+window widens.
 
 ## World notes
 

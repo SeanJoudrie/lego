@@ -77,37 +77,6 @@ window.COLLECTION = [
   },
 
   {
-    id: "the-space-princess",
-    name: "The Space Princess",
-    variant: "Blue dress, after her return",
-    faction: "good",
-    origin: "custom",
-    theme: "Creation Mythos",
-    rank: "Cosmic Deity",
-    role: "Queen",
-    location: "The Royal Palace",
-    relations: [
-      { to: "the-prince", label: "Married to" },
-      { to: "the-royal-sons", label: "Mother of" },
-      { to: "the-royal-daughter", label: "Mother of" },
-    ],
-    rating: 0,
-    background:
-      "Another cosmic deity. She can influence space, and through that, some " +
-      "aspects of the weather.\n\n" +
-      "She married the senator, and on their marriage he became the Prince. " +
-      "They were happily married and had a few kids. She later disappeared for " +
-      "a while, and in her absence he became king by default.\n\n" +
-      "She used to wear a white and black dress. Since she returned, she wears " +
-      "the blue one, and she is the Queen.",
-    provenance: "",
-    tags: ["royal-family", "cosmic", "space", "weather", "returned"],
-    images: ["images/the-space-princess-01.jpg"],
-    acquired: "",
-    notes: "If you still have the white-and-black dress version, it's a second photo on this entry, not a second entry."
-  },
-
-  {
     id: "the-green-demigod",
     name: "The Green Demigod",
     variant: "",
@@ -134,6 +103,37 @@ window.COLLECTION = [
     images: ["images/the-green-demigod-01.jpg"],
     acquired: "",
     notes: ""
+  },
+
+  {
+    id: "the-twins",
+    name: "The Twins",
+    variant: "Blue and black",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Archangel",
+    location: "",
+    rating: 0,
+    background:
+      "Two of them, and they come as a pair. The one with the blue jetpack is " +
+      "the alpha of the two — very much a Saint Michael the Archangel vibe — and " +
+      "the black one is the Gabriel to his Michael. They are always the ones " +
+      "sent on missions, and between them they keep the world at the status quo " +
+      "the First Man created.\n\n" +
+      "They're definitely a bit off. You're never quite on the same wavelength " +
+      "as them, but you know they are committed to doing good no matter what. " +
+      "They once had a fight against each other, which the blue one won. It " +
+      "wasn't over greater power — it was just teenage growing-up ego. " +
+      "Afterwards they decided to meditate and grow as people over the thirty " +
+      "years they've been alive, which is forever in a Lego lifespan.\n\n" +
+      "Chill, ultimately. If you ever meet them you can just hang out. It's cool.",
+    provenance: "",
+    tags: ["twin", "archangel", "jetpack", "status-quo", "pair"],
+    images: ["images/the-twins-01.jpg"],
+    acquired: "",
+    notes: "Blue on the left, black on the right."
   },
 
   {
@@ -201,37 +201,6 @@ window.COLLECTION = [
   },
 
   {
-    id: "the-twins",
-    name: "The Twins",
-    variant: "Blue and black",
-    faction: "good",
-    origin: "custom",
-    theme: "Creation Mythos",
-    rank: "",
-    role: "Archangel",
-    location: "",
-    rating: 0,
-    background:
-      "Two of them, and they come as a pair. The one with the blue jetpack is " +
-      "the alpha of the two — very much a Saint Michael the Archangel vibe — and " +
-      "the black one is the Gabriel to his Michael. They are always the ones " +
-      "sent on missions, and between them they keep the world at the status quo " +
-      "the First Man created.\n\n" +
-      "They're definitely a bit off. You're never quite on the same wavelength " +
-      "as them, but you know they are committed to doing good no matter what. " +
-      "They once had a fight against each other, which the blue one won. It " +
-      "wasn't over greater power — it was just teenage growing-up ego. " +
-      "Afterwards they decided to meditate and grow as people over the thirty " +
-      "years they've been alive, which is forever in a Lego lifespan.\n\n" +
-      "Chill, ultimately. If you ever meet them you can just hang out. It's cool.",
-    provenance: "",
-    tags: ["twin", "archangel", "jetpack", "status-quo", "pair"],
-    images: ["images/the-twins-01.jpg"],
-    acquired: "",
-    notes: "Blue on the left, black on the right."
-  },
-
-  {
     id: "the-prince",
     name: "The Prince",
     variant: "King, but still calls himself Prince",
@@ -274,6 +243,37 @@ window.COLLECTION = [
   },
 
   {
+    id: "the-space-princess",
+    name: "The Space Princess",
+    variant: "Blue dress, after her return",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Cosmic Deity",
+    role: "Queen",
+    location: "The Royal Palace",
+    relations: [
+      { to: "the-prince", label: "Married to" },
+      { to: "the-royal-sons", label: "Mother of" },
+      { to: "the-royal-daughter", label: "Mother of" },
+    ],
+    rating: 0,
+    background:
+      "Another cosmic deity. She can influence space, and through that, some " +
+      "aspects of the weather.\n\n" +
+      "She married the senator, and on their marriage he became the Prince. " +
+      "They were happily married and had a few kids. She later disappeared for " +
+      "a while, and in her absence he became king by default.\n\n" +
+      "She used to wear a white and black dress. Since she returned, she wears " +
+      "the blue one, and she is the Queen.",
+    provenance: "",
+    tags: ["royal-family", "cosmic", "space", "weather", "returned"],
+    images: ["images/the-space-princess-01.jpg"],
+    acquired: "",
+    notes: "If you still have the white-and-black dress version, it's a second photo on this entry, not a second entry."
+  },
+
+  {
     id: "the-royal-sons",
     name: "The Royal Sons",
     variant: "",
@@ -301,66 +301,6 @@ window.COLLECTION = [
     images: ["images/the-royal-sons-01.jpg"],
     acquired: "",
     notes: "Both need real names."
-  },
-
-  {
-    id: "the-royal-daughter",
-    name: "The Royal Daughter",
-    variant: "Arm in a sling",
-    faction: "good",
-    origin: "custom",
-    theme: "Creation Mythos",
-    rank: "",
-    role: "Royal Child",
-    location: "The Royal Palace",
-    relations: [
-      { to: "the-prince", label: "Daughter of" },
-      { to: "the-space-princess", label: "Daughter of" },
-      { to: "the-royal-sons", label: "Sister of" },
-    ],
-    rating: 0,
-    background:
-      "The Prince's daughter. Blonde, very hyperactive, and every bit as " +
-      "adventurous as her brothers — which is how the broken arm happened.\n\n" +
-      "She gets to wear her dad's old Senate coat, because it reminds her of him.",
-    provenance: "",
-    tags: ["royal-family", "child", "adventure", "hyperactive", "broken-arm"],
-    images: [
-      { src: "images/the-royal-daughter-01.jpg", caption: "Grinning" },
-      { src: "images/the-royal-daughter-02.jpg", caption: "In tears" }
-    ],
-    acquired: "",
-    notes: "One figure, head turned around. Her torso is physically the same one the Senate-era Prince wears - the lore and the plastic agree."
-  },
-
-  {
-    id: "the-palace-orphans",
-    name: "The Palace Orphans",
-    variant: "Five of them",
-    faction: "good",
-    origin: "custom",
-    theme: "Creation Mythos",
-    rank: "",
-    role: "Orphan",
-    location: "The Royal Palace",
-    rating: 0,
-    background:
-      "Various orphans, all of them hit by the war. They are different species " +
-      "of humans. The one with the big translucent blue body is just a fat " +
-      "baby; next to him is his twin, who is a normal baby. The three bulky " +
-      "ones come from a different planet.\n\n" +
-      "They live peacefully in the royal castle with the Prince and the Queen. " +
-      "The Prince and Queen are super busy, so while they took them in, they " +
-      "are not their adoptive parents and nobody pretends otherwise. They are " +
-      "raised by the good people who live at the Royal Palace — fed, clothed, " +
-      "taught, with caretakers of their own. They are very, very well loved and " +
-      "they live really well.\n\n" +
-      "But they are still orphans. They never really met their parents.",
-    provenance: "",
-    tags: ["orphan", "war", "twin", "off-world", "vintage-figure", "group"],
-    images: ["images/the-palace-orphans-01.jpg"],
-    acquired: "",
-    notes: "Left to right: bulky, fat baby, his twin, bulky, bulky."
   },
 
   {
@@ -450,6 +390,63 @@ window.COLLECTION = [
     images: ["images/kaz-01.jpg"],
     acquired: "",
     notes: ""
+  },
+
+  {
+    id: "brute",
+    name: "Brute",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Secretary of War",
+    location: "",
+    relations: [
+      { to: "heavy", label: "Trained" },
+      { to: "the-royal-sons", label: "Idolised by" },
+    ],
+    rating: 0,
+    background:
+      "Despite the rugged demeanor, he's actually a very nice guy. Very loud, " +
+      "very gruff, and very nice.\n\n" +
+      "He's in charge of all artillery, whether ground or space. Another " +
+      "veteran, with a lot of combat experience. Right now he is essentially " +
+      "the Secretary of War, sitting on the Prince and Princess's council.\n\n" +
+      "The Prince's two sons have taken a real shining to him and think he's " +
+      "the coolest, because he lets them do fun things out in the field — like " +
+      "shoot a rifle, or a cannon.",
+    provenance: "",
+    tags: ["veteran", "artillery", "council", "gruff", "good-with-kids"],
+    images: ["images/brute-01.jpg"],
+    acquired: "",
+    notes: ""
+  },
+
+  {
+    id: "the-commissioner",
+    name: "The Commissioner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Chief of Police",
+    location: "Lego City",
+    rating: 0,
+    background:
+      "He's based in Lego City — the giant, expensive city that exists in this " +
+      "universe — and he's in charge of all the police there.\n\n" +
+      "A former sniper, and still a great shot. He's got a little old, so he " +
+      "has a protege, a Padawan. In this world Padawan just means apprentice; " +
+      "it doesn't have anything to do with the Force.\n\n" +
+      "He's in charge of anti-terrorism, fortifications, and overall planning, " +
+      "and he regularly volunteers to go fight whatever bad thing is on its way.",
+    provenance: "",
+    tags: ["veteran", "sniper", "police", "anti-terrorism", "has-apprentice"],
+    images: ["images/the-commissioner-01.jpg"],
+    acquired: "",
+    notes: "Needs a real name. You mentioned a gold visor - I can't see one in this shot, so check I photographed the right figure."
   },
 
   {
@@ -596,60 +593,63 @@ window.COLLECTION = [
   },
 
   {
-    id: "brute",
-    name: "Brute",
-    variant: "",
+    id: "the-palace-orphans",
+    name: "The Palace Orphans",
+    variant: "Five of them",
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Secretary of War",
-    location: "",
-    relations: [
-      { to: "heavy", label: "Trained" },
-      { to: "the-royal-sons", label: "Idolised by" },
-    ],
+    role: "Orphan",
+    location: "The Royal Palace",
     rating: 0,
     background:
-      "Despite the rugged demeanor, he's actually a very nice guy. Very loud, " +
-      "very gruff, and very nice.\n\n" +
-      "He's in charge of all artillery, whether ground or space. Another " +
-      "veteran, with a lot of combat experience. Right now he is essentially " +
-      "the Secretary of War, sitting on the Prince and Princess's council.\n\n" +
-      "The Prince's two sons have taken a real shining to him and think he's " +
-      "the coolest, because he lets them do fun things out in the field — like " +
-      "shoot a rifle, or a cannon.",
+      "Various orphans, all of them hit by the war. They are different species " +
+      "of humans. The one with the big translucent blue body is just a fat " +
+      "baby; next to him is his twin, who is a normal baby. The three bulky " +
+      "ones come from a different planet.\n\n" +
+      "They live peacefully in the royal castle with the Prince and the Queen. " +
+      "The Prince and Queen are super busy, so while they took them in, they " +
+      "are not their adoptive parents and nobody pretends otherwise. They are " +
+      "raised by the good people who live at the Royal Palace — fed, clothed, " +
+      "taught, with caretakers of their own. They are very, very well loved and " +
+      "they live really well.\n\n" +
+      "But they are still orphans. They never really met their parents.",
     provenance: "",
-    tags: ["veteran", "artillery", "council", "gruff", "good-with-kids"],
-    images: ["images/brute-01.jpg"],
+    tags: ["orphan", "war", "twin", "off-world", "vintage-figure", "group"],
+    images: ["images/the-palace-orphans-01.jpg"],
     acquired: "",
-    notes: ""
+    notes: "Left to right: bulky, fat baby, his twin, bulky, bulky."
   },
 
   {
-    id: "the-commissioner",
-    name: "The Commissioner",
-    variant: "",
+    id: "the-royal-daughter",
+    name: "The Royal Daughter",
+    variant: "Arm in a sling",
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Chief of Police",
-    location: "Lego City",
+    role: "Royal Child",
+    location: "The Royal Palace",
+    relations: [
+      { to: "the-prince", label: "Daughter of" },
+      { to: "the-space-princess", label: "Daughter of" },
+      { to: "the-royal-sons", label: "Sister of" },
+    ],
     rating: 0,
     background:
-      "He's based in Lego City — the giant, expensive city that exists in this " +
-      "universe — and he's in charge of all the police there.\n\n" +
-      "A former sniper, and still a great shot. He's got a little old, so he " +
-      "has a protege, a Padawan. In this world Padawan just means apprentice; " +
-      "it doesn't have anything to do with the Force.\n\n" +
-      "He's in charge of anti-terrorism, fortifications, and overall planning, " +
-      "and he regularly volunteers to go fight whatever bad thing is on its way.",
+      "The Prince's daughter. Blonde, very hyperactive, and every bit as " +
+      "adventurous as her brothers — which is how the broken arm happened.\n\n" +
+      "She gets to wear her dad's old Senate coat, because it reminds her of him.",
     provenance: "",
-    tags: ["veteran", "sniper", "police", "anti-terrorism", "has-apprentice"],
-    images: ["images/the-commissioner-01.jpg"],
+    tags: ["royal-family", "child", "adventure", "hyperactive", "broken-arm"],
+    images: [
+      { src: "images/the-royal-daughter-01.jpg", caption: "Grinning" },
+      { src: "images/the-royal-daughter-02.jpg", caption: "In tears" }
+    ],
     acquired: "",
-    notes: "Needs a real name. You mentioned a gold visor - I can't see one in this shot, so check I photographed the right figure."
+    notes: "One figure, head turned around. Her torso is physically the same one the Senate-era Prince wears - the lore and the plastic agree."
   },
 
   {
@@ -964,33 +964,6 @@ window.COLLECTION = [
   },
 
   {
-    id: "the-red-ninja",
-    name: "The Red Ninja",
-    variant: "",
-    faction: "good",
-    origin: "custom",
-    theme: "Creation Mythos",
-    rank: "",
-    role: "Ninja",
-    location: "",
-    relations: [
-      { to: "the-blue-haired-ninja", label: "Taught" },
-      { to: "the-street-ninja", label: "Taught" },
-    ],
-    rating: 0,
-    background:
-      "Teacher to both of them. He took the blue-haired ninja after the Samurai " +
-      "had finished with him, which is how that one came away with both sides " +
-      "of the craft, and he trained the Street Ninja as well.\n\n" +
-      "For a time he was tempted by evil. He decided not to do evil.",
-    provenance: "",
-    tags: ["ninja", "teacher", "tempted", "chose-good"],
-    images: ["images/the-red-ninja-01.jpg"],
-    acquired: "",
-    notes: "Placeholder name."
-  },
-
-  {
     id: "the-street-ninja",
     name: "The Street Ninja",
     variant: "Backwards cap",
@@ -1017,6 +990,33 @@ window.COLLECTION = [
     provenance: "",
     tags: ["ninja", "streets", "nunchucks", "akimbo", "rival", "homebody"],
     images: ["images/the-street-ninja-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-red-ninja",
+    name: "The Red Ninja",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja",
+    location: "",
+    relations: [
+      { to: "the-blue-haired-ninja", label: "Taught" },
+      { to: "the-street-ninja", label: "Taught" },
+    ],
+    rating: 0,
+    background:
+      "Teacher to both of them. He took the blue-haired ninja after the Samurai " +
+      "had finished with him, which is how that one came away with both sides " +
+      "of the craft, and he trained the Street Ninja as well.\n\n" +
+      "For a time he was tempted by evil. He decided not to do evil.",
+    provenance: "",
+    tags: ["ninja", "teacher", "tempted", "chose-good"],
+    images: ["images/the-red-ninja-01.jpg"],
     acquired: "",
     notes: "Placeholder name."
   },
@@ -1333,6 +1333,7 @@ window.COLLECTION = [
     acquired: "",
     notes: "Placeholder name. The damage is literal - the figure really is worn through and wearing two different legs, so the lore and the plastic agree again."
   },
+
 
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
