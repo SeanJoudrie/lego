@@ -32,6 +32,16 @@ window.RANKS = [
   "Mortal"
 ];
 
+/* All five orphans share this. Edit it here and it changes for all of them. */
+const ORPHAN_LIFE =
+  "They live peacefully in the royal castle with the Prince and the Queen. " +
+  "The Prince and Queen are super busy, so while they took them in, they are " +
+  "not their adoptive parents and nobody pretends otherwise. They are raised " +
+  "by the good people who live at the Royal Palace — fed, clothed, taught, " +
+  "with caretakers of their own. They are very, very well loved and they live " +
+  "really well.\n\n" +
+  "But they are still orphans. They never really met their parents.";
+
 window.COLLECTION = [
 
   {
@@ -274,8 +284,8 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "Cosmic Deity",
-    role: "",
-    location: "",
+    role: "Queen",
+    location: "The Royal Palace",
     character: "",
     rating: 0,
     background:
@@ -285,7 +295,7 @@ window.COLLECTION = [
       "They were happily married and had a few kids. She later disappeared for " +
       "a while, and in her absence he became king by default.\n\n" +
       "She used to wear a white and black dress. Since she returned, she wears " +
-      "the blue one.",
+      "the blue one, and she is the Queen.",
     provenance: "",
     tags: ["royal-family", "cosmic", "space", "weather", "returned"],
     images: ["images/the-space-princess-01.jpg"],
@@ -478,6 +488,134 @@ window.COLLECTION = [
     images: ["images/the-commissioner-01.jpg"],
     acquired: "",
     notes: "Needs a real name. You mentioned a gold visor - I can't see one in this shot, so check I photographed the right figure."
+  },
+
+  {
+    id: "palace-orphan-bulky-bob",
+    name: "Palace Orphan",
+    variant: "Bulky — dark bob",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Orphan",
+    location: "The Royal Palace",
+    character: "",
+    rating: 0,
+    background:
+      "One of the orphans, all of them hit by the war. They are different species of humans. He is one of the bulky ones, who come from a different planet.\n\n" + ORPHAN_LIFE,
+    provenance: "",
+    tags: ["orphan", "war", "bulky", "off-world", "vintage-figure"],
+    images: ["images/the-palace-orphans-01.jpg"],
+    acquired: "",
+    notes: "Far left in the group photo."
+  },
+
+  {
+    id: "palace-orphan-fat-baby",
+    name: "Palace Orphan",
+    variant: "Baby — large translucent body",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Orphan",
+    location: "The Royal Palace",
+    character: "",
+    rating: 0,
+    background:
+      "One of the orphans, all of them hit by the war. They are different species of humans. He is just a fat baby.\n\n" + ORPHAN_LIFE,
+    provenance: "",
+    tags: ["orphan", "war", "baby", "twin", "vintage-figure"],
+    images: ["images/the-palace-orphans-01.jpg"],
+    acquired: "",
+    notes: "Second from left in the group photo."
+  },
+
+  {
+    id: "palace-orphan-twin-baby",
+    name: "Palace Orphan",
+    variant: "Baby — his twin, small body",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Orphan",
+    location: "The Royal Palace",
+    character: "",
+    rating: 0,
+    background:
+      "One of the orphans, all of them hit by the war. They are different species of humans. He is the fat baby's twin, and a normal-sized baby.\n\n" + ORPHAN_LIFE,
+    provenance: "",
+    tags: ["orphan", "war", "baby", "twin", "vintage-figure"],
+    images: ["images/the-palace-orphans-01.jpg"],
+    acquired: "",
+    notes: "Middle of the group photo."
+  },
+
+  {
+    id: "palace-orphan-bulky-centre",
+    name: "Palace Orphan",
+    variant: "Bulky — bowl cut, centre right",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Orphan",
+    location: "The Royal Palace",
+    character: "",
+    rating: 0,
+    background:
+      "One of the orphans, all of them hit by the war. They are different species of humans. He is one of the bulky ones, who come from a different planet.\n\n" + ORPHAN_LIFE,
+    provenance: "",
+    tags: ["orphan", "war", "bulky", "off-world", "vintage-figure"],
+    images: ["images/the-palace-orphans-01.jpg"],
+    acquired: "",
+    notes: "Second from right in the group photo."
+  },
+
+  {
+    id: "palace-orphan-bulky-right",
+    name: "Palace Orphan",
+    variant: "Bulky — bowl cut, far right",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Orphan",
+    location: "The Royal Palace",
+    character: "",
+    rating: 0,
+    background:
+      "One of the orphans, all of them hit by the war. They are different species of humans. He is one of the bulky ones, who come from a different planet.\n\n" + ORPHAN_LIFE,
+    provenance: "",
+    tags: ["orphan", "war", "bulky", "off-world", "vintage-figure"],
+    images: ["images/the-palace-orphans-01.jpg"],
+    acquired: "",
+    notes: "Far right in the group photo."
+  },
+
+  {
+    id: "the-royal-daughter",
+    name: "Royal Daughter",
+    variant: "Arm in a sling",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Royal Child",
+    location: "The Royal Palace",
+    character: "",
+    rating: 0,
+    background:
+      "The Prince's daughter. Blonde, very hyperactive, and every bit as " +
+      "adventurous as her brothers — which is how the broken arm happened.\n\n" +
+      "She gets to wear her dad's old Senate coat, because it reminds her of him.",
+    provenance: "",
+    tags: ["royal-family", "child", "adventure", "hyperactive", "broken-arm"],
+    images: ["images/the-royal-daughter-01.jpg", "images/the-royal-daughter-02.jpg"],
+    acquired: "",
+    notes: "Two photos: grinning, and in tears. Her torso is physically the same one the Senate-era Prince figure wears - the lore and the plastic agree."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

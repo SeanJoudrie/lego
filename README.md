@@ -64,6 +64,21 @@ rather than scattering. A rank not in the list still works, it just sorts last.
 Roles and locations need no such list; their dropdowns are built alphabetically
 from whatever values are actually in use.
 
+### Story shared by a group
+
+When several figures share the same paragraph — the five palace orphans all
+have one upbringing — write it once as a `const` above `window.COLLECTION` and
+join it on:
+
+```js
+const ORPHAN_LIFE = "They live peacefully in the royal castle...";
+// then, in each entry:
+background: "He is just a fat baby.\n\n" + ORPHAN_LIFE,
+```
+
+Edit the shared text once and every figure using it updates. Beats keeping five
+copies in sync by hand.
+
 ### Same character, two figures
 
 Give both entries the same `character` value and each links to the other from
