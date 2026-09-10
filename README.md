@@ -6,10 +6,10 @@ A private catalog of my LEGO minifigures.
 
 Double-click `index.html`. That's it — no server, no install, no build step.
 
-Filter by faction (good / bad / neutral), by custom vs. branded, by rank, or
-by theme. Sort by rank, rating, name, theme, or most recently added. The search
-box covers names, variants, ranks, backgrounds, provenance, and tags. Click any
-figure for the full write-up.
+Filter by faction (good / bad / neutral), custom vs. branded, rank, role,
+location, or theme. Sort by rank, role, rating, name, theme, or most recently
+added. The search box covers everything written down. Click any figure for the
+full write-up.
 
 ## Adding a figure
 
@@ -26,7 +26,10 @@ figure for the full write-up.
   faction: "good",              // "good" | "bad" | "neutral"
   origin: "branded",            // "branded" | "custom"
   theme: "Star Wars",           // franchise, or your own custom line
-  rank: "Demigod",              // where they sit in the world — see RANKS
+  rank: "Demigod",              // what they ARE — see RANKS
+  role: "Bounty Hunter",        // what they DO — job or office
+  location: "Lego City",        // where they're based
+  character: "luke",            // shared key if two figures are one person
   rating: 5,                    // 1–5, or 0 for unrated
   background: "The story...",   // in-world lore
   provenance: "Found it at...", // real-world story of the actual figure
@@ -45,13 +48,28 @@ them apart means the lore stays clean while the real stories (the first figure
 you ever got, the helmet found behind a microwave in an empty house) don't get
 lost.
 
-### Ranks
+### rank vs. role
 
-`window.RANKS` at the top of `data/collection.js` is the hierarchy of the
-world, most senior first. It drives the order of the Rank dropdown and the
-"Rank" sort — so the catalog opens showing the shape of the world rather than
-an alphabetical list. Add tiers to that array as they turn up. A figure with a
-rank not in the list still works, it just sorts last.
+`rank` is what someone **is** — their nature. `role` is what they **do** —
+their job or office. These came apart the moment a character turned out to be
+"one of the Archangel types" *and* "a mortal": Archangel is a job, mortal is a
+nature, and one field couldn't hold both without turning into a junk drawer of
+unrelated labels.
+
+`window.RANKS` at the top of `data/collection.js` lists the natures, most
+senior first. It drives the Rank dropdown order and the "Rank" sort, which
+falls back to role and then name — so unranked figures still group by job
+rather than scattering. A rank not in the list still works, it just sorts last.
+
+Roles and locations need no such list; their dropdowns are built alphabetically
+from whatever values are actually in use.
+
+### Same character, two figures
+
+Give both entries the same `character` value and each links to the other from
+its detail view. Use it when one person has more than one physical figure — an
+earlier era, a different outfit, or the fourteen versions of Luke Skywalker
+you will inevitably end up owning.
 
 Fields can be left empty. A figure with no photos still shows up, just with a
 "NO PHOTO YET" placeholder — so you can catalog first and shoot photos later.

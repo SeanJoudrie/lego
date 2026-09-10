@@ -8,7 +8,9 @@
    faction     "good" | "bad" | "neutral"             (required)
    origin      "branded" | "custom"                   (required)
    theme       Franchise, or your own custom line.    "Star Wars"
-   rank        Where they sit in the world.           see RANKS below
+   rank        What they ARE. Their nature.           see RANKS below
+   role        What they DO. Their job or office.     "Archangel", "King"
+   location    Where they're based.                   "Lego City"
    character   Shared key when two figures are the same PERSON at different
                points in their life. Both entries get the same value and each
                links to the other. Leave blank for a one-figure character.
@@ -26,12 +28,7 @@
 window.RANKS = [
   "The First Man",
   "Cosmic Deity",
-  "Second in Command",
   "Demigod",
-  "Archangel",
-  "King",
-  "Senator",
-  "Royal Child",
   "Mortal"
 ];
 
@@ -45,6 +42,8 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "The First Man",
+    role: "",
+    location: "",
     rating: 0,
     background:
       "He has no name. He is known only as the First Man — the first man to " +
@@ -76,6 +75,8 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "Demigod",
+    role: "",
+    location: "",
     rating: 0,
     background:
       "Just cool as fuck. Extremely swag, extremely fashionable. He likes " +
@@ -99,7 +100,9 @@ window.COLLECTION = [
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
-    rank: "Archangel",
+    rank: "",
+    role: "Archangel",
+    location: "",
     rating: 0,
     background:
       "The alpha of the two twins. Very much a Saint Michael the Archangel " +
@@ -125,7 +128,9 @@ window.COLLECTION = [
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
-    rank: "Archangel",
+    rank: "",
+    role: "Archangel",
+    location: "",
     rating: 0,
     background:
       "The other twin — the Gabriel to his brother's Michael. Sent down " +
@@ -150,7 +155,9 @@ window.COLLECTION = [
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
-    rank: "Archangel",
+    rank: "Mortal",
+    role: "Archangel",
+    location: "",
     rating: 0,
     background:
       "Another of the Archangel types, but where the twins do missions, he does " +
@@ -177,7 +184,9 @@ window.COLLECTION = [
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
-    rank: "Second in Command",
+    rank: "Mortal",
+    role: "Second in Command",
+    location: "",
     rating: 0,
     background:
       "The second in command, and he truly holds that status. He dual-wields " +
@@ -207,7 +216,9 @@ window.COLLECTION = [
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
-    rank: "King",
+    rank: "",
+    role: "King",
+    location: "The Royal Palace",
     character: "the-prince",
     rating: 0,
     background:
@@ -237,7 +248,9 @@ window.COLLECTION = [
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
-    rank: "Senator",
+    rank: "",
+    role: "Senator",
+    location: "The Royal Palace",
     character: "the-prince",
     rating: 0,
     background:
@@ -261,6 +274,8 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "Cosmic Deity",
+    role: "",
+    location: "",
     character: "",
     rating: 0,
     background:
@@ -285,7 +300,9 @@ window.COLLECTION = [
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
-    rank: "Royal Child",
+    rank: "",
+    role: "Royal Child",
+    location: "The Royal Palace",
     character: "",
     rating: 0,
     background:
@@ -308,7 +325,9 @@ window.COLLECTION = [
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
-    rank: "Royal Child",
+    rank: "",
+    role: "Royal Child",
+    location: "The Royal Palace",
     character: "",
     rating: 0,
     background:
@@ -324,6 +343,143 @@ window.COLLECTION = [
     notes: "Rear figure in the shared photo. Needs a real name."
   },
 
+  {
+    id: "the-palace-chief",
+    name: "The Palace Chief",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Head of Palace Control",
+    location: "The Royal Palace",
+    character: "",
+    rating: 0,
+    background:
+      "Head of control of the royal palace. A former veteran, still currently " +
+      "serving in both the Royal Secret Service and the Senate service.\n\n" +
+      "He is the one who encouraged the Prince to run for Senate in the first " +
+      "place — which makes him, quietly, the reason the whole royal line exists " +
+      "in the shape it does.",
+    provenance: "",
+    tags: ["royal-service", "veteran", "secret-service", "senate"],
+    images: ["images/the-palace-chief-01.jpg"],
+    acquired: "",
+    notes: "Needs a real name."
+  },
+
+  {
+    id: "the-outcast-prince",
+    name: "The Outcast Prince",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Elected King",
+    location: "The Sand Planet",
+    character: "",
+    rating: 0,
+    background:
+      "The Prince's brother. He was always a bit of an outcast, but never in a " +
+      "way that got him bullied — he simply decided to live off the rails.\n\n" +
+      "He settled on a sandy planet, a place a bit like Mad Max, where battles " +
+      "were being fought, and he enjoyed his time there living as a smuggler " +
+      "and a pirate. He never killed anybody who wasn't bad. He's a good guy. " +
+      "He has also hunted a lot of big beasts.\n\n" +
+      "He left the royal system behind. He is technically a prince, but he " +
+      "doesn't really identify as one — he just likes to live off the grid. He " +
+      "is something like the elected king of that sand planet, though not a " +
+      "strong royal king: he helps make the rules and everyone respects him, " +
+      "but everyone there is very free. There aren't really a lot of laws, or " +
+      "taxes anyone could enforce. Mostly he makes sure human rights are upheld.",
+    provenance: "",
+    tags: ["royal-family", "outcast", "smuggler", "pirate", "beast-hunter", "off-grid"],
+    images: ["images/the-outcast-prince-01.jpg"],
+    acquired: "",
+    notes: ""
+  },
+
+  {
+    id: "kaz",
+    name: "Kaz",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    location: "The Sand Planet",
+    character: "",
+    rating: 0,
+    background:
+      "The Outcast Prince's son, inspired by his dad from growing up in those " +
+      "rougher areas. Very charismatic, suave, and cool.\n\n" +
+      "He's a bounty hunter, and he always takes them alive. Part of it is " +
+      "wanting to impress his dad, but he's eventually doing his own thing.\n\n" +
+      "He's basically Star-Lord, before Star-Lord ever came out.",
+    provenance: "",
+    tags: ["royal-family", "bounty-hunter", "takes-them-alive", "charismatic"],
+    images: ["images/kaz-01.jpg"],
+    acquired: "",
+    notes: ""
+  },
+
+  {
+    id: "brute",
+    name: "Brute",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Secretary of War",
+    location: "",
+    character: "",
+    rating: 0,
+    background:
+      "Despite the rugged demeanor, he's actually a very nice guy. Very loud, " +
+      "very gruff, and very nice.\n\n" +
+      "He's in charge of all artillery, whether ground or space. Another " +
+      "veteran, with a lot of combat experience. Right now he is essentially " +
+      "the Secretary of War, sitting on the Prince and Princess's council.\n\n" +
+      "The Prince's two sons have taken a real shining to him and think he's " +
+      "the coolest, because he lets them do fun things out in the field — like " +
+      "shoot a rifle, or a cannon.",
+    provenance: "",
+    tags: ["veteran", "artillery", "council", "gruff", "good-with-kids"],
+    images: ["images/brute-01.jpg"],
+    acquired: "",
+    notes: ""
+  },
+
+  {
+    id: "the-commissioner",
+    name: "The Commissioner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Chief of Police",
+    location: "Lego City",
+    character: "",
+    rating: 0,
+    background:
+      "He's based in Lego City — the giant, expensive city that exists in this " +
+      "universe — and he's in charge of all the police there.\n\n" +
+      "A former sniper, and still a great shot. He's got a little old, so he " +
+      "has a protege, a Padawan. In this world Padawan just means apprentice; " +
+      "it doesn't have anything to do with the Force.\n\n" +
+      "He's in charge of anti-terrorism, fortifications, and overall planning, " +
+      "and he regularly volunteers to go fight whatever bad thing is on its way.",
+    provenance: "",
+    tags: ["veteran", "sniper", "police", "anti-terrorism", "has-apprentice"],
+    images: ["images/the-commissioner-01.jpg"],
+    acquired: "",
+    notes: "Needs a real name. You mentioned a gold visor - I can't see one in this shot, so check I photographed the right figure."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
@@ -333,6 +489,8 @@ window.COLLECTION = [
     origin: "custom",
     theme: "",
     rank: "",
+    role: "",
+    location: "",
     character: "",
     rating: 0,
     background: "",
