@@ -142,6 +142,33 @@ If one photo has several figures in it, that's one entry for the set, not one
 per figure — they live together anyway. Use `notes` to say who's who ("left to
 right: bulky, fat baby, his twin, bulky, bulky").
 
+## Identifying pieces
+
+`tools/identify.js` sends a photo to [Brickognize](https://brickognize.com) and
+reports which official LEGO item it most resembles. No dependencies and no API
+key; needs Node 18+.
+
+```bash
+node tools/identify.js images/claws-01.jpg              # whole minifigure
+node tools/identify.js loose-part.jpg --type parts      # one loose piece
+node tools/identify.js images/*.jpg --brief | sort -rn  # scan everything
+```
+
+`--type figs` (the default) takes a whole assembled minifigure and names the
+official figure it looks most like. On a kitbash that is the *donor* of
+whichever part the model recognises loudest, not the figure itself — which is
+exactly the useful answer when you're trying to remember where a torso came
+from.
+
+`--type parts` needs one loose piece, alone, on a plain background. Hand it a
+whole minifigure and it correctly returns nothing.
+
+Results are guesses with a confidence score, and the output says plainly when a
+match is weak. Follow the BrickLink link on any result for the full list of sets
+that piece appears in. A scan of the whole collection lives in `PARTS-SCAN.md`,
+kept separate from the catalogue on purpose: machine guesses don't belong in
+`provenance` until a human has confirmed them.
+
 ## Why files instead of a database
 
 Everything is plain text and plain images in a git repo. It opens on any
