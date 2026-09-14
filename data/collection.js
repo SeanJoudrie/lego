@@ -228,6 +228,9 @@ window.COLLECTION = [
     group: "The Royal Household",
     location: "The Royal Palace",
     relations: [
+      { to: "kenjen", label: "Loyal to him" },
+      { to: "jimzon", label: "Loyal to him" },
+      { to: "king-arthur", label: "Follows him" },
       { to: "the-space-princess", label: "Married to" },
       { to: "the-royal-sons", label: "Father of" },
       { to: "the-royal-daughter", label: "Father of" },
@@ -1425,7 +1428,6 @@ window.COLLECTION = [
     group: "The Damaged",
     location: "",
     relations: [
-      { to: "the-activist", label: "Also one of the Damaged, like" },
     ],
     rating: 0,
     background:

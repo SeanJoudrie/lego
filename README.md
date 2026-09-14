@@ -18,8 +18,22 @@ highlights itself when something is active so a collapsed panel can't hide a
 filter from you. Filter by faction, custom vs. branded, rank, role, location or
 theme; sort by order added, rank, role, rating, name, theme, or newest first.
 
-Click any figure for the full write-up. Three across on a phone, more as the
-window widens.
+Click any figure for the full write-up.
+
+**How many across** is the slider next to the Filters button — anywhere from 2
+to 12. It remembers what you set. As the cards get narrower the page drops the
+text it can no longer fit: first the variant line and the group, then the name,
+until at the far end it is a pure photo wall with a hundred figures on screen at
+once. That is driven by how wide a card actually turns out, not by the number
+you picked, so seven across stays readable on a laptop and turns into the wall
+on a phone.
+
+**Inside a figure**, on a phone: drag down to throw it away, swipe left or right
+for the next and previous figure, and swipe up at the bottom of a long entry to
+go on to the next one. Stepping follows whatever is on screen, so if you have
+filtered down to the Space Militia you walk the Space Militia. On a desktop the
+same thing is the Previous/Next buttons at the bottom, or the up and down arrow
+keys; left and right arrows stay on the photos of the figure you are looking at.
 
 ## World notes
 
