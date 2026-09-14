@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-113 characters from a custom LEGO minifigure world, in the order they were
+118 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -722,7 +722,7 @@ He used to be a pilot himself, testing the things other people had built, and he
 
 When somebody up there says they have a problem, he's the one on the other end of it.
 
-*Connections:* Commands The Test Pilot
+*Connections:* Commands The Test Pilot · Works with The Technician · Works with The Ground Technician
 
 *Tags:* space, launch, director, former-pilot, royal-space-academy
 
@@ -1579,6 +1579,54 @@ He had a brother. The brother disappeared completely, and the search for him has
 *How it was got:* Originally just a Tonka truck figure — not a Lego piece at all, and the oldest thing in the collection. The twenty-year search is a real one.
 
 *Tags:* ancient, pre-lego, tonka, wisdom, elder, lost-brother, not-lego
+
+### 114. The Ranger — Bionic arm
+
+**Alignment:** good · **Role:** Adventurer · **Figure:** custom
+
+A solo adventurer with a bionic arm. He has friends of his own somewhere, but he works alone, and most of what he is remains a mystery.
+
+His planet keeps him busy. Hostile forces are trying to occupy it. The wildlife is in danger. And there are temples out there full of evil spirits, ghosts and zombie-like things that he has to go in and fight.
+
+In between, he rides ATVs.
+
+*Tags:* adventurer, bionic-arm, solo, mystery, wildlife, temples, atvs
+
+### 115. The Blacktron Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** custom
+
+Pilot of the Blacktron squadron.
+
+*Tags:* pilot, blacktron, squadron
+
+### 116. The Technician
+
+**Alignment:** good · **Role:** Technician · **Figure:** custom
+
+Assistant technician on the space programme, working to the man in the red jumpsuit.
+
+*Connections:* Works for The Flight Director
+
+*Tags:* technician, space-programme, support
+
+### 117. The Ground Technician
+
+**Alignment:** good · **Role:** Technician · **Figure:** custom
+
+The other technician on the red space programme.
+
+*Connections:* Works for The Flight Director
+
+*Tags:* technician, space-programme, support
+
+### 118. The New Recruit
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+A space cadet, recently graduated into the space militia. He has not seen anything yet.
+
+*Tags:* space-militia, graduate, green, untested
 
 ---
 

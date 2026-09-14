@@ -1321,6 +1321,8 @@ window.COLLECTION = [
     location: "The Royal Space Academy",
     relations: [
       { to: "the-test-pilot", label: "Commands" },
+      { to: "the-technician", label: "Works with" },
+      { to: "the-ground-technician", label: "Works with" },
     ],
     rating: 0,
     background:
@@ -3327,6 +3329,126 @@ window.COLLECTION = [
     images: ["images/the-ancient-01.jpg"],
     acquired: "",
     notes: "The only figure here older than the collection itself, and older than The First Man - which is a question the lore hasn't answered: The First Man is the first man to exist, and this one was already here. Placeholder name."
+  },
+
+  {
+    id: "the-ranger",
+    name: "The Ranger",
+    variant: "Bionic arm",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventurer",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A solo adventurer with a bionic arm. He has friends of his own " +
+      "somewhere, but he works alone, and most of what he is remains a " +
+      "mystery.\n\n" +
+      "His planet keeps him busy. Hostile forces are trying to occupy it. The " +
+      "wildlife is in danger. And there are temples out there full of evil " +
+      "spirits, ghosts and zombie-like things that he has to go in and fight.\n\n" +
+      "In between, he rides ATVs.",
+    provenance: "",
+    tags: ["adventurer", "bionic-arm", "solo", "mystery", "wildlife", "temples", "atvs"],
+    images: ["images/the-ranger-01.jpg"],
+    acquired: "",
+    notes: "No group on purpose - he works alone. The figure has one yellow arm and one sand-green arm, so the bionic one is visible."
+  },
+
+  {
+    id: "the-blacktron-pilot",
+    name: "The Blacktron Pilot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot",
+    group: "The Blacktron Squadron",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Pilot of the Blacktron squadron.",
+    provenance: "",
+    tags: ["pilot", "blacktron", "squadron"],
+    images: ["images/the-blacktron-pilot-01.jpg"],
+    acquired: "",
+    notes: "First of his squadron. The group is set so the rest of them join him automatically when they arrive."
+  },
+
+  {
+    id: "the-technician",
+    name: "The Technician",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Technician",
+    group: "The Royal Space Academy",
+    location: "",
+    relations: [
+      { to: "the-flight-director", label: "Works for" },
+    ],
+    rating: 0,
+    background:
+      "Assistant technician on the space programme, working to the man in the " +
+      "red jumpsuit.",
+    provenance: "",
+    tags: ["technician", "space-programme", "support"],
+    images: ["images/the-technician-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-ground-technician",
+    name: "The Ground Technician",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Technician",
+    group: "The Royal Space Academy",
+    location: "",
+    relations: [
+      { to: "the-flight-director", label: "Works for" },
+    ],
+    rating: 0,
+    background:
+      "The other technician on the red space programme.",
+    provenance: "",
+    tags: ["technician", "space-programme", "support"],
+    images: ["images/the-ground-technician-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Wears the same star-spangled helmet as the Test Pilot."
+  },
+
+  {
+    id: "the-new-recruit",
+    name: "The New Recruit",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    group: "The Space Militia",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A space cadet, recently graduated into the space militia. He has not " +
+      "seen anything yet.",
+    provenance: "",
+    tags: ["space-militia", "graduate", "green", "untested"],
+    images: ["images/the-new-recruit-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
