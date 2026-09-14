@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-43 characters from a custom LEGO minifigure world, in the order they were
+47 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -677,6 +677,48 @@ So the legs really did come off something else, exactly as the lore says.
 *Connections:* Also one of the Damaged, like The Activist
 
 *Tags:* damaged, instructor, combat, foreign-tactics, refugee, mismatched-legs, kitbash
+
+### 44. The Rebuilt — Upgraded, with shoulder pads
+
+**Alignment:** good · **Nature:** Mortal · **Role:** Archangel · **Figure:** custom
+
+One of the Archangels — the demigod sort, the ones higher up — created and then sent here. He is a robot, and despite having superhuman knowledge he is entirely mortal and doesn't have many powers.
+
+For a long time what he did was teach. He trained a great many people.
+
+Then there was an attack, and in defending against it he was destroyed enough to need rebuilding — and was rebuilt more powerful than he had ever been. The shoulder pads are the upgrade. Since then he has stopped being only a leader who trains people, and become someone who plans and fights in the battles himself.
+
+*Tags:* archangel, robot, mortal, rebuilt, upgraded, teacher
+
+### 45. The Chef
+
+**Alignment:** good · **Role:** Chef · **Figure:** custom
+
+The best chef in the world. He was already the best chef in the world before the knife.
+
+The knife is golden, and it was given to him. In the same way there are magic swords in this world, this is a magic knife — he can super-chop, cut anything, and work at supersonic speed. But none of that is why he's the best. It only lets him work faster.
+
+*Tags:* chef, golden-knife, magic-weapon, supersonic, the-best
+
+### 46. Dr. Oz and his Assistant
+
+**Alignment:** good · **Role:** Doctor · **Figure:** custom
+
+Dr. Oz is the one with the black hair; the other is his assistant. Both highly trained, and between them they run the medical facilities.
+
+They put everyone back together after a battle, and they handle ordinary sickness the rest of the time.
+
+*Tags:* doctor, medical, assistant, after-the-battle, pair
+
+### 47. The Watch Commander
+
+**Alignment:** good · **Role:** Domestic Police Commander · **Based:** Lego City · **Figure:** custom
+
+He runs the domestic police forces — the ground units, the small ones, the citywide day-to-day. Very strict and very stern.
+
+He is a former clone trooper who was injured in the line of duty, and he turned to smaller-scale work after it. He is extremely competent at it.
+
+*Tags:* police, domestic, strict, former-clone, injured, competent
 
 ---
 

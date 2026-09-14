@@ -1369,6 +1369,112 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "the-rebuilt",
+    name: "The Rebuilt",
+    variant: "Upgraded, with shoulder pads",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Mortal",
+    role: "Archangel",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the Archangels — the demigod sort, the ones higher up — created " +
+      "and then sent here. He is a robot, and despite having superhuman " +
+      "knowledge he is entirely mortal and doesn't have many powers.\n\n" +
+      "For a long time what he did was teach. He trained a great many people.\n\n" +
+      "Then there was an attack, and in defending against it he was destroyed " +
+      "enough to need rebuilding — and was rebuilt more powerful than he had " +
+      "ever been. The shoulder pads are the upgrade. Since then he has stopped " +
+      "being only a leader who trains people, and become someone who plans and " +
+      "fights in the battles himself.",
+    provenance: "",
+    tags: ["archangel", "robot", "mortal", "rebuilt", "upgraded", "teacher"],
+    images: [
+      { src: "images/the-rebuilt-01.jpg", caption: "After the rebuild" },
+      { src: "images/the-rebuilt-02.jpg", caption: "Before — the original build" }
+    ],
+    acquired: "",
+    notes: "Placeholder name, taken from what happened to him - the same way the Discarded and the Damaged are named. Two figures, one character, one entry."
+  },
+
+  {
+    id: "the-chef",
+    name: "The Chef",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Chef",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The best chef in the world. He was already the best chef in the world " +
+      "before the knife.\n\n" +
+      "The knife is golden, and it was given to him. In the same way there are " +
+      "magic swords in this world, this is a magic knife — he can super-chop, " +
+      "cut anything, and work at supersonic speed. But none of that is why he's " +
+      "the best. It only lets him work faster.",
+    provenance: "",
+    tags: ["chef", "golden-knife", "magic-weapon", "supersonic", "the-best"],
+    images: ["images/the-chef-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "dr-oz",
+    name: "Dr. Oz and his Assistant",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Doctor",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Dr. Oz is the one with the black hair; the other is his assistant. Both " +
+      "highly trained, and between them they run the medical facilities.\n\n" +
+      "They put everyone back together after a battle, and they handle ordinary " +
+      "sickness the rest of the time.",
+    provenance: "",
+    tags: ["doctor", "medical", "assistant", "after-the-battle", "pair"],
+    images: ["images/dr-oz-01.jpg"],
+    acquired: "",
+    notes: "Dr. Oz on the left, his assistant on the right. The assistant has no name yet."
+  },
+
+  {
+    id: "the-watch-commander",
+    name: "The Watch Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Domestic Police Commander",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background:
+      "He runs the domestic police forces — the ground units, the small ones, " +
+      "the citywide day-to-day. Very strict and very stern.\n\n" +
+      "He is a former clone trooper who was injured in the line of duty, and he " +
+      "turned to smaller-scale work after it. He is extremely competent at it.",
+    provenance: "",
+    tags: ["police", "domestic", "strict", "former-clone", "injured", "competent"],
+    images: ["images/the-watch-commander-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Location inferred from \"citywide\" - correct me if he isn't Lego City. Also unclear whether he reports to the Commissioner or runs a separate force; no link drawn either way."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
