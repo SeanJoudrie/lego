@@ -804,6 +804,7 @@ window.COLLECTION = [
     role: "Ambassador",
     location: "",
     relations: [
+      { to: "the-wanderer", label: "Brother of" },
       { to: "the-mad-ticket-man", label: "From the same world as" },
     ],
     rating: 0,
@@ -1473,6 +1474,127 @@ window.COLLECTION = [
     images: ["images/the-watch-commander-01.jpg"],
     acquired: "",
     notes: "Placeholder name. Location inferred from \"citywide\" - correct me if he isn't Lego City. Also unclear whether he reports to the Commissioner or runs a separate force; no link drawn either way."
+  },
+
+  {
+    id: "the-cameraman",
+    name: "The Cameraman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Camera Operator",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background:
+      "Camera work and editing for the TV unit, which is very highly regarded " +
+      "in Lego City. He is not the director — he's the camera editor assistant " +
+      "guy, and that's the job.\n\n" +
+      "An accident left him badly scarred. He stayed cheerful about it.",
+    provenance: "",
+    tags: ["tv", "camera", "editor", "scarred", "cheerful"],
+    images: ["images/the-cameraman-01.jpg"],
+    acquired: "",
+    notes: "The scarring is on the figure - it's scuffed and marked all over. Placeholder name."
+  },
+
+  {
+    id: "the-golden-sniper",
+    name: "The Golden Sniper",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    location: "Lego City",
+    relations: [
+      { to: "the-ninja-robot", label: "Works with" },
+    ],
+    rating: 0,
+    background:
+      "He crossed a great many countries and states to get here from a far away " +
+      "land. His golden sniper rifle will take down any bad guy, or any prey.\n\n" +
+      "He takes bounties, always alongside his robot. Outside of that he is " +
+      "deeply into tea, and really enjoys making it.",
+    provenance: "",
+    tags: ["sniper", "golden-rifle", "bounty-hunter", "traveller", "tea"],
+    images: ["images/the-golden-sniper-01.jpg"],
+    acquired: "",
+    notes: "Distinct from The Sniper, the quiet elite soldier - two different people."
+  },
+
+  {
+    id: "the-ninja-robot",
+    name: "The Ninja Robot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    location: "Lego City",
+    relations: [
+      { to: "the-golden-sniper", label: "Works with" },
+    ],
+    rating: 0,
+    background:
+      "The Golden Sniper's ninja robot companion. The two of them are hired as " +
+      "a pair.",
+    provenance: "",
+    tags: ["robot", "ninja", "bounty-hunter", "companion"],
+    images: ["images/the-ninja-robot-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-guardsman",
+    name: "The Guardsman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Prince's Guard",
+    location: "The Royal Palace",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the elite protection forces around the Prince — the top of that " +
+      "ladder, and he climbed the whole thing. He started as a soldier, became " +
+      "an agent, and made it all the way up.",
+    provenance: "",
+    tags: ["royal-guard", "elite", "soldier", "former-agent", "rose-through-ranks"],
+    images: ["images/the-guardsman-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. \"Lego soldier, then Lego agent, then the top\" reads as either his career or the themes his parts came from - possibly both, which would be a nice accident."
+  },
+
+  {
+    id: "the-wanderer",
+    name: "The Wanderer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    location: "",
+    relations: [
+      { to: "the-discarded", label: "Brother of" },
+    ],
+    rating: 0,
+    background:
+      "The Discarded's brother, out of the same background.\n\n" +
+      "What he does with it is wander around, talk to people, and skateboard.",
+    provenance: "",
+    tags: ["discarded", "wanderer", "skateboard", "sociable"],
+    images: ["images/the-wanderer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

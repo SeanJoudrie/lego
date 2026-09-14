@@ -85,6 +85,16 @@ window.LORE = [
   },
 
   {
+    title: "Bounties",
+    text:
+      "There is a bounty system, and it only points one way — you can put a " +
+      "price on evil zombies, mindless aliens, malfunctioning or malevolent " +
+      "robots. Not on people.\n\n" +
+      "The Golden Sniper and his ninja robot are hired as a pair, and that is " +
+      "the work they take."
+  },
+
+  {
     title: "The Great Shadow War",
     text:
       "A war fought against the shadow, ended by negotiation rather than by " +

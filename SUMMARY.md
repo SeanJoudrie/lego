@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-47 characters from a custom LEGO minifigure world, in the order they were
+52 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -54,6 +54,12 @@ The long story is still to be told. This note is a placeholder for it.
 In this world the word Padawan carries no connection to the Force. It means apprentice, full stop — the Commissioner has one, and it's a job, not a lineage.
 
 The exception is the First Man's Padawans, the ones who became the Demigods. He actually did introduce the Force here, so in his case the word means both things at once.
+
+### Bounties
+
+There is a bounty system, and it only points one way — you can put a price on evil zombies, mindless aliens, malfunctioning or malevolent robots. Not on people.
+
+The Golden Sniper and his ninja robot are hired as a pair, and that is the work they take.
 
 ### The Great Shadow War
 
@@ -438,7 +444,7 @@ His modest appearance reflects who he is. He loves going for walks and studying 
 
 The silver arm is still unaccounted for — and it is the piece the whole cybernetics story hangs on.
 
-*Connections:* From the same world as The Mad Ticket Man
+*Connections:* Brother of The Wanderer · From the same world as The Mad Ticket Man
 
 *Tags:* discarded, ambassador, explorer, cybernetics, poetry, sports, refugee
 
@@ -719,6 +725,58 @@ He runs the domestic police forces — the ground units, the small ones, the cit
 He is a former clone trooper who was injured in the line of duty, and he turned to smaller-scale work after it. He is extremely competent at it.
 
 *Tags:* police, domestic, strict, former-clone, injured, competent
+
+### 48. The Cameraman
+
+**Alignment:** good · **Role:** Camera Operator · **Based:** Lego City · **Figure:** custom
+
+Camera work and editing for the TV unit, which is very highly regarded in Lego City. He is not the director — he's the camera editor assistant guy, and that's the job.
+
+An accident left him badly scarred. He stayed cheerful about it.
+
+*Tags:* tv, camera, editor, scarred, cheerful
+
+### 49. The Golden Sniper
+
+**Alignment:** good · **Role:** Bounty Hunter · **Based:** Lego City · **Figure:** custom
+
+He crossed a great many countries and states to get here from a far away land. His golden sniper rifle will take down any bad guy, or any prey.
+
+He takes bounties, always alongside his robot. Outside of that he is deeply into tea, and really enjoys making it.
+
+*Connections:* Works with The Ninja Robot
+
+*Tags:* sniper, golden-rifle, bounty-hunter, traveller, tea
+
+### 50. The Ninja Robot
+
+**Alignment:** good · **Role:** Bounty Hunter · **Based:** Lego City · **Figure:** custom
+
+The Golden Sniper's ninja robot companion. The two of them are hired as a pair.
+
+*Connections:* Works with The Golden Sniper
+
+*Tags:* robot, ninja, bounty-hunter, companion
+
+### 51. The Guardsman
+
+**Alignment:** good · **Role:** Prince's Guard · **Based:** The Royal Palace · **Figure:** custom
+
+One of the elite protection forces around the Prince — the top of that ladder, and he climbed the whole thing. He started as a soldier, became an agent, and made it all the way up.
+
+*Tags:* royal-guard, elite, soldier, former-agent, rose-through-ranks
+
+### 52. The Wanderer
+
+**Alignment:** good · **Figure:** custom
+
+The Discarded's brother, out of the same background.
+
+What he does with it is wander around, talk to people, and skateboard.
+
+*Connections:* Brother of The Discarded
+
+*Tags:* discarded, wanderer, skateboard, sociable
 
 ---
 
