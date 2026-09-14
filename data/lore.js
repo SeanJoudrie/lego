@@ -85,6 +85,16 @@ window.LORE = [
   },
 
   {
+    title: "The Goo",
+    text:
+      "A sentient nanobot technology, and it spreads. It gets into a limb, takes " +
+      "the whole thing, and turns it grey.\n\n" +
+      "There is a cure now — it stops the spread but does not undo it. What's " +
+      "left goes dark grey and hardens into something like rock, and is no " +
+      "longer really yours. It is also stronger than what it replaced."
+  },
+
+  {
     title: "Bounties",
     text:
       "There is a bounty system, and it only points one way — you can put a " +

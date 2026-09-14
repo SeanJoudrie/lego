@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-52 characters from a custom LEGO minifigure world, in the order they were
+57 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -54,6 +54,12 @@ The long story is still to be told. This note is a placeholder for it.
 In this world the word Padawan carries no connection to the Force. It means apprentice, full stop — the Commissioner has one, and it's a job, not a lineage.
 
 The exception is the First Man's Padawans, the ones who became the Demigods. He actually did introduce the Force here, so in his case the word means both things at once.
+
+### The Goo
+
+A sentient nanobot technology, and it spreads. It gets into a limb, takes the whole thing, and turns it grey.
+
+There is a cure now — it stops the spread but does not undo it. What's left goes dark grey and hardens into something like rock, and is no longer really yours. It is also stronger than what it replaced.
 
 ### Bounties
 
@@ -350,7 +356,7 @@ Head of the Royal intelligence agency, with the whole thing under him. He interc
 
 He's also very nice, and he actually doesn't mind getting his hands dirty out on missions himself. He leads the intelligence agency for the entire city.
 
-*Connections:* Uncle of Heavy · Covered by The Deputy
+*Connections:* Uncle of Heavy · Covered by The Deputy · Runs The Analyst
 
 *Tags:* intelligence, spymaster, undercover, nice
 
@@ -410,7 +416,7 @@ He and his younger brother grew up on a planet where militias were the only thin
 
 He dies aboard an exploding ship. There was a bomb about to go off and take the whole planet with it; he pushed his younger brother into an escape pod, and then set the bomb off on the ship instead. Everyone else lived.
 
-*Connections:* Brother of The Younger Brother
+*Connections:* Brother of The Younger Brother · Commands Crispus · Best friend of The Gunner
 
 *Tags:* verdauf, elite, captain, hand-to-hand, brother, deceased
 
@@ -508,7 +514,7 @@ For a time he and the Street Ninja were rivals. They never actually hated each o
 
 Being the best in the world means a lot of high-profile missions, and not much time at home.
 
-*Connections:* Studied under The Samurai · Studied under The Red Ninja · Rival of The Street Ninja
+*Connections:* Studied under The Samurai · Studied under The Red Ninja · Rival of The Street Ninja · Rescued The Voiceless
 
 *Tags:* ninja, golden-sword, silent, prodigy, rival
 
@@ -777,6 +783,64 @@ What he does with it is wander around, talk to people, and skateboard.
 *Connections:* Brother of The Discarded
 
 *Tags:* discarded, wanderer, skateboard, sociable
+
+### 53. The Reformed
+
+**Alignment:** good · **Role:** Ambassador · **Figure:** custom
+
+He came out of an alien biker gang and turned his life around, switching his allegiance to Lego City during a hard stretch of the conflict. What changed him was working out that warfare lands on everyone.
+
+He wants a peaceful galaxy and is mostly an ambassador now. His whole gang has gone essentially pacifist with him — though if it came to a large enough battle, they would still fight.
+
+*Tags:* alien, biker-gang, reformed, pacifist, ambassador
+
+### 54. The Voiceless
+
+**Alignment:** good · **Figure:** custom
+
+One of the Damaged, rescued by the Activist.
+
+He can no longer speak. A voice implant gives him a robotic one, and he uses it to say what he thinks.
+
+*Connections:* Rescued by The Activist
+
+*Tags:* damaged, rescued, voice-implant, mute
+
+### 55. The Analyst
+
+**Alignment:** good · **Role:** Royal Intelligence Agent · **Based:** Lego City · **Figure:** custom
+
+Royal Intelligence Agency, in a background support role. Twenty-three or twenty-four, and highly capable at whatever he's handed.
+
+*Connections:* Works under Armstrong
+
+*Tags:* intelligence, support, young, capable
+
+### 56. Crispus
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+Space militia, under the Space Marshal. Very stern and a bit quiet, but friendly with it.
+
+Artillery and rockets are where he's strongest.
+
+*Connections:* Serves under The Space Marshal
+
+*Tags:* space-militia, artillery, rockets, stern, friendly
+
+### 57. The Gunner — Infected arm
+
+**Alignment:** good · **Role:** Space Police Gunner · **Figure:** custom
+
+Former gunner of the space police, and the Space Marshal's best friend. A soldier who fought a great many missions.
+
+Then the Goo got into his arm. It took the whole limb and turned it grey, and by the time a cure was found that stopped it spreading, the arm had gone dark grey and hardened into something like rock. He lost it, in the sense that it is no longer his arm.
+
+He still fights. The arm has superhuman strength in it now.
+
+*Connections:* Best friend of The Space Marshal
+
+*Tags:* space-police, gunner, the-goo, infected, super-strength, veteran
 
 ---
 

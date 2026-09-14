@@ -595,6 +595,7 @@ window.COLLECTION = [
     relations: [
       { to: "heavy", label: "Uncle of" },
       { to: "the-deputy", label: "Covered by" },
+      { to: "the-analyst", label: "Runs" },
     ],
     rating: 0,
     background:
@@ -737,6 +738,8 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-younger-brother", label: "Brother of" },
+      { to: "crispus", label: "Commands" },
+      { to: "the-gunner", label: "Best friend of" },
     ],
     rating: 0,
     background:
@@ -945,6 +948,7 @@ window.COLLECTION = [
       { to: "the-samurai", label: "Studied under" },
       { to: "the-red-ninja", label: "Studied under" },
       { to: "the-street-ninja", label: "Rival of" },
+      { to: "the-voiceless", label: "Rescued" },
     ],
     rating: 0,
     background:
@@ -1595,6 +1599,135 @@ window.COLLECTION = [
     images: ["images/the-wanderer-01.jpg"],
     acquired: "",
     notes: "Placeholder name."
+  },
+
+  {
+    id: "the-reformed",
+    name: "The Reformed",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ambassador",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He came out of an alien biker gang and turned his life around, switching " +
+      "his allegiance to Lego City during a hard stretch of the conflict. What " +
+      "changed him was working out that warfare lands on everyone.\n\n" +
+      "He wants a peaceful galaxy and is mostly an ambassador now. His whole " +
+      "gang has gone essentially pacifist with him — though if it came to a " +
+      "large enough battle, they would still fight.",
+    provenance: "",
+    tags: ["alien", "biker-gang", "reformed", "pacifist", "ambassador"],
+    images: ["images/the-reformed-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, in the pattern of the Discarded and the Rebuilt."
+  },
+
+  {
+    id: "the-voiceless",
+    name: "The Voiceless",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    location: "",
+    relations: [
+      { to: "the-activist", label: "Rescued by" },
+    ],
+    rating: 0,
+    background:
+      "One of the Damaged, rescued by the Activist.\n\n" +
+      "He can no longer speak. A voice implant gives him a robotic one, and he " +
+      "uses it to say what he thinks.",
+    provenance: "",
+    tags: ["damaged", "rescued", "voice-implant", "mute"],
+    images: ["images/the-voiceless-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Like the Activist, the damage on this figure is real."
+  },
+
+  {
+    id: "the-analyst",
+    name: "The Analyst",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Royal Intelligence Agent",
+    location: "Lego City",
+    relations: [
+      { to: "armstrong", label: "Works under" },
+    ],
+    rating: 0,
+    background:
+      "Royal Intelligence Agency, in a background support role. Twenty-three or " +
+      "twenty-four, and highly capable at whatever he's handed.",
+    provenance: "",
+    tags: ["intelligence", "support", "young", "capable"],
+    images: ["images/the-analyst-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Third figure in the black-vest-and-tie agency uniform, after Armstrong and the Deputy."
+  },
+
+  {
+    id: "crispus",
+    name: "Crispus",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Serves under" },
+    ],
+    rating: 0,
+    background:
+      "Space militia, under the Space Marshal. Very stern and a bit quiet, but " +
+      "friendly with it.\n\n" +
+      "Artillery and rockets are where he's strongest.",
+    provenance: "",
+    tags: ["space-militia", "artillery", "rockets", "stern", "friendly"],
+    images: ["images/crispus-01.jpg"],
+    acquired: "",
+    notes: ""
+  },
+
+  {
+    id: "the-gunner",
+    name: "The Gunner",
+    variant: "Infected arm",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Police Gunner",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Best friend of" },
+    ],
+    rating: 0,
+    background:
+      "Former gunner of the space police, and the Space Marshal's best friend. " +
+      "A soldier who fought a great many missions.\n\n" +
+      "Then the Goo got into his arm. It took the whole limb and turned it grey, " +
+      "and by the time a cure was found that stopped it spreading, the arm had " +
+      "gone dark grey and hardened into something like rock. He lost it, in the " +
+      "sense that it is no longer his arm.\n\n" +
+      "He still fights. The arm has superhuman strength in it now.",
+    provenance: "",
+    tags: ["space-police", "gunner", "the-goo", "infected", "super-strength", "veteran"],
+    images: ["images/the-gunner-01.jpg"],
+    acquired: "",
+    notes: "The black arm on the figure is the infected one - the lore and the plastic agree again."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
