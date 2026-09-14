@@ -224,6 +224,7 @@ window.COLLECTION = [
       { to: "the-palace-chief", label: "Pushed into the Senate by" },
       { to: "kenjen", label: "Has yet to call on" },
       { to: "jimzon", label: "Served by" },
+      { to: "king-arthur", label: "Followed by" },
     ],
     rating: 0,
     background:
@@ -2703,6 +2704,131 @@ window.COLLECTION = [
     images: ["images/the-medic-01.jpg"],
     acquired: "",
     notes: "Placeholder name."
+  },
+
+  {
+    id: "the-brute-prince",
+    name: "The Brute Prince",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Prince",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A prince of the Mega Bloks world — a prince, not a king — during the " +
+      "Halo Mega Bloks wars.\n\n" +
+      "The Mega Bloks were the aggressor. He was one of the few on that side " +
+      "who argued for stopping it, and who wanted it resolved by talking rather " +
+      "than by winning. The war did eventually end.",
+    provenance: "",
+    tags: ["mega-bloks", "knock-off", "prince", "peacemaker", "halo-wars", "diplomat"],
+    images: ["images/the-brute-prince-01.jpg"],
+    acquired: "",
+    notes: "He is a Mega Bloks Halo figure, so like the Defector his origin is what he is made of. Placeholder name - kept distinct from Brute, the Secretary of War."
+  },
+
+  {
+    id: "the-nexo-knight",
+    name: "The Nexo Knight",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Knight",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He spent his career in the shadow of a more prominent knight, and never " +
+      "minded. He has a jetpack and can come at you from above.\n\n" +
+      "Very modest. He would rather not be in the spotlight at all.",
+    provenance: "",
+    tags: ["knight", "nexo", "jetpack", "modest", "overshadowed"],
+    images: ["images/the-nexo-knight-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Part of your description came through garbled - something about the knight he stood behind, and serving as the gunner. Worth re-telling."
+  },
+
+  {
+    id: "king-arthur",
+    name: "King Arthur",
+    variant: "Mounted",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "King",
+    location: "The Gunless Realm",
+    relations: [
+      { to: "the-prince", label: "Follows" },
+    ],
+    rating: 0,
+    background:
+      "King of the part of the world where guns do not work, and where everyone " +
+      "has therefore fallen back on medieval tactics.\n\n" +
+      "He is a king in his own right and still answers to the Prince. His sword " +
+      "is Excalibur, and the cape is excellent.",
+    provenance: "",
+    tags: ["king", "excalibur", "gunless-realm", "mounted", "timeless"],
+    images: ["images/king-arthur-01.jpg"],
+    acquired: "",
+    notes: "Taken as his actual in-world name rather than a comparison, since you named his sword too - say if that's wrong. \"The Gunless Realm\" is my shorthand for his territory; it needs a real name."
+  },
+
+  {
+    id: "the-armorer",
+    name: "The Armorer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Armorer",
+    location: "",
+    relations: [
+      { to: "king-arthur", label: "From the realm of" },
+    ],
+    rating: 0,
+    background:
+      "A knight out of the realm where guns don't work, trained on the crossbow " +
+      "because that is what there was.\n\n" +
+      "Then he travelled to the primary Lego dimension, picked up a firearm, and " +
+      "turned out to be the most skilled shot in it. He serves as the armorer, " +
+      "or on the battlefield as a long-range rifleman.",
+    provenance: "",
+    tags: ["knight", "armorer", "crossbow", "marksman", "gunless-realm", "traveller"],
+    images: ["images/the-armorer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "curtis",
+    name: "Curtis",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Knight",
+    location: "The Gunless Realm",
+    relations: [
+      { to: "king-arthur", label: "Knight of" },
+    ],
+    rating: 0,
+    background:
+      "A famous knight of the gunless realm. Very brave, and a great enjoyer of " +
+      "jousting.",
+    provenance: "",
+    tags: ["knight", "famous", "brave", "jousting", "gunless-realm"],
+    images: ["images/curtis-01.jpg"],
+    acquired: "",
+    notes: ""
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

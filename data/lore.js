@@ -38,6 +38,18 @@ window.LORE = [
   },
 
   {
+    title: "The realm where guns don't work",
+    text:
+      "There is a part of the world where firearms simply do not function, so " +
+      "everyone there fell back on medieval tactics and stayed there. It has " +
+      "its own king, who answers to the Prince, and its own famous knights.\n\n" +
+      "It also exports. A knight trained on the crossbow because that was all " +
+      "his home allowed came across to the primary dimension, picked up a gun, " +
+      "and turned out to be the finest shot in it.\n\n" +
+      "The place still needs a proper name."
+  },
+
+  {
     title: "The knock-off societies",
     text:
       "Not every other world is another collection. Some are off-brand — the " +
@@ -45,6 +57,9 @@ window.LORE = [
       "war on Lego given the chance.\n\n" +
       "At least one commander has come across anyway, bringing some of his men " +
       "with him. He is visibly adapting.\n\n" +
+      "And there was a real war: the Halo Mega Bloks wars, with the Mega Bloks " +
+      "as the aggressor. It ended. One of the few who pushed for ending it by " +
+      "talking rather than winning was a prince on their own side.\n\n" +
       "This is the clearest case in the whole collection of the story and the " +
       "material being the same thing: he is from a knock-off society because he " +
       "is a knock-off minifigure."

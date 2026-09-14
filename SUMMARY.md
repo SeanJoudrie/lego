@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-92 characters from a custom LEGO minifigure world, in the order they were
+97 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -23,11 +23,21 @@ Figures destroyed elsewhere get put back together out of what is in there. The S
 
 So there are two kinds of not-Lego in this world. The knock-off societies, who would go to war. And the Bin, which is where the pieces that save people come from.
 
+### The realm where guns don't work
+
+There is a part of the world where firearms simply do not function, so everyone there fell back on medieval tactics and stayed there. It has its own king, who answers to the Prince, and its own famous knights.
+
+It also exports. A knight trained on the crossbow because that was all his home allowed came across to the primary dimension, picked up a gun, and turned out to be the finest shot in it.
+
+The place still needs a proper name.
+
 ### The knock-off societies
 
 Not every other world is another collection. Some are off-brand — the knock-off brick civilizations — and a good many of them would declare war on Lego given the chance.
 
 At least one commander has come across anyway, bringing some of his men with him. He is visibly adapting.
+
+And there was a real war: the Halo Mega Bloks wars, with the Mega Bloks as the aggressor. It ended. One of the few who pushed for ending it by talking rather than winning was a prince on their own side.
 
 This is the clearest case in the whole collection of the story and the material being the same thing: he is from a knock-off society because he is a knock-off minifigure.
 
@@ -229,7 +239,7 @@ He started out as a senator in the earliest days of the Senate, in a purple T-sh
 
 He is a much better king now, and genuinely useful. He still sometimes wonders what makes him so special. The real answer is just that he has a good heart. He is not the super mega ultra genius politician. He genuinely just has a good heart.
 
-*Connections:* Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief · Has yet to call on Kenjen · Served by Jimzon
+*Connections:* Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief · Has yet to call on Kenjen · Served by Jimzon · Followed by King Arthur
 
 *Tags:* royal-family, king, senator, married, good-heart
 
@@ -1317,6 +1327,60 @@ He is the one who saved the man whose arm turned to rock.
 *Connections:* Serves under The General · Saved the life of The Gunner
 
 *Tags:* space-militia, medic, the-goo, lifesaver
+
+### 93. The Brute Prince
+
+**Alignment:** good · **Role:** Prince · **Figure:** custom
+
+A prince of the Mega Bloks world — a prince, not a king — during the Halo Mega Bloks wars.
+
+The Mega Bloks were the aggressor. He was one of the few on that side who argued for stopping it, and who wanted it resolved by talking rather than by winning. The war did eventually end.
+
+*Tags:* mega-bloks, knock-off, prince, peacemaker, halo-wars, diplomat
+
+### 94. The Nexo Knight
+
+**Alignment:** good · **Role:** Knight · **Figure:** custom
+
+He spent his career in the shadow of a more prominent knight, and never minded. He has a jetpack and can come at you from above.
+
+Very modest. He would rather not be in the spotlight at all.
+
+*Tags:* knight, nexo, jetpack, modest, overshadowed
+
+### 95. King Arthur — Mounted
+
+**Alignment:** good · **Role:** King · **Based:** The Gunless Realm · **Figure:** custom
+
+King of the part of the world where guns do not work, and where everyone has therefore fallen back on medieval tactics.
+
+He is a king in his own right and still answers to the Prince. His sword is Excalibur, and the cape is excellent.
+
+*Connections:* Follows The Prince
+
+*Tags:* king, excalibur, gunless-realm, mounted, timeless
+
+### 96. The Armorer
+
+**Alignment:** good · **Role:** Armorer · **Figure:** custom
+
+A knight out of the realm where guns don't work, trained on the crossbow because that is what there was.
+
+Then he travelled to the primary Lego dimension, picked up a firearm, and turned out to be the most skilled shot in it. He serves as the armorer, or on the battlefield as a long-range rifleman.
+
+*Connections:* From the realm of King Arthur
+
+*Tags:* knight, armorer, crossbow, marksman, gunless-realm, traveller
+
+### 97. Curtis
+
+**Alignment:** good · **Role:** Knight · **Based:** The Gunless Realm · **Figure:** custom
+
+A famous knight of the gunless realm. Very brave, and a great enjoyer of jousting.
+
+*Connections:* Knight of King Arthur
+
+*Tags:* knight, famous, brave, jousting, gunless-realm
 
 ---
 
