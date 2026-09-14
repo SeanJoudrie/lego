@@ -88,22 +88,23 @@ buries his wife and children under a staff directory. Links are one-way, and
 that asymmetry is useful: a soldier can say he is loyal to the Prince on his own
 page without the Prince having to say it back.
 
-Underneath that come two more rows, both derived from fields rather than
-hand-maintained:
+There is exactly **one** Connections section, and it holds people this figure has
+actually had something to do with. It is built from two fields:
 
-**`group`** — what someone belongs to. An organisation, a people, a crew: The
-Space Militia, The Damaged, The First Circle, The Gunless Realm. This is the one
-that does the heavy lifting, because `role` is a job title and people in the same
-outfit rarely share one — a militia medic, a militia general and a militia cadet
-have three different roles and are the same organisation. Everyone sharing a
-group is shown to everyone else in it.
+- **`relations`** — stated ties, shown with their label ("Trained", "Married to").
+- **`group`** — what someone belongs to: The Space Militia, The Damaged, The First
+  Circle. Everyone in a group is shown to everyone else in it, labelled with
+  their role. This carries the weight, because `role` is a job title and people
+  in the same outfit rarely share one — a militia medic, a militia general and a
+  militia cadet are the same organisation with three different roles.
 
-**`role`** — an *Also <role>* row for everyone doing the same job, skipping
-anyone the group row already showed, so the two never repeat each other. Neither
-row renders when it would be empty.
+Anyone in both appears once, with the stated relation winning.
 
-Both are also filters. Between them, `relations` is freed up to carry only what's
-personal.
+**A shared `role` is deliberately not a connection.** Two soldiers who have never
+met are not connected, and a row full of strangers who happen to have the same
+job title is worse than no row. `role` stays a filter and a label; it does not
+feed this section. A figure who has met nobody yet simply has no Connections
+section, which is true and better than filler.
 
 ### Several photos of one character
 

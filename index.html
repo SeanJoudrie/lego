@@ -427,26 +427,22 @@ function open(f) {
         <div class="bg">${esc(f.background || "")}</div>
         ${f.provenance ? `<div class="prov"><h4>How I got it</h4>${esc(f.provenance)}</div>` : ``}
         ${(() => {
+          // One section. People this figure has actually had something to do with:
+          // stated relationships first, then the rest of whatever they belong to.
+          // Shared job title is NOT a connection - two soldiers who never met
+          // are not connected, so `role` does not feed this at all.
           const rels = (f.relations || [])
-            .map(r => ({ ...r, g: FIGS.find(x => x.id === r.to) }))
-            .filter(r => r.g);          // silently skip links to figures not yet added
-          return rels.length ? `<div class="rel"><h4>Connections</h4>
-            <div class="minis">${rels.map(r => miniCard(r.g, r.label)).join("")}</div>
+            .map(r => ({ g: FIGS.find(x => x.id === r.to), label: r.label }))
+            .filter(r => r.g);
+          const seen = new Set(rels.map(r => r.g._i));
+          const fam = f.group
+            ? FIGS.filter(g => g.group === f.group && g._i !== f._i && !seen.has(g._i))
+                  .map(g => ({ g, label: g.role || f.group }))
+            : [];
+          const all = rels.concat(fam);
+          return all.length ? `<div class="rel"><h4>Connections</h4>
+            <div class="minis">${all.map(r => miniCard(r.g, r.label)).join("")}</div>
           </div>` : ``;
-        })()}
-        ${(() => {
-          // who they belong to, then who else does the same job —
-          // the job row drops anyone the group row already showed
-          const fam = f.group ? FIGS.filter(g => g.group === f.group && g._i !== f._i) : [];
-          const shown = new Set(fam.map(g => g._i));
-          const job = f.role
-            ? FIGS.filter(g => g.role === f.role && g._i !== f._i && !shown.has(g._i)) : [];
-          return (fam.length ? `<div class="rel"><h4>${esc(f.group)}</h4>
-              <div class="minis">${fam.map(g => miniCard(g, g.role || "")).join("")}</div>
-            </div>` : ``)
-           + (job.length ? `<div class="rel"><h4>Also ${esc(f.role)}</h4>
-              <div class="minis">${job.map(g => miniCard(g, "")).join("")}</div>
-            </div>` : ``);
         })()}
         ${(f.acquired || f.notes) ? `<div class="facts">
           ${f.acquired ? `<div><b>Acquired</b> — ${esc(f.acquired)}</div>` : ``}
