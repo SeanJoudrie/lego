@@ -4548,7 +4548,7 @@ window.COLLECTION = [
   {
     id: "bruce-wayne",
     name: "Bruce Wayne",
-    variant: "",
+    variant: "And Batman",
     faction: "good",
     origin: "branded",
     theme: "DC",
@@ -4558,12 +4558,15 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Literally Bruce Wayne.",
+    background: "Literally Bruce Wayne. Also, literally Batman.",
     provenance: "A genuine DC minifigure, not a build.",
-    tags: ["dc", "batman", "branded", "visitor"],
-    images: ["images/bruce-wayne-01.jpg"],
+    tags: ["dc", "batman", "bruce-wayne", "branded", "visitor", "two-outfits"],
+    images: [
+      { src: "images/bruce-wayne-01.jpg", caption: "Bruce Wayne" },
+      { src: "images/bruce-wayne-02.jpg", caption: "Batman" }
+    ],
     acquired: "",
-    notes: "Second branded figure, and the second theme outside the Creation Mythos. Same open question as Tony Stark about how he stands relative to the worlds."
+    notes: "Two figures, one man, one entry - your own rule is never two entries for the same person, and a secret identity is the most literal case of two outfits there is. Say the word if you would rather Batman stood on his own card. Same open question as Tony Stark about how he stands relative to the worlds."
   },
 
 
@@ -4861,6 +4864,103 @@ window.COLLECTION = [
     images: ["images/the-comedian-01.jpg"],
     acquired: "",
     notes: "Placeholder name. First figure here whose provenance is another person's work rather than a set or a kitbash."
+  },
+
+
+
+  {
+    id: "the-second-blacktron-pilot",
+    name: "The Second Blacktron Pilot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot",
+    group: "The Blacktron Squadron",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A pilot on the Blacktron team.",
+    provenance:
+      "Notably not wearing Blacktron black and yellow - white and grey, with " +
+      "an air supply rig printed across his chest.",
+    tags: ["blacktron", "pilot", "space", "air-supply"],
+    images: ["images/the-second-blacktron-pilot-01.jpg"],
+    acquired: "",
+    notes: "Named by ordinal because the squadron already has a Blacktron Pilot and no story separates them yet - same pattern as the Second Padawan."
+  },
+
+
+  {
+    id: "the-town-twins",
+    name: "The Town Twins",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Twins with normal jobs.\n\n" +
+      "Sometimes they dress the same as a joke. You can find them hanging " +
+      "around the park, or watching a sports game.",
+    provenance: "",
+    tags: ["twins", "civilian", "normal-jobs", "park", "sports", "pair", "joke"],
+    images: ["images/the-town-twins-01.jpg"],
+    acquired: "",
+    notes: "Called the Town Twins to keep them clear of the Twins, who are Archangels of the First Circle. These two work normal jobs and go to the park. One box because they share a photo - say so if you'd rather they were split."
+  },
+
+
+  {
+    id: "the-marathon-runner",
+    name: "The Marathon Runner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A town marathon runner.",
+    provenance: "The bib is printed on the vest: BIB 0937.",
+    tags: ["marathon", "runner", "athlete", "race", "town"],
+    images: ["images/the-marathon-runner-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Second athlete here, after the Space Boarder, so the Athlete role finally has two people in it."
+  },
+
+
+  {
+    id: "the-man-from-the-yellow-dimension",
+    name: "The Man from the Yellow Dimension",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A man from the yellow dimension.",
+    provenance:
+      "Entirely yellow and entirely unprinted - head, torso, arms, hands and " +
+      "legs all one colour, and no face at all. The only figure in the " +
+      "collection with nothing on its face.",
+    tags: ["yellow-dimension", "dimensions", "blank", "faceless", "monochrome"],
+    images: ["images/the-man-from-the-yellow-dimension-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. First mention of the yellow dimension anywhere - a whole place the world notes have never heard of. Compare the Manifestation of Life, who is the plainest printed figure here; this one goes a step further and has no face."
   },
 
 

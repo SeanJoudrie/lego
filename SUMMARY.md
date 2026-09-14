@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-174 characters from a custom LEGO minifigure world, in the order they were
+178 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2058,15 +2058,15 @@ Literally Tony Stark.
 
 *Tags:* marvel, iron-man, branded, visitor
 
-### 162. Bruce Wayne
+### 162. Bruce Wayne — And Batman
 
 **Alignment:** good · **Figure:** branded
 
-Literally Bruce Wayne.
+Literally Bruce Wayne. Also, literally Batman.
 
 *How it was got:* A genuine DC minifigure, not a build.
 
-*Tags:* dc, batman, branded, visitor
+*Tags:* dc, batman, bruce-wayne, branded, visitor, two-outfits
 
 ### 163. The Stunt Robot
 
@@ -2179,6 +2179,46 @@ A local stand-up comedian. Also a skateboarder. Also, sometimes, the town drunk.
 *How it was got:* This figure appears in a minifigure scene in the KESHEN8 YouTube video LEGO Black Ops - the only figure in the collection that came out of somebody else's film.
 
 *Tags:* comedian, stand-up, skateboarder, drunk, keshen8, film
+
+### 175. The Second Blacktron Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** custom
+
+A pilot on the Blacktron team.
+
+*How it was got:* Notably not wearing Blacktron black and yellow - white and grey, with an air supply rig printed across his chest.
+
+*Tags:* blacktron, pilot, space, air-supply
+
+### 176. The Town Twins — Two of them
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+Twins with normal jobs.
+
+Sometimes they dress the same as a joke. You can find them hanging around the park, or watching a sports game.
+
+*Tags:* twins, civilian, normal-jobs, park, sports, pair, joke
+
+### 177. The Marathon Runner
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+A town marathon runner.
+
+*How it was got:* The bib is printed on the vest: BIB 0937.
+
+*Tags:* marathon, runner, athlete, race, town
+
+### 178. The Man from the Yellow Dimension
+
+**Alignment:** good · **Figure:** custom
+
+A man from the yellow dimension.
+
+*How it was got:* Entirely yellow and entirely unprinted - head, torso, arms, hands and legs all one colour, and no face at all. The only figure in the collection with nothing on its face.
+
+*Tags:* yellow-dimension, dimensions, blank, faceless, monochrome
 
 ---
 
