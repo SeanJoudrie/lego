@@ -4519,6 +4519,121 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "tony-stark",
+    name: "Tony Stark",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Marvel",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Literally Tony Stark.",
+    provenance: "A genuine Marvel minifigure, not a build.",
+    tags: ["marvel", "iron-man", "branded", "visitor"],
+    images: ["images/tony-stark-01.jpg"],
+    acquired: "",
+    notes: "First branded figure in the catalog - the origin filter has had nothing but customs in it for 160 figures and now it does something. How he stands relative to the worlds cosmology isn't written down: by your own rule every Lego world is its own world, which would make him a visitor, but you haven't said it so I haven't."
+  },
+
+
+  {
+    id: "bruce-wayne",
+    name: "Bruce Wayne",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "DC",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Literally Bruce Wayne.",
+    provenance: "A genuine DC minifigure, not a build.",
+    tags: ["dc", "batman", "branded", "visitor"],
+    images: ["images/bruce-wayne-01.jpg"],
+    acquired: "",
+    notes: "Second branded figure, and the second theme outside the Creation Mythos. Same open question as Tony Stark about how he stands relative to the worlds."
+  },
+
+
+  {
+    id: "the-stunt-robot",
+    name: "The Stunt Robot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Stunt Double",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A robot used for the stunts - the ones where putting a human in would " +
+      "be too dangerous.",
+    provenance: "",
+    tags: ["robot", "stunts", "stand-in", "dangerous-work", "film"],
+    images: ["images/the-stunt-robot-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Third robot here built to stand in for a person, after the Vessel and the Replica - though this one is the only one whose whole purpose is being expendable."
+  },
+
+
+  {
+    id: "the-curly-haired-adventurer",
+    name: "The Curly-Haired Adventurer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventure Crew",
+    group: "The Adventure Crew",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the khaki adventure lot.",
+    provenance: "",
+    tags: ["adventurer", "khaki", "sidearm"],
+    images: ["images/the-curly-haired-adventurer-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive - no story given for him yet beyond which crew he runs with. Ninth in the Adventure Crew."
+  },
+
+
+  {
+    id: "the-viking",
+    name: "The Viking",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Viking",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A viking, sent here in a time dilation like the others were.\n\n" +
+      "She is genuinely nice, and very chill. She likes running water.",
+    provenance: "",
+    tags: ["viking", "time-dilation", "displaced", "calm", "running-water", "woman"],
+    images: ["images/the-viking-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. You said she ALSO came through a time dilation - nobody else in the catalog is recorded as having arrived that way yet, so whoever the others are, they're not written down. Worth telling me who."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

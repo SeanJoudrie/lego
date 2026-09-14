@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-160 characters from a custom LEGO minifigure world, in the order they were
+165 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2045,6 +2045,52 @@ The forensics of the Lego Agents. She is the one who reads a crime scene, and th
 One of the Lego Agents.
 
 *Tags:* agent, spy, helmet, sunglasses
+
+### 161. Tony Stark
+
+**Alignment:** good · **Figure:** branded
+
+Literally Tony Stark.
+
+*How it was got:* A genuine Marvel minifigure, not a build.
+
+*Tags:* marvel, iron-man, branded, visitor
+
+### 162. Bruce Wayne
+
+**Alignment:** good · **Figure:** branded
+
+Literally Bruce Wayne.
+
+*How it was got:* A genuine DC minifigure, not a build.
+
+*Tags:* dc, batman, branded, visitor
+
+### 163. The Stunt Robot
+
+**Alignment:** good · **Role:** Stunt Double · **Figure:** custom
+
+A robot used for the stunts - the ones where putting a human in would be too dangerous.
+
+*Tags:* robot, stunts, stand-in, dangerous-work, film
+
+### 164. The Curly-Haired Adventurer
+
+**Alignment:** good · **Role:** Adventure Crew · **Figure:** custom
+
+One of the khaki adventure lot.
+
+*Tags:* adventurer, khaki, sidearm
+
+### 165. The Viking
+
+**Alignment:** good · **Role:** Viking · **Figure:** custom
+
+A viking, sent here in a time dilation like the others were.
+
+She is genuinely nice, and very chill. She likes running water.
+
+*Tags:* viking, time-dilation, displaced, calm, running-water, woman
 
 ---
 
