@@ -115,6 +115,7 @@ window.COLLECTION = [
     rank: "",
     role: "Archangel",
     location: "",
+    relations: [],
     rating: 0,
     background:
       "Two of them, and they come as a pair. The one with the blue jetpack is " +
@@ -147,6 +148,7 @@ window.COLLECTION = [
     rank: "Mortal",
     role: "Archangel",
     location: "",
+    relations: [],
     rating: 0,
     background:
       "Another of the Archangel types, but where the twins do missions, he does " +
@@ -437,6 +439,7 @@ window.COLLECTION = [
     rank: "",
     role: "Chief of Police",
     location: "Lego City",
+    relations: [],
     rating: 0,
     background:
       "He's based in Lego City — the giant, expensive city that exists in this " +
@@ -467,6 +470,7 @@ window.COLLECTION = [
     rank: "",
     role: "Commander of the Clone Armies",
     location: "",
+    relations: [],
     rating: 0,
     background:
       "He's called Claws for his proficiency with the energy sword. There are " +
@@ -510,6 +514,7 @@ window.COLLECTION = [
     rank: "",
     role: "Aircraft Engineer",
     location: "",
+    relations: [],
     rating: 0,
     background:
       "He fixes and invents a lot of the aircraft used across the Royal world. " +
@@ -540,6 +545,7 @@ window.COLLECTION = [
     rank: "",
     role: "Soldier",
     location: "Off-world",
+    relations: [],
     rating: 0,
     background:
       "Known for going loud, and known for completing just about any mission " +
@@ -563,6 +569,7 @@ window.COLLECTION = [
     rank: "",
     role: "Sniper",
     location: "Lego City",
+    relations: [],
     rating: 0,
     background:
       "The most elite soldier out of any of them, and the one who likes to be " +
@@ -625,6 +632,7 @@ window.COLLECTION = [
     rank: "",
     role: "Orphan",
     location: "The Royal Palace",
+    relations: [],
     rating: 0,
     background:
       "Various orphans, all of them hit by the war. They are different species " +
@@ -712,6 +720,10 @@ window.COLLECTION = [
     rank: "",
     role: "Chief of Space Police",
     location: "",
+    relations: [
+      { to: "crispus", label: "Commands" },
+      { to: "the-gunner", label: "Best friend of" },
+    ],
     rating: 0,
     background:
       "The man in charge of the space police. He has a team of his own, who " +
@@ -738,8 +750,6 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-younger-brother", label: "Brother of" },
-      { to: "crispus", label: "Commands" },
-      { to: "the-gunner", label: "Best friend of" },
     ],
     rating: 0,
     background:
@@ -912,6 +922,9 @@ window.COLLECTION = [
     rank: "",
     role: "Rights Activist",
     location: "",
+    relations: [
+      { to: "the-voiceless", label: "Rescued" },
+    ],
     rating: 0,
     background:
       "He comes from another world, one where Lego figures were destroyed and " +
@@ -948,7 +961,6 @@ window.COLLECTION = [
       { to: "the-samurai", label: "Studied under" },
       { to: "the-red-ninja", label: "Studied under" },
       { to: "the-street-ninja", label: "Rival of" },
-      { to: "the-voiceless", label: "Rescued" },
     ],
     rating: 0,
     background:
@@ -1373,7 +1385,6 @@ window.COLLECTION = [
     notes: "Placeholder name. The damage is literal - the figure really is worn through and wearing two different legs, so the lore and the plastic agree again."
   },
 
-
   {
     id: "the-rebuilt",
     name: "The Rebuilt",
@@ -1729,6 +1740,8 @@ window.COLLECTION = [
     acquired: "",
     notes: "The black arm on the figure is the infected one - the lore and the plastic agree again."
   },
+
+
 
   /* ---- TEMPLATE: copy this block for each new figure ----
   {

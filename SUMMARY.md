@@ -404,6 +404,8 @@ The man in charge of the space police. He has a team of his own, who you'll meet
 
 Bold and daring, with a lot of feelings running close to the surface — but an optimist underneath all of it. And he does not go to the dark side. He's chill.
 
+*Connections:* Commands Crispus · Best friend of The Gunner
+
 *Tags:* space-police, bold, daring, optimist, leads-a-team
 
 ### 23. The Green Captain — Light green armor
@@ -416,7 +418,7 @@ He and his younger brother grew up on a planet where militias were the only thin
 
 He dies aboard an exploding ship. There was a bomb about to go off and take the whole planet with it; he pushed his younger brother into an escape pod, and then set the bomb off on the ship instead. Everyone else lived.
 
-*Connections:* Brother of The Younger Brother · Commands Crispus · Best friend of The Gunner
+*Connections:* Brother of The Younger Brother
 
 *Tags:* verdauf, elite, captain, hand-to-hand, brother, deceased
 
@@ -500,6 +502,8 @@ He's an outspoken rights activist for damaged figures everywhere, in the hope th
 
 The damage on him is real damage, done by somebody else. He is not a figure made to look like one of the Damaged — he is one.
 
+*Connections:* Rescued The Voiceless
+
 *Tags:* damaged, activist, rescuer, refugee, loyal, salvaged
 
 ### 29. The Blue-Haired Ninja — Red robes
@@ -514,7 +518,7 @@ For a time he and the Street Ninja were rivals. They never actually hated each o
 
 Being the best in the world means a lot of high-profile missions, and not much time at home.
 
-*Connections:* Studied under The Samurai · Studied under The Red Ninja · Rival of The Street Ninja · Rescued The Voiceless
+*Connections:* Studied under The Samurai · Studied under The Red Ninja · Rival of The Street Ninja
 
 *Tags:* ninja, golden-sword, silent, prodigy, rival
 
