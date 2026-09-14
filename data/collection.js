@@ -2365,7 +2365,9 @@ window.COLLECTION = [
     role: "Commander",
     group: "The Knock-offs",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-car-repairman", label: "Brought him across" },
+    ],
     rating: 0,
     background:
       "A soldier commander out of one of the knock-off societies — the off-brand " +
@@ -5648,6 +5650,127 @@ window.COLLECTION = [
     images: ["images/the-farmer-01.jpg"],
     acquired: "",
     notes: "Placeholder name. Second farmer in the role filter after the Alien Farmer - and the First Man, who was a farmer before he was anything else, has no role recorded at all."
+  },
+
+
+
+  {
+    id: "the-farmer-boy",
+    name: "The Farmer Boy",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Farmer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A farmer boy.",
+    provenance:
+      "Wearing exactly the same blue and white overalls as the Farmer, who " +
+      "arrived one batch ago.",
+    tags: ["farmer", "boy", "overalls", "young"],
+    images: ["images/the-farmer-boy-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. No link written to the Farmer - the shared overalls make them look like father and son, but you have not said they are, and wearing the same workwear is not a family. One word and it goes in."
+  },
+
+
+  {
+    id: "the-graduate",
+    name: "The Graduate",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Graduate",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A graduation kid. Cap, gown, and very pleased about it.",
+    provenance: "",
+    tags: ["graduate", "graduation", "student", "young", "cap-and-gown"],
+    images: ["images/the-graduate-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Third figure in the education thread, after the Law Student and the Intern - and the only one who has finished."
+  },
+
+
+  {
+    id: "the-surfer",
+    name: "The Surfer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Surfer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A beach surfer.",
+    provenance: "Sunset shirt, palm trees, and bare legs below the shorts.",
+    tags: ["surfer", "beach", "sea", "sunglasses"],
+    images: ["images/the-surfer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Second man on the beach after the Beach Bum, and no link between them - sharing a coastline is not knowing each other."
+  },
+
+
+  {
+    id: "the-car-repairman",
+    name: "The Car Repairman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Mechanic",
+    group: "The Knock-offs",
+    location: "",
+    relations: [
+      { to: "the-defector", label: "Defected with" },
+    ],
+    rating: 0,
+    background:
+      "One of the men who came across with the Defector when he switched sides.\n\n" +
+      "He became a normal car repairman.",
+    provenance:
+      "His head has a moulded nose, which Lego minifigure heads do not - like " +
+      "the Defector, he is physically a knock-off figure. The lore and the " +
+      "plastic agree twice over now.",
+    tags: ["knock-off", "defector", "mechanic", "car-repair", "former-soldier", "new-life"],
+    images: ["images/the-car-repairman-01.jpg"],
+    acquired: "",
+    notes: "The Defector's entry has said since it was written that he brought some of his men across with him. This is the first of those men to get a face. Second mechanic in the role filter, after the Builder and his clone."
+  },
+
+
+  {
+    id: "the-traveller",
+    name: "The Traveller",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Traveller",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A normal traveller. He likes to travel to the different parts of the city.",
+    provenance: "",
+    tags: ["traveller", "city", "wanderer", "backpack"],
+    images: ["images/the-traveller-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. He shares the Traveller role with the In-Betweener, who lives in the space between dimensions and has sat with the gods of several worlds. Filtering by Traveller now returns both of them, which is the best joke the role dropdown has made so far."
   },
 
 

@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-204 characters from a custom LEGO minifigure world, in the order they were
+209 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -1177,6 +1177,8 @@ Both of them have a southern accent and both of them are very friendly. They are
 A soldier commander out of one of the knock-off societies — the off-brand civilizations, plenty of whom would happily declare war on Lego.
 
 He switched sides, and brought some of his men across with him. You can already see him adapting to the new climate.
+
+*Connections:* Brought him across The Car Repairman
 
 *Tags:* defector, knock-off, commander, switched-sides, adapting
 
@@ -2523,6 +2525,56 @@ A farmer.
 *How it was got:* Mismatched arms again - one cream, one dark brown, with grey hands. The second figure in two batches built that way, after the Tea Seller.
 
 *Tags:* farmer, overalls, mismatched-arms
+
+### 205. The Farmer Boy
+
+**Alignment:** good · **Role:** Farmer · **Figure:** custom
+
+A farmer boy.
+
+*How it was got:* Wearing exactly the same blue and white overalls as the Farmer, who arrived one batch ago.
+
+*Tags:* farmer, boy, overalls, young
+
+### 206. The Graduate
+
+**Alignment:** good · **Role:** Graduate · **Figure:** custom
+
+A graduation kid. Cap, gown, and very pleased about it.
+
+*Tags:* graduate, graduation, student, young, cap-and-gown
+
+### 207. The Surfer
+
+**Alignment:** good · **Role:** Surfer · **Figure:** custom
+
+A beach surfer.
+
+*How it was got:* Sunset shirt, palm trees, and bare legs below the shorts.
+
+*Tags:* surfer, beach, sea, sunglasses
+
+### 208. The Car Repairman
+
+**Alignment:** good · **Role:** Mechanic · **Figure:** custom
+
+One of the men who came across with the Defector when he switched sides.
+
+He became a normal car repairman.
+
+*How it was got:* His head has a moulded nose, which Lego minifigure heads do not - like the Defector, he is physically a knock-off figure. The lore and the plastic agree twice over now.
+
+*Connections:* Defected with The Defector
+
+*Tags:* knock-off, defector, mechanic, car-repair, former-soldier, new-life
+
+### 209. The Traveller
+
+**Alignment:** good · **Role:** Traveller · **Figure:** custom
+
+A normal traveller. He likes to travel to the different parts of the city.
+
+*Tags:* traveller, city, wanderer, backpack
 
 ---
 
