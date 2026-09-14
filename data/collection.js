@@ -3691,6 +3691,132 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "george-joudrie",
+    name: "George Joudrie",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Very loving. Likes to work outside.\n\n" +
+      "He is a civilian. He could probably do anything.",
+    provenance: "The Lego version of my dad.",
+    tags: ["civilian", "father", "real-person", "outdoors", "capable"],
+    images: ["images/george-joudrie-01.jpg"],
+    acquired: "",
+    notes: "The first figure here named after someone real and living, and the only man in the collection with no rank, no office and no unit who is still described as able to do anything."
+  },
+
+
+  {
+    id: "the-royal-financier",
+    name: "The Royal Financier",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Financier",
+    group: "The Royal Galactic Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the head financiers of the Royal Galactic Army. He is the reason " +
+      "the fleet is paid for.",
+    provenance: "",
+    tags: ["financier", "money", "royal", "army", "suit"],
+    images: ["images/the-royal-financier-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Open question: is the Royal Galactic Army the same force as the Space Militia, or a separate one? Kept as its own group until you say."
+  },
+
+
+  {
+    id: "the-ninja-fan",
+    name: "The Ninja Fan",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A fan of all ninja. He is genuinely good with a sword - not the best, " +
+      "but good.\n\n" +
+      "He has training. He has no proper training. Nobody in the lineage taught " +
+      "him anything; he got this far on his own, because he loves it.",
+    provenance: "",
+    tags: ["ninja-fan", "sword", "self-taught", "untrained", "enthusiast"],
+    images: ["images/the-ninja-fan-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Deliberately NOT in the Ninja Lineage - admiring them is not belonging to them, and that gap is the whole character."
+  },
+
+
+  {
+    id: "the-city-financier",
+    name: "The City Financier",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Financier",
+    group: "",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background:
+      "He finances a lot of domestic Lego City. The police budget and the " +
+      "defense budget both come through him.\n\n" +
+      "He funds them as best he can.",
+    provenance: "",
+    tags: ["financier", "money", "budget", "lego-city", "domestic", "police-funding"],
+    images: ["images/the-city-financier-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Second financier in the collection - he pays for home, the other one pays for the fleet. Whether they are colleagues in one office or two separate offices isn't settled, so they share a role and no connection."
+  },
+
+
+  {
+    id: "the-gem-hunter",
+    name: "The Gem Hunter",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventurer",
+    group: "The Gem Hunters",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A different kind of adventurer, in a different adventure group " +
+      "altogether.\n\n" +
+      "What he is after is ancient precious gemstones - the ones that carry " +
+      "mystical powers.",
+    provenance: "",
+    tags: ["adventurer", "gemstones", "relics", "mystical", "treasure"],
+    images: ["images/the-gem-hunter-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, and the group name is a placeholder too - you said a different adventure group without naming it. Fourth adventuring outfit here after the Adventure Crew, the Jungle Adventurers and the Frontier Expedition."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

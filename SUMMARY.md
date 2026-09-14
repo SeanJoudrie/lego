@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-127 characters from a custom LEGO minifigure world, in the order they were
+132 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -1721,6 +1721,56 @@ He holds every kind of ancient wisdom: how to make contact with parallel univers
 He also fucks around with magic. If you ever need to get into your own mind, he can send you into the dimension of it.
 
 *Tags:* shaman, ancient-wisdom, magic, dimensions, parallel-universes, healer, mystery
+
+### 128. George Joudrie
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+Very loving. Likes to work outside.
+
+He is a civilian. He could probably do anything.
+
+*How it was got:* The Lego version of my dad.
+
+*Tags:* civilian, father, real-person, outdoors, capable
+
+### 129. The Royal Financier
+
+**Alignment:** good · **Role:** Financier · **Figure:** custom
+
+One of the head financiers of the Royal Galactic Army. He is the reason the fleet is paid for.
+
+*Tags:* financier, money, royal, army, suit
+
+### 130. The Ninja Fan
+
+**Alignment:** good · **Figure:** custom
+
+A fan of all ninja. He is genuinely good with a sword - not the best, but good.
+
+He has training. He has no proper training. Nobody in the lineage taught him anything; he got this far on his own, because he loves it.
+
+*Tags:* ninja-fan, sword, self-taught, untrained, enthusiast
+
+### 131. The City Financier
+
+**Alignment:** good · **Role:** Financier · **Based:** Lego City · **Figure:** custom
+
+He finances a lot of domestic Lego City. The police budget and the defense budget both come through him.
+
+He funds them as best he can.
+
+*Tags:* financier, money, budget, lego-city, domestic, police-funding
+
+### 132. The Gem Hunter
+
+**Alignment:** good · **Role:** Adventurer · **Figure:** custom
+
+A different kind of adventurer, in a different adventure group altogether.
+
+What he is after is ancient precious gemstones - the ones that carry mystical powers.
+
+*Tags:* adventurer, gemstones, relics, mystical, treasure
 
 ---
 
