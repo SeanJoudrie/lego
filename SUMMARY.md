@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-155 characters from a custom LEGO minifigure world, in the order they were
+160 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2003,6 +2003,48 @@ Police.
 Police.
 
 *Tags:* police, khaki, sidearm
+
+### 156. The Backpacker
+
+**Alignment:** good · **Role:** Backpacker · **Figure:** custom
+
+A backpacker. What he backpacks is the local mountains.
+
+*Tags:* backpacker, mountains, hiking, outdoors, civilian
+
+### 157. The Head Agent
+
+**Alignment:** good · **Role:** Head of the Lego Agents · **Figure:** custom
+
+Head agent of the Lego Agents.
+
+He has extremely cool spy sunglasses.
+
+*Tags:* agent, spy, head, leader, sunglasses
+
+### 158. The Smiling Agent
+
+**Alignment:** good · **Role:** Agent · **Figure:** custom
+
+One of the Lego Agents.
+
+*Tags:* agent, spy
+
+### 159. The Forensic Agent
+
+**Alignment:** good · **Role:** Forensic Agent · **Figure:** custom
+
+The forensics of the Lego Agents. She is the one who reads a crime scene, and the one who finds the clues in it.
+
+*Tags:* agent, forensics, crime-scene, clues, investigator
+
+### 160. The Agent in the Helmet
+
+**Alignment:** good · **Role:** Agent · **Figure:** custom
+
+One of the Lego Agents.
+
+*Tags:* agent, spy, helmet, sunglasses
 
 ---
 

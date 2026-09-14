@@ -4404,6 +4404,121 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-backpacker",
+    name: "The Backpacker",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Backpacker",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A backpacker. What he backpacks is the local mountains.",
+    provenance: "",
+    tags: ["backpacker", "mountains", "hiking", "outdoors", "civilian"],
+    images: ["images/the-backpacker-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The only person here who goes into the wilderness for no reason but going."
+  },
+
+
+  {
+    id: "the-head-agent",
+    name: "The Head Agent",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Head of the Lego Agents",
+    group: "Lego Agents",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Head agent of the Lego Agents.\n\n" +
+      "He has extremely cool spy sunglasses.",
+    provenance: "",
+    tags: ["agent", "spy", "head", "leader", "sunglasses"],
+    images: ["images/the-head-agent-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. No roster links written - everyone in the Lego Agents already shows everyone else through the group, and stacking commands-and-serves-under on top of that is the redundancy you called out on the Space Marshal."
+  },
+
+
+  {
+    id: "the-smiling-agent",
+    name: "The Smiling Agent",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Agent",
+    group: "Lego Agents",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Lego Agents.",
+    provenance: "",
+    tags: ["agent", "spy"],
+    images: ["images/the-smiling-agent-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive - he is the only agent wearing the plain old smile instead of gear on his face. No story given for him yet."
+  },
+
+
+  {
+    id: "the-forensic-agent",
+    name: "The Forensic Agent",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Forensic Agent",
+    group: "Lego Agents",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The forensics of the Lego Agents. She is the one who reads a crime " +
+      "scene, and the one who finds the clues in it.",
+    provenance: "",
+    tags: ["agent", "forensics", "crime-scene", "clues", "investigator"],
+    images: ["images/the-forensic-agent-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. One of the very few women in the collection, and the first whose entry is about what she does rather than who she is related to."
+  },
+
+
+  {
+    id: "the-agent-in-the-helmet",
+    name: "The Agent in the Helmet",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Agent",
+    group: "Lego Agents",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Lego Agents.",
+    provenance: "",
+    tags: ["agent", "spy", "helmet", "sunglasses"],
+    images: ["images/the-agent-in-the-helmet-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. No story given for him yet."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
