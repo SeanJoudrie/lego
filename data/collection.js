@@ -94,6 +94,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-first-man", label: "Padawan of" },
+      { to: "the-replica", label: "Replicated as" },
     ],
     rating: 0,
     background:
@@ -811,7 +812,7 @@ window.COLLECTION = [
   {
     id: "the-younger-brother",
     name: "The Younger Brother",
-    variant: "His father's white, black and yellow armor",
+    variant: "His father's armor, and his everyday gear",
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
@@ -835,7 +836,10 @@ window.COLLECTION = [
       "aboard the ship to set off the bomb himself.",
     provenance: "",
     tags: ["soldier", "brother", "inherited-armor", "survivor"],
-    images: ["images/the-younger-brother-01.jpg"],
+    images: [
+      { src: "images/the-younger-brother-01.jpg", caption: "His father's armor" },
+      { src: "images/the-younger-brother-02.jpg", caption: "Everyday gear" }
+    ],
     acquired: "",
     notes: "Placeholder name."
   },
@@ -3572,6 +3576,120 @@ window.COLLECTION = [
     acquired: "",
     notes: "Placeholder name."
   },
+
+
+  {
+    id: "the-beach-bum",
+    name: "The Beach Bum",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He used to captain a pirate ship. He gave it up and went to the beach, " +
+      "and he has stayed there.\n\n" +
+      "He isn't a burnout and he isn't a nuisance. He doesn't do drugs and he " +
+      "doesn't cause anybody trouble. He is genuinely just a man on a beach who " +
+      "can tell a story and play the guitar.",
+    provenance: "",
+    tags: ["former-pirate", "captain", "beach", "guitar", "storyteller", "retired"],
+    images: ["images/the-beach-bum-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The first retired person in the collection - everyone else who stopped doing their job was stopped by something."
+  },
+
+
+  {
+    id: "the-agent",
+    name: "The Agent",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Agent",
+    group: "Lego Agents",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He transferred here from a different world, and once he arrived he " +
+      "joined the Lego Agents.\n\n" +
+      "The work is the Mission Impossible kind: infiltration, gadgets, getting " +
+      "into the place nobody is supposed to get into and back out again.",
+    provenance:
+      "The black suit with the orbiting-globe badge is a genuine Lego Agents " +
+      "torso, so the lore and the plastic agree - he joined the Agents and he " +
+      "is wearing the Agents.",
+    tags: ["agent", "spy", "off-world", "transfer", "infiltration", "gadgets"],
+    images: ["images/the-agent-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. How he crossed over isn't recorded yet - the Ferryman and the In-Betweener are the two known ways across, and he isn't linked to either."
+  },
+
+
+  {
+    id: "the-replica",
+    name: "The Replica",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-green-demigod", label: "Built to replicate" },
+    ],
+    rating: 0,
+    background:
+      "Villains tried to copy demigod power into robot technology and build " +
+      "themselves an evil one of their own.\n\n" +
+      "It didn't work, because they built him off the original DNA - and the " +
+      "niceness was already coded into it. He came out good. He is nowhere near " +
+      "as powerful as an actual demigod, but he behaves exactly like one.",
+    provenance: "",
+    tags: ["robot", "replica", "demigod", "built-by-villains", "failed-weapon", "good"],
+    images: ["images/the-replica-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The first figure here made by the villains, and he came out on the good side of the filter anyway."
+  },
+
+
+  {
+    id: "the-mystery-shaman",
+    name: "The Mystery Shaman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Shaman",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Very well groomed, and dressed like nowhere anybody can place.\n\n" +
+      "He holds every kind of ancient wisdom: how to make contact with parallel " +
+      "universes, realms and dimensions, and what to do about all manner of " +
+      "ailments.\n\n" +
+      "He also fucks around with magic. If you ever need to get into your own " +
+      "mind, he can send you into the dimension of it.",
+    provenance: "",
+    tags: ["shaman", "ancient-wisdom", "magic", "dimensions", "parallel-universes", "healer", "mystery"],
+    images: ["images/the-mystery-shaman-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Third person in the collection who deals in dimensions, after the Ferryman and the In-Betweener - but he reaches them instead of travelling them."
+  },
+
 
   /* ---- TEMPLATE: copy this block for each new figure ----
   {

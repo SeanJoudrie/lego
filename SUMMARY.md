@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-123 characters from a custom LEGO minifigure world, in the order they were
+127 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -197,7 +197,7 @@ One of the Demigods who lives among the people rather than above them. He still 
 
 *How it was got:* One of the second figures I ever got.
 
-*Connections:* Padawan of The First Man
+*Connections:* Padawan of The First Man · Replicated as The Replica
 
 *Tags:* lightsaber, green-saber, former-agent, wealth
 
@@ -496,7 +496,7 @@ He dies aboard an exploding ship. There was a bomb about to go off and take the 
 
 *Tags:* verdauf, elite, captain, hand-to-hand, brother, deceased
 
-### 24. The Younger Brother — His father's white, black and yellow armor
+### 24. The Younger Brother — His father's armor, and his everyday gear
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -1675,6 +1675,52 @@ Maintenance and supply aboard the mothership, for the space militia and the spac
 Police. Very stern about it.
 
 *Tags:* police, stern
+
+### 124. The Beach Bum
+
+**Alignment:** good · **Figure:** custom
+
+He used to captain a pirate ship. He gave it up and went to the beach, and he has stayed there.
+
+He isn't a burnout and he isn't a nuisance. He doesn't do drugs and he doesn't cause anybody trouble. He is genuinely just a man on a beach who can tell a story and play the guitar.
+
+*Tags:* former-pirate, captain, beach, guitar, storyteller, retired
+
+### 125. The Agent
+
+**Alignment:** good · **Role:** Agent · **Figure:** custom
+
+He transferred here from a different world, and once he arrived he joined the Lego Agents.
+
+The work is the Mission Impossible kind: infiltration, gadgets, getting into the place nobody is supposed to get into and back out again.
+
+*How it was got:* The black suit with the orbiting-globe badge is a genuine Lego Agents torso, so the lore and the plastic agree - he joined the Agents and he is wearing the Agents.
+
+*Tags:* agent, spy, off-world, transfer, infiltration, gadgets
+
+### 126. The Replica
+
+**Alignment:** good · **Figure:** custom
+
+Villains tried to copy demigod power into robot technology and build themselves an evil one of their own.
+
+It didn't work, because they built him off the original DNA - and the niceness was already coded into it. He came out good. He is nowhere near as powerful as an actual demigod, but he behaves exactly like one.
+
+*Connections:* Built to replicate The Green Demigod
+
+*Tags:* robot, replica, demigod, built-by-villains, failed-weapon, good
+
+### 127. The Mystery Shaman
+
+**Alignment:** good · **Role:** Shaman · **Figure:** custom
+
+Very well groomed, and dressed like nowhere anybody can place.
+
+He holds every kind of ancient wisdom: how to make contact with parallel universes, realms and dimensions, and what to do about all manner of ailments.
+
+He also fucks around with magic. If you ever need to get into your own mind, he can send you into the dimension of it.
+
+*Tags:* shaman, ancient-wisdom, magic, dimensions, parallel-universes, healer, mystery
 
 ---
 
