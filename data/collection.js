@@ -5379,14 +5379,17 @@ window.COLLECTION = [
     role: "",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "patrick-star", label: "Best friend" },
+      { to: "plankton", label: "Rival" },
+    ],
     rating: 0,
     background: "Literally SpongeBob.",
     provenance: "A genuine SpongeBob SquarePants minifigure, square head and all.",
     tags: ["spongebob", "branded", "visitor"],
     images: ["images/spongebob-01.jpg"],
     acquired: "",
-    notes: "Fifth branded figure, and the first branded theme with three of its own people in it - the theme filter gathers him with Plankton and Patrick without needing a group."
+    notes: "Fifth branded figure, and the first branded theme with three of its own people in it. Linked to the other two on your say-so - the only branded figures here who know each other."
   },
 
 
@@ -5401,9 +5404,14 @@ window.COLLECTION = [
     role: "",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "spongebob", label: "Rival" },
+      { to: "patrick-star", label: "Rival" },
+    ],
     rating: 0,
-    background: "Literally Plankton.",
+    background:
+      "Literally Plankton.\n\n" +
+      "He is mean. He is not evil. He wants to steal a formula, and set against what evil actually means around here, that is nothing at all.",
     provenance:
       "A single printed 1x1 round brick - no torso, no legs, no arms. The " +
       "smallest figure in the collection by a very long way, and the only one " +
@@ -5411,7 +5419,7 @@ window.COLLECTION = [
     tags: ["plankton", "spongebob", "branded", "smallest", "one-piece", "visitor"],
     images: ["images/plankton-01.jpg"],
     acquired: "",
-    notes: "Filed good, because your standing rule is that everyone is good until you say otherwise and you have not said. But he is the first figure here who is a villain in his own source material, so he is the obvious candidate to be the first bad one in the catalogue. Say the word."
+    notes: "Stays good, and now on purpose rather than by default: you ruled that being mean and wanting a formula does not make somebody evil in this world. He is the first figure here who is a villain in his own source material and still does not qualify."
   },
 
 
@@ -5426,14 +5434,137 @@ window.COLLECTION = [
     role: "",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "spongebob", label: "Best friend" },
+      { to: "plankton", label: "Rival" },
+    ],
     rating: 0,
     background: "Literally Patrick Star.",
     provenance: "A genuine SpongeBob SquarePants minifigure - the cone head is a moulded piece, not a hat.",
     tags: ["patrick", "spongebob", "branded", "visitor"],
     images: ["images/patrick-star-01.jpg"],
     acquired: "",
-    notes: "No links written to SpongeBob. They are best friends in the cartoon, but importing that is the same move as importing Plankton's villainy, and you have not asked for either - the shared theme already puts all three together."
+    notes: "Linked to SpongeBob and Plankton on your say-so, after being left unlinked at first."
+  },
+
+
+
+  {
+    id: "the-soccer-player",
+    name: "The Soccer Player",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A soccer player.",
+    provenance: "",
+    tags: ["soccer", "football", "athlete", "sport"],
+    images: ["images/the-soccer-player-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Fourth athlete here, and the first who plays a team sport - the others run, board and race on their own."
+  },
+
+
+  {
+    id: "the-genius-gorilla",
+    name: "The Genius Gorilla",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A gorilla. Conscious, highly intelligent, and a genius with it.",
+    provenance: "",
+    tags: ["gorilla", "genius", "conscious", "intelligent", "animal"],
+    images: ["images/the-genius-gorilla-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. First animal in the collection who is a person in his own right - the Explorer's monkey travels with someone, this one does not belong to anybody."
+  },
+
+
+  {
+    id: "the-storage-robot",
+    name: "The Storage Robot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Courier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A storage robot. He gets about on wheels - it looks like hovering but it " +
+      "isn't, he just scoots.\n\n" +
+      "What he does is deliver: resources, packages, whatever needs moving. You " +
+      "can talk to him, and he is pretty nice.",
+    provenance:
+      "No head, no torso, no arms and no legs - a droid body rather than a " +
+      "minifigure. One of the very few things here not built to the usual shape.",
+    tags: ["robot", "storage", "delivery", "courier", "wheels", "droid", "nice"],
+    images: ["images/the-storage-robot-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Fifth robot here, and the only one whose entire job is being useful rather than fighting, standing in for someone, or being a vessel."
+  },
+
+
+  {
+    id: "the-tea-seller",
+    name: "The Tea Seller",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Tea Seller",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A local tea seller.",
+    provenance:
+      "His arms do not match - one white, one dark brown. The same quiet kitbash " +
+      "the Ranger has, where the figure was put together out of whatever was to " +
+      "hand and nobody bothered to fix it.",
+    tags: ["tea", "seller", "merchant", "local", "mismatched-arms"],
+    images: ["images/the-tea-seller-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+
+  {
+    id: "the-rap-star",
+    name: "The Rap Star",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Rapper",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A local rap star.",
+    provenance: "Shutter shades, a dollar sign on the cap and another one round his neck.",
+    tags: ["rap", "music", "star", "local-fame", "gold-chain"],
+    images: ["images/the-rap-star-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. First musician in the collection with music as the job - the Beach Bum plays guitar, but that is what he does now that he stopped working."
   },
 
 

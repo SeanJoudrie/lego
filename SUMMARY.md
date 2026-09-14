@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-196 characters from a custom LEGO minifigure world, in the order they were
+201 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2406,6 +2406,8 @@ Literally SpongeBob.
 
 *How it was got:* A genuine SpongeBob SquarePants minifigure, square head and all.
 
+*Connections:* Best friend Patrick Star · Rival Plankton
+
 *Tags:* spongebob, branded, visitor
 
 ### 195. Plankton
@@ -2414,7 +2416,11 @@ Literally SpongeBob.
 
 Literally Plankton.
 
+He is mean. He is not evil. He wants to steal a formula, and set against what evil actually means around here, that is nothing at all.
+
 *How it was got:* A single printed 1x1 round brick - no torso, no legs, no arms. The smallest figure in the collection by a very long way, and the only one that is one piece.
+
+*Connections:* Rival SpongeBob · Rival Patrick Star
 
 *Tags:* plankton, spongebob, branded, smallest, one-piece, visitor
 
@@ -2426,7 +2432,57 @@ Literally Patrick Star.
 
 *How it was got:* A genuine SpongeBob SquarePants minifigure - the cone head is a moulded piece, not a hat.
 
+*Connections:* Best friend SpongeBob · Rival Plankton
+
 *Tags:* patrick, spongebob, branded, visitor
+
+### 197. The Soccer Player
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+A soccer player.
+
+*Tags:* soccer, football, athlete, sport
+
+### 198. The Genius Gorilla
+
+**Alignment:** good · **Figure:** custom
+
+A gorilla. Conscious, highly intelligent, and a genius with it.
+
+*Tags:* gorilla, genius, conscious, intelligent, animal
+
+### 199. The Storage Robot
+
+**Alignment:** good · **Role:** Courier · **Figure:** custom
+
+A storage robot. He gets about on wheels - it looks like hovering but it isn't, he just scoots.
+
+What he does is deliver: resources, packages, whatever needs moving. You can talk to him, and he is pretty nice.
+
+*How it was got:* No head, no torso, no arms and no legs - a droid body rather than a minifigure. One of the very few things here not built to the usual shape.
+
+*Tags:* robot, storage, delivery, courier, wheels, droid, nice
+
+### 200. The Tea Seller
+
+**Alignment:** good · **Role:** Tea Seller · **Figure:** custom
+
+A local tea seller.
+
+*How it was got:* His arms do not match - one white, one dark brown. The same quiet kitbash the Ranger has, where the figure was put together out of whatever was to hand and nobody bothered to fix it.
+
+*Tags:* tea, seller, merchant, local, mismatched-arms
+
+### 201. The Rap Star
+
+**Alignment:** good · **Role:** Rapper · **Figure:** custom
+
+A local rap star.
+
+*How it was got:* Shutter shades, a dollar sign on the cap and another one round his neck.
+
+*Tags:* rap, music, star, local-fame, gold-chain
 
 ---
 
