@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-182 characters from a custom LEGO minifigure world, in the order they were
+186 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -1498,6 +1498,8 @@ He is the finest navigator on the ground there is, and he reads everything insta
 
 And he is the crew's cook. He can put a five-star meal together out of nothing at all — the right moss, the right mushrooms, the right leaves, and exactly how to cook or smoke them into something worth eating.
 
+*Connections:* Gnome blood in common The Hatless Gnome
+
 *Tags:* adventure-crew, gnome-blooded, navigator, forager, cook, nature
 
 ### 106. The Green Officer
@@ -2259,6 +2261,52 @@ An Inuit fisherman.
 *How it was got:* Fur-lined parka hood, patterned knit right down the legs.
 
 *Tags:* fisherman, inuit, cold, parka, fur-hood
+
+### 183. The Cosmic Twins — Divine essence, and in disguise
+
+**Alignment:** good · **Nature:** Cosmic Deity · **Figure:** custom
+
+The cosmic, divine twins. They are the twins at the end of the European creation stories - Romulus and Remus, and every other iteration of the creation that comes with two of them in it. In this universe those stories are not stories. The twins are real, and all of those tellings are them.
+
+They reincarnate. They fight sometimes, and they push through time. The blue and the red with nothing on them is their divine essence - the energy itself, undisguised.
+
+When they want to pass unnoticed they take an ordinary shape instead, beach dwellers and the like, but they never drop the blue and the red.
+
+It is common enough to see them. Nobody really interacts with them properly, because they are always teleporting through time and space and they live on their own wavelength. They are harmless, and they are benevolent.
+
+*How it was got:* Their essence figures are pure blue and pure red - torso, arms, hands and legs all one colour, with only the old smile on the face.
+
+*Tags:* divine-twins, cosmic, reincarnation, romulus-and-remus, creation-myth, time-travel, teleport, disguise, benevolent, pair
+
+### 184. The Dwarf Librarian
+
+**Alignment:** good · **Role:** Librarian · **Figure:** custom
+
+A dwarf who decided to work at a library, rather than do what his upbringing had in mind for him.
+
+*Tags:* dwarf, librarian, books, left-the-trade
+
+### 185. The Hatless Gnome
+
+**Alignment:** good · **Figure:** custom
+
+A gnome who lost his hat.
+
+Known for being a little mischievous.
+
+*Connections:* Gnome blood in common The Forager
+
+*Tags:* gnome, hatless, mischievous, lost-hat
+
+### 186. Indiana Jones
+
+**Alignment:** good · **Figure:** branded
+
+Literally Indiana Jones.
+
+*How it was got:* A genuine Indiana Jones minifigure, not a build.
+
+*Tags:* indiana-jones, branded, archaeologist, adventurer, visitor
 
 ---
 

@@ -3118,7 +3118,9 @@ window.COLLECTION = [
     role: "Adventure Crew",
     group: "The Adventure Crew",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-hatless-gnome", label: "Gnome blood in common" },
+    ],
     rating: 0,
     background:
       "Descended from gnomes, at least in part — the height gives it away.\n\n" +
@@ -5053,6 +5055,120 @@ window.COLLECTION = [
     images: ["images/the-inuit-fisherman-01.jpg"],
     acquired: "",
     notes: "Placeholder name. Shares the Fisherman role with the Fisherman and his Son, so the role finds all three, but no link between them - working the same trade in different water is not knowing each other."
+  },
+
+
+
+  {
+    id: "the-cosmic-twins",
+    name: "The Cosmic Twins",
+    variant: "Divine essence, and in disguise",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Cosmic Deity",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The cosmic, divine twins. They are the twins at the end of the European " +
+      "creation stories - Romulus and Remus, and every other iteration of the " +
+      "creation that comes with two of them in it. In this universe those " +
+      "stories are not stories. The twins are real, and all of those tellings " +
+      "are them.\n\n" +
+      "They reincarnate. They fight sometimes, and they push through time. The " +
+      "blue and the red with nothing on them is their divine essence - the " +
+      "energy itself, undisguised.\n\n" +
+      "When they want to pass unnoticed they take an ordinary shape instead, " +
+      "beach dwellers and the like, but they never drop the blue and the red.\n\n" +
+      "It is common enough to see them. Nobody really interacts with them " +
+      "properly, because they are always teleporting through time and space and " +
+      "they live on their own wavelength. They are harmless, and they are " +
+      "benevolent.",
+    provenance:
+      "Their essence figures are pure blue and pure red - torso, arms, hands " +
+      "and legs all one colour, with only the old smile on the face.",
+    tags: ["divine-twins", "cosmic", "reincarnation", "romulus-and-remus", "creation-myth", "time-travel", "teleport", "disguise", "benevolent", "pair"],
+    images: [
+      { src: "images/the-cosmic-twins-01.jpg", caption: "Their divine essence" },
+      { src: "images/the-cosmic-twins-02.jpg", caption: "In disguise as beach dwellers" }
+    ],
+    acquired: "",
+    notes: "Third set of twins in the collection and no relation to the other two - the Twins are Archangels of the First Circle, the Town Twins work normal jobs and go to the park, and these two are the creation myth itself. Ranked Cosmic Deity from your word divine and from what they do; say so if that puts them too high or too low. Also the third case here where blankness is the character, after the Manifestation of Life and the Man from the Yellow Dimension."
+  },
+
+
+  {
+    id: "the-dwarf-librarian",
+    name: "The Dwarf Librarian",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Librarian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A dwarf who decided to work at a library, rather than do what his " +
+      "upbringing had in mind for him.",
+    provenance: "",
+    tags: ["dwarf", "librarian", "books", "left-the-trade"],
+    images: ["images/the-dwarf-librarian-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. First librarian here, and one more person defined by the thing he was raised to do and didn't."
+  },
+
+
+  {
+    id: "the-hatless-gnome",
+    name: "The Hatless Gnome",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-forager", label: "Gnome blood in common" },
+    ],
+    rating: 0,
+    background:
+      "A gnome who lost his hat.\n\n" +
+      "Known for being a little mischievous.",
+    provenance: "",
+    tags: ["gnome", "hatless", "mischievous", "lost-hat"],
+    images: ["images/the-hatless-gnome-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Linked to the Forager, who is descended from gnomes at least in part - a bloodline link rather than a recorded meeting, same as the Alien Farmer and the Reformed. Cut it if you'd rather connections only meant people who have met."
+  },
+
+
+  {
+    id: "indiana-jones",
+    name: "Indiana Jones",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Indiana Jones",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Literally Indiana Jones.",
+    provenance: "A genuine Indiana Jones minifigure, not a build.",
+    tags: ["indiana-jones", "branded", "archaeologist", "adventurer", "visitor"],
+    images: ["images/indiana-jones-01.jpg"],
+    acquired: "",
+    notes: "Third branded figure and third theme outside the Creation Mythos, after Tony Stark and Bruce Wayne. Same open question about how he stands relative to the worlds. Worth noting he is the one branded figure whose job the collection already has four crews doing."
   },
 
 
