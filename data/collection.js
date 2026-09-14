@@ -12,6 +12,10 @@
    theme       Franchise, or your own custom line.    "Star Wars"
    rank        What they ARE. Their nature.           see RANKS below
    role        What they DO. Their job or office.     "Archangel", "King"
+   group       What they BELONG to. An organisation,  "The Space Militia"
+               a people, a crew. Everyone sharing a group is shown to
+               everyone else in it, so a militia medic and a militia
+               general find each other even with different roles.
    location    Where they're based.                   "Lego City"
    relations   Links to other entries, shown as clickable chips:
                [{ to: "armstrong", label: "Uncle" }]  — `to` is an id.
@@ -48,6 +52,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "The First Man",
     role: "",
+    group: "The First Circle",
     location: "",
     relations: [
       { to: "the-green-demigod", label: "Took as Padawan" },
@@ -85,6 +90,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "Demigod",
     role: "",
+    group: "The First Circle",
     location: "",
     relations: [
       { to: "the-first-man", label: "Padawan of" },
@@ -114,6 +120,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Archangel",
+    group: "The First Circle",
     location: "",
     relations: [],
     rating: 0,
@@ -147,6 +154,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "Mortal",
     role: "Archangel",
+    group: "The First Circle",
     location: "",
     relations: [],
     rating: 0,
@@ -177,6 +185,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "Mortal",
     role: "Second in Command",
+    group: "The First Circle",
     location: "",
     relations: [
       { to: "the-first-man", label: "Best friend and second to" },
@@ -215,6 +224,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "King",
+    group: "The Royal Household",
     location: "The Royal Palace",
     relations: [
       { to: "the-space-princess", label: "Married to" },
@@ -257,6 +267,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "Cosmic Deity",
     role: "Queen",
+    group: "The Royal Household",
     location: "The Royal Palace",
     relations: [
       { to: "the-prince", label: "Married to" },
@@ -288,6 +299,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Royal Child",
+    group: "The Royal Household",
     location: "The Royal Palace",
     relations: [
       { to: "the-prince", label: "Sons of" },
@@ -318,6 +330,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Head of Palace Control",
+    group: "The Royal Household",
     location: "The Royal Palace",
     relations: [
       { to: "the-prince", label: "Pushed him into the Senate" },
@@ -407,6 +420,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Secretary of War",
+    group: "The Royal Household",
     location: "",
     relations: [
       { to: "heavy", label: "Trained" },
@@ -438,6 +452,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Chief of Police",
+    group: "Lego City Law",
     location: "Lego City",
     relations: [],
     rating: 0,
@@ -600,6 +615,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Head of Royal Intelligence",
+    group: "Royal Intelligence",
     location: "Lego City",
     relations: [
       { to: "heavy", label: "Uncle of" },
@@ -633,6 +649,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Orphan",
+    group: "The Royal Household",
     location: "The Royal Palace",
     relations: [],
     rating: 0,
@@ -664,6 +681,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Royal Child",
+    group: "The Royal Household",
     location: "The Royal Palace",
     relations: [
       { to: "the-prince", label: "Daughter of" },
@@ -694,6 +712,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Royal Intelligence Deputy",
+    group: "Royal Intelligence",
     location: "Lego City",
     relations: [
       { to: "armstrong", label: "Stands in for" },
@@ -721,6 +740,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Chief of Space Police",
+    group: "The Space Police",
     location: "",
     relations: [
       { to: "crispus", label: "Commands" },
@@ -759,6 +779,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Captain, Verdauf Squadron",
+    group: "The Verdauf",
     location: "",
     relations: [
       { to: "the-younger-brother", label: "Brother of" },
@@ -796,6 +817,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Soldier",
+    group: "The Verdauf",
     location: "",
     relations: [
       { to: "the-green-captain", label: "Brother of" },
@@ -827,6 +849,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Ambassador",
+    group: "The Discarded",
     location: "",
     relations: [
       { to: "the-wanderer", label: "Brother of" },
@@ -867,6 +890,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Gatekeeper",
+    group: "The Discarded",
     location: "The Royal Palace",
     relations: [
       { to: "the-discarded", label: "From the same world as" },
@@ -898,6 +922,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Honor Guard",
+    group: "The Royal Household",
     location: "The Royal Palace",
     relations: [
       { to: "armstrong", label: "Nephew of" },
@@ -933,6 +958,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Rights Activist",
+    group: "The Damaged",
     location: "",
     relations: [
       { to: "the-voiceless", label: "Rescued" },
@@ -970,6 +996,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Ninja",
+    group: "The Ninja Lineage",
     location: "",
     relations: [
       { to: "the-samurai", label: "Studied under" },
@@ -1006,6 +1033,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Shogun",
+    group: "The Ninja Lineage",
     location: "",
     relations: [
       { to: "the-blue-haired-ninja", label: "Taught" },
@@ -1033,6 +1061,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Ninja",
+    group: "The Ninja Lineage",
     location: "",
     relations: [
       { to: "the-red-ninja", label: "Studied under" },
@@ -1064,6 +1093,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Ninja",
+    group: "The Ninja Lineage",
     location: "",
     relations: [
       { to: "the-blue-haired-ninja", label: "Taught" },
@@ -1202,6 +1232,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Test Pilot",
+    group: "The Royal Space Academy",
     location: "",
     relations: [],
     rating: 0,
@@ -1286,6 +1317,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Launch Director",
+    group: "The Royal Space Academy",
     location: "The Royal Space Academy",
     relations: [
       { to: "the-test-pilot", label: "Commands" },
@@ -1316,6 +1348,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "Cosmic Deity",
     role: "Ferryman",
+    group: "The Trickster's Boat",
     location: "",
     relations: [
       { to: "the-tricksters-apprentice", label: "Took on" },
@@ -1350,6 +1383,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Apprentice",
+    group: "The Trickster's Boat",
     location: "",
     relations: [
       { to: "the-ferryman", label: "Apprentice to" },
@@ -1378,6 +1412,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Combat Instructor",
+    group: "The Damaged",
     location: "",
     relations: [
       { to: "the-activist", label: "Also one of the Damaged, like" },
@@ -1412,6 +1447,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "Mortal",
     role: "Archangel",
+    group: "The First Circle",
     location: "",
     relations: [],
     rating: 0,
@@ -1496,6 +1532,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Domestic Police Commander",
+    group: "Lego City Law",
     location: "Lego City",
     relations: [
       { to: "the-young-watchman", label: "Commands" },
@@ -1597,6 +1634,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Prince's Guard",
+    group: "The Royal Household",
     location: "The Royal Palace",
     relations: [],
     rating: 0,
@@ -1620,6 +1658,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "",
+    group: "The Discarded",
     location: "",
     relations: [
       { to: "the-discarded", label: "Brother of" },
@@ -1670,6 +1709,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "",
+    group: "The Damaged",
     location: "",
     relations: [
       { to: "the-activist", label: "Rescued by" },
@@ -1695,6 +1735,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Royal Intelligence Agent",
+    group: "Royal Intelligence",
     location: "Lego City",
     relations: [
       { to: "armstrong", label: "Works under" },
@@ -1719,6 +1760,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -1744,6 +1786,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Police Gunner",
+    group: "The Space Police",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Best friend of" },
@@ -1775,6 +1818,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -1833,6 +1877,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -1917,6 +1962,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -1971,6 +2017,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Pilot",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -2019,6 +2066,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Police",
+    group: "The Space Police",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -2042,6 +2090,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventure Crew",
+    group: "The Adventure Crew",
     location: "",
     relations: [
       { to: "the-aviators-father", label: "Son of" },
@@ -2067,6 +2116,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -2093,6 +2143,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Jedi Master",
+    group: "The Snow Jedi's Line",
     location: "",
     relations: [
       { to: "the-beowulf-jedi", label: "Trained" },
@@ -2122,6 +2173,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Jedi",
+    group: "The Snow Jedi's Line",
     location: "",
     relations: [
       { to: "the-snow-jedi", label: "Trained by" },
@@ -2153,6 +2205,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Jedi",
+    group: "The Snow Jedi's Line",
     location: "",
     relations: [
       { to: "the-snow-jedi", label: "Trained by" },
@@ -2218,6 +2271,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Militia Commander",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -2245,6 +2299,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -2296,6 +2351,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Commander",
+    group: "The Knock-offs",
     location: "",
     relations: [],
     rating: 0,
@@ -2320,6 +2376,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "",
+    group: "The Discarded",
     location: "The Bin",
     relations: [],
     rating: 0,
@@ -2395,6 +2452,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventurer",
+    group: "The Jungle Adventurers",
     location: "",
     relations: [
       { to: "the-ginger-adventurer", label: "Adventures with" },
@@ -2421,6 +2479,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventurer",
+    group: "The Jungle Adventurers",
     location: "",
     relations: [
       { to: "the-scrap-adventurer", label: "Adventures with" },
@@ -2475,6 +2534,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Watch Command",
+    group: "Lego City Law",
     location: "Lego City",
     relations: [
       { to: "the-watch-commander", label: "Serves under" },
@@ -2504,6 +2564,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventurer",
+    group: "The Jungle Adventurers",
     location: "",
     relations: [
       { to: "the-ginger-adventurer", label: "Son of" },
@@ -2580,6 +2641,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "General",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-generals-son", label: "Adopted father of" },
@@ -2613,6 +2675,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-general", label: "Adopted son of" },
@@ -2641,6 +2704,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-general", label: "Serves under" },
@@ -2668,6 +2732,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "",
+    group: "The Damaged",
     location: "",
     relations: [
       { to: "the-activist", label: "From the same world as" },
@@ -2694,6 +2759,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Medic",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-general", label: "Serves under" },
@@ -2720,6 +2786,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Prince",
+    group: "The Knock-offs",
     location: "",
     relations: [],
     rating: 0,
@@ -2772,6 +2839,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "King",
+    group: "The Gunless Realm",
     location: "The Gunless Realm",
     relations: [
       { to: "the-prince", label: "Follows" },
@@ -2798,6 +2866,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Armorer",
+    group: "The Gunless Realm",
     location: "",
     relations: [
       { to: "king-arthur", label: "From the realm of" },
@@ -2825,6 +2894,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Knight",
+    group: "The Gunless Realm",
     location: "The Gunless Realm",
     relations: [
       { to: "king-arthur", label: "Knight of" },
@@ -2849,6 +2919,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventure Crew",
+    group: "The Adventure Crew",
     location: "",
     relations: [
       { to: "the-fixer", label: "Father of" },
@@ -2875,6 +2946,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventure Crew",
+    group: "The Adventure Crew",
     location: "",
     relations: [
       { to: "the-ace", label: "Son of" },
@@ -2901,6 +2973,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventure Crew",
+    group: "The Adventure Crew",
     location: "",
     relations: [],
     rating: 0,
@@ -2926,6 +2999,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventure Crew",
+    group: "The Adventure Crew",
     location: "",
     relations: [
       { to: "the-ace", label: "Best friend of" },
@@ -2950,6 +3024,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventure Crew",
+    group: "The Adventure Crew",
     location: "",
     relations: [
       { to: "the-aviator", label: "Father of" },
@@ -2976,6 +3051,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventure Crew",
+    group: "The Adventure Crew",
     location: "",
     relations: [],
     rating: 0,
@@ -3028,6 +3104,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventure Crew",
+    group: "The Adventure Crew",
     location: "",
     relations: [],
     rating: 0,
@@ -3056,6 +3133,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Police",
+    group: "The Space Police",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -3079,6 +3157,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "",
+    group: "The Space Police",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Love interest of" },
@@ -3102,6 +3181,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Traveller",
+    group: "The Trickster's Boat",
     location: "",
     relations: [
       { to: "the-ferryman", label: "Has never met" },
@@ -3134,6 +3214,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Defense Bot",
+    group: "The Verdauf",
     location: "",
     relations: [],
     rating: 0,
@@ -3179,6 +3260,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Test Pilot",
+    group: "The Royal Space Academy",
     location: "",
     relations: [
       { to: "the-flight-director", label: "Serves under" },
@@ -3203,6 +3285,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Ninja",
+    group: "The Ninja Lineage",
     location: "",
     relations: [
       { to: "the-red-ninja", label: "Apprentice to" },
@@ -3256,6 +3339,7 @@ window.COLLECTION = [
     theme: "",
     rank: "",
     role: "",
+    group: "",
     location: "",
     relations: [],
     rating: 0,

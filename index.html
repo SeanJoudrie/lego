@@ -147,6 +147,7 @@
   .badge.rank { color:#7fe0a8; border-color:rgba(127,224,168,.4); }
   .badge.role { color:#ffb3d1; border-color:rgba(255,179,209,.4); }
   .badge.loc  { color:#8fc9ff; border-color:rgba(143,201,255,.4); }
+  .badge.grp  { color:#ffd98f; border-color:rgba(255,217,143,.4); }
   .prov { border-left:2px solid var(--line); padding-left:12px; margin-bottom:18px;
           color:var(--dim); font-size:13.5px; white-space:pre-wrap; }
   .prov h4 { margin:0 0 3px; font-size:11px; letter-spacing:.09em; text-transform:uppercase;
@@ -231,6 +232,7 @@
       <button data-v="custom">Custom</button>
     </div>
     <select id="rank"><option value="all">All ranks</option></select>
+    <select id="group"><option value="all">All groups</option></select>
     <select id="role"><option value="all">All roles</option></select>
     <select id="location"><option value="all">Everywhere</option></select>
     <select id="theme"><option value="all">All themes</option></select>
@@ -257,7 +259,7 @@
 <script src="data/lore.js"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
-const state = { q:"", faction:"all", origin:"all", theme:"all", rank:"all", role:"all", location:"all", sort:"order" };
+const state = { q:"", faction:"all", origin:"all", theme:"all", rank:"all", role:"all", group:"all", location:"all", sort:"order" };
 const RANKS = window.RANKS || [];
 
 const $ = id => document.getElementById(id);
@@ -295,7 +297,7 @@ RANKS.filter(r => usedRanks.has(r))
   });
 
 // theme / role / location dropdowns — alphabetical, only values actually in use
-for (const [id, key] of [["theme","theme"], ["role","role"], ["location","location"]]) {
+for (const [id, key] of [["theme","theme"], ["role","role"], ["group","group"], ["location","location"]]) {
   [...new Set(FIGS.map(f => f[key]).filter(Boolean))].sort().forEach(v => {
     const o = document.createElement("option");
     o.value = v; o.textContent = v;
@@ -309,9 +311,10 @@ function matches(f) {
   if (state.theme   !== "all" && f.theme   !== state.theme)   return false;
   if (state.rank    !== "all" && f.rank    !== state.rank)    return false;
   if (state.role    !== "all" && f.role    !== state.role)    return false;
+  if (state.group   !== "all" && f.group   !== state.group)   return false;
   if (state.location!== "all" && f.location!== state.location)return false;
   if (state.q) {
-    const hay = [f.name, f.variant, f.theme, f.rank, f.role, f.location, f.character, f.background, f.provenance, f.notes, (f.tags || []).join(" ")]
+    const hay = [f.name, f.variant, f.theme, f.rank, f.role, f.group, f.location, f.background, f.provenance, f.notes, (f.tags || []).join(" ")]
       .join(" ").toLowerCase();
     if (!hay.includes(state.q)) return false;
   }
@@ -332,7 +335,7 @@ const SORTS = {
   added:  (a, b) => b._i - a._i
 };
 
-const FILTER_KEYS = ["faction", "origin", "rank", "role", "location", "theme"];
+const FILTER_KEYS = ["faction", "origin", "rank", "role", "group", "location", "theme"];
 
 function syncFilterUI() {
   const n = FILTER_KEYS.filter(k => state[k] !== "all").length;
@@ -365,7 +368,7 @@ function render() {
         <h3>${esc(f.name)}</h3>
         ${f.variant ? `<div class="variant">${esc(f.variant)}</div>` : ``}
         <div class="row">
-          <span class="theme">${esc(f.role || f.rank || f.theme || "")}</span>
+          <span class="theme">${esc(f.group || f.role || f.rank || "")}</span>
           <span class="stars">${stars(f.rating)}</span>
         </div>
       </div>
@@ -415,6 +418,7 @@ function open(f) {
           <span class="badge ${f.origin === "custom" ? "custom" : ""}">${esc((f.origin || "").toUpperCase())}</span>
           ${f.rank ? `<span class="badge rank">${esc(f.rank)}</span>` : ``}
           ${f.role ? `<span class="badge role">${esc(f.role)}</span>` : ``}
+          ${f.group ? `<span class="badge grp">${esc(f.group)}</span>` : ``}
           ${f.location ? `<span class="badge loc">${esc(f.location)}</span>` : ``}
           ${f.theme ? `<span class="badge">${esc(f.theme)}</span>` : ``}
           ${(f.tags || []).map(t => `<span class="badge">${esc(t)}</span>`).join("")}
@@ -431,11 +435,18 @@ function open(f) {
           </div>` : ``;
         })()}
         ${(() => {
-          // everyone else doing the same job — the Adventure Crew, the militia, the ninjas
-          const kin = f.role ? FIGS.filter(g => g.role === f.role && g._i !== f._i) : [];
-          return kin.length ? `<div class="rel"><h4>Also ${esc(f.role)}</h4>
-            <div class="minis">${kin.map(g => miniCard(g, "")).join("")}</div>
-          </div>` : ``;
+          // who they belong to, then who else does the same job —
+          // the job row drops anyone the group row already showed
+          const fam = f.group ? FIGS.filter(g => g.group === f.group && g._i !== f._i) : [];
+          const shown = new Set(fam.map(g => g._i));
+          const job = f.role
+            ? FIGS.filter(g => g.role === f.role && g._i !== f._i && !shown.has(g._i)) : [];
+          return (fam.length ? `<div class="rel"><h4>${esc(f.group)}</h4>
+              <div class="minis">${fam.map(g => miniCard(g, g.role || "")).join("")}</div>
+            </div>` : ``)
+           + (job.length ? `<div class="rel"><h4>Also ${esc(f.role)}</h4>
+              <div class="minis">${job.map(g => miniCard(g, "")).join("")}</div>
+            </div>` : ``);
         })()}
         ${(f.acquired || f.notes) ? `<div class="facts">
           ${f.acquired ? `<div><b>Acquired</b> — ${esc(f.acquired)}</div>` : ``}
@@ -489,6 +500,7 @@ $("theme").addEventListener("change", e => { state.theme = e.target.value; rende
 $("rank").addEventListener("change", e => { state.rank = e.target.value; render(); });
 $("location").addEventListener("change", e => { state.location = e.target.value; render(); });
 $("role").addEventListener("change", e => { state.role = e.target.value; render(); });
+$("group").addEventListener("change", e => { state.group = e.target.value; render(); });
 $("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
 
 ["faction", "origin"].forEach(key => {
@@ -509,7 +521,7 @@ $("filtertoggle").addEventListener("click", () => {
 
 $("clearfilters").addEventListener("click", () => {
   FILTER_KEYS.forEach(k => state[k] = "all");
-  ["rank", "role", "location", "theme"].forEach(id => $(id).value = "all");
+  ["rank", "role", "group", "location", "theme"].forEach(id => $(id).value = "all");
   ["faction", "origin"].forEach(id =>
     [...$(id).children].forEach((c, i) => c.setAttribute("aria-pressed", String(i === 0))));
   render();

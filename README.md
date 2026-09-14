@@ -88,10 +88,22 @@ buries his wife and children under a staff directory. Links are one-way, and
 that asymmetry is useful: a soldier can say he is loyal to the Prince on his own
 page without the Prince having to say it back.
 
-Underneath that, an **Also <role>** row shows every other figure with the same
-`role` — open anyone in the Adventure Crew and the rest of the crew is sitting
-below them. It costs nothing to maintain: it comes straight off the role field,
-and it doesn't appear when a role has only one person in it.
+Underneath that come two more rows, both derived from fields rather than
+hand-maintained:
+
+**`group`** — what someone belongs to. An organisation, a people, a crew: The
+Space Militia, The Damaged, The First Circle, The Gunless Realm. This is the one
+that does the heavy lifting, because `role` is a job title and people in the same
+outfit rarely share one — a militia medic, a militia general and a militia cadet
+have three different roles and are the same organisation. Everyone sharing a
+group is shown to everyone else in it.
+
+**`role`** — an *Also <role>* row for everyone doing the same job, skipping
+anyone the group row already showed, so the two never repeat each other. Neither
+row renders when it would be empty.
+
+Both are also filters. Between them, `relations` is freed up to carry only what's
+personal.
 
 ### Several photos of one character
 
