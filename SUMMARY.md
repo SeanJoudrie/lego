@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-147 characters from a custom LEGO minifigure world, in the order they were
+150 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -1937,6 +1937,32 @@ He interns at a mining facility and goes to college, where he is studying mechan
 A fisherman and his son. Between them they are known for feeding a great deal of the city.
 
 *Tags:* fisherman, father-and-son, food, city, pair
+
+### 148. The Detective
+
+**Alignment:** good · **Role:** Detective · **Figure:** custom
+
+A detective. He works any high-profile mystery case there is.
+
+*Tags:* detective, mystery, investigator, high-profile
+
+### 149. The Sheriff
+
+**Alignment:** good · **Role:** Sheriff · **Based:** Lego City · **Figure:** custom
+
+A sheriff out of a small rural town, lately moved to Lego City to work.
+
+*Tags:* sheriff, police, rural, transfer, lego-city
+
+### 150. The SWAT Officers — Two of them, out of their gear
+
+**Alignment:** good · **Role:** SWAT · **Figure:** custom
+
+Two members of the Lego civilization's SWAT team.
+
+This is them in ordinary uniform rather than in all their gear.
+
+*Tags:* swat, police, tactical, out-of-gear, pair
 
 ---
 

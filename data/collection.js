@@ -4220,6 +4220,77 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-detective",
+    name: "The Detective",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Detective",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A detective. He works any high-profile mystery case there is.",
+    provenance: "",
+    tags: ["detective", "mystery", "investigator", "high-profile"],
+    images: ["images/the-detective-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Left out of Lego City Law because which force he answers to isn't recorded - say the word and he joins them."
+  },
+
+
+  {
+    id: "the-sheriff",
+    name: "The Sheriff",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Sheriff",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background:
+      "A sheriff out of a small rural town, lately moved to Lego City to work.",
+    provenance: "",
+    tags: ["sheriff", "police", "rural", "transfer", "lego-city"],
+    images: ["images/the-sheriff-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+
+  {
+    id: "the-swat-officers",
+    name: "The SWAT Officers",
+    variant: "Two of them, out of their gear",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "SWAT",
+    group: "The SWAT Team",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Two members of the Lego civilization's SWAT team.\n\n" +
+      "This is them in ordinary uniform rather than in all their gear.",
+    provenance: "",
+    tags: ["swat", "police", "tactical", "out-of-gear", "pair"],
+    images: ["images/the-swat-officers-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. One box because they share a photo, same as the Gas Men and the Fisherman - say so if you'd rather they were split. Kept as their own unit rather than folded into Lego City Law, since SWAT here is the whole civilization's rather than the city's."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
