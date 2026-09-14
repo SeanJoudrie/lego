@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-137 characters from a custom LEGO minifigure world, in the order they were
+142 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -1823,6 +1823,64 @@ A disco civilian.
 A bank teller. He has stopped bank robberies by himself.
 
 *Tags:* bank, teller, robbery, civilian, brave
+
+### 138. The Manifestation of Life
+
+**Alignment:** good · **Nature:** Demigod · **Figure:** custom
+
+There are a great many magical and mystical beings here, and they are not the creator. The creator is the First Man. These are the smaller gods - demigods, gods of a lesser size.
+
+This one is a manifestation of life itself. And he can be contacted.
+
+Which is why he is wearing the plainest Lego outfit that exists: no printing, no gear, no expression but the smile. That is deliberate.
+
+*How it was got:* The most default minifigure it is possible to assemble - blank yellow head, red torso, blue legs, nothing else. Nothing in the collection is less decorated, and nothing in it means more by being undecorated.
+
+*Tags:* demigod, life, small-god, plain, default, contactable, mystical
+
+### 139. The Tall Mechanic
+
+**Alignment:** good · **Role:** Aircraft Mechanic · **Figure:** custom
+
+An aircraft mechanic, and ridiculously tall with it.
+
+He is also a volunteer firefighter.
+
+*Connections:* Volunteers under The Fire Chief
+
+*Tags:* mechanic, aircraft, tall, firefighter, volunteer
+
+### 140. The Vigilante
+
+**Alignment:** good · **Role:** Vigilante · **Figure:** custom
+
+Twenty years old, and out most nights on his bike.
+
+He works with the police and carries an honorary badge, given to him for the time he stopped a crime. He is not one of them. He prefers it solo, and what he handles is small - gas station robberies, that kind of thing. Whatever he can get to.
+
+*Tags:* vigilante, bike, night, honorary-badge, solo, young
+
+### 141. The Vessel
+
+**Alignment:** good · **Role:** Vessel · **Figure:** custom
+
+An empty body, kept for the demigods to use.
+
+When one of them cannot physically be somewhere - trapped in another dimension, say - they send their soul into this being and act through it.
+
+The rest of the time it is empty.
+
+*Tags:* vessel, empty, demigod, possession, soul, robot, dimensions
+
+### 142. The Fire Chief
+
+**Alignment:** good · **Role:** Fire Chief · **Figure:** custom
+
+Chief firefighter of the Lego civilization.
+
+*Connections:* Volunteer firefighter The Tall Mechanic
+
+*Tags:* firefighter, chief, fire-service, ginger-beard
 
 ---
 

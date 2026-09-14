@@ -3946,6 +3946,142 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-manifestation-of-life",
+    name: "The Manifestation of Life",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Demigod",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "There are a great many magical and mystical beings here, and they are " +
+      "not the creator. The creator is the First Man. These are the smaller " +
+      "gods - demigods, gods of a lesser size.\n\n" +
+      "This one is a manifestation of life itself. And he can be contacted.\n\n" +
+      "Which is why he is wearing the plainest Lego outfit that exists: no " +
+      "printing, no gear, no expression but the smile. That is deliberate.",
+    provenance:
+      "The most default minifigure it is possible to assemble - blank yellow " +
+      "head, red torso, blue legs, nothing else. Nothing in the collection is " +
+      "less decorated, and nothing in it means more by being undecorated.",
+    tags: ["demigod", "life", "small-god", "plain", "default", "contactable", "mystical"],
+    images: ["images/the-manifestation-of-life-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The purest case in the collection of the lore and the plastic agreeing: life itself is the figure with no costume on."
+  },
+
+
+  {
+    id: "the-tall-mechanic",
+    name: "The Tall Mechanic",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Aircraft Mechanic",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-fire-chief", label: "Volunteers under" },
+    ],
+    rating: 0,
+    background:
+      "An aircraft mechanic, and ridiculously tall with it.\n\n" +
+      "He is also a volunteer firefighter.",
+    provenance: "",
+    tags: ["mechanic", "aircraft", "tall", "firefighter", "volunteer"],
+    images: ["images/the-tall-mechanic-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Linked to the Fire Chief because he volunteers and the Chief runs the service - say the word if his brigade answers to somebody else. Second aircraft man here after the Mechanic, who is an engineer rather than a mechanic, so they don't share a role."
+  },
+
+
+  {
+    id: "the-vigilante",
+    name: "The Vigilante",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Vigilante",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Twenty years old, and out most nights on his bike.\n\n" +
+      "He works with the police and carries an honorary badge, given to him for " +
+      "the time he stopped a crime. He is not one of them. He prefers it solo, " +
+      "and what he handles is small - gas station robberies, that kind of " +
+      "thing. Whatever he can get to.",
+    provenance: "",
+    tags: ["vigilante", "bike", "night", "honorary-badge", "solo", "young"],
+    images: ["images/the-vigilante-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Deliberately not in Lego City Law - an honorary badge is not a job, and staying outside it is the point of him. Second civilian here to stop a robbery without being police, after the Bank Teller."
+  },
+
+
+  {
+    id: "the-vessel",
+    name: "The Vessel",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Vessel",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An empty body, kept for the demigods to use.\n\n" +
+      "When one of them cannot physically be somewhere - trapped in another " +
+      "dimension, say - they send their soul into this being and act through " +
+      "it.\n\n" +
+      "The rest of the time it is empty.",
+    provenance: "",
+    tags: ["vessel", "empty", "demigod", "possession", "soul", "robot", "dimensions"],
+    images: ["images/the-vessel-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. No relations recorded because no particular demigod owns him - any of them can be him, which is a strange thing for an entry in a catalogue of individuals."
+  },
+
+
+  {
+    id: "the-fire-chief",
+    name: "The Fire Chief",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Fire Chief",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-tall-mechanic", label: "Volunteer firefighter" },
+    ],
+    rating: 0,
+    background: "Chief firefighter of the Lego civilization.",
+    provenance: "",
+    tags: ["firefighter", "chief", "fire-service", "ginger-beard"],
+    images: ["images/the-fire-chief-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The first fire service in the collection, after a great many armies and police forces."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
