@@ -77,6 +77,15 @@ skipped rather than breaking, so you can write "son of X" before X is
 photographed. Links are one-way in the data — put a matching one on the other
 figure if you want it to point back.
 
+Connections render as small photos with the relation written under them, so you
+can see who someone's family and crew actually look like without leaving their
+page. Click any of them to jump there.
+
+Underneath that, an **Also <role>** row shows every other figure with the same
+`role` — open anyone in the Adventure Crew and the rest of the crew is sitting
+below them. It costs nothing to maintain: it comes straight off the role field,
+and it doesn't appear when a role has only one person in it.
+
 ### Several photos of one character
 
 Add them to `images`. The first is the cover shown in the grid. When it matters

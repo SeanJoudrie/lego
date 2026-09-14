@@ -164,11 +164,22 @@
   .rel { margin-bottom:18px; }
   .rel h4 { margin:0 0 6px; font-size:11px; letter-spacing:.09em; text-transform:uppercase;
             color:var(--faint); font-weight:600; }
-  .relbtn { background:var(--panel-2); border:1px solid var(--line); color:var(--dim);
-            border-radius:20px; padding:5px 11px; font:inherit; font-size:12px;
-            cursor:pointer; margin:0 5px 5px 0; }
-  .relbtn b { color:var(--text); font-weight:600; }
-  .relbtn:hover { border-color:var(--accent); }
+  .minis { display:flex; flex-wrap:wrap; gap:11px; }
+  .mini { width:78px; background:none; border:0; padding:0; cursor:pointer;
+          text-align:center; font:inherit; }
+  .minishot { display:block; width:78px; aspect-ratio:4/5; position:relative;
+              background:var(--panel-2); border:1px solid var(--line);
+              border-radius:8px; overflow:hidden; }
+  .minishot img { position:absolute; inset:0; width:100%; height:100%; object-fit:contain; }
+  .minidash { position:absolute; inset:0; display:flex; align-items:center;
+              justify-content:center; color:var(--faint); font-size:15px; }
+  .mini em { display:block; font-style:normal; font-size:9.5px; color:var(--faint);
+             letter-spacing:.03em; margin-top:5px; line-height:1.3; }
+  .mini b { display:block; font-size:11px; color:var(--dim); font-weight:600;
+            line-height:1.25; margin-top:1px; }
+  .mini:hover .minishot { border-color:var(--accent); }
+  .mini:hover b { color:var(--text); }
+  .mini:focus-visible .minishot { outline:2px solid var(--accent); outline-offset:2px; }
   .facts { border-top:1px solid var(--line); padding-top:14px; font-size:13px; color:var(--dim); }
   .facts div { margin-bottom:5px; }
   .facts b { color:var(--text); font-weight:500; }
@@ -254,6 +265,18 @@ const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt
 // images may be a plain path or {src, caption} — normalise both to objects
 const photos = f => (f.images || []).map(x =>
   typeof x === "string" ? { src: x, caption: "" } : x);
+
+// small clickable tile: photo, relation label, name
+const miniCard = (g, label) => {
+  const cover = photos(g)[0];
+  return `<button class="mini" data-i="${g._i}">
+    <span class="minishot">${cover
+      ? `<img src="${esc(cover.src)}" alt="" loading="lazy">`
+      : `<span class="minidash">—</span>`}</span>
+    ${label ? `<em>${esc(label)}</em>` : ``}
+    <b>${esc(g.name)}</b>
+  </button>`;
+};
 
 const stars = n => {
   if (!n) return `<span class="off">unrated</span>`;   // don't fake a rating
@@ -403,9 +426,16 @@ function open(f) {
           const rels = (f.relations || [])
             .map(r => ({ ...r, g: FIGS.find(x => x.id === r.to) }))
             .filter(r => r.g);          // silently skip links to figures not yet added
-          return rels.length ? `<div class="rel"><h4>Connections</h4>${rels.map(r =>
-            `<button class="relbtn" data-i="${r.g._i}">${esc(r.label)} <b>${esc(r.g.name)}</b></button>`
-          ).join("")}</div>` : ``;
+          return rels.length ? `<div class="rel"><h4>Connections</h4>
+            <div class="minis">${rels.map(r => miniCard(r.g, r.label)).join("")}</div>
+          </div>` : ``;
+        })()}
+        ${(() => {
+          // everyone else doing the same job — the Adventure Crew, the militia, the ninjas
+          const kin = f.role ? FIGS.filter(g => g.role === f.role && g._i !== f._i) : [];
+          return kin.length ? `<div class="rel"><h4>Also ${esc(f.role)}</h4>
+            <div class="minis">${kin.map(g => miniCard(g, "")).join("")}</div>
+          </div>` : ``;
         })()}
         ${(f.acquired || f.notes) ? `<div class="facts">
           ${f.acquired ? `<div><b>Acquired</b> — ${esc(f.acquired)}</div>` : ``}
@@ -441,8 +471,8 @@ $("grid").addEventListener("click", e => {
 
 $("detail").addEventListener("click", e => {
   if (e.target.id === "x") return $("detail").close();
-  const rel = e.target.closest(".relbtn");
-  if (rel) return open(FIGS[+rel.dataset.i]);
+  const mini = e.target.closest(".mini");
+  if (mini) return open(FIGS[+mini.dataset.i]);
   const nav = e.target.closest(".nav");
   if (nav) return showImg(gal.i + Number(nav.dataset.step));
   const t = e.target.closest(".thumbs img");
