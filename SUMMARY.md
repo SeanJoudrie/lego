@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-186 characters from a custom LEGO minifigure world, in the order they were
+191 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2284,6 +2284,8 @@ It is common enough to see them. Nobody really interacts with them properly, bec
 
 A dwarf who decided to work at a library, rather than do what his upbringing had in mind for him.
 
+*Connections:* Dwarf kingdom in common The Dwarf King
+
 *Tags:* dwarf, librarian, books, left-the-trade
 
 ### 185. The Hatless Gnome
@@ -2306,7 +2308,69 @@ Literally Indiana Jones.
 
 *How it was got:* A genuine Indiana Jones minifigure, not a build.
 
+*Connections:* Son of Indiana Jones's Father
+
 *Tags:* indiana-jones, branded, archaeologist, adventurer, visitor
+
+### 187. Indiana Jones's Father
+
+**Alignment:** good · **Figure:** branded
+
+Literally Indiana Jones's dad.
+
+*How it was got:* A genuine Indiana Jones minifigure - Henry Jones Sr., pith helmet, spotted bow tie and all.
+
+*Connections:* Father of Indiana Jones
+
+*Tags:* indiana-jones, branded, father, professor, visitor
+
+### 188. The Soldier in Green Armor
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A soldier wearing experimental armor.
+
+*How it was got:* One of two attempts at rebuilding the Mega Bloks Halo armor in Lego - this is the solid teal-green version, with the visored helmet over it.
+
+*Connections:* Same experimental armor The Soldier in Clear Armor
+
+*Tags:* soldier, experimental-armor, halo, mega-bloks, rebuild, visor
+
+### 189. The Soldier in Clear Armor
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A soldier wearing experimental armor.
+
+*How it was got:* The second attempt at rebuilding the Mega Bloks Halo armor in Lego - this one in translucent plate over a black torso.
+
+*Connections:* Same experimental armor The Soldier in Green Armor
+
+*Tags:* soldier, woman, experimental-armor, halo, mega-bloks, rebuild, translucent
+
+### 190. The Dwarf King
+
+**Alignment:** good · **Role:** King · **Figure:** custom
+
+His exact rank does not translate into English properly. King is the closest the language gets.
+
+It is not quite the same office, because dwarf kingdoms do not run on many laws. What he actually holds is the authority to call a feast, and the authority to raise an army.
+
+Fortunately, in the dwarf kingdom, it is usually the feast. Usually it is a holiday.
+
+*Connections:* Dwarf kingdom in common The Dwarf Librarian
+
+*Tags:* dwarf, king, untranslatable-rank, feast, army, holiday
+
+### 191. The Runner
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+He goes to the gym and he goes for jogs.
+
+He likes to run places.
+
+*Tags:* runner, jogging, gym, athlete
 
 ---
 

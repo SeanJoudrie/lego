@@ -5111,7 +5111,9 @@ window.COLLECTION = [
     role: "Librarian",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-dwarf-king", label: "Dwarf kingdom in common" },
+    ],
     rating: 0,
     background:
       "A dwarf who decided to work at a library, rather than do what his " +
@@ -5161,7 +5163,9 @@ window.COLLECTION = [
     role: "",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "indiana-joneses-father", label: "Son of" },
+    ],
     rating: 0,
     background: "Literally Indiana Jones.",
     provenance: "A genuine Indiana Jones minifigure, not a build.",
@@ -5169,6 +5173,140 @@ window.COLLECTION = [
     images: ["images/indiana-jones-01.jpg"],
     acquired: "",
     notes: "Third branded figure and third theme outside the Creation Mythos, after Tony Stark and Bruce Wayne. Same open question about how he stands relative to the worlds. Worth noting he is the one branded figure whose job the collection already has four crews doing."
+  },
+
+
+
+  {
+    id: "indiana-joneses-father",
+    name: "Indiana Jones's Father",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Indiana Jones",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "indiana-jones", label: "Father of" },
+    ],
+    rating: 0,
+    background: "Literally Indiana Jones's dad.",
+    provenance:
+      "A genuine Indiana Jones minifigure - Henry Jones Sr., pith helmet, " +
+      "spotted bow tie and all.",
+    tags: ["indiana-jones", "branded", "father", "professor", "visitor"],
+    images: ["images/indiana-joneses-father-01.jpg"],
+    acquired: "",
+    notes: "Named by his relation rather than by his own name, the way the Aviator's Father and the Explorer's Son are. Fourth branded figure, and the first branded pair."
+  },
+
+
+  {
+    id: "the-soldier-in-green-armor",
+    name: "The Soldier in Green Armor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-soldier-in-clear-armor", label: "Same experimental armor" },
+    ],
+    rating: 0,
+    background: "A soldier wearing experimental armor.",
+    provenance:
+      "One of two attempts at rebuilding the Mega Bloks Halo armor in Lego - " +
+      "this is the solid teal-green version, with the visored helmet over it.",
+    tags: ["soldier", "experimental-armor", "halo", "mega-bloks", "rebuild", "visor"],
+    images: ["images/the-soldier-in-green-armor-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive - the armor is the only thing separating the two of them. Kitbash lineage worth noting: the Brute Prince and the Defector are knock-offs in the lore, and these two are a knock-off in the plastic, of a rival brick company's armor."
+  },
+
+
+  {
+    id: "the-soldier-in-clear-armor",
+    name: "The Soldier in Clear Armor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-soldier-in-green-armor", label: "Same experimental armor" },
+    ],
+    rating: 0,
+    background: "A soldier wearing experimental armor.",
+    provenance:
+      "The second attempt at rebuilding the Mega Bloks Halo armor in Lego - " +
+      "this one in translucent plate over a black torso.",
+    tags: ["soldier", "woman", "experimental-armor", "halo", "mega-bloks", "rebuild", "translucent"],
+    images: ["images/the-soldier-in-clear-armor-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. She is a different person from the soldier in green, not the same one re-kitted - two iterations of the same experiment, worn by two people."
+  },
+
+
+  {
+    id: "the-dwarf-king",
+    name: "The Dwarf King",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "King",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-dwarf-librarian", label: "Dwarf kingdom in common" },
+    ],
+    rating: 0,
+    background:
+      "His exact rank does not translate into English properly. King is the " +
+      "closest the language gets.\n\n" +
+      "It is not quite the same office, because dwarf kingdoms do not run on " +
+      "many laws. What he actually holds is the authority to call a feast, and " +
+      "the authority to raise an army.\n\n" +
+      "Fortunately, in the dwarf kingdom, it is usually the feast. Usually it is " +
+      "a holiday.",
+    provenance: "",
+    tags: ["dwarf", "king", "untranslatable-rank", "feast", "army", "holiday"],
+    images: ["images/the-dwarf-king-01.jpg"],
+    acquired: "",
+    notes: "You called him the dwarf ambassador first and then said he is essentially a king, so King is the role and the translation problem is in the background where it belongs. Third King in the role filter, after the Prince and King Arthur - and the only one whose two powers are a war and a party."
+  },
+
+
+  {
+    id: "the-runner",
+    name: "The Runner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He goes to the gym and he goes for jogs.\n\n" +
+      "He likes to run places.",
+    provenance: "",
+    tags: ["runner", "jogging", "gym", "athlete"],
+    images: ["images/the-runner-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, and kept distinct from the Marathon Runner on purpose - that one races, this one just likes getting there on foot. Third athlete here, so the role now holds three."
   },
 
 
