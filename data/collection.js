@@ -222,6 +222,7 @@ window.COLLECTION = [
       { to: "the-royal-daughter", label: "Father of" },
       { to: "the-outcast-prince", label: "Brother of" },
       { to: "the-palace-chief", label: "Pushed into the Senate by" },
+      { to: "kenjen", label: "Has yet to call on" },
     ],
     rating: 0,
     background:
@@ -731,6 +732,8 @@ window.COLLECTION = [
       { to: "the-clone-pilot", label: "Commands" },
       { to: "the-minigunner", label: "Commands" },
       { to: "the-tv-star", label: "Commands" },
+      { to: "the-battalion-commander", label: "Commands" },
+      { to: "the-mercenary", label: "Commands" },
     ],
     rating: 0,
     background:
@@ -2157,6 +2160,143 @@ window.COLLECTION = [
     images: ["images/the-second-padawan-01.jpg"],
     acquired: "",
     notes: "Second death in the collection, after the Green Captain. His link to the Purple Shadow will start working once that figure exists."
+  },
+
+  {
+    id: "kenjen",
+    name: "Kenjen",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    location: "",
+    relations: [
+      { to: "the-prince", label: "Loyal to" },
+    ],
+    rating: 0,
+    background:
+      "A warrior built by an ancient civilization and then frozen — held in a " +
+      "stasis chamber until somebody needed him. When they finally called him " +
+      "up and he got out, the first thing he did was take down a tiger roughly " +
+      "fifty times his size.\n\n" +
+      "He rode to a city, met the old man clone and the old man clone's robot, " +
+      "and between them they brought down the evil blue civilization. There is " +
+      "a great deal more to that story.\n\n" +
+      "He is not originally from here. His dimension runs very close to this " +
+      "one — near enough that most things are familiar to him and a few things " +
+      "are not. He's here now, and he is loyal to the Prince. He has not yet " +
+      "been called on for anything.",
+    provenance:
+      "Made during Covid, at about 19 — much later than the rest of the " +
+      "collection.",
+    tags: ["warrior", "ancient", "stasis", "summoned", "alternate-dimension", "unused"],
+    images: ["images/kenjen-01.jpg"],
+    acquired: "",
+    notes: "Second figure that can be dated, after Kaz at 16. The old man clone, his robot, and the evil blue civilization are all still uncatalogued."
+  },
+
+  {
+    id: "the-battalion-commander",
+    name: "The Battalion Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia Commander",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Serves under" },
+    ],
+    rating: 0,
+    background:
+      "He runs the space militia from the mothership — a battalion commander, " +
+      "handling everything above the day-to-day.\n\n" +
+      "That means serious mission planning. It also means organising the " +
+      "celebrations and the welcome-home ceremonies, which in a militia that " +
+      "has never lost anyone is a real and recurring job.",
+    provenance: "",
+    tags: ["space-militia", "commander", "mothership", "planning", "ceremonies"],
+    images: ["images/the-battalion-commander-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-mercenary",
+    name: "The Mercenary",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Serves under" },
+    ],
+    rating: 0,
+    background:
+      "A former special-forces mercenary who eventually ended up in the space " +
+      "militia.\n\n" +
+      "Explosives and shotguns are his forte.",
+    provenance: "",
+    tags: ["space-militia", "former-mercenary", "explosives", "shotguns"],
+    images: ["images/the-mercenary-01.jpg"],
+    acquired: "",
+    notes: "Part of your description came through too garbled to use - something about how he ended up in the militia. Worth re-telling."
+  },
+
+  {
+    id: "the-ship-crew",
+    name: "The Ship Crew",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "They came from another planet and settled here. Between them they fly " +
+      "the most famous ship in the galaxy: it looks like an ordinary aeroplane " +
+      "until it folds its wings in and becomes something rocket-powered and " +
+      "extremely fast.\n\n" +
+      "Both of them have a southern accent and both of them are very friendly. " +
+      "They are also masters of the sea and of water.",
+    provenance: "",
+    tags: ["pilot", "famous-ship", "off-world", "sea", "water", "friendly", "pair"],
+    images: ["images/the-ship-crew-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name - the ship is the famous thing, so it probably wants naming before they do."
+  },
+
+  {
+    id: "the-defector",
+    name: "The Defector",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Commander",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A soldier commander out of one of the knock-off societies — the off-brand " +
+      "civilizations, plenty of whom would happily declare war on Lego.\n\n" +
+      "He switched sides, and brought some of his men across with him. You can " +
+      "already see him adapting to the new climate.",
+    provenance: "",
+    tags: ["defector", "knock-off", "commander", "switched-sides", "adapting"],
+    images: ["images/the-defector-01.jpg"],
+    acquired: "",
+    notes: "The figure is itself a knock-off brick minifigure, so his origin is literally what he's made of - the most direct case of the lore and the plastic agreeing yet."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

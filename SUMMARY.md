@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-72 characters from a custom LEGO minifigure world, in the order they were
+77 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -14,6 +14,14 @@ Every person's collection is its own world. It's a shared universe, but the rule
 Travel between them is literal. Taking a few of my figures over to a friend's house means those figures are visiting that world.
 
 This is the thing most of the rest of it hangs off. The Discarded and the Damaged are not from far away in this world — they are from other people's worlds entirely, and they came here.
+
+### The knock-off societies
+
+Not every other world is another collection. Some are off-brand — the knock-off brick civilizations — and a good many of them would declare war on Lego given the chance.
+
+At least one commander has come across anyway, bringing some of his men with him. He is visibly adapting.
+
+This is the clearest case in the whole collection of the story and the material being the same thing: he is from a knock-off society because he is a knock-off minifigure.
 
 ### Crossing between worlds
 
@@ -82,6 +90,12 @@ Their only casualty is an arm, and they saved the man it belonged to. The arm he
 There is a bounty system, and it only points one way — you can put a price on evil zombies, mindless aliens, malfunctioning or malevolent robots. Not on people.
 
 The Golden Sniper and his ninja robot are hired as a pair, and that is the work they take.
+
+### Named but not yet seen
+
+Antagonists and figures the stories point at, none of them photographed yet: the Shadow King. The Purple Shadow. The evil blue civilization that Kenjen helped bring down. Quinn, the main villain.
+
+Also friendly and still missing: the old man clone, and the old man clone's robot.
 
 ### The shadow wars
 
@@ -203,7 +217,7 @@ He started out as a senator in the earliest days of the Senate, in a purple T-sh
 
 He is a much better king now, and genuinely useful. He still sometimes wonders what makes him so special. The real answer is just that he has a good heart. He is not the super mega ultra genius politician. He genuinely just has a good heart.
 
-*Connections:* Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief
+*Connections:* Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief · Has yet to call on Kenjen
 
 *Tags:* royal-family, king, senator, married, good-heart
 
@@ -424,7 +438,7 @@ The man in charge of the space police. He has a team of his own, who you'll meet
 
 Bold and daring, with a lot of feelings running close to the surface — but an optimist underneath all of it. And he does not go to the dark side. He's chill.
 
-*Connections:* Commands Crispus · Best friend of The Gunner · Commands The Disc Thrower · Commands The Reckless · Commands The Planner · Commands The Clone Pilot · Commands The Minigunner · Commands The TV Star
+*Connections:* Commands Crispus · Best friend of The Gunner · Commands The Disc Thrower · Commands The Reckless · Commands The Planner · Commands The Clone Pilot · Commands The Minigunner · Commands The TV Star · Commands The Battalion Commander · Commands The Mercenary
 
 *Tags:* space-police, bold, daring, optimist, leads-a-team
 
@@ -1047,6 +1061,66 @@ He was killed by the Purple Shadow. He and the Beowulf Jedi were friendly rivals
 *Connections:* Trained by The Snow Jedi · Friendly rival of The Beowulf Jedi
 
 *Tags:* jedi, force-sensitive, mind-tricks, poverty, redeemed, deceased
+
+### 73. Kenjen
+
+**Alignment:** good · **Role:** Warrior · **Figure:** custom
+
+A warrior built by an ancient civilization and then frozen — held in a stasis chamber until somebody needed him. When they finally called him up and he got out, the first thing he did was take down a tiger roughly fifty times his size.
+
+He rode to a city, met the old man clone and the old man clone's robot, and between them they brought down the evil blue civilization. There is a great deal more to that story.
+
+He is not originally from here. His dimension runs very close to this one — near enough that most things are familiar to him and a few things are not. He's here now, and he is loyal to the Prince. He has not yet been called on for anything.
+
+*How it was got:* Made during Covid, at about 19 — much later than the rest of the collection.
+
+*Connections:* Loyal to The Prince
+
+*Tags:* warrior, ancient, stasis, summoned, alternate-dimension, unused
+
+### 74. The Battalion Commander
+
+**Alignment:** good · **Role:** Space Militia Commander · **Figure:** custom
+
+He runs the space militia from the mothership — a battalion commander, handling everything above the day-to-day.
+
+That means serious mission planning. It also means organising the celebrations and the welcome-home ceremonies, which in a militia that has never lost anyone is a real and recurring job.
+
+*Connections:* Serves under The Space Marshal
+
+*Tags:* space-militia, commander, mothership, planning, ceremonies
+
+### 75. The Mercenary
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+A former special-forces mercenary who eventually ended up in the space militia.
+
+Explosives and shotguns are his forte.
+
+*Connections:* Serves under The Space Marshal
+
+*Tags:* space-militia, former-mercenary, explosives, shotguns
+
+### 76. The Ship Crew — Two of them
+
+**Alignment:** good · **Role:** Pilot · **Figure:** custom
+
+They came from another planet and settled here. Between them they fly the most famous ship in the galaxy: it looks like an ordinary aeroplane until it folds its wings in and becomes something rocket-powered and extremely fast.
+
+Both of them have a southern accent and both of them are very friendly. They are also masters of the sea and of water.
+
+*Tags:* pilot, famous-ship, off-world, sea, water, friendly, pair
+
+### 77. The Defector
+
+**Alignment:** good · **Role:** Commander · **Figure:** custom
+
+A soldier commander out of one of the knock-off societies — the off-brand civilizations, plenty of whom would happily declare war on Lego.
+
+He switched sides, and brought some of his men across with him. You can already see him adapting to the new climate.
+
+*Tags:* defector, knock-off, commander, switched-sides, adapting
 
 ---
 

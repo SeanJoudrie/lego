@@ -22,6 +22,19 @@ window.LORE = [
   },
 
   {
+    title: "The knock-off societies",
+    text:
+      "Not every other world is another collection. Some are off-brand — the " +
+      "knock-off brick civilizations — and a good many of them would declare " +
+      "war on Lego given the chance.\n\n" +
+      "At least one commander has come across anyway, bringing some of his men " +
+      "with him. He is visibly adapting.\n\n" +
+      "This is the clearest case in the whole collection of the story and the " +
+      "material being the same thing: he is from a knock-off society because he " +
+      "is a knock-off minifigure."
+  },
+
+  {
     title: "Crossing between worlds",
     text:
       "There is at least one known route in. A trickster god pilots an " +
@@ -127,6 +140,16 @@ window.LORE = [
       "robots. Not on people.\n\n" +
       "The Golden Sniper and his ninja robot are hired as a pair, and that is " +
       "the work they take."
+  },
+
+  {
+    title: "Named but not yet seen",
+    text:
+      "Antagonists and figures the stories point at, none of them photographed " +
+      "yet: the Shadow King. The Purple Shadow. The evil blue civilization that " +
+      "Kenjen helped bring down. Quinn, the main villain.\n\n" +
+      "Also friendly and still missing: the old man clone, and the old man " +
+      "clone's robot."
   },
 
   {
