@@ -736,6 +736,8 @@ window.COLLECTION = [
       { to: "the-tv-star", label: "Commands" },
       { to: "the-battalion-commander", label: "Commands" },
       { to: "the-mercenary", label: "Commands" },
+      { to: "the-green-officer", label: "Commands" },
+      { to: "the-marshals-love", label: "In love with" },
     ],
     rating: 0,
     background:
@@ -2962,6 +2964,132 @@ window.COLLECTION = [
     images: ["images/the-aviators-father-01.jpg"],
     acquired: "",
     notes: "Placeholder name."
+  },
+
+  {
+    id: "the-rifleman",
+    name: "The Rifleman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventure Crew",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Another of the Adventure Crew, and their support rifleman. Large " +
+      "moustache, cowboy hat.\n\n" +
+      "He speaks in a flat, oddly formal deadpan, arrives at conclusions nobody " +
+      "else was heading toward, and delivers them with complete and untroubled " +
+      "confidence.",
+    provenance: "",
+    tags: ["adventure-crew", "rifleman", "moustache", "deadpan"],
+    images: ["images/the-rifleman-01.jpg"],
+    acquired: "",
+    notes: "Voice written as traits rather than naming the Family Guy comparison, same as the others."
+  },
+
+  {
+    id: "the-woodsman",
+    name: "The Woodsman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Woodsman",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Grizzled and wild, the sort of man you picture in a coonskin hat. He has " +
+      "defended his house out in the wilderness from zombies and from aliens.\n\n" +
+      "Friendly and hospitable, and he will not join anybody's team. He wants " +
+      "to be left alone. Occasionally something comes through his land that he " +
+      "can't handle by himself, and the Adventure Crew turn up for it.\n\n" +
+      "He has dug up a great deal out there — Viking helmets, golden swords — " +
+      "and he will not hand any of it over. They're his.",
+    provenance: "",
+    tags: ["woodsman", "unaffiliated", "hermit", "hospitable", "treasure", "stubborn"],
+    images: ["images/the-woodsman-01.jpg"],
+    acquired: "",
+    notes: "The only figure in the collection who has actively refused to belong to anything - no relations drawn, which is the point."
+  },
+
+  {
+    id: "the-forager",
+    name: "The Forager",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventure Crew",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Descended from gnomes, at least in part — the height gives it away.\n\n" +
+      "He is the finest navigator on the ground there is, and he reads " +
+      "everything instantly. He can feel rain coming two days out. He knows " +
+      "where every trail goes. He knows the mosses by name and which of them " +
+      "are medicine.\n\n" +
+      "And he is the crew's cook. He can put a five-star meal together out of " +
+      "nothing at all — the right moss, the right mushrooms, the right leaves, " +
+      "and exactly how to cook or smoke them into something worth eating.",
+    provenance: "",
+    tags: ["adventure-crew", "gnome-blooded", "navigator", "forager", "cook", "nature"],
+    images: ["images/the-forager-01.jpg"],
+    acquired: "",
+    notes: "Second best cook in the collection, after the Chef - but in the wilderness rather than a kitchen, and without a magic knife."
+  },
+
+  {
+    id: "the-green-officer",
+    name: "The Green Officer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Police",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Serves under" },
+    ],
+    rating: 0,
+    background:
+      "Space police, in green. A supporting man rather than a leading one.",
+    provenance: "",
+    tags: ["space-police", "support", "green"],
+    images: ["images/the-green-officer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-marshals-love",
+    name: "The Marshal's Love",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Love interest of" },
+    ],
+    rating: 0,
+    background:
+      "The Space Marshal's love interest.",
+    provenance: "",
+    tags: ["love-interest", "space-police"],
+    images: ["images/the-marshals-love-01.jpg"],
+    acquired: "",
+    notes: "Fourth woman in a collection of 107, and the only character here defined solely by her relationship to someone else - she has no role, no name and no story of her own yet. The placeholder name is deliberately awkward so it nags. She wears the same torso as the General's Son."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

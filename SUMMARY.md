@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-102 characters from a custom LEGO minifigure world, in the order they were
+107 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -462,7 +462,7 @@ The man in charge of the space police. He has a team of his own, who you'll meet
 
 Bold and daring, with a lot of feelings running close to the surface — but an optimist underneath all of it. And he does not go to the dark side. He's chill.
 
-*Connections:* Commands Crispus · Best friend of The Gunner · Commands The Disc Thrower · Commands The Reckless · Commands The Planner · Commands The Clone Pilot · Commands The Minigunner · Commands The TV Star · Commands The Battalion Commander · Commands The Mercenary
+*Connections:* Commands Crispus · Best friend of The Gunner · Commands The Disc Thrower · Commands The Reckless · Commands The Planner · Commands The Clone Pilot · Commands The Minigunner · Commands The TV Star · Commands The Battalion Commander · Commands The Mercenary · Commands The Green Officer · In love with The Marshal's Love
 
 *Tags:* space-police, bold, daring, optimist, leads-a-team
 
@@ -1443,6 +1443,60 @@ They found each other again by both joining the same flying club — neither of 
 *Connections:* Father of The Aviator
 
 *Tags:* adventure-crew, pilot, separated-at-birth, reunion, flying
+
+### 103. The Rifleman
+
+**Alignment:** good · **Role:** Adventure Crew · **Figure:** custom
+
+Another of the Adventure Crew, and their support rifleman. Large moustache, cowboy hat.
+
+He speaks in a flat, oddly formal deadpan, arrives at conclusions nobody else was heading toward, and delivers them with complete and untroubled confidence.
+
+*Tags:* adventure-crew, rifleman, moustache, deadpan
+
+### 104. The Woodsman
+
+**Alignment:** good · **Role:** Woodsman · **Figure:** custom
+
+Grizzled and wild, the sort of man you picture in a coonskin hat. He has defended his house out in the wilderness from zombies and from aliens.
+
+Friendly and hospitable, and he will not join anybody's team. He wants to be left alone. Occasionally something comes through his land that he can't handle by himself, and the Adventure Crew turn up for it.
+
+He has dug up a great deal out there — Viking helmets, golden swords — and he will not hand any of it over. They're his.
+
+*Tags:* woodsman, unaffiliated, hermit, hospitable, treasure, stubborn
+
+### 105. The Forager
+
+**Alignment:** good · **Role:** Adventure Crew · **Figure:** custom
+
+Descended from gnomes, at least in part — the height gives it away.
+
+He is the finest navigator on the ground there is, and he reads everything instantly. He can feel rain coming two days out. He knows where every trail goes. He knows the mosses by name and which of them are medicine.
+
+And he is the crew's cook. He can put a five-star meal together out of nothing at all — the right moss, the right mushrooms, the right leaves, and exactly how to cook or smoke them into something worth eating.
+
+*Tags:* adventure-crew, gnome-blooded, navigator, forager, cook, nature
+
+### 106. The Green Officer
+
+**Alignment:** good · **Role:** Space Police · **Figure:** custom
+
+Space police, in green. A supporting man rather than a leading one.
+
+*Connections:* Serves under The Space Marshal
+
+*Tags:* space-police, support, green
+
+### 107. The Marshal's Love
+
+**Alignment:** good · **Figure:** custom
+
+The Space Marshal's love interest.
+
+*Connections:* Love interest of The Space Marshal
+
+*Tags:* love-interest, space-police
 
 ---
 
