@@ -652,7 +652,10 @@ window.COLLECTION = [
     role: "Orphan",
     group: "The Royal Household",
     location: "The Royal Palace",
-    relations: [],
+    relations: [
+      { to: "the-father", label: "Raised by" },
+      { to: "the-mother", label: "Raised by" },
+    ],
     rating: 0,
     background:
       "Various orphans, all of them hit by the war. They are different species " +
@@ -4744,6 +4747,120 @@ window.COLLECTION = [
     images: ["images/the-stunt-driver-01.jpg"],
     acquired: "",
     notes: "Placeholder name. No link written to the Stunt Robot, who exists to take the stunts that would be too dangerous for a person - they are obviously in the same trade and probably the same job, but you haven't said they know each other, so say the word and I'll connect them. Separate from the Daredevils, who are test pilots at the Space Academy rather than performers."
+  },
+
+
+
+  {
+    id: "the-father",
+    name: "The Father",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "The West Family",
+    location: "",
+    relations: [
+      { to: "the-mother", label: "Married to" },
+      { to: "the-son", label: "Father of" },
+      { to: "the-palace-orphans", label: "Helps raise" },
+    ],
+    rating: 0,
+    background:
+      "Father of the family, and a civilian.\n\n" +
+      "He and his wife are among the people who help raise the orphans inside " +
+      "the Royal Palace.",
+    provenance: "",
+    tags: ["civilian", "father", "family", "caretaker", "palace"],
+    images: ["images/the-father-01.jpg"],
+    acquired: "",
+    notes: "The family name is read as West off a garbled line - say the word and it changes everywhere. This family answers something the Palace Orphans entry left open: it already said the orphans are raised by the good people who live at the Palace, with caretakers of their own, and until now none of those people had a face."
+  },
+
+
+  {
+    id: "the-mother",
+    name: "The Mother",
+    variant: "Two outfits",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "The West Family",
+    location: "",
+    relations: [
+      { to: "the-father", label: "Married to" },
+      { to: "the-son", label: "Mother of" },
+      { to: "the-palace-orphans", label: "Helps raise" },
+    ],
+    rating: 0,
+    background:
+      "Mother of the family, and a civilian.\n\n" +
+      "She and her husband are among the people who help raise the orphans " +
+      "inside the Royal Palace.",
+    provenance: "",
+    tags: ["civilian", "mother", "family", "caretaker", "palace"],
+    images: [
+      { src: "images/the-mother-01.jpg", caption: "Blue blazer" },
+      { src: "images/the-mother-02.jpg", caption: "Red wrap top" }
+    ],
+    acquired: "",
+    notes: "Two photos, one woman, one entry - two outfits rather than two people. Family name read as West off a garbled line."
+  },
+
+
+  {
+    id: "the-son",
+    name: "The Son",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "The West Family",
+    location: "",
+    relations: [
+      { to: "the-father", label: "Son of" },
+      { to: "the-mother", label: "Son of" },
+    ],
+    rating: 0,
+    background: "Their son.",
+    provenance: "",
+    tags: ["civilian", "son", "family", "child"],
+    images: ["images/the-son-01.jpg"],
+    acquired: "",
+    notes: "No raising link written for him - you said the parents help raise the palace orphans, and he looks young enough to be one of the children rather than one of the carers. Family name read as West off a garbled line."
+  },
+
+
+  {
+    id: "the-comedian",
+    name: "The Comedian",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Stand-up Comedian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A local stand-up comedian. Also a skateboarder. Also, sometimes, the " +
+      "town drunk.",
+    provenance:
+      "This figure appears in a minifigure scene in the KESHEN8 YouTube video " +
+      "LEGO Black Ops - the only figure in the collection that came out of " +
+      "somebody else's film.",
+    tags: ["comedian", "stand-up", "skateboarder", "drunk", "keshen8", "film"],
+    images: ["images/the-comedian-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. First figure here whose provenance is another person's work rather than a set or a kitbash."
   },
 
 

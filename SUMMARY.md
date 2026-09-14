@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-170 characters from a custom LEGO minifigure world, in the order they were
+174 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -443,6 +443,8 @@ Various orphans, all of them hit by the war. They are different species of human
 They live peacefully in the royal castle with the Prince and the Queen. The Prince and Queen are super busy, so while they took them in, they are not their adoptive parents and nobody pretends otherwise. They are raised by the good people who live at the Royal Palace — fed, clothed, taught, with caretakers of their own. They are very, very well loved and they live really well.
 
 But they are still orphans. They never really met their parents.
+
+*Connections:* Raised by The Father · Raised by The Mother
 
 *Tags:* orphan, war, twin, off-world, vintage-figure, group
 
@@ -2133,6 +2135,50 @@ Space police.
 A daredevil driver, and a stunt performer.
 
 *Tags:* stunt, driver, daredevil, racing, performer
+
+### 171. The Father
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+Father of the family, and a civilian.
+
+He and his wife are among the people who help raise the orphans inside the Royal Palace.
+
+*Connections:* Married to The Mother · Father of The Son · Helps raise The Palace Orphans
+
+*Tags:* civilian, father, family, caretaker, palace
+
+### 172. The Mother — Two outfits
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+Mother of the family, and a civilian.
+
+She and her husband are among the people who help raise the orphans inside the Royal Palace.
+
+*Connections:* Married to The Father · Mother of The Son · Helps raise The Palace Orphans
+
+*Tags:* civilian, mother, family, caretaker, palace
+
+### 173. The Son
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+Their son.
+
+*Connections:* Son of The Father · Son of The Mother
+
+*Tags:* civilian, son, family, child
+
+### 174. The Comedian
+
+**Alignment:** good · **Role:** Stand-up Comedian · **Figure:** custom
+
+A local stand-up comedian. Also a skateboarder. Also, sometimes, the town drunk.
+
+*How it was got:* This figure appears in a minifigure scene in the KESHEN8 YouTube video LEGO Black Ops - the only figure in the collection that came out of somebody else's film.
+
+*Tags:* comedian, stand-up, skateboarder, drunk, keshen8, film
 
 ---
 
