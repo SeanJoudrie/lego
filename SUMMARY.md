@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-67 characters from a custom LEGO minifigure world, in the order they were
+72 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -28,6 +28,8 @@ Whether this is how the Discarded and the Damaged arrived is not yet settled —
 It is known, in-universe, that people can be made out of different pieces. Not a secret and not a metaphor — just how bodies work here.
 
 It's why a figure can be assembled as a throwaway and still be a person, why an arm can be studied and copied into a whole society's cybernetics, and why being taken apart is something that can be survived.
+
+The pieces also carry things. The Snow Jedi was formed out of ancient ones, and knows a great deal instinctively that he never had to learn. What you are made of is not neutral.
 
 ### The Discarded
 
@@ -61,7 +63,7 @@ The long story is still to be told. This note is a placeholder for it.
 
 In this world the word Padawan carries no connection to the Force. It means apprentice, full stop — the Commissioner has one, and it's a job, not a lineage.
 
-The exception is the First Man's Padawans, the ones who became the Demigods. He actually did introduce the Force here, so in his case the word means both things at once.
+The exceptions are the ones trained by actual Force users: the First Man's Padawans, who became the Demigods, and the Snow Jedi's two. For those the word means both things at once.
 
 ### The Goo
 
@@ -81,11 +83,13 @@ There is a bounty system, and it only points one way — you can put a price on 
 
 The Golden Sniper and his ninja robot are hired as a pair, and that is the work they take.
 
-### The Great Shadow War
+### The shadow wars
 
-A war fought against the shadow, ended by negotiation rather than by someone winning it. The Shadow Prince — the Shadow King's own son — was part of getting that settlement done.
+There has been more than one. A war against the shadow ended by negotiation rather than by anyone winning it, with the Shadow Prince — the Shadow King's own son — part of getting that settlement done. And others: the TV Star lost half his face in one of them.
 
-The Shadow King is a villain. He has not been photographed yet.
+Two figures on that side have been named and neither photographed. The Shadow King, who is a villain and the Shadow Prince's father. And the Purple Shadow, who killed the Snow Jedi's second Padawan.
+
+Whether they are the same power is not established.
 
 ### First contact
 
@@ -420,7 +424,7 @@ The man in charge of the space police. He has a team of his own, who you'll meet
 
 Bold and daring, with a lot of feelings running close to the surface — but an optimist underneath all of it. And he does not go to the dark side. He's chill.
 
-*Connections:* Commands Crispus · Best friend of The Gunner · Commands The Disc Thrower · Commands The Reckless · Commands The Planner · Commands The Clone Pilot · Commands The Minigunner
+*Connections:* Commands Crispus · Best friend of The Gunner · Commands The Disc Thrower · Commands The Reckless · Commands The Planner · Commands The Clone Pilot · Commands The Minigunner · Commands The TV Star
 
 *Tags:* space-police, bold, daring, optimist, leads-a-team
 
@@ -979,6 +983,70 @@ Space police, carrying a minigun. Tough, rugged, and considerable swag.
 *Connections:* Serves under The Space Marshal
 
 *Tags:* space-police, minigun, tough, rugged, swag
+
+### 68. The Aviator
+
+**Alignment:** good · **Role:** Adventure Squad · **Figure:** custom
+
+Adventure squad. He flies anything that isn't a spacecraft — planes, ships, whatever there is — and he works on them too.
+
+He is very, very into maps and finding treasure.
+
+*Tags:* adventure-squad, pilot, mechanic, maps, treasure
+
+### 69. The TV Star
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+He was a TV star before he enlisted in the space militia, during one of the shadow wars. That's where his face went.
+
+You can still tell he was handsome. Part of his face is damaged now, and he has gold teeth.
+
+*Connections:* Serves under The Space Marshal
+
+*Tags:* space-militia, former-tv-star, scarred, gold-teeth, shadow-wars
+
+### 70. The Snow Jedi
+
+**Alignment:** good · **Role:** Jedi Master · **Figure:** custom
+
+A master, despite the big goggles and the white chest plate, and his lightsaber is green.
+
+He was formed out of ancient pieces, which is where the knowledge comes from — he simply has a great deal of it, instinctively, without having had to learn it.
+
+He trained two Padawans. One of them is dead.
+
+*Connections:* Trained The Beowulf Jedi · Trained The Second Padawan
+
+*Tags:* jedi, master, green-saber, ancient-pieces, instinctual, teacher
+
+### 71. The Beowulf Jedi
+
+**Alignment:** good · **Role:** Jedi · **Figure:** custom
+
+He carries the soul of a legendary ancient fighter, reborn and given the Force. That is what the Snow Jedi sensed in him, and why he came looking for him.
+
+He fights monsters, and anything else put in front of him. Extremely brave, and enormously strong in both the Force and in plain willpower. Not the sharpest — but the bravery covers a lot of ground.
+
+He trained alongside the Snow Jedi's other Padawan. They were friendly rivals, and in the end they were friends. His death hit him hard.
+
+*Connections:* Trained by The Snow Jedi · Friendly rival of The Second Padawan
+
+*Tags:* jedi, ancient-soul, reborn, brave, monster-slayer, willpower
+
+### 72. The Second Padawan
+
+**Alignment:** good · **Role:** Jedi · **Figure:** custom
+
+Force-sensitive from childhood, and very poor with it — so he used mind tricks to deceive people, because that was what was available.
+
+The Snow Jedi sought him out, and he corrected himself. He fought.
+
+He was killed by the Purple Shadow. He and the Beowulf Jedi were friendly rivals who had trained together, and by the end that amounted to being good friends — the loss hurt him badly.
+
+*Connections:* Trained by The Snow Jedi · Friendly rival of The Beowulf Jedi
+
+*Tags:* jedi, force-sensitive, mind-tricks, poverty, redeemed, deceased
 
 ---
 

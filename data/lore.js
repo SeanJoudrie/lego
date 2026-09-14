@@ -41,7 +41,10 @@ window.LORE = [
       "pieces. Not a secret and not a metaphor — just how bodies work here.\n\n" +
       "It's why a figure can be assembled as a throwaway and still be a person, " +
       "why an arm can be studied and copied into a whole society's cybernetics, " +
-      "and why being taken apart is something that can be survived."
+      "and why being taken apart is something that can be survived.\n\n" +
+      "The pieces also carry things. The Snow Jedi was formed out of ancient " +
+      "ones, and knows a great deal instinctively that he never had to learn. " +
+      "What you are made of is not neutral."
   },
 
   {
@@ -92,9 +95,9 @@ window.LORE = [
       "In this world the word Padawan carries no connection to the Force. It " +
       "means apprentice, full stop — the Commissioner has one, and it's a job, " +
       "not a lineage.\n\n" +
-      "The exception is the First Man's Padawans, the ones who became the " +
-      "Demigods. He actually did introduce the Force here, so in his case the " +
-      "word means both things at once."
+      "The exceptions are the ones trained by actual Force users: the First " +
+      "Man's Padawans, who became the Demigods, and the Snow Jedi's two. For " +
+      "those the word means both things at once."
   },
 
   {
@@ -127,12 +130,16 @@ window.LORE = [
   },
 
   {
-    title: "The Great Shadow War",
+    title: "The shadow wars",
     text:
-      "A war fought against the shadow, ended by negotiation rather than by " +
-      "someone winning it. The Shadow Prince — the Shadow King's own son — was " +
-      "part of getting that settlement done.\n\n" +
-      "The Shadow King is a villain. He has not been photographed yet."
+      "There has been more than one. A war against the shadow ended by " +
+      "negotiation rather than by anyone winning it, with the Shadow Prince — " +
+      "the Shadow King's own son — part of getting that settlement done. And " +
+      "others: the TV Star lost half his face in one of them.\n\n" +
+      "Two figures on that side have been named and neither photographed. The " +
+      "Shadow King, who is a villain and the Shadow Prince's father. And the " +
+      "Purple Shadow, who killed the Snow Jedi's second Padawan.\n\n" +
+      "Whether they are the same power is not established."
   },
 
   {

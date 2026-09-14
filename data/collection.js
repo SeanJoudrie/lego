@@ -730,6 +730,7 @@ window.COLLECTION = [
       { to: "the-planner", label: "Commands" },
       { to: "the-clone-pilot", label: "Commands" },
       { to: "the-minigunner", label: "Commands" },
+      { to: "the-tv-star", label: "Commands" },
     ],
     rating: 0,
     background:
@@ -2017,6 +2018,145 @@ window.COLLECTION = [
     images: ["images/the-minigunner-01.jpg"],
     acquired: "",
     notes: "Placeholder name, kept distinct from The Gunner."
+  },
+
+  {
+    id: "the-aviator",
+    name: "The Aviator",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventure Squad",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Adventure squad. He flies anything that isn't a spacecraft — planes, " +
+      "ships, whatever there is — and he works on them too.\n\n" +
+      "He is very, very into maps and finding treasure.",
+    provenance: "",
+    tags: ["adventure-squad", "pilot", "mechanic", "maps", "treasure"],
+    images: ["images/the-aviator-01.jpg"],
+    acquired: "",
+    notes: "First of the adventure squad. Placeholder name."
+  },
+
+  {
+    id: "the-tv-star",
+    name: "The TV Star",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Serves under" },
+    ],
+    rating: 0,
+    background:
+      "He was a TV star before he enlisted in the space militia, during one of " +
+      "the shadow wars. That's where his face went.\n\n" +
+      "You can still tell he was handsome. Part of his face is damaged now, and " +
+      "he has gold teeth.",
+    provenance: "",
+    tags: ["space-militia", "former-tv-star", "scarred", "gold-teeth", "shadow-wars"],
+    images: ["images/the-tv-star-01.jpg"],
+    acquired: "",
+    notes: "Possible link to the Cameraman's TV unit in Lego City - not stated, so not drawn."
+  },
+
+  {
+    id: "the-snow-jedi",
+    name: "The Snow Jedi",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Jedi Master",
+    location: "",
+    relations: [
+      { to: "the-beowulf-jedi", label: "Trained" },
+      { to: "the-second-padawan", label: "Trained" },
+    ],
+    rating: 0,
+    background:
+      "A master, despite the big goggles and the white chest plate, and his " +
+      "lightsaber is green.\n\n" +
+      "He was formed out of ancient pieces, which is where the knowledge comes " +
+      "from — he simply has a great deal of it, instinctively, without having " +
+      "had to learn it.\n\n" +
+      "He trained two Padawans. One of them is dead.",
+    provenance: "",
+    tags: ["jedi", "master", "green-saber", "ancient-pieces", "instinctual", "teacher"],
+    images: ["images/the-snow-jedi-01.jpg"],
+    acquired: "",
+    notes: "\"Formed from ancient pieces\" is the first time the piece-based biology has been said to carry knowledge - see the world notes."
+  },
+
+  {
+    id: "the-beowulf-jedi",
+    name: "The Beowulf Jedi",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Jedi",
+    location: "",
+    relations: [
+      { to: "the-snow-jedi", label: "Trained by" },
+      { to: "the-second-padawan", label: "Friendly rival of" },
+    ],
+    rating: 0,
+    background:
+      "He carries the soul of a legendary ancient fighter, reborn and given the " +
+      "Force. That is what the Snow Jedi sensed in him, and why he came looking " +
+      "for him.\n\n" +
+      "He fights monsters, and anything else put in front of him. Extremely " +
+      "brave, and enormously strong in both the Force and in plain willpower. " +
+      "Not the sharpest — but the bravery covers a lot of ground.\n\n" +
+      "He trained alongside the Snow Jedi's other Padawan. They were friendly " +
+      "rivals, and in the end they were friends. His death hit him hard.",
+    provenance: "",
+    tags: ["jedi", "ancient-soul", "reborn", "brave", "monster-slayer", "willpower"],
+    images: ["images/the-beowulf-jedi-01.jpg"],
+    acquired: "",
+    notes: "Named for the Beowulf and Skyrim energy you described."
+  },
+
+  {
+    id: "the-second-padawan",
+    name: "The Second Padawan",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Jedi",
+    location: "",
+    relations: [
+      { to: "the-snow-jedi", label: "Trained by" },
+      { to: "the-beowulf-jedi", label: "Friendly rival of" },
+      { to: "the-purple-shadow", label: "Killed by" },
+    ],
+    rating: 0,
+    background:
+      "Force-sensitive from childhood, and very poor with it — so he used mind " +
+      "tricks to deceive people, because that was what was available.\n\n" +
+      "The Snow Jedi sought him out, and he corrected himself. He fought.\n\n" +
+      "He was killed by the Purple Shadow. He and the Beowulf Jedi were friendly " +
+      "rivals who had trained together, and by the end that amounted to being " +
+      "good friends — the loss hurt him badly.",
+    provenance: "",
+    tags: ["jedi", "force-sensitive", "mind-tricks", "poverty", "redeemed", "deceased"],
+    images: ["images/the-second-padawan-01.jpg"],
+    acquired: "",
+    notes: "Second death in the collection, after the Green Captain. His link to the Purple Shadow will start working once that figure exists."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
