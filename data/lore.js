@@ -75,7 +75,13 @@ window.LORE = [
       "goes and waits on one, and he arrives and carries them across. Then he " +
       "leaves them to make their own way here.\n\n" +
       "Whether this is how the Discarded and the Damaged arrived is not yet " +
-      "settled — but it is the only crossing anyone has described."
+      "settled.\n\n" +
+      "There is a second boat. Another man pilots one, and the two of them have " +
+      "never met — because he does not cross. He lives in the space between " +
+      "worlds and stays there, which is why he dresses so strangely on the rare " +
+      "occasions he comes to the mainland.\n\n" +
+      "So the between is not merely a distance. It is somewhere, and somebody " +
+      "lives in it."
   },
 
   {

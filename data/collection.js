@@ -1071,6 +1071,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-blue-haired-ninja", label: "Taught" },
       { to: "the-street-ninja", label: "Taught" },
+      { to: "the-red-apprentice", label: "Training" },
     ],
     rating: 0,
     background:
@@ -1289,7 +1290,9 @@ window.COLLECTION = [
     rank: "",
     role: "Launch Director",
     location: "The Royal Space Academy",
-    relations: [],
+    relations: [
+      { to: "the-test-pilot", label: "Commands" },
+    ],
     rating: 0,
     background:
       "He runs the launches. Any big ship going up, any engineering project of " +
@@ -1319,6 +1322,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-tricksters-apprentice", label: "Took on" },
+      { to: "the-in-betweener", label: "Has never met" },
     ],
     rating: 0,
     background:
@@ -3090,6 +3094,131 @@ window.COLLECTION = [
     images: ["images/the-marshals-love-01.jpg"],
     acquired: "",
     notes: "Fourth woman in a collection of 107, and the only character here defined solely by her relationship to someone else - she has no role, no name and no story of her own yet. The placeholder name is deliberately awkward so it nags. She wears the same torso as the General's Son."
+  },
+
+  {
+    id: "the-in-betweener",
+    name: "The In-Betweener",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Traveller",
+    location: "",
+    relations: [
+      { to: "the-ferryman", label: "Has never met" },
+    ],
+    rating: 0,
+    background:
+      "He travels between dimensions and has seen most of what there is — " +
+      "fifth-dimensional tesseract places, topsy-turvy incoherent ones — and he " +
+      "has sat and spoken with the gods and demigods of several different " +
+      "worlds.\n\n" +
+      "He has a dimensional boat, much like the trickster's. The two of them " +
+      "have never met. The difference is that the trickster crosses between " +
+      "worlds, and this one stays inside the space in between them and lives " +
+      "there.\n\n" +
+      "Which is why, when he comes to visit the mainland, the way he dresses is " +
+      "very funny. He has some small magic. Nothing enormous.",
+    provenance: "",
+    tags: ["dimensions", "boat", "in-between", "magic", "traveller", "odd-dresser"],
+    images: ["images/the-in-betweener-01.jpg"],
+    acquired: "",
+    notes: "Second man in the collection with a dimensional boat, and the link to the Ferryman records that they have never met - which seemed worth keeping rather than leaving blank."
+  },
+
+  {
+    id: "the-defense-bot",
+    name: "The Defense Bot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Defense Bot",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Built by an old man of the former Verdauf guards. One hand is a minigun. " +
+      "He is also a very good mechanic.",
+    provenance: "",
+    tags: ["robot", "verdauf", "minigun", "mechanic", "built"],
+    images: ["images/the-defense-bot-01.jpg"],
+    acquired: "",
+    notes: "The old man who built him is still to come. First mention of the Verdauf guards as distinct from the Verdauf Squadron."
+  },
+
+  {
+    id: "the-space-boarder",
+    name: "The Space Boarder",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A famous space boarder and a local celebrity — the defining competitor " +
+      "in his sport, medalled and well known for it, and enough of a showman " +
+      "that people who don't follow the sport know him anyway.",
+    provenance: "",
+    tags: ["athlete", "space-boarding", "celebrity", "medalled", "showman"],
+    images: ["images/the-space-boarder-01.jpg"],
+    acquired: "",
+    notes: "First athlete in the collection - everyone else works, fights or rules. The gold medal is on the actual figure."
+  },
+
+  {
+    id: "the-test-pilot",
+    name: "The Test Pilot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Test Pilot",
+    location: "",
+    relations: [
+      { to: "the-flight-director", label: "Serves under" },
+    ],
+    rating: 0,
+    background:
+      "He tests aircraft. That is the job, and he does it under the man in the " +
+      "red jumpsuit who runs every launch.",
+    provenance: "",
+    tags: ["test-pilot", "aircraft", "royal-space-academy"],
+    images: ["images/the-test-pilot-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-red-apprentice",
+    name: "The Red Apprentice",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja",
+    location: "",
+    relations: [
+      { to: "the-red-ninja", label: "Apprentice to" },
+    ],
+    rating: 0,
+    background:
+      "The Red Ninja's apprentice, and very nearly finished training.\n\n" +
+      "He will take the mantle one day.",
+    provenance: "",
+    tags: ["ninja", "apprentice", "successor", "nearly-trained"],
+    images: ["images/the-red-apprentice-01.jpg"],
+    acquired: "",
+    notes: "The Red Ninja's third known student, and the only one who inherits rather than leaves."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

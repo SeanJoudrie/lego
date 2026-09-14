@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-107 characters from a custom LEGO minifigure world, in the order they were
+112 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -47,7 +47,11 @@ There is at least one known route in. A trickster god pilots an interdimensional
 
 The method is a dock. Someone being abused in their own civilization goes and waits on one, and he arrives and carries them across. Then he leaves them to make their own way here.
 
-Whether this is how the Discarded and the Damaged arrived is not yet settled — but it is the only crossing anyone has described.
+Whether this is how the Discarded and the Damaged arrived is not yet settled.
+
+There is a second boat. Another man pilots one, and the two of them have never met — because he does not cross. He lives in the space between worlds and stays there, which is why he dresses so strangely on the rare occasions he comes to the mainland.
+
+So the between is not merely a distance. It is somewhere, and somebody lives in it.
 
 ### People are made of pieces
 
@@ -614,7 +618,7 @@ Teacher to both of them. He took the blue-haired ninja after the Samurai had fin
 
 For a time he was tempted by evil. He decided not to do evil.
 
-*Connections:* Taught The Blue-Haired Ninja · Taught The Street Ninja
+*Connections:* Taught The Blue-Haired Ninja · Taught The Street Ninja · Training The Red Apprentice
 
 *Tags:* ninja, teacher, tempted, chose-good
 
@@ -706,6 +710,8 @@ He used to be a pilot himself, testing the things other people had built, and he
 
 When somebody up there says they have a problem, he's the one on the other end of it.
 
+*Connections:* Commands The Test Pilot
+
 *Tags:* space, launch, director, former-pilot, royal-space-academy
 
 ### 41. The Ferryman — Top hat
@@ -718,7 +724,7 @@ What he actually does is bring people here. He pilots an interdimensional boat, 
 
 If someone is being abused in their own civilization, they can go and wait on a dock. He will arrive, pick them up, and carry them to safety here. Then he leaves them to it. Some people just want a boat ride. Some people just want to leave their city forever. He'll take either.
 
-*Connections:* Took on The Trickster's Apprentice
+*Connections:* Took on The Trickster's Apprentice · Has never met The In-Betweener
 
 *Tags:* trickster, god, boat, rescue, magic, interdimensional, playful
 
@@ -1497,6 +1503,58 @@ The Space Marshal's love interest.
 *Connections:* Love interest of The Space Marshal
 
 *Tags:* love-interest, space-police
+
+### 108. The In-Betweener
+
+**Alignment:** good · **Role:** Traveller · **Figure:** custom
+
+He travels between dimensions and has seen most of what there is — fifth-dimensional tesseract places, topsy-turvy incoherent ones — and he has sat and spoken with the gods and demigods of several different worlds.
+
+He has a dimensional boat, much like the trickster's. The two of them have never met. The difference is that the trickster crosses between worlds, and this one stays inside the space in between them and lives there.
+
+Which is why, when he comes to visit the mainland, the way he dresses is very funny. He has some small magic. Nothing enormous.
+
+*Connections:* Has never met The Ferryman
+
+*Tags:* dimensions, boat, in-between, magic, traveller, odd-dresser
+
+### 109. The Defense Bot
+
+**Alignment:** good · **Role:** Defense Bot · **Figure:** custom
+
+Built by an old man of the former Verdauf guards. One hand is a minigun. He is also a very good mechanic.
+
+*Tags:* robot, verdauf, minigun, mechanic, built
+
+### 110. The Space Boarder
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+A famous space boarder and a local celebrity — the defining competitor in his sport, medalled and well known for it, and enough of a showman that people who don't follow the sport know him anyway.
+
+*Tags:* athlete, space-boarding, celebrity, medalled, showman
+
+### 111. The Test Pilot
+
+**Alignment:** good · **Role:** Test Pilot · **Figure:** custom
+
+He tests aircraft. That is the job, and he does it under the man in the red jumpsuit who runs every launch.
+
+*Connections:* Serves under The Flight Director
+
+*Tags:* test-pilot, aircraft, royal-space-academy
+
+### 112. The Red Apprentice
+
+**Alignment:** good · **Role:** Ninja · **Figure:** custom
+
+The Red Ninja's apprentice, and very nearly finished training.
+
+He will take the mantle one day.
+
+*Connections:* Apprentice to The Red Ninja
+
+*Tags:* ninja, apprentice, successor, nearly-trained
 
 ---
 
