@@ -81,6 +81,13 @@ Connections render as small photos with the relation written under them, so you
 can see who someone's family and crew actually look like without leaving their
 page. Click any of them to jump there.
 
+Keep `relations` for close ties only — family, mentors, rivals, the person who
+changed someone's life. Chain of command is not a relationship: nearly everyone
+in this world answers to the Prince eventually, and listing that on his entry
+buries his wife and children under a staff directory. Links are one-way, and
+that asymmetry is useful: a soldier can say he is loyal to the Prince on his own
+page without the Prince having to say it back.
+
 Underneath that, an **Also <role>** row shows every other figure with the same
 `role` — open anyone in the Adventure Crew and the rest of the crew is sitting
 below them. It costs nothing to maintain: it comes straight off the role field,

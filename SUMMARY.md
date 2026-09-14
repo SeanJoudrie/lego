@@ -257,7 +257,7 @@ He started out as a senator in the earliest days of the Senate, in a purple T-sh
 
 He is a much better king now, and genuinely useful. He still sometimes wonders what makes him so special. The real answer is just that he has a good heart. He is not the super mega ultra genius politician. He genuinely just has a good heart.
 
-*Connections:* Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief · Has yet to call on Kenjen · Served by Jimzon · Followed by King Arthur
+*Connections:* Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief
 
 *Tags:* royal-family, king, senator, married, good-heart
 

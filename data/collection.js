@@ -222,9 +222,6 @@ window.COLLECTION = [
       { to: "the-royal-daughter", label: "Father of" },
       { to: "the-outcast-prince", label: "Brother of" },
       { to: "the-palace-chief", label: "Pushed into the Senate by" },
-      { to: "kenjen", label: "Has yet to call on" },
-      { to: "jimzon", label: "Served by" },
-      { to: "king-arthur", label: "Followed by" },
     ],
     rating: 0,
     background:
@@ -248,7 +245,7 @@ window.COLLECTION = [
       { src: "images/the-prince-senator-01.jpg", caption: "Senate era — before the title" }
     ],
     acquired: "",
-    notes: "Two separate figures for one man, kept as one entry with two photos."
+    notes: "Two separate figures for one man, kept as one entry with two photos. Connections here are deliberately only his close ties - almost everyone in the collection reports to him eventually, and listing that would bury the people who actually matter to him. Those who are loyal to him still say so on their own pages."
   },
 
   {
