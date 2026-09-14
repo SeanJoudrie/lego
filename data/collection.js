@@ -723,6 +723,8 @@ window.COLLECTION = [
     relations: [
       { to: "crispus", label: "Commands" },
       { to: "the-gunner", label: "Best friend of" },
+      { to: "the-disc-thrower", label: "Commands" },
+      { to: "the-reckless", label: "Commands" },
     ],
     rating: 0,
     background:
@@ -924,6 +926,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-voiceless", label: "Rescued" },
+      { to: "the-survivor", label: "Held by the same world as" },
     ],
     rating: 0,
     background:
@@ -1427,7 +1430,9 @@ window.COLLECTION = [
     rank: "",
     role: "Chef",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-space-cadets", label: "Trained one of" },
+    ],
     rating: 0,
     background:
       "The best chef in the world. He was already the best chef in the world " +
@@ -1741,7 +1746,147 @@ window.COLLECTION = [
     notes: "The black arm on the figure is the infected one - the lore and the plastic agree again."
   },
 
+  {
+    id: "the-disc-thrower",
+    name: "The Disc Thrower",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Serves under" },
+    ],
+    rating: 0,
+    background:
+      "Space militia. On his back he carries a disc, rather like a certain " +
+      "shield — and he has several of them. Each takes a different attachment: " +
+      "explosive, gas, a shield, whatever the job needs.\n\n" +
+      "He and his brother were both trained on another planet and both fight " +
+      "for freedom and safety. Of the two of them, he's the jolly one. He has " +
+      "fun with it.",
+    provenance: "",
+    tags: ["space-militia", "discs", "modular-weapons", "jolly", "off-world-trained"],
+    images: ["images/the-disc-thrower-01.jpg"],
+    acquired: "",
+    notes: "His brother is in the same militia but hasn't been photographed yet - no link drawn, and it isn't clear whether it's Crispus."
+  },
 
+  {
+    id: "the-space-cadets",
+    name: "The Space Cadets",
+    variant: "Two of a class",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Cadet",
+    location: "",
+    relations: [
+      { to: "the-chef", label: "One of them cooked for" },
+    ],
+    rating: 0,
+    background:
+      "Officer candidates — the ROTC of this world, the route into the military. " +
+      "There are always a few of them about; these two are just a sample of the " +
+      "class.\n\n" +
+      "The one with dark hair is the older of the pair at about twenty-eight. He " +
+      "used to work in a restaurant, for the really good chef, and left because " +
+      "he wanted to do something bigger with his life.\n\n" +
+      "The one with brown hair is very nice and very studious, and sometimes a " +
+      "bit too passive.",
+    provenance: "",
+    tags: ["space-cadet", "officer-candidate", "trainee", "pair"],
+    images: ["images/the-space-cadets-01.jpg"],
+    acquired: "",
+    notes: "Brown hair on the left, dark hair and moustache on the right."
+  },
+
+  {
+    id: "the-reckless",
+    name: "The Reckless",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Serves under" },
+    ],
+    rating: 0,
+    background:
+      "Small-time teenage crime on his home planet, until he turned it around " +
+      "and joined the space militia. He's loyal now.\n\n" +
+      "People sometimes take him for an asshole because he isn't well spoken. " +
+      "What he actually is, is brave — brave enough that some of them call it " +
+      "reckless. He will throw himself into a fight, and he will put himself in " +
+      "front of a teammate without pausing to think about it.\n\n" +
+      "He's also a pilot, and he goes very fast.",
+    provenance: "",
+    tags: ["space-militia", "pilot", "brave", "reckless", "reformed", "loyal"],
+    images: ["images/the-reckless-01.jpg"],
+    acquired: "",
+    notes: "Second figure with a turned-his-life-around arc, after the Reformed."
+  },
+
+  {
+    id: "the-survivor",
+    name: "The Survivor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    location: "",
+    relations: [
+      { to: "the-activist", label: "Held by the same world as" },
+    ],
+    rating: 0,
+    background:
+      "He was an ordinary soldier until he was captured by the same society the " +
+      "Damaged come from. They electrocuted him, drugged him and beat him.\n\n" +
+      "He came back. He is still a soldier, and he has become an advocate for " +
+      "morale — for what it actually takes to be the good guy, and for always " +
+      "doing the right thing anyway.\n\n" +
+      "Still brave. Still cool.",
+    provenance: "",
+    tags: ["soldier", "tortured", "survivor", "morale", "advocate"],
+    images: ["images/the-survivor-01.jpg"],
+    acquired: "",
+    notes: "First figure taken by that world who isn't one of the Damaged - it reaches outside its own borders."
+  },
+
+  {
+    id: "the-displaced",
+    name: "The Displaced",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A soldier out of a war in the 1800s. He was on the field of a battle he " +
+      "was losing, with his death immediately ahead of him, and he prayed to be " +
+      "taken out of it.\n\n" +
+      "He was. He arrived in the modern day and joined a ship.\n\n" +
+      "He fights with revolvers, one in each hand. Very strict, and a hard-ass " +
+      "about it. He does not understand the ships he flies on at all. He " +
+      "understands combat completely.",
+    provenance: "",
+    tags: ["soldier", "1800s", "time-displaced", "revolvers", "akimbo", "strict", "prayer"],
+    images: ["images/the-displaced-01.jpg"],
+    acquired: "",
+    notes: "A prayer moved him through time. Nobody has said who answered it."
+  },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
   {

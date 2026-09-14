@@ -60,8 +60,21 @@ window.LORE = [
       "As they say it themselves: damaged, but not broken. Stronger than ever.\n\n" +
       "Some of the Damaged are mean, and don't trust other figures. Given where " +
       "they came from, that's fair.\n\n" +
+      "That world does not only hurt its own. It has taken prisoners from this " +
+      "one — electrocuted, drugged, beaten — and sent at least one of them back.\n\n" +
       "This society tries to repair them when they arrive — new legs, new " +
       "parts. It doesn't always take cleanly, and the joins show."
+  },
+
+  {
+    title: "Answered prayers",
+    text:
+      "A soldier on an 1800s battlefield, about to die in a battle he was " +
+      "losing, prayed to be taken out of it — and arrived here, in the modern " +
+      "day, alive.\n\n" +
+      "Nobody has said who answered. It is worth noting that the First Man is " +
+      "on record as having interfered to save the day a few times through " +
+      "history, but nothing connects the two yet."
   },
 
   {

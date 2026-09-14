@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-57 characters from a custom LEGO minifigure world, in the order they were
+62 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -41,7 +41,15 @@ As they say it themselves: damaged, but not broken. Stronger than ever.
 
 Some of the Damaged are mean, and don't trust other figures. Given where they came from, that's fair.
 
+That world does not only hurt its own. It has taken prisoners from this one — electrocuted, drugged, beaten — and sent at least one of them back.
+
 This society tries to repair them when they arrive — new legs, new parts. It doesn't always take cleanly, and the joins show.
+
+### Answered prayers
+
+A soldier on an 1800s battlefield, about to die in a battle he was losing, prayed to be taken out of it — and arrived here, in the modern day, alive.
+
+Nobody has said who answered. It is worth noting that the First Man is on record as having interfered to save the day a few times through history, but nothing connects the two yet.
 
 ### The willing nerf
 
@@ -404,7 +412,7 @@ The man in charge of the space police. He has a team of his own, who you'll meet
 
 Bold and daring, with a lot of feelings running close to the surface — but an optimist underneath all of it. And he does not go to the dark side. He's chill.
 
-*Connections:* Commands Crispus · Best friend of The Gunner
+*Connections:* Commands Crispus · Best friend of The Gunner · Commands The Disc Thrower · Commands The Reckless
 
 *Tags:* space-police, bold, daring, optimist, leads-a-team
 
@@ -502,7 +510,7 @@ He's an outspoken rights activist for damaged figures everywhere, in the hope th
 
 The damage on him is real damage, done by somebody else. He is not a figure made to look like one of the Damaged — he is one.
 
-*Connections:* Rescued The Voiceless
+*Connections:* Rescued The Voiceless · Held by the same world as The Survivor
 
 *Tags:* damaged, activist, rescuer, refugee, loyal, salvaged
 
@@ -714,6 +722,8 @@ The best chef in the world. He was already the best chef in the world before the
 
 The knife is golden, and it was given to him. In the same way there are magic swords in this world, this is a magic knife — he can super-chop, cut anything, and work at supersonic speed. But none of that is why he's the best. It only lets him work faster.
 
+*Connections:* Trained one of The Space Cadets
+
 *Tags:* chef, golden-knife, magic-weapon, supersonic, the-best
 
 ### 46. Dr. Oz and his Assistant
@@ -845,6 +855,72 @@ He still fights. The arm has superhuman strength in it now.
 *Connections:* Best friend of The Space Marshal
 
 *Tags:* space-police, gunner, the-goo, infected, super-strength, veteran
+
+### 58. The Disc Thrower
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+Space militia. On his back he carries a disc, rather like a certain shield — and he has several of them. Each takes a different attachment: explosive, gas, a shield, whatever the job needs.
+
+He and his brother were both trained on another planet and both fight for freedom and safety. Of the two of them, he's the jolly one. He has fun with it.
+
+*Connections:* Serves under The Space Marshal
+
+*Tags:* space-militia, discs, modular-weapons, jolly, off-world-trained
+
+### 59. The Space Cadets — Two of a class
+
+**Alignment:** good · **Role:** Space Cadet · **Figure:** custom
+
+Officer candidates — the ROTC of this world, the route into the military. There are always a few of them about; these two are just a sample of the class.
+
+The one with dark hair is the older of the pair at about twenty-eight. He used to work in a restaurant, for the really good chef, and left because he wanted to do something bigger with his life.
+
+The one with brown hair is very nice and very studious, and sometimes a bit too passive.
+
+*Connections:* One of them cooked for The Chef
+
+*Tags:* space-cadet, officer-candidate, trainee, pair
+
+### 60. The Reckless
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+Small-time teenage crime on his home planet, until he turned it around and joined the space militia. He's loyal now.
+
+People sometimes take him for an asshole because he isn't well spoken. What he actually is, is brave — brave enough that some of them call it reckless. He will throw himself into a fight, and he will put himself in front of a teammate without pausing to think about it.
+
+He's also a pilot, and he goes very fast.
+
+*Connections:* Serves under The Space Marshal
+
+*Tags:* space-militia, pilot, brave, reckless, reformed, loyal
+
+### 61. The Survivor
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+He was an ordinary soldier until he was captured by the same society the Damaged come from. They electrocuted him, drugged him and beat him.
+
+He came back. He is still a soldier, and he has become an advocate for morale — for what it actually takes to be the good guy, and for always doing the right thing anyway.
+
+Still brave. Still cool.
+
+*Connections:* Held by the same world as The Activist
+
+*Tags:* soldier, tortured, survivor, morale, advocate
+
+### 62. The Displaced
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A soldier out of a war in the 1800s. He was on the field of a battle he was losing, with his death immediately ahead of him, and he prayed to be taken out of it.
+
+He was. He arrived in the modern day and joined a ship.
+
+He fights with revolvers, one in each hand. Very strict, and a hard-ass about it. He does not understand the ships he flies on at all. He understands combat completely.
+
+*Tags:* soldier, 1800s, time-displaced, revolvers, akimbo, strict, prayer
 
 ---
 
