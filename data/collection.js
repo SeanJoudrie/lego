@@ -4291,6 +4291,119 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-animal-control-officer",
+    name: "The Animal Control Officer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Animal Control",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background:
+      "Animal control. He is a bit grumpy about it, and the reason is that a " +
+      "great deal of the job turns out to be wild wolves.",
+    provenance: "",
+    tags: ["police", "animal-control", "wolves", "grumpy"],
+    images: ["images/the-animal-control-officer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. First mention of wild animals being a standing problem in the city rather than a one-off."
+  },
+
+
+  {
+    id: "the-sergeant",
+    name: "The Sergeant",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Sergeant",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "One of the police sergeants.",
+    provenance: "",
+    tags: ["police", "sergeant"],
+    images: ["images/the-sergeant-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. You said one of the sergeants, so there are others not yet photographed."
+  },
+
+
+  {
+    id: "the-highway-patrolman",
+    name: "The Highway Patrolman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Highway Patrol",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "Police. He works the highways.",
+    provenance: "",
+    tags: ["police", "highway-patrol", "roads"],
+    images: ["images/the-highway-patrolman-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+
+  {
+    id: "the-officer-in-sunglasses",
+    name: "The Officer in Sunglasses",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Police",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "Police.",
+    provenance: "",
+    tags: ["police", "sunglasses"],
+    images: ["images/the-officer-in-sunglasses-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive - no story given for him yet beyond the uniform. Send one whenever and it goes straight in."
+  },
+
+
+  {
+    id: "the-khaki-officer",
+    name: "The Khaki Officer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Police",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "Police.",
+    provenance: "",
+    tags: ["police", "khaki", "sidearm"],
+    images: ["images/the-khaki-officer-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, in the pattern of the Green Officer - no story given for him yet beyond the uniform."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

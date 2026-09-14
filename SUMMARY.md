@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-150 characters from a custom LEGO minifigure world, in the order they were
+155 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -1963,6 +1963,46 @@ Two members of the Lego civilization's SWAT team.
 This is them in ordinary uniform rather than in all their gear.
 
 *Tags:* swat, police, tactical, out-of-gear, pair
+
+### 151. The Animal Control Officer
+
+**Alignment:** good · **Role:** Animal Control · **Based:** Lego City · **Figure:** custom
+
+Animal control. He is a bit grumpy about it, and the reason is that a great deal of the job turns out to be wild wolves.
+
+*Tags:* police, animal-control, wolves, grumpy
+
+### 152. The Sergeant
+
+**Alignment:** good · **Role:** Sergeant · **Based:** Lego City · **Figure:** custom
+
+One of the police sergeants.
+
+*Tags:* police, sergeant
+
+### 153. The Highway Patrolman
+
+**Alignment:** good · **Role:** Highway Patrol · **Based:** Lego City · **Figure:** custom
+
+Police. He works the highways.
+
+*Tags:* police, highway-patrol, roads
+
+### 154. The Officer in Sunglasses
+
+**Alignment:** good · **Role:** Police · **Based:** Lego City · **Figure:** custom
+
+Police.
+
+*Tags:* police, sunglasses
+
+### 155. The Khaki Officer
+
+**Alignment:** good · **Role:** Police · **Based:** Lego City · **Figure:** custom
+
+Police.
+
+*Tags:* police, khaki, sidearm
 
 ---
 
