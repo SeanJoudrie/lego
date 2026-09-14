@@ -4634,6 +4634,119 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-ferrari-driver",
+    name: "The Ferrari Driver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Racing Driver",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Ferrari driver.",
+    provenance:
+      "The suit is a genuine licensed Ferrari torso, sponsors and prancing " +
+      "horse and all - so Ferrari exists in this world as itself.",
+    tags: ["racing", "driver", "ferrari", "motorsport"],
+    images: ["images/the-ferrari-driver-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Kept as custom rather than branded because you called him a Ferrari driver, not a specific real driver - unlike Tony Stark and Bruce Wayne, who are literally themselves."
+  },
+
+
+  {
+    id: "the-helmeted-space-officer",
+    name: "The Helmeted Space Officer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Police",
+    group: "The Space Police",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Space police.",
+    provenance: "",
+    tags: ["space-police", "helmet", "visor"],
+    images: ["images/the-helmeted-space-officer-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive - three space police arrived together in the same grey armor and the only thing telling them apart is what is on their heads and faces. Send names or stories and they go straight in."
+  },
+
+
+  {
+    id: "the-smiling-space-officer",
+    name: "The Smiling Space Officer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Police",
+    group: "The Space Police",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Space police.",
+    provenance: "",
+    tags: ["space-police", "woman"],
+    images: ["images/the-smiling-space-officer-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. One of two women who joined the Space Police in the same batch - before them the force had five members and one woman in it, and she was listed by who she loves."
+  },
+
+
+  {
+    id: "the-scowling-space-officer",
+    name: "The Scowling Space Officer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Police",
+    group: "The Space Police",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Space police.",
+    provenance: "",
+    tags: ["space-police", "woman", "stern"],
+    images: ["images/the-scowling-space-officer-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, taken from the only thing that distinguishes her from the officer beside her in identical armor."
+  },
+
+
+  {
+    id: "the-stunt-driver",
+    name: "The Stunt Driver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Stunt Driver",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A daredevil driver, and a stunt performer.",
+    provenance: "",
+    tags: ["stunt", "driver", "daredevil", "racing", "performer"],
+    images: ["images/the-stunt-driver-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. No link written to the Stunt Robot, who exists to take the stunts that would be too dangerous for a person - they are obviously in the same trade and probably the same job, but you haven't said they know each other, so say the word and I'll connect them. Separate from the Daredevils, who are test pilots at the Space Academy rather than performers."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

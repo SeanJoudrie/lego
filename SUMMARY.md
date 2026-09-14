@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-165 characters from a custom LEGO minifigure world, in the order they were
+170 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2091,6 +2091,48 @@ A viking, sent here in a time dilation like the others were.
 She is genuinely nice, and very chill. She likes running water.
 
 *Tags:* viking, time-dilation, displaced, calm, running-water, woman
+
+### 166. The Ferrari Driver
+
+**Alignment:** good · **Role:** Racing Driver · **Figure:** custom
+
+A Ferrari driver.
+
+*How it was got:* The suit is a genuine licensed Ferrari torso, sponsors and prancing horse and all - so Ferrari exists in this world as itself.
+
+*Tags:* racing, driver, ferrari, motorsport
+
+### 167. The Helmeted Space Officer
+
+**Alignment:** good · **Role:** Space Police · **Figure:** custom
+
+Space police.
+
+*Tags:* space-police, helmet, visor
+
+### 168. The Smiling Space Officer
+
+**Alignment:** good · **Role:** Space Police · **Figure:** custom
+
+Space police.
+
+*Tags:* space-police, woman
+
+### 169. The Scowling Space Officer
+
+**Alignment:** good · **Role:** Space Police · **Figure:** custom
+
+Space police.
+
+*Tags:* space-police, woman, stern
+
+### 170. The Stunt Driver
+
+**Alignment:** good · **Role:** Stunt Driver · **Figure:** custom
+
+A daredevil driver, and a stunt performer.
+
+*Tags:* stunt, driver, daredevil, racing, performer
 
 ---
 
