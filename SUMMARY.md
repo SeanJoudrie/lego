@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-62 characters from a custom LEGO minifigure world, in the order they were
+67 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -68,6 +68,12 @@ The exception is the First Man's Padawans, the ones who became the Demigods. He 
 A sentient nanobot technology, and it spreads. It gets into a limb, takes the whole thing, and turns it grey.
 
 There is a cure now — it stops the spread but does not undo it. What's left goes dark grey and hardens into something like rock, and is no longer really yours. It is also stronger than what it replaced.
+
+### The militia has never lost anyone
+
+Not one death, across the whole history of the space militia. That is down to one man's intelligence work and the attacks planned off it.
+
+Their only casualty is an arm, and they saved the man it belonged to. The arm he has now is stronger than the one he lost.
 
 ### Bounties
 
@@ -318,6 +324,8 @@ Legs — 501st clone trooper
 The blue wrap around him — Bionicle
 Accessories — Halo
 
+*Connections:* Lost him to the space militia The Clone Pilot
+
 *Tags:* clone, energy-sword, decorated, veteran, commander, kitbash
 
 ### 15. The Mechanic
@@ -412,7 +420,7 @@ The man in charge of the space police. He has a team of his own, who you'll meet
 
 Bold and daring, with a lot of feelings running close to the surface — but an optimist underneath all of it. And he does not go to the dark side. He's chill.
 
-*Connections:* Commands Crispus · Best friend of The Gunner · Commands The Disc Thrower · Commands The Reckless
+*Connections:* Commands Crispus · Best friend of The Gunner · Commands The Disc Thrower · Commands The Reckless · Commands The Planner · Commands The Clone Pilot · Commands The Minigunner
 
 *Tags:* space-police, bold, daring, optimist, leads-a-team
 
@@ -852,7 +860,7 @@ Then the Goo got into his arm. It took the whole limb and turned it grey, and by
 
 He still fights. The arm has superhuman strength in it now.
 
-*Connections:* Best friend of The Space Marshal
+*Connections:* Best friend of The Space Marshal · Kept alive by The Planner
 
 *Tags:* space-police, gunner, the-goo, infected, super-strength, veteran
 
@@ -921,6 +929,56 @@ He was. He arrived in the modern day and joined a ship.
 He fights with revolvers, one in each hand. Very strict, and a hard-ass about it. He does not understand the ships he flies on at all. He understands combat completely.
 
 *Tags:* soldier, 1800s, time-displaced, revolvers, akimbo, strict, prayer
+
+### 63. The Planner
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+The space militia's tech guy. He's on the ship with them and he fights alongside them, but what he actually does is radio, intelligence and planning. He's had a few upgrades over the years, earned by saving the day with his gadgets.
+
+The reason he matters: the attacks he plans off his own intel have meant that nobody on the space militia has ever died. Not one. Their single casualty is the man who lost an arm — and they saved him, and the arm he got back is stronger than the one he lost.
+
+*Connections:* Serves under The Space Marshal · The militia's only casualty is The Gunner
+
+*Tags:* space-militia, tech, intelligence, planner, gadgets, upgraded
+
+### 64. The Calm Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** custom
+
+Young, modest, and very funny. Mostly, though, he is calm — calm at a party, calm in front of something about to kill him, calm all the way through.
+
+*Tags:* pilot, young, calm, modest, funny
+
+### 65. The Clone Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** custom
+
+A clone who took a shot to the arm and used it as the moment to leave. He moved across to the space militia rather than stay in the clone army, for the flexibility.
+
+*Connections:* Serves under The Space Marshal · Left the clone armies of Claws
+
+*Tags:* pilot, clone, space-militia, former-clone-army, wounded
+
+### 66. The Construction Chief
+
+**Alignment:** good · **Role:** Construction Chief · **Based:** Lego City · **Figure:** custom
+
+He runs construction in Lego City and trained every other crew in it.
+
+He also works at supersonic speed, and he trained as a Jedi.
+
+*Tags:* construction, supersonic, jedi-trained, teacher
+
+### 67. The Minigunner
+
+**Alignment:** good · **Role:** Space Police · **Figure:** custom
+
+Space police, carrying a minigun. Tough, rugged, and considerable swag.
+
+*Connections:* Serves under The Space Marshal
+
+*Tags:* space-police, minigun, tough, rugged, swag
 
 ---
 

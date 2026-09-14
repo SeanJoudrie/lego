@@ -470,7 +470,9 @@ window.COLLECTION = [
     rank: "",
     role: "Commander of the Clone Armies",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-clone-pilot", label: "Lost him to the space militia" },
+    ],
     rating: 0,
     background:
       "He's called Claws for his proficiency with the energy sword. There are " +
@@ -725,6 +727,9 @@ window.COLLECTION = [
       { to: "the-gunner", label: "Best friend of" },
       { to: "the-disc-thrower", label: "Commands" },
       { to: "the-reckless", label: "Commands" },
+      { to: "the-planner", label: "Commands" },
+      { to: "the-clone-pilot", label: "Commands" },
+      { to: "the-minigunner", label: "Commands" },
     ],
     rating: 0,
     background:
@@ -1729,6 +1734,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Best friend of" },
+      { to: "the-planner", label: "Kept alive by" },
     ],
     rating: 0,
     background:
@@ -1886,6 +1892,131 @@ window.COLLECTION = [
     images: ["images/the-displaced-01.jpg"],
     acquired: "",
     notes: "A prayer moved him through time. Nobody has said who answered it."
+  },
+
+  {
+    id: "the-planner",
+    name: "The Planner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Serves under" },
+      { to: "the-gunner", label: "The militia's only casualty is" },
+    ],
+    rating: 0,
+    background:
+      "The space militia's tech guy. He's on the ship with them and he fights " +
+      "alongside them, but what he actually does is radio, intelligence and " +
+      "planning. He's had a few upgrades over the years, earned by saving the " +
+      "day with his gadgets.\n\n" +
+      "The reason he matters: the attacks he plans off his own intel have meant " +
+      "that nobody on the space militia has ever died. Not one. Their single " +
+      "casualty is the man who lost an arm — and they saved him, and the arm he " +
+      "got back is stronger than the one he lost.",
+    provenance: "",
+    tags: ["space-militia", "tech", "intelligence", "planner", "gadgets", "upgraded"],
+    images: ["images/the-planner-01.jpg"],
+    acquired: "",
+    notes: "Possibly the Disc Thrower's brother - a brother came up in the description and the Disc Thrower has one in this militia, but it wasn't stated outright, so no link drawn."
+  },
+
+  {
+    id: "the-calm-pilot",
+    name: "The Calm Pilot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Young, modest, and very funny. Mostly, though, he is calm — calm at a " +
+      "party, calm in front of something about to kill him, calm all the way " +
+      "through.",
+    provenance: "",
+    tags: ["pilot", "young", "calm", "modest", "funny"],
+    images: ["images/the-calm-pilot-01.jpg"],
+    acquired: "",
+    notes: "Came in with the space militia batch but wasn't stated to be one of them - left unattached."
+  },
+
+  {
+    id: "the-clone-pilot",
+    name: "The Clone Pilot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Serves under" },
+      { to: "claws", label: "Left the clone armies of" },
+    ],
+    rating: 0,
+    background:
+      "A clone who took a shot to the arm and used it as the moment to leave. " +
+      "He moved across to the space militia rather than stay in the clone army, " +
+      "for the flexibility.",
+    provenance: "",
+    tags: ["pilot", "clone", "space-militia", "former-clone-army", "wounded"],
+    images: ["images/the-clone-pilot-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-construction-chief",
+    name: "The Construction Chief",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Chief",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background:
+      "He runs construction in Lego City and trained every other crew in it.\n\n" +
+      "He also works at supersonic speed, and he trained as a Jedi.",
+    provenance: "",
+    tags: ["construction", "supersonic", "jedi-trained", "teacher"],
+    images: ["images/the-construction-chief-01.jpg"],
+    acquired: "",
+    notes: "Second figure who works at supersonic speed, after the Chef - and the only one outside the Jedi who trained as one."
+  },
+
+  {
+    id: "the-minigunner",
+    name: "The Minigunner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Police",
+    location: "",
+    relations: [
+      { to: "the-space-marshal", label: "Serves under" },
+    ],
+    rating: 0,
+    background:
+      "Space police, carrying a minigun. Tough, rugged, and considerable swag.",
+    provenance: "",
+    tags: ["space-police", "minigun", "tough", "rugged", "swag"],
+    images: ["images/the-minigunner-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, kept distinct from The Gunner."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

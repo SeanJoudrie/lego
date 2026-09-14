@@ -108,6 +108,15 @@ window.LORE = [
   },
 
   {
+    title: "The militia has never lost anyone",
+    text:
+      "Not one death, across the whole history of the space militia. That is " +
+      "down to one man's intelligence work and the attacks planned off it.\n\n" +
+      "Their only casualty is an arm, and they saved the man it belonged to. " +
+      "The arm he has now is stronger than the one he lost."
+  },
+
+  {
     title: "Bounties",
     text:
       "There is a bounty system, and it only points one way — you can put a " +
