@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-87 characters from a custom LEGO minifigure world, in the order they were
+92 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -89,9 +89,13 @@ There is a cure now — it stops the spread but does not undo it. What's left go
 
 ### The militia has never lost anyone
 
-Not one death, across the whole history of the space militia. That is down to one man's intelligence work and the attacks planned off it.
+Not one death across the space militia — since. There was one before. The General's adopted son took a mission he had been told not to take, and aliens killed him on it.
 
-Their only casualty is an arm, and they saved the man it belonged to. The arm he has now is stronger than the one he lost.
+Everything since is built on that. The obsession with safety, the rule that everyone gets the best equipment there is, the fact that the whole force runs on donations and a margin so thin that none of the money reaches anybody's house — it all goes to safety, equipment and training. And one man's intelligence work, and the attacks planned off it.
+
+Their only casualty since is an arm, and a medic saved the man it belonged to. The arm he has now is stronger than the one he lost.
+
+The perfect record is not luck. It is a father's grief, turned into procurement.
 
 ### Bounties
 
@@ -225,7 +229,7 @@ He started out as a senator in the earliest days of the Senate, in a purple T-sh
 
 He is a much better king now, and genuinely useful. He still sometimes wonders what makes him so special. The real answer is just that he has a good heart. He is not the super mega ultra genius politician. He genuinely just has a good heart.
 
-*Connections:* Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief · Has yet to call on Kenjen
+*Connections:* Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief · Has yet to call on Kenjen · Served by Jimzon
 
 *Tags:* royal-family, king, senator, married, good-heart
 
@@ -544,7 +548,7 @@ He's an outspoken rights activist for damaged figures everywhere, in the hope th
 
 The damage on him is real damage, done by somebody else. He is not a figure made to look like one of the Damaged — he is one.
 
-*Connections:* Rescued The Voiceless · Held by the same world as The Survivor
+*Connections:* Rescued The Voiceless · Held by the same world as The Survivor · From the same world as The Spartan
 
 *Tags:* damaged, activist, rescuer, refugee, loyal, salvaged
 
@@ -888,7 +892,7 @@ Then the Goo got into his arm. It took the whole limb and turned it grey, and by
 
 He still fights. The arm has superhuman strength in it now.
 
-*Connections:* Best friend of The Space Marshal · Kept alive by The Planner
+*Connections:* Best friend of The Space Marshal · Kept alive by The Planner · Saved by The Medic
 
 *Tags:* space-police, gunner, the-goo, infected, super-strength, veteran
 
@@ -1247,6 +1251,72 @@ Between the two of them the family name is known across the galaxy, and known fo
 *Connections:* Daughter of The Famous Pilot
 
 *Tags:* soldier, famous, strong, daughter, heroic-family
+
+### 88. The General
+
+**Alignment:** good · **Role:** General · **Figure:** custom
+
+Top of every space militia force there is. He started out as a gas man on an oil refinery on another planet, put together a team to protect it, and spent forty years watching that turn into the militia.
+
+They are loyal to the Prince but operate with far more freedom than a regular force — down to what they're allowed to wear.
+
+His adopted son died on a mission he took against his father's word. Everything about how the militia runs now comes out of that: the obsession with safety, the insistence that everyone has the best equipment there is. They live on donations and a very thin margin, and none of it goes to anybody's house. It goes to safety, equipment and training.
+
+*Connections:* Adopted father of The General's Son
+
+*Tags:* space-militia, general, founder, former-gas-man, safety, grief
+
+### 89. The General's Son
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+The General's adopted son, and a militiaman himself. He wanted to push back at his father a little, so he started taking his own missions — including the ones he'd been told no about.
+
+Aliens killed him on one of them.
+
+The safety culture of the entire militia is built on top of that, and so is its record.
+
+*Connections:* Adopted son of The General
+
+*Tags:* space-militia, deceased, rebellion, adopted-son, the-reason
+
+### 90. Jimzon
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+His family live on an asteroid colony. He joined the military as a cadet very early, he's space militia, and he's loyal to the Prince's army.
+
+More to come on him.
+
+*How it was got:* Built off a character from my book. He has the same name in both.
+
+*Connections:* Serves under The General · Loyal to The Prince
+
+*Tags:* space-militia, cadet, asteroid-colony, book-character
+
+### 91. The Spartan — First attempt
+
+**Alignment:** good · **Figure:** custom
+
+He came out of the same world as the spray-painted ones, and he turned out okay.
+
+He doesn't talk much. He moves slowly, he is extremely hard to kill, and the armour stops more or less anything.
+
+*Connections:* From the same world as The Activist
+
+*Tags:* spartan, damaged-world, armoured, silent, bulletproof
+
+### 92. The Medic
+
+**Alignment:** good · **Role:** Medic · **Figure:** custom
+
+One of the militia's medics, carrying a deep enough set of tools to deal with any injury that comes to him.
+
+He is the one who saved the man whose arm turned to rock.
+
+*Connections:* Serves under The General · Saved the life of The Gunner
+
+*Tags:* space-militia, medic, the-goo, lifesaver
 
 ---
 

@@ -142,10 +142,18 @@ window.LORE = [
   {
     title: "The militia has never lost anyone",
     text:
-      "Not one death, across the whole history of the space militia. That is " +
-      "down to one man's intelligence work and the attacks planned off it.\n\n" +
-      "Their only casualty is an arm, and they saved the man it belonged to. " +
-      "The arm he has now is stronger than the one he lost."
+      "Not one death across the space militia — since. There was one before. " +
+      "The General's adopted son took a mission he had been told not to take, " +
+      "and aliens killed him on it.\n\n" +
+      "Everything since is built on that. The obsession with safety, the rule " +
+      "that everyone gets the best equipment there is, the fact that the whole " +
+      "force runs on donations and a margin so thin that none of the money " +
+      "reaches anybody's house — it all goes to safety, equipment and training. " +
+      "And one man's intelligence work, and the attacks planned off it.\n\n" +
+      "Their only casualty since is an arm, and a medic saved the man it " +
+      "belonged to. The arm he has now is stronger than the one he lost.\n\n" +
+      "The perfect record is not luck. It is a father's grief, turned into " +
+      "procurement."
   },
 
   {

@@ -223,6 +223,7 @@ window.COLLECTION = [
       { to: "the-outcast-prince", label: "Brother of" },
       { to: "the-palace-chief", label: "Pushed into the Senate by" },
       { to: "kenjen", label: "Has yet to call on" },
+      { to: "jimzon", label: "Served by" },
     ],
     rating: 0,
     background:
@@ -936,6 +937,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-voiceless", label: "Rescued" },
       { to: "the-survivor", label: "Held by the same world as" },
+      { to: "the-spartan", label: "From the same world as" },
     ],
     rating: 0,
     background:
@@ -1742,6 +1744,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-space-marshal", label: "Best friend of" },
       { to: "the-planner", label: "Kept alive by" },
+      { to: "the-medic", label: "Saved by" },
     ],
     rating: 0,
     background:
@@ -2560,6 +2563,146 @@ window.COLLECTION = [
     images: ["images/the-pilots-daughter-01.jpg"],
     acquired: "",
     notes: "Their surname is famous throughout the galaxy in-world, and is the first name in this collection said to be known and then not given. Worth having."
+  },
+
+  {
+    id: "the-general",
+    name: "The General",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "General",
+    location: "",
+    relations: [
+      { to: "the-generals-son", label: "Adopted father of" },
+    ],
+    rating: 0,
+    background:
+      "Top of every space militia force there is. He started out as a gas man " +
+      "on an oil refinery on another planet, put together a team to protect it, " +
+      "and spent forty years watching that turn into the militia.\n\n" +
+      "They are loyal to the Prince but operate with far more freedom than a " +
+      "regular force — down to what they're allowed to wear.\n\n" +
+      "His adopted son died on a mission he took against his father's word. " +
+      "Everything about how the militia runs now comes out of that: the " +
+      "obsession with safety, the insistence that everyone has the best " +
+      "equipment there is. They live on donations and a very thin margin, and " +
+      "none of it goes to anybody's house. It goes to safety, equipment and " +
+      "training.",
+    provenance: "",
+    tags: ["space-militia", "general", "founder", "former-gas-man", "safety", "grief"],
+    images: ["images/the-general-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Unclear how he and the Space Marshal sit relative to each other - the Marshal was said to lead the space militia too. No link drawn between them."
+  },
+
+  {
+    id: "the-generals-son",
+    name: "The General's Son",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    location: "",
+    relations: [
+      { to: "the-general", label: "Adopted son of" },
+    ],
+    rating: 0,
+    background:
+      "The General's adopted son, and a militiaman himself. He wanted to push " +
+      "back at his father a little, so he started taking his own missions — " +
+      "including the ones he'd been told no about.\n\n" +
+      "Aliens killed him on one of them.\n\n" +
+      "The safety culture of the entire militia is built on top of that, and so " +
+      "is its record.",
+    provenance: "",
+    tags: ["space-militia", "deceased", "rebellion", "adopted-son", "the-reason"],
+    images: ["images/the-generals-son-01.jpg"],
+    acquired: "",
+    notes: "Third death in the collection, and the one that explains the militia's perfect record since - see the world notes."
+  },
+
+  {
+    id: "jimzon",
+    name: "Jimzon",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    location: "",
+    relations: [
+      { to: "the-general", label: "Serves under" },
+      { to: "the-prince", label: "Loyal to" },
+    ],
+    rating: 0,
+    background:
+      "His family live on an asteroid colony. He joined the military as a cadet " +
+      "very early, he's space militia, and he's loyal to the Prince's army.\n\n" +
+      "More to come on him.",
+    provenance:
+      "Built off a character from my book. He has the same name in both.",
+    tags: ["space-militia", "cadet", "asteroid-colony", "book-character"],
+    images: ["images/jimzon-01.jpg"],
+    acquired: "",
+    notes: "The second figure who exists in the book as well as the collection - and, like Kaz, one of the few with a real name. That is the naming pattern holding."
+  },
+
+  {
+    id: "the-spartan",
+    name: "The Spartan",
+    variant: "First attempt",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    location: "",
+    relations: [
+      { to: "the-activist", label: "From the same world as" },
+    ],
+    rating: 0,
+    background:
+      "He came out of the same world as the spray-painted ones, and he turned " +
+      "out okay.\n\n" +
+      "He doesn't talk much. He moves slowly, he is extremely hard to kill, and " +
+      "the armour stops more or less anything.",
+    provenance: "",
+    tags: ["spartan", "damaged-world", "armoured", "silent", "bulletproof"],
+    images: ["images/the-spartan-01.jpg"],
+    acquired: "",
+    notes: "\"First attempt at the Spartan soldier\" - sounds like there are more. Linked to the Damaged rather than the Discarded, on the strength of \"the people that were spray-painted\"; say if that's the wrong one."
+  },
+
+  {
+    id: "the-medic",
+    name: "The Medic",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Medic",
+    location: "",
+    relations: [
+      { to: "the-general", label: "Serves under" },
+      { to: "the-gunner", label: "Saved the life of" },
+    ],
+    rating: 0,
+    background:
+      "One of the militia's medics, carrying a deep enough set of tools to deal " +
+      "with any injury that comes to him.\n\n" +
+      "He is the one who saved the man whose arm turned to rock.",
+    provenance: "",
+    tags: ["space-militia", "medic", "the-goo", "lifesaver"],
+    images: ["images/the-medic-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
