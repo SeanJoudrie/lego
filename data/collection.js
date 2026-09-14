@@ -1691,7 +1691,9 @@ window.COLLECTION = [
     rank: "",
     role: "Ambassador",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-alien-farmer", label: "Same species as" },
+    ],
     rating: 0,
     background:
       "He came out of an alien biker gang and turned his life around, switching " +
@@ -4079,6 +4081,142 @@ window.COLLECTION = [
     images: ["images/the-fire-chief-01.jpg"],
     acquired: "",
     notes: "Placeholder name. The first fire service in the collection, after a great many armies and police forces."
+  },
+
+
+
+  {
+    id: "the-occultist",
+    name: "The Occultist",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Occult Instructor",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An expert in everything occult. He runs the school, and what he teaches " +
+      "there is dark magic - how it works, and how to contact the spirits of " +
+      "other dimensions and realms.\n\n" +
+      "He teaches it to be used for good. You would think he was evil. He is " +
+      "not. He simply has a fascination with evil things without being any of " +
+      "them, and teaching it in the open is the point: it lets people " +
+      "understand how evil actually works, and how things like it get stopped.\n\n" +
+      "He does live in a tower full of strange potions and skulls. He is just " +
+      "like that.",
+    provenance: "",
+    tags: ["occult", "dark-magic", "teacher", "school", "spirits", "dimensions", "tower", "potions", "skulls", "not-evil"],
+    images: ["images/the-occultist-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The clearest good-faction figure here who reads as a villain on sight - which is the whole point of him, and a useful one in a catalogue sorted by good and bad. Close in subject to the Mystery Shaman, but no meeting between them is recorded, so no link."
+  },
+
+
+  {
+    id: "the-man-with-the-frog",
+    name: "The Man with the Frog",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He uncovered a statue of a frog. The moment he picked it up it attached " +
+      "itself to the top of his head, and it has not come off since.\n\n" +
+      "At first he was deeply embarrassed. He now has every power a frog has, " +
+      "and he is indestructible.\n\n" +
+      "The trouble is that he is an ordinary civilian and not especially brave. " +
+      "So he goes to work at his office, with a giant frog statue on his head.",
+    provenance: "",
+    tags: ["frog", "statue", "indestructible", "powers", "civilian", "office", "embarrassed", "accident"],
+    images: ["images/the-man-with-the-frog-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The only indestructible man in the collection, and he uses it to commute."
+  },
+
+
+  {
+    id: "the-alien-farmer",
+    name: "The Alien Farmer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Farmer",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-reformed", label: "Same species as" },
+    ],
+    rating: 0,
+    background:
+      "Same species as the Reformed, the one who came out of the alien biker " +
+      "gang. This one just decided to retire and become a farmer instead.\n\n" +
+      "He is a nice guy.",
+    provenance: "",
+    tags: ["alien", "farmer", "retired", "nice", "peaceful"],
+    images: ["images/the-alien-farmer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The link to the Reformed is a species link, not a recorded meeting - cut it if you'd rather connections only meant people who have actually met."
+  },
+
+
+  {
+    id: "the-intern",
+    name: "The Intern",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Intern",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A grey alien, and a nice one.\n\n" +
+      "He interns at a mining facility and goes to college, where he is " +
+      "studying mechanical engineering.",
+    provenance: "",
+    tags: ["alien", "grey-alien", "intern", "mining", "student", "engineering", "nice"],
+    images: ["images/the-intern-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Second person here still training for something, after the Law Student."
+  },
+
+
+  {
+    id: "the-fisherman-and-son",
+    name: "The Fisherman and his Son",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Fisherman",
+    group: "",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background:
+      "A fisherman and his son. Between them they are known for feeding a great " +
+      "deal of the city.",
+    provenance: "",
+    tags: ["fisherman", "father-and-son", "food", "city", "pair"],
+    images: ["images/the-fisherman-and-son-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. One box because they share a photo, same as the Twins and the Gas Men - say so if you'd rather they were split."
   },
 
 

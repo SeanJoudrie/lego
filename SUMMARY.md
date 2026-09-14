@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-142 characters from a custom LEGO minifigure world, in the order they were
+147 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -875,6 +875,8 @@ What he does with it is wander around, talk to people, and skateboard.
 He came out of an alien biker gang and turned his life around, switching his allegiance to Lego City during a hard stretch of the conflict. What changed him was working out that warfare lands on everyone.
 
 He wants a peaceful galaxy and is mostly an ambassador now. His whole gang has gone essentially pacifist with him — though if it came to a large enough battle, they would still fight.
+
+*Connections:* Same species as The Alien Farmer
 
 *Tags:* alien, biker-gang, reformed, pacifist, ambassador
 
@@ -1881,6 +1883,60 @@ Chief firefighter of the Lego civilization.
 *Connections:* Volunteer firefighter The Tall Mechanic
 
 *Tags:* firefighter, chief, fire-service, ginger-beard
+
+### 143. The Occultist
+
+**Alignment:** good · **Role:** Occult Instructor · **Figure:** custom
+
+An expert in everything occult. He runs the school, and what he teaches there is dark magic - how it works, and how to contact the spirits of other dimensions and realms.
+
+He teaches it to be used for good. You would think he was evil. He is not. He simply has a fascination with evil things without being any of them, and teaching it in the open is the point: it lets people understand how evil actually works, and how things like it get stopped.
+
+He does live in a tower full of strange potions and skulls. He is just like that.
+
+*Tags:* occult, dark-magic, teacher, school, spirits, dimensions, tower, potions, skulls, not-evil
+
+### 144. The Man with the Frog
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+He uncovered a statue of a frog. The moment he picked it up it attached itself to the top of his head, and it has not come off since.
+
+At first he was deeply embarrassed. He now has every power a frog has, and he is indestructible.
+
+The trouble is that he is an ordinary civilian and not especially brave. So he goes to work at his office, with a giant frog statue on his head.
+
+*Tags:* frog, statue, indestructible, powers, civilian, office, embarrassed, accident
+
+### 145. The Alien Farmer
+
+**Alignment:** good · **Role:** Farmer · **Figure:** custom
+
+Same species as the Reformed, the one who came out of the alien biker gang. This one just decided to retire and become a farmer instead.
+
+He is a nice guy.
+
+*Connections:* Same species as The Reformed
+
+*Tags:* alien, farmer, retired, nice, peaceful
+
+### 146. The Intern
+
+**Alignment:** good · **Role:** Intern · **Figure:** custom
+
+A grey alien, and a nice one.
+
+He interns at a mining facility and goes to college, where he is studying mechanical engineering.
+
+*Tags:* alien, grey-alien, intern, mining, student, engineering, nice
+
+### 147. The Fisherman and his Son — Two of them
+
+**Alignment:** good · **Role:** Fisherman · **Based:** Lego City · **Figure:** custom
+
+A fisherman and his son. Between them they are known for feeding a great deal of the city.
+
+*Tags:* fisherman, father-and-son, food, city, pair
 
 ---
 
