@@ -187,6 +187,9 @@ window.LORE = [
       "Antagonists and figures the stories point at, none of them photographed " +
       "yet: the Shadow King. The Purple Shadow. The evil blue civilization that " +
       "Kenjen helped bring down. Quinn, the main villain.\n\n" +
+      "The famous Nexo Knight — the one with the spectacular sword, who turned " +
+      "out to be a villain, and in whose shadow the modest one has spent his " +
+      "whole career.\n\n" +
       "Also friendly and still missing: the old man clone, and the old man " +
       "clone's robot."
   },

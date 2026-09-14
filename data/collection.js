@@ -2038,9 +2038,11 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Adventure Squad",
+    role: "Adventure Crew",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-aviators-father", label: "Son of" },
+    ],
     rating: 0,
     background:
       "Adventure squad. He flies anything that isn't a spacecraft — planes, " +
@@ -2050,7 +2052,7 @@ window.COLLECTION = [
     tags: ["adventure-squad", "pilot", "mechanic", "maps", "treasure"],
     images: ["images/the-aviator-01.jpg"],
     acquired: "",
-    notes: "First of the adventure squad. Placeholder name."
+    notes: "Sixth member of the Adventure Crew. Placeholder name - and the crew needs a better one than \"the khaki adventurers\" too."
   },
 
   {
@@ -2744,14 +2746,18 @@ window.COLLECTION = [
     relations: [],
     rating: 0,
     background:
-      "He spent his career in the shadow of a more prominent knight, and never " +
-      "minded. He has a jetpack and can come at you from above.\n\n" +
+      "There is a more famous Nexo Knight than him — one with a spectacular " +
+      "sword, who turned out to be a villain. This one has spent his whole " +
+      "career in that man's shadow, and never minded it.\n\n" +
+      "Where the other one flies the ship, he is the gunner. Where the other " +
+      "one flies into battle, he is a soldier on the ground. He has a jetpack " +
+      "and can come at you from above.\n\n" +
       "Very modest. He would rather not be in the spotlight at all.",
     provenance: "",
     tags: ["knight", "nexo", "jetpack", "modest", "overshadowed"],
     images: ["images/the-nexo-knight-01.jpg"],
     acquired: "",
-    notes: "Placeholder name. Part of your description came through garbled - something about the knight he stood behind, and serving as the gunner. Worth re-telling."
+    notes: "Placeholder name. The knight he stands behind is a villain and is still to come."
   },
 
   {
@@ -2829,6 +2835,133 @@ window.COLLECTION = [
     images: ["images/curtis-01.jpg"],
     acquired: "",
     notes: ""
+  },
+
+  {
+    id: "the-ace",
+    name: "The Ace",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventure Crew",
+    location: "",
+    relations: [
+      { to: "the-fixer", label: "Father of" },
+    ],
+    rating: 0,
+    background:
+      "The Adventure Crew's pilot, out of a time when aviation had only just " +
+      "started — he fought in what amounts to the First World War.\n\n" +
+      "He keeps company with the likes of Indiana Jones, and has flown him " +
+      "somewhere before now.",
+    provenance: "",
+    tags: ["adventure-crew", "pilot", "wwi-era", "time-displaced", "indiana-jones"],
+    images: ["images/the-ace-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-fixer",
+    name: "The Fixer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventure Crew",
+    location: "",
+    relations: [
+      { to: "the-ace", label: "Son of" },
+    ],
+    rating: 0,
+    background:
+      "The Ace's son, and the man with an answer to everything. Extremely " +
+      "resourceful — he can build what's needed out of what's there.\n\n" +
+      "Wounded, he's the medic. Lost, he's the navigator. Sick, he'll work " +
+      "something out.",
+    provenance: "",
+    tags: ["adventure-crew", "resourceful", "medic", "navigator", "improviser"],
+    images: ["images/the-fixer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-host",
+    name: "The Host",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventure Crew",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A famous television presenter — the survival-and-extreme-adventure sort " +
+      "— who came out to film an episode or two with the crew.\n\n" +
+      "He fell in love with it and never left. He's full-time with them now, " +
+      "and he still posts about what they're up to. Loud, charismatic, and " +
+      "exactly as advertised.",
+    provenance: "",
+    tags: ["adventure-crew", "tv-host", "charismatic", "loud", "career-change"],
+    images: ["images/the-host-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-old-hand",
+    name: "The Old Hand",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventure Crew",
+    location: "",
+    relations: [
+      { to: "the-ace", label: "Best friend of" },
+    ],
+    rating: 0,
+    background:
+      "The old man of the Adventure Crew, best friend of its pilot, and one of " +
+      "the people who leads it.",
+    provenance: "",
+    tags: ["adventure-crew", "elder", "leader", "best-friend"],
+    images: ["images/the-old-hand-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-aviators-father",
+    name: "The Aviator's Father",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventure Crew",
+    location: "",
+    relations: [
+      { to: "the-aviator", label: "Father of" },
+    ],
+    rating: 0,
+    background:
+      "He and his son were separated at birth, and not by anyone's choice.\n\n" +
+      "They found each other again by both joining the same flying club — " +
+      "neither of them knowing, both of them having turned out to love flying " +
+      "without being taught to.",
+    provenance: "",
+    tags: ["adventure-crew", "pilot", "separated-at-birth", "reunion", "flying"],
+    images: ["images/the-aviators-father-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-97 characters from a custom LEGO minifigure world, in the order they were
+102 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -116,6 +116,8 @@ The Golden Sniper and his ninja robot are hired as a pair, and that is the work 
 ### Named but not yet seen
 
 Antagonists and figures the stories point at, none of them photographed yet: the Shadow King. The Purple Shadow. The evil blue civilization that Kenjen helped bring down. Quinn, the main villain.
+
+The famous Nexo Knight — the one with the spectacular sword, who turned out to be a villain, and in whose shadow the modest one has spent his whole career.
 
 Also friendly and still missing: the old man clone, and the old man clone's robot.
 
@@ -1024,11 +1026,13 @@ Space police, carrying a minigun. Tough, rugged, and considerable swag.
 
 ### 68. The Aviator
 
-**Alignment:** good · **Role:** Adventure Squad · **Figure:** custom
+**Alignment:** good · **Role:** Adventure Crew · **Figure:** custom
 
 Adventure squad. He flies anything that isn't a spacecraft — planes, ships, whatever there is — and he works on them too.
 
 He is very, very into maps and finding treasure.
+
+*Connections:* Son of The Aviator's Father
 
 *Tags:* adventure-squad, pilot, mechanic, maps, treasure
 
@@ -1342,7 +1346,9 @@ The Mega Bloks were the aggressor. He was one of the few on that side who argued
 
 **Alignment:** good · **Role:** Knight · **Figure:** custom
 
-He spent his career in the shadow of a more prominent knight, and never minded. He has a jetpack and can come at you from above.
+There is a more famous Nexo Knight than him — one with a spectacular sword, who turned out to be a villain. This one has spent his whole career in that man's shadow, and never minded it.
+
+Where the other one flies the ship, he is the gunner. Where the other one flies into battle, he is a soldier on the ground. He has a jetpack and can come at you from above.
 
 Very modest. He would rather not be in the spotlight at all.
 
@@ -1381,6 +1387,62 @@ A famous knight of the gunless realm. Very brave, and a great enjoyer of joustin
 *Connections:* Knight of King Arthur
 
 *Tags:* knight, famous, brave, jousting, gunless-realm
+
+### 98. The Ace
+
+**Alignment:** good · **Role:** Adventure Crew · **Figure:** custom
+
+The Adventure Crew's pilot, out of a time when aviation had only just started — he fought in what amounts to the First World War.
+
+He keeps company with the likes of Indiana Jones, and has flown him somewhere before now.
+
+*Connections:* Father of The Fixer
+
+*Tags:* adventure-crew, pilot, wwi-era, time-displaced, indiana-jones
+
+### 99. The Fixer
+
+**Alignment:** good · **Role:** Adventure Crew · **Figure:** custom
+
+The Ace's son, and the man with an answer to everything. Extremely resourceful — he can build what's needed out of what's there.
+
+Wounded, he's the medic. Lost, he's the navigator. Sick, he'll work something out.
+
+*Connections:* Son of The Ace
+
+*Tags:* adventure-crew, resourceful, medic, navigator, improviser
+
+### 100. The Host
+
+**Alignment:** good · **Role:** Adventure Crew · **Figure:** custom
+
+A famous television presenter — the survival-and-extreme-adventure sort — who came out to film an episode or two with the crew.
+
+He fell in love with it and never left. He's full-time with them now, and he still posts about what they're up to. Loud, charismatic, and exactly as advertised.
+
+*Tags:* adventure-crew, tv-host, charismatic, loud, career-change
+
+### 101. The Old Hand
+
+**Alignment:** good · **Role:** Adventure Crew · **Figure:** custom
+
+The old man of the Adventure Crew, best friend of its pilot, and one of the people who leads it.
+
+*Connections:* Best friend of The Ace
+
+*Tags:* adventure-crew, elder, leader, best-friend
+
+### 102. The Aviator's Father
+
+**Alignment:** good · **Role:** Adventure Crew · **Figure:** custom
+
+He and his son were separated at birth, and not by anyone's choice.
+
+They found each other again by both joining the same flying club — neither of them knowing, both of them having turned out to love flying without being taught to.
+
+*Connections:* Father of The Aviator
+
+*Tags:* adventure-crew, pilot, separated-at-birth, reunion, flying
 
 ---
 
