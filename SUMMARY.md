@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-82 characters from a custom LEGO minifigure world, in the order they were
+87 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -778,6 +778,8 @@ He runs the domestic police forces — the ground units, the small ones, the cit
 
 He is a former clone trooper who was injured in the line of duty, and he turned to smaller-scale work after it. He is extremely competent at it.
 
+*Connections:* Commands The Young Watchman
+
 *Tags:* police, domestic, strict, former-clone, injured, competent
 
 ### 48. The Cameraman
@@ -1172,7 +1174,7 @@ He and the Golden Sniper are best friends.
 
 Made up of scrap pieces, and an adventurer. He comes from the same land as the Ginger Adventurer, and the two of them are good friends who have been through a great many jungle adventures together.
 
-*Connections:* Adventures with The Ginger Adventurer
+*Connections:* Adventures with The Ginger Adventurer · Adventures with The Young Watchman
 
 *Tags:* adventurer, scrap-pieces, jungle, friends
 
@@ -1182,9 +1184,69 @@ Made up of scrap pieces, and an adventurer. He comes from the same land as the G
 
 From the same land as the Scrap Adventurer, and his good friend. A great many jungle adventures between the two of them.
 
-*Connections:* Adventures with The Scrap Adventurer
+*Connections:* Adventures with The Scrap Adventurer · Adventures with The Young Watchman · Father of The Explorer's Son
 
 *Tags:* adventurer, jungle, friends
+
+### 83. The Outlaw
+
+**Alignment:** good · **Role:** Outlaw · **Figure:** custom
+
+A mercenary outlaw with a crew of space pirates behind him, and a long career spent in the ethically grey. He would rob any of the good guys blind for a treasure. He would never hurt one of them.
+
+The Great Shadow War is what settled him. He came out of it loyal to the city, stopped stealing, and turned the plundering to good use.
+
+A space cowboy — weary and hard-worn, carrying more than he says, dry about it, decent underneath, and trying to square the ledger later than he should have.
+
+*Tags:* outlaw, space-pirate, mercenary, reformed, great-shadow-war, cowboy
+
+### 84. The Young Watchman
+
+**Alignment:** good · **Role:** Watch Command · **Based:** Lego City · **Figure:** custom
+
+A young soldier of the Watch Command, and a friend of the two adventurers — he goes on the jungle trips with them.
+
+He has the look of a solemn young northern swordsman about him, and none of the brooding that usually comes with it. He's warm, and friendly, and still very young.
+
+*Connections:* Serves under The Watch Commander · Adventures with The Scrap Adventurer · Adventures with The Ginger Adventurer
+
+*Tags:* watch-command, young, warm, friendly, adventurer
+
+### 85. The Explorer's Son
+
+**Alignment:** good · **Role:** Adventurer · **Figure:** custom
+
+The Ginger Adventurer's son. He has an illness of the bones, which leaves him weak and frail.
+
+He still loves going out on adventures with his dad.
+
+*Connections:* Son of The Ginger Adventurer
+
+*Tags:* adventurer, son, illness, frail, determined
+
+### 86. The Famous Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** custom
+
+A famous pilot, off a long run of successful missions and the people he brought back from them.
+
+Famous enough that his daughter went and did the same.
+
+*Connections:* Father of The Pilot's Daughter
+
+*Tags:* pilot, famous, veteran, father
+
+### 87. The Pilot's Daughter
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+She followed her father into it and became famous in her own right. Genuinely strong, with a very strong jawline.
+
+Between the two of them the family name is known across the galaxy, and known for being heroic and brave.
+
+*Connections:* Daughter of The Famous Pilot
+
+*Tags:* soldier, famous, strong, daughter, heroic-family
 
 ---
 

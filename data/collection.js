@@ -1491,7 +1491,9 @@ window.COLLECTION = [
     rank: "",
     role: "Domestic Police Commander",
     location: "Lego City",
-    relations: [],
+    relations: [
+      { to: "the-young-watchman", label: "Commands" },
+    ],
     rating: 0,
     background:
       "He runs the domestic police forces — the ground units, the small ones, " +
@@ -2387,6 +2389,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-ginger-adventurer", label: "Adventures with" },
+      { to: "the-young-watchman", label: "Adventures with" },
     ],
     rating: 0,
     background:
@@ -2412,6 +2415,8 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-scrap-adventurer", label: "Adventures with" },
+      { to: "the-young-watchman", label: "Adventures with" },
+      { to: "the-explorers-son", label: "Father of" },
     ],
     rating: 0,
     background:
@@ -2422,6 +2427,139 @@ window.COLLECTION = [
     images: ["images/the-ginger-adventurer-01.jpg"],
     acquired: "",
     notes: "More detail to come - there's concept art of these two."
+  },
+
+  {
+    id: "the-outlaw",
+    name: "The Outlaw",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Outlaw",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A mercenary outlaw with a crew of space pirates behind him, and a long " +
+      "career spent in the ethically grey. He would rob any of the good guys " +
+      "blind for a treasure. He would never hurt one of them.\n\n" +
+      "The Great Shadow War is what settled him. He came out of it loyal to the " +
+      "city, stopped stealing, and turned the plundering to good use.\n\n" +
+      "A space cowboy — weary and hard-worn, carrying more than he says, dry " +
+      "about it, decent underneath, and trying to square the ledger later than " +
+      "he should have.",
+    provenance: "",
+    tags: ["outlaw", "space-pirate", "mercenary", "reformed", "great-shadow-war", "cowboy"],
+    images: ["images/the-outlaw-01.jpg"],
+    acquired: "",
+    notes: "Written as traits rather than naming the Red Dead comparison, same as the Anakin and Avatar ones - say if you'd rather it were named outright."
+  },
+
+  {
+    id: "the-young-watchman",
+    name: "The Young Watchman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Watch Command",
+    location: "Lego City",
+    relations: [
+      { to: "the-watch-commander", label: "Serves under" },
+      { to: "the-scrap-adventurer", label: "Adventures with" },
+      { to: "the-ginger-adventurer", label: "Adventures with" },
+    ],
+    rating: 0,
+    background:
+      "A young soldier of the Watch Command, and a friend of the two " +
+      "adventurers — he goes on the jungle trips with them.\n\n" +
+      "He has the look of a solemn young northern swordsman about him, and none " +
+      "of the brooding that usually comes with it. He's warm, and friendly, and " +
+      "still very young.",
+    provenance: "",
+    tags: ["watch-command", "young", "warm", "friendly", "adventurer"],
+    images: ["images/the-young-watchman-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-explorers-son",
+    name: "The Explorer's Son",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventurer",
+    location: "",
+    relations: [
+      { to: "the-ginger-adventurer", label: "Son of" },
+    ],
+    rating: 0,
+    background:
+      "The Ginger Adventurer's son. He has an illness of the bones, which " +
+      "leaves him weak and frail.\n\n" +
+      "He still loves going out on adventures with his dad.",
+    provenance: "",
+    tags: ["adventurer", "son", "illness", "frail", "determined"],
+    images: ["images/the-explorers-son-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-famous-pilot",
+    name: "The Famous Pilot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot",
+    location: "",
+    relations: [
+      { to: "the-pilots-daughter", label: "Father of" },
+    ],
+    rating: 0,
+    background:
+      "A famous pilot, off a long run of successful missions and the people he " +
+      "brought back from them.\n\n" +
+      "Famous enough that his daughter went and did the same.",
+    provenance: "",
+    tags: ["pilot", "famous", "veteran", "father"],
+    images: ["images/the-famous-pilot-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name - but see the note on his daughter about the family name."
+  },
+
+  {
+    id: "the-pilots-daughter",
+    name: "The Pilot's Daughter",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    location: "",
+    relations: [
+      { to: "the-famous-pilot", label: "Daughter of" },
+    ],
+    rating: 0,
+    background:
+      "She followed her father into it and became famous in her own right. " +
+      "Genuinely strong, with a very strong jawline.\n\n" +
+      "Between the two of them the family name is known across the galaxy, and " +
+      "known for being heroic and brave.",
+    provenance: "",
+    tags: ["soldier", "famous", "strong", "daughter", "heroic-family"],
+    images: ["images/the-pilots-daughter-01.jpg"],
+    acquired: "",
+    notes: "Their surname is famous throughout the galaxy in-world, and is the first name in this collection said to be known and then not given. Worth having."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
