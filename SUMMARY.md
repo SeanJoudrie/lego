@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-191 characters from a custom LEGO minifigure world, in the order they were
+196 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2371,6 +2371,62 @@ He goes to the gym and he goes for jogs.
 He likes to run places.
 
 *Tags:* runner, jogging, gym, athlete
+
+### 192. The Builder and His Clone — Two of them, and neither knows which is which
+
+**Alignment:** good · **Role:** Mechanic · **Figure:** custom
+
+A local mechanic and builder, who got cloned by accident.
+
+Neither of them knows which one is the original. Neither of them cares, because they are best friends.
+
+And by now the question has stopped meaning anything anyway: enough years have passed that they have grown different from each other in the small details.
+
+*How it was got:* The plastic agrees with the story. The two figures are not identical - different shades of blue on the legs, the overall print worn differently on each. They have diverged exactly the way the lore says they did.
+
+*Tags:* mechanic, builder, clone, accident, best-friends, identity, pair
+
+### 193. The Two Guys in Bunny Suits — Two of them
+
+**Alignment:** good · **Role:** Easter Bunny · **Figure:** custom
+
+Two guys in bunny suits. That is the whole of it.
+
+It is their job, for Easter.
+
+*How it was got:* They are wearing the same face as well as the same suit, and they are still two different people.
+
+*Tags:* bunny-suit, easter, costume, job, pair
+
+### 194. SpongeBob
+
+**Alignment:** good · **Figure:** branded
+
+Literally SpongeBob.
+
+*How it was got:* A genuine SpongeBob SquarePants minifigure, square head and all.
+
+*Tags:* spongebob, branded, visitor
+
+### 195. Plankton
+
+**Alignment:** good · **Figure:** branded
+
+Literally Plankton.
+
+*How it was got:* A single printed 1x1 round brick - no torso, no legs, no arms. The smallest figure in the collection by a very long way, and the only one that is one piece.
+
+*Tags:* plankton, spongebob, branded, smallest, one-piece, visitor
+
+### 196. Patrick Star
+
+**Alignment:** good · **Figure:** branded
+
+Literally Patrick Star.
+
+*How it was got:* A genuine SpongeBob SquarePants minifigure - the cone head is a moulded piece, not a hat.
+
+*Tags:* patrick, spongebob, branded, visitor
 
 ---
 

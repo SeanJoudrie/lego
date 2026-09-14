@@ -5310,6 +5310,133 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-builder-and-his-clone",
+    name: "The Builder and His Clone",
+    variant: "Two of them, and neither knows which is which",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Mechanic",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A local mechanic and builder, who got cloned by accident.\n\n" +
+      "Neither of them knows which one is the original. Neither of them cares, " +
+      "because they are best friends.\n\n" +
+      "And by now the question has stopped meaning anything anyway: enough " +
+      "years have passed that they have grown different from each other in the " +
+      "small details.",
+    provenance:
+      "The plastic agrees with the story. The two figures are not identical - " +
+      "different shades of blue on the legs, the overall print worn differently " +
+      "on each. They have diverged exactly the way the lore says they did.",
+    tags: ["mechanic", "builder", "clone", "accident", "best-friends", "identity", "pair"],
+    images: ["images/the-builder-and-his-clone-01.jpg"],
+    acquired: "",
+    notes: "Named Builder rather than Mechanic to keep him clear of the Mechanic, who is an aircraft engineer. One box because they share a photo, and in this case because splitting them would require deciding which is the original, which is the one thing the story refuses to do."
+  },
+
+
+  {
+    id: "the-two-guys-in-bunny-suits",
+    name: "The Two Guys in Bunny Suits",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Easter Bunny",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Two guys in bunny suits. That is the whole of it.\n\n" +
+      "It is their job, for Easter.",
+    provenance:
+      "They are wearing the same face as well as the same suit, and they are " +
+      "still two different people.",
+    tags: ["bunny-suit", "easter", "costume", "job", "pair"],
+    images: ["images/the-two-guys-in-bunny-suits-01.jpg"],
+    acquired: "",
+    notes: "Second pair in the collection who look identical and are not the same person, alongside the Builder and his clone in the same batch - except those two started identical and drifted apart, and these two never were."
+  },
+
+
+  {
+    id: "spongebob",
+    name: "SpongeBob",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "SpongeBob SquarePants",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Literally SpongeBob.",
+    provenance: "A genuine SpongeBob SquarePants minifigure, square head and all.",
+    tags: ["spongebob", "branded", "visitor"],
+    images: ["images/spongebob-01.jpg"],
+    acquired: "",
+    notes: "Fifth branded figure, and the first branded theme with three of its own people in it - the theme filter gathers him with Plankton and Patrick without needing a group."
+  },
+
+
+  {
+    id: "plankton",
+    name: "Plankton",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "SpongeBob SquarePants",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Literally Plankton.",
+    provenance:
+      "A single printed 1x1 round brick - no torso, no legs, no arms. The " +
+      "smallest figure in the collection by a very long way, and the only one " +
+      "that is one piece.",
+    tags: ["plankton", "spongebob", "branded", "smallest", "one-piece", "visitor"],
+    images: ["images/plankton-01.jpg"],
+    acquired: "",
+    notes: "Filed good, because your standing rule is that everyone is good until you say otherwise and you have not said. But he is the first figure here who is a villain in his own source material, so he is the obvious candidate to be the first bad one in the catalogue. Say the word."
+  },
+
+
+  {
+    id: "patrick-star",
+    name: "Patrick Star",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "SpongeBob SquarePants",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Literally Patrick Star.",
+    provenance: "A genuine SpongeBob SquarePants minifigure - the cone head is a moulded piece, not a hat.",
+    tags: ["patrick", "spongebob", "branded", "visitor"],
+    images: ["images/patrick-star-01.jpg"],
+    acquired: "",
+    notes: "No links written to SpongeBob. They are best friends in the cartoon, but importing that is the same move as importing Plankton's villainy, and you have not asked for either - the shared theme already puts all three together."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
