@@ -5222,6 +5222,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-soldier-in-clear-armor", label: "Same experimental armor" },
+      { to: "the-red-spartan", label: "Armor copied from him" },
     ],
     rating: 0,
     background: "A soldier wearing experimental armor.",
@@ -5248,6 +5249,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-soldier-in-green-armor", label: "Same experimental armor" },
+      { to: "the-red-spartan", label: "Armor copied from him" },
     ],
     rating: 0,
     background: "A soldier wearing experimental armor.",
@@ -5771,6 +5773,85 @@ window.COLLECTION = [
     images: ["images/the-traveller-01.jpg"],
     acquired: "",
     notes: "Placeholder name. He shares the Traveller role with the In-Betweener, who lives in the space between dimensions and has sat with the gods of several worlds. Filtering by Traveller now returns both of them, which is the best joke the role dropdown has made so far."
+  },
+
+
+
+  {
+    id: "the-space-police-pilot",
+    name: "The Space Police Pilot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot",
+    group: "The Space Police",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Space Police pilots.",
+    provenance: "The same grey armor the three officers wear, with a visored flight helmet over it.",
+    tags: ["space-police", "pilot", "visor", "armor"],
+    images: ["images/the-space-police-pilot-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Ninth in the Space Police, which is now the second largest group in the catalog after Lego City Law."
+  },
+
+
+  {
+    id: "the-red-spartan",
+    name: "The Red Spartan",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [
+      { to: "the-soldier-in-green-armor", label: "The armor they copied" },
+      { to: "the-soldier-in-clear-armor", label: "The armor they copied" },
+    ],
+    rating: 0,
+    background:
+      "A Mega Bloks Halo Spartan, out of the same world the Brute Prince is a " +
+      "prince of.\n\n" +
+      "He decided to join the good guys.",
+    provenance:
+      "Not a Lego figure at all - a genuine Mega Bloks Halo Spartan, with " +
+      "articulated joints and moulded boots that no minifigure has. The two " +
+      "soldiers in experimental armor are Lego rebuilds of exactly this; he is " +
+      "the thing they were copying.",
+    tags: ["spartan", "halo", "mega-bloks", "not-lego", "defector", "soldier", "original"],
+    images: ["images/the-red-spartan-01.jpg"],
+    acquired: "",
+    notes: "Named Red to keep him clear of the Spartan, who is one of the Damaged and came out of the spray-painted world. Filed custom rather than branded, following the Brute Prince - branded here has meant a genuine Lego figure of a named character, and he is neither."
+  },
+
+
+  {
+    id: "the-blue-spaceman",
+    name: "The Blue Spaceman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Spaceman",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A blue spaceman.",
+    provenance:
+      "The classic Lego Space figure, planet-and-rocket logo on the chest, blue " +
+      "from helmet to boots. One of the oldest designs in the collection.",
+    tags: ["spaceman", "classic-space", "blue", "astronaut", "vintage"],
+    images: ["images/the-blue-spaceman-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The plainest space figure here, and the only one wearing the original Lego Space badge rather than a militia, police or squadron marking."
   },
 
 

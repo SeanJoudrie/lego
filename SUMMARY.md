@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-209 characters from a custom LEGO minifigure world, in the order they were
+212 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2342,7 +2342,7 @@ A soldier wearing experimental armor.
 
 *How it was got:* One of two attempts at rebuilding the Mega Bloks Halo armor in Lego - this is the solid teal-green version, with the visored helmet over it.
 
-*Connections:* Same experimental armor The Soldier in Clear Armor
+*Connections:* Same experimental armor The Soldier in Clear Armor · Armor copied from him The Red Spartan
 
 *Tags:* soldier, experimental-armor, halo, mega-bloks, rebuild, visor
 
@@ -2354,7 +2354,7 @@ A soldier wearing experimental armor.
 
 *How it was got:* The second attempt at rebuilding the Mega Bloks Halo armor in Lego - this one in translucent plate over a black torso.
 
-*Connections:* Same experimental armor The Soldier in Green Armor
+*Connections:* Same experimental armor The Soldier in Green Armor · Armor copied from him The Red Spartan
 
 *Tags:* soldier, woman, experimental-armor, halo, mega-bloks, rebuild, translucent
 
@@ -2575,6 +2575,40 @@ He became a normal car repairman.
 A normal traveller. He likes to travel to the different parts of the city.
 
 *Tags:* traveller, city, wanderer, backpack
+
+### 210. The Space Police Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** custom
+
+One of the Space Police pilots.
+
+*How it was got:* The same grey armor the three officers wear, with a visored flight helmet over it.
+
+*Tags:* space-police, pilot, visor, armor
+
+### 211. The Red Spartan
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A Mega Bloks Halo Spartan, out of the same world the Brute Prince is a prince of.
+
+He decided to join the good guys.
+
+*How it was got:* Not a Lego figure at all - a genuine Mega Bloks Halo Spartan, with articulated joints and moulded boots that no minifigure has. The two soldiers in experimental armor are Lego rebuilds of exactly this; he is the thing they were copying.
+
+*Connections:* The armor they copied The Soldier in Green Armor · The armor they copied The Soldier in Clear Armor
+
+*Tags:* spartan, halo, mega-bloks, not-lego, defector, soldier, original
+
+### 212. The Blue Spaceman
+
+**Alignment:** good · **Role:** Spaceman · **Figure:** custom
+
+A blue spaceman.
+
+*How it was got:* The classic Lego Space figure, planet-and-rocket logo on the chest, blue from helmet to boots. One of the oldest designs in the collection.
+
+*Tags:* spaceman, classic-space, blue, astronaut, vintage
 
 ---
 
