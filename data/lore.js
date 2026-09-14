@@ -263,6 +263,22 @@ window.LORE = [
       "other by what they did during it. The Mad Ticket Man was widely expected " +
       "to turn, and was devoutly loyal instead.\n\n" +
       "Details still to come."
+  },
+
+  {
+    title: "The first Quinn uprising",
+    text:
+      "Quinn is the main villain, and the first time he rose he destroyed half " +
+      "the city. Every one of the strongest heroes was beaten, destroyed or " +
+      "killed. There was nobody left who was supposed to be able to stop him.\n\n" +
+      "What stopped him was a civilian. A jogger in a red hoodie who got to a " +
+      "rifle in the chaos and put a round through Quinn's lung. That finished " +
+      "it, and Quinn went into captivity. The man was knighted for it, and " +
+      "wears the armor the city gave him.\n\n" +
+      "Two things follow from calling it the first. Quinn did not stay in " +
+      "captivity. And the story this world tells about its own worst day is " +
+      "that the gods and the heroes all failed, and somebody with no rank at " +
+      "all picked up a rifle."
   }
 
 ];

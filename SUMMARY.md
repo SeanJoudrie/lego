@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-201 characters from a custom LEGO minifigure world, in the order they were
+204 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -164,6 +164,14 @@ One of the discoveries the arctic explorer is known for. Details still to come.
 A war in this world's history, big enough that people still measure each other by what they did during it. The Mad Ticket Man was widely expected to turn, and was devoutly loyal instead.
 
 Details still to come.
+
+### The first Quinn uprising
+
+Quinn is the main villain, and the first time he rose he destroyed half the city. Every one of the strongest heroes was beaten, destroyed or killed. There was nobody left who was supposed to be able to stop him.
+
+What stopped him was a civilian. A jogger in a red hoodie who got to a rifle in the chaos and put a round through Quinn's lung. That finished it, and Quinn went into captivity. The man was knighted for it, and wears the armor the city gave him.
+
+Two things follow from calling it the first. Quinn did not stay in captivity. And the story this world tells about its own worst day is that the gods and the heroes all failed, and somebody with no rank at all picked up a rifle.
 
 ---
 
@@ -2050,15 +2058,15 @@ One of the Lego Agents.
 
 *Tags:* agent, spy, helmet, sunglasses
 
-### 161. Tony Stark
+### 161. Tony Stark — And Iron Man, in two suits
 
 **Alignment:** good · **Figure:** branded
 
-Literally Tony Stark.
+Literally Tony Stark. Also, literally Iron Man - in two suits.
 
 *How it was got:* A genuine Marvel minifigure, not a build.
 
-*Tags:* marvel, iron-man, branded, visitor
+*Tags:* marvel, iron-man, tony-stark, branded, visitor, three-outfits
 
 ### 162. Bruce Wayne — And Batman
 
@@ -2483,6 +2491,38 @@ A local rap star.
 *How it was got:* Shutter shades, a dollar sign on the cap and another one round his neck.
 
 *Tags:* rap, music, star, local-fame, gold-chain
+
+### 202. The Guy in the Pizza Costume
+
+**Alignment:** good · **Figure:** custom
+
+Literally just a guy in a pizza costume.
+
+*Tags:* pizza, costume, civilian
+
+### 203. The Knighted Civilian
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+Before any of it he was nobody in particular. A jogger in a red hoodie.
+
+Then came the first Quinn uprising. Quinn destroyed half the city, and every one of the strongest heroes was beaten, destroyed or killed. There was nobody left standing who was supposed to be able to stop him.
+
+In the chaos this man got to a rifle and shot Quinn through the lung. That was the end of it. Quinn was finished, and went into captivity.
+
+He was knighted for it. A civilian's active bravery saved the day, and the armor he wears now is what the city gave him for it.
+
+*Tags:* civilian, jogger, red-hoodie, knighted, quinn, first-uprising, rifle, hero
+
+### 204. The Farmer
+
+**Alignment:** good · **Role:** Farmer · **Figure:** custom
+
+A farmer.
+
+*How it was got:* Mismatched arms again - one cream, one dark brown, with grey hands. The second figure in two batches built that way, after the Tea Seller.
+
+*Tags:* farmer, overalls, mismatched-arms
 
 ---
 

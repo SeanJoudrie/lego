@@ -4528,7 +4528,7 @@ window.COLLECTION = [
   {
     id: "tony-stark",
     name: "Tony Stark",
-    variant: "",
+    variant: "And Iron Man, in two suits",
     faction: "good",
     origin: "branded",
     theme: "Marvel",
@@ -4538,12 +4538,16 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Literally Tony Stark.",
+    background: "Literally Tony Stark. Also, literally Iron Man - in two suits.",
     provenance: "A genuine Marvel minifigure, not a build.",
-    tags: ["marvel", "iron-man", "branded", "visitor"],
-    images: ["images/tony-stark-01.jpg"],
+    tags: ["marvel", "iron-man", "tony-stark", "branded", "visitor", "three-outfits"],
+    images: [
+      { src: "images/tony-stark-01.jpg", caption: "Tony Stark" },
+      { src: "images/tony-stark-02.jpg", caption: "Iron Man, the earlier suit" },
+      { src: "images/tony-stark-03.jpg", caption: "Iron Man, the later suit" }
+    ],
     acquired: "",
-    notes: "First branded figure in the catalog - the origin filter has had nothing but customs in it for 160 figures and now it does something. How he stands relative to the worlds cosmology isn't written down: by your own rule every Lego world is its own world, which would make him a visitor, but you haven't said it so I haven't."
+    notes: "First branded figure in the catalog - the origin filter has had nothing but customs in it for 160 figures and now it does something. Three figures, one man, one entry - the same call as Bruce Wayne and Batman, and the suits are outfits. How he stands relative to the worlds cosmology still isn't written down."
   },
 
 
@@ -5565,6 +5569,85 @@ window.COLLECTION = [
     images: ["images/the-rap-star-01.jpg"],
     acquired: "",
     notes: "Placeholder name. First musician in the collection with music as the job - the Beach Bum plays guitar, but that is what he does now that he stopped working."
+  },
+
+
+
+  {
+    id: "the-guy-in-the-pizza-costume",
+    name: "The Guy in the Pizza Costume",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Literally just a guy in a pizza costume.",
+    provenance: "",
+    tags: ["pizza", "costume", "civilian"],
+    images: ["images/the-guy-in-the-pizza-costume-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, in the pattern of the Two Guys in Bunny Suits. No link between them - dressing up is not knowing each other."
+  },
+
+
+  {
+    id: "the-knighted-civilian",
+    name: "The Knighted Civilian",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Brought down" },
+    ],
+    rating: 0,
+    background:
+      "Before any of it he was nobody in particular. A jogger in a red hoodie.\n\n" +
+      "Then came the first Quinn uprising. Quinn destroyed half the city, and " +
+      "every one of the strongest heroes was beaten, destroyed or killed. There " +
+      "was nobody left standing who was supposed to be able to stop him.\n\n" +
+      "In the chaos this man got to a rifle and shot Quinn through the lung. " +
+      "That was the end of it. Quinn was finished, and went into captivity.\n\n" +
+      "He was knighted for it. A civilian's active bravery saved the day, and " +
+      "the armor he wears now is what the city gave him for it.",
+    provenance: "",
+    tags: ["civilian", "jogger", "red-hoodie", "knighted", "quinn", "first-uprising", "rifle", "hero"],
+    images: ["images/the-knighted-civilian-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name - I could not make out the title you gave him, and it sounded like Sir Jeff. Say it again and he gets it. The link to Quinn is written even though Quinn has no entry yet; unknown ids are skipped, so it lights up by itself the moment Quinn is photographed."
+  },
+
+
+  {
+    id: "the-farmer",
+    name: "The Farmer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Farmer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A farmer.",
+    provenance:
+      "Mismatched arms again - one cream, one dark brown, with grey hands. The " +
+      "second figure in two batches built that way, after the Tea Seller.",
+    tags: ["farmer", "overalls", "mismatched-arms"],
+    images: ["images/the-farmer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Second farmer in the role filter after the Alien Farmer - and the First Man, who was a farmer before he was anything else, has no role recorded at all."
   },
 
 
