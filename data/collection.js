@@ -3992,7 +3992,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Aircraft Mechanic",
-    group: "",
+    group: "The Fire Service",
     location: "",
     relations: [
       { to: "the-fire-chief", label: "Volunteers under" },
@@ -4072,7 +4072,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Fire Chief",
-    group: "",
+    group: "The Fire Service",
     location: "",
     relations: [
       { to: "the-tall-mechanic", label: "Volunteer firefighter" },
@@ -4558,12 +4558,13 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Literally Bruce Wayne. Also, literally Batman.",
+    background: "Literally Bruce Wayne. Also, literally Batman - in two different suits.",
     provenance: "A genuine DC minifigure, not a build.",
     tags: ["dc", "batman", "bruce-wayne", "branded", "visitor", "two-outfits"],
     images: [
       { src: "images/bruce-wayne-01.jpg", caption: "Bruce Wayne" },
-      { src: "images/bruce-wayne-02.jpg", caption: "Batman" }
+      { src: "images/bruce-wayne-02.jpg", caption: "Batman, black suit" },
+      { src: "images/bruce-wayne-03.jpg", caption: "Batman, grey and white suit" }
     ],
     acquired: "",
     notes: "Two figures, one man, one entry - your own rule is never two entries for the same person, and a secret identity is the most literal case of two outfits there is. Say the word if you would rather Batman stood on his own card. Same open question as Tony Stark about how he stands relative to the worlds."
@@ -4779,7 +4780,7 @@ window.COLLECTION = [
     tags: ["civilian", "father", "family", "caretaker", "palace"],
     images: ["images/the-father-01.jpg"],
     acquired: "",
-    notes: "The family name is read as West off a garbled line - say the word and it changes everywhere. This family answers something the Palace Orphans entry left open: it already said the orphans are raised by the good people who live at the Palace, with caretakers of their own, and until now none of those people had a face."
+    notes: "West is confirmed as the family name - it came out of a voice-to-text slip, you liked it, and you kept it, which makes it the only name in the collection the world gave itself. This family answers something the Palace Orphans entry left open: it already said the orphans are raised by the good people who live at the Palace, with caretakers of their own, and until now none of those people had a face."
   },
 
 
@@ -4811,7 +4812,7 @@ window.COLLECTION = [
       { src: "images/the-mother-02.jpg", caption: "Red wrap top" }
     ],
     acquired: "",
-    notes: "Two photos, one woman, one entry - two outfits rather than two people. Family name read as West off a garbled line."
+    notes: "Two photos, one woman, one entry - two outfits rather than two people. West is confirmed as the family name."
   },
 
 
@@ -4836,7 +4837,7 @@ window.COLLECTION = [
     tags: ["civilian", "son", "family", "child"],
     images: ["images/the-son-01.jpg"],
     acquired: "",
-    notes: "No raising link written for him - you said the parents help raise the palace orphans, and he looks young enough to be one of the children rather than one of the carers. Family name read as West off a garbled line."
+    notes: "No raising link written for him - you said the parents help raise the palace orphans, and he looks young enough to be one of the children rather than one of the carers. West is confirmed as the family name."
   },
 
 
@@ -4961,6 +4962,97 @@ window.COLLECTION = [
     images: ["images/the-man-from-the-yellow-dimension-01.jpg"],
     acquired: "",
     notes: "Placeholder name. First mention of the yellow dimension anywhere - a whole place the world notes have never heard of. Compare the Manifestation of Life, who is the plainest printed figure here; this one goes a step further and has no face."
+  },
+
+
+
+  {
+    id: "the-fireman-in-orange",
+    name: "The Fireman in Orange",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Firefighter",
+    group: "The Fire Service",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A fireman.",
+    provenance: "Orange rescue kit, dark red helmet, breathing apparatus on.",
+    tags: ["firefighter", "rescue", "breathing-apparatus", "orange"],
+    images: ["images/the-fireman-in-orange-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive - two firemen arrived at once and the gear is the only thing telling them apart."
+  },
+
+
+  {
+    id: "the-fireman-in-black",
+    name: "The Fireman in Black",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Firefighter",
+    group: "The Fire Service",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A fireman.",
+    provenance:
+      "The old black fire uniform with the flame shield on the chest, and the " +
+      "classic black helmet.",
+    tags: ["firefighter", "black", "classic", "flame-badge"],
+    images: ["images/the-fireman-in-black-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, paired with the Fireman in Orange."
+  },
+
+
+  {
+    id: "the-firewoman",
+    name: "The Firewoman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Firefighter",
+    group: "The Fire Service",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A firewoman.",
+    provenance: "Modern turnout gear - black and hi-vis, radio on the shoulder.",
+    tags: ["firefighter", "woman", "turnout-gear", "radio"],
+    images: ["images/the-firewoman-01.jpg"],
+    acquired: "",
+    notes: "Not named by her gear like the two men beside her, because you gave her a designation of her own and that is enough to tell her apart."
+  },
+
+
+  {
+    id: "the-inuit-fisherman",
+    name: "The Inuit Fisherman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Fisherman",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An Inuit fisherman.",
+    provenance: "Fur-lined parka hood, patterned knit right down the legs.",
+    tags: ["fisherman", "inuit", "cold", "parka", "fur-hood"],
+    images: ["images/the-inuit-fisherman-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Shares the Fisherman role with the Fisherman and his Son, so the role finds all three, but no link between them - working the same trade in different water is not knowing each other."
   },
 
 

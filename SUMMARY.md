@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-178 characters from a custom LEGO minifigure world, in the order they were
+182 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2062,7 +2062,7 @@ Literally Tony Stark.
 
 **Alignment:** good · **Figure:** branded
 
-Literally Bruce Wayne. Also, literally Batman.
+Literally Bruce Wayne. Also, literally Batman - in two different suits.
 
 *How it was got:* A genuine DC minifigure, not a build.
 
@@ -2219,6 +2219,46 @@ A man from the yellow dimension.
 *How it was got:* Entirely yellow and entirely unprinted - head, torso, arms, hands and legs all one colour, and no face at all. The only figure in the collection with nothing on its face.
 
 *Tags:* yellow-dimension, dimensions, blank, faceless, monochrome
+
+### 179. The Fireman in Orange
+
+**Alignment:** good · **Role:** Firefighter · **Figure:** custom
+
+A fireman.
+
+*How it was got:* Orange rescue kit, dark red helmet, breathing apparatus on.
+
+*Tags:* firefighter, rescue, breathing-apparatus, orange
+
+### 180. The Fireman in Black
+
+**Alignment:** good · **Role:** Firefighter · **Figure:** custom
+
+A fireman.
+
+*How it was got:* The old black fire uniform with the flame shield on the chest, and the classic black helmet.
+
+*Tags:* firefighter, black, classic, flame-badge
+
+### 181. The Firewoman
+
+**Alignment:** good · **Role:** Firefighter · **Figure:** custom
+
+A firewoman.
+
+*How it was got:* Modern turnout gear - black and hi-vis, radio on the shoulder.
+
+*Tags:* firefighter, woman, turnout-gear, radio
+
+### 182. The Inuit Fisherman
+
+**Alignment:** good · **Role:** Fisherman · **Figure:** custom
+
+An Inuit fisherman.
+
+*How it was got:* Fur-lined parka hood, patterned knit right down the legs.
+
+*Tags:* fisherman, inuit, cold, parka, fur-hood
 
 ---
 
