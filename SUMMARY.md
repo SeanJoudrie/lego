@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-132 characters from a custom LEGO minifigure world, in the order they were
+137 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -1770,7 +1770,59 @@ A different kind of adventurer, in a different adventure group altogether.
 
 What he is after is ancient precious gemstones - the ones that carry mystical powers.
 
+*Connections:* Friend of The Gem Hunter's Friend
+
 *Tags:* adventurer, gemstones, relics, mystical, treasure
+
+### 133. The Gem Hunter's Friend
+
+**Alignment:** good · **Role:** Adventurer · **Figure:** custom
+
+The Gem Hunter's friend, and out there with him after the same ancient stones.
+
+*How it was got:* He and the Gem Hunter are wearing the same shirt - the tan one with the red neckerchief and the coiled rope. Two men from the same outfit, dressed out of the same kit.
+
+*Connections:* Friend of The Gem Hunter
+
+*Tags:* adventurer, gemstones, friend, expedition
+
+### 134. The Sculptor's Heir
+
+**Alignment:** good · **Role:** Financier · **Based:** Lego City · **Figure:** custom
+
+Another financier, and this one's money came out of art.
+
+His family are artists - sculptors, and not the painting kind. They build big: sculpture, and architectural design for a whole city. The family fortune was made doing that.
+
+He brings the money back to the city.
+
+*Tags:* financier, money, art, sculpture, architecture, family-fortune, inherited
+
+### 135. The Law Student
+
+**Alignment:** good · **Role:** Law Student · **Figure:** custom
+
+A ginger law student.
+
+*How it was got:* Wearing the same black sweater, white collar and red tie as the Royal Financier. In this world that torso is the professional class - the money men and the men studying to argue.
+
+*Tags:* law, student, ginger, civilian
+
+### 136. The Disco Civilian
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+A disco civilian.
+
+*Tags:* disco, civilian, sunglasses, gold-chain, purple
+
+### 137. The Bank Teller
+
+**Alignment:** good · **Role:** Bank Teller · **Figure:** custom
+
+A bank teller. He has stopped bank robberies by himself.
+
+*Tags:* bank, teller, robbery, civilian, brave
 
 ---
 

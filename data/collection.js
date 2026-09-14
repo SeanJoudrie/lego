@@ -3802,7 +3802,9 @@ window.COLLECTION = [
     role: "Adventurer",
     group: "The Gem Hunters",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-gem-hunters-friend", label: "Friend of" },
+    ],
     rating: 0,
     background:
       "A different kind of adventurer, in a different adventure group " +
@@ -3814,6 +3816,133 @@ window.COLLECTION = [
     images: ["images/the-gem-hunter-01.jpg"],
     acquired: "",
     notes: "Placeholder name, and the group name is a placeholder too - you said a different adventure group without naming it. Fourth adventuring outfit here after the Adventure Crew, the Jungle Adventurers and the Frontier Expedition."
+  },
+
+
+
+  {
+    id: "the-gem-hunters-friend",
+    name: "The Gem Hunter's Friend",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventurer",
+    group: "The Gem Hunters",
+    location: "",
+    relations: [
+      { to: "the-gem-hunter", label: "Friend of" },
+    ],
+    rating: 0,
+    background:
+      "The Gem Hunter's friend, and out there with him after the same ancient " +
+      "stones.",
+    provenance:
+      "He and the Gem Hunter are wearing the same shirt - the tan one with the " +
+      "red neckerchief and the coiled rope. Two men from the same outfit, " +
+      "dressed out of the same kit.",
+    tags: ["adventurer", "gemstones", "friend", "expedition"],
+    images: ["images/the-gem-hunters-friend-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Second member of the Gem Hunters, so that group is a real one now rather than a group of one."
+  },
+
+
+  {
+    id: "the-sculptors-heir",
+    name: "The Sculptor's Heir",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Financier",
+    group: "",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background:
+      "Another financier, and this one's money came out of art.\n\n" +
+      "His family are artists - sculptors, and not the painting kind. They " +
+      "build big: sculpture, and architectural design for a whole city. The " +
+      "family fortune was made doing that.\n\n" +
+      "He brings the money back to the city.",
+    provenance: "",
+    tags: ["financier", "money", "art", "sculpture", "architecture", "family-fortune", "inherited"],
+    images: ["images/the-sculptors-heir-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Third financier in the collection - the fleet, the city, and now the one whose fortune was built rather than earned in office."
+  },
+
+
+  {
+    id: "the-law-student",
+    name: "The Law Student",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Law Student",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A ginger law student.",
+    provenance:
+      "Wearing the same black sweater, white collar and red tie as the Royal " +
+      "Financier. In this world that torso is the professional class - the " +
+      "money men and the men studying to argue.",
+    tags: ["law", "student", "ginger", "civilian"],
+    images: ["images/the-law-student-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The first person here training for something rather than already being it."
+  },
+
+
+  {
+    id: "the-disco-civilian",
+    name: "The Disco Civilian",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A disco civilian.",
+    provenance: "",
+    tags: ["disco", "civilian", "sunglasses", "gold-chain", "purple"],
+    images: ["images/the-disco-civilian-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Second civilian in the collection, after my dad."
+  },
+
+
+  {
+    id: "the-bank-teller",
+    name: "The Bank Teller",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bank Teller",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A bank teller. He has stopped bank robberies by himself.",
+    provenance: "",
+    tags: ["bank", "teller", "robbery", "civilian", "brave"],
+    images: ["images/the-bank-teller-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. A man with no rank, no unit and no weapon who has stopped armed robberies on his own - which puts him in a very short list here."
   },
 
 
