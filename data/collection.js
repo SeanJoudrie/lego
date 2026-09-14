@@ -1541,6 +1541,7 @@ window.COLLECTION = [
     location: "Lego City",
     relations: [
       { to: "the-ninja-robot", label: "Works with" },
+      { to: "the-chaosborn", label: "Best friends with" },
     ],
     rating: 0,
     background:
@@ -2297,6 +2298,130 @@ window.COLLECTION = [
     images: ["images/the-defector-01.jpg"],
     acquired: "",
     notes: "The figure is itself a knock-off brick minifigure, so his origin is literally what he's made of - the most direct case of the lore and the plastic agreeing yet."
+  },
+
+  {
+    id: "the-salvager",
+    name: "The Salvager",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    location: "The Bin",
+    relations: [],
+    rating: 0,
+    background:
+      "His torso and face are ordinary Lego. He was discarded after an attack " +
+      "on civilians, and what put him back together came out of the Bin — so " +
+      "everything below the waist is not Lego at all. Bionic legs, and a " +
+      "reinforced helmet.\n\n" +
+      "He goes back in. He ventures into the Bin to save other pieces and to " +
+      "fight off the beasts that come at him on the way.\n\n" +
+      "The cape was given to him by the people of the Bin, for the number of " +
+      "them he has pulled out of destruction that was already coming.",
+    provenance:
+      "The Bin was a donation bin at my elementary school.",
+    tags: ["discarded", "the-bin", "bionic", "rebuilt", "rescuer", "non-lego-parts", "cape"],
+    images: ["images/the-salvager-01.jpg"],
+    acquired: "",
+    notes: "Lego above the waist, not Lego below it - exactly as the lore says. Placeholder name."
+  },
+
+  {
+    id: "the-grey-beanie",
+    name: "The Man in the Grey Beanie",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "",
+    provenance: "",
+    tags: ["undescribed"],
+    images: ["images/the-grey-beanie-01.jpg"],
+    acquired: "",
+    notes: "NOT YET DESCRIBED. He was the second photo in a batch where the description jumped from the first to the third, so he has no story and no name - the name here is pure physical description so he isn't mistaken for a character I invented. Tell me who he is."
+  },
+
+  {
+    id: "the-chaosborn",
+    name: "The Chaosborn",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    location: "",
+    relations: [
+      { to: "the-golden-sniper", label: "Best friends with" },
+    ],
+    rating: 0,
+    background:
+      "He comes from a world where everything is made of incoherent scrap — " +
+      "not built, just pure chaos. He grew up fighting monsters made of bricks " +
+      "and people assembled out of every combination of parts there is.\n\n" +
+      "He and the Golden Sniper are best friends.",
+    provenance: "A gift from my friend Zach.",
+    tags: ["scrap-world", "chaos", "monster-fighter", "gift"],
+    images: ["images/the-chaosborn-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-scrap-adventurer",
+    name: "The Scrap Adventurer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventurer",
+    location: "",
+    relations: [
+      { to: "the-ginger-adventurer", label: "Adventures with" },
+    ],
+    rating: 0,
+    background:
+      "Made up of scrap pieces, and an adventurer. He comes from the same land " +
+      "as the Ginger Adventurer, and the two of them are good friends who have " +
+      "been through a great many jungle adventures together.",
+    provenance: "",
+    tags: ["adventurer", "scrap-pieces", "jungle", "friends"],
+    images: ["images/the-scrap-adventurer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. More detail to come - there's concept art of these two."
+  },
+
+  {
+    id: "the-ginger-adventurer",
+    name: "The Ginger Adventurer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Adventurer",
+    location: "",
+    relations: [
+      { to: "the-scrap-adventurer", label: "Adventures with" },
+    ],
+    rating: 0,
+    background:
+      "From the same land as the Scrap Adventurer, and his good friend. A great " +
+      "many jungle adventures between the two of them.",
+    provenance: "",
+    tags: ["adventurer", "jungle", "friends"],
+    images: ["images/the-ginger-adventurer-01.jpg"],
+    acquired: "",
+    notes: "More detail to come - there's concept art of these two."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

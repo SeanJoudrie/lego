@@ -22,6 +22,22 @@ window.LORE = [
   },
 
   {
+    title: "The Bin",
+    text:
+      "A place, and a real one: the Bin was a donation bin at my elementary " +
+      "school. In the world it is where the non-Lego pieces come from, and it " +
+      "has its own people and its own beasts.\n\n" +
+      "Figures destroyed elsewhere get put back together out of what is in " +
+      "there. The Salvager was discarded after an attack on civilians and " +
+      "rebuilt from Bin parts — Lego above the waist, not Lego below it — and " +
+      "he goes back in to pull others out. The people of the Bin gave him his " +
+      "cape for it.\n\n" +
+      "So there are two kinds of not-Lego in this world. The knock-off " +
+      "societies, who would go to war. And the Bin, which is where the pieces " +
+      "that save people come from."
+  },
+
+  {
     title: "The knock-off societies",
     text:
       "Not every other world is another collection. Some are off-brand — the " +

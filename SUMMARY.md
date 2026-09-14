@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-77 characters from a custom LEGO minifigure world, in the order they were
+82 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -14,6 +14,14 @@ Every person's collection is its own world. It's a shared universe, but the rule
 Travel between them is literal. Taking a few of my figures over to a friend's house means those figures are visiting that world.
 
 This is the thing most of the rest of it hangs off. The Discarded and the Damaged are not from far away in this world — they are from other people's worlds entirely, and they came here.
+
+### The Bin
+
+A place, and a real one: the Bin was a donation bin at my elementary school. In the world it is where the non-Lego pieces come from, and it has its own people and its own beasts.
+
+Figures destroyed elsewhere get put back together out of what is in there. The Salvager was discarded after an attack on civilians and rebuilt from Bin parts — Lego above the waist, not Lego below it — and he goes back in to pull others out. The people of the Bin gave him his cape for it.
+
+So there are two kinds of not-Lego in this world. The knock-off societies, who would go to war. And the Bin, which is where the pieces that save people come from.
 
 ### The knock-off societies
 
@@ -790,7 +798,7 @@ He crossed a great many countries and states to get here from a far away land. H
 
 He takes bounties, always alongside his robot. Outside of that he is deeply into tea, and really enjoys making it.
 
-*Connections:* Works with The Ninja Robot
+*Connections:* Works with The Ninja Robot · Best friends with The Chaosborn
 
 *Tags:* sniper, golden-rifle, bounty-hunter, traveller, tea
 
@@ -1121,6 +1129,62 @@ A soldier commander out of one of the knock-off societies — the off-brand civi
 He switched sides, and brought some of his men across with him. You can already see him adapting to the new climate.
 
 *Tags:* defector, knock-off, commander, switched-sides, adapting
+
+### 78. The Salvager
+
+**Alignment:** good · **Based:** The Bin · **Figure:** custom
+
+His torso and face are ordinary Lego. He was discarded after an attack on civilians, and what put him back together came out of the Bin — so everything below the waist is not Lego at all. Bionic legs, and a reinforced helmet.
+
+He goes back in. He ventures into the Bin to save other pieces and to fight off the beasts that come at him on the way.
+
+The cape was given to him by the people of the Bin, for the number of them he has pulled out of destruction that was already coming.
+
+*How it was got:* The Bin was a donation bin at my elementary school.
+
+*Tags:* discarded, the-bin, bionic, rebuilt, rescuer, non-lego-parts, cape
+
+### 79. The Man in the Grey Beanie
+
+**Alignment:** good · **Figure:** custom
+
+
+
+*Tags:* undescribed
+
+### 80. The Chaosborn
+
+**Alignment:** good · **Figure:** custom
+
+He comes from a world where everything is made of incoherent scrap — not built, just pure chaos. He grew up fighting monsters made of bricks and people assembled out of every combination of parts there is.
+
+He and the Golden Sniper are best friends.
+
+*How it was got:* A gift from my friend Zach.
+
+*Connections:* Best friends with The Golden Sniper
+
+*Tags:* scrap-world, chaos, monster-fighter, gift
+
+### 81. The Scrap Adventurer
+
+**Alignment:** good · **Role:** Adventurer · **Figure:** custom
+
+Made up of scrap pieces, and an adventurer. He comes from the same land as the Ginger Adventurer, and the two of them are good friends who have been through a great many jungle adventures together.
+
+*Connections:* Adventures with The Ginger Adventurer
+
+*Tags:* adventurer, scrap-pieces, jungle, friends
+
+### 82. The Ginger Adventurer
+
+**Alignment:** good · **Role:** Adventurer · **Figure:** custom
+
+From the same land as the Scrap Adventurer, and his good friend. A great many jungle adventures between the two of them.
+
+*Connections:* Adventures with The Scrap Adventurer
+
+*Tags:* adventurer, jungle, friends
 
 ---
 
