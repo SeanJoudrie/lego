@@ -1002,6 +1002,8 @@ window.COLLECTION = [
       { to: "the-samurai", label: "Studied under" },
       { to: "the-red-ninja", label: "Studied under" },
       { to: "the-street-ninja", label: "Rival of" },
+      { to: "the-red-apprentice", label: "Training" },
+      { to: "the-ninja-golem", label: "Judged worthy by" },
     ],
     rating: 0,
     background:
@@ -1098,7 +1100,6 @@ window.COLLECTION = [
     relations: [
       { to: "the-blue-haired-ninja", label: "Taught" },
       { to: "the-street-ninja", label: "Taught" },
-      { to: "the-red-apprentice", label: "Training" },
     ],
     rating: 0,
     background:
@@ -3290,17 +3291,17 @@ window.COLLECTION = [
     group: "The Ninja Lineage",
     location: "",
     relations: [
-      { to: "the-red-ninja", label: "Apprentice to" },
+      { to: "the-blue-haired-ninja", label: "Apprentice to" },
     ],
     rating: 0,
     background:
-      "The Red Ninja's apprentice, and very nearly finished training.\n\n" +
+      "The Blue-Haired Ninja's apprentice, and very nearly finished training.\n\n" +
       "He will take the mantle one day.",
     provenance: "",
     tags: ["ninja", "apprentice", "successor", "nearly-trained"],
     images: ["images/the-red-apprentice-01.jpg"],
     acquired: "",
-    notes: "The Red Ninja's third known student, and the only one who inherits rather than leaves."
+    notes: "Corrected: he studies under the Blue-Haired Ninja, not the Red Ninja. The name still fits - the Blue-Haired Ninja wears red robes."
   },
 
   {
@@ -3340,12 +3341,14 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Adventurer",
+    group: "The Frontier Expedition",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-pathfinder", label: "Travels with" },
+    ],
     rating: 0,
     background:
-      "A solo adventurer with a bionic arm. He has friends of his own " +
-      "somewhere, but he works alone, and most of what he is remains a " +
+      "An adventurer with a bionic arm, and most of what he is remains a " +
       "mystery.\n\n" +
       "His planet keeps him busy. Hostile forces are trying to occupy it. The " +
       "wildlife is in danger. And there are temples out there full of evil " +
@@ -3355,7 +3358,7 @@ window.COLLECTION = [
     tags: ["adventurer", "bionic-arm", "solo", "mystery", "wildlife", "temples", "atvs"],
     images: ["images/the-ranger-01.jpg"],
     acquired: "",
-    notes: "No group on purpose - he works alone. The figure has one yellow arm and one sand-green arm, so the bionic one is visible."
+    notes: "Corrected: he is not solo - he travels with the Pathfinder. The figure has one yellow arm and one sand-green arm, so the bionic one is visible. \"The Frontier Expedition\" is my name for the pair and needs a real one."
   },
 
   {
@@ -3447,6 +3450,125 @@ window.COLLECTION = [
     provenance: "",
     tags: ["space-militia", "graduate", "green", "untested"],
     images: ["images/the-new-recruit-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name."
+  },
+
+  {
+    id: "the-blacktron-leader",
+    name: "The Blacktron Leader",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Squadron Leader",
+    group: "The Blacktron Squadron",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He leads the Blacktron squadron. Their work is mining mineral resources " +
+      "out in space, and defending whatever needs defending when it comes to " +
+      "that.",
+    provenance: "",
+    tags: ["blacktron", "squadron", "leader", "mining", "space"],
+    images: ["images/the-blacktron-leader-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. His squadron is two now, so the group finally shows."
+  },
+
+  {
+    id: "the-ninja-golem",
+    name: "The Ninja Golem",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Guardian",
+    group: "The Ninja Lineage",
+    location: "",
+    relations: [
+      { to: "the-blue-haired-ninja", label: "Follows" },
+    ],
+    rating: 0,
+    background:
+      "A sentient statue, set to guard the golden sword.\n\n" +
+      "The Blue-Haired Ninja came for it and they fought. The golem judged him " +
+      "worthy, gave up the sword, and has followed him ever since.",
+    provenance: "",
+    tags: ["golem", "statue", "sentient", "guardian", "golden-sword"],
+    images: ["images/the-ninja-golem-01.jpg"],
+    acquired: "",
+    notes: "This is where the golden sword came from."
+  },
+
+  {
+    id: "the-pathfinder",
+    name: "The Pathfinder",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Explorer",
+    group: "The Frontier Expedition",
+    location: "",
+    relations: [
+      { to: "the-ranger", label: "Travels with" },
+    ],
+    rating: 0,
+    background:
+      "He travels with the Ranger. He does the navigating, and he has the " +
+      "charisma to walk into a local village and be welcome there.",
+    provenance: "",
+    tags: ["explorer", "navigator", "charisma", "diplomacy"],
+    images: ["images/the-pathfinder-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. His arrival is what stopped the Ranger being a solo act."
+  },
+
+  {
+    id: "the-quartermaster",
+    name: "The Quartermaster",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Quartermaster",
+    group: "The Space Militia",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Maintenance and supply aboard the mothership, for the space militia and " +
+      "the space police both. He is the reason everybody has their gear.",
+    provenance: "",
+    tags: ["quartermaster", "supply", "maintenance", "mothership", "logistics"],
+    images: ["images/the-quartermaster-01.jpg"],
+    acquired: "",
+    notes: "Serves both the militia and the space police; filed with the militia because the mothership is theirs."
+  },
+
+  {
+    id: "the-constable",
+    name: "The Constable",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Police",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "Police. Very stern about it.",
+    provenance: "",
+    tags: ["police", "stern"],
+    images: ["images/the-constable-01.jpg"],
     acquired: "",
     notes: "Placeholder name."
   },

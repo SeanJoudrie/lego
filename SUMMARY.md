@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-118 characters from a custom LEGO minifigure world, in the order they were
+123 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -592,7 +592,7 @@ For a time he and the Street Ninja were rivals. They never actually hated each o
 
 Being the best in the world means a lot of high-profile missions, and not much time at home.
 
-*Connections:* Studied under The Samurai · Studied under The Red Ninja · Rival of The Street Ninja
+*Connections:* Studied under The Samurai · Studied under The Red Ninja · Rival of The Street Ninja · Training The Red Apprentice · Judged worthy by The Ninja Golem
 
 *Tags:* ninja, golden-sword, silent, prodigy, rival
 
@@ -630,7 +630,7 @@ Teacher to both of them. He took the blue-haired ninja after the Samurai had fin
 
 For a time he was tempted by evil. He decided not to do evil.
 
-*Connections:* Taught The Blue-Haired Ninja · Taught The Street Ninja · Training The Red Apprentice
+*Connections:* Taught The Blue-Haired Ninja · Taught The Street Ninja
 
 *Tags:* ninja, teacher, tempted, chose-good
 
@@ -1560,11 +1560,11 @@ He tests aircraft. That is the job, and he does it under the man in the red jump
 
 **Alignment:** good · **Role:** Ninja · **Figure:** custom
 
-The Red Ninja's apprentice, and very nearly finished training.
+The Blue-Haired Ninja's apprentice, and very nearly finished training.
 
 He will take the mantle one day.
 
-*Connections:* Apprentice to The Red Ninja
+*Connections:* Apprentice to The Blue-Haired Ninja
 
 *Tags:* ninja, apprentice, successor, nearly-trained
 
@@ -1584,11 +1584,13 @@ He had a brother. The brother disappeared completely, and the search for him has
 
 **Alignment:** good · **Role:** Adventurer · **Figure:** custom
 
-A solo adventurer with a bionic arm. He has friends of his own somewhere, but he works alone, and most of what he is remains a mystery.
+An adventurer with a bionic arm, and most of what he is remains a mystery.
 
 His planet keeps him busy. Hostile forces are trying to occupy it. The wildlife is in danger. And there are temples out there full of evil spirits, ghosts and zombie-like things that he has to go in and fight.
 
 In between, he rides ATVs.
+
+*Connections:* Travels with The Pathfinder
 
 *Tags:* adventurer, bionic-arm, solo, mystery, wildlife, temples, atvs
 
@@ -1627,6 +1629,52 @@ The other technician on the red space programme.
 A space cadet, recently graduated into the space militia. He has not seen anything yet.
 
 *Tags:* space-militia, graduate, green, untested
+
+### 119. The Blacktron Leader
+
+**Alignment:** good · **Role:** Squadron Leader · **Figure:** custom
+
+He leads the Blacktron squadron. Their work is mining mineral resources out in space, and defending whatever needs defending when it comes to that.
+
+*Tags:* blacktron, squadron, leader, mining, space
+
+### 120. The Ninja Golem
+
+**Alignment:** good · **Role:** Guardian · **Figure:** custom
+
+A sentient statue, set to guard the golden sword.
+
+The Blue-Haired Ninja came for it and they fought. The golem judged him worthy, gave up the sword, and has followed him ever since.
+
+*Connections:* Follows The Blue-Haired Ninja
+
+*Tags:* golem, statue, sentient, guardian, golden-sword
+
+### 121. The Pathfinder
+
+**Alignment:** good · **Role:** Explorer · **Figure:** custom
+
+He travels with the Ranger. He does the navigating, and he has the charisma to walk into a local village and be welcome there.
+
+*Connections:* Travels with The Ranger
+
+*Tags:* explorer, navigator, charisma, diplomacy
+
+### 122. The Quartermaster
+
+**Alignment:** good · **Role:** Quartermaster · **Figure:** custom
+
+Maintenance and supply aboard the mothership, for the space militia and the space police both. He is the reason everybody has their gear.
+
+*Tags:* quartermaster, supply, maintenance, mothership, logistics
+
+### 123. The Constable
+
+**Alignment:** good · **Role:** Police · **Based:** Lego City · **Figure:** custom
+
+Police. Very stern about it.
+
+*Tags:* police, stern
 
 ---
 
