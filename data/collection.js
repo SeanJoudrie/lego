@@ -3221,6 +3221,34 @@ window.COLLECTION = [
     notes: "The Red Ninja's third known student, and the only one who inherits rather than leaves."
   },
 
+  {
+    id: "the-ancient",
+    name: "The Ancient",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Elder",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He predates the Lego civilization entirely. He was here before any of " +
+      "it, he is wisely respected, and he helped the whole thing grow into what " +
+      "it became.\n\n" +
+      "He had a brother. The brother disappeared completely, and the search for " +
+      "him has been running for twenty years. It is not likely now that he will " +
+      "ever be found.",
+    provenance:
+      "Originally just a Tonka truck figure — not a Lego piece at all, and the " +
+      "oldest thing in the collection. The twenty-year search is a real one.",
+    tags: ["ancient", "pre-lego", "tonka", "wisdom", "elder", "lost-brother", "not-lego"],
+    images: ["images/the-ancient-01.jpg"],
+    acquired: "",
+    notes: "The only figure here older than the collection itself, and older than The First Man - which is a question the lore hasn't answered: The First Man is the first man to exist, and this one was already here. Placeholder name."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

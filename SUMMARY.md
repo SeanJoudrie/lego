@@ -1,11 +1,21 @@
 # The Collection — full character summary
 
-112 characters from a custom LEGO minifigure world, in the order they were
+113 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
 
 ## The world
+
+### Before any of it
+
+Something was here before the Lego civilization, and it was not Lego. An ancient figure out of a Tonka set, respected as a source of wisdom, who helped the whole civilization grow into what it became.
+
+That makes a third kind of not-Lego, and the oldest. The knock-off societies would go to war. The Bin is where the pieces that save people come from. And this one was simply here first.
+
+It also leaves a question open. The First Man is the first man to exist, and this one was already here when he arrived.
+
+He had a brother. The brother is gone, and has been looked for, in the real world, for twenty years.
 
 ### Worlds, and visiting them
 
@@ -123,7 +133,9 @@ Antagonists and figures the stories point at, none of them photographed yet: the
 
 The famous Nexo Knight — the one with the spectacular sword, who turned out to be a villain, and in whose shadow the modest one has spent his whole career.
 
-Also friendly and still missing: the old man clone, and the old man clone's robot.
+Also friendly and still missing: the old man clone, the old man clone's robot, and the old man of the former Verdauf guards who built the Defense Bot.
+
+And one who is missing in the ordinary sense rather than the narrative one: the Ancient's brother, looked for over twenty years.
 
 ### The shadow wars
 
@@ -1555,6 +1567,18 @@ He will take the mantle one day.
 *Connections:* Apprentice to The Red Ninja
 
 *Tags:* ninja, apprentice, successor, nearly-trained
+
+### 113. The Ancient
+
+**Alignment:** good · **Role:** Elder · **Figure:** custom
+
+He predates the Lego civilization entirely. He was here before any of it, he is wisely respected, and he helped the whole thing grow into what it became.
+
+He had a brother. The brother disappeared completely, and the search for him has been running for twenty years. It is not likely now that he will ever be found.
+
+*How it was got:* Originally just a Tonka truck figure — not a Lego piece at all, and the oldest thing in the collection. The twenty-year search is a real one.
+
+*Tags:* ancient, pre-lego, tonka, wisdom, elder, lost-brother, not-lego
 
 ---
 

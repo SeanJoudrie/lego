@@ -9,6 +9,21 @@
 window.LORE = [
 
   {
+    title: "Before any of it",
+    text:
+      "Something was here before the Lego civilization, and it was not Lego. " +
+      "An ancient figure out of a Tonka set, respected as a source of wisdom, " +
+      "who helped the whole civilization grow into what it became.\n\n" +
+      "That makes a third kind of not-Lego, and the oldest. The knock-off " +
+      "societies would go to war. The Bin is where the pieces that save people " +
+      "come from. And this one was simply here first.\n\n" +
+      "It also leaves a question open. The First Man is the first man to exist, " +
+      "and this one was already here when he arrived.\n\n" +
+      "He had a brother. The brother is gone, and has been looked for, in the " +
+      "real world, for twenty years."
+  },
+
+  {
     title: "Worlds, and visiting them",
     text:
       "Every person's collection is its own world. It's a shared universe, but " +
@@ -196,8 +211,11 @@ window.LORE = [
       "The famous Nexo Knight — the one with the spectacular sword, who turned " +
       "out to be a villain, and in whose shadow the modest one has spent his " +
       "whole career.\n\n" +
-      "Also friendly and still missing: the old man clone, and the old man " +
-      "clone's robot."
+      "Also friendly and still missing: the old man clone, the old man clone's " +
+      "robot, and the old man of the former Verdauf guards who built the " +
+      "Defense Bot.\n\n" +
+      "And one who is missing in the ordinary sense rather than the " +
+      "narrative one: the Ancient's brother, looked for over twenty years."
   },
 
   {
