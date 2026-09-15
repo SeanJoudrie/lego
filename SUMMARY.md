@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-416 characters from a custom LEGO minifigure world, in the order they were
+420 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4755,6 +4755,46 @@ Elizabeth Swann.
 Looked her up: this is Elizabeth Swann from set 4181, Isla De La Muerta, 2011. The medallion is not jewellery - it is one of the cursed Aztec coins, which is the whole reason the first film happens to her.
 
 *Tags:* pirates-of-the-caribbean, elizabeth-swann, gown, cursed-gold, branded
+
+### 417. Luna Lovegood
+
+**Alignment:** good · **Role:** Student · **Figure:** branded
+
+Luna Lovegood.
+
+*How it was got:* Pale blonde hair, a crooked smile, and one eye drawn wide where the other is not. Navy jumper printed all over with pink radishes, bright pink trousers, red boots. Carries a wand.
+
+*Tags:* harry-potter, student, ravenclaw, wand, radishes, branded
+
+### 418. Max Rebo
+
+**Alignment:** good · **Role:** Musician · **Figure:** branded
+
+Max Rebo, a keyboard player.
+
+*How it was got:* One moulded pale blue piece for the whole head - a heavy trunk down the front, two broad flaps hanging either side, and round black eyes with white pupils. Pale blue arms, hands and legs under it.
+
+*Tags:* star-wars, ortolan, musician, alien, blue, branded
+
+### 419. Woody — Two figures
+
+**Alignment:** good · **Figure:** branded
+
+Woody, a pull-string cowboy doll.
+
+*How it was got:* Two figures of the same man, built completely differently. One is an ordinary minifigure - flat printed face under the brim, yellow arms, blue legs with brown boots. The other has a fully sculpted head with a long jaw, a moulded nose and brown eyes, which makes him read as a person where the first reads as a minifigure. Both wear the cow-print waistcoat, the yellow plaid shirt and the sheriff star.
+
+*Tags:* toy-story, cowboy, sheriff, doll, branded
+
+### 420. Buzz Lightyear
+
+**Alignment:** good · **Role:** Space Ranger · **Figure:** branded
+
+Buzz Lightyear, a Space Ranger. Also a toy.
+
+*How it was got:* Purple hood over a white face with a curl of hair printed on it, under a clear domed helmet. Green and white suit with a lit control panel at the chest, and a pair of wings spread out behind him, striped red and white at the tips.
+
+*Tags:* toy-story, space-ranger, wings, helmet, doll, branded
 
 ---
 

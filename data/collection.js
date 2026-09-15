@@ -10993,6 +10993,113 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "luna-lovegood",
+    name: "Luna Lovegood",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Harry Potter",
+    rank: "",
+    role: "Student",
+    group: "Hogwarts",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Luna Lovegood.",
+    provenance:
+      "Pale blonde hair, a crooked smile, and one eye drawn wide where the " +
+      "other is not. Navy jumper printed all over with pink radishes, bright " +
+      "pink trousers, red boots. Carries a wand.",
+    tags: ["harry-potter", "student", "ravenclaw", "wand", "radishes", "branded"],
+    images: ["images/luna-lovegood-01.jpg"],
+    acquired: "",
+    notes: "Sixth in the Hogwarts group, and the first of them holding a wand - Harry, Neville and Fred all arrived empty-handed. Her jumper is printed with radishes, which is not a mistake."
+  },
+
+
+  {
+    id: "max-rebo",
+    name: "Max Rebo",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Musician",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Max Rebo, a keyboard player.",
+    provenance:
+      "One moulded pale blue piece for the whole head - a heavy trunk down " +
+      "the front, two broad flaps hanging either side, and round black eyes " +
+      "with white pupils. Pale blue arms, hands and legs under it.",
+    tags: ["star-wars", "ortolan", "musician", "alien", "blue", "branded"],
+    images: ["images/max-rebo-01.jpg"],
+    acquired: "",
+    notes: "First musician in the Star Wars corner, and only the fourth in the whole collection after the Bard, the Rap Star and the Ferryman. Thirty-seven Star Wars figures now and he is the only one whose job is playing an instrument."
+  },
+
+
+  {
+    id: "woody",
+    name: "Woody",
+    variant: "Two figures",
+    faction: "good",
+    origin: "branded",
+    theme: "Toy Story",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Woody, a pull-string cowboy doll.",
+    provenance:
+      "Two figures of the same man, built completely differently. One is an " +
+      "ordinary minifigure - flat printed face under the brim, yellow arms, " +
+      "blue legs with brown boots. The other has a fully sculpted head with " +
+      "a long jaw, a moulded nose and brown eyes, which makes him read as a " +
+      "person where the first reads as a minifigure. Both wear the cow-print " +
+      "waistcoat, the yellow plaid shirt and the sheriff star.",
+    tags: ["toy-story", "cowboy", "sheriff", "doll", "branded"],
+    images: [
+      { src: "images/woody-01.jpg", caption: "The plain minifigure head" },
+      { src: "images/woody-02.jpg", caption: "The sculpted head" },
+    ],
+    acquired: "",
+    notes: "Opens a seventeenth theme. Two figures, one card - and the reason for the second photo is new again: not age, not moulding variation, but two different ideas of how much of a face a figure should have. He is also the fourth western figure here, after the Sheriff, the Outlaw and Cowboy Spider-Man, and the only one of the four who is a toy pretending to be a cowboy."
+  },
+
+
+  {
+    id: "buzz-lightyear",
+    name: "Buzz Lightyear",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Toy Story",
+    rank: "",
+    role: "Space Ranger",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Buzz Lightyear, a Space Ranger. Also a toy.",
+    provenance:
+      "Purple hood over a white face with a curl of hair printed on it, " +
+      "under a clear domed helmet. Green and white suit with a lit control " +
+      "panel at the chest, and a pair of wings spread out behind him, " +
+      "striped red and white at the tips.",
+    tags: ["toy-story", "space-ranger", "wings", "helmet", "doll", "branded"],
+    images: ["images/buzz-lightyear-01.jpg"],
+    acquired: "",
+    notes: "This collection is full of space forces - the Space Militia, the Space Police, Classic Space, the Royal Space Academy, Mars Mission, the Green Rangers - and he is the only spaceman in it who is not really one. Left ungrouped: he and Woody are two, and two is not an organisation by the rule the Winter Troopers and the dwarves set."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
