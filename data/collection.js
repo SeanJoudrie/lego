@@ -13311,7 +13311,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Invasion Leader",
-    group: "",
+    group: "The Martians",
     location: "",
     relations: [],
     rating: 0,
@@ -15808,7 +15808,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Captain",
-    group: "",
+    group: "The Evil Insects",
     location: "",
     relations: [],
     rating: 0,
@@ -18662,7 +18662,7 @@ window.COLLECTION = [
       { src: "images/the-sting-rays-02.jpg", caption: "Six of them" }
     ],
     acquired: "",
-    notes: "One entry, solo shot first and the group behind it, the way the Shadow Troopers are done.\n\nThey arrive as a going concern, which is rare here. Most units in this collection turned up as a name with nobody in it - the alien mercenaries nobody had photographed, the militia with a school and one member, the Insect Captain's evil insects. This one arrives the other way round: six soldiers, a squad leader and a head of state, all in one batch, with the ranks already told apart by the colour of the legs. Red for the ranks, brown for the leader, green for the chancellor.\n\nTwo things are not written down and are not being guessed. You did not say which side they are on; they are filed as enemies because that is where the last several batches have been landing, and it is a one-word fix if that is wrong. And the Insect Captain is sitting one deck over with a card that says he is in charge of the evil insects, that the insects have not been photographed, and that no group would be made until there was somebody to put in it. These have an insect printed across the chest. If they are his, say so, and a card that has been empty since it was written finally has an army under it."
+    notes: "One entry, solo shot first and the group behind it, the way the Shadow Troopers are done.\n\nThey arrive as a going concern, which is rare here. Most units in this collection turned up as a name with nobody in it - the alien mercenaries nobody had photographed, the militia with a school and one member, the Insect Captain's evil insects. This one arrives the other way round: six soldiers, a squad leader and a head of state, all in one batch, with the ranks already told apart by the colour of the legs. Red for the ranks, brown for the leader, green for the chancellor.\n\nOne thing is still open. The Insect Captain is sitting one deck over with a card that says he is in charge of the evil insects, that the insects have not been photographed, and that no group would be made until there was somebody to put in it. These have an insect printed across the chest. If they are his, say so, and a card that has been empty since it was written finally has an army under it."
   },
 
   {
@@ -18719,6 +18719,127 @@ window.COLLECTION = [
     images: ["images/the-supreme-chancellor-01.jpg"],
     acquired: "",
     notes: "Supreme Chancellor is a job nobody in this world has held. Twelve figures here carry a ruling title and they are all crowns and conquest - six kings, two queens, a dictator, a governor, an emperor and an elected king. This is the first one that sounds like an office rather than a throne, and it is on the villain side.\n\nHe is also the only Sting Ray with a face. Every soldier and the squad leader are sealed into a moulded helmet with printed eyes; the man in charge of them took his off, and what is underneath is a yellow face with red eyes and scars drawn back from both of them. Green legs where the ranks wear red and the leader wears brown, so the whole chain of command in this unit is legible from the knees down.\n\nThe Outcast Prince is the only other figure here whose title says he was put there rather than born there - he is an Elected King, on the good side. Nothing is written between them."
+  },
+
+  {
+    id: "the-evil-bug",
+    name: "The Evil Bug",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "The Evil Insects",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An evil bug.",
+    provenance:
+      "A moulded olive head with a star-shaped plate across the face, two " +
+      "black pitted compound eyes bulging either side of it, and a long " +
+      "tapered snout hanging down over the chest. Two transparent yellow-green " +
+      "wings stand out behind the shoulders. Olive arms with dark red hands, " +
+      "one pale and one dark. The torso and legs are printed all over as a " +
+      "body rather than as clothing - a ribbed red abdomen, pale plating " +
+      "spread either side of it, red markings down the thighs. He is not " +
+      "wearing anything. That is him.",
+    tags: ["villain", "insect", "bug", "wings", "moulded", "custom", "olive"],
+    images: ["images/the-evil-bug-01.jpg"],
+    acquired: "",
+    notes: "The Insect Captain has an insect. His card was written with the line that he is captain of the evil insects and in charge of them, that the insects he commands had never been photographed, and - in as many words - that no group would be made until there was somebody to put in it. There is somebody now, so the group exists: The Evil Insects, two of them, the captain and the bug.\n\nThat is a group made on the card's own instruction rather than on a guess, which is worth saying out loud because the Sting Rays arrived in the batch before this one with an insect printed across the chest and were deliberately not put in it. An emblem is a badge; this is an animal. If the Sting Rays belong in here too, say so and they join.\n\nHe is also the second creature on the villain side that is simply an animal rather than a person, after the Wampa. Nobody sent the wampa either."
+  },
+
+  {
+    id: "the-martians",
+    name: "The Martians",
+    variant: "Three of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Martians",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Three Martians. The army their leader took into Lego City.",
+    provenance:
+      "Three of them, and the heads are not all the same mould. Two are " +
+      "photographed together: bright green heads with a heavy underslung jaw " +
+      "and four white fangs standing up out of it, four black eyes set in two " +
+      "pairs, and a small ridged crest at the crown. The third stands alone " +
+      "and is sharper - the whole head drawn to a point, the jaw flat and the " +
+      "fangs smaller, two long black eyes swept back along the sides.\n\n" +
+      "The bodies match across all three: magenta arms going down to green " +
+      "hands, and black torsos and legs printed with pink vent bars, silver " +
+      "plating and a control panel at the waist. One of the three has more " +
+      "silver worked into the chest than the others.",
+    tags: ["villain", "martian", "alien", "invader", "fangs", "custom", "three-figures"],
+    images: [
+      { src: "images/the-martians-01.jpg", caption: "Two of them" },
+      { src: "images/the-martians-02.jpg", caption: "The third, a different head" }
+    ],
+    acquired: "",
+    notes: "The Martian Leader has his army. His card says he led an army of Martian aliens in an invasion of Lego City, and that army has never been on the shelf until now. They are in a group with him on the strength of his own card and your own word for them - Martians, and the man who leads Martians - and that is the reasoning, so it can be undone in one line if it is wrong.\n\nHis card also carries the thing this batch does not resolve. He is the only villain here who attacked Lego City itself rather than the wider world, which puts him against Lego City Law - eleven officers, the Commissioner, the Watch Commander and the Nightwatch Captain - and not one line has ever been written between him and any of them. The invasion now has troops and still has nobody on the other side of it.\n\nHe is also a Bionicle build and taller than everything else here, so the leader and his men do not look like the same species at all. If the army is meant to be a different thing from him, say so and the group comes apart."
+  },
+
+  {
+    id: "the-shark-warrior",
+    name: "The Shark Warrior",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An evil shark.",
+    provenance:
+      "A moulded shark head worn over the whole skull - dark grey across the " +
+      "top, pale underneath, a small eye printed at each side and a mouth of " +
+      "white teeth standing open across the front with the figure's own face " +
+      "nowhere in sight. A white torso and white legs printed with dark blue " +
+      "markings that curl like tattooing, the paint worn away in patches. One " +
+      "grey arm and one dark grey, grey hands.",
+    tags: ["villain", "shark", "sea", "creature", "moulded", "custom", "warrior"],
+    images: ["images/the-shark-warrior-01.jpg"],
+    acquired: "",
+    notes: "The sea has had one side of it for a very long time. Twelve people are catalogued in the Atlantis Dive Team: ten under the Young Leader, and two who turned - the Atlantis Traitor and the Former Dive Captain, who used to command them. There is a second, smaller dive team on top of that, three more. That is fifteen people in the water and, until now, nothing in the water with them.\n\nHe is not put in any group and no line is drawn to the dive team, because being somebody's enemy is not the same as knowing them, and nothing has been said about what he does or who he does it to. But he is the first thing in this collection that the divers would actually meet down there.\n\nThird creature on the villain side that is an animal rather than a person, after the Wampa and the Evil Bug in this same batch."
+  },
+
+  {
+    id: "the-blue-eyed-alien",
+    name: "The Blue-Eyed Alien",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An alien. Nothing else said about him yet.",
+    provenance:
+      "A moulded dark green head with a ridged crown, two pointed ears swept " +
+      "back and three small horns standing up off the top. The face is picked " +
+      "out in pale blue - two round blue eyes with black pupils, a blue muzzle " +
+      "and a blue sheen over the brow - against green everywhere else. A green " +
+      "torso, arms, hands and legs, with a ribcage printed faintly across the " +
+      "chest in darker green: bones, drawn on the outside.",
+    tags: ["villain", "alien", "green", "horns", "moulded", "ribcage", "custom"],
+    images: ["images/the-blue-eyed-alien-01.jpg"],
+    acquired: "",
+    notes: "Named for his face because nothing else about him has been said yet - green is not enough to go on when this collection already holds an alien farmer, a four-armed alien, a bionic alien, an alien racer, a lead mercenary, a militia commander, five alien soldiers and four goons. The blue is the part nobody else has.\n\nWhich makes him a sixth alien body on that side with nothing written between him and the other five. The catalogue has kept mercenaries, a militia, the Alien Soldiers, the Alien Goons and the Grey Alien Soldier apart because nothing in the world joined them up, and he goes on the same shelf of open doors. One ruling would collapse most of it.\n\nThe ribcage is the odd detail. It is printed on the outside of him, over the chest, the way the Damaged carry their damage on the plastic - except nothing here says he was hurt. It may just be how his species is built."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
