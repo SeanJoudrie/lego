@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-266 characters from a custom LEGO minifigure world, in the order they were
+271 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3181,6 +3181,56 @@ Which is why going to war is not the terrible matter it would be elsewhere, and 
 *How it was got:* Red and blue royal surcoat with a crowned lion, and a matching shield.
 
 *Tags:* knight, royal-knights, medieval, respawn, lion, popular
+
+### 267. The Royal Archer Commander
+
+**Alignment:** good · **Role:** Archer Commander · **Based:** The Medieval Era · **Figure:** custom
+
+Commander of the royal archers.
+
+*How it was got:* Kettle helm with a mail coif under it, ginger beard, lion surcoat.
+
+*Tags:* knight, archer, commander, medieval, royal-knights
+
+### 268. The Helmed Swordsman
+
+**Alignment:** good · **Role:** Swordsman · **Based:** The Medieval Era · **Figure:** custom
+
+A swordsman of the Royal Knights.
+
+*How it was got:* Kettle helm and plain navy legs - the only one of the three swordsmen wearing a helmet.
+
+*Tags:* knight, swordsman, medieval, royal-knights, helmet
+
+### 269. The Mace Knight
+
+**Alignment:** good · **Role:** Mace Knight · **Based:** The Medieval Era · **Figure:** custom
+
+A Royal Knight. He fights with a mace.
+
+*How it was got:* Black visored helm and light grey legs.
+
+*Tags:* knight, mace, medieval, royal-knights, visor
+
+### 270. The Dark-Haired Swordsman
+
+**Alignment:** good · **Role:** Swordsman · **Based:** The Medieval Era · **Figure:** custom
+
+A swordsman of the Royal Knights.
+
+*How it was got:* No helmet at all, black hair, the full surcoat and skirt.
+
+*Tags:* knight, swordsman, medieval, royal-knights, bareheaded
+
+### 271. The Swordmaster
+
+**Alignment:** good · **Role:** Swordmaster · **Based:** The Medieval Era · **Figure:** custom
+
+A swordsman of the Royal Knights, and a mentor to them.
+
+*How it was got:* Bareheaded, brown hair going grey in the beard.
+
+*Tags:* knight, swordsman, mentor, teacher, medieval, royal-knights
 
 ---
 

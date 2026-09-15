@@ -7163,6 +7163,118 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-royal-archer-commander",
+    name: "The Royal Archer Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Archer Commander",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "Commander of the royal archers.",
+    provenance: "Kettle helm with a mail coif under it, ginger beard, lion surcoat.",
+    tags: ["knight", "archer", "commander", "medieval", "royal-knights"],
+    images: ["images/the-royal-archer-commander-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The only one of the Royal Knights who commands anything, and the only archer among them - everybody else here is close work."
+  },
+
+
+  {
+    id: "the-helmed-swordsman",
+    name: "The Helmed Swordsman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Swordsman",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "A swordsman of the Royal Knights.",
+    provenance: "Kettle helm and plain navy legs - the only one of the three swordsmen wearing a helmet.",
+    tags: ["knight", "swordsman", "medieval", "royal-knights", "helmet"],
+    images: ["images/the-helmed-swordsman-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive - three swordsmen arrived together and the helmet is what separates this one."
+  },
+
+
+  {
+    id: "the-mace-knight",
+    name: "The Mace Knight",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Mace Knight",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "A Royal Knight. He fights with a mace.",
+    provenance: "Black visored helm and light grey legs.",
+    tags: ["knight", "mace", "medieval", "royal-knights", "visor"],
+    images: ["images/the-mace-knight-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The only Royal Knight here not carrying a blade."
+  },
+
+
+  {
+    id: "the-dark-haired-swordsman",
+    name: "The Dark-Haired Swordsman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Swordsman",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "A swordsman of the Royal Knights.",
+    provenance: "No helmet at all, black hair, the full surcoat and skirt.",
+    tags: ["knight", "swordsman", "medieval", "royal-knights", "bareheaded"],
+    images: ["images/the-dark-haired-swordsman-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, paired against the Swordmaster, who is also bareheaded but grey in the beard."
+  },
+
+
+  {
+    id: "the-swordmaster",
+    name: "The Swordmaster",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Swordmaster",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background:
+      "A swordsman of the Royal Knights, and a mentor to them.",
+    provenance: "Bareheaded, brown hair going grey in the beard.",
+    tags: ["knight", "swordsman", "mentor", "teacher", "medieval", "royal-knights"],
+    images: ["images/the-swordmaster-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, chosen because it holds both halves of what you said - he fights and he teaches. No link written to any particular student; the order already shows him to all of them. He joins a long line here: the Instructor, the Chef, the Rebuilt, the Blue-Haired Ninja, the Ferryman and the Occultist all teach somebody."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
