@@ -240,3 +240,12 @@ phones hold them a good deal longer, so without the stamp a browser that has
 been to the site recently keeps showing the old figure count after a deploy.
 The query string works over `file://` as well, so the catalogue still opens
 straight off disk.
+
+## The plates
+
+`data/featured.js` holds the short hand-picked run that sits above the grid -
+`{ id, why }` per entry, where `id` matches a figure in `collection.js` and
+`why` is the line printed under the plate. Edit it freely; an id that does not
+exist is skipped rather than breaking the page. The strip hides itself as soon
+as you search or filter, because at that point you are looking for something
+specific rather than browsing.

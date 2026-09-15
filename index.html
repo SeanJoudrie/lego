@@ -6,80 +6,145 @@
 <title>The Collection</title>
 <style>
   :root {
-    --bg:#12141a; --panel:#191c24; --panel-2:#212632; --line:#2c3140;
-    --text:#e7e9ef; --dim:#9299ab; --faint:#666e82;
-    --good:#4da3ff; --bad:#ff5f56; --neutral:#b28cff;
-    --gold:#ffc531; --accent:#ffc531;
-    --radius:12px;
+    /* A codex: aged paper, brown ink, a little gilt. */
+    --bg:#ddceb0; --page:#f0e7d3; --panel:#f6efdf; --panel-2:#e6dac1;
+    --line:#c3ad86; --line-soft:#d8c8a8;
+    --text:#2f2417; --dim:#6d5c43; --faint:#95805e;
+    --good:#3f6b48; --bad:#96302a; --neutral:#5f4585;
+    --gold:#9a7320; --accent:#8a4527;
+    --radius:4px;
   }
   * { box-sizing:border-box; }
-  [hidden] { display:none !important; }   /* beats .controls{display:flex} */
+  [hidden] { display:none !important; }   /* beats .controls{display:grid} */
   body {
-    margin:0; background:var(--bg); color:var(--text);
-    font:15px/1.55 ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin:0; color:var(--text);
+    background:var(--bg);
+    font:16px/1.6 "Iowan Old Style", "Palatino Linotype", Palatino, Georgia,
+         "Times New Roman", serif;
     -webkit-font-smoothing:antialiased;
   }
-  .wrap { max-width:1400px; margin:0 auto; padding:28px 20px 80px; }
+  /* The page itself: a sheet of paper laid on the board, with a faint tooth to
+     it. Both layers are gradients, so there is no image to load. */
+  .wrap {
+    background:
+      repeating-linear-gradient(94deg, rgba(120,95,60,.030) 0 2px, transparent 2px 5px),
+      repeating-linear-gradient(6deg, rgba(120,95,60,.022) 0 3px, transparent 3px 7px),
+      var(--page);
+    border-left:1px solid var(--line-soft); border-right:1px solid var(--line-soft);
+    box-shadow:0 0 0 1px rgba(90,70,45,.06), 0 18px 60px rgba(60,44,26,.18);
+  }
+  h1, h2, h3, .info h2, .lore h2 { font-weight:600; }
+  .wrap { max-width:1400px; margin:0 auto; padding:34px 28px 90px; }
 
   /* ---------- header ---------- */
-  header { display:flex; align-items:baseline; gap:14px; flex-wrap:wrap; margin-bottom:22px; }
-  h1 { font-size:26px; margin:0; letter-spacing:-.02em; }
-  .count { color:var(--faint); font-size:13px; }
+  header {
+    display:flex; align-items:baseline; gap:16px; flex-wrap:wrap;
+    border-bottom:2px solid var(--line); padding-bottom:14px; margin-bottom:18px;
+  }
+  h1 { font-size:30px; margin:0; letter-spacing:.01em; }
+  .count { color:var(--faint); font-size:13px; font-variant-numeric:tabular-nums; }
   .lorebtn { margin-left:auto; background:var(--panel); border:1px solid var(--line);
-             color:var(--dim); border-radius:8px; padding:7px 13px;
-             font:inherit; font-size:13px; cursor:pointer; }
-  .lorebtn:hover { border-color:var(--accent); color:var(--text); }
+             color:var(--dim); border-radius:var(--radius); padding:8px 14px;
+             font:inherit; font-size:13px; cursor:pointer;
+             letter-spacing:.05em; text-transform:uppercase; }
+  .lorebtn:hover { border-color:var(--accent); color:var(--accent); background:var(--panel-2); }
   .lore { padding:26px 30px 30px; max-width:640px; }
   .lore h2 { margin:0 0 20px; font-size:22px; letter-spacing:-.01em; }
   .lore section { margin-bottom:22px; }
-  .lore h3 { margin:0 0 6px; font-size:14px; color:var(--accent); font-weight:600; }
-  .lore p { margin:0; color:#c8cddb; white-space:pre-wrap; font-size:14px; }
+  .lore h3 { margin:0 0 6px; font-size:15px; color:var(--accent); font-weight:600; }
+  .lore p { margin:0; color:var(--text); white-space:pre-wrap; font-size:15px; }
 
   /* ---------- controls ---------- */
-  .bar { display:flex; gap:10px; align-items:center; margin-bottom:12px; }
-  .toggle {
+  .bar { display:flex; gap:9px; align-items:center; margin-bottom:12px; flex-wrap:wrap; }
+  .bar .search { flex:1 1 240px; }
+  .bar select { flex:0 0 auto; width:auto; max-width:200px; }
+  .toggle, .shuffle {
     flex:0 0 auto; background:var(--panel); border:1px solid var(--line); color:var(--dim);
-    border-radius:8px; padding:9px 14px; font:inherit; font-size:13px; cursor:pointer;
-    white-space:nowrap;
+    border-radius:var(--radius); padding:9px 14px; font:inherit; font-size:13px;
+    cursor:pointer; white-space:nowrap; letter-spacing:.04em;
   }
-  .toggle:hover { color:var(--text); border-color:var(--accent); }
+  .toggle:hover, .shuffle:hover { color:var(--accent); border-color:var(--accent); background:var(--panel-2); }
   .toggle[aria-expanded="true"] { background:var(--panel-2); color:var(--text); }
-  .toggle.on { border-color:var(--accent); color:var(--accent); }
-  .clear { background:none; border:0; color:var(--faint); font:inherit; font-size:12px;
-           cursor:pointer; text-decoration:underline; padding:8px 4px; }
-  .clear:hover { color:var(--text); }
+  .toggle.on { border-color:var(--accent); color:var(--accent); background:var(--panel-2); }
+  .clear { background:none; border:0; color:var(--faint); font:inherit; font-size:12.5px;
+           cursor:pointer; text-decoration:underline; padding:8px 4px; justify-self:start; }
+  .clear:hover { color:var(--accent); }
+
+  /* One labelled cell per control, in as many columns as fit. Keeps the panel
+     to two or three tidy rows instead of a wall of loose dropdowns. */
   .controls {
-    display:flex; gap:10px; flex-wrap:wrap; align-items:center;
+    display:grid; gap:12px 14px;
+    grid-template-columns:repeat(auto-fit, minmax(165px, 1fr));
     background:var(--panel); border:1px solid var(--line);
-    border-radius:var(--radius); padding:12px; margin-bottom:22px;
+    border-radius:var(--radius); padding:14px 15px 15px; margin-bottom:22px;
+    box-shadow:inset 0 1px 0 rgba(255,255,255,.5);
   }
+  .fld { display:flex; flex-direction:column; gap:5px; min-width:0; }
+  .fld > span { font-size:10.5px; letter-spacing:.11em; text-transform:uppercase;
+                color:var(--faint); font-weight:600; }
   .search {
-    flex:1 1 auto; min-width:0;
-    background:var(--panel-2); border:1px solid var(--line); color:var(--text);
-    border-radius:8px; padding:8px 11px; font:inherit; font-size:14px;
+    flex:1 1 220px; min-width:0;
+    background:var(--panel); border:1px solid var(--line); color:var(--text);
+    border-radius:var(--radius); padding:9px 12px; font:inherit; font-size:15px;
   }
   .search::placeholder { color:var(--faint); }
   .search:focus, select:focus { outline:2px solid var(--accent); outline-offset:-1px; }
   select {
     background:var(--panel-2); border:1px solid var(--line); color:var(--text);
-    border-radius:8px; padding:8px 9px; font:inherit; font-size:13px;
+    border-radius:var(--radius); padding:8px 9px; font:inherit; font-size:13.5px;
+    width:100%; min-width:0;
   }
-  .seg { display:flex; border:1px solid var(--line); border-radius:8px; overflow:hidden; }
+  .seg { display:flex; border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; }
   .seg button {
-    background:var(--panel-2); border:0; border-right:1px solid var(--line);
-    color:var(--dim); padding:8px 13px; font:inherit; font-size:13px; cursor:pointer;
+    flex:1 1 0; background:var(--panel-2); border:0; border-right:1px solid var(--line);
+    color:var(--dim); padding:8px 10px; font:inherit; font-size:13px; cursor:pointer;
+    white-space:nowrap;
   }
   .seg button:last-child { border-right:0; }
-  .seg button:hover { color:var(--text); }
-  .seg button[aria-pressed="true"] { background:var(--accent); color:#1a1a1a; font-weight:600; }
+  .seg button:hover { color:var(--accent); }
+  .seg button[aria-pressed="true"] { background:var(--accent); color:var(--panel); font-weight:600; }
 
   /* ---------- density control ---------- */
   .dens { display:flex; align-items:center; gap:8px; flex:0 0 auto;
           background:var(--panel); border:1px solid var(--line);
-          border-radius:8px; padding:6px 11px; }
+          border-radius:var(--radius); padding:6px 11px; }
   .dens input[type=range] { width:96px; accent-color:var(--accent); }
   .dens b { color:var(--dim); font-size:12px; font-weight:600; min-width:1.2em;
             text-align:center; font-variant-numeric:tabular-nums; }
+
+  /* ---------- plates: the hand-picked run at the top ---------- */
+  .plates { margin-bottom:26px; }
+  .plates > h2 {
+    font-size:12px; letter-spacing:.14em; text-transform:uppercase; color:var(--faint);
+    margin:0 0 2px; font-weight:600;
+    display:flex; align-items:baseline; justify-content:space-between; gap:12px;
+  }
+  .plates > h2 em { font-style:italic; font-size:12.5px; letter-spacing:0;
+                    text-transform:none; color:var(--faint); font-weight:400; }
+  .plates .strip {
+    display:flex; align-items:flex-start; gap:14px; overflow-x:auto; padding:12px 2px 14px;
+    border-top:1px solid var(--line); border-bottom:2px solid var(--line);
+    scroll-snap-type:x proximity; scrollbar-width:thin;
+  }
+  .plate {
+    flex:0 0 172px; scroll-snap-align:start;
+    background:none; border:0; padding:0; font:inherit; color:inherit;
+    cursor:pointer; text-align:left;
+  }
+  .plate .frame {
+    display:block; aspect-ratio:4/5; position:relative; overflow:hidden;
+    background:var(--panel-2); border:1px solid var(--line); border-radius:var(--radius);
+    box-shadow:0 2px 0 rgba(120,95,60,.18);
+  }
+  .plate .frame img { position:absolute; inset:0; width:100%; height:100%;
+                      object-fit:cover; object-position:50% 12%; }
+  .plate .frame img.wide { object-fit:contain; object-position:50% 50%; }
+  .plate b { display:block; font-size:14px; font-weight:600; margin:9px 0 2px; line-height:1.25; }
+  .plate i { display:block; font-style:italic; font-size:12.5px; line-height:1.4;
+             color:var(--dim); }
+  .plate:hover .frame { border-color:var(--accent); }
+  .plate:hover b { color:var(--accent); }
+  .plate:focus-visible .frame { outline:2px solid var(--accent); outline-offset:2px; }
 
   /* ---------- grid ---------- */
   .grid {
@@ -97,7 +162,7 @@
   .grid.small .card .variant, .grid.small .row,
   .grid.small .custom-tag, .grid.small .theme-tag { display:none; }
   .grid.tiny .meta, .grid.tiny .custom-tag, .grid.tiny .theme-tag { display:none; }
-  .grid.tiny .flag { width:7px; height:7px; top:5px; left:5px; box-shadow:0 0 0 2px rgba(0,0,0,.5); }
+  .grid.tiny .flag { width:7px; height:7px; top:5px; left:5px; box-shadow:0 0 0 2px rgba(246,239,223,.85); }
 
   /* A full-width rule across the grid where the living stop and the lost
      begin, with the label sitting under the line. */
@@ -117,7 +182,8 @@
     overflow:hidden; cursor:pointer; text-align:left; padding:0; color:inherit; font:inherit;
     display:flex; flex-direction:column; transition:border-color .12s, transform .12s;
   }
-  .card:hover { border-color:var(--accent); transform:translateY(-2px); }
+  .card:hover { border-color:var(--accent); transform:translateY(-2px);
+                box-shadow:0 4px 10px rgba(90,70,45,.16); }
   .card:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
   .shot {
     aspect-ratio:4/5; background:var(--panel-2); position:relative;
@@ -131,15 +197,16 @@
   .shot .empty { color:var(--faint); font-size:12px; letter-spacing:.08em; }
   .flag {
     position:absolute; top:8px; left:8px; width:9px; height:9px; border-radius:50%;
-    box-shadow:0 0 0 3px rgba(0,0,0,.45);
+    box-shadow:0 0 0 3px rgba(246,239,223,.85);
   }
   .flag.good { background:var(--good); }
   .flag.bad { background:var(--bad); }
   .flag.neutral { background:var(--neutral); }
   .custom-tag, .theme-tag {
-    position:absolute; top:8px; right:8px; background:rgba(0,0,0,.7);
+    position:absolute; top:8px; right:8px;
+    background:rgba(246,239,223,.92); border:1px solid var(--line);
     font-size:10px; letter-spacing:.05em; font-weight:600;
-    padding:3px 6px; border-radius:5px; max-width:calc(100% - 14px);
+    padding:2px 6px; border-radius:3px; max-width:calc(100% - 14px);
     overflow:hidden; text-overflow:ellipsis; white-space:nowrap;
   }
   .custom-tag { color:var(--accent); }
@@ -151,35 +218,38 @@
   .theme { color:var(--faint); font-size:11px; text-transform:uppercase; letter-spacing:.06em;
            overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
   .stars { color:var(--gold); font-size:12px; letter-spacing:1px; white-space:nowrap; }
-  .stars .off { color:#3a4052; }
+  .stars .off { color:var(--line); }
 
   .none { color:var(--faint); text-align:center; padding:70px 20px; }
 
   /* ---------- detail ---------- */
   dialog {
     background:var(--panel); color:var(--text); border:1px solid var(--line);
-    border-radius:14px; padding:0; max-width:820px; width:calc(100% - 32px);
+    border-radius:var(--radius); padding:0; max-width:820px; width:calc(100% - 32px);
     max-height:88vh; overflow:auto;
+    box-shadow:0 26px 70px rgba(50,36,20,.45);
   }
-  dialog::backdrop { background:rgba(0,0,0,.75); }
+  dialog::backdrop { background:rgba(46,34,18,.62); }
   dialog { transition:transform .22s ease, opacity .22s ease; overscroll-behavior:contain; }
   dialog.dragging { transition:none; }
   .grab { display:none; }
   .stepbar { display:flex; align-items:center; gap:10px; margin-top:18px;
              border-top:1px solid var(--line); padding-top:14px; }
   .stepbtn { flex:1 1 0; background:var(--panel-2); border:1px solid var(--line);
-             color:var(--dim); border-radius:8px; padding:10px 8px;
+             color:var(--dim); border-radius:var(--radius); padding:10px 8px;
              font:inherit; font-size:13px; cursor:pointer; }
   .stepbtn:hover { color:var(--text); border-color:var(--accent); }
   .pos { color:var(--faint); font-size:11.5px; white-space:nowrap;
          font-variant-numeric:tabular-nums; }
   .detail { display:grid; grid-template-columns:300px 1fr; gap:0; }
-  .gallery { background:var(--panel-2); padding:18px; }
-  .gallery .main { width:100%; border-radius:8px; display:block; background:#0d0f14; }
+  .gallery { background:var(--panel-2); padding:18px;
+             border-right:1px solid var(--line); }
+  .gallery .main { width:100%; border-radius:var(--radius); display:block;
+                   background:var(--panel); border:1px solid var(--line); }
   .gallery .main.empty { aspect-ratio:4/5; display:flex; align-items:center;
                          justify-content:center; color:var(--faint); font-size:12px; }
   .thumbs { display:flex; gap:6px; margin-top:8px; flex-wrap:wrap; }
-  .thumbs img { width:48px; height:48px; object-fit:cover; border-radius:5px;
+  .thumbs img { width:48px; height:48px; object-fit:cover; border-radius:3px;
                 cursor:pointer; border:2px solid transparent; }
   .thumbs img[data-on="1"] { border-color:var(--accent); }
   .info { padding:22px 24px 26px; }
@@ -193,25 +263,26 @@
   .badge.neutral { color:var(--neutral); border-color:color-mix(in srgb, var(--neutral) 40%, transparent); }
   .badge.custom { color:var(--accent); border-color:color-mix(in srgb, var(--accent) 40%, transparent); }
   .info .stars { font-size:15px; margin-bottom:16px; }
-  .bg { color:#c8cddb; white-space:pre-wrap; margin-bottom:18px; }
+  .bg { color:var(--text); white-space:pre-wrap; margin-bottom:18px; }
   .bg:empty { display:none; }
-  .badge.rank { color:#7fe0a8; border-color:rgba(127,224,168,.4); }
-  .badge.role { color:#ffb3d1; border-color:rgba(255,179,209,.4); }
-  .badge.loc  { color:#8fc9ff; border-color:rgba(143,201,255,.4); }
-  .badge.grp  { color:#ffd98f; border-color:rgba(255,217,143,.4); }
+  .badge.rank { color:#3f6b48; border-color:rgba(63,107,72,.45); }
+  .badge.role { color:#8a4527; border-color:rgba(138,69,39,.45); }
+  .badge.loc  { color:#3c5f7d; border-color:rgba(60,95,125,.45); }
+  .badge.grp  { color:#7a5a12; border-color:rgba(122,90,18,.45); }
   .prov { border-left:2px solid var(--line); padding-left:12px; margin-bottom:18px;
           color:var(--dim); font-size:13.5px; white-space:pre-wrap; }
   .prov h4 { margin:0 0 3px; font-size:11px; letter-spacing:.09em; text-transform:uppercase;
              color:var(--faint); font-weight:600; }
   .stage { position:relative; }
   .nav { position:absolute; top:50%; left:6px; transform:translateY(-50%);
-         background:rgba(0,0,0,.62); border:1px solid var(--line); color:var(--text);
-         width:30px; height:46px; border-radius:6px; cursor:pointer;
+         background:rgba(246,239,223,.92); border:1px solid var(--line); color:var(--text);
+         width:30px; height:46px; border-radius:var(--radius); cursor:pointer;
          font-size:20px; line-height:1; padding:0; }
   .nav.next { left:auto; right:6px; }
-  .nav:hover { background:rgba(0,0,0,.88); border-color:var(--accent); }
-  .counter { position:absolute; right:8px; bottom:8px; background:rgba(0,0,0,.68);
-             color:var(--dim); font-size:11px; padding:2px 8px; border-radius:10px; }
+  .nav:hover { background:var(--panel); border-color:var(--accent); color:var(--accent); }
+  .counter { position:absolute; right:8px; bottom:8px; background:rgba(246,239,223,.9);
+             border:1px solid var(--line);
+             color:var(--dim); font-size:11px; padding:1px 8px; border-radius:3px; }
   .cap { color:var(--dim); font-size:12px; text-align:center; margin-top:7px; min-height:1em; }
   .rel { margin-bottom:18px; }
   .rel h4 { margin:0 0 6px; font-size:11px; letter-spacing:.09em; text-transform:uppercase;
@@ -221,7 +292,7 @@
           text-align:center; font:inherit; }
   .minishot { display:block; width:78px; aspect-ratio:4/5; position:relative;
               background:var(--panel-2); border:1px solid var(--line);
-              border-radius:8px; overflow:hidden; }
+              border-radius:var(--radius); overflow:hidden; }
   .minishot img { position:absolute; inset:0; width:100%; height:100%;
                   object-fit:cover; object-position:50% 12%; }
   .minishot img.wide { object-fit:contain; object-position:50% 50%; }
@@ -238,9 +309,9 @@
   .facts div { margin-bottom:5px; }
   .facts b { color:var(--text); font-weight:500; }
   .close { position:sticky; top:10px; float:right; margin:10px 10px 0 0; z-index:2;
-           background:rgba(0,0,0,.6); border:1px solid var(--line); color:var(--dim);
+           background:var(--panel); border:1px solid var(--line); color:var(--dim);
            width:30px; height:30px; border-radius:50%; cursor:pointer; font-size:16px; line-height:1; }
-  .close:hover { color:var(--text); }
+  .close:hover { color:var(--accent); border-color:var(--accent); }
 
   @media (max-width:640px) {
     .detail { grid-template-columns:1fr; }
@@ -251,6 +322,10 @@
     .close { margin-top:-30px; }
     .grid { grid-template-columns:repeat(3, 1fr); gap:9px; }
     .wrap { padding:20px 16px 60px; }
+    .gallery { border-right:0; border-bottom:1px solid var(--line); }
+    .plate { flex-basis:132px; }
+    .plate b { font-size:13px; }
+    .plate i { font-size:11.5px; }
     h1 { font-size:21px; }
     .meta { padding:8px 9px 10px; }
     .meta h3 { font-size:12.5px; line-height:1.2; }
@@ -274,6 +349,16 @@
 
   <div class="bar">
     <input class="search" id="q" type="search" placeholder="Search name, background, tags…">
+    <select id="sort" aria-label="Order">
+      <option value="order">Order I added them</option>
+      <option value="added">Newest first</option>
+      <option value="name">Name A–Z</option>
+      <option value="role">Role</option>
+      <option value="theme">Theme</option>
+      <option value="rating">Highest rated</option>
+      <option value="shuffle">Shuffled</option>
+    </select>
+    <button class="shuffle" id="shuffle" title="Deal them out in a new order">Shuffle</button>
     <button class="toggle" id="filtertoggle" aria-expanded="false" aria-controls="filters">Filters</button>
     <div class="dens">
       <input id="cols" type="range" min="2" max="12" step="1" aria-label="Figures per row">
@@ -282,33 +367,21 @@
   </div>
 
   <div class="controls" id="filters" hidden>
-    <div class="seg" id="faction">
-      <button data-v="all" aria-pressed="true">All</button>
-      <button data-v="good">Good</button>
-      <button data-v="bad">Bad</button>
-      <button data-v="neutral">Neutral</button>
-    </div>
-    <div class="seg" id="origin">
-      <button data-v="all" aria-pressed="true">Any</button>
-      <button data-v="branded">Branded</button>
-      <button data-v="custom">Custom</button>
-    </div>
-    <select id="rank"><option value="all">All ranks</option></select>
-    <select id="group"><option value="all">All groups</option></select>
-    <select id="role"><option value="all">All roles</option></select>
-    <select id="location"><option value="all">Everywhere</option></select>
-    <select id="theme"><option value="all">All themes</option></select>
-    <select id="sort">
-      <option value="order">Order I added them</option>
-      <option value="rank">Rank</option>
-      <option value="role">Role</option>
-      <option value="rating">Highest rated</option>
-      <option value="name">Name A–Z</option>
-      <option value="theme">Theme</option>
-      <option value="added">Newest first</option>
-    </select>
-    <button class="clear" id="clearfilters" hidden>Clear</button>
+    <label class="fld"><span>Side</span><div class="seg" id="faction"></div></label>
+    <label class="fld"><span>Made by</span><div class="seg" id="origin"></div></label>
+    <label class="fld"><span>Theme</span>
+      <select id="theme"><option value="all">All themes</option></select></label>
+    <label class="fld"><span>Group</span>
+      <select id="group"><option value="all">All groups</option></select></label>
+    <label class="fld"><span>Role</span>
+      <select id="role"><option value="all">All roles</option></select></label>
+    <button class="clear" id="clearfilters" hidden>Clear filters</button>
   </div>
+
+  <section class="plates" id="plates" hidden>
+    <h2>Plates<em>a few worth stopping on</em></h2>
+    <div class="strip" id="platestrip"></div>
+  </section>
 
   <div class="grid" id="grid"></div>
   <p class="none" id="none" hidden>Nothing matches that.</p>
@@ -319,10 +392,10 @@
 
 <script src="data/collection.js?v=1789460357"></script>
 <script src="data/lore.js?v=1789460357"></script>
+<script src="data/featured.js"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
-const state = { q:"", faction:"all", origin:"all", theme:"all", rank:"all", role:"all", group:"all", location:"all", sort:"order" };
-const RANKS = window.RANKS || [];
+const state = { q:"", faction:"all", origin:"all", theme:"all", role:"all", group:"all", sort:"order" };
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
@@ -348,18 +421,11 @@ const stars = n => {
   return "★".repeat(r) + `<span class="off">${"★".repeat(5 - r)}</span>`;
 };
 
-// rank dropdown, ordered by window.RANKS (not alphabetically)
-const usedRanks = new Set(FIGS.map(f => f.rank).filter(Boolean));
-RANKS.filter(r => usedRanks.has(r))
-  .concat([...usedRanks].filter(r => !RANKS.includes(r)).sort())
-  .forEach(r => {
-    const o = document.createElement("option");
-    o.value = r; o.textContent = r;
-    $("rank").append(o);
-  });
-
-// theme / role / location dropdowns — alphabetical, only values actually in use
-for (const [id, key] of [["theme","theme"], ["role","role"], ["group","group"], ["location","location"]]) {
+// Dropdowns carry only the values actually in use, alphabetically. Rank and
+// location used to have filters of their own and no longer do: rank is set on
+// ten figures out of five hundred and is cosmological rather than military,
+// and location mostly repeats what group and theme already say.
+for (const [id, key] of [["theme","theme"], ["role","role"], ["group","group"]]) {
   [...new Set(FIGS.map(f => f[key]).filter(Boolean))].sort().forEach(v => {
     const o = document.createElement("option");
     o.value = v; o.textContent = v;
@@ -367,14 +433,26 @@ for (const [id, key] of [["theme","theme"], ["role","role"], ["group","group"], 
   });
 }
 
+// Same idea for the two segmented controls - a Neutral button is dead weight
+// while nobody is neutral, and a Bad one earns its place the moment somebody is.
+const SEG_LABEL = { good:"Good", bad:"Bad", neutral:"Neutral", branded:"Branded", custom:"Custom" };
+for (const [id, allLabel] of [["faction","All"], ["origin","Any"]]) {
+  const ORDER = ["good", "bad", "neutral", "branded", "custom"];
+  const vals = [...new Set(FIGS.map(f => f[id]).filter(Boolean))]
+    .sort((a, b) => (ORDER.indexOf(a) + 1 || 99) - (ORDER.indexOf(b) + 1 || 99)
+                    || a.localeCompare(b));
+  $(id).innerHTML = [["all", allLabel], ...vals.map(v => [v, SEG_LABEL[v] || v])]
+    .map(([v, label], i) =>
+      `<button type="button" data-v="${esc(v)}" aria-pressed="${i === 0}">${esc(label)}</button>`)
+    .join("");
+}
+
 function matches(f) {
   if (state.faction !== "all" && f.faction !== state.faction) return false;
   if (state.origin  !== "all" && f.origin  !== state.origin)  return false;
   if (state.theme   !== "all" && f.theme   !== state.theme)   return false;
-  if (state.rank    !== "all" && f.rank    !== state.rank)    return false;
   if (state.role    !== "all" && f.role    !== state.role)    return false;
   if (state.group   !== "all" && f.group   !== state.group)   return false;
-  if (state.location!== "all" && f.location!== state.location)return false;
   if (state.q) {
     const hay = [f.name, f.variant, f.theme, f.rank, f.role, f.group, f.location, f.background, f.provenance, f.notes, (f.tags || []).join(" ")]
       .join(" ").toLowerCase();
@@ -383,21 +461,25 @@ function matches(f) {
   return true;
 }
 
-const rankPos = f => { const i = RANKS.indexOf(f.rank); return i < 0 ? 999 : i; };
+// One random key per figure, dealt fresh each time Shuffle is pressed. Sorting
+// on a stored key rather than on Math.random() keeps the order stable while you
+// scroll, filter and open cards - it only changes when you ask it to.
+let deck = new Map();
+function reshuffle() {
+  deck = new Map(FIGS.map(f => [f._i, Math.random()]));
+}
 
 const SORTS = {
-  rating: (a, b) => (b.rating || 0) - (a.rating || 0) || a.name.localeCompare(b.name),
-  name:   (a, b) => a.name.localeCompare(b.name),
-  order:  (a, b) => a._i - b._i,
-  rank:   (a, b) => rankPos(a) - rankPos(b)
-                    || (a.role || "~").localeCompare(b.role || "~")
-                    || a.name.localeCompare(b.name),
-  role:   (a, b) => (a.role || "~").localeCompare(b.role || "~") || a.name.localeCompare(b.name),
-  theme:  (a, b) => (a.theme || "~").localeCompare(b.theme || "~") || a.name.localeCompare(b.name),
-  added:  (a, b) => b._i - a._i
+  rating:  (a, b) => (b.rating || 0) - (a.rating || 0) || a.name.localeCompare(b.name),
+  name:    (a, b) => a.name.localeCompare(b.name),
+  order:   (a, b) => a._i - b._i,
+  role:    (a, b) => (a.role || "~").localeCompare(b.role || "~") || a.name.localeCompare(b.name),
+  theme:   (a, b) => (a.theme || "~").localeCompare(b.theme || "~") || a.name.localeCompare(b.name),
+  added:   (a, b) => b._i - a._i,
+  shuffle: (a, b) => (deck.get(a._i) ?? 0) - (deck.get(b._i) ?? 0)
 };
 
-const FILTER_KEYS = ["faction", "origin", "rank", "role", "group", "location", "theme"];
+const FILTER_KEYS = ["faction", "origin", "role", "group", "theme"];
 
 function syncFilterUI() {
   const n = FILTER_KEYS.filter(k => state[k] !== "all").length;
@@ -421,6 +503,7 @@ function render() {
   $("none").hidden = list.length > 0;
 
   syncFilterUI();
+  renderPlates();
 
   $("grid").innerHTML = sections(list).map((run, i) =>
     (i === 0 ? `` : `<div class="sec">${run.lost ? "Deceased or missing" : "Still here"}<b>${run.items.length}</b></div>`)
@@ -467,6 +550,32 @@ function card(f) {
     </button>`;
 }
 
+// The plate strip is a landing feature: it shows the hand-picked run while you
+// are looking at the whole catalogue, and gets out of the way the moment you
+// search or filter, because then you are looking for something specific.
+const PLATES = (window.FEATURED || [])
+  .map(p => ({ ...p, fig: FIGS.find(f => f.id === p.id) }))
+  .filter(p => p.fig);
+
+let platesDrawn = false;
+function renderPlates() {
+  const idle = !state.q && FILTER_KEYS.every(k => state[k] === "all");
+  $("plates").hidden = !idle || PLATES.length === 0;
+  if (!idle || platesDrawn || !PLATES.length) return;
+  $("platestrip").innerHTML = PLATES.map(p => {
+    const cover = photos(p.fig)[0];
+    return `<button class="plate" data-i="${p.fig._i}">
+      <span class="frame">${cover
+        ? `<img src="${esc(cover.src)}" alt="" loading="lazy">`
+        : `<span class="minidash">—</span>`}</span>
+      <b>${esc(p.fig.name)}</b>
+      <i>${esc(p.why || "")}</i>
+    </button>`;
+  }).join("");
+  fitShots($("platestrip"));
+  platesDrawn = true;
+}
+
 // Short labels for the corner tag - a few franchise names are far too long to
 // sit on a card, so they get an abbreviation. Anything not listed is used whole.
 const THEME_TAG = {
@@ -493,7 +602,7 @@ function markWide(img) {
 }
 function fitShots(root) {
   if (!root) return;
-  root.querySelectorAll(".shot img, .minishot img").forEach(img => {
+  root.querySelectorAll(".shot img, .minishot img, .plate .frame img").forEach(img => {
     if (img.complete) markWide(img);
     else img.addEventListener("load", () => markWide(img), { once: true });
   });
@@ -746,8 +855,6 @@ window.addEventListener("resize", fitText);
 
 $("q").addEventListener("input", e => { state.q = e.target.value.trim().toLowerCase(); render(); });
 $("theme").addEventListener("change", e => { state.theme = e.target.value; render(); });
-$("rank").addEventListener("change", e => { state.rank = e.target.value; render(); });
-$("location").addEventListener("change", e => { state.location = e.target.value; render(); });
 $("role").addEventListener("change", e => { state.role = e.target.value; render(); });
 $("group").addEventListener("change", e => { state.group = e.target.value; render(); });
 $("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
@@ -770,12 +877,26 @@ $("filtertoggle").addEventListener("click", () => {
 
 $("clearfilters").addEventListener("click", () => {
   FILTER_KEYS.forEach(k => state[k] = "all");
-  ["rank", "role", "group", "location", "theme"].forEach(id => $(id).value = "all");
+  ["role", "group", "theme"].forEach(id => $(id).value = "all");
   ["faction", "origin"].forEach(id =>
     [...$(id).children].forEach((c, i) => c.setAttribute("aria-pressed", String(i === 0))));
   render();
 });
 
+$("shuffle").addEventListener("click", () => {
+  reshuffle();
+  state.sort = "shuffle";
+  $("sort").value = "shuffle";
+  render();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
+
+$("plates").addEventListener("click", e => {
+  const p = e.target.closest(".plate");
+  if (p) open(FIGS[+p.dataset.i]);
+});
+
+reshuffle();
 render();
 </script>
 </body>
