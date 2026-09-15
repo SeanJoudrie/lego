@@ -1355,6 +1355,7 @@ window.COLLECTION = [
     group: "The Royal Space Academy",
     location: "The Royal Space Academy",
     relations: [
+      { to: "the-rocket-saboteur", label: "Worked under him" },
       { to: "the-test-pilot", label: "Commands" },
       { to: "the-technician", label: "Works with" },
       { to: "the-ground-technician", label: "Works with" },
@@ -2665,18 +2666,22 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "the-pilots-apprentice", label: "Killed by" },
       { to: "the-pilots-daughter", label: "Father of" },
     ],
     rating: 0,
     background:
       "A famous pilot, off a long run of successful missions and the people he " +
       "brought back from them.\n\n" +
-      "Famous enough that his daughter went and did the same.",
+      "Famous enough that his daughter went and did the same.\n\n" +
+      "His own apprentice killed him. The man had grown tired of living " +
+      "underneath the fame, and took him in a dogfight by shooting him in the " +
+      "back.",
     provenance: "",
-    tags: ["pilot", "famous", "veteran", "father"],
+    tags: ["pilot", "famous", "veteran", "father", "deceased", "betrayed"],
     images: ["images/the-famous-pilot-01.jpg"],
     acquired: "",
-    notes: "Placeholder name - but see the note on his daughter about the family name."
+    notes: "Placeholder name - but see the note on his daughter about the family name. His death was added after the fact, when the apprentice who did it was catalogued; you said outright that the man killed him, so this card is marked deceased. The Pilot's Daughter has deliberately not been touched - she followed him into the job and the family name is known across the galaxy for being heroic and brave, and nobody has said what she knows about how her father actually died."
   },
 
   {
@@ -14038,7 +14043,9 @@ window.COLLECTION = [
     role: "Doctor",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-evil-doctor", label: "Runs experiments with" },
+    ],
     rating: 0,
     background:
       "A doctor, and they call him the Butcher.\n\n" +
@@ -14341,6 +14348,141 @@ window.COLLECTION = [
     images: ["images/the-first-man-in-space-01.jpg"],
     acquired: "",
     notes: "Not to be confused with the First Man, who is where this whole world starts - this is a different superlative and a much smaller one. He is the only villain here who did nothing except agree to be used, and the only one whose value is entirely that people already liked him. Eleven astronauts and spacemen in this collection and he is the first of them to be filed bad. Left out of Classic Space, whose four wear the planet-and-rocket badge and he does not; say the word if he is one of them."
+  },
+
+
+
+  {
+    id: "the-evil-doctor",
+    name: "The Evil Doctor",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Doctor",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-butcher", label: "Runs experiments with" },
+    ],
+    rating: 0,
+    background:
+      "The other half of the Butcher\'s work. The two of them run experiments " +
+      "together, and the division of labour is clean: this one conceptualises, " +
+      "plans, and works out what is possible. The Butcher is the one who makes " +
+      "it possible.\n\n" +
+      "What came out of that arrangement is mind control - a way of taking " +
+      "over a body.",
+    provenance:
+      "Dark brown hair over a yellow face drawn hard - heavy black brows down, " +
+      "deep lines from the nose, mouth clamped shut. White coat printed with a " +
+      "buttoned collar, a stethoscope hung round the neck and two pens in the " +
+      "breast pocket. Black legs, yellow hands.",
+    tags: ["villain", "doctor", "experiments", "mind-control", "theory", "planner", "butcher"],
+    images: ["images/the-evil-doctor-01.jpg"],
+    acquired: "",
+    notes: "Villain number fifty-one, and the third doctor in this world - Dr. Oz is the good one, the Butcher is the one with the scissors, and this is the one with the ideas. What they built between them is worth reading against the Hijacked, a robot whose body villains took while they left him his mind, so that he watched himself attack people and could not stop. His card calls that one of the few things villains are actually recorded as doing. Now there are two men here whose stated work is exactly that, and no line is written between them and him."
+  },
+
+
+  {
+    id: "the-pilots-apprentice",
+    name: "The Pilot\'s Apprentice",
+    variant: "Helmet on, helmet off",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-famous-pilot", label: "Killed him" },
+    ],
+    rating: 0,
+    background:
+      "He was the Famous Pilot\'s apprentice, and he got tired of living " +
+      "underneath the man\'s fame and glory.\n\n" +
+      "So he turned on him. He killed him in a dogfight, and he did it by " +
+      "shooting him in the back.",
+    provenance:
+      "Blue flight helmet with a black visor band, and beneath it a pale blond " +
+      "sweep of hair over a yellow face with hard brows and a flat mouth. Blue " +
+      "flight suit printed with a dark navy harness marked ADU in yellow, " +
+      "silver clasps and buckles, white sleeves and black gloves, blue legs " +
+      "with thigh packs.",
+    tags: ["villain", "pilot", "apprentice", "betrayal", "murder", "dogfight", "adu", "helmet"],
+    images: [
+      { src: "images/the-pilots-apprentice-01.jpg", caption: "Helmet on" },
+      { src: "images/the-pilots-apprentice-02.jpg", caption: "Helmet off" },
+    ],
+    acquired: "",
+    notes: "Two photographs, one man, the helmet being the difference. The Famous Pilot has been in this collection a long time - famous off a long run of missions and the people he brought back from them, and famous enough that his daughter went and did the same. His card has now been marked deceased and the killing written into it, because you said outright that this man killed him. The Pilot\'s Daughter has not been touched. She became a pilot because of her father and the family name is known across the galaxy for being heroic and brave; nobody has said what she knows about how he died."
+  },
+
+
+  {
+    id: "the-rocket-saboteur",
+    name: "The Rocket Saboteur",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Command",
+    group: "The Royal Space Academy",
+    location: "",
+    relations: [
+      { to: "the-flight-director", label: "Worked under him" },
+    ],
+    rating: 0,
+    background:
+      "Space command, and he worked under the man in the red jumpsuit who runs " +
+      "every launch.\n\n" +
+      "Then he switched sides and stayed exactly where he was. What he does now " +
+      "is sabotage the rockets the royal army is going to need, from the inside " +
+      "of the programme that builds them.",
+    provenance:
+      "Curly brown hair over a yellow face with one brow raised and a doubtful, " +
+      "sidelong mouth. Cream lab coat printed over a dark suit and blue tie, a " +
+      "pocket of pens at one breast and a round shuttle badge in blue and " +
+      "yellow at the other. Black legs, yellow hands.",
+    tags: ["villain", "saboteur", "space-programme", "royal-space-academy", "insider", "rockets", "defector"],
+    images: ["images/the-rocket-saboteur-01.jpg"],
+    acquired: "",
+    notes: "Filed inside the Royal Space Academy, because that is where he still is and that is the whole point of him - a group shows everybody to everybody, and these are the people he is working against. That makes three groups in the collection with people on both sides in them, after the Verdauf and the Green Rangers, and all three for the same reason: somebody senior stayed in the building. The red space commander he answers to is the Flight Director, whose card says the big red jumpsuit comes with the job."
+  },
+
+
+  {
+    id: "the-knight-with-the-real-sword",
+    name: "The Knight with the Real Sword",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Knight",
+    group: "",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background:
+      "He lived in the medieval realm, where death is not final and a fight " +
+      "costs you your armour rather than your life.\n\n" +
+      "Somebody granted him a sword that could kill for real. He played it as " +
+      "though he had no idea - and then he went on using it on his enemies in " +
+      "combat, on purpose, knowing exactly what it did.",
+    provenance:
+      "A silver nasal helm with hinged cheek guards, and a yellow face under it " +
+      "with a lopsided half-smile. Blue and pale blue quartered surcoat printed " +
+      "with a gold crown and a star-worked collar over a brown belt, grey " +
+      "sleeves, pale grey legs, yellow hands.",
+    tags: ["villain", "knight", "medieval", "real-death", "sword", "deception", "murder"],
+    images: ["images/the-knight-with-the-real-sword-01.jpg"],
+    acquired: "",
+    notes: "This is an attack on the oldest local rule in the collection. The medieval realm works because dying there is not final - you come back, the enemy keeps your armour, and that is why going to war there is not the appalling thing it is everywhere else. He was handed a weapon that breaks it and pretended not to know. Every man he beat stayed beaten. Left out of the Royal Knights: they wear a red and blue surcoat with a crowned lion and his is a blue quartering with a plain crown, so say the word if he is one of theirs. And somebody gave him that sword, which is the loudest unanswered question on this card."
   },
 
 

@@ -321,7 +321,16 @@ window.LORE = [
       "Jedi's second Padawan was killed by the Purple Shadow. The Green Captain " +
       "stayed aboard the ship to set the bomb off himself, and the Verdauf " +
       "brothers' father was killed in the line of duty and did not come back. " +
-      "If everybody respawned, none of that would have cost anything. It did."
+      "If everybody respawned, none of that would have cost anything. It did.\n\n" +
+      "And somebody broke the rule from the inside. A knight of that realm was " +
+      "granted a sword that kills for real. He acted as though he had no idea " +
+      "what he was carrying, and went on using it on his enemies in combat, " +
+      "knowing exactly what it did. Every man he beat stayed beaten.\n\n" +
+      "That is worse there than it would be anywhere else, for a specific " +
+      "reason: the whole realm fights on the understanding that the stakes are " +
+      "armour. He did not only kill people. He killed them somewhere nobody " +
+      "had agreed that was on the table.\n\n" +
+      "Somebody granted him the sword. Nobody has said who."
   },
 
   {
@@ -815,7 +824,17 @@ window.LORE = [
       "itself: in a world where thirty people are dead and stay dead, the " +
       "people trying to undo that are the bad ones.\n\n" +
       "The Butcher\'s other work is torture devices, for getting information " +
-      "out of captured good people. He is smiling in his photograph."
+      "out of captured good people. He is smiling in his photograph.\n\n" +
+      "He also turns out not to be working alone. There is a second doctor, " +
+      "who conceptualises and plans and works out what is possible while the " +
+      "Butcher makes it possible - and what the two of them built together is " +
+      "mind control, a way of taking over a body.\n\n" +
+      "Which this world has seen. The Hijacked is a robot whose lasers " +
+      "villains turned into a weapon; they took his body and left him his " +
+      "mind, so he watched himself attack people and could not stop, and he " +
+      "was brought back afterwards. His card calls that one of the few things " +
+      "villains are actually recorded as doing. Now two men have it written " +
+      "down as their stated work, and nothing connects them to him."
   },
 
   {
@@ -871,6 +890,27 @@ window.LORE = [
       "The first woman to turn up among the enemies is a technician holding " +
       "equipment, which is either the least interesting thing that could have " +
       "happened or the most honest one."
+  },
+
+  {
+    title: "The Famous Pilot is dead",
+    text:
+      "He had been in this collection a long time and his card was three lines " +
+      "long: a famous pilot, off a long run of successful missions and the " +
+      "people he brought back from them, and famous enough that his daughter " +
+      "went and did the same.\n\n" +
+      "His own apprentice killed him. The man had got tired of living " +
+      "underneath the fame and the glory, so he took him in a dogfight and " +
+      "shot him in the back.\n\n" +
+      "The card is marked deceased now, and the killing is written into it. " +
+      "That is a thing this catalogue does not usually do - people arrive dead " +
+      "or they do not, and a card that has stood for months does not normally " +
+      "change its ending. It changed because you said it outright.\n\n" +
+      "The Pilot's Daughter has deliberately not been touched. She followed " +
+      "him into the job, she became famous in her own right, and between the " +
+      "two of them the family name is known across the galaxy for being heroic " +
+      "and brave. Her card still reads exactly as it did.\n\n" +
+      "Nobody has said what she knows about how her father actually died."
   }
 
 ];
