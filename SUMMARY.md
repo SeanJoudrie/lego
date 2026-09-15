@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-476 characters from a custom LEGO minifigure world, in the order they were
+479 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4968,13 +4968,13 @@ Looked him up as you asked, and could not pin him down. The obvious candidate is
 
 *Tags:* star-wars, clone, trooper, green, commander-helmet, branded
 
-### 436. The 501st Troopers — Two of them
+### 436. The 501st Troopers — Three of them, two prints
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
-Troopers of the 501st. There are two of them.
+Troopers of the 501st. There are three of them.
 
-*How it was got:* Phase 2 helmets with a blue stripe over the crown and blue down the cheek, blue arms, blue flashes at the knees. Identical to each other down to the last line.
+*How it was got:* Phase 2 helmets with a blue stripe over the crown and blue down the cheek, blue arms, blue flashes at the knees. Identical to each other down to the last line. A third is the same trooper on a later print - the blue laid on heavier over the crown, a blue wedge at the sternum the first two do not have, and the knee bands outlined in black.
 
 *Tags:* star-wars, clone, trooper, 501st, blue, unit, two, branded
 
@@ -5328,15 +5328,13 @@ A trooper of the Old Republic.
 
 *Tags:* star-wars, old-republic, soldier, orange, worn, branded
 
-### 471. Captain Rex — Two figures
+### 471. Captain Rex
 
 **Alignment:** good · **Role:** Captain · **Figure:** branded
 
 Captain Rex, of the 501st.
 
 *How it was got:* Phase 2 helmet painted in blue - a jaw shape up the faceplate, twin flames over the crown and tally marks scored in black at both temples. A dark blue cloth pauldron over one shoulder, blue flashes at the arm and knees, and a black pistol in each hand.
-
-A second figure of him is later and heavier: a grey chest rig strapped over the blue, thigh holsters printed on, a cloth kama at the hip and one long rifle rather than two pistols.
 
 *Tags:* star-wars, clone, captain, 501st, blue, rex, pauldron, branded
 
@@ -5391,6 +5389,38 @@ Clone troopers with no unit markings. There are two of them.
 *How it was got:* Phase 2 helmets with a fin standing up from the crown, a black brow band and the moustache vent - no colour on either. The chest printing is worn faint on both, grey lines over white, and the belt boxes have rubbed nearly through on one of them.
 
 *Tags:* star-wars, clone, trooper, phase-2, unmarked, worn, unit, two, branded
+
+### 477. Fives
+
+**Alignment:** good · **Role:** ARC Trooper · **Figure:** branded
+
+Fives, an ARC trooper of the 501st.
+
+*How it was got:* Blue rangefinder raised clear of the brow. The helmet carries the busiest markings of the three ARC troopers here - blue running back over the crown in strokes rather than plain stripes, blue down the faceplate and out across both cheeks. Grey harness and a slung bandolier printed across the chest over blue panels.
+
+Read as Fives on the markings. His helmet is supposed to carry a rishi eel drawn on it, after the one that killed a man in his old squad, and of the three raised-visor troopers in this batch his is the only helmet whose markings read as a shape rather than stripes.
+
+*Tags:* star-wars, clone, arc-trooper, 501st, fives, blue, branded
+
+### 478. The 501st ARC Troopers — Two of them
+
+**Alignment:** good · **Role:** ARC Trooper · **Figure:** branded
+
+ARC troopers of the 501st. There are two of them.
+
+*How it was got:* Both wear the blue rangefinder raised above the brow and blue stripes straight back over the crown, either side of the fin. One has a plain 501st chest with blue belt boxes; the other has the grey harness and slung bandolier across it.
+
+*Tags:* star-wars, clone, arc-trooper, 501st, blue, rangefinder, unit, two, branded
+
+### 479. The 501st Commando — Two figures
+
+**Alignment:** good · **Role:** Commando · **Figure:** branded
+
+A commando of the 501st.
+
+*How it was got:* Two figures sharing the same chest print - a grey rig with three dark blocks at one shoulder over a blue wedge. One wears a black cloth pauldron and carries a pistol in each hand; the other has a blue kama at the hip, thigh holsters printed on and a single long rifle. Both helmets carry blue strokes over the crown with small red marks.
+
+*Tags:* star-wars, clone, commando, 501st, blue, pauldron, kama, branded
 
 ---
 

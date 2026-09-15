@@ -11574,7 +11574,7 @@ window.COLLECTION = [
   {
     id: "the-501st-troopers",
     name: "The 501st Troopers",
-    variant: "Two of them",
+    variant: "Three of them, two prints",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -11584,13 +11584,19 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Troopers of the 501st. There are two of them.",
+    background: "Troopers of the 501st. There are three of them.",
     provenance:
       "Phase 2 helmets with a blue stripe over the crown and blue down the " +
       "cheek, blue arms, blue flashes at the knees. Identical to each other " +
-      "down to the last line.",
+      "down to the last line. A third is the same " +
+      "trooper on a later print - the blue laid on heavier over the crown, a " +
+      "blue wedge at the sternum the first two do not have, and the knee bands " +
+      "outlined in black.",
     tags: ["star-wars", "clone", "trooper", "501st", "blue", "unit", "two", "branded"],
-    images: [{ src: "images/the-501st-troopers-01.jpg", caption: "Both of them" }],
+    images: [
+      { src: "images/the-501st-troopers-01.jpg", caption: "The first two" },
+      { src: "images/the-501st-troopers-02.jpg", caption: "The third, a later print" },
+    ],
     acquired: "",
     notes: "One entry for the pair, the way the Enforcer Squad and the Gungan Soldiers are done. Clones are the one case where that is not a shortcut - they really are the same man twice. Captain Rex has since arrived in the same blue, so the 501st is a group of its own now rather than two men filed under the whole army."
   },
@@ -12527,7 +12533,7 @@ window.COLLECTION = [
   {
     id: "captain-rex",
     name: "Captain Rex",
-    variant: "Two figures",
+    variant: "",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -12542,17 +12548,11 @@ window.COLLECTION = [
       "Phase 2 helmet painted in blue - a jaw shape up the faceplate, twin " +
       "flames over the crown and tally marks scored in black at both temples. " +
       "A dark blue cloth pauldron over one shoulder, blue flashes at the arm " +
-      "and knees, and a black pistol in each hand.\n\n" +
-      "A second figure of him is later and heavier: a grey chest rig strapped " +
-      "over the blue, thigh holsters printed on, a cloth kama at the hip and " +
-      "one long rifle rather than two pistols.",
+      "and knees, and a black pistol in each hand.",
     tags: ["star-wars", "clone", "captain", "501st", "blue", "rex", "pauldron", "branded"],
-    images: [
-      { src: "images/captain-rex-01.jpg", caption: "With the twin pistols" },
-      { src: "images/captain-rex-02.jpg", caption: "Later, in the chest rig" },
-    ],
+    images: ["images/captain-rex-01.jpg"],
     acquired: "",
-    notes: "New group, The 501st Legion, holding him and the two 501st troopers who have been sitting in the Clone Army since they arrived. The tally marks on his helmet are the thing: no other figure in this collection is printed with a count of anything. Two figures of him now, and the later one has swapped the twin pistols for a rifle and put a rig over the armour - the same man carrying more."
+    notes: "New group, The 501st Legion, holding him and the two 501st troopers who have been sitting in the Clone Army since they arrived. The tally marks on his helmet are the thing: no other figure in this collection is printed with a count of anything. A second figure was put on this card and then taken off again: you corrected it, it is not him, and it has its own entry as the 501st Commando."
   },
 
 
@@ -12691,6 +12691,96 @@ window.COLLECTION = [
     images: [{ src: "images/the-classic-clones-01.jpg", caption: "Both of them" }],
     acquired: "",
     notes: "One entry for the pair. These are the Phase 2 version of what the Plain Clone Trooper is in Phase 1 - unmarked men, before any legion took them. Between the two cards the collection now has four clones with no colour on them at all, against thirty-odd who carry one."
+  },
+
+
+  {
+    id: "fives",
+    name: "Fives",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "ARC Trooper",
+    group: "The 501st Legion",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Fives, an ARC trooper of the 501st.",
+    provenance:
+      "Blue rangefinder raised clear of the brow. The helmet carries the " +
+      "busiest markings of the three ARC troopers here - blue running back " +
+      "over the crown in strokes rather than plain stripes, blue down the " +
+      "faceplate and out across both cheeks. Grey harness and a slung " +
+      "bandolier printed across the chest over blue panels.\n\n" +
+      "Read as Fives on the markings. His helmet is supposed to carry a " +
+      "rishi eel drawn on it, after the one that killed a man in his old " +
+      "squad, and of the three raised-visor troopers in this batch his is " +
+      "the only helmet whose markings read as a shape rather than stripes.",
+    tags: ["star-wars", "clone", "arc-trooper", "501st", "fives", "blue", "branded"],
+    images: ["images/fives-01.jpg"],
+    acquired: "",
+    notes: "You said this batch has the actual Fives in it and asked me to work out which, so this is my call rather than yours - the busiest helmet of the three. The thing that would settle it is Echo, who is the other ARC trooper of that pair and wears a plain blue fin with two straight stripes; if one of the other two is Echo, then the odd one out is Fives and it may not be this one."
+  },
+
+
+  {
+    id: "the-501st-arc-troopers",
+    name: "The 501st ARC Troopers",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "ARC Trooper",
+    group: "The 501st Legion",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "ARC troopers of the 501st. There are two of them.",
+    provenance:
+      "Both wear the blue rangefinder raised above the brow and blue stripes " +
+      "straight back over the crown, either side of the fin. One has a plain " +
+      "501st chest with blue belt boxes; the other has the grey harness and " +
+      "slung bandolier across it.",
+    tags: ["star-wars", "clone", "arc-trooper", "501st", "blue", "rangefinder", "unit", "two", "branded"],
+    images: [
+      { src: "images/the-501st-arc-troopers-01.jpg", caption: "With the blue belt boxes" },
+      { src: "images/the-501st-arc-troopers-02.jpg", caption: "With the chest harness" },
+    ],
+    acquired: "",
+    notes: "The two ARC troopers left over once Fives was picked out. Their helmets are plain blue stripes either side of the fin, which is how Echo is described, so one of these two may be him - say which and the card splits."
+  },
+
+
+  {
+    id: "the-501st-commando",
+    name: "The 501st Commando",
+    variant: "Two figures",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Commando",
+    group: "The 501st Legion",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A commando of the 501st.",
+    provenance:
+      "Two figures sharing the same chest print - a grey rig with three dark " +
+      "blocks at one shoulder over a blue wedge. One wears a black cloth " +
+      "pauldron and carries a pistol in each hand; the other has a blue kama " +
+      "at the hip, thigh holsters printed on and a single long rifle. Both " +
+      "helmets carry blue strokes over the crown with small red marks.",
+    tags: ["star-wars", "clone", "commando", "501st", "blue", "pauldron", "kama", "branded"],
+    images: [
+      { src: "images/the-501st-commando-01.jpg", caption: "With the pauldron and pistols" },
+      { src: "images/the-501st-commando-02.jpg", caption: "With the kama and rifle" },
+    ],
+    acquired: "",
+    notes: "Named the way you said to name him - clone commando of the 501st - rather than guessed at. The second photo was on the Captain Rex card until you corrected it; the two are on one entry here because they share a chest print that nothing else in the legion has. If either is Fives or Echo after all, one word moves him."
   },
 
 
