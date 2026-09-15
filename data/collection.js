@@ -10721,6 +10721,143 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "the-hogwarts-professor",
+    name: "The Hogwarts Professor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Harry Potter",
+    rank: "",
+    role: "Professor",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A professor at Hogwarts. Yours, not the books.",
+    provenance:
+      "A great grey mane of hair down past the shoulders and a white plaited " +
+      "beard covering most of the chest, half-moon spectacles over a lined " +
+      "face. Dark robe with a banded sash and two gold bars at the waist, " +
+      "brown sleeves and brown legs.",
+    tags: ["harry-potter", "professor", "wizard", "beard", "custom"],
+    images: ["images/the-hogwarts-professor-01.jpg"],
+    acquired: "",
+    notes: "First figure in the collection that is custom inside a branded theme - your own man standing in somebody else's world, where until now the custom half and the branded half have been separate things. Placeholder name until you give him one."
+  },
+
+
+  {
+    id: "professor-sprout",
+    name: "Professor Sprout",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Harry Potter",
+    rank: "",
+    role: "Professor",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Pomona Sprout, who teaches Herbology at Hogwarts and is head of " +
+      "Hufflepuff house.",
+    provenance:
+      "Dark tan pointed hat with a wide brim, earmuffs printed on it. Tan " +
+      "robes torn ragged at the hem and sleeves, big patch pockets, and a " +
+      "spray of leaves and berries pinned at the throat.\n\n" +
+      "Looked her up for you: this is the Professor Pomona Sprout figure from " +
+      "the Harry Potter Series 2 collectible minifigures, number 71028. The " +
+      "earmuffs on the hat are the giveaway - she wears them to handle " +
+      "mandrakes.",
+    tags: ["harry-potter", "professor", "herbology", "hufflepuff", "witch", "branded"],
+    images: ["images/professor-sprout-01.jpg"],
+    acquired: "",
+    notes: "You asked me to work out who she was and that is her. Opens a thirteenth theme, alongside your own custom professor - and a third Hogwarts figure would make the two of them a group, the way the Winter Troopers and the dwarves went."
+  },
+
+
+  {
+    id: "little-red-riding-hood",
+    name: "Little Red Riding Hood",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Fairy Tales",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Little Red Riding Hood.",
+    provenance:
+      "Auburn hair coiled up, freckles, a small closed smile. Dark bodice " +
+      "over a white laced blouse with red cross-stitch, white sleeves, red " +
+      "legs, and a real red cloth cape.",
+    tags: ["fairy-tales", "red-riding-hood", "cape", "branded"],
+    images: ["images/little-red-riding-hood-01.jpg"],
+    acquired: "",
+    notes: "Opens a fourteenth theme. She is the first figure here out of a folk tale rather than a film, a comic or a toy line - the story she comes from has no owner, which makes her the oldest character in the collection by a long way."
+  },
+
+
+  {
+    id: "laval",
+    name: "Laval",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Legends of Chima",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Laval of the Lion Tribe.",
+    provenance:
+      "Moulded lion head - beige fur, white muzzle, black nose, yellow eyes " +
+      "and a snarl - under a spiked brown mane. Bare beige torso with a blue " +
+      "harness crossed over it, a gold plate at the centre holding a round " +
+      "blue stone, blue armoured skirt and gold lion heads at the knees.\n\n" +
+      "Looked him up: the blue tunic, the gold harness and the blue orb at " +
+      "the chest are Laval as he appears through the first season.",
+    tags: ["legends-of-chima", "lion", "beast-folk", "chi", "branded"],
+    images: ["images/laval-01.jpg"],
+    acquired: "",
+    notes: "Opens a fifteenth theme. He is the first beast-person here - the collection has aliens, droids, dwarves and a skeleton, but nobody until now who is an animal walking upright."
+  },
+
+
+  {
+    id: "minnie-mouse",
+    name: "Minnie Mouse",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Disney",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Minnie Mouse.",
+    provenance:
+      "Moulded mouse head with the two round ears, white face, lashes and a " +
+      "sidelong smile. Black torso and arms, cream bloomers scalloped at the " +
+      "hem, black legs and white shoes. No colour anywhere on her - the whole " +
+      "figure is the early black and white cartoons rather than the red dress.",
+    tags: ["disney", "minnie-mouse", "black-and-white", "vintage", "branded"],
+    images: ["images/minnie-mouse-01.jpg"],
+    acquired: "",
+    notes: "Opens a sixteenth theme. Four new themes in one batch, which has not happened before. She is also the only figure in the collection printed with no colour at all."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

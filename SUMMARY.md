@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-406 characters from a custom LEGO minifigure world, in the order they were
+411 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4645,6 +4645,60 @@ Lloyd, the green ninja.
 *How it was got:* Two-tone green hood, lime over dark, with a yellow band across the eyes and brows drawn hard down. Green gi scaled in lime across one shoulder, a white wrapped sash, olive legs, and mismatched arms - one dark green, one lime.
 
 *Tags:* ninjago, ninja, green, hood, branded
+
+### 407. The Hogwarts Professor
+
+**Alignment:** good · **Role:** Professor · **Figure:** custom
+
+A professor at Hogwarts. Yours, not the books.
+
+*How it was got:* A great grey mane of hair down past the shoulders and a white plaited beard covering most of the chest, half-moon spectacles over a lined face. Dark robe with a banded sash and two gold bars at the waist, brown sleeves and brown legs.
+
+*Tags:* harry-potter, professor, wizard, beard, custom
+
+### 408. Professor Sprout
+
+**Alignment:** good · **Role:** Professor · **Figure:** branded
+
+Pomona Sprout, who teaches Herbology at Hogwarts and is head of Hufflepuff house.
+
+*How it was got:* Dark tan pointed hat with a wide brim, earmuffs printed on it. Tan robes torn ragged at the hem and sleeves, big patch pockets, and a spray of leaves and berries pinned at the throat.
+
+Looked her up for you: this is the Professor Pomona Sprout figure from the Harry Potter Series 2 collectible minifigures, number 71028. The earmuffs on the hat are the giveaway - she wears them to handle mandrakes.
+
+*Tags:* harry-potter, professor, herbology, hufflepuff, witch, branded
+
+### 409. Little Red Riding Hood
+
+**Alignment:** good · **Figure:** branded
+
+Little Red Riding Hood.
+
+*How it was got:* Auburn hair coiled up, freckles, a small closed smile. Dark bodice over a white laced blouse with red cross-stitch, white sleeves, red legs, and a real red cloth cape.
+
+*Tags:* fairy-tales, red-riding-hood, cape, branded
+
+### 410. Laval
+
+**Alignment:** good · **Figure:** branded
+
+Laval of the Lion Tribe.
+
+*How it was got:* Moulded lion head - beige fur, white muzzle, black nose, yellow eyes and a snarl - under a spiked brown mane. Bare beige torso with a blue harness crossed over it, a gold plate at the centre holding a round blue stone, blue armoured skirt and gold lion heads at the knees.
+
+Looked him up: the blue tunic, the gold harness and the blue orb at the chest are Laval as he appears through the first season.
+
+*Tags:* legends-of-chima, lion, beast-folk, chi, branded
+
+### 411. Minnie Mouse
+
+**Alignment:** good · **Figure:** branded
+
+Minnie Mouse.
+
+*How it was got:* Moulded mouse head with the two round ears, white face, lashes and a sidelong smile. Black torso and arms, cream bloomers scalloped at the hem, black legs and white shoes. No colour anywhere on her - the whole figure is the early black and white cartoons rather than the red dress.
+
+*Tags:* disney, minnie-mouse, black-and-white, vintage, branded
 
 ---
 
