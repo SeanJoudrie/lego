@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-473 characters from a custom LEGO minifigure world, in the order they were
+476 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4276,6 +4276,8 @@ Ahsoka Tano.
 
 *How it was got:* Two figures of the same woman. The older has grey chest armour over a blue and yellow tabard, greaved legs, long white and blue montrals, and carries two lightsabers at once. The younger has short montrals, a bare midriff under an orange top, a plain brown belt and white legs - and nothing in her hands. A third is the young one again on a later mould - grey legs instead of white, and montrals that fall well past the shoulders where the other pair stop short.
 
+*Connections:* Serves under her Ahsoka's Trooper
+
 *Tags:* star-wars, jedi, ahsoka, togruta, twin-sabers, branded
 
 ### 370. Captain America
@@ -5212,13 +5214,15 @@ Out of one of the early clone battle packs, by your account.
 
 *Tags:* star-wars, clone, trooper, phase-1, republic-crest, vintage, branded
 
-### 460. The Plain Clone Trooper
+### 460. The Plain Clone Trooper — Two figures
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
 A clone trooper, with no unit markings at all.
 
 *How it was got:* Phase 1 helmet and armour in plain white - the black brow band, the moustache vent and the grey chest lines are all the printing there is. No colour anywhere on him. The white has gone faintly cream.
+
+A second of him is the same unmarked armour on a later print: the same Phase 1 helmet, but the chest plates outlined in bold black and the belt drawn as a row of separate boxes rather than a grey smudge.
 
 *Tags:* star-wars, clone, trooper, phase-1, unmarked, branded
 
@@ -5324,13 +5328,15 @@ A trooper of the Old Republic.
 
 *Tags:* star-wars, old-republic, soldier, orange, worn, branded
 
-### 471. Captain Rex
+### 471. Captain Rex — Two figures
 
 **Alignment:** good · **Role:** Captain · **Figure:** branded
 
 Captain Rex, of the 501st.
 
 *How it was got:* Phase 2 helmet painted in blue - a jaw shape up the faceplate, twin flames over the crown and tally marks scored in black at both temples. A dark blue cloth pauldron over one shoulder, blue flashes at the arm and knees, and a black pistol in each hand.
+
+A second figure of him is later and heavier: a grey chest rig strapped over the blue, thigh holsters printed on, a cloth kama at the hip and one long rifle rather than two pistols.
 
 *Tags:* star-wars, clone, captain, 501st, blue, rex, pauldron, branded
 
@@ -5353,6 +5359,38 @@ Stormtroopers. There are five of them.
 *How it was got:* Four are the classic pattern: white armour with a black brow band, the moustache vent, a row of grey belt blocks and plain white legs, all four gone faintly cream and scuffed. The fifth is the later moulding - the same helmet cut sharper, grey shoulder plates and a chest wedge printed in, a full black bandolier of blocks across the waist, and the legs printed with knee plates the old ones do not have.
 
 *Tags:* star-wars, imperial, stormtrooper, unit, five, worn, branded
+
+### 474. Ahsoka's Trooper
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+One of Ahsoka's troopers, out of the 501st.
+
+*How it was got:* Phase 2 helmet painted orange across the whole face and up over the crown in the shape of her markings, with white round the jaw. The body underneath is 501st blue - a blue collar, a blue wedge at the sternum and blue bands at both knees.
+
+*Connections:* Serves under Ahsoka Tano
+
+*Tags:* star-wars, clone, trooper, 501st, ahsoka, orange, blue, branded
+
+### 475. The 501st Scout
+
+**Alignment:** good · **Role:** Scout · **Figure:** branded
+
+A scout of the 501st.
+
+*How it was got:* Scout helmet with a wide brim, blue over the crown and down both sides, and a silver respirator box clamped across the mouth. A dark grey harness strapped down the chest over blue panels, a blue shoulder cap, and blue bands at the hips and knees.
+
+*Tags:* star-wars, clone, scout, 501st, blue, respirator, branded
+
+### 476. The Classic Clones — Two of them
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+Clone troopers with no unit markings. There are two of them.
+
+*How it was got:* Phase 2 helmets with a fin standing up from the crown, a black brow band and the moustache vent - no colour on either. The chest printing is worn faint on both, grey lines over white, and the belt boxes have rubbed nearly through on one of them.
+
+*Tags:* star-wars, clone, trooper, phase-2, unmarked, worn, unit, two, branded
 
 ---
 

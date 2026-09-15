@@ -9764,7 +9764,9 @@ window.COLLECTION = [
     role: "Jedi",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "ahsokas-trooper", label: "Serves under her" },
+    ],
     rating: 0,
     background: "Ahsoka Tano.",
     provenance:
@@ -12215,7 +12217,7 @@ window.COLLECTION = [
   {
     id: "the-plain-clone-trooper",
     name: "The Plain Clone Trooper",
-    variant: "",
+    variant: "Two figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -12229,11 +12231,17 @@ window.COLLECTION = [
     provenance:
       "Phase 1 helmet and armour in plain white - the black brow band, the " +
       "moustache vent and the grey chest lines are all the printing there is. " +
-      "No colour anywhere on him. The white has gone faintly cream.",
+      "No colour anywhere on him. The white has gone faintly cream.\n\n" +
+      "A second of him is the same unmarked armour on a later print: the same " +
+      "Phase 1 helmet, but the chest plates outlined in bold black and the belt " +
+      "drawn as a row of separate boxes rather than a grey smudge.",
     tags: ["star-wars", "clone", "trooper", "phase-1", "unmarked", "branded"],
-    images: ["images/the-plain-clone-trooper-01.jpg"],
+    images: [
+      { src: "images/the-plain-clone-trooper-01.jpg", caption: "The faint print" },
+      { src: "images/the-plain-clone-trooper-02.jpg", caption: "The crisper print" },
+    ],
     acquired: "",
-    notes: "The only clone here wearing no unit colour whatsoever - every other one carries yellow, blue, green, orange, red or purple somewhere. He is what all of them looked like before they were anybody."
+    notes: "The only clone here wearing no unit colour whatsoever - every other one carries yellow, blue, green, orange, red or purple somewhere. He is what all of them looked like before they were anybody. Two figures on this card now - both unmarked Phase 1 clones, one printed faintly and one crisply. Read as the same man twice rather than two men, since there is nothing to tell them apart but the printing; say the word and the crisp one gets his own entry."
   },
 
 
@@ -12519,7 +12527,7 @@ window.COLLECTION = [
   {
     id: "captain-rex",
     name: "Captain Rex",
-    variant: "",
+    variant: "Two figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -12534,11 +12542,17 @@ window.COLLECTION = [
       "Phase 2 helmet painted in blue - a jaw shape up the faceplate, twin " +
       "flames over the crown and tally marks scored in black at both temples. " +
       "A dark blue cloth pauldron over one shoulder, blue flashes at the arm " +
-      "and knees, and a black pistol in each hand.",
+      "and knees, and a black pistol in each hand.\n\n" +
+      "A second figure of him is later and heavier: a grey chest rig strapped " +
+      "over the blue, thigh holsters printed on, a cloth kama at the hip and " +
+      "one long rifle rather than two pistols.",
     tags: ["star-wars", "clone", "captain", "501st", "blue", "rex", "pauldron", "branded"],
-    images: ["images/captain-rex-01.jpg"],
+    images: [
+      { src: "images/captain-rex-01.jpg", caption: "With the twin pistols" },
+      { src: "images/captain-rex-02.jpg", caption: "Later, in the chest rig" },
+    ],
     acquired: "",
-    notes: "New group, The 501st Legion, holding him and the two 501st troopers who have been sitting in the Clone Army since they arrived. The tally marks on his helmet are the thing: no other figure in this collection is printed with a count of anything."
+    notes: "New group, The 501st Legion, holding him and the two 501st troopers who have been sitting in the Clone Army since they arrived. The tally marks on his helmet are the thing: no other figure in this collection is printed with a count of anything. Two figures of him now, and the later one has swapped the twin pistols for a rifle and put a rig over the armour - the same man carrying more."
   },
 
 
@@ -12597,6 +12611,86 @@ window.COLLECTION = [
     ],
     acquired: "",
     notes: "One entry for all five, solo first and the group behind it, with both mouldings on the same card the way the Rebel Troopers and the Snowtroopers have theirs. Standing the old four beside the new one is the plainest before-and-after of printing in the collection - the old legs are blank white and the new ones are drawn all the way down. Seventh Imperial card, still ungrouped."
+  },
+
+
+  {
+    id: "ahsokas-trooper",
+    name: "Ahsoka's Trooper",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The 501st Legion",
+    location: "",
+    relations: [
+      { to: "ahsoka-tano", label: "Serves under" },
+    ],
+    rating: 0,
+    background: "One of Ahsoka's troopers, out of the 501st.",
+    provenance:
+      "Phase 2 helmet painted orange across the whole face and up over the " +
+      "crown in the shape of her markings, with white round the jaw. The body " +
+      "underneath is 501st blue - a blue collar, a blue wedge at the sternum " +
+      "and blue bands at both knees.",
+    tags: ["star-wars", "clone", "trooper", "501st", "ahsoka", "orange", "blue", "branded"],
+    images: ["images/ahsokas-trooper-01.jpg"],
+    acquired: "",
+    notes: "Linked to Ahsoka because you made the link yourself - hers, out of the 501st - so it is your lore rather than the films leaking in. He is the only clone here wearing two units at once: the orange on his helmet is her marking laid over the blue of the legion he belongs to."
+  },
+
+
+  {
+    id: "the-501st-scout",
+    name: "The 501st Scout",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Scout",
+    group: "The 501st Legion",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A scout of the 501st.",
+    provenance:
+      "Scout helmet with a wide brim, blue over the crown and down both " +
+      "sides, and a silver respirator box clamped across the mouth. A dark " +
+      "grey harness strapped down the chest over blue panels, a blue shoulder " +
+      "cap, and blue bands at the hips and knees.",
+    tags: ["star-wars", "clone", "scout", "501st", "blue", "respirator", "branded"],
+    images: ["images/the-501st-scout-01.jpg"],
+    acquired: "",
+    notes: "Fourth in the 501st. Third scout in a respirator box now, after the Golden Company Scout and the Wolfpack Scout - every legion that has a scout puts him in the same breathing gear, whatever colour the rest of them wear."
+  },
+
+
+  {
+    id: "the-classic-clones",
+    name: "The Classic Clones",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Clone troopers with no unit markings. There are two of them.",
+    provenance:
+      "Phase 2 helmets with a fin standing up from the crown, a black brow " +
+      "band and the moustache vent - no colour on either. The chest printing " +
+      "is worn faint on both, grey lines over white, and the belt boxes have " +
+      "rubbed nearly through on one of them.",
+    tags: ["star-wars", "clone", "trooper", "phase-2", "unmarked", "worn", "unit", "two", "branded"],
+    images: [{ src: "images/the-classic-clones-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "One entry for the pair. These are the Phase 2 version of what the Plain Clone Trooper is in Phase 1 - unmarked men, before any legion took them. Between the two cards the collection now has four clones with no colour on them at all, against thirty-odd who carry one."
   },
 
 
