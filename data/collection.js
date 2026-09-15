@@ -10049,6 +10049,135 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "the-ewok",
+    name: "The Ewok",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An Ewok.",
+    provenance:
+      "Moulded brown head with a wrinkled muzzle, round white eyes and small " +
+      "rounded ears, under a pale olive hood that frames the face and hangs " +
+      "down the chest. Sculpted fur on the torso, short brown legs.",
+    tags: ["star-wars", "ewok", "hood", "alien", "branded"],
+    images: ["images/the-ewok-01.jpg"],
+    acquired: "",
+    notes: "Name is the species, since none was given. The hood colour is how Lego tells its Ewoks apart - Wicket\'s is dark orange and this one is pale olive - so if he is somebody in particular, say so. Fifth moulded-head alien in the collection."
+  },
+
+
+  {
+    id: "onaconda-farr",
+    name: "Onaconda Farr",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Senator",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Onaconda Farr, senator for Rodia in the Galactic Senate during the " +
+      "Clone Wars.",
+    provenance:
+      "Moulded green Rodian head - long snout, blue bulb eyes, antennae over " +
+      "the crown. Open purple sweater over a dark blue shirt with a yellow " +
+      "banded belt, pale green legs, one silver hand and one grey.\n\n" +
+      "Looked him up: he is Lego\'s Onaconda Farr, part SW0241, from set 8036, " +
+      "the Separatist Shuttle, around 2009.",
+    tags: ["star-wars", "rodian", "senator", "politician", "alien", "branded"],
+    images: ["images/onaconda-farr-01.jpg"],
+    acquired: "",
+    notes: "You asked me to find the name and that is it. He is the first politician in the Star Wars corner - everybody else there flies, fights or guards something - and this collection has its own senate too, since the Prince served in one before he had the title."
+  },
+
+
+  {
+    id: "boba-fett",
+    name: "Boba Fett",
+    variant: "As a boy",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Boba Fett, as a boy.",
+    provenance:
+      "Black bowl-cut hair, a plain yellow face with heavy brows and a flat " +
+      "mouth. Pale blue tunic with a dark belt and a laced collar, dark navy " +
+      "arms, pale blue legs. No armour and no helmet.",
+    tags: ["star-wars", "boba-fett", "child", "branded"],
+    images: ["images/boba-fett-01.jpg"],
+    acquired: "",
+    notes: "Entered under his full name with the boy as a variant, the same way Anakin was - and Anakin has since grown into that entry, so the pattern works. A helmeted Boba later joins this card rather than starting a second one. Second child in the Star Wars corner."
+  },
+
+
+  {
+    id: "han-solo",
+    name: "Han Solo",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Han Solo, in cold-weather gear.",
+    provenance:
+      "Navy parka with the fur-lined hood up round the face, a satchel on a " +
+      "strap across the chest, a tool belt, and pale cream trousers with an " +
+      "ice axe printed down one thigh.",
+    tags: ["star-wars", "han-solo", "parka", "cold-weather", "branded"],
+    images: ["images/han-solo-01.jpg"],
+    acquired: "",
+    notes: "In the parka rather than the waistcoat, which puts him in the same weather as the Winter Troopers - their leader is in the same white cold-weather kit from the same source. He is also the only figure in the Star Wars corner carrying an ice axe."
+  },
+
+
+  {
+    id: "c-3po",
+    name: "C-3PO",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "C-3PO.",
+    provenance:
+      "Gold from head to foot, in a metallic finish rather than a printed " +
+      "one. Moulded droid head with the fixed open mouth and round eyes, wire " +
+      "and panel detail printed across the chest and waist.",
+    tags: ["star-wars", "droid", "c-3po", "gold", "branded"],
+    images: ["images/c-3po-01.jpg"],
+    acquired: "",
+    notes: "First droid from the films here. This collection already has several of its own - the radar robot who was hacked and made to watch himself attack people, the scrap-built dock robot, the Defense Bot - so he arrives into a world that has thinking machines and treats them as people."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

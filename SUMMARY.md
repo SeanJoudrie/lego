@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-381 characters from a custom LEGO minifigure world, in the order they were
+386 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4393,6 +4393,58 @@ Jack Sparrow.
 *How it was got:* Dark red bandana under long black dreadlocks strung with silver beads, a braided moustache and beard, a blue waistcoat over a loose shirt with a wide buckled belt and a red sash, and tan breeches.
 
 *Tags:* pirates-of-the-caribbean, pirate, jack-sparrow, branded
+
+### 382. The Ewok
+
+**Alignment:** good · **Figure:** branded
+
+An Ewok.
+
+*How it was got:* Moulded brown head with a wrinkled muzzle, round white eyes and small rounded ears, under a pale olive hood that frames the face and hangs down the chest. Sculpted fur on the torso, short brown legs.
+
+*Tags:* star-wars, ewok, hood, alien, branded
+
+### 383. Onaconda Farr
+
+**Alignment:** good · **Role:** Senator · **Figure:** branded
+
+Onaconda Farr, senator for Rodia in the Galactic Senate during the Clone Wars.
+
+*How it was got:* Moulded green Rodian head - long snout, blue bulb eyes, antennae over the crown. Open purple sweater over a dark blue shirt with a yellow banded belt, pale green legs, one silver hand and one grey.
+
+Looked him up: he is Lego's Onaconda Farr, part SW0241, from set 8036, the Separatist Shuttle, around 2009.
+
+*Tags:* star-wars, rodian, senator, politician, alien, branded
+
+### 384. Boba Fett — As a boy
+
+**Alignment:** good · **Figure:** branded
+
+Boba Fett, as a boy.
+
+*How it was got:* Black bowl-cut hair, a plain yellow face with heavy brows and a flat mouth. Pale blue tunic with a dark belt and a laced collar, dark navy arms, pale blue legs. No armour and no helmet.
+
+*Tags:* star-wars, boba-fett, child, branded
+
+### 385. Han Solo
+
+**Alignment:** good · **Figure:** branded
+
+Han Solo, in cold-weather gear.
+
+*How it was got:* Navy parka with the fur-lined hood up round the face, a satchel on a strap across the chest, a tool belt, and pale cream trousers with an ice axe printed down one thigh.
+
+*Tags:* star-wars, han-solo, parka, cold-weather, branded
+
+### 386. C-3PO
+
+**Alignment:** good · **Role:** Droid · **Figure:** branded
+
+C-3PO.
+
+*How it was got:* Gold from head to foot, in a metallic finish rather than a printed one. Moulded droid head with the fixed open mouth and round eyes, wire and panel detail printed across the chest and waist.
+
+*Tags:* star-wars, droid, c-3po, gold, branded
 
 ---
 
