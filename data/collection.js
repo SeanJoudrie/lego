@@ -533,7 +533,7 @@ window.COLLECTION = [
       { src: "images/claws-02.jpg", caption: "In the stasis chamber, after Quinn took him" },
     ],
     acquired: "",
-    notes: "The most heavily kitbashed figure in the collection - nine different sources in one minifigure. Filed as custom, which in his case is not even a judgement call. The second photograph is the first picture of an event anywhere in this catalogue rather than a picture of a person: he is the frosted figure standing inside the lit tube, with two others in the dark outside it. The link to Quinn is written although Quinn still has no entry, the same way the Knighted Civilian\'s is - unknown ids are skipped, so both light up the moment Quinn is photographed."
+    notes: "The most heavily kitbashed figure in the collection - nine different sources in one minifigure. Filed as custom, which in his case is not even a judgement call. The second photograph is the first picture of an event anywhere in this catalogue rather than a picture of a person: he is the frosted figure standing inside the lit tube, with two others in the dark outside it. The link to Quinn was written before Quinn had a card at all, pointed at an id that did not exist; it is live now, and so is the Knighted Civilian\'s."
   },
 
   {
@@ -1193,7 +1193,7 @@ window.COLLECTION = [
     tags: ["shadow", "prince", "negotiator", "great-shadow-war", "not-his-father"],
     images: ["images/the-shadow-prince-01.jpg"],
     acquired: "",
-    notes: "His connection to the Shadow King is already written down - it will start working the moment a figure with id \"the-shadow-king\" exists."
+    notes: "His connection to his father was written down long before there was anything to connect to, pointed at an id that did not exist. The Shadow King has been photographed now and the link is live."
   },
 
   {
@@ -5692,7 +5692,7 @@ window.COLLECTION = [
     tags: ["civilian", "jogger", "red-hoodie", "knighted", "quinn", "first-uprising", "rifle", "hero"],
     images: ["images/the-knighted-civilian-01.jpg"],
     acquired: "",
-    notes: "Placeholder name - I could not make out the title you gave him, and it sounded like Sir Jeff. Say it again and he gets it. The link to Quinn is written even though Quinn has no entry yet; unknown ids are skipped, so it lights up by itself the moment Quinn is photographed."
+    notes: "Placeholder name - I could not make out the title you gave him, and it sounded like Sir Jeff. Say it again and he gets it. The link to Quinn was written long before Quinn had a card, pointed at an id that did not exist; it is live now."
   },
 
 
@@ -12826,6 +12826,145 @@ window.COLLECTION = [
     ],
     acquired: "",
     notes: "Named the way you said to name him - clone commando of the 501st - rather than guessed at. The second photo was on the Captain Rex card until you corrected it; the two are on one entry here because they share a chest print that nothing else in the legion has. If either is Fives or Echo after all, one word moves him."
+  },
+
+
+
+  /* ---- The villains. ---- */
+
+  {
+    id: "quinn",
+    name: "Quinn",
+    variant: "Three figures, one man",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Sith Master",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-shadow-king", label: "Led the shadow uprising with" },
+      { to: "claws", label: "Captured" },
+      { to: "the-knighted-civilian", label: "Brought down by" },
+    ],
+    rating: 0,
+    background:
+      "He started as nothing. A low-ranking soldier for a neutral third party " +
+      "in somebody else\'s conflict, and they left him to die in the cold.\n\n" +
+      "He did not die, and what he came back with was a vow: never to be used " +
+      "by anyone again. He wanted power. He wanted, at the very least, to feel " +
+      "like the one calling the shots.\n\n" +
+      "What he concluded is the part that matters. He looked at how widespread " +
+      "war is - industrial, constant - and at how many good people would keep " +
+      "turning up to fight in one, and he decided conflict was simply " +
+      "inevitable. If it could not be stopped, he might as well be on the " +
+      "winning side of it, and at the very top.\n\n" +
+      "So he went and studied the dark arts. Both kinds: dark magic, and the " +
+      "dark side of the Force. He became a master Sith. Then he reached the " +
+      "shadow dimension and put it to the Shadow King, and the two of them led " +
+      "the shadow uprising - which was to kill as many of the friendly leaders " +
+      "as they could by raising each leader\'s own shadow, near-identical " +
+      "versions of the people themselves, and setting them on their originals. " +
+      "It did heavy damage. The shadow forces were pushed back in the end, but " +
+      "the damage was done, which was all he wanted.\n\n" +
+      "Alongside that he spent years quietly contacting anybody who could be " +
+      "turned, and arranged for every one of those betrayals to happen inside " +
+      "the same minute of the same day. Students turned on their masters. " +
+      "Masters turned on their students. The result was chaos, on purpose.\n\n" +
+      "The green is deliberate. Studying the dark arts turned his body neon as " +
+      "it went, and he pushed it - he wanted to change the essence of the body " +
+      "itself so that nothing could kill him.\n\n" +
+      "What he has now: dark arts fighting experience, a genius intellect, the " +
+      "Force, speed beyond following, and the ability to heal himself. Fire " +
+      "and explosives do nothing to him.",
+    provenance:
+      "Three figures, one man, in order.\n\n" +
+      "The soldier: a plain silver combat helmet with ear flaps, a scar through " +
+      "one eye, and a white harness printed over grey - standard-issue " +
+      "everything, on somebody nobody was looking at.\n\n" +
+      "The arms dealer: brown hair, no helmet, a black pauldron across both " +
+      "shoulders, a green webbing vest with a yellow-crossed scarf at the " +
+      "throat and two pistols holstered on the thighs.\n\n" +
+      "What he made of himself: a translucent neon green head, grinning, one " +
+      "eye red. Bone-white spines stand off the collar. Black Sith robes over " +
+      "black legs, one hand still flesh and the other gone black.",
+    tags: ["villain", "quinn", "sith", "dark-arts", "force", "shadow-uprising", "betrayal", "self-healing", "immortality", "arms-dealer"],
+    images: [
+      { src: "images/quinn-01.jpg", caption: "The soldier, before any of it" },
+      { src: "images/quinn-02.jpg", caption: "The independent arms dealer" },
+      { src: "images/quinn-03.jpg", caption: "What he made of himself" },
+    ],
+    acquired: "",
+    notes: "The main villain, and the most-anticipated card in the collection - two people have carried written links to an id that did not exist until now, and both light up on this card: Claws, whom he captured and put in a stasis chamber, and the Knighted Civilian, the jogger who shot him through the lung and ended the first uprising. Three photographs on one card because they are three eras of one man, the way Luke and Obi-Wan are done. Open question worth settling: whether the shadow uprising he led with the Shadow King is the same war as the Great Shadow War the Shadow Prince helped negotiate the end of, or a separate one."
+  },
+
+
+  {
+    id: "the-shadow-king",
+    name: "The Shadow King",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "King",
+    group: "",
+    location: "The Shadow Dimension",
+    relations: [
+      { to: "the-shadow-prince", label: "Father of" },
+      { to: "quinn", label: "Led the shadow uprising with" },
+    ],
+    rating: 0,
+    background:
+      "King of the shadow dimension, which is locked in eternal conflict with " +
+      "light itself.\n\n" +
+      "Quinn reached him and put the uprising to him, and the two of them ran " +
+      "it together: every friendly leader they could reach was attacked by his " +
+      "own shadow, a near-identical version of himself raised against him.",
+    provenance:
+      "Black from the plume down - hat, face, torso, arms, hands and legs, with " +
+      "no printing anywhere on him. A tall military dress hat with a brim and a " +
+      "long plume standing off the crown.",
+    tags: ["villain", "shadow", "king", "shadow-dimension", "eternal-conflict", "unprinted", "plume"],
+    images: ["images/the-shadow-king-01.jpg"],
+    acquired: "",
+    notes: "Named in the world notes for a long time and never seen; his son the Shadow Prince has carried a link to this exact id since he was catalogued, and it works now. The Prince is good and it shows in his robes - this man is black all the way through with not one printed detail on him, which for a figure standing for a dimension at war with light is about as on the nose as the plastic gets. Still open: whether he and the Purple Shadow are the same power."
+  },
+
+
+  {
+    id: "phalanx",
+    name: "Phalanx",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Nanobot Virus",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Phalanx is a nanobot virus. What gave him a shape was the skull of an " +
+      "ancient alien entity - something that had been transhumanist in its own " +
+      "time - and when the virus met that skull it built itself a body out of " +
+      "it. The result is jagged and rocky and not really a person.\n\n" +
+      "He consumes people, and he consumes planets.\n\n" +
+      "The dangerous part is that he is intelligent. He worked out that he " +
+      "cannot spread himself thin enough to eat a galaxy on his own, so he " +
+      "does not try. He leads an army of zombie aliens instead - hosts whose " +
+      "bodies he has taken over - and sends them.",
+    provenance:
+      "A moulded grey skull mask with hollow slanted eyes and four long tusks " +
+      "hanging down over the chest, drawn back into a smooth dome. Plain light " +
+      "grey torso and legs with no printing at all, one arm light grey and the " +
+      "other in darker armoured plate.",
+    tags: ["villain", "phalanx", "nanobots", "virus", "alien", "skull", "planet-eater", "zombies", "hive"],
+    images: ["images/phalanx-01.jpg"],
+    acquired: "",
+    notes: "A different kind of threat from the other two. Quinn and the Shadow King both want something - power, a war won - and this one is an appetite that happens to be clever. He is also the first villain here who commands anything: an army of taken bodies, which makes him the only enemy in this collection with a force behind him that is not made of soldiers who chose it. Worth noting he is the second entity built out of something that was here before - the Ancient is the other - and the only one that was dug up and worn."
   },
 
 

@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-511 characters from a custom LEGO minifigure world, in the order they were
+514 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -131,7 +131,9 @@ The Golden Sniper and his ninja robot are hired as a pair, and that is the work 
 
 ### Named but not yet seen
 
-Antagonists and figures the stories point at, none of them photographed yet: the Shadow King. The Purple Shadow. The evil blue civilization that Kenjen helped bring down. Quinn, the main villain.
+Antagonists and figures the stories point at, none of them photographed yet: the Purple Shadow. The evil blue civilization that Kenjen helped bring down.
+
+Two names came off this list at once. Quinn and the Shadow King both have cards now, and three links that had been sitting in other people's entries - written against ids that did not exist - went live the moment they did.
 
 The famous Nexo Knight — the one with the spectacular sword, who turned out to be a villain, and in whose shadow the modest one has spent his whole career.
 
@@ -143,9 +145,11 @@ And one who is missing in the ordinary sense rather than the narrative one: the 
 
 There has been more than one. A war against the shadow ended by negotiation rather than by anyone winning it, with the Shadow Prince — the Shadow King's own son — part of getting that settlement done. And others: the TV Star lost half his face in one of them.
 
-Two figures on that side have been named and neither photographed. The Shadow King, who is a villain and the Shadow Prince's father. And the Purple Shadow, who killed the Snow Jedi's second Padawan.
+The Shadow King has been photographed now - a villain, the Shadow Prince's father, and king of a dimension locked in eternal conflict with light itself. What he and Quinn did together has its own note.
 
-Whether they are the same power is not established.
+One figure on that side is still only a name: the Purple Shadow, who killed the Snow Jedi's second Padawan. Whether he and the King are the same power is not established.
+
+Nor is it established whether the shadow uprising Quinn and the King ran is the same war as the Great Shadow War the Prince helped negotiate the end of, or another one.
 
 ### First contact
 
@@ -240,6 +244,36 @@ Now there is a second thing on his account, and a photograph of it. Quinn captur
 It is the first photograph in this whole catalogue of something happening rather than of somebody standing still. Five hundred and nine entries of people, and one of an event.
 
 Quinn still has no card. Two people now carry a written link to him - the Knighted Civilian who brought him down, and Claws whom he took - and both of those links are pointed at an id that does not exist yet. They connect themselves the day he is photographed.
+
+### The making of Quinn
+
+He was nobody. A low-ranking soldier for a neutral third party in somebody else's conflict, and they left him to die in the cold.
+
+He came back from that with a vow - never to be used by anyone again - and with a conclusion, which is the part that actually matters. He looked at how widespread war is, how industrial and constant, and at how many good people would keep turning up to fight in one. He decided conflict was simply inevitable. And if it could not be stopped, he would be on the winning side of it, at the very top.
+
+Everything after that is method. He studied both kinds of dark art - dark magic and the dark side of the Force - and became a master Sith. He reached the shadow dimension and brought its King in with him. The green came from the study, and then he pushed it further on purpose, because he wanted to change the essence of the body itself and be unkillable.
+
+He has three photographs here and they are three eras of one man: the grunt in standard-issue grey, the independent arms dealer building himself a history, and the neon thing in Sith robes.
+
+The uncomfortable part is that his premise is not stupid. His reasoning is that war never stops - and in a world holding a Space Militia, a Clone Army, a Royal Galactic Army, an Aqua Force, the Green Rangers, the Golden Company and a Great Lego War, that is not obviously wrong. What he did with the reasoning is the wrong part.
+
+### The shadow uprising, and the day of betrayals
+
+Quinn and the Shadow King ran the uprising together, and its method was specific: kill as many friendly leaders as possible by raising each leader's own shadow against him. Near-identical versions of the people themselves. It did heavy damage. The shadow forces were pushed back in the end, but the damage was done, which was all he wanted.
+
+Running underneath it was something quieter and worse. For years Quinn contacted anybody who could be turned, on any side, and arranged for every one of those betrayals to land inside the same minute of the same day. Students turned on their masters. Masters turned on their students. Nobody knew who was still theirs.
+
+That is the second time this world records a body used against its own side. The Hijacked was a robot whose lasers villains turned into a weapon while he stayed awake and watched it happen. This was the same idea at the scale of a civilization, twice over - once with shadows wearing people's shapes, and once with people choosing it.
+
+### Phalanx
+
+A nanobot virus that found the skull of an ancient alien entity - something transhumanist in its own time - and built itself a body out of it. Jagged, rocky, and not really a person. He consumes people and he consumes planets.
+
+What makes him worse than an appetite is that he is intelligent. He worked out that he cannot spread himself thin enough to eat everything himself, so he does not try. He leads an army of zombie aliens - hosts whose bodies he has taken - and sends them instead.
+
+He is a different kind of enemy from the other two. Quinn and the Shadow King both want something, and a side that wants something can be negotiated with, which is how the Great Shadow War ended. This one wants to eat, and it is the only power here whose army is not made of anybody who chose to be in it.
+
+He is also the second thing in this world built out of something that was here before it. The Ancient is the other, and he was respected as a source of wisdom. This one was dug up and worn.
 
 ---
 
@@ -460,7 +494,7 @@ Legs — 501st clone trooper
 The blue wrap around him — Bionicle
 Accessories — Halo
 
-*Connections:* Lost him to the space militia The Clone Pilot
+*Connections:* Lost him to the space militia The Clone Pilot · Captured by Quinn
 
 *Tags:* clone, energy-sword, decorated, veteran, commander, kitbash
 
@@ -735,6 +769,8 @@ His father is the Shadow King, who is a villain. He is not.
 He helped negotiate the end of the Great Shadow War, and you can tell just by looking at him that he isn't full shadow — there's still some good on him, and it shows in his robes.
 
 He's very nice. He's young. He believes in the best of people, which is the thing his father does not.
+
+*Connections:* Son of The Shadow King
 
 *Tags:* shadow, prince, negotiator, great-shadow-war, not-his-father
 
@@ -2583,6 +2619,8 @@ Then came the first Quinn uprising. Quinn destroyed half the city, and every one
 In the chaos this man got to a rifle and shot Quinn through the lung. That was the end of it. Quinn was finished, and went into captivity.
 
 He was knighted for it. A civilian's active bravery saved the day, and the armor he wears now is what the city gave him for it.
+
+*Connections:* Brought down Quinn
 
 *Tags:* civilian, jogger, red-hoodie, knighted, quinn, first-uprising, rifle, hero
 
@@ -5474,7 +5512,65 @@ A commando of the 501st.
 
 *Tags:* star-wars, clone, commando, 501st, blue, pauldron, kama, branded
 
-### 480. The Militiaman in the Black Helm
+### 480. Quinn — Three figures, one man
+
+**Alignment:** bad · **Role:** Sith Master · **Figure:** custom
+
+He started as nothing. A low-ranking soldier for a neutral third party in somebody else's conflict, and they left him to die in the cold.
+
+He did not die, and what he came back with was a vow: never to be used by anyone again. He wanted power. He wanted, at the very least, to feel like the one calling the shots.
+
+What he concluded is the part that matters. He looked at how widespread war is - industrial, constant - and at how many good people would keep turning up to fight in one, and he decided conflict was simply inevitable. If it could not be stopped, he might as well be on the winning side of it, and at the very top.
+
+So he went and studied the dark arts. Both kinds: dark magic, and the dark side of the Force. He became a master Sith. Then he reached the shadow dimension and put it to the Shadow King, and the two of them led the shadow uprising - which was to kill as many of the friendly leaders as they could by raising each leader's own shadow, near-identical versions of the people themselves, and setting them on their originals. It did heavy damage. The shadow forces were pushed back in the end, but the damage was done, which was all he wanted.
+
+Alongside that he spent years quietly contacting anybody who could be turned, and arranged for every one of those betrayals to happen inside the same minute of the same day. Students turned on their masters. Masters turned on their students. The result was chaos, on purpose.
+
+The green is deliberate. Studying the dark arts turned his body neon as it went, and he pushed it - he wanted to change the essence of the body itself so that nothing could kill him.
+
+What he has now: dark arts fighting experience, a genius intellect, the Force, speed beyond following, and the ability to heal himself. Fire and explosives do nothing to him.
+
+*How it was got:* Three figures, one man, in order.
+
+The soldier: a plain silver combat helmet with ear flaps, a scar through one eye, and a white harness printed over grey - standard-issue everything, on somebody nobody was looking at.
+
+The arms dealer: brown hair, no helmet, a black pauldron across both shoulders, a green webbing vest with a yellow-crossed scarf at the throat and two pistols holstered on the thighs.
+
+What he made of himself: a translucent neon green head, grinning, one eye red. Bone-white spines stand off the collar. Black Sith robes over black legs, one hand still flesh and the other gone black.
+
+*Connections:* Led the shadow uprising with The Shadow King · Captured Claws · Brought down by The Knighted Civilian
+
+*Tags:* villain, quinn, sith, dark-arts, force, shadow-uprising, betrayal, self-healing, immortality, arms-dealer
+
+### 481. The Shadow King
+
+**Alignment:** bad · **Role:** King · **Based:** The Shadow Dimension · **Figure:** custom
+
+King of the shadow dimension, which is locked in eternal conflict with light itself.
+
+Quinn reached him and put the uprising to him, and the two of them ran it together: every friendly leader they could reach was attacked by his own shadow, a near-identical version of himself raised against him.
+
+*How it was got:* Black from the plume down - hat, face, torso, arms, hands and legs, with no printing anywhere on him. A tall military dress hat with a brim and a long plume standing off the crown.
+
+*Connections:* Father of The Shadow Prince · Led the shadow uprising with Quinn
+
+*Tags:* villain, shadow, king, shadow-dimension, eternal-conflict, unprinted, plume
+
+### 482. Phalanx
+
+**Alignment:** bad · **Role:** Nanobot Virus · **Figure:** custom
+
+Phalanx is a nanobot virus. What gave him a shape was the skull of an ancient alien entity - something that had been transhumanist in its own time - and when the virus met that skull it built itself a body out of it. The result is jagged and rocky and not really a person.
+
+He consumes people, and he consumes planets.
+
+The dangerous part is that he is intelligent. He worked out that he cannot spread himself thin enough to eat a galaxy on his own, so he does not try. He leads an army of zombie aliens instead - hosts whose bodies he has taken over - and sends them.
+
+*How it was got:* A moulded grey skull mask with hollow slanted eyes and four long tusks hanging down over the chest, drawn back into a smooth dome. Plain light grey torso and legs with no printing at all, one arm light grey and the other in darker armoured plate.
+
+*Tags:* villain, phalanx, nanobots, virus, alien, skull, planet-eater, zombies, hive
+
+### 483. The Militiaman in the Black Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5488,7 +5584,7 @@ Photographed off an old video rather than in hand, because there is no hand to p
 
 *Tags:* space-militia, lost, deceased, helmet, sunglasses
 
-### 481. The Militiaman in the Red Helm
+### 484. The Militiaman in the Red Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5498,7 +5594,7 @@ Space Militia. Lost, and dead.
 
 *Tags:* space-militia, lost, deceased, rifle, scarred
 
-### 482. The Ranger Patrol Captain
+### 485. The Ranger Patrol Captain
 
 **Alignment:** good · **Role:** Patrol Captain · **Figure:** custom
 
@@ -5508,7 +5604,7 @@ A patrol captain of the rangers. Lost, and dead.
 
 *Tags:* green-rangers, ranger, captain, lost, deceased, camouflage
 
-### 483. The Militiamen Out of Armour — Two of them
+### 486. The Militiamen Out of Armour — Two of them
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5520,7 +5616,7 @@ Photographed together, on a table, years ago.
 
 *Tags:* space-militia, lost, deceased, civilian-dress, headset
 
-### 484. The Lost Miners — Two of them
+### 487. The Lost Miners — Two of them
 
 **Alignment:** good · **Role:** Power Miner · **Figure:** custom
 
@@ -5530,7 +5626,7 @@ Two of the power miners. Lost, and dead.
 
 *Tags:* power-miner, lost, deceased, overalls, helmet
 
-### 485. The Discarded in the Blue Cap
+### 488. The Discarded in the Blue Cap
 
 **Alignment:** good · **Role:** Discarded · **Figure:** custom
 
@@ -5542,7 +5638,7 @@ The badge is not a marking anyone else in this collection wears, and I could not
 
 *Tags:* discarded, refugee, lost, deceased, cap, goatee
 
-### 486. The Elf Man
+### 489. The Elf Man
 
 **Alignment:** good · **Role:** Elf · **Figure:** custom
 
@@ -5556,7 +5652,7 @@ Nothing about the moulding is elven - it is an ordinary head and an ordinary hai
 
 *Tags:* elf, lost, deceased, long-hair, vest
 
-### 487. The Long Shot Bowman
+### 490. The Long Shot Bowman
 
 **Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
 
@@ -5566,7 +5662,7 @@ An archer of the Royal Knights, and a long shot. Lost, and dead.
 
 *Tags:* knight, archer, bow, medieval, royal-knights, lost, deceased, kettle-helm
 
-### 488. The Lost Pirates — Two of them
+### 491. The Lost Pirates — Two of them
 
 **Alignment:** good · **Role:** Pirate · **Figure:** custom
 
@@ -5578,7 +5674,7 @@ The other in a blue headscarf, moustached and heavily freckled, in a red and whi
 
 *Tags:* pirate, crew, lost, deceased, tattoo, anchor, stripes
 
-### 489. The Lost Aqua Diver
+### 492. The Lost Aqua Diver
 
 **Alignment:** good · **Role:** Aqua Force · **Figure:** custom
 
@@ -5588,7 +5684,7 @@ Aqua Force - the service that handles any military necessity involving going und
 
 *Tags:* aqua-force, underwater, diver, trident, lost, deceased, scarred
 
-### 490. The Gungan Jedi
+### 493. The Gungan Jedi
 
 **Alignment:** good · **Role:** Jedi · **Figure:** custom
 
@@ -5602,7 +5698,7 @@ The robe is not a piece I could place. Photographed off an old video rather than
 
 *Tags:* star-wars, gungan, jedi, alien, cape, lost, deceased
 
-### 491. The Alien Professor
+### 494. The Alien Professor
 
 **Alignment:** good · **Role:** Professor · **Figure:** custom
 
@@ -5614,7 +5710,7 @@ The frame is too soft to make out the piece. This is as much as the video gives.
 
 *Tags:* alien, professor, academic, moulded-head, robes, lost, deceased
 
-### 492. The Lost Soccer Player
+### 495. The Lost Soccer Player
 
 **Alignment:** good · **Role:** Athlete · **Figure:** custom
 
@@ -5624,7 +5720,7 @@ A soccer player. Lost, and dead.
 
 *Tags:* soccer, football, athlete, sport, kit, lost, deceased
 
-### 493. The Astronaut Soldier
+### 496. The Astronaut Soldier
 
 **Alignment:** good · **Role:** Astronaut Soldier · **Figure:** custom
 
@@ -5634,7 +5730,7 @@ An astronaut, and a soldier. Lost, and dead.
 
 *Tags:* astronaut, soldier, space, helmet, lost, deceased
 
-### 494. The Airline Pilot
+### 497. The Airline Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** custom
 
@@ -5644,7 +5740,7 @@ An airline pilot. Lost, and dead.
 
 *Tags:* pilot, airline, civilian, uniform, cap, lost, deceased
 
-### 495. The Hooded Ranger
+### 498. The Hooded Ranger
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5654,7 +5750,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, hood, balaclava, lost, deceased
 
-### 496. The Blue Space Captain
+### 499. The Blue Space Captain
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -5666,7 +5762,7 @@ The badge is the Galactic Republic cog, so the pieces are out of a Star Wars pil
 
 *Tags:* captain, space, pilot, goggles, headset, lost, deceased
 
-### 497. The Nude Aliens — Two of them
+### 500. The Nude Aliens — Two of them
 
 **Alignment:** good · **Figure:** custom
 
@@ -5678,7 +5774,7 @@ The other is green throughout with a moulded head - a scaled, gaping fish-like f
 
 *Tags:* alien, nude, unprinted, moulded-head, lost, deceased
 
-### 498. The Engine Technician
+### 501. The Engine Technician
 
 **Alignment:** good · **Role:** Technician · **Figure:** custom
 
@@ -5688,7 +5784,7 @@ One of the engine technicians. Lost, and dead.
 
 *Tags:* technician, engines, space-programme, helmet, lost, deceased
 
-### 499. The Ranger in the Olive Helm
+### 502. The Ranger in the Olive Helm
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5698,7 +5794,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, helmet, field-jacket, lost, deceased
 
-### 500. The Lost Golden Rifleman
+### 503. The Lost Golden Rifleman
 
 **Alignment:** good · **Role:** Rifleman · **Figure:** branded
 
@@ -5710,7 +5806,7 @@ Too soft a frame to tell Phase 1 from Phase 2, or to read the unit markings the 
 
 *Tags:* star-wars, clone, trooper, rifleman, golden-company, rifle, lost, deceased, branded
 
-### 501. The Saxophone Player
+### 504. The Saxophone Player
 
 **Alignment:** good · **Role:** Musician · **Figure:** custom
 
@@ -5722,7 +5818,7 @@ Photographed standing on wet sand with the sea behind him and his own reflection
 
 *Tags:* musician, saxophone, music, cool, sunglasses, lost, deceased
 
-### 502. The Old Verdauf Soldier
+### 505. The Old Verdauf Soldier
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5734,7 +5830,7 @@ He is built off white blocks below the waist rather than printed legs.
 
 *Tags:* verdauf, squadron, soldier, veteran, beard, white-armor, lost, deceased
 
-### 503. The Blue Pirate Thug
+### 506. The Blue Pirate Thug
 
 **Alignment:** good · **Role:** Thug · **Figure:** custom
 
@@ -5744,7 +5840,7 @@ A pirate thug. The uniform he is wearing is not his - he stole it. Lost, and dea
 
 *Tags:* thug, pirate, stolen-uniform, respirator, blue, lost, deceased
 
-### 504. The Space Captain Lady
+### 507. The Space Captain Lady
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -5756,7 +5852,7 @@ It is the same uniform the Blue Space Captain wears, down to the badge.
 
 *Tags:* captain, space, woman, stolen-uniform, visor, lost, deceased
 
-### 505. The Evil Space Captain
+### 508. The Evil Space Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -5768,7 +5864,7 @@ It is a rebel pilot's kit. There are nine Rebel Pilots in this collection and he
 
 *Tags:* captain, space, villain, stolen-uniform, flight-helmet, beard, lost, deceased
 
-### 506. The Space Criminal
+### 509. The Space Criminal
 
 **Alignment:** good · **Role:** Criminal · **Figure:** custom
 
@@ -5778,7 +5874,7 @@ A space criminal. Lost, and dead.
 
 *Tags:* criminal, space, crook, grin, blaster, lost, deceased
 
-### 507. The Bribed Royal Enforcer
+### 510. The Bribed Royal Enforcer
 
 **Alignment:** good · **Role:** Enforcer · **Figure:** custom
 
@@ -5788,7 +5884,7 @@ A royal enforcer who took a bribe. Lost, and dead.
 
 *Tags:* enforcer, royal, bribed, corruption, visor, lost, deceased
 
-### 508. The Bearded Spaceman
+### 511. The Bearded Spaceman
 
 **Alignment:** good · **Role:** Spaceman · **Figure:** custom
 
@@ -5798,7 +5894,7 @@ A blue spaceman. Lost, and dead.
 
 *Tags:* spaceman, classic-space, blue, beard, vintage, lost, deceased
 
-### 509. The Masked Bounty Hunter
+### 512. The Masked Bounty Hunter
 
 **Alignment:** good · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -5810,7 +5906,7 @@ The frame is badly blurred and this is as much as it gives.
 
 *Tags:* bounty-hunter, masked, red-eyes, hood, lost, deceased
 
-### 510. The Crimson Ninja
+### 513. The Crimson Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -5820,7 +5916,7 @@ An evil ninja, in crimson. The figure has not been photographed yet - this card 
 
 *Tags:* ninja, villain, crimson, masked, concept-art, no-photograph
 
-### 511. The Nightwatch Captain
+### 514. The Nightwatch Captain
 
 **Alignment:** good · **Role:** Nightwatch Captain · **Based:** Lego City · **Figure:** custom
 

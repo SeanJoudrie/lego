@@ -207,8 +207,12 @@ window.LORE = [
     title: "Named but not yet seen",
     text:
       "Antagonists and figures the stories point at, none of them photographed " +
-      "yet: the Shadow King. The Purple Shadow. The evil blue civilization that " +
-      "Kenjen helped bring down. Quinn, the main villain.\n\n" +
+      "yet: the Purple Shadow. The evil blue civilization that Kenjen helped " +
+      "bring down.\n\n" +
+      "Two names came off this list at once. Quinn and the Shadow King both " +
+      "have cards now, and three links that had been sitting in other " +
+      "people's entries - written against ids that did not exist - went live " +
+      "the moment they did.\n\n" +
       "The famous Nexo Knight — the one with the spectacular sword, who turned " +
       "out to be a villain, and in whose shadow the modest one has spent his " +
       "whole career.\n\n" +
@@ -226,10 +230,15 @@ window.LORE = [
       "negotiation rather than by anyone winning it, with the Shadow Prince — " +
       "the Shadow King's own son — part of getting that settlement done. And " +
       "others: the TV Star lost half his face in one of them.\n\n" +
-      "Two figures on that side have been named and neither photographed. The " +
-      "Shadow King, who is a villain and the Shadow Prince's father. And the " +
-      "Purple Shadow, who killed the Snow Jedi's second Padawan.\n\n" +
-      "Whether they are the same power is not established."
+      "The Shadow King has been photographed now - a villain, the Shadow " +
+      "Prince's father, and king of a dimension locked in eternal conflict " +
+      "with light itself. What he and Quinn did together has its own note.\n\n" +
+      "One figure on that side is still only a name: the Purple Shadow, who " +
+      "killed the Snow Jedi's second Padawan. Whether he and the King are the " +
+      "same power is not established.\n\n" +
+      "Nor is it established whether the shadow uprising Quinn and the King " +
+      "ran is the same war as the Great Shadow War the Prince helped negotiate " +
+      "the end of, or another one."
   },
 
   {
@@ -415,6 +424,74 @@ window.LORE = [
       "the Knighted Civilian who brought him down, and Claws whom he took - " +
       "and both of those links are pointed at an id that does not exist yet. " +
       "They connect themselves the day he is photographed."
+  },
+
+  {
+    title: "The making of Quinn",
+    text:
+      "He was nobody. A low-ranking soldier for a neutral third party in " +
+      "somebody else's conflict, and they left him to die in the cold.\n\n" +
+      "He came back from that with a vow - never to be used by anyone again - " +
+      "and with a conclusion, which is the part that actually matters. He " +
+      "looked at how widespread war is, how industrial and constant, and at " +
+      "how many good people would keep turning up to fight in one. He decided " +
+      "conflict was simply inevitable. And if it could not be stopped, he " +
+      "would be on the winning side of it, at the very top.\n\n" +
+      "Everything after that is method. He studied both kinds of dark art - " +
+      "dark magic and the dark side of the Force - and became a master Sith. " +
+      "He reached the shadow dimension and brought its King in with him. The " +
+      "green came from the study, and then he pushed it further on purpose, " +
+      "because he wanted to change the essence of the body itself and be " +
+      "unkillable.\n\n" +
+      "He has three photographs here and they are three eras of one man: the " +
+      "grunt in standard-issue grey, the independent arms dealer building " +
+      "himself a history, and the neon thing in Sith robes.\n\n" +
+      "The uncomfortable part is that his premise is not stupid. His reasoning " +
+      "is that war never stops - and in a world holding a Space Militia, a " +
+      "Clone Army, a Royal Galactic Army, an Aqua Force, the Green Rangers, " +
+      "the Golden Company and a Great Lego War, that is not obviously wrong. " +
+      "What he did with the reasoning is the wrong part."
+  },
+
+  {
+    title: "The shadow uprising, and the day of betrayals",
+    text:
+      "Quinn and the Shadow King ran the uprising together, and its method was " +
+      "specific: kill as many friendly leaders as possible by raising each " +
+      "leader's own shadow against him. Near-identical versions of the people " +
+      "themselves. It did heavy damage. The shadow forces were pushed back in " +
+      "the end, but the damage was done, which was all he wanted.\n\n" +
+      "Running underneath it was something quieter and worse. For years Quinn " +
+      "contacted anybody who could be turned, on any side, and arranged for " +
+      "every one of those betrayals to land inside the same minute of the same " +
+      "day. Students turned on their masters. Masters turned on their " +
+      "students. Nobody knew who was still theirs.\n\n" +
+      "That is the second time this world records a body used against its own " +
+      "side. The Hijacked was a robot whose lasers villains turned into a " +
+      "weapon while he stayed awake and watched it happen. This was the same " +
+      "idea at the scale of a civilization, twice over - once with shadows " +
+      "wearing people's shapes, and once with people choosing it."
+  },
+
+  {
+    title: "Phalanx",
+    text:
+      "A nanobot virus that found the skull of an ancient alien entity - " +
+      "something transhumanist in its own time - and built itself a body out " +
+      "of it. Jagged, rocky, and not really a person. He consumes people and " +
+      "he consumes planets.\n\n" +
+      "What makes him worse than an appetite is that he is intelligent. He " +
+      "worked out that he cannot spread himself thin enough to eat everything " +
+      "himself, so he does not try. He leads an army of zombie aliens - hosts " +
+      "whose bodies he has taken - and sends them instead.\n\n" +
+      "He is a different kind of enemy from the other two. Quinn and the " +
+      "Shadow King both want something, and a side that wants something can " +
+      "be negotiated with, which is how the Great Shadow War ended. This one " +
+      "wants to eat, and it is the only power here whose army is not made of " +
+      "anybody who chose to be in it.\n\n" +
+      "He is also the second thing in this world built out of something that " +
+      "was here before it. The Ancient is the other, and he was respected as " +
+      "a source of wisdom. This one was dug up and worn."
   }
 
 ];
