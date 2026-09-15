@@ -1027,7 +1027,11 @@ window.LORE = [
       "Worth noticing what it means about how this world was built. Machines " +
       "were never the enemy in it. Every villain up to that point had been a " +
       "person who chose it, and there were sixty-odd of them before a single " +
-      "machine came over."
+      "machine came over.\n\n" +
+      "It has not stopped since. Six of them now: the Missile, the two killer " +
+      "bots, the Maker who built himself, a sentient portable television that " +
+      "walks about, and a red robot carrying copied demigod DNA. That last one " +
+      "has its own note."
   },
 
   {
@@ -1236,6 +1240,27 @@ window.LORE = [
       "Worth deciding whether he gets an entry of his own. He would be the " +
       "first figure in this world catalogued purely because somebody else is " +
       "wearing his clothes."
+  },
+
+  {
+    title: "The programme that finally worked",
+    text:
+      "One of the oldest things on the villain side of this collection is a " +
+      "failure, and it has been sitting in plain sight the whole time.\n\n" +
+      "The Replica's card says it outright: the villains tried to copy demigod " +
+      "power into robot technology and build themselves an evil one of their " +
+      "own. It did not work. They built him off the original DNA, the niceness " +
+      "was already coded into it, and he came out good. He is nowhere near as " +
+      "powerful as a real demigod and he behaves exactly like one. He is filed " +
+      "on the good deck, and his card has read as a joke at the villains' " +
+      "expense ever since it was written.\n\n" +
+      "They kept going. The one photographed now is the last attempt and the " +
+      "one that took: a red robot, evil, sentient, and obedient. Same " +
+      "programme, opposite result, two decks apart, and the Green Demigod they " +
+      "were copying is linked to both of them.\n\n" +
+      "It is the first time in this collection that a card written as a dead " +
+      "end has turned out to be the first chapter of something. The Replica " +
+      "was not the joke. He was the prototype."
   }
 
 ];

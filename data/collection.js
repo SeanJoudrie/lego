@@ -93,6 +93,7 @@ window.COLLECTION = [
     group: "The First Circle",
     location: "",
     relations: [
+      { to: "the-successful-replica", label: "Copied again as" },
       { to: "the-first-man", label: "Padawan of" },
       { to: "the-replica", label: "Replicated as" },
     ],
@@ -3731,6 +3732,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "the-successful-replica", label: "The attempt that worked" },
       { to: "the-green-demigod", label: "Built to replicate" },
     ],
     rating: 0,
@@ -16179,6 +16181,151 @@ window.COLLECTION = [
     images: ["images/the-jetpack-assassin-01.jpg"],
     acquired: "",
     notes: "Seventh assassin here, all seven on the bad side, and the second man in this world whose method is a jetpack - the Jetpack Sniper shoots from one, this one closes with it. The only other jetpacks belong to an archangel and a Nexo Knight, both good. Nothing is written between the two jetpack men, and a pair of them doing the same work from the air is close enough to be worth asking about. The circled D on his shoulder is not explained."
+  },
+
+
+
+  {
+    id: "the-successful-replica",
+    name: "The Successful Replica",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Replica",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-replica", label: "The attempt that worked" },
+      { to: "the-green-demigod", label: "Copied from" },
+    ],
+    rating: 0,
+    background:
+      "The last time they tried it, and the time it worked.\n\n" +
+      "They had been copying the DNA into robot technology for a while, " +
+      "trying to build themselves an evil one of their own, and every attempt " +
+      "before this came out wrong. This one came out right: evil, sentient, " +
+      "and obedient.",
+    provenance:
+      "A red robot head with a wide blue visor band across it, rivets round " +
+      "the plating and a grilled vent where a mouth would be. A black torso " +
+      "printed edge to edge with silver, yellow and orange circuitry - " +
+      "conduits, dials, a fan at the chest - carried down onto black legs with " +
+      "the same panelling. Red arms, black hands.",
+    tags: ["villain", "replica", "robot", "sentient", "obedient", "demigod-copy", "circuitry"],
+    images: ["images/the-successful-replica-01.jpg"],
+    acquired: "",
+    notes: "This pays off a card that has been standing for a very long time. The Replica says outright that the villains tried to copy demigod power into robot technology and build an evil one, and that it did not work - they used the original DNA and the niceness was already in it, so he came out good and is filed on the other deck. This is the attempt that finally worked, linked to him and to the Green Demigod they were copying. One thing to settle: you said archangel DNA and the Replica's card says demigod. The First Circle holds both - the Green Demigod on one side, the Twins, the Engineer and the Rebuilt as Archangels - so say which donor and the programme has a subject. Sixth machine on the bad side."
+  },
+
+  {
+    id: "the-domestic-security-captain",
+    name: "The Domestic Security Captain",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Domestic Security Captain",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Captain of domestic security.",
+    provenance:
+      "A grey flight helmet with goggles pushed up on the brow, over a pale " +
+      "face with a black beard and a wide grin. A grey torso printed with a " +
+      "gold circuit board across the chest and a zip up the middle of it; blue " +
+      "arms, black hands. Grey mechanical legs panelled in silver, with a " +
+      "yellow gauge on one thigh and a red one on the other, and a small white " +
+      "skull at the belt.",
+    tags: ["villain", "security", "captain", "domestic", "goggles", "circuitry", "mechanical-legs"],
+    images: ["images/the-domestic-security-captain-01.jpg"],
+    acquired: "",
+    notes: "The mirror of the Watch Commander, who runs the domestic police forces for the good side - the ground units, the small ones, the citywide day-to-day, and who is very strict and very stern about it. Same beat, opposite side. Nothing is written between them. Eighth villain carrying a captaincy."
+  },
+
+  {
+    id: "the-space-biker-leader",
+    name: "The Space Biker Leader",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Leader, Space Bikers",
+    group: "The Space Bikers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He leads the space bikers - a gang of them, out there on the roads " +
+      "between places.",
+    provenance:
+      "A moulded lime-green alien head, horned at the crown with two long ears " +
+      "swept back, black eyes and a small tusked mouth. A black torso printed " +
+      "with a white armour plate across the chest carrying a lime-green B in a " +
+      "roundel, and a row of white bars at the waist; lime arms, black hands, " +
+      "black legs printed with pale cracks and red panels.",
+    tags: ["villain", "space-biker", "gang", "leader", "alien", "roundel"],
+    images: ["images/the-space-biker-leader-01.jpg"],
+    acquired: "",
+    notes: "New group: The Space Bikers, three strong, and the first gang of any kind in this collection - the bad side has had leagues, cults, militias, squadrons and a propaganda unit, but nothing that is simply a gang. Reading \"led by the first one\" as the first of the three bikers rather than the red robot, on the grounds that a sentient archangel copy is unlikely to be running a road gang. Say otherwise and the leadership moves."
+  },
+
+  {
+    id: "the-slimed-biker",
+    name: "The Slimed Biker",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Biker",
+    group: "The Space Bikers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the space bikers.",
+    provenance:
+      "The same moulded lime-green alien head as the leader. A black torso " +
+      "with pale green slime printed running down from the collar in heavy " +
+      "drips, an orange flaming skull in a ring at one side and an orange " +
+      "bracket at the other; lime arms, grey hands, black legs cracked through " +
+      "with orange like something burning underneath.",
+    tags: ["villain", "space-biker", "gang", "alien", "slime", "flaming-skull"],
+    images: ["images/the-slimed-biker-01.jpg"],
+    acquired: "",
+    notes: "Same head as the leader, different everything else - the gang is a look rather than a uniform, which is the opposite of how every other outfit on that side is put together. The Iron League wear one matched chest plate between four men."
+  },
+
+  {
+    id: "the-orange-biker",
+    name: "The Orange Biker",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Biker",
+    group: "The Space Bikers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the space bikers.",
+    provenance:
+      "The same moulded alien head as the other two, in orange rather than " +
+      "lime - horned, long-eared, black-eyed, tusked. A dark blue torso " +
+      "printed with a grey chest plate and a panelled belt with a single dial " +
+      "at the buckle; orange arms, black hands, plain grey legs.",
+    tags: ["villain", "space-biker", "gang", "alien", "orange", "armour-plate"],
+    images: ["images/the-orange-biker-01.jpg"],
+    acquired: "",
+    notes: "Third of the bikers and the plainest of them - no slime, no roundel, no crack down the legs, just the head and the armour. The colour is the only thing that separates him from the leader at a glance."
   },
 
 
