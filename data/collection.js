@@ -9130,7 +9130,7 @@ window.COLLECTION = [
 
   {
     id: "the-mars-mission-astronaut",
-    name: "The Mars Mission Astronaut",
+    name: "The Clench-Jawed Astronaut",
     variant: "",
     faction: "good",
     origin: "custom",
@@ -9153,7 +9153,127 @@ window.COLLECTION = [
       { src: "images/the-mars-mission-astronaut-02.jpg", caption: "Visor up" },
     ],
     acquired: "",
-    notes: "One man, two photos - not two figures. New group, Mars Mission, though only he is in it so far: you said three, so two more to come. Also worth noting the badge on his chest is the old rocket-and-planet mark that Classic Space wear, which would make Mars Mission a later chapter of the same service rather than a separate one - say so and the two connect."
+    notes: "One man, two photos - not two figures. Renamed from The Mars Mission Astronaut once the crew grew to five, since that name read as the whole group. He is still the only one photographed both ways. Also worth noting the badge on his chest is the old rocket-and-planet mark that Classic Space wear, which would make Mars Mission a later chapter of the same service rather than a separate one - say so and the two connect."
+  },
+
+
+  {
+    id: "the-grimy-astronaut",
+    name: "The Grimy Astronaut",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Astronaut",
+    group: "Mars Mission",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Mars Mission crew.",
+    provenance:
+      "Visor pushed up on the brim. The face under it is filthy - heavy " +
+      "stubble, grime across the cheeks, jaw set hard. His sleeves carry " +
+      "green staining from years of handling.",
+    tags: ["astronaut", "mars-mission", "space", "worn"],
+    images: ["images/the-grimy-astronaut-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. The dirtiest face on the crew, and the wear on his arms is real - he has been played with harder than the rest."
+  },
+
+
+  {
+    id: "the-smiling-astronaut",
+    name: "The Smiling Astronaut",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Astronaut",
+    group: "Mars Mission",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Mars Mission crew.",
+    provenance:
+      "Visor up, dark sunglasses on, and an easy closed-mouth smile. One " +
+      "silver hand and one black.",
+    tags: ["astronaut", "mars-mission", "space", "sunglasses"],
+    images: ["images/the-smiling-astronaut-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, and kept clear of the Clench-Jawed Astronaut, who wears the same sunglasses with his teeth bared. Sunglasses and a smile are the difference between them."
+  },
+
+
+  {
+    id: "the-astronaut-in-the-gold-visor",
+    name: "The Astronaut in the Gold Visor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Astronaut",
+    group: "Mars Mission",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Mars Mission crew.",
+    provenance: "White dome with the solid gold visor down. No face has been seen.",
+    tags: ["astronaut", "mars-mission", "space", "gold-visor"],
+    images: ["images/the-astronaut-in-the-gold-visor-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. Nobody has looked under this one, so there is nothing recorded about his face - which also means there is no way to tell yet whether he is his own man or a duplicate of somebody already here."
+  },
+
+
+  {
+    id: "the-astronaut-in-the-yellow-visor",
+    name: "The Astronaut in the Yellow Visor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Astronaut",
+    group: "Mars Mission",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Mars Mission crew.",
+    provenance:
+      "Transparent yellow visor rather than the gold - his face shows straight " +
+      "through it, brows down, stubbled. The legs are flecked pale where the " +
+      "white has worn.",
+    tags: ["astronaut", "mars-mission", "space", "yellow-visor"],
+    images: ["images/the-astronaut-in-the-yellow-visor-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. The only clear visor in the crew - everybody else's is solid, so he is the one who can be read with his helmet shut."
+  },
+
+
+  {
+    id: "the-enforcer-squad",
+    name: "The Enforcer Squad",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The Enforcer Squad. There are two of them.",
+    provenance:
+      "White armour with a black visor band straight across the dome, and a " +
+      "ribbed chest and belt plate printed on the torso. The two are identical.",
+    tags: ["enforcer", "squad", "soldier", "unit", "armour", "two"],
+    images: [{ src: "images/the-enforcer-squad-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "One entry for the pair, the way the US Army Soldiers and the Enemy are done. Filed good by the standing rule, since you have not said otherwise. No group written - two men with no third are a squad, not an organisation, unless there is something above them."
   },
 
 

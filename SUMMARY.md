@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-346 characters from a custom LEGO minifigure world, in the order they were
+351 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4026,7 +4026,7 @@ An astronaut.
 
 *Tags:* astronaut, space, gold-visor, pressure-suit, life-support
 
-### 346. The Mars Mission Astronaut
+### 346. The Clench-Jawed Astronaut
 
 **Alignment:** good · **Role:** Astronaut · **Figure:** custom
 
@@ -4035,6 +4035,56 @@ One of the Mars Mission crew.
 *How it was got:* White suit printed with an orange harness and the old rocket-and-planet badge on the chest. The gold visor flips: down it covers the face entirely, up it sits on the brim and shows a yellow face in sunglasses, teeth clenched.
 
 *Tags:* astronaut, mars-mission, space, gold-visor, classic-space-logo
+
+### 347. The Grimy Astronaut
+
+**Alignment:** good · **Role:** Astronaut · **Figure:** custom
+
+One of the Mars Mission crew.
+
+*How it was got:* Visor pushed up on the brim. The face under it is filthy - heavy stubble, grime across the cheeks, jaw set hard. His sleeves carry green staining from years of handling.
+
+*Tags:* astronaut, mars-mission, space, worn
+
+### 348. The Smiling Astronaut
+
+**Alignment:** good · **Role:** Astronaut · **Figure:** custom
+
+One of the Mars Mission crew.
+
+*How it was got:* Visor up, dark sunglasses on, and an easy closed-mouth smile. One silver hand and one black.
+
+*Tags:* astronaut, mars-mission, space, sunglasses
+
+### 349. The Astronaut in the Gold Visor
+
+**Alignment:** good · **Role:** Astronaut · **Figure:** custom
+
+One of the Mars Mission crew.
+
+*How it was got:* White dome with the solid gold visor down. No face has been seen.
+
+*Tags:* astronaut, mars-mission, space, gold-visor
+
+### 350. The Astronaut in the Yellow Visor
+
+**Alignment:** good · **Role:** Astronaut · **Figure:** custom
+
+One of the Mars Mission crew.
+
+*How it was got:* Transparent yellow visor rather than the gold - his face shows straight through it, brows down, stubbled. The legs are flecked pale where the white has worn.
+
+*Tags:* astronaut, mars-mission, space, yellow-visor
+
+### 351. The Enforcer Squad — Two of them
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+The Enforcer Squad. There are two of them.
+
+*How it was got:* White armour with a black visor band straight across the dome, and a ribbed chest and belt plate printed on the torso. The two are identical.
+
+*Tags:* enforcer, squad, soldier, unit, armour, two
 
 ---
 
