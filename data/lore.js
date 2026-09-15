@@ -372,6 +372,25 @@ window.LORE = [
       "dead. The unit had no captain at all until the Ranger Patrol Captain " +
       "turned up in the lost - which means the one time this outfit had " +
       "somebody in charge, he was already gone."
+  },
+
+  {
+    title: "Stolen uniforms",
+    text:
+      "Three of the lost were wearing clothes that were not theirs.\n\n" +
+      "A thug in a blue service parka with a submarine in a gunsight on the " +
+      "chest. A woman in a space captain's flight suit with the cogged badge. " +
+      "An evil captain in a rebel pilot's flak vest. None of the three had any " +
+      "right to what they had on, and two of them were calling themselves " +
+      "captains while they wore it.\n\n" +
+      "This matters more than it looks, because a uniform is how this " +
+      "catalogue has been deciding who people are. Figures get filed into " +
+      "units by what they wear - the light green is the Verdauf, the blue " +
+      "trident is Aqua Force, the yellow markings are the Golden Company. " +
+      "These three are the world saying that the method has a hole in it.\n\n" +
+      "The sharpest case is the woman. She is in the exact suit the Blue Space " +
+      "Captain wears, down to the badge, and he is among the lost as well. " +
+      "Nobody has said she took it off him. Nobody has said she did not."
   }
 
 ];

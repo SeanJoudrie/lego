@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-500 characters from a custom LEGO minifigure world, in the order they were
+505 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -220,6 +220,16 @@ That is the worst rate of any unit here by a distance - the Space Militia has lo
 What makes it land is who they are. The Rangers have the most expressive faces in the collection: two enormous round eyes and no mouth at all, a handlebar moustache running into muttonchops, the widest grin in the unit. They were written down as the funny ones. They are the ones the world keeps taking from.
 
 And the only Green Ranger who ever outranked the others is among the dead. The unit had no captain at all until the Ranger Patrol Captain turned up in the lost - which means the one time this outfit had somebody in charge, he was already gone.
+
+### Stolen uniforms
+
+Three of the lost were wearing clothes that were not theirs.
+
+A thug in a blue service parka with a submarine in a gunsight on the chest. A woman in a space captain's flight suit with the cogged badge. An evil captain in a rebel pilot's flak vest. None of the three had any right to what they had on, and two of them were calling themselves captains while they wore it.
+
+This matters more than it looks, because a uniform is how this catalogue has been deciding who people are. Figures get filed into units by what they wear - the light green is the Verdauf, the blue trident is Aqua Force, the yellow markings are the Golden Company. These three are the world saying that the method has a hole in it.
+
+The sharpest case is the woman. She is in the exact suit the Blue Space Captain wears, down to the badge, and he is among the lost as well. Nobody has said she took it off him. Nobody has said she did not.
 
 ---
 
@@ -5687,6 +5697,64 @@ A rifleman of the Golden Company. Lost, and dead.
 Too soft a frame to tell Phase 1 from Phase 2, or to read the unit markings the living Rifleman carries on both arms.
 
 *Tags:* star-wars, clone, trooper, rifleman, golden-company, rifle, lost, deceased, branded
+
+### 501. The Saxophone Player
+
+**Alignment:** good · **Role:** Musician · **Figure:** custom
+
+A saxophone player, and cool with it. Lost, and dead.
+
+*How it was got:* Spiked brown hair, blue-tinted aviator sunglasses, a small closed smile. Brown leather jacket printed open over a cream shirt with buckled straps at the shoulders and a belt at the waist, dark red legs. A pearl-gold saxophone held up to his mouth in both hands.
+
+Photographed standing on wet sand with the sea behind him and his own reflection under his feet - the only figure among the lost shot outdoors, and one of very few anywhere in this collection.
+
+*Tags:* musician, saxophone, music, cool, sunglasses, lost, deceased
+
+### 502. The Old Verdauf Soldier
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+An old soldier of the Verdauf Squadron. Lost, and dead.
+
+*How it was got:* White armour rather than the squadron green - a plated torso with a dark utility belt and a grey shoulder panel. Black hair, a heavy black beard swallowing the whole lower face, a black comm piece at the ear and scuffing across the chest and arms. Two black weapons in the frame with him.
+
+He is built off white blocks below the waist rather than printed legs.
+
+*Tags:* verdauf, squadron, soldier, veteran, beard, white-armor, lost, deceased
+
+### 503. The Blue Pirate Thug
+
+**Alignment:** good · **Role:** Thug · **Figure:** custom
+
+A pirate thug. The uniform he is wearing is not his - he stole it. Lost, and dead.
+
+*How it was got:* Blue knit cap over a black respirator mask with round goggle lenses, the whole face covered. Blue service parka with a fur-trimmed collar, a zip up the front, twin yellow-and-black belt buckles, and a badge at the chest of a submarine inside a targeting reticle. Blue legs with a white stripe, a black blaster in one hand and a yellow standard on a pole behind him.
+
+*Tags:* thug, pirate, stolen-uniform, respirator, blue, lost, deceased
+
+### 504. The Space Captain Lady
+
+**Alignment:** good · **Role:** Captain · **Figure:** custom
+
+A space captain. The uniform she is wearing is not hers - she stole it. Lost, and dead.
+
+*How it was got:* The blue flight cap with the ear flaps down, a silver visor pushed up off the face. Yellow skin, red lipstick, a broad smile. Blue flight suit with the cogged badge at the chest and the printed equipment belt at the waist.
+
+It is the same uniform the Blue Space Captain wears, down to the badge.
+
+*Tags:* captain, space, woman, stolen-uniform, visor, lost, deceased
+
+### 505. The Evil Space Captain
+
+**Alignment:** bad · **Role:** Captain · **Figure:** custom
+
+An evil space captain. The uniform he is wearing is not his - he stole it. Lost, and dead.
+
+*How it was got:* White and grey flight helmet with a gold bar over the crown. Pale face, dark brows, a full black beard. Cream flak vest printed with angular grey panels and clasps over blue arms and blue legs, a white cloth hanging from one shoulder.
+
+It is a rebel pilot's kit. There are nine Rebel Pilots in this collection and he is not one of them.
+
+*Tags:* captain, space, villain, stolen-uniform, flight-helmet, beard, lost, deceased
 
 ---
 

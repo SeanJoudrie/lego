@@ -13280,7 +13280,7 @@ window.COLLECTION = [
     tags: ["captain", "space", "pilot", "goggles", "headset", "lost", "deceased"],
     images: ["images/the-blue-space-captain-01.jpg"],
     acquired: "",
-    notes: "Filed as one of yours because that is how you named him - every Star Wars figure here you call by its Star Wars name, and this one you called a space captain. Say the word and he moves to the Star Wars corner. No group either: this world has a Space Militia, a Royal Galactic Army, a Royal Space Academy and a Blacktron Squadron, and nobody has said which ship was his."
+    notes: "Filed as one of yours because that is how you named him - every Star Wars figure here you call by its Star Wars name, and this one you called a space captain. Say the word and he moves to the Star Wars corner. No group either: this world has a Space Militia, a Royal Galactic Army, a Royal Space Academy and a Blacktron Squadron, and nobody has said which ship was his. Since he was catalogued, the Space Captain Lady has turned up in the identical suit, badge and all, and hers is stolen - so his is the uniform somebody thought worth taking."
   },
 
 
@@ -13388,6 +13388,153 @@ window.COLLECTION = [
     images: ["images/the-lost-golden-rifleman-01.jpg"],
     acquired: "",
     notes: "Named apart from the Golden Company Rifleman only because that name is taken - you called them both riflemen. First loss in the Golden Company, and the only branded figure among the lost - every other one of the dead is a person out of your own world rather than out of a box."
+  },
+
+
+
+  {
+    id: "the-saxophone-player",
+    name: "The Saxophone Player",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Musician",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A saxophone player, and cool with it. Lost, and dead.",
+    provenance:
+      "Spiked brown hair, blue-tinted aviator sunglasses, a small closed " +
+      "smile. Brown leather jacket printed open over a cream shirt with " +
+      "buckled straps at the shoulders and a belt at the waist, dark red legs. " +
+      "A pearl-gold saxophone held up to his mouth in both hands.\n\n" +
+      "Photographed standing on wet sand with the sea behind him and his own " +
+      "reflection under his feet - the only figure among the lost shot " +
+      "outdoors, and one of very few anywhere in this collection.",
+    tags: ["musician", "saxophone", "music", "cool", "sunglasses", "lost", "deceased"],
+    images: ["images/the-saxophone-player-01.jpg"],
+    acquired: "",
+    notes: "Third musician in this world after the Rap Star and the Bard - Max Rebo is out of a film. The only one of the three photographed actually playing, and the only figure in the lost block who was given a scene rather than a table."
+  },
+
+
+  {
+    id: "the-old-verdauf-soldier",
+    name: "The Old Verdauf Soldier",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Verdauf",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An old soldier of the Verdauf Squadron. Lost, and dead.",
+    provenance:
+      "White armour rather than the squadron green - a plated torso with a " +
+      "dark utility belt and a grey shoulder panel. Black hair, a heavy black " +
+      "beard swallowing the whole lower face, a black comm piece at the ear " +
+      "and scuffing across the chest and arms. Two black weapons in the frame " +
+      "with him.\n\n" +
+      "He is built off white blocks below the waist rather than printed legs.",
+    tags: ["verdauf", "squadron", "soldier", "veteran", "beard", "white-armor", "lost", "deceased"],
+    images: ["images/the-old-verdauf-soldier-01.jpg"],
+    acquired: "",
+    notes: "The Verdauf are eight men on five cards now and this is their first loss off the shelf - but not their first death. The Green Captain died in the world, aboard the ship with the bomb, and he is still here to photograph. This man is the other kind of dead. He wears white rather than the light green the squadron is known by, which is the same white the Younger Brother wears in his father's armour; whether that means anything is not written down."
+  },
+
+
+  {
+    id: "the-blue-pirate-thug",
+    name: "The Blue Pirate Thug",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Thug",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A pirate thug. The uniform he is wearing is not his - he stole it. " +
+      "Lost, and dead.",
+    provenance:
+      "Blue knit cap over a black respirator mask with round goggle lenses, " +
+      "the whole face covered. Blue service parka with a fur-trimmed collar, a " +
+      "zip up the front, twin yellow-and-black belt buckles, and a badge at " +
+      "the chest of a submarine inside a targeting reticle. Blue legs with a " +
+      "white stripe, a black blaster in one hand and a yellow standard on a " +
+      "pole behind him.",
+    tags: ["thug", "pirate", "stolen-uniform", "respirator", "blue", "lost", "deceased"],
+    images: ["images/the-blue-pirate-thug-01.jpg"],
+    acquired: "",
+    notes: "One of three you sent in stolen uniforms. Kept good rather than bad, the way the Outlaw is - a mercenary who would rob any of the good guys blind and would never hurt one - because you called him a thug, not evil. The badge is a submarine in a gunsight, which is a navy marking, and the only underwater service in this world is Aqua Force; if that is who he robbed, say so."
+  },
+
+
+  {
+    id: "the-space-captain-lady",
+    name: "The Space Captain Lady",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A space captain. The uniform she is wearing is not hers - she stole it. " +
+      "Lost, and dead.",
+    provenance:
+      "The blue flight cap with the ear flaps down, a silver visor pushed up " +
+      "off the face. Yellow skin, red lipstick, a broad smile. Blue flight " +
+      "suit with the cogged badge at the chest and the printed equipment belt " +
+      "at the waist.\n\n" +
+      "It is the same uniform the Blue Space Captain wears, down to the badge.",
+    tags: ["captain", "space", "woman", "stolen-uniform", "visor", "lost", "deceased"],
+    images: ["images/the-space-captain-lady-01.jpg"],
+    acquired: "",
+    notes: "The hardest of the three to file, because she is wearing a real man's clothes: the Blue Space Captain is in this collection, in that exact suit, and he is among the lost too. No link written - stealing a uniform is not the same as having met the man it belonged to, and nobody has said she took it off him. Say so and they connect. Second woman here who captains anything, after the Pirate Captain."
+  },
+
+
+  {
+    id: "the-evil-space-captain",
+    name: "The Evil Space Captain",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An evil space captain. The uniform he is wearing is not his - he stole " +
+      "it. Lost, and dead.",
+    provenance:
+      "White and grey flight helmet with a gold bar over the crown. Pale face, " +
+      "dark brows, a full black beard. Cream flak vest printed with angular " +
+      "grey panels and clasps over blue arms and blue legs, a white cloth " +
+      "hanging from one shoulder.\n\n" +
+      "It is a rebel pilot's kit. There are nine Rebel Pilots in this " +
+      "collection and he is not one of them.",
+    tags: ["captain", "space", "villain", "stolen-uniform", "flight-helmet", "beard", "lost", "deceased"],
+    images: ["images/the-evil-space-captain-01.jpg"],
+    acquired: "",
+    notes: "Third bad figure in five hundred and five, after the two units of Enemy Soldiers, and the first villain here who is a person rather than a nameless squad. Marked bad because you called him evil outright; one word flips it. You said the villains come once the good people are done, so he is not that batch - he arrived because he is dead, not because he is bad."
   },
 
 
