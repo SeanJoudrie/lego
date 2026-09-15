@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-366 characters from a custom LEGO minifigure world, in the order they were
+370 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4243,6 +4243,46 @@ Jack Skellington.
 *How it was got:* Bare skull head with the stitched grin, a black bat bow tie with the wings spread wide, and the pinstripe suit printed down the torso and both legs. A cloth sash at the waist.
 
 *Tags:* nightmare-before-christmas, skeleton, pinstripe, halloween, branded
+
+### 367. The Kaminoan
+
+**Alignment:** good · **Figure:** branded
+
+A Kaminoan.
+
+*How it was got:* Tall smooth white skull on a long grey neck, black almond eyes, no nose to speak of. White and grey robes with a high collar, pale blue sleeves. The head and neck are a single moulded piece rather than the usual stud.
+
+*Tags:* star-wars, kaminoan, alien, cloner, branded
+
+### 368. Obi-Wan Kenobi — Two eras
+
+**Alignment:** good · **Role:** Jedi · **Figure:** branded
+
+Obi-Wan Kenobi.
+
+*How it was got:* Two figures of the same man. The older one has a full ginger beard, flesh-toned face, a brown cloth cape and rust-coloured legs. The younger has a plain yellow head, long hair past the shoulders, a headset at the jaw and tan robes throughout.
+
+*Tags:* star-wars, jedi, obi-wan, beard, robes, branded
+
+### 369. Ahsoka Tano
+
+**Alignment:** good · **Role:** Jedi · **Figure:** branded
+
+Ahsoka Tano.
+
+*How it was got:* Orange face with white markings, white and blue montrals falling past the shoulders, grey chest armour over a blue and yellow tabard, and greaved legs. Carries two lightsabers, one in each hand.
+
+*Tags:* star-wars, jedi, ahsoka, togruta, twin-sabers, branded
+
+### 370. Captain America
+
+**Alignment:** good · **Figure:** branded
+
+Captain America.
+
+*How it was got:* Navy blue throughout, with the A on the forehead of the cowl, a white star on the chest and red and white bands across the ribs. Red hands. No shield with him.
+
+*Tags:* marvel, captain-america, soldier, branded
 
 ---
 

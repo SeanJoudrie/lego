@@ -9651,6 +9651,111 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "the-kaminoan",
+    name: "The Kaminoan",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Kaminoan.",
+    provenance:
+      "Tall smooth white skull on a long grey neck, black almond eyes, no " +
+      "nose to speak of. White and grey robes with a high collar, pale blue " +
+      "sleeves. The head and neck are a single moulded piece rather than the " +
+      "usual stud.",
+    tags: ["star-wars", "kaminoan", "alien", "cloner", "branded"],
+    images: ["images/the-kaminoan-01.jpg"],
+    acquired: "",
+    notes: "You could not place the name, so the species is what is written down: Kaminoan, the people who grow the clone armies. Lego has made two of them by name, Lama Su and Taun We, and this is one of the two - tell me which and the entry gets it. Worth noting he is the first non-human in the Star Wars corner of this collection, and the only figure here whose head and neck are one piece."
+  },
+
+
+  {
+    id: "obi-wan-kenobi",
+    name: "Obi-Wan Kenobi",
+    variant: "Two eras",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Jedi",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Obi-Wan Kenobi.",
+    provenance:
+      "Two figures of the same man. The older one has a full ginger beard, " +
+      "flesh-toned face, a brown cloth cape and rust-coloured legs. The " +
+      "younger has a plain yellow head, long hair past the shoulders, a " +
+      "headset at the jaw and tan robes throughout.",
+    tags: ["star-wars", "jedi", "obi-wan", "beard", "robes", "branded"],
+    images: [
+      { src: "images/obi-wan-kenobi-01.jpg", caption: "Bearded, in the brown cape" },
+      { src: "images/obi-wan-kenobi-02.jpg", caption: "Long-haired, with a headset" },
+    ],
+    acquired: "",
+    notes: "One entry, two figures - the same man at two points in his life, the way the Prince and SpongeBob are done. Putting them in as two cards would have broken the one-entry rule. The older of the two is also the only Jedi here with a real cloth cape."
+  },
+
+
+  {
+    id: "ahsoka-tano",
+    name: "Ahsoka Tano",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Jedi",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Ahsoka Tano.",
+    provenance:
+      "Orange face with white markings, white and blue montrals falling past " +
+      "the shoulders, grey chest armour over a blue and yellow tabard, and " +
+      "greaved legs. Carries two lightsabers, one in each hand.",
+    tags: ["star-wars", "jedi", "ahsoka", "togruta", "twin-sabers", "branded"],
+    images: ["images/ahsoka-tano-01.jpg"],
+    acquired: "",
+    notes: "First woman in the Star Wars corner of the collection - the rebel squadron, the Jedi and the bounty hunter are all men. Also the only figure here holding two weapons at once."
+  },
+
+
+  {
+    id: "captain-america",
+    name: "Captain America",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Marvel",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Captain America.",
+    provenance:
+      "Navy blue throughout, with the A on the forehead of the cowl, a white " +
+      "star on the chest and red and white bands across the ribs. Red hands. " +
+      "No shield with him.",
+    tags: ["marvel", "captain-america", "soldier", "branded"],
+    images: ["images/captain-america-01.jpg"],
+    acquired: "",
+    notes: "Fourth Marvel figure, after Tony Stark, Cowboy Spider-Man and Deadpool. He arrives without his shield, which is the one thing everybody would name first about him."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
