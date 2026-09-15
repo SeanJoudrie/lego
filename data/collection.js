@@ -16329,6 +16329,143 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-hyper-violent-alien",
+    name: "The Hyper-Violent Alien",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Alien Soldiers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An alien soldier, and hyper violent with it. That is what is said about " +
+      "him and it is the whole of him so far.",
+    provenance:
+      "A dark red face cracked through with black, white eyes lit orange at " +
+      "the centre, and a small fanged mouth, under swept green hair. A dark " +
+      "red torso printed with an enormous open maw across the chest - two rows " +
+      "of white teeth round a black throat - with orange flame licking up " +
+      "around it, a yellow-blocked belt below, red arms, tan hands, black legs.",
+    tags: ["villain", "alien", "soldier", "violent", "maw", "flame", "green-hair"],
+    images: ["images/the-hyper-violent-alien-01.jpg"],
+    acquired: "",
+    notes: "First of five alien soldiers arriving together. The group name is your own words - you called them various alien soldiers and did not name a unit. See his card mates for the question of which force they belong to."
+  },
+
+  {
+    id: "the-brawling-alien",
+    name: "The Brawling Alien",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Alien Soldiers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Dumb, and good at his job anyway. What he is good at is hand-to-hand.",
+    provenance:
+      "A lime green face with slit yellow eyes ringed in orange and a mouth of " +
+      "small teeth, under a swept red hairpiece. A lime torso printed with " +
+      "scaled plating and orange flasks slung on straps at both hips; one red " +
+      "arm and one lime, lime hands, dark teal legs printed with pale weed and " +
+      "scales.",
+    tags: ["villain", "alien", "soldier", "hand-to-hand", "brawler", "scales", "flasks"],
+    images: ["images/the-brawling-alien-01.jpg"],
+    acquired: "",
+    notes: "The only figure in this collection described as not clever. Everybody else on either side is competent, cunning, expert, elite or a master of something - being plainly dumb and still useful is a new note for this world, and a much more ordinary kind of soldier than it usually gets."
+  },
+
+  {
+    id: "the-alien-medic",
+    name: "The Alien Medic",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Medic",
+    group: "The Alien Soldiers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The medic of the alien soldiers, and an evil one.",
+    provenance:
+      "A pale grey moulded alien head, wide and flat, with two red eyes on " +
+      "stalks standing out to either side, green speckling across the crown, a " +
+      "ring of small teeth and a long red tongue hanging out of the mouth. A " +
+      "pale grey torso printed with faint rib lines, one grey arm and one " +
+      "black, grey hands, a grey belt and pale grey legs.",
+    tags: ["villain", "alien", "medic", "stalked-eyes", "tongue", "moulded-head"],
+    images: ["images/the-alien-medic-01.jpg"],
+    acquired: "",
+    notes: "The first medic in this collection on the bad side. Three medics and doctors are filed good - the Space Militia's medic with tools deep enough for any injury, Delta Squad's, and Dr Oz - and the two villains who practise medicine are the Butcher, who works on the dead, and the Evil Doctor who runs experiments with him. This is the first one on that side whose job is keeping his own people alive."
+  },
+
+  {
+    id: "the-alien-gunslinger",
+    name: "The Alien Gunslinger",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Gunslinger",
+    group: "The Alien Soldiers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The infantry gunslinger of the alien soldiers.",
+    provenance:
+      "A red face lined in black with white slit eyes, a snarl and two lower " +
+      "fangs, under heavy swept black hair. A black leather jacket printed " +
+      "across the torso - open zip up the middle, studded flashes at both " +
+      "shoulders, a grille badge at the chest and a buckled belt; red arms, " +
+      "grey hands, black legs.",
+    tags: ["villain", "alien", "gunslinger", "infantry", "leather-jacket", "studs", "fangs"],
+    images: ["images/the-alien-gunslinger-01.jpg"],
+    acquired: "",
+    notes: "Gunslinger is a new office here. Four men were working a gun as their whole job before him - the Space Police Gunner, the Minigunner, the Delta Gunner and the Defense Gunner - and all four are good. He is also wearing a studded black biker jacket one batch after the Space Bikers arrived. Nothing is written between them and a jacket is not evidence; the only other leather jacket in the collection is the Saxophone Player's, and his is brown and has no studs on it."
+  },
+
+  {
+    id: "the-alien-technician",
+    name: "The Alien Technician",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Technician",
+    group: "The Alien Soldiers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The technician of the alien soldiers.",
+    provenance:
+      "A moulded lime-green head shaped like a snake's, hooded and fanged, " +
+      "with five long quills standing back off the crown and no eyes printed " +
+      "on it at all. A plain black torso with two round studs at the chest, " +
+      "lime arms, lime hands, black legs. No printing anywhere below the neck.",
+    tags: ["villain", "alien", "technician", "snake-head", "quills", "unprinted"],
+    images: ["images/the-alien-technician-01.jpg"],
+    acquired: "",
+    notes: "Second technician on the bad side, after the Infamous Traitor, who is a Technician Sergeant. This unit is now five people with a medic, a technician, a gunslinger and two soldiers - a proper small force rather than a handful of monsters, which is a first for the aliens here. The open question is whose force it is: the Alien Militia has a commander who runs its school and the people who fight for it come up through him, and the Lead Alien Mercenary leads mercenaries who have never been photographed. Either of those has been waiting for exactly this. Say which and The Alien Soldiers folds into it."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {

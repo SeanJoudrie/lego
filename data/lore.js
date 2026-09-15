@@ -1261,6 +1261,29 @@ window.LORE = [
       "It is the first time in this collection that a card written as a dead " +
       "end has turned out to be the first chapter of something. The Replica " +
       "was not the joke. He was the prototype."
+  },
+
+  {
+    title: "Three alien forces, and nobody has said which",
+    text:
+      "The aliens on the bad side have been arriving in pieces for a long time " +
+      "and none of the pieces has been joined up.\n\n" +
+      "There is the Lead Alien Mercenary, skilled in every kind of combat " +
+      "there is, who leads mercenaries nobody has ever photographed. There is " +
+      "the Alien Militia, which has a captain who runs its school - the people " +
+      "who fight for that militia come up through him - and which has had " +
+      "exactly one member since the day it was named. And there are now five " +
+      "alien soldiers with a medic, a technician and a gunslinger among them, " +
+      "described only as various alien soldiers.\n\n" +
+      "Two of those three have been standing empty waiting for troops, and the " +
+      "third is troops. It is very likely they are the same thing, and nothing " +
+      "written anywhere says so, so the catalogue keeps them apart and the new " +
+      "five sit under a name taken straight from the words used for them.\n\n" +
+      "What is worth noticing on its own is what the five of them are. Every " +
+      "other alien on that side is a specialist who works alone - a mercenary " +
+      "leader, a bounty hunter, a brawler, an invasion leader. This lot have a " +
+      "medic to keep them alive and a technician to keep the kit running. That " +
+      "is not a band of monsters. That is an army with a supply chain."
   }
 
 ];
