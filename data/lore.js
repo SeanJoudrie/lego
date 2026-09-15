@@ -1457,6 +1457,30 @@ window.LORE = [
       "traitor. The Verdauf lost a captain, the dive team lost two men, the " +
       "Green Rangers were stranded by their own general. This one did not lose " +
       "anybody. It simply started there."
+  },
+
+  {
+    title: "The bought enemy starts talking to itself",
+    text:
+      "For a long time the bought figures came in as famous people and nothing " +
+      "else. A hundred and fifty-four of them now, out of Star Wars, Ninjago, " +
+      "Marvel, DC, Chima, Harry Potter and the rest, and twenty-eight of those " +
+      "are on the villain side. Until this batch not one of those twenty-eight " +
+      "had a line drawn to another one of them. They stood in a row, each " +
+      "famous on his own, with the entire web of who-knows-whom belonging to " +
+      "the figures that were invented here.\n\n" +
+      "Three lines got drawn at once. Dooku to Ventress, master and apprentice. " +
+      "Maul to Savage Opress, brothers. The Gamorrean to Jabba, the first " +
+      "person written down as standing in a crime lord's doorway.\n\n" +
+      "Savage Opress is the one it lands on. He was the first figure ever " +
+      "filed here as an enemy with a name already printed on the box - the card " +
+      "that broke a run of more than a hundred bought figures all landing good " +
+      "- and he sat with an empty relations list ever since. He now has a " +
+      "brother and a master, which is more than any other bought villain here " +
+      "except the master himself.\n\n" +
+      "So the shape has changed. The enemy used to be entirely home-made and " +
+      "the famous people were decoration. The famous people are starting to " +
+      "form ranks."
   }
 
 ];

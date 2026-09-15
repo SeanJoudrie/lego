@@ -9670,7 +9670,7 @@ window.COLLECTION = [
   {
     id: "anakin-skywalker",
     name: "Anakin Skywalker",
-    variant: "Four figures",
+    variant: "Six figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9682,22 +9682,29 @@ window.COLLECTION = [
     rating: 0,
     background: "Anakin Skywalker, as a boy and grown.",
     provenance:
-      "Three figures of the same man. Two are the boy - one with short dark " +
+      "Six figures of the same man. Two are the boy - one with short dark " +
       "brown hair, one with a fairer sandy mop - both freckled, both in plain " +
       "pale desert clothes with a brown belt, no armour and no weapon. The " +
       "third is the man: long swept hair, a scar down one cheek, blue eyes and " +
       "black Jedi robes with a brown leather belt. A fourth is him again in " +
       "cold-weather kit: a navy parka with a grey fur hood, the Jedi crest on " +
-      "the chest, and a scarf and goggles wrapped over the whole face.",
+      "the chest, and a scarf and goggles wrapped over the whole face." +
+      "The fifth and sixth arrived together and share a face - long straight " +
+      "brown hair parted in the middle, a scar drawn down from the right " +
+      "eyebrow, a closed half-smile. One wears black Jedi robes over an olive " +
+      "tunic with a band of orange and gold at the waist; the other wears grey " +
+      "plated armour strapped on over the robes, with reddish brown arms and " +
+      "steel legs.",
     tags: ["star-wars", "anakin", "child", "desert", "branded"],
     images: [
       { src: "images/anakin-skywalker-01.jpg", caption: "As a boy, dark hair" },
       { src: "images/anakin-skywalker-03.jpg", caption: "As a boy, fair hair" },
       { src: "images/anakin-skywalker-02.jpg", caption: "Grown, in Jedi black" },
       { src: "images/anakin-skywalker-04.jpg", caption: "Grown, in cold-weather kit" },
+      { src: "images/anakin-skywalker-05.jpg", caption: "Two more, grown - robes and armour" },
     ],
     acquired: "",
-    notes: "He was entered under his full name last time precisely so a grown figure could join this entry instead of starting a second one, and that is what happened - the boy and the man are one card. Four figures now, two of them the boy - the most of any person in this collection. The scar is the whole distance between the child and the man. Whether this world knows he is Luke's father is still not written down."
+    notes: "He was entered under his full name last time precisely so a grown figure could join this entry instead of starting a second one, and that is what happened - the boy and the man are one card. Six figures now, two of them the boy. That ties him with Luke Skywalker for the most of any one person here - and it corrects this card, which claimed at four that it already held the record when Luke had six all along. Obi-Wan has five. Nobody else is above three. The scar is the whole distance between the child and the man. Whether this world knows he is Luke's father is still not written down. The two new ones arrived in the middle of a run of branded villains, which is worth flagging: if either of them was meant to be the turn rather than the Jedi, say so and he gets the same treatment as Boba Fett, who was split into a boy on this side and a man on the other."
   },
 
 
@@ -15433,7 +15440,10 @@ window.COLLECTION = [
     role: "Sith",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "count-dooku", label: "His master, for a time" },
+      { to: "darth-maul", label: "His brother" },
+    ],
     rating: 0,
     background:
       "Savage Opress.",
@@ -15961,7 +15971,9 @@ window.COLLECTION = [
     role: "Crime Lord",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-gamorrean-guard", label: "His guard" },
+    ],
     rating: 0,
     background:
       "Literally Jabba the Hutt.",
@@ -15973,7 +15985,7 @@ window.COLLECTION = [
     tags: ["villain", "crime-lord", "hutt", "star-wars", "branded", "not-a-minifigure", "large"],
     images: ["images/jabba-the-hutt-01.jpg"],
     acquired: "",
-    notes: "Fourth branded villain, third of them out of Star Wars, and by some distance the largest thing in this collection - he does not fit the shape everything else here is. He is also the first villain who is a crime lord rather than a soldier, a cultist or a hired man: the underworld on that side has had bounty hunters, assassins, smugglers and three financiers, and now it has somebody they would all answer to. Nothing written between him and any of them."
+    notes: "Fourth branded villain, third of them out of Star Wars, and by some distance the largest thing in this collection - he does not fit the shape everything else here is. He is also the first villain who is a crime lord rather than a soldier, a cultist or a hired man: the underworld on that side has had bounty hunters, assassins, smugglers and three financiers, and now it has somebody they would all answer to. Nothing was written between him and any of them when he was catalogued; his own guard has since arrived, and is still the only line drawn to him."
   },
 
   {
@@ -17933,6 +17945,126 @@ window.COLLECTION = [
     notes: "The first guard in this collection on the bad side. Five were catalogued before him and all five stand in front of somebody good - Heavy and the Prince's Guards and the Guardsman at the Royal Household, the Jedi Palace Guard, and the Ninja Golem who guards the golden sword. This one stands in front of an emperor. He is also almost entirely unprinted, which on that side puts him with the Shadow King, the Purple Shadow and the Shadow Sorcerer - and they are black where he is red."
   },
 
+
+  {
+    id: "asajj-ventress",
+    name: "Asajj Ventress",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Assassin",
+    group: "",
+    location: "",
+    relations: [
+      { to: "count-dooku", label: "Her master" }
+    ],
+    rating: 0,
+    background:
+      "Asajj Ventress.",
+    provenance:
+      "A white head, bald to the crown, with thin purple marks scratched back " +
+      "over the scalp and down past the mouth. Pale blue eyes ringed in heavy " +
+      "black, and a full red mouth, which makes her the most made-up face on " +
+      "this side of the collection. A grey and dark blue bodysuit, ribbed at " +
+      "the chest, with a white ring buckle at the waist and blue panelling " +
+      "running down the legs. Grey arms, white hands, black feet.",
+    tags: ["villain", "star-wars", "branded", "sith", "assassin", "woman", "bald", "white"],
+    images: ["images/asajj-ventress-01.jpg"],
+    acquired: "",
+    notes: "Twenty-fifth branded villain. Tenth figure here whose job is assassin, and all ten of them are on this side - nobody good in this collection has ever held that job. She is also the sixth woman on the villain side, after the TV Camera Woman, the Pharaoh, the Orc Queen, the Blue Bounty Hunter and Harley Quinn, against twelve on the good side. She and her master came in together, and that is the real change in this batch: before it, not one branded villain here had a line drawn to another branded villain. Three got drawn at once."
+  },
+
+  {
+    id: "count-dooku",
+    name: "Count Dooku",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Sith Lord",
+    group: "",
+    location: "",
+    relations: [
+      { to: "asajj-ventress", label: "His apprentice" },
+      { to: "savage-opress", label: "Trained him, for a time" }
+    ],
+    rating: 0,
+    background:
+      "Count Dooku.",
+    provenance:
+      "Light grey hair swept back off a plain yellow head - not the flesh tone " +
+      "the rest of the Star Wars figures here use, the old yellow, which dates " +
+      "him to the first years of the licence. The face is a frown with two " +
+      "long lines cut down from the nose and creases at the eyes. A black " +
+      "tunic with a tan collar band, a fine chain across the chest and a tan " +
+      "belt, black legs with grey boots, yellow hands. A brown cloth cape gone " +
+      "furred at the edges from age. He is holding a silver piece at one hand.",
+    tags: ["villain", "star-wars", "branded", "sith", "cape", "yellow-head", "old"],
+    images: ["images/count-dooku-01.jpg"],
+    acquired: "",
+    notes: "Twenty-sixth branded villain and the seventh Sith here, after Quinn, the Purple Shadow, the Sith Lord, Savage Opress, Darth Nihilus and Darth Vader - three home-made, four bought, so the bought ones have just taken the lead in a category this collection invented for itself first. The yellow head dates him. It is the mould from before the licence went to flesh tones, and the other yellow heads written up here - Luke, Obi-Wan, Padme, young Boba Fett and three of the pilots - are every one of them on the good side. He is the oldest-looking villain on the shelf. He also brings Savage Opress a master: Savage was the first branded villain in this collection and had nothing written to anybody until this batch."
+  },
+
+  {
+    id: "the-gamorrean-guard",
+    name: "The Gamorrean Guard",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Guard",
+    group: "",
+    location: "",
+    relations: [
+      { to: "jabba-the-hutt", label: "Guards him" }
+    ],
+    rating: 0,
+    background:
+      "A Gamorrean guard, from the crime lord's palace.",
+    provenance:
+      "A single moulded pale green piece that is head, jaw, ears and shoulders " +
+      "all at once - a tusked pig face with small sunk eyes and a snout, " +
+      "dropping into a smock with a strap across the chest and a belt. Green " +
+      "legs, and reddish brown arms with tan hands, the only part of him that " +
+      "is a normal minifigure. Nothing on him is printed; all of it is moulded.",
+    tags: ["villain", "star-wars", "branded", "guard", "creature", "green", "moulded", "unprinted"],
+    images: ["images/the-gamorrean-guard-01.jpg"],
+    acquired: "",
+    notes: "Twenty-seventh branded villain, and the second guard on the villain side after the Imperial Royal Guard. That is two against five on the good side, where a guard stands in front of a prince or a temple; both of these stand in front of a tyrant. He matters more for who he is standing in front of. Jabba the Hutt came in with nothing written between him and anyone, noted at the time as odd for a crime lord surrounded by bounty hunters and financiers who would all answer to him. This is the first line drawn to Jabba, and it is his own doorman."
+  },
+
+  {
+    id: "darth-maul",
+    name: "Darth Maul",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Sith",
+    group: "",
+    location: "",
+    relations: [
+      { to: "savage-opress", label: "His brother" }
+    ],
+    rating: 0,
+    background:
+      "Darth Maul.",
+    provenance:
+      "A black hood pulled right forward, and inside it a red face broken up " +
+      "by black tattooing across the brow, cheeks and chin, with yellow eyes " +
+      "and a small bared mouth. Black robes printed in fine grey lines over a " +
+      "black torso, black arms and hands, black legs, and a long black cloth " +
+      "cape behind. Apart from the face he is black from the hood down.",
+    tags: ["villain", "star-wars", "branded", "sith", "hood", "cape", "tattooed", "black"],
+    images: ["images/darth-maul-01.jpg"],
+    acquired: "",
+    notes: "Twenty-eighth branded villain and the eighth Sith. He is here for his brother. Savage Opress was the first figure ever filed on the villain side with a name already printed on the box, the card that broke a run of a hundred and twenty-six bought figures all landing good, and he sat there with an empty relations list for twenty-three villains after him. In one batch he has picked up a brother and a master. He is also the second card in this batch to hand Savage something. Two relations ties him with Dooku for the most of any bought villain here, which is a strange result: the best-connected figures on the branded side of the enemy are now the one who sat alone longest and the master who turned up to claim him."
+  },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
