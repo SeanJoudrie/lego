@@ -12288,7 +12288,7 @@ window.COLLECTION = [
     tags: ["star-wars", "clone", "commander", "red", "rangefinder", "kama", "branded"],
     images: ["images/the-commander-in-red-01.jpg"],
     acquired: "",
-    notes: "Fifth clone commander in the Star Wars corner, after Cody, the Golden Commander, the 187th and the painted one - and every single one of them is marked out by a different colour. Orange, yellow, purple, hand-painted blue, and now red. Nobody repeats."
+    notes: "Fifth clone commander in the Star Wars corner, after Cody, the Golden Commander, the 187th and the painted one - and every single one of them is marked out by a different colour. Orange, yellow, purple, hand-painted blue, and now red. That held for exactly one batch: Commander Fox arrived next in dark maroon, so red is the first colour worn twice - and the two of them are the closest pair of commanders here, down to the rangefinder on the same side."
   },
 
 
@@ -12315,6 +12315,92 @@ window.COLLECTION = [
     images: [{ src: "images/the-shock-troopers-01.jpg", caption: "Both of them" }],
     acquired: "",
     notes: "One entry for the pair. The mismatched legs are the odd thing - one red and one white on both of them, the same way round, so it reads as how they are meant to be rather than as parts thrown together."
+  },
+
+
+  {
+    id: "commander-fox",
+    name: "Commander Fox",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Commander",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Commander Fox.",
+    provenance:
+      "Phase 1 helmet with a dark maroon visor brim standing out over the " +
+      "face and a maroon fin down the crown, red marks at the cheeks and a " +
+      "red bar at the chin. White chest plate worked over in red - a fan " +
+      "shape at the collar, curved bands across the ribs - a maroon belt, " +
+      "maroon arms and white legs stained brown at the seams.",
+    tags: ["star-wars", "clone", "commander", "maroon", "fox", "branded"],
+    images: ["images/commander-fox-01.jpg"],
+    acquired: "",
+    notes: "Sixth clone commander in the Star Wars corner, and the first named one since Cody - the rest are known by their colour rather than a name. He also settles a thing written on the Commander in Red last batch, that no two commanders here repeat a colour: they do now, and those two are the closest pair, both in red with the rangefinder on the same side."
+  },
+
+
+  {
+    id: "the-tie-pilots",
+    name: "The TIE Pilots",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "TIE pilots. There are two of them.",
+    provenance:
+      "Black from the crown to the boots. Sculpted black flight helmets with " +
+      "an Imperial cog at each temple and silver vents at the cheeks, over " +
+      "black suits printed in grey and silver with a chest box, hoses and " +
+      "belt blocks. The two have different chest panels - one a tall column " +
+      "of readouts, the other a single wide screen.",
+    tags: ["star-wars", "imperial", "tie-pilot", "black", "cog", "unit", "two", "branded"],
+    images: [
+      { src: "images/the-tie-pilots-01.jpg", caption: "The first" },
+      { src: "images/the-tie-pilots-02.jpg", caption: "The second" },
+    ],
+    acquired: "",
+    notes: "One entry for the pair. They are the darkest figures in the collection - black plastic with only grey printing on it, no colour anywhere. Ungrouped with the other Imperials until you rule on the Empire."
+  },
+
+
+  {
+    id: "the-shadow-troopers",
+    name: "The Shadow Troopers",
+    variant: "Three of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Shadow troopers. There are three of them.",
+    provenance:
+      "The stormtrooper helmet and armour, but moulded in black instead of " +
+      "white - the eyes, teeth and vents picked out in pale grey so the face " +
+      "still reads, and the belt blocks drawn in grey across the waist. All " +
+      "three identical.",
+    tags: ["star-wars", "imperial", "shadow-trooper", "black", "unit", "three", "branded"],
+    images: [
+      { src: "images/the-shadow-troopers-01.jpg", caption: "One of them" },
+      { src: "images/the-shadow-troopers-02.jpg", caption: "All three" },
+    ],
+    acquired: "",
+    notes: "One entry for all three, solo shot first and the group behind it, the way the Rebel Troopers are done. They are the exact photographic negative of a stormtrooper - same mould, same printing, inverted - which makes them and the TIE Pilots the only figures here whose whole idea is being hard to see."
   },
 
 

@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-463 characters from a custom LEGO minifigure world, in the order they were
+466 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5253,6 +5253,36 @@ Shock troopers. There are two of them.
 *How it was got:* Phase 2 helmets banded with red combs over the brow and a red fin standing up from the crown, red flashes at the cheeks. Red chest plates and red ammunition blocks at the belt. Both wear mismatched legs, one red and one white, and both are scuffed and yellowed.
 
 *Tags:* star-wars, clone, trooper, shock-trooper, red, unit, two, worn, branded
+
+### 464. Commander Fox
+
+**Alignment:** good · **Role:** Commander · **Figure:** branded
+
+Commander Fox.
+
+*How it was got:* Phase 1 helmet with a dark maroon visor brim standing out over the face and a maroon fin down the crown, red marks at the cheeks and a red bar at the chin. White chest plate worked over in red - a fan shape at the collar, curved bands across the ribs - a maroon belt, maroon arms and white legs stained brown at the seams.
+
+*Tags:* star-wars, clone, commander, maroon, fox, branded
+
+### 465. The TIE Pilots — Two of them
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+TIE pilots. There are two of them.
+
+*How it was got:* Black from the crown to the boots. Sculpted black flight helmets with an Imperial cog at each temple and silver vents at the cheeks, over black suits printed in grey and silver with a chest box, hoses and belt blocks. The two have different chest panels - one a tall column of readouts, the other a single wide screen.
+
+*Tags:* star-wars, imperial, tie-pilot, black, cog, unit, two, branded
+
+### 466. The Shadow Troopers — Three of them
+
+**Alignment:** good · **Role:** Soldier · **Figure:** branded
+
+Shadow troopers. There are three of them.
+
+*How it was got:* The stormtrooper helmet and armour, but moulded in black instead of white - the eyes, teeth and vents picked out in pale grey so the face still reads, and the belt blocks drawn in grey across the waist. All three identical.
+
+*Tags:* star-wars, imperial, shadow-trooper, black, unit, three, branded
 
 ---
 
