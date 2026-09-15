@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-443 characters from a custom LEGO minifigure world, in the order they were
+446 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5045,6 +5045,36 @@ A soldier of the Wolfpack.
 *How it was got:* Grey and black markings throughout - three bars over the crown of the helmet, grey teeth and claw shapes worked across the faceplate, and a grey pauldron on one shoulder. No colour on him anywhere.
 
 *Tags:* star-wars, clone, trooper, grey, wolfpack, pauldron, branded
+
+### 444. The Camo Scouts — Two of them
+
+**Alignment:** good · **Role:** Scout · **Figure:** branded
+
+Two scouts in camouflage.
+
+*How it was got:* Camouflage printed over every single piece - helmet, shoulders, torso, arms, legs, boots - in mottled greens with no white showing anywhere. Scout helmets with the flat visor brim and a silver respirator box at the mouth. One carries a long black rifle. Identical to each other.
+
+*Tags:* star-wars, clone, scout, camouflage, respirator, unit, two, branded
+
+### 445. The Wolfpack Scout
+
+**Alignment:** good · **Role:** Scout · **Figure:** branded
+
+A scout of the Wolfpack.
+
+*How it was got:* White scout helmet striped dark olive over the crown like an animal's back, with a silver respirator box at the mouth. A black pauldron on one shoulder, an olive flash on the other, and a dark cloth kama at the waist. Red marks on the toes of both boots.
+
+*Tags:* star-wars, clone, scout, wolfpack, pauldron, kama, respirator, branded
+
+### 446. The 187th Commander
+
+**Alignment:** good · **Role:** Commander · **Figure:** branded
+
+The commander of the 187th Legion.
+
+*How it was got:* Phase 1 helmet with a purple stripe over the crown and purple worked around the eyes in a flared mask shape. Purple pauldrons on both shoulders rather than one, a black ammunition pack clipped across the chest, a purple belt and purple knee markings.
+
+*Tags:* star-wars, clone, commander, 187th, purple, pauldron, branded
 
 ---
 

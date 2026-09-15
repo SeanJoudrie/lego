@@ -11732,7 +11732,7 @@ window.COLLECTION = [
     theme: "Star Wars",
     rank: "",
     role: "Clone Trooper",
-    group: "The Clone Army",
+    group: "The Wolfpack",
     location: "",
     relations: [],
     rating: 0,
@@ -11744,7 +11744,85 @@ window.COLLECTION = [
     tags: ["star-wars", "clone", "trooper", "grey", "wolfpack", "pauldron", "branded"],
     images: ["images/the-wolfpack-soldier-01.jpg"],
     acquired: "",
-    notes: "Wolfpack is your name for them. The markings on his faceplate read as a muzzle rather than as unit stripes - he is the only clone here whose helmet has been painted into an animal. Alone for now, same as Blaze Squad."
+    notes: "Wolfpack is your name for them. The markings on his faceplate read as a muzzle rather than as unit stripes - he is the only clone here whose helmet has been painted into an animal. A scout has since joined him, so the Wolfpack is a group of two. That breaks the three-figure rule the Winter Troopers and the dwarves set, and the difference is worth naming: those two were loose figures with no unit name until a third arrived and gave them one. The Wolfpack had a name from the start, because you gave it one. A named unit is an organisation by declaration; two anonymous figures of a kind are not."
+  },
+
+
+  {
+    id: "the-camo-scouts",
+    name: "The Camo Scouts",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Scout",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two scouts in camouflage.",
+    provenance:
+      "Camouflage printed over every single piece - helmet, shoulders, torso, " +
+      "arms, legs, boots - in mottled greens with no white showing anywhere. " +
+      "Scout helmets with the flat visor brim and a silver respirator box at " +
+      "the mouth. One carries a long black rifle. Identical to each other.",
+    tags: ["star-wars", "clone", "scout", "camouflage", "respirator", "unit", "two", "branded"],
+    images: [{ src: "images/the-camo-scouts-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "The only figures in the whole collection printed in camouflage from head to foot - everybody else in armour wears their unit colour as a stripe or a panel on white. These two are the only ones dressed to not be seen."
+  },
+
+
+  {
+    id: "the-wolfpack-scout",
+    name: "The Wolfpack Scout",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Scout",
+    group: "The Wolfpack",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A scout of the Wolfpack.",
+    provenance:
+      "White scout helmet striped dark olive over the crown like an animal\'s " +
+      "back, with a silver respirator box at the mouth. A black pauldron on " +
+      "one shoulder, an olive flash on the other, and a dark cloth kama at the " +
+      "waist. Red marks on the toes of both boots.",
+    tags: ["star-wars", "clone", "scout", "wolfpack", "pauldron", "kama", "respirator", "branded"],
+    images: ["images/the-wolfpack-scout-01.jpg"],
+    acquired: "",
+    notes: "His arrival makes the Wolfpack a group of two. The stripes on his helmet run the same way as the teeth on the other Wolfpack figure - both painted into an animal rather than marked with a unit stripe, which is a thing only this outfit does."
+  },
+
+
+  {
+    id: "the-187th-commander",
+    name: "The 187th Commander",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Commander",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The commander of the 187th Legion.",
+    provenance:
+      "Phase 1 helmet with a purple stripe over the crown and purple worked " +
+      "around the eyes in a flared mask shape. Purple pauldrons on both " +
+      "shoulders rather than one, a black ammunition pack clipped across the " +
+      "chest, a purple belt and purple knee markings.",
+    tags: ["star-wars", "clone", "commander", "187th", "purple", "pauldron", "branded"],
+    images: ["images/the-187th-commander-01.jpg"],
+    acquired: "",
+    notes: "Purple is a colour no other unit here wears, and he is the only clone in the collection with a pauldron on both shoulders instead of one. Alone so far, so he stays in the Clone Army until the 187th has more than a commander."
   },
 
 
