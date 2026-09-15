@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-451 characters from a custom LEGO minifigure world, in the order they were
+456 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5125,6 +5125,56 @@ A scout trooper.
 *How it was got:* White helmet with a wide black visor across the whole face and a snub filter below it, ear cups at both sides. Chest armour printed with two big thigh pouches and a black belt. The white has gone cream and there is scuffing across the chest.
 
 *Tags:* star-wars, imperial, scout-trooper, visor, worn, branded
+
+### 452. The Yellow Clone Trooper
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+A clone trooper in yellow.
+
+*How it was got:* Phase 2 helmet with a yellow stripe over the crown and a yellow bar straight down between the eyes, black brow band. Yellow chevron at the collar and yellow blocks at the belt. Scuffed and grubby across the legs.
+
+*Tags:* star-wars, clone, trooper, yellow, golden-company, worn, branded
+
+### 453. The Clone Pilot in Grey
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+A clone pilot.
+
+*How it was got:* White flight helmet with a black stripe over the crown and a crest printed at each temple. Blue-grey arms and legs against a white chest rig - coiled hoses over both shoulders, a control panel at the sternum and red indicator blocks.
+
+*Tags:* star-wars, clone, pilot, flight-rig, branded
+
+### 454. The Battered Clone Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+A clone pilot, damaged in battle.
+
+*How it was got:* Phase 1 helmet scored right through the paint - the yellow band across the brow worn down to bare plastic, scratches across the crown and both cheeks, the black markings rubbed thin. A chunk is missing from the printing at his hip. Cream legs, white arms, the same hosed chest rig.
+
+*Tags:* star-wars, clone, pilot, damaged, worn, battle-scarred, branded
+
+### 455. The Stormtrooper Commander
+
+**Alignment:** good · **Role:** Commander · **Figure:** branded
+
+A stormtrooper commander.
+
+*How it was got:* The plain stormtrooper helmet, no markings on it at all, over white chest armour - and dark navy arms, where a stormtrooper would have white ones. That is the whole of what makes him a commander to look at.
+
+*Tags:* star-wars, imperial, stormtrooper, commander, branded
+
+### 456. The Stormtrooper Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+An Imperial pilot.
+
+*How it was got:* White flight helmet with a black stripe over the crown and a red Imperial cog at each temple, a red bar printed across the mouth vent. Dark grey arms, light grey legs, and the hosed chest rig with its control panel and red blocks.
+
+*Tags:* star-wars, imperial, pilot, cog, flight-rig, branded
 
 ---
 

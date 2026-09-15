@@ -11987,6 +11987,135 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "the-yellow-clone-trooper",
+    name: "The Yellow Clone Trooper",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Golden Company",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A clone trooper in yellow.",
+    provenance:
+      "Phase 2 helmet with a yellow stripe over the crown and a yellow bar " +
+      "straight down between the eyes, black brow band. Yellow chevron at the " +
+      "collar and yellow blocks at the belt. Scuffed and grubby across the " +
+      "legs.",
+    tags: ["star-wars", "clone", "trooper", "yellow", "golden-company", "worn", "branded"],
+    images: ["images/the-yellow-clone-trooper-01.jpg"],
+    acquired: "",
+    notes: "You did not know his unit, so the markings decided it: the yellow crown stripe and the bar down the faceplate are the Golden Company pattern exactly, the same as the Grenadier wears. Put him in with them on that basis rather than left floating - say the word if he belongs somewhere else. Fifth in the company."
+  },
+
+
+  {
+    id: "the-clone-pilot-in-grey",
+    name: "The Clone Pilot in Grey",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A clone pilot.",
+    provenance:
+      "White flight helmet with a black stripe over the crown and a crest " +
+      "printed at each temple. Blue-grey arms and legs against a white chest " +
+      "rig - coiled hoses over both shoulders, a control panel at the sternum " +
+      "and red indicator blocks.",
+    tags: ["star-wars", "clone", "pilot", "flight-rig", "branded"],
+    images: ["images/the-clone-pilot-in-grey-01.jpg"],
+    acquired: "",
+    notes: "Named for his legs to keep him clear of the Clone Pilot who is already here - that one is your own man, in the Space Militia, and has nothing to do with this one."
+  },
+
+
+  {
+    id: "the-battered-clone-pilot",
+    name: "The Battered Clone Pilot",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A clone pilot, damaged in battle.",
+    provenance:
+      "Phase 1 helmet scored right through the paint - the yellow band across " +
+      "the brow worn down to bare plastic, scratches across the crown and both " +
+      "cheeks, the black markings rubbed thin. A chunk is missing from the " +
+      "printing at his hip. Cream legs, white arms, the same hosed chest rig.",
+    tags: ["star-wars", "clone", "pilot", "damaged", "worn", "battle-scarred", "branded"],
+    images: ["images/the-battered-clone-pilot-01.jpg"],
+    acquired: "",
+    notes: "Damage read as history rather than wear, which is your call and a good one - it is the second time this collection has done that, after the Retired Clone, who was damaged out of service and still turns out for the parades. The most beaten-up figure in the Star Wars corner."
+  },
+
+
+  {
+    id: "the-stormtrooper-commander",
+    name: "The Stormtrooper Commander",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Commander",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A stormtrooper commander.",
+    provenance:
+      "The plain stormtrooper helmet, no markings on it at all, over white " +
+      "chest armour - and dark navy arms, where a stormtrooper would have " +
+      "white ones. That is the whole of what makes him a commander to look at.",
+    tags: ["star-wars", "imperial", "stormtrooper", "commander", "branded"],
+    images: ["images/the-stormtrooper-commander-01.jpg"],
+    acquired: "",
+    notes: "Blue sleeves on a white uniform is a quiet way to mark rank compared to how the clones do it, where a commander gets a pauldron, a kama and a repainted helmet. Ungrouped with the other Imperials until you rule on whether the Empire exists here."
+  },
+
+
+  {
+    id: "the-stormtrooper-pilot",
+    name: "The Stormtrooper Pilot",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An Imperial pilot.",
+    provenance:
+      "White flight helmet with a black stripe over the crown and a red " +
+      "Imperial cog at each temple, a red bar printed across the mouth vent. " +
+      "Dark grey arms, light grey legs, and the hosed chest rig with its " +
+      "control panel and red blocks.",
+    tags: ["star-wars", "imperial", "pilot", "cog", "flight-rig", "branded"],
+    images: ["images/the-stormtrooper-pilot-01.jpg"],
+    acquired: "",
+    notes: "Same chest rig as the two clone pilots, and the cog at his temple is the only thing that puts him on the other side of it - three men in identical kit and one badge between them. Fourth Imperial card now waiting on whether the Empire is a thing in this world, alongside the Snowtroopers, the Scout Trooper and the Stormtrooper Commander."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
