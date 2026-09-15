@@ -9613,7 +9613,7 @@ window.COLLECTION = [
   {
     id: "anakin-skywalker",
     name: "Anakin Skywalker",
-    variant: "Boy and man",
+    variant: "Three figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9625,17 +9625,19 @@ window.COLLECTION = [
     rating: 0,
     background: "Anakin Skywalker, as a boy and grown.",
     provenance:
-      "Two figures of the same man. The boy has short brown hair, a freckled " +
-      "face, and plain pale desert clothes with a brown belt - no armour, no " +
-      "weapon, nothing of what he becomes. The man has long swept hair, a scar " +
-      "down one cheek, blue eyes and black Jedi robes with a brown leather belt.",
+      "Three figures of the same man. Two are the boy - one with short dark " +
+      "brown hair, one with a fairer sandy mop - both freckled, both in plain " +
+      "pale desert clothes with a brown belt, no armour and no weapon. The " +
+      "third is the man: long swept hair, a scar down one cheek, blue eyes and " +
+      "black Jedi robes with a brown leather belt.",
     tags: ["star-wars", "anakin", "child", "desert", "branded"],
     images: [
-      { src: "images/anakin-skywalker-01.jpg", caption: "As a boy" },
+      { src: "images/anakin-skywalker-01.jpg", caption: "As a boy, dark hair" },
+      { src: "images/anakin-skywalker-03.jpg", caption: "As a boy, fair hair" },
       { src: "images/anakin-skywalker-02.jpg", caption: "Grown, in Jedi black" },
     ],
     acquired: "",
-    notes: "He was entered under his full name last time precisely so a grown figure could join this entry instead of starting a second one, and that is what happened - the boy and the man are one card. The scar is the whole distance between the two photographs. Whether this world knows he is Luke's father is still not written down."
+    notes: "He was entered under his full name last time precisely so a grown figure could join this entry instead of starting a second one, and that is what happened - the boy and the man are one card. Three figures now, two of them the boy. The scar is the whole distance between the child and the man. Whether this world knows he is Luke's father is still not written down."
   },
 
 
@@ -9880,7 +9882,7 @@ window.COLLECTION = [
   {
     id: "mace-windu",
     name: "Mace Windu",
-    variant: "",
+    variant: "Three figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9892,12 +9894,20 @@ window.COLLECTION = [
     rating: 0,
     background: "Mace Windu.",
     provenance:
-      "Brown head, flat mouth, no hair piece. Grey wrapped tunic with a gold " +
-      "belt, pale legs, and a brown cloth cape. Carries a lightsaber hilt.",
+      "Three figures of the same man, none of them with a hair piece. The first " +
+      "is in a grey wrapped tunic with a gold belt and a brown cloth cape, " +
+      "holding a lightsaber hilt. The second is in cream robes with a wide " +
+      "tooled belt, cape on, mouth set hard. The third is in olive robes with " +
+      "white cuffs and white bands at the shins, black hands, no cape, teeth " +
+      "bared.",
     tags: ["star-wars", "jedi", "mace-windu", "cape", "branded"],
-    images: ["images/mace-windu-01.jpg"],
+    images: [
+      { src: "images/mace-windu-01.jpg", caption: "Grey tunic" },
+      { src: "images/mace-windu-02.jpg", caption: "Cream robes" },
+      { src: "images/mace-windu-03.jpg", caption: "Olive robes, teeth bared" },
+    ],
     acquired: "",
-    notes: "Fourth Jedi from the films now, after Obi-Wan, Ahsoka and Anakin, and the collection already has its own order in the Snow Jedi\'s line. That is two Jedi traditions in one world, and no link written between them yet."
+    notes: "Fourth Jedi from the films now, after Obi-Wan, Ahsoka and Anakin, and the collection already has its own order in the Snow Jedi\'s line. That is two Jedi traditions in one world, and no link written between them yet. Three figures of him on one card now, and unlike the three of Luke or Ahsoka, his are not ages or eras - just three suits of the same working clothes."
   },
 
 
@@ -10239,7 +10249,7 @@ window.COLLECTION = [
   {
     id: "princess-leia",
     name: "Princess Leia",
-    variant: "",
+    variant: "Two outfits",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -10251,13 +10261,43 @@ window.COLLECTION = [
     rating: 0,
     background: "Princess Leia.",
     provenance:
-      "Long brown hair swept over one shoulder, red lipstick. Pale yellow " +
-      "jacket with dark toggle fastenings and stitched seam lines, one grey " +
-      "sleeve and one brown, white legs.",
+      "Two figures of the same woman. One has long brown hair swept over the " +
+      "shoulder, red lipstick, a pale yellow jacket with dark toggle fastenings " +
+      "and stitched seams, mismatched grey and brown sleeves, white legs. The " +
+      "other has her hair up in a coil and wears a worked metal halter over a " +
+      "red drape, bare arms.",
     tags: ["star-wars", "leia", "princess", "branded"],
-    images: ["images/princess-leia-01.jpg"],
+    images: [
+      { src: "images/princess-leia-01.jpg", caption: "In the cold-weather jacket" },
+      { src: "images/princess-leia-02.jpg", caption: "Held captive by Jabba" },
+    ],
     acquired: "",
-    notes: "Second woman in the Star Wars corner, after Ahsoka - twenty-nine figures there and two of them are women. She is also the third royal title in the collection, alongside the Prince and the Space Princess, and the only one of the three from outside this world."
+    notes: "Second woman in the Star Wars corner, after Ahsoka - twenty-nine figures there and two of them are women. She is also the third royal title in the collection, alongside the Prince and the Space Princess, and the only one of the three from outside this world. Two figures on one card, and they are as far apart as two pictures of one person get here - buttoned to the chin against the cold in the first, held in chains in the second."
+  },
+
+
+  {
+    id: "greedo",
+    name: "Greedo",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Greedo.",
+    provenance:
+      "Moulded blue-green Rodian head - long snout, black bulb eyes, antennae " +
+      "over the crown. Pale yellow open jerkin over a ribbed pale blue shirt, " +
+      "brown belt, pale blue arms and legs.",
+    tags: ["star-wars", "rodian", "greedo", "bounty-hunter", "alien", "branded"],
+    images: ["images/greedo-01.jpg"],
+    acquired: "",
+    notes: "Second Rodian here, after Senator Onaconda Farr - same moulded head, different colour. They are the first species in this collection represented by two named individuals rather than a named one and a crowd. Filed good by the standing rule, since you have not said otherwise."
   },
 
 

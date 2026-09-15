@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-389 characters from a custom LEGO minifigure world, in the order they were
+390 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4224,13 +4224,13 @@ A guard of the Jedi palace.
 
 *Tags:* star-wars, jedi, guard, masked, robes, branded
 
-### 365. Anakin Skywalker — Boy and man
+### 365. Anakin Skywalker — Three figures
 
 **Alignment:** good · **Figure:** branded
 
 Anakin Skywalker, as a boy and grown.
 
-*How it was got:* Two figures of the same man. The boy has short brown hair, a freckled face, and plain pale desert clothes with a brown belt - no armour, no weapon, nothing of what he becomes. The man has long swept hair, a scar down one cheek, blue eyes and black Jedi robes with a brown leather belt.
+*How it was got:* Three figures of the same man. Two are the boy - one with short dark brown hair, one with a fairer sandy mop - both freckled, both in plain pale desert clothes with a brown belt, no armour and no weapon. The third is the man: long swept hair, a scar down one cheek, blue eyes and black Jedi robes with a brown leather belt.
 
 *Tags:* star-wars, anakin, child, desert, branded
 
@@ -4324,13 +4324,13 @@ Jar Jar Binks.
 
 *Tags:* star-wars, gungan, jar-jar, alien, branded
 
-### 375. Mace Windu
+### 375. Mace Windu — Three figures
 
 **Alignment:** good · **Role:** Jedi · **Figure:** branded
 
 Mace Windu.
 
-*How it was got:* Brown head, flat mouth, no hair piece. Grey wrapped tunic with a gold belt, pale legs, and a brown cloth cape. Carries a lightsaber hilt.
+*How it was got:* Three figures of the same man, none of them with a hair piece. The first is in a grey wrapped tunic with a gold belt and a brown cloth cape, holding a lightsaber hilt. The second is in cream robes with a wide tooled belt, cape on, mouth set hard. The third is in olive robes with white cuffs and white bands at the shins, black hands, no cape, teeth bared.
 
 *Tags:* star-wars, jedi, mace-windu, cape, branded
 
@@ -4466,15 +4466,25 @@ Yoda.
 
 *Tags:* star-wars, jedi, yoda, alien, branded
 
-### 389. Princess Leia
+### 389. Princess Leia — Two outfits
 
 **Alignment:** good · **Figure:** branded
 
 Princess Leia.
 
-*How it was got:* Long brown hair swept over one shoulder, red lipstick. Pale yellow jacket with dark toggle fastenings and stitched seam lines, one grey sleeve and one brown, white legs.
+*How it was got:* Two figures of the same woman. One has long brown hair swept over the shoulder, red lipstick, a pale yellow jacket with dark toggle fastenings and stitched seams, mismatched grey and brown sleeves, white legs. The other has her hair up in a coil and wears a worked metal halter over a red drape, bare arms.
 
 *Tags:* star-wars, leia, princess, branded
+
+### 390. Greedo
+
+**Alignment:** good · **Figure:** branded
+
+Greedo.
+
+*How it was got:* Moulded blue-green Rodian head - long snout, black bulb eyes, antennae over the crown. Pale yellow open jerkin over a ribbed pale blue shirt, brown belt, pale blue arms and legs.
+
+*Tags:* star-wars, rodian, greedo, bounty-hunter, alien, branded
 
 ---
 
