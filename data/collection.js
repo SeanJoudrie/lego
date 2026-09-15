@@ -8809,6 +8809,127 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "the-visored-miner",
+    name: "The Visored Miner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Power Miner",
+    group: "The Power Miners",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the power miners.",
+    provenance:
+      "The only one with the clear visor pulled down over his face. Plain " +
+      "even smile behind it, yellow arms, silver claw hands.",
+    tags: ["power-miner", "miner", "underground", "helmet", "visor"],
+    images: ["images/the-visored-miner-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. Everyone else on the crew has the visor up or no visor at all."
+  },
+
+
+  {
+    id: "the-miner-in-white",
+    name: "The Miner in White",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Power Miner",
+    group: "The Power Miners",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the power miners.",
+    provenance:
+      "Thin silver-rimmed glasses and red lips under the blue helmet. Her " +
+      "sleeves, arms and hands are white where every other miner's are " +
+      "yellow, and her harness has deep cargo pockets.",
+    tags: ["power-miner", "miner", "underground", "helmet", "glasses"],
+    images: ["images/the-miner-in-white-01.jpg"],
+    acquired: "",
+    notes: "First woman on the mining crew, and the only miner not in yellow sleeves - if the white means a different job down there, a medic or an inspector rather than a digger, say so. Third woman here in glasses under a working helmet, after the two Atlantis divers."
+  },
+
+
+  {
+    id: "the-smudged-miner",
+    name: "The Smudged Miner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Power Miner",
+    group: "The Power Miners",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the power miners.",
+    provenance:
+      "Wide toothy grin, thin moustache, and a black smear of dirt across " +
+      "one cheek. Cargo-pocket harness, grey claw hands.",
+    tags: ["power-miner", "miner", "underground", "helmet"],
+    images: ["images/the-smudged-miner-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. The crew is six now, and the harnesses split three and three - tool loops on the first three, cargo pockets on the rest."
+  },
+
+
+  {
+    id: "the-fireman-in-the-white-helmet",
+    name: "The Fireman in the White Helmet",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Firefighter",
+    group: "The Fire Service",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "One of the fire service.",
+    provenance:
+      "White fire helmet, a grey breathing hose coiled round the collar, and " +
+      "an orange suit printed with a red harness and the service badge.",
+    tags: ["firefighter", "fire-service", "breathing-apparatus", "rescue", "lego-city"],
+    images: ["images/the-fireman-in-the-white-helmet-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, and kept clear of the Fireman in Orange - they are both in orange, so the helmet is what tells them apart. Fire Service is six now. He is the only one carrying breathing apparatus, which is the kit for going inside a burning building rather than fighting it from outside."
+  },
+
+
+  {
+    id: "luke-skywalker",
+    name: "Luke Skywalker",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Luke Skywalker, in his flight kit.",
+    provenance:
+      "Orange flight suit with the grey chest rig, and the white X-wing " +
+      "pilot's helmet with red rebel crests on both sides.",
+    tags: ["star-wars", "pilot", "jedi", "rebel", "x-wing", "branded"],
+    images: ["images/luke-skywalker-01.jpg"],
+    acquired: "",
+    notes: "Opens a Star Wars theme, the eighth. Worth deciding how he sits with what is already here: this world has its own Jedi - the Snow Jedi's line - and its own clone troopers, all custom characters rather than the films'. Luke is the first named figure from that source to be catalogued, so say whether he is part of their story or a visitor from another world, the way the collection already handles it."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

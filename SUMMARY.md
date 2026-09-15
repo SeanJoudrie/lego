@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-332 characters from a custom LEGO minifigure world, in the order they were
+337 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3887,6 +3887,56 @@ One of the power miners.
 *How it was got:* Tinted goggles across the face, freckles and stubble, grinning. His harness is the odd one out - two big cargo pockets where the others carry tool loops.
 
 *Tags:* power-miner, miner, underground, goggles, helmet
+
+### 333. The Visored Miner
+
+**Alignment:** good · **Role:** Power Miner · **Figure:** custom
+
+One of the power miners.
+
+*How it was got:* The only one with the clear visor pulled down over his face. Plain even smile behind it, yellow arms, silver claw hands.
+
+*Tags:* power-miner, miner, underground, helmet, visor
+
+### 334. The Miner in White
+
+**Alignment:** good · **Role:** Power Miner · **Figure:** custom
+
+One of the power miners.
+
+*How it was got:* Thin silver-rimmed glasses and red lips under the blue helmet. Her sleeves, arms and hands are white where every other miner's are yellow, and her harness has deep cargo pockets.
+
+*Tags:* power-miner, miner, underground, helmet, glasses
+
+### 335. The Smudged Miner
+
+**Alignment:** good · **Role:** Power Miner · **Figure:** custom
+
+One of the power miners.
+
+*How it was got:* Wide toothy grin, thin moustache, and a black smear of dirt across one cheek. Cargo-pocket harness, grey claw hands.
+
+*Tags:* power-miner, miner, underground, helmet
+
+### 336. The Fireman in the White Helmet
+
+**Alignment:** good · **Role:** Firefighter · **Based:** Lego City · **Figure:** custom
+
+One of the fire service.
+
+*How it was got:* White fire helmet, a grey breathing hose coiled round the collar, and an orange suit printed with a red harness and the service badge.
+
+*Tags:* firefighter, fire-service, breathing-apparatus, rescue, lego-city
+
+### 337. Luke Skywalker
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+Luke Skywalker, in his flight kit.
+
+*How it was got:* Orange flight suit with the grey chest rig, and the white X-wing pilot's helmet with red rebel crests on both sides.
+
+*Tags:* star-wars, pilot, jedi, rebel, x-wing, branded
 
 ---
 
