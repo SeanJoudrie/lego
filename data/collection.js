@@ -19206,6 +19206,118 @@ window.COLLECTION = [
     notes: "Forty-first branded villain, and the second out of Ninjago after the False Kai - who is a man who went undercover as one of the ninja rather than an enemy of his own. So this is the first thing from Ninjago on that deck that is simply not one of them. Six good Ninjago figures against two.\n\nNamed descriptively because I do not know which snake he is. The tribes have names and he will have one; the spiral eyes are the identifying mark, and they are worth flagging for a second reason. Spirals wound in on themselves is what hypnosis looks like drawn on a face, and there is already a thread in this world about taking a mind: the Evil Doctor and the Butcher built mind control between them, and the Brainwashed Assassin is walking around as the result. If this one takes minds too, say so - that would be three separate methods for the same crime, from three different corners of the shelf."
   },
 
+  {
+    id: "the-evil-cyborg-soldier",
+    name: "The Evil Cyborg Soldier",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A cyborg soldier.",
+    provenance:
+      "Half a face. The left side is a yellow man with a black brow drawn down " +
+      "and bared teeth; the right side is silver plate that runs from the " +
+      "hairline to the jaw, with a round green lens set where the eye was and " +
+      "a cable looping back from it into the skull. Black hair swept up over " +
+      "both. A black sleeveless top printed with a checkered flag and orange " +
+      "flames across the chest, bare yellow arms, black hands, black legs.",
+    tags: ["villain", "cyborg", "soldier", "implant", "half-face", "flames", "custom"],
+    images: ["images/the-evil-cyborg-soldier-01.jpg"],
+    acquired: "",
+    notes: "Cybernetics in this world have one origin and it is written on a good card. The Discarded - the ambassador, the kind one, the bridge between civilizations - has an arm from another world, and his card says that arm is the reason this society has cybernetics at all: they studied him and built from what they found.\n\nSo every machine limb on the villain side traces back to a refugee who let them look. The Bionics Team, the Bionic Brother, the Bionic Alien, the Cybernetic Ninja, Doc Ock, the Brainwashed Assassin, and now a soldier with half his head replaced. Nothing is written between any of them and the man it came from, and nothing should be - he gave nobody permission for this and nobody has said he knows.\n\nThe flames and the checkered flag are the odd part. That is racing kit, not soldiering kit, and nothing on the card explains why a cyborg soldier is dressed for a track."
+  },
+
+  {
+    id: "the-goon-in-the-blue-cap",
+    name: "The Goon in the Blue Cap",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Goon",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A goon. Nothing more specific said about him.",
+    provenance:
+      "A blue baseball cap pulled straight, and under it a yellow face with " +
+      "one brow up and one down, lines at both cheeks and a flat unhappy " +
+      "mouth. A dark brown jacket printed open over a grey shirt with a pale " +
+      "fleece collar and two square tags at the chest. Brown arms, yellow " +
+      "hands, dark blue legs. He is dressed like somebody with a van.",
+    tags: ["villain", "goon", "cap", "jacket", "custom"],
+    images: ["images/the-goon-in-the-blue-cap-01.jpg"],
+    acquired: "",
+    notes: "Named after the Goon in the Beanie, who is in a group called The Alien Goons along with the Scarred Goon and the Wolfman. This one is not put in with them, and he sharpens a question that has been open on that group since it was made: the Wolfman is not an alien either, and the group name was taken from the words used to describe the batch rather than from anything in the world. Now there is a fourth goon who is plainly an ordinary man in a baseball cap.\n\nSo either the group is about a job rather than a species and should lose the word Alien, or he belongs somewhere else entirely. Four goons, one name that does not fit three of them.\n\nNothing else has been said about him. He is muscle, and the card says so."
+  },
+
+  {
+    id: "the-explorer-smuggler",
+    name: "The Explorer Smuggler",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Smuggler",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An explorer, and a smuggler.",
+    provenance:
+      "Dark brown hair swept back, and a grey moustache and stubble over a " +
+      "yellow face with heavy brows and a set jaw. A tan field shirt printed " +
+      "with an open collar, a buttoned breast pocket and a brown strap running " +
+      "across the chest carrying silver cartridges, with a green cloth bundle " +
+      "slung under one arm. Tan arms, grey hands, black trousers with two " +
+      "printed thigh pockets, and brown boots.",
+    tags: ["villain", "explorer", "smuggler", "moustache", "bandolier", "field-kit", "custom"],
+    images: ["images/the-explorer-smuggler-01.jpg"],
+    acquired: "",
+    notes: "Nine explorers, adventurers and pathfinders are catalogued in this world and every one of them is good - the Explorer and the Monkey, the Scrap Adventurer, the Ginger Adventurer, the Explorer's Son, the Ranger, the Pathfinder, the two Gem Hunters and the Arctic Explorers. He is the first person on the other deck whose job is going out and finding things.\n\nHe is also the second smuggler. The other is the Famous Poacher, whose card says he is a poacher and a smuggler both and worked with the arms dealer. That makes two smugglers here, in the same trade, with nothing written between them - which is the third time that has happened on his card alone.\n\nThe kit is the reason the two halves of his name sit together. A bandolier, a bedroll, thigh pockets and field boots is what somebody wears to go a long way from anywhere - and the thing that makes it smuggling rather than exploring is what he brings back."
+  },
+
+  {
+    id: "the-manta-warrior",
+    name: "The Manta Warrior",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A manta ray, underwater.",
+    provenance:
+      "A moulded manta head worn over the whole skull - the wings swept back " +
+      "and down either side of the face, white on top with dark blue " +
+      "scrollwork and a black and yellow band along the crown, and underneath " +
+      "the face itself: pale, with two wide black eyes and blue markings " +
+      "curling away from them. A pale blue torso printed with a spread of " +
+      "speckled wings and two crowned panels at the waist, dark blue arms and " +
+      "legs, black hands.",
+    tags: ["villain", "manta", "ray", "sea", "creature", "moulded", "blue", "custom"],
+    images: ["images/the-manta-warrior-01.jpg"],
+    acquired: "",
+    notes: "Fourth kind of thing in the water and the fifth figure down there: a shark, two squids, an anglerfish and now a manta. Three batches ago the sea had fifteen people in it across two dive teams and nothing else at all.\n\nThis is the point where the pattern stops being a coincidence and starts being a decision somebody has to make. They are all the same build - a moulded animal head over a standard body - they all arrived in consecutive batches, and they are all on the same deck. What they are not is joined up, because habitat is not affiliation and nothing in this world has said they know each other. The catalogue has held the same line on the four alien forces and on the orcs.\n\nOne word from you and they become a force, and the Atlantis Dive Team - twelve people on the card, ten of them still on it - finally has something on the other side of the water."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
