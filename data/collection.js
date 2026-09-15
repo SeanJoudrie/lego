@@ -10195,7 +10195,7 @@ window.COLLECTION = [
   {
     id: "boba-fett",
     name: "Boba Fett",
-    variant: "As a boy, and twice in the armour",
+    variant: "Four figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -10206,28 +10206,34 @@ window.COLLECTION = [
     relations: [],
     rating: 0,
     background:
-      "Boba Fett. Three figures of him, one card: the boy with no armour, and " +
-      "the man in it twice.",
+      "Boba Fett. Four figures of him, one card: the boy with no armour, and " +
+      "the man in it three times over.",
     provenance:
       "The boy: black bowl-cut hair, a plain yellow face with heavy brows and " +
       "a flat mouth, a pale blue tunic with a dark belt and a laced collar, " +
       "dark navy arms, pale blue legs. No armour and no helmet.\n\n" +
-      "The armour, first version: a green helmet with the brown T-visor, pale " +
-      "grey arms and legs, a green and grey chest plate over a brown belt. " +
-      "Clean, bright and unmarked.\n\n" +
-      "The armour, later: the same helmet shape weathered dark, the visor worn " +
+      "The armour, plain: a green helmet with a brown T-visor, a white and " +
+      "green chest plate over a brown belt, pale grey arms and legs. Clean, " +
+      "bright, and printed with almost nothing.\n\n" +
+      "The armour, in detail: the same suit done properly - the helmet green " +
+      "with a dark red stripe over the crown and a deep red visor, the chest " +
+      "plate worked in green panels and silver scoring, a braid of Wookiee " +
+      "scalps hung at one shoulder, a brown bandolier, a red belt, grey arms " +
+      "and pale grey legs.\n\n" +
+      "The armour, weathered: the same helmet shape gone dark, the visor worn " +
       "through to silver, the body black and grey and scuffed all over, one " +
-      "yellow pauldron, a brown bandolier at the waist, yellow knee plates. " +
-      "The two of them side by side are the same man twenty years apart, and " +
-      "the plastic is doing the ageing.",
-    tags: ["star-wars", "boba-fett", "child", "branded", "bounty-hunter", "mandalorian", "armour", "three-figures"],
+      "yellow pauldron, a brown bandolier at the waist, yellow knee plates.\n\n" +
+      "Three suits of one armour, and the printing is the whole story - the " +
+      "same man rendered plainly, then properly, then beaten to pieces.",
+    tags: ["star-wars", "boba-fett", "child", "branded", "bounty-hunter", "mandalorian", "armour", "four-figures"],
     images: [
       { src: "images/boba-fett-01.jpg", caption: "As a boy, with no armour" },
-      { src: "images/boba-fett-02.jpg", caption: "In the armour, clean" },
-      { src: "images/boba-fett-03.jpg", caption: "In the armour, weathered" }
+      { src: "images/boba-fett-02.jpg", caption: "The armour, plain" },
+      { src: "images/boba-fett-04.jpg", caption: "The armour, in detail" },
+      { src: "images/boba-fett-03.jpg", caption: "The armour, weathered" }
     ],
     acquired: "",
-    notes: "This card said what would happen to it. Its own note has read since it was written that a helmeted Boba would later join it rather than start a second one, following Anakin - and two helmeted Bobas have now arrived. Three figures, one man, one entry, the same call as Tony Stark and his suits and as Bruce Wayne and Batman. He gains a role now that he has a job to show. He also stays filed good: he arrived in the middle of a long run of villains and nothing was said about moving him, and the world note on branded villains names him as one of the bought figures this world absorbed onto the winning side. Say the word and he crosses, and that note gets rewritten with him."
+    notes: "This card said what would happen to it. Its own note has read since it was written that a helmeted Boba would later join it rather than start a second one, following Anakin - and three have now arrived across two batches. Four figures, one man, one entry, which puts him level with Anakin and behind only Obi-Wan at five and Luke at six. He gains a role now that he has a job to show. He also stays filed good: he arrived in the middle of a long run of villains and nothing was said about moving him, and the world note on branded villains names him as one of the bought figures this world absorbed onto the winning side. Say the word and he crosses, and that note gets rewritten with him."
   },
 
 

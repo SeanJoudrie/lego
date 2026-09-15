@@ -4942,19 +4942,23 @@ Looked him up: he is Lego's Onaconda Farr, part SW0241, from set 8036, the Separ
 
 *Tags:* star-wars, rodian, senator, politician, alien, branded
 
-### 384. Boba Fett — As a boy, and twice in the armour
+### 384. Boba Fett — Four figures
 
 **Alignment:** good · **Role:** Bounty Hunter · **Figure:** branded
 
-Boba Fett. Three figures of him, one card: the boy with no armour, and the man in it twice.
+Boba Fett. Four figures of him, one card: the boy with no armour, and the man in it three times over.
 
 *How it was got:* The boy: black bowl-cut hair, a plain yellow face with heavy brows and a flat mouth, a pale blue tunic with a dark belt and a laced collar, dark navy arms, pale blue legs. No armour and no helmet.
 
-The armour, first version: a green helmet with the brown T-visor, pale grey arms and legs, a green and grey chest plate over a brown belt. Clean, bright and unmarked.
+The armour, plain: a green helmet with a brown T-visor, a white and green chest plate over a brown belt, pale grey arms and legs. Clean, bright, and printed with almost nothing.
 
-The armour, later: the same helmet shape weathered dark, the visor worn through to silver, the body black and grey and scuffed all over, one yellow pauldron, a brown bandolier at the waist, yellow knee plates. The two of them side by side are the same man twenty years apart, and the plastic is doing the ageing.
+The armour, in detail: the same suit done properly - the helmet green with a dark red stripe over the crown and a deep red visor, the chest plate worked in green panels and silver scoring, a braid of Wookiee scalps hung at one shoulder, a brown bandolier, a red belt, grey arms and pale grey legs.
 
-*Tags:* star-wars, boba-fett, child, branded, bounty-hunter, mandalorian, armour, three-figures
+The armour, weathered: the same helmet shape gone dark, the visor worn through to silver, the body black and grey and scuffed all over, one yellow pauldron, a brown bandolier at the waist, yellow knee plates.
+
+Three suits of one armour, and the printing is the whole story - the same man rendered plainly, then properly, then beaten to pieces.
+
+*Tags:* star-wars, boba-fett, child, branded, bounty-hunter, mandalorian, armour, four-figures
 
 ### 385. Han Solo — Two outfits
 
