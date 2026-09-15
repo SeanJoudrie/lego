@@ -9522,17 +9522,23 @@ window.COLLECTION = [
     role: "",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "widow", label: "His horse" },
+    ],
     rating: 0,
     background: "Spider-Man, dressed as a cowboy.",
     provenance:
       "The mask under a brown cowboy hat, a red bandana pulled up over the " +
       "mouth so only the eyes show, a grey cloth serape over one shoulder, " +
-      "yellow waistcoat, gun belts on pale denim and brown boots.",
+      "yellow waistcoat, gun belts on pale denim and brown boots.\n\n" +
+      "Looked him up later, when his horse turned up: he is Web-Slinger, " +
+      "Patrick O'Hara, from the Spider-Man: Across the Spider-Verse " +
+      "collectible minifigures, set 71050. The horse in this collection came " +
+      "out of the same packet.",
     tags: ["marvel", "spider-man", "cowboy", "western", "bandana", "branded"],
     images: ["images/cowboy-spider-man-01.jpg"],
     acquired: "",
-    notes: "Second Marvel figure here, after Tony Stark, and third man in the collection dressed western after the Sheriff and the Outlaw. The bandana over the mask is the joke: he is wearing a disguise over a disguise."
+    notes: "Second Marvel figure here, after Tony Stark, and third man in the collection dressed western after the Sheriff and the Outlaw. The bandana over the mask is the joke: he is wearing a disguise over a disguise. Kept under the name you gave him rather than his real one - he was Cowboy Spider-Man here first."
   },
 
 
@@ -10365,7 +10371,7 @@ window.COLLECTION = [
   {
     id: "zane",
     name: "Zane",
-    variant: "Two figures",
+    variant: "Three figures",
     faction: "good",
     origin: "branded",
     theme: "Ninjago",
@@ -10380,14 +10386,18 @@ window.COLLECTION = [
       "Two figures of the same man. One is unhooded - pale swept hair over a " +
       "plain yellow face - in a white gi printed with a gold dragon breathing " +
       "blue ice, silver sash. The other is hooded with a gold crest at the " +
-      "brow, in white with brown straps and a cream sash.",
+      "brow, in white with brown straps and a cream sash. A third is in " +
+      "winter kit - a fur-brimmed grey cap, a heavy white face wrap, pale blue " +
+      "eyes, a quiver of black arrows at the back and a snowflake on the " +
+      "shoulder.",
     tags: ["ninjago", "ninja", "white", "ice", "dragon", "branded"],
     images: [
       { src: "images/zane-01.jpg", caption: "Unmasked" },
       { src: "images/zane-02.jpg", caption: "Hooded, with the gold crest" },
+      { src: "images/zane-03.jpg", caption: "In winter kit, with a bow" },
     ],
     acquired: "",
-    notes: "The unmasked figure is the point of this card - of the three ninja here, he is the only one whose face has been seen, and Kai and Jay are both still behind cloth."
+    notes: "The unmasked figure is the point of this card - of the three ninja here, he is the only one whose face has been seen, and Kai and Jay are both still behind cloth. Three figures on his card now, and the third is the only ninja here carrying a bow - everyone else in both ninja traditions works with blades."
   },
 
 
@@ -11185,6 +11195,123 @@ window.COLLECTION = [
     images: ["images/the-mandalorian-armorer-01.jpg"],
     acquired: "",
     notes: "Named The Mandalorian Armorer rather than just The Armorer, because this collection already has one - a knight out of the Gunless Realm who came to the primary dimension, picked up a firearm and turned out to be the best shot in it. Two armorers now, one in each of two worlds, and neither has anything to do with the other unless you say so. Second Mandalorian here, after the bounty hunter."
+  },
+
+
+  {
+    id: "kelleran-beq",
+    name: "Kelleran Beq",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Jedi",
+    group: "",
+    location: "",
+    relations: [
+      { to: "grogu", label: "Carried him out" },
+    ],
+    rating: 0,
+    background:
+      "Kelleran Beq, the Jedi who got Grogu out of the temple when the clones " +
+      "came for the younglings, and off the planet alive.",
+    provenance:
+      "Brown head with a thin moustache and a pointed beard, no hair piece. " +
+      "Cream Jedi robes with gold thread worked through the wrap, a dark " +
+      "brown cloth cape.\n\n" +
+      "Looked him up for you: Kelleran Beq, from set 75378, the BARC Speeder " +
+      "Escape, 2024. He is from the Order 66 flashback in the third season of " +
+      "the Mandalorian, and is played by Ahmed Best - the same man who played " +
+      "Jar Jar Binks, who is also in this collection.",
+    tags: ["star-wars", "jedi", "kelleran-beq", "order-66", "cape", "branded"],
+    images: ["images/kelleran-beq-01.jpg"],
+    acquired: "",
+    notes: "You asked and that is him. Eighth Jedi from the films here. The link to Grogu is written because you told me it yourself - he is the one who rescued him - so it is your lore, not the films spilling in."
+  },
+
+
+  {
+    id: "grogu",
+    name: "Grogu",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "kelleran-beq", label: "Carried out by" },
+    ],
+    rating: 0,
+    background: "Grogu, the child.",
+    provenance:
+      "A moulded pale green head nearly as large as the body, with ears that " +
+      "reach out past the shoulders and two enormous black eyes. Cream tunic " +
+      "with a torn print, tiny green hands that are just two stubs, and short " +
+      "cream legs.",
+    tags: ["star-wars", "grogu", "child", "alien", "branded"],
+    images: ["images/grogu-01.jpg"],
+    acquired: "",
+    notes: "The smallest figure in the collection - shorter than Rotta the Hutt, with less of a body than any of the dwarves. Fourth child in the Star Wars corner, after the two boy Anakins and the boy Boba."
+  },
+
+
+  {
+    id: "the-umbaran-soldier",
+    name: "The Umbaran Soldier",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An Umbaran soldier.",
+    provenance:
+      "Smooth white helmet with a wide gold-rimmed visor, and behind it a " +
+      "pale violet face with no whites to the eyes at all. White and navy " +
+      "armour printed on a grey torso, grey legs, silver hands.",
+    tags: ["star-wars", "umbaran", "soldier", "alien", "helmet", "branded"],
+    images: ["images/the-umbaran-soldier-01.jpg"],
+    acquired: "",
+    notes: "His eyes are the whole figure - the helmet is ordinary, and then you look through the visor and there is nothing human behind it. Filed good by the standing rule, though the Umbarans fought the Republic in their own material."
+  },
+
+
+  {
+    id: "widow",
+    name: "Widow",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Marvel",
+    rank: "",
+    role: "Horse",
+    group: "",
+    location: "",
+    relations: [
+      { to: "cowboy-spider-man", label: "Her rider" },
+    ],
+    rating: 0,
+    background: "Widow, a horse in a spider mask.",
+    provenance:
+      "A foal mould, white and grey with a brown mane, and a red spider mask " +
+      "printed across the muzzle with the white eye shapes and the web lines " +
+      "all present.\n\n" +
+      "Looked her up: she is Widow, the horse who comes with Web-Slinger in " +
+      "the Spider-Man: Across the Spider-Verse minifigures, set 71050 - which " +
+      "means she came out of the same packet as the Cowboy Spider-Man already " +
+      "in this collection. He is her rider.",
+    tags: ["marvel", "horse", "spider-verse", "animal", "mask", "branded"],
+    images: ["images/widow-01.jpg"],
+    acquired: "",
+    notes: "The first animal catalogued here in her own right - the monkey shares the Explorer card, and nothing else four-legged has an entry. She is also the only figure in the collection with no arms, no hands and no face of her own."
   },
 
 

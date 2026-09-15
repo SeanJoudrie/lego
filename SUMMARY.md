@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-423 characters from a custom LEGO minifigure world, in the order they were
+427 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4192,6 +4192,10 @@ Spider-Man, dressed as a cowboy.
 
 *How it was got:* The mask under a brown cowboy hat, a red bandana pulled up over the mouth so only the eyes show, a grey cloth serape over one shoulder, yellow waistcoat, gun belts on pale denim and brown boots.
 
+Looked him up later, when his horse turned up: he is Web-Slinger, Patrick O'Hara, from the Spider-Man: Across the Spider-Verse collectible minifigures, set 71050. The horse in this collection came out of the same packet.
+
+*Connections:* His horse Widow
+
 *Tags:* marvel, spider-man, cowboy, western, bandana, branded
 
 ### 362. Deadpool
@@ -4506,13 +4510,13 @@ Jay, the blue ninja.
 
 *Tags:* ninjago, ninja, blue, hood, branded
 
-### 393. Zane — Two figures
+### 393. Zane — Three figures
 
 **Alignment:** good · **Role:** Ninja · **Figure:** branded
 
 Zane, the white ninja.
 
-*How it was got:* Two figures of the same man. One is unhooded - pale swept hair over a plain yellow face - in a white gi printed with a gold dragon breathing blue ice, silver sash. The other is hooded with a gold crest at the brow, in white with brown straps and a cream sash.
+*How it was got:* Two figures of the same man. One is unhooded - pale swept hair over a plain yellow face - in a white gi printed with a gold dragon breathing blue ice, silver sash. The other is hooded with a gold crest at the brow, in white with brown straps and a cream sash. A third is in winter kit - a fur-brimmed grey cap, a heavy white face wrap, pale blue eyes, a quiver of black arrows at the back and a snowflake on the shoulder.
 
 *Tags:* ninjago, ninja, white, ice, dragon, branded
 
@@ -4827,6 +4831,56 @@ The Armorer, who forges beskar for the Mandalorians and keeps their creed.
 *How it was got:* Gold horned helmet with a narrow visor and four black spikes along the crown, a real fur mantle across the shoulders, a dark red chest plate, and a cloth kilt over printed legs.
 
 *Tags:* star-wars, mandalorian, armorer, beskar, fur, helmet, branded
+
+### 424. Kelleran Beq
+
+**Alignment:** good · **Role:** Jedi · **Figure:** branded
+
+Kelleran Beq, the Jedi who got Grogu out of the temple when the clones came for the younglings, and off the planet alive.
+
+*How it was got:* Brown head with a thin moustache and a pointed beard, no hair piece. Cream Jedi robes with gold thread worked through the wrap, a dark brown cloth cape.
+
+Looked him up for you: Kelleran Beq, from set 75378, the BARC Speeder Escape, 2024. He is from the Order 66 flashback in the third season of the Mandalorian, and is played by Ahmed Best - the same man who played Jar Jar Binks, who is also in this collection.
+
+*Connections:* Carried him out Grogu
+
+*Tags:* star-wars, jedi, kelleran-beq, order-66, cape, branded
+
+### 425. Grogu
+
+**Alignment:** good · **Figure:** branded
+
+Grogu, the child.
+
+*How it was got:* A moulded pale green head nearly as large as the body, with ears that reach out past the shoulders and two enormous black eyes. Cream tunic with a torn print, tiny green hands that are just two stubs, and short cream legs.
+
+*Connections:* Carried out by Kelleran Beq
+
+*Tags:* star-wars, grogu, child, alien, branded
+
+### 426. The Umbaran Soldier
+
+**Alignment:** good · **Role:** Soldier · **Figure:** branded
+
+An Umbaran soldier.
+
+*How it was got:* Smooth white helmet with a wide gold-rimmed visor, and behind it a pale violet face with no whites to the eyes at all. White and navy armour printed on a grey torso, grey legs, silver hands.
+
+*Tags:* star-wars, umbaran, soldier, alien, helmet, branded
+
+### 427. Widow
+
+**Alignment:** good · **Role:** Horse · **Figure:** branded
+
+Widow, a horse in a spider mask.
+
+*How it was got:* A foal mould, white and grey with a brown mane, and a red spider mask printed across the muzzle with the white eye shapes and the web lines all present.
+
+Looked her up: she is Widow, the horse who comes with Web-Slinger in the Spider-Man: Across the Spider-Verse minifigures, set 71050 - which means she came out of the same packet as the Cowboy Spider-Man already in this collection. He is her rider.
+
+*Connections:* Her rider Cowboy Spider-Man
+
+*Tags:* marvel, horse, spider-verse, animal, mask, branded
 
 ---
 
