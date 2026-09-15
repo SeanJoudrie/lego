@@ -835,9 +835,42 @@ window.LORE = [
       "in an accident and stayed cheerful about it. The TV Star was famous on " +
       "it before he enlisted in the Space Militia, and lost half his face in a " +
       "shadow war.\n\n" +
-      "Nobody has said whether the Propagandist came out of that unit or works " +
-      "against it. Both would mean something and they would mean opposite " +
-      "things."
+      "That question is answered. He came out of it. The Propaganda Director " +
+      "used to work for the Prince, and so did all of these TV people - a " +
+      "director, a camera operator, a production assistant and the " +
+      "Propagandist himself, the Prince\'s own television crew, who walked " +
+      "across for a better paycheck and a bigger audience. They are catalogued " +
+      "as the Propaganda Unit and they still wear the globe-and-TV badge they " +
+      "wore when they worked for him.\n\n" +
+      "Which puts the Cameraman in a position his card never anticipated. He " +
+      "is filed good, he does the camera work and the editing for that unit, " +
+      "and his entry says in as many words that he is not the director, he is " +
+      "the camera editor assistant guy. His director defected. Nobody has said " +
+      "the two men knew each other, so no line is drawn, but there was only " +
+      "ever one TV unit in Lego City.\n\n" +
+      "And they have a face to put on it. The first man ever to go to space in " +
+      "this world was bought, and he works with them now - more famous for it, " +
+      "not less. He is the only enemy in the collection who did nothing at all " +
+      "except agree to be used, and the only one whose entire value is that " +
+      "people already liked him."
+  },
+
+  {
+    title: "The first woman on the other side",
+    text:
+      "Fifty villains, and forty-nine of them are men.\n\n" +
+      "The one who is not runs a camera. She came over from the Prince\'s TV " +
+      "people with the rest of the crew, she is in a work uniform with a " +
+      "station badge on it, and her job is to point the lens where she is " +
+      "told.\n\n" +
+      "It is worth putting beside the collection as a whole, where women are " +
+      "about seven in every hundred - and beside the good side, where the ones " +
+      "there are tend to be at the top of something. A Queen who is a cosmic " +
+      "deity. A pirate captain who runs her own ship. A samurai in a horned " +
+      "war helmet.\n\n" +
+      "The first woman to turn up among the enemies is a technician holding " +
+      "equipment, which is either the least interesting thing that could have " +
+      "happened or the most honest one."
   }
 
 ];

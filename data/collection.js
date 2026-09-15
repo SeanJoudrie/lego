@@ -12854,6 +12854,8 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "the-first-man-in-space", label: "Bought him" },
+      { to: "the-sith-lord", label: "Aligned with" },
       { to: "the-defector-commander", label: "Defected to him" },
       { to: "the-dictator", label: "Aligned with" },
       { to: "wen", label: "Taught by" },
@@ -14168,9 +14170,12 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Propagandist",
-    group: "",
+    group: "The Propaganda Unit",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-first-man-in-space", label: "Fronted by" },
+      { to: "the-pa", label: "His assistant" },
+    ],
     rating: 0,
     background:
       "He plans the shots and writes the stories. What he puts out is " +
@@ -14184,6 +14189,158 @@ window.COLLECTION = [
     images: ["images/the-propagandist-01.jpg"],
     acquired: "",
     notes: "A new kind of enemy for this world. Forty-five villains and every other one of them does something to a body - takes a throne, a planet, a ship, a life. This man works on what people believe, and he is the only one whose weapon is a story. He sits directly against something this collection already had: Lego City has a TV unit that is very highly regarded, with a Cameraman who does the editing and a TV Star who left it to enlist. Nobody has said whether the Propagandist came out of that unit or works against it. It is the obvious question."
+  },
+
+
+
+  {
+    id: "the-propaganda-director",
+    name: "The Propaganda Director",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Propaganda Director",
+    group: "The Propaganda Unit",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He directs the whole operation, and he used to work for the Prince - " +
+      "as all of these TV people did.\n\n" +
+      "What moved him was a better paycheck and a bigger audience. That is the " +
+      "entire reason.",
+    provenance:
+      "Blue wide-brimmed hat over a yellow face with round wire glasses, one " +
+      "eye half shut, a grey stubbled beard and a wry mouth. Blue TV-crew " +
+      "tabard printed with the globe-and-TV badge over cream sleeves, blue " +
+      "legs, yellow hands.",
+    tags: ["villain", "propaganda", "director", "media", "defector", "tv-crew", "greed", "fame"],
+    images: ["images/the-propaganda-director-01.jpg"],
+    acquired: "",
+    notes: "He answers a question this catalogue asked one batch ago and could not settle: whether the Propagandist came out of Lego City\'s TV unit or worked against it. He came out of it, and so did the rest of them. Read this next to the Cameraman, who is filed good and whose card says he does the camera work and editing for that unit and that he is not the director, he is the camera editor assistant guy. His director defected. Nobody has said the two men knew each other, so nothing is drawn, but there was only ever one TV unit in Lego City."
+  },
+
+
+  {
+    id: "the-pa",
+    name: "The PA",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assistant",
+    group: "The Propaganda Unit",
+    location: "",
+    relations: [
+      { to: "the-propagandist", label: "Assistant to" },
+    ],
+    rating: 0,
+    background:
+      "The production assistant. He works to the Propagandist and does what " +
+      "the job takes.",
+    provenance:
+      "Black flat-brimmed cap over a plain yellow face with a small smile and " +
+      "a silver stud where one eye should be. White shirt printed with a film " +
+      "camera badge at the breast pocket, an orange lanyard down the front and " +
+      "a red laminated pass at the bottom of it. Black legs.",
+    tags: ["villain", "propaganda", "assistant", "production", "media", "lanyard"],
+    images: ["images/the-pa-01.jpg"],
+    acquired: "",
+    notes: "The most ordinary person on the villain side. Forty-nine others want a throne, a planet, a fleet, a body count or the world remade, and this one carries the lanyard and sets up the shot. He is also the only villain here whose job title is an abbreviation."
+  },
+
+
+  {
+    id: "the-tv-camera-woman",
+    name: "The TV Camera Woman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Camera Operator",
+    group: "The Propaganda Unit",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "She runs the camera. She came over from the Prince\'s TV people with " +
+      "the rest of them.",
+    provenance:
+      "Brown hair pulled up into a bun, long lashes and red lipstick on a " +
+      "yellow face. Cream TV-crew uniform printed with the blue " +
+      "globe-and-TV badge, cream legs, yellow hands.",
+    tags: ["villain", "propaganda", "camera", "media", "tv-crew", "defector", "woman"],
+    images: ["images/the-tv-camera-woman-01.jpg"],
+    acquired: "",
+    notes: "The first woman on the villain side of this collection. Fifty villains and forty-nine of them are men - and the one who is not is a camera operator in a work uniform, not a warlord. She wears the same globe-and-TV badge as the Director, which is the piece of plastic that makes the whole unit legible as one thing."
+  },
+
+
+  {
+    id: "the-sith-lord",
+    name: "The Sith Lord",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Sith Lord",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Aligned with" },
+    ],
+    rating: 0,
+    background:
+      "A minor Sith lord, and he is not interested in ruling anything. What he " +
+      "is after is the knowledge and the power themselves.\n\n" +
+      "He aligned himself with Quinn for a specific reason: to spread the dark " +
+      "side as a religion.",
+    provenance:
+      "Dark brown hair over a pale face, brows down hard, orange scoring at " +
+      "both temples and the teeth bared. Brown layered robe printed with a " +
+      "leather belt hung with a pouch and a silver cylinder, grey legs, black " +
+      "hands. A heavy brown cloth cape.",
+    tags: ["villain", "sith", "dark-side", "religion", "knowledge", "quinn", "cape"],
+    images: ["images/the-sith-lord-01.jpg"],
+    acquired: "",
+    notes: "Third Sith in the collection, after Quinn and the Purple Shadow, and the only one who wants the doctrine rather than what it buys. Quinn went to the dark arts to win a war he thought was inevitable; the Purple Shadow used them to reach the shadow people. This one is a missionary. Which makes him the second enemy here whose weapon is what people believe, after the Propagandist, and the two have nothing written between them."
+  },
+
+
+  {
+    id: "the-first-man-in-space",
+    name: "The First Man in Space",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Astronaut",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Bought by" },
+      { to: "the-propagandist", label: "Fronts for" },
+    ],
+    rating: 0,
+    background:
+      "The first man ever to go to space in this world, and famous for it.\n\n" +
+      "Quinn bought him. He is a puppet now, working with the propagandist, " +
+      "and the arrangement made him more famous rather than less.",
+    provenance:
+      "A chromed silver visor down over a white pressure suit - a ribbed " +
+      "breathing collar, hoses running to a moulded chest valve, a mission " +
+      "patch on one side and a gold 99 plate on the other. Grey belt, white " +
+      "legs, white hands. Old plastic, yellowed and scuffed.",
+    tags: ["villain", "astronaut", "famous", "first-in-space", "puppet", "bought", "propaganda", "vintage"],
+    images: ["images/the-first-man-in-space-01.jpg"],
+    acquired: "",
+    notes: "Not to be confused with the First Man, who is where this whole world starts - this is a different superlative and a much smaller one. He is the only villain here who did nothing except agree to be used, and the only one whose value is entirely that people already liked him. Eleven astronauts and spacemen in this collection and he is the first of them to be filed bad. Left out of Classic Space, whose four wear the planet-and-rocket badge and he does not; say the word if he is one of them."
   },
 
 
