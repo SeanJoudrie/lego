@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-514 characters from a custom LEGO minifigure world, in the order they were
+519 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -145,7 +145,7 @@ And one who is missing in the ordinary sense rather than the narrative one: the 
 
 There has been more than one. A war against the shadow ended by negotiation rather than by anyone winning it, with the Shadow Prince — the Shadow King's own son — part of getting that settlement done. And others: the TV Star lost half his face in one of them.
 
-The Shadow King has been photographed now - a villain, the Shadow Prince's father, and king of a dimension locked in eternal conflict with light itself. What he and Quinn did together has its own note.
+The Shadow King has been photographed now - a villain, the Shadow Prince's father, and king of a dimension locked in eternal conflict with light itself. What he and Quinn did together has its own note, and so does the other king in that sentence, who turns out to be no better than he is.
 
 One figure on that side is still only a name: the Purple Shadow, who killed the Snow Jedi's second Padawan. Whether he and the King are the same power is not established.
 
@@ -275,6 +275,38 @@ He is a different kind of enemy from the other two. Quinn and the Shadow King bo
 
 He is also the second thing in this world built out of something that was here before it. The Ancient is the other, and he was respected as a source of wisdom. This one was dug up and worn.
 
+### The two kings
+
+Light is not the good side here.
+
+The shadow dimension is locked in eternal war with light itself, and light has a king of its own. When the shadow realm carried its conflict into the main Lego universe, the Light King turned up to fight the shadows - and not as anybody's ally. If a city had shadow people in it he sent his light army to bomb the city. The people living there did not enter into it.
+
+So the two kings are not opposite sides of a good war. They are the same problem twice, fighting it out in somebody else's home, and both of them are filed as villains here.
+
+The figures make the argument better than the words do. The Shadow King is black from the plume down with not one printed detail on him. The Light King is white from the cap down with not one printed detail on him. Two opposite colours, identically blank, identically faceless. Whatever either of them is, it is not a person.
+
+It is worth holding this against the Shadow Prince, who is the Shadow King's son, is good, and whose robes show it. Being from one of these places does not settle what you are. Being one of these kings does.
+
+### The claim on the throne
+
+The Prince's card has said from the day it was written that he is king de facto and never by claim. A senator in a purple t-shirt married the Space Princess, became the Prince on the marriage, and became King only because she disappeared for a while.
+
+There is now somebody for whom that is a grievance. The Prince Pretender is the Space Princess's brother. The throne was promised to him, and by loopholes in the marriage law he technically should have been King - so the blood claim and the crown are on two different men, and the one holding it never wanted it.
+
+Rather than live inside the society that passed him over, he allied with Quinn to take it by force. He is the Queen's brother and the royal children's uncle, and he is filed with the villains.
+
+This is the second time this world has put a family across a line. The Shadow King is a villain and his son is not. Here it runs the other way: the royal family is good and the claimant is not.
+
+### The arms trade
+
+There is a trade in this world now, and it has a shape.
+
+Two arms dealers of exactly equal rank. One keeps the accounts and decides who gets ripped off and who gets killed - he will do business with a target and have that same target assassinated, a rival dealer or a unit of soldiers worth robbing for their gear. The other used to be a poacher and has had hardware fitted: fast healing, gills, the capacity to carry far more ammunition than a man should, and the strength to fight. And a lead alien mercenary, skilled in every kind of combat there is, leading mercenaries nobody has photographed yet.
+
+Nothing is written between the three of them, or between any of them and Quinn - who spent his own middle era as an independent arms dealer before he became what he became.
+
+Which is the interesting part. This world's good people are organised into fifty-four named groups with commanders and rosters. Its villains are twelve, half of them with no written tie to anybody at all. Either the villains really do work alone, or the lines exist and nobody has said them out loud yet.
+
 ---
 
 ## The characters
@@ -367,7 +399,7 @@ He started out as a senator in the earliest days of the Senate, in a purple T-sh
 
 He is a much better king now, and genuinely useful. He still sometimes wonders what makes him so special. The real answer is just that he has a good heart. He is not the super mega ultra genius politician. He genuinely just has a good heart.
 
-*Connections:* Cousin of The Prince's Cousin · Impersonated by The Prince's Impersonator · Loyal to him Kenjen · Loyal to him Jimzon · Follows him King Arthur · Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief
+*Connections:* Cousin of The Prince's Cousin · Impersonated by The Prince's Impersonator · Loyal to him Kenjen · Loyal to him Jimzon · Follows him King Arthur · Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief · His throne is claimed by The Prince Pretender
 
 *Tags:* royal-family, king, senator, married, good-heart
 
@@ -381,7 +413,7 @@ She married the senator, and on their marriage he became the Prince. They were h
 
 She used to wear a white and black dress. Since she returned, she wears the blue one, and she is the Queen.
 
-*Connections:* Married to The Prince · Mother of The Royal Sons · Mother of The Royal Daughter
+*Connections:* Married to The Prince · Mother of The Royal Sons · Mother of The Royal Daughter · Brother of The Prince Pretender
 
 *Tags:* royal-family, cosmic, space, weather, returned
 
@@ -5538,7 +5570,7 @@ The arms dealer: brown hair, no helmet, a black pauldron across both shoulders, 
 
 What he made of himself: a translucent neon green head, grinning, one eye red. Bone-white spines stand off the collar. Black Sith robes over black legs, one hand still flesh and the other gone black.
 
-*Connections:* Led the shadow uprising with The Shadow King · Captured Claws · Brought down by The Knighted Civilian
+*Connections:* Led the shadow uprising with The Shadow King · Allied with The Prince Pretender · Captured Claws · Brought down by The Knighted Civilian
 
 *Tags:* villain, quinn, sith, dark-arts, force, shadow-uprising, betrayal, self-healing, immortality, arms-dealer
 
@@ -5552,7 +5584,7 @@ Quinn reached him and put the uprising to him, and the two of them ran it togeth
 
 *How it was got:* Black from the plume down - hat, face, torso, arms, hands and legs, with no printing anywhere on him. A tall military dress hat with a brim and a long plume standing off the crown.
 
-*Connections:* Father of The Shadow Prince · Led the shadow uprising with Quinn
+*Connections:* Father of The Shadow Prince · Led the shadow uprising with Quinn · Locked in eternal war with The Light King
 
 *Tags:* villain, shadow, king, shadow-dimension, eternal-conflict, unprinted, plume
 
@@ -5570,7 +5602,77 @@ The dangerous part is that he is intelligent. He worked out that he cannot sprea
 
 *Tags:* villain, phalanx, nanobots, virus, alien, skull, planet-eater, zombies, hive
 
-### 483. The Militiaman in the Black Helm
+### 483. The Prince Pretender
+
+**Alignment:** bad · **Role:** Pretender · **Figure:** custom
+
+He has a real claim. He is the Space Princess's brother, the throne was promised to him, and by certain loopholes in the marriage law he technically should have been King.
+
+He was not. The crown went through his sister's marriage instead, and then to a senator who never claimed it and only holds it because she disappeared for a while. So the blood claim sits with a man who has no power of his own, and rather than live inside the society that passed him over, he went and allied with Quinn to take the throne by force.
+
+He is a violent, entitled piece of work.
+
+*How it was got:* Dark swept hair, a heavy black moustache and stubble. Royal blue tunic printed with gold stars, a brown sash knotted across the chest over a red medallion, and a gold-trimmed black belt with a crest at the buckle. Pale grey legs with plain pocket flaps - the only ordinary thing on him.
+
+*Connections:* Brother of The Space Princess · Claims his throne The Prince · Allied with Quinn
+
+*Tags:* villain, pretender, royal-claim, throne, entitled, quinn, royal-family
+
+### 484. The Lead Alien Mercenary
+
+**Alignment:** bad · **Role:** Mercenary · **Figure:** custom
+
+He leads the alien mercenaries, and he is skilled in every single kind of combat there is.
+
+*How it was got:* A green face, deeply scored, with dark markings running from the eyes down past a heavy drooping moustache, under a swept brown-gold hairpiece. Grey and gold armour with a bandolier of shells over one shoulder and a cog badge at the chest, a yellow-striped belt, black legs with silver chevrons at the knees and boots.
+
+*Tags:* villain, mercenary, alien, combat, leader, bandolier
+
+### 485. The Arms Dealer
+
+**Alignment:** bad · **Role:** Arms Dealer · **Figure:** custom
+
+He handles the accounting, which makes him sound like the quiet one. He is not. He is the one who decides who gets ripped off and who gets killed.
+
+He will do business with a target and then have that same target assassinated - a rival dealer, or a unit of soldiers worth robbing for their gear.
+
+*How it was got:* A broad flat-brimmed tan campaign hat over a stubbled face set in a hard scowl. Tan suit jacket open over a buttoned waistcoat and a dark polka-dotted cravat, a brown book or wallet in one inside pocket. Tan legs.
+
+*Connections:* Equal in rank to The Modified Arms Dealer
+
+*Tags:* villain, arms-dealer, accounting, assassination, robbery, suit
+
+### 486. The Light King
+
+**Alignment:** bad · **Role:** King · **Figure:** custom
+
+King of light, and locked in eternal war with the Shadow King.
+
+When the shadow realm brought its conflict into the main Lego universe he turned up to fight the shadows - and not as anybody's ally. If a city had shadow people in it he sent his light army to bomb the city. The Lego people in it did not enter into it.
+
+The two kings are not opposite sides of a good war. They are the same problem twice, carrying their fight into everybody else's home.
+
+*How it was got:* White from the cap down - peaked cap, head, torso, arms, hands and legs, with no printing anywhere on him and no face.
+
+*Connections:* Locked in eternal war with The Shadow King
+
+*Tags:* villain, light, king, eternal-war, unprinted, faceless, collateral
+
+### 487. The Modified Arms Dealer
+
+**Alignment:** bad · **Role:** Arms Dealer · **Figure:** custom
+
+The other arms dealer, and exactly as senior as the first.
+
+He used to be a poacher. What he has now is a body modification: it heals him quickly, lets him breathe underwater, lets him carry far more ammunition than he should be able to, and gives him the strength to fight in a way he could not before.
+
+*How it was got:* A pale wide-brimmed hat over a lined, scowling face with a scar through one eye. Cream torso worn under a heavy dark grey chest rig - a real moulded piece rather than a print, ribbed, with a round port at the sternum. Black legs and black hands.
+
+*Connections:* Equal in rank to The Arms Dealer
+
+*Tags:* villain, arms-dealer, poacher, body-modification, self-healing, amphibious, strength
+
+### 488. The Militiaman in the Black Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5584,7 +5686,7 @@ Photographed off an old video rather than in hand, because there is no hand to p
 
 *Tags:* space-militia, lost, deceased, helmet, sunglasses
 
-### 484. The Militiaman in the Red Helm
+### 489. The Militiaman in the Red Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5594,7 +5696,7 @@ Space Militia. Lost, and dead.
 
 *Tags:* space-militia, lost, deceased, rifle, scarred
 
-### 485. The Ranger Patrol Captain
+### 490. The Ranger Patrol Captain
 
 **Alignment:** good · **Role:** Patrol Captain · **Figure:** custom
 
@@ -5604,7 +5706,7 @@ A patrol captain of the rangers. Lost, and dead.
 
 *Tags:* green-rangers, ranger, captain, lost, deceased, camouflage
 
-### 486. The Militiamen Out of Armour — Two of them
+### 491. The Militiamen Out of Armour — Two of them
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5616,7 +5718,7 @@ Photographed together, on a table, years ago.
 
 *Tags:* space-militia, lost, deceased, civilian-dress, headset
 
-### 487. The Lost Miners — Two of them
+### 492. The Lost Miners — Two of them
 
 **Alignment:** good · **Role:** Power Miner · **Figure:** custom
 
@@ -5626,7 +5728,7 @@ Two of the power miners. Lost, and dead.
 
 *Tags:* power-miner, lost, deceased, overalls, helmet
 
-### 488. The Discarded in the Blue Cap
+### 493. The Discarded in the Blue Cap
 
 **Alignment:** good · **Role:** Discarded · **Figure:** custom
 
@@ -5638,7 +5740,7 @@ The badge is not a marking anyone else in this collection wears, and I could not
 
 *Tags:* discarded, refugee, lost, deceased, cap, goatee
 
-### 489. The Elf Man
+### 494. The Elf Man
 
 **Alignment:** good · **Role:** Elf · **Figure:** custom
 
@@ -5652,7 +5754,7 @@ Nothing about the moulding is elven - it is an ordinary head and an ordinary hai
 
 *Tags:* elf, lost, deceased, long-hair, vest
 
-### 490. The Long Shot Bowman
+### 495. The Long Shot Bowman
 
 **Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
 
@@ -5662,7 +5764,7 @@ An archer of the Royal Knights, and a long shot. Lost, and dead.
 
 *Tags:* knight, archer, bow, medieval, royal-knights, lost, deceased, kettle-helm
 
-### 491. The Lost Pirates — Two of them
+### 496. The Lost Pirates — Two of them
 
 **Alignment:** good · **Role:** Pirate · **Figure:** custom
 
@@ -5674,7 +5776,7 @@ The other in a blue headscarf, moustached and heavily freckled, in a red and whi
 
 *Tags:* pirate, crew, lost, deceased, tattoo, anchor, stripes
 
-### 492. The Lost Aqua Diver
+### 497. The Lost Aqua Diver
 
 **Alignment:** good · **Role:** Aqua Force · **Figure:** custom
 
@@ -5684,7 +5786,7 @@ Aqua Force - the service that handles any military necessity involving going und
 
 *Tags:* aqua-force, underwater, diver, trident, lost, deceased, scarred
 
-### 493. The Gungan Jedi
+### 498. The Gungan Jedi
 
 **Alignment:** good · **Role:** Jedi · **Figure:** custom
 
@@ -5698,7 +5800,7 @@ The robe is not a piece I could place. Photographed off an old video rather than
 
 *Tags:* star-wars, gungan, jedi, alien, cape, lost, deceased
 
-### 494. The Alien Professor
+### 499. The Alien Professor
 
 **Alignment:** good · **Role:** Professor · **Figure:** custom
 
@@ -5710,7 +5812,7 @@ The frame is too soft to make out the piece. This is as much as the video gives.
 
 *Tags:* alien, professor, academic, moulded-head, robes, lost, deceased
 
-### 495. The Lost Soccer Player
+### 500. The Lost Soccer Player
 
 **Alignment:** good · **Role:** Athlete · **Figure:** custom
 
@@ -5720,7 +5822,7 @@ A soccer player. Lost, and dead.
 
 *Tags:* soccer, football, athlete, sport, kit, lost, deceased
 
-### 496. The Astronaut Soldier
+### 501. The Astronaut Soldier
 
 **Alignment:** good · **Role:** Astronaut Soldier · **Figure:** custom
 
@@ -5730,7 +5832,7 @@ An astronaut, and a soldier. Lost, and dead.
 
 *Tags:* astronaut, soldier, space, helmet, lost, deceased
 
-### 497. The Airline Pilot
+### 502. The Airline Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** custom
 
@@ -5740,7 +5842,7 @@ An airline pilot. Lost, and dead.
 
 *Tags:* pilot, airline, civilian, uniform, cap, lost, deceased
 
-### 498. The Hooded Ranger
+### 503. The Hooded Ranger
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5750,7 +5852,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, hood, balaclava, lost, deceased
 
-### 499. The Blue Space Captain
+### 504. The Blue Space Captain
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -5762,7 +5864,7 @@ The badge is the Galactic Republic cog, so the pieces are out of a Star Wars pil
 
 *Tags:* captain, space, pilot, goggles, headset, lost, deceased
 
-### 500. The Nude Aliens — Two of them
+### 505. The Nude Aliens — Two of them
 
 **Alignment:** good · **Figure:** custom
 
@@ -5774,7 +5876,7 @@ The other is green throughout with a moulded head - a scaled, gaping fish-like f
 
 *Tags:* alien, nude, unprinted, moulded-head, lost, deceased
 
-### 501. The Engine Technician
+### 506. The Engine Technician
 
 **Alignment:** good · **Role:** Technician · **Figure:** custom
 
@@ -5784,7 +5886,7 @@ One of the engine technicians. Lost, and dead.
 
 *Tags:* technician, engines, space-programme, helmet, lost, deceased
 
-### 502. The Ranger in the Olive Helm
+### 507. The Ranger in the Olive Helm
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5794,7 +5896,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, helmet, field-jacket, lost, deceased
 
-### 503. The Lost Golden Rifleman
+### 508. The Lost Golden Rifleman
 
 **Alignment:** good · **Role:** Rifleman · **Figure:** branded
 
@@ -5806,7 +5908,7 @@ Too soft a frame to tell Phase 1 from Phase 2, or to read the unit markings the 
 
 *Tags:* star-wars, clone, trooper, rifleman, golden-company, rifle, lost, deceased, branded
 
-### 504. The Saxophone Player
+### 509. The Saxophone Player
 
 **Alignment:** good · **Role:** Musician · **Figure:** custom
 
@@ -5818,7 +5920,7 @@ Photographed standing on wet sand with the sea behind him and his own reflection
 
 *Tags:* musician, saxophone, music, cool, sunglasses, lost, deceased
 
-### 505. The Old Verdauf Soldier
+### 510. The Old Verdauf Soldier
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5830,7 +5932,7 @@ He is built off white blocks below the waist rather than printed legs.
 
 *Tags:* verdauf, squadron, soldier, veteran, beard, white-armor, lost, deceased
 
-### 506. The Blue Pirate Thug
+### 511. The Blue Pirate Thug
 
 **Alignment:** good · **Role:** Thug · **Figure:** custom
 
@@ -5840,7 +5942,7 @@ A pirate thug. The uniform he is wearing is not his - he stole it. Lost, and dea
 
 *Tags:* thug, pirate, stolen-uniform, respirator, blue, lost, deceased
 
-### 507. The Space Captain Lady
+### 512. The Space Captain Lady
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -5852,7 +5954,7 @@ It is the same uniform the Blue Space Captain wears, down to the badge.
 
 *Tags:* captain, space, woman, stolen-uniform, visor, lost, deceased
 
-### 508. The Evil Space Captain
+### 513. The Evil Space Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -5864,7 +5966,7 @@ It is a rebel pilot's kit. There are nine Rebel Pilots in this collection and he
 
 *Tags:* captain, space, villain, stolen-uniform, flight-helmet, beard, lost, deceased
 
-### 509. The Space Criminal
+### 514. The Space Criminal
 
 **Alignment:** good · **Role:** Criminal · **Figure:** custom
 
@@ -5874,7 +5976,7 @@ A space criminal. Lost, and dead.
 
 *Tags:* criminal, space, crook, grin, blaster, lost, deceased
 
-### 510. The Bribed Royal Enforcer
+### 515. The Bribed Royal Enforcer
 
 **Alignment:** good · **Role:** Enforcer · **Figure:** custom
 
@@ -5884,7 +5986,7 @@ A royal enforcer who took a bribe. Lost, and dead.
 
 *Tags:* enforcer, royal, bribed, corruption, visor, lost, deceased
 
-### 511. The Bearded Spaceman
+### 516. The Bearded Spaceman
 
 **Alignment:** good · **Role:** Spaceman · **Figure:** custom
 
@@ -5894,7 +5996,7 @@ A blue spaceman. Lost, and dead.
 
 *Tags:* spaceman, classic-space, blue, beard, vintage, lost, deceased
 
-### 512. The Masked Bounty Hunter
+### 517. The Masked Bounty Hunter
 
 **Alignment:** good · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -5906,7 +6008,7 @@ The frame is badly blurred and this is as much as it gives.
 
 *Tags:* bounty-hunter, masked, red-eyes, hood, lost, deceased
 
-### 513. The Crimson Ninja
+### 518. The Crimson Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -5916,7 +6018,7 @@ An evil ninja, in crimson. The figure has not been photographed yet - this card 
 
 *Tags:* ninja, villain, crimson, masked, concept-art, no-photograph
 
-### 514. The Nightwatch Captain
+### 519. The Nightwatch Captain
 
 **Alignment:** good · **Role:** Nightwatch Captain · **Based:** Lego City · **Figure:** custom
 

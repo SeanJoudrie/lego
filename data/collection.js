@@ -238,6 +238,7 @@ window.COLLECTION = [
       { to: "the-royal-daughter", label: "Father of" },
       { to: "the-outcast-prince", label: "Brother of" },
       { to: "the-palace-chief", label: "Pushed into the Senate by" },
+      { to: "the-prince-pretender", label: "His throne is claimed by" },
     ],
     rating: 0,
     background:
@@ -261,7 +262,7 @@ window.COLLECTION = [
       { src: "images/the-prince-senator-01.jpg", caption: "Senate era — before the title" }
     ],
     acquired: "",
-    notes: "Two separate figures for one man, kept as one entry with two photos. Connections here are deliberately only his close ties - almost everyone in the collection reports to him eventually, and listing that would bury the people who actually matter to him. Those who are loyal to him still say so on their own pages."
+    notes: "Two separate figures for one man, kept as one entry with two photos. Connections here are deliberately only his close ties - almost everyone in the collection reports to him eventually, and listing that would bury the people who actually matter to him. The Prince Pretender is on the list because a rival claimant to your throne is a close tie whether you like him or not. Those who are loyal to him still say so on their own pages."
   },
 
   {
@@ -279,6 +280,7 @@ window.COLLECTION = [
       { to: "the-prince", label: "Married to" },
       { to: "the-royal-sons", label: "Mother of" },
       { to: "the-royal-daughter", label: "Mother of" },
+      { to: "the-prince-pretender", label: "Brother of" },
     ],
     rating: 0,
     background:
@@ -12845,6 +12847,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-shadow-king", label: "Led the shadow uprising with" },
+      { to: "the-prince-pretender", label: "Allied with" },
       { to: "claws", label: "Captured" },
       { to: "the-knighted-civilian", label: "Brought down by" },
     ],
@@ -12914,6 +12917,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-shadow-prince", label: "Father of" },
       { to: "quinn", label: "Led the shadow uprising with" },
+      { to: "the-light-king", label: "Locked in eternal war with" },
     ],
     rating: 0,
     background:
@@ -12965,6 +12969,175 @@ window.COLLECTION = [
     images: ["images/phalanx-01.jpg"],
     acquired: "",
     notes: "A different kind of threat from the other two. Quinn and the Shadow King both want something - power, a war won - and this one is an appetite that happens to be clever. He is also the first villain here who commands anything: an army of taken bodies, which makes him the only enemy in this collection with a force behind him that is not made of soldiers who chose it. Worth noting he is the second entity built out of something that was here before - the Ancient is the other - and the only one that was dug up and worn."
+  },
+
+
+
+  {
+    id: "the-prince-pretender",
+    name: "The Prince Pretender",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pretender",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-space-princess", label: "Brother of" },
+      { to: "the-prince", label: "Claims his throne" },
+      { to: "quinn", label: "Allied with" },
+    ],
+    rating: 0,
+    background:
+      "He has a real claim. He is the Space Princess\'s brother, the throne was " +
+      "promised to him, and by certain loopholes in the marriage law he " +
+      "technically should have been King.\n\n" +
+      "He was not. The crown went through his sister\'s marriage instead, and " +
+      "then to a senator who never claimed it and only holds it because she " +
+      "disappeared for a while. So the blood claim sits with a man who has no " +
+      "power of his own, and rather than live inside the society that passed " +
+      "him over, he went and allied with Quinn to take the throne by force.\n\n" +
+      "He is a violent, entitled piece of work.",
+    provenance:
+      "Dark swept hair, a heavy black moustache and stubble. Royal blue tunic " +
+      "printed with gold stars, a brown sash knotted across the chest over a " +
+      "red medallion, and a gold-trimmed black belt with a crest at the buckle. " +
+      "Pale grey legs with plain pocket flaps - the only ordinary thing on him.",
+    tags: ["villain", "pretender", "royal-claim", "throne", "entitled", "quinn", "royal-family"],
+    images: ["images/the-prince-pretender-01.jpg"],
+    acquired: "",
+    notes: "He sharpens something the Prince\'s own card has said from the beginning - that the man is king \"de facto, never by claim\". Now there is somebody for whom that is a grievance. Kept out of the Royal Household: he is the Queen\'s brother and the royal children\'s uncle, but a group shows everybody to everybody and he is not one of them by choice. Say the word and he goes in. Second villain here who is somebody\'s family, after the Shadow King."
+  },
+
+
+  {
+    id: "the-lead-alien-mercenary",
+    name: "The Lead Alien Mercenary",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Mercenary",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He leads the alien mercenaries, and he is skilled in every single kind " +
+      "of combat there is.",
+    provenance:
+      "A green face, deeply scored, with dark markings running from the eyes " +
+      "down past a heavy drooping moustache, under a swept brown-gold hairpiece. " +
+      "Grey and gold armour with a bandolier of shells over one shoulder and a " +
+      "cog badge at the chest, a yellow-striped belt, black legs with silver " +
+      "chevrons at the knees and boots.",
+    tags: ["villain", "mercenary", "alien", "combat", "leader", "bandolier"],
+    images: ["images/the-lead-alien-mercenary-01.jpg"],
+    acquired: "",
+    notes: "Leads mercenaries who have not been photographed yet, so the group is real and empty for now. He arrived in the same batch as two arms dealers and nobody has said whether they work together - it would be the obvious arrangement, and it is not written down. Say so and they connect."
+  },
+
+
+  {
+    id: "the-arms-dealer",
+    name: "The Arms Dealer",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Arms Dealer",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-modified-arms-dealer", label: "Equal in rank to" },
+    ],
+    rating: 0,
+    background:
+      "He handles the accounting, which makes him sound like the quiet one. He " +
+      "is not. He is the one who decides who gets ripped off and who gets " +
+      "killed.\n\n" +
+      "He will do business with a target and then have that same target " +
+      "assassinated - a rival dealer, or a unit of soldiers worth robbing for " +
+      "their gear.",
+    provenance:
+      "A broad flat-brimmed tan campaign hat over a stubbled face set in a hard " +
+      "scowl. Tan suit jacket open over a buttoned waistcoat and a dark " +
+      "polka-dotted cravat, a brown book or wallet in one inside pocket. Tan " +
+      "legs.",
+    tags: ["villain", "arms-dealer", "accounting", "assassination", "robbery", "suit"],
+    images: ["images/the-arms-dealer-01.jpg"],
+    acquired: "",
+    notes: "Dressed like a clerk and running the killing list, which is the whole joke of him - the only villain in this collection in a waistcoat. Quinn spent his middle era as an independent arms dealer and these two arrived immediately after his card; nothing is written between them, and it is the first thing worth settling."
+  },
+
+
+  {
+    id: "the-light-king",
+    name: "The Light King",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "King",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-shadow-king", label: "Locked in eternal war with" },
+    ],
+    rating: 0,
+    background:
+      "King of light, and locked in eternal war with the Shadow King.\n\n" +
+      "When the shadow realm brought its conflict into the main Lego universe " +
+      "he turned up to fight the shadows - and not as anybody\'s ally. If a city " +
+      "had shadow people in it he sent his light army to bomb the city. The " +
+      "Lego people in it did not enter into it.\n\n" +
+      "The two kings are not opposite sides of a good war. They are the same " +
+      "problem twice, carrying their fight into everybody else\'s home.",
+    provenance:
+      "White from the cap down - peaked cap, head, torso, arms, hands and legs, " +
+      "with no printing anywhere on him and no face.",
+    tags: ["villain", "light", "king", "eternal-war", "unprinted", "faceless", "collateral"],
+    images: ["images/the-light-king-01.jpg"],
+    acquired: "",
+    notes: "The plastic does the whole argument by itself. The Shadow King is black from the plume down with not one printed detail on him; this man is white from the cap down with not one printed detail on him. Two figures, opposite colours, identically blank - and both of them filed bad. He is the second figure in the collection with no face at all, after the Man from the Yellow Dimension, and the first where that is the point."
+  },
+
+
+  {
+    id: "the-modified-arms-dealer",
+    name: "The Modified Arms Dealer",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Arms Dealer",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-arms-dealer", label: "Equal in rank to" },
+    ],
+    rating: 0,
+    background:
+      "The other arms dealer, and exactly as senior as the first.\n\n" +
+      "He used to be a poacher. What he has now is a body modification: it " +
+      "heals him quickly, lets him breathe underwater, lets him carry far more " +
+      "ammunition than he should be able to, and gives him the strength to " +
+      "fight in a way he could not before.",
+    provenance:
+      "A pale wide-brimmed hat over a lined, scowling face with a scar through " +
+      "one eye. Cream torso worn under a heavy dark grey chest rig - a real " +
+      "moulded piece rather than a print, ribbed, with a round port at the " +
+      "sternum. Black legs and black hands.",
+    tags: ["villain", "arms-dealer", "poacher", "body-modification", "self-healing", "amphibious", "strength"],
+    images: ["images/the-modified-arms-dealer-01.jpg"],
+    acquired: "",
+    notes: "Worth putting beside Quinn. Quinn wanted the essence of his body changed so nothing could kill him and went to the dark arts for it; this man went and had hardware fitted, and got healing, gills, capacity and strength out of it. Same want, two prices. He is also the fourth figure here to wear a body modification as history rather than kit, after the Discarded, the Mechanic and the Rebuilt - and the only one of the four who is not on our side."
   },
 
 

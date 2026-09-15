@@ -232,7 +232,9 @@ window.LORE = [
       "others: the TV Star lost half his face in one of them.\n\n" +
       "The Shadow King has been photographed now - a villain, the Shadow " +
       "Prince's father, and king of a dimension locked in eternal conflict " +
-      "with light itself. What he and Quinn did together has its own note.\n\n" +
+      "with light itself. What he and Quinn did together has its own note, " +
+      "and so does the other king in that sentence, who turns out to be no " +
+      "better than he is.\n\n" +
       "One figure on that side is still only a name: the Purple Shadow, who " +
       "killed the Snow Jedi's second Padawan. Whether he and the King are the " +
       "same power is not established.\n\n" +
@@ -492,6 +494,71 @@ window.LORE = [
       "He is also the second thing in this world built out of something that " +
       "was here before it. The Ancient is the other, and he was respected as " +
       "a source of wisdom. This one was dug up and worn."
+  },
+
+  {
+    title: "The two kings",
+    text:
+      "Light is not the good side here.\n\n" +
+      "The shadow dimension is locked in eternal war with light itself, and " +
+      "light has a king of its own. When the shadow realm carried its conflict " +
+      "into the main Lego universe, the Light King turned up to fight the " +
+      "shadows - and not as anybody's ally. If a city had shadow people in it " +
+      "he sent his light army to bomb the city. The people living there did " +
+      "not enter into it.\n\n" +
+      "So the two kings are not opposite sides of a good war. They are the " +
+      "same problem twice, fighting it out in somebody else's home, and both " +
+      "of them are filed as villains here.\n\n" +
+      "The figures make the argument better than the words do. The Shadow King " +
+      "is black from the plume down with not one printed detail on him. The " +
+      "Light King is white from the cap down with not one printed detail on " +
+      "him. Two opposite colours, identically blank, identically faceless. " +
+      "Whatever either of them is, it is not a person.\n\n" +
+      "It is worth holding this against the Shadow Prince, who is the Shadow " +
+      "King's son, is good, and whose robes show it. Being from one of these " +
+      "places does not settle what you are. Being one of these kings does."
+  },
+
+  {
+    title: "The claim on the throne",
+    text:
+      "The Prince's card has said from the day it was written that he is king " +
+      "de facto and never by claim. A senator in a purple t-shirt married the " +
+      "Space Princess, became the Prince on the marriage, and became King only " +
+      "because she disappeared for a while.\n\n" +
+      "There is now somebody for whom that is a grievance. The Prince " +
+      "Pretender is the Space Princess's brother. The throne was promised to " +
+      "him, and by loopholes in the marriage law he technically should have " +
+      "been King - so the blood claim and the crown are on two different men, " +
+      "and the one holding it never wanted it.\n\n" +
+      "Rather than live inside the society that passed him over, he allied " +
+      "with Quinn to take it by force. He is the Queen's brother and the royal " +
+      "children's uncle, and he is filed with the villains.\n\n" +
+      "This is the second time this world has put a family across a line. The " +
+      "Shadow King is a villain and his son is not. Here it runs the other " +
+      "way: the royal family is good and the claimant is not."
+  },
+
+  {
+    title: "The arms trade",
+    text:
+      "There is a trade in this world now, and it has a shape.\n\n" +
+      "Two arms dealers of exactly equal rank. One keeps the accounts and " +
+      "decides who gets ripped off and who gets killed - he will do business " +
+      "with a target and have that same target assassinated, a rival dealer or " +
+      "a unit of soldiers worth robbing for their gear. The other used to be a " +
+      "poacher and has had hardware fitted: fast healing, gills, the capacity " +
+      "to carry far more ammunition than a man should, and the strength to " +
+      "fight. And a lead alien mercenary, skilled in every kind of combat " +
+      "there is, leading mercenaries nobody has photographed yet.\n\n" +
+      "Nothing is written between the three of them, or between any of them " +
+      "and Quinn - who spent his own middle era as an independent arms dealer " +
+      "before he became what he became.\n\n" +
+      "Which is the interesting part. This world's good people are organised " +
+      "into fifty-four named groups with commanders and rosters. Its villains " +
+      "are twelve, half of them with no written tie to anybody at all. Either " +
+      "the villains really do work alone, or the lines exist and nobody has " +
+      "said them out loud yet."
   }
 
 ];
