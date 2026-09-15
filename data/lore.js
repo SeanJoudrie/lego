@@ -680,6 +680,13 @@ window.LORE = [
       "did, and is very hard to kill for it.\n\n" +
       "One is the first person ever placed under him rather than beside him. " +
       "The other is the first person written as simply belonging to him.\n\n" +
+      "It has kept growing since. He has a teacher behind him, Wen, who took " +
+      "him on before any of it. He has a fleet, handed to him by a general who " +
+      "spent a crew to do it. He has a dictator aligned with him who already " +
+      "runs a planet and wants the neighbours. He has a battalion commander " +
+      "who gassed his own men and walked to him with their belongings. And he " +
+      "has a super base for them to walk to, which nothing in this catalogue " +
+      "had named before.\n\n" +
       "The planner is the one to watch. Everything on that side until now was " +
       "somebody with an appetite or a grievance - Phalanx wants to eat, the " +
       "Pretender wants a throne, the Light King wants a war. This is the first " +
@@ -809,6 +816,28 @@ window.LORE = [
       "people trying to undo that are the bad ones.\n\n" +
       "The Butcher\'s other work is torture devices, for getting information " +
       "out of captured good people. He is smiling in his photograph."
+  },
+
+  {
+    title: "The first enemy who fights with a story",
+    text:
+      "Forty-five villains, and until now every single one of them did " +
+      "something to a body. Took a throne, a planet, a ship, a limb, a life. " +
+      "Even the quiet ones were physical: the technician who unlocked the " +
+      "doors, the apprentice who stabbed his commander, the doctor with the " +
+      "scissors.\n\n" +
+      "The Propagandist plans shots and writes stories, and what he puts out " +
+      "is misleading information about the royal system. He is the only enemy " +
+      "in this world whose weapon is what people believe.\n\n" +
+      "Which lands somewhere specific, because this world already has media " +
+      "and takes it seriously. Lego City has a TV unit that is very highly " +
+      "regarded. The Cameraman does the editing for it and was badly scarred " +
+      "in an accident and stayed cheerful about it. The TV Star was famous on " +
+      "it before he enlisted in the Space Militia, and lost half his face in a " +
+      "shadow war.\n\n" +
+      "Nobody has said whether the Propagandist came out of that unit or works " +
+      "against it. Both would mean something and they would mean opposite " +
+      "things."
   }
 
 ];

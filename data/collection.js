@@ -12854,6 +12854,8 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "the-defector-commander", label: "Defected to him" },
+      { to: "the-dictator", label: "Aligned with" },
       { to: "wen", label: "Taught by" },
       { to: "the-fleet-general", label: "Given a fleet by" },
       { to: "the-infamous-traitor", label: "Followed by" },
@@ -14019,7 +14021,7 @@ window.COLLECTION = [
     tags: ["villain", "bounty-hunter", "alien", "long-arms", "fangs", "snout"],
     images: ["images/long-arm-johnson-01.jpg"],
     acquired: "",
-    notes: "Seventh bounty hunter in the collection and the third on the villain side. One of only a handful of villains with a personal name rather than a description - Quinn, Phalanx, Johnny Plasma, Wen and this man. Not filed with the Iron League: they all wear the same chest plate and he is in nothing like it. Say the word if he is one of theirs."
+    notes: "One of only a handful of villains with a personal name rather than a description - Quinn, Phalanx, Johnny Plasma, Wen and this man. Not filed with the Iron League: they all wear the same chest plate and he is in nothing like it. Say the word if he is one of theirs."
   },
 
 
@@ -14052,6 +14054,136 @@ window.COLLECTION = [
     images: ["images/the-butcher-01.jpg"],
     acquired: "",
     notes: "Named the Butcher rather than the Doctor, which you also called him, because this collection already has a Doctor - Dr. Oz, who is filed good and works with an assistant. Two men here now work on the dead and they could not be less alike: the Demon Lord comes out of the underworld and raises them whole, and this one is a man with scissors trying to solve it. He is also the second villain whose face is simply a happy one, after the Charming Bounty Hunter - and the only figure in five hundred and forty-eight who is grinning about this."
+  },
+
+
+
+  {
+    id: "the-dictator",
+    name: "The Dictator",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Dictator",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Aligned with" },
+    ],
+    rating: 0,
+    background:
+      "A fascist dictator, and he already runs a planet of his own.\n\n" +
+      "What he wants is the rest of them. He aligned himself with Quinn " +
+      "specifically so that he could hold the other planets in his outer rim.",
+    provenance:
+      "Brown peaked officer\'s cap with a broad gold band and a gold badge. A " +
+      "tanned face, brows down hard, mouth flat. Pale khaki tunic printed with " +
+      "an open collar, a rifle slung on a leather strap across the chest, " +
+      "camouflage rolls and buttoned pockets, and a belt hung with pouches and " +
+      "an axe head down one thigh.",
+    tags: ["villain", "dictator", "fascist", "planet", "outer-rim", "conquest", "quinn", "uniform"],
+    images: ["images/the-dictator-01.jpg"],
+    acquired: "",
+    notes: "The first villain here who already holds territory. Everybody else on that side wants something they have not got - a throne, a war, a meal, money, the world remade. This one has a planet and wants the neighbours, which is a different kind of want and a much more ordinary one. He is also the first to bring the outer rim into the catalogue as a place anybody governs."
+  },
+
+
+  {
+    id: "the-dapper-bounty-hunter",
+    name: "The Dapper Bounty Hunter",
+    variant: "Hat off, hat on",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An alien bounty hunter with a much better wardrobe than his face " +
+      "suggests, and - genuinely - pretty friendly.\n\n" +
+      "He does not have an ethical bone anywhere in him. It is not that he is " +
+      "cruel: he does not even like killing. He is simply extremely good at " +
+      "it, so that is the market he ended up in.",
+    provenance:
+      "A pale green head that is nothing like a face - two enormous black eyes " +
+      "with yellow slits in them, fine lines worked over the skull, and a gold " +
+      "beaked plate covering the mouth. Bright orange hair swept over it. Black " +
+      "coat printed with two crossed studded bandoliers over a cream shirt and " +
+      "a buckled belt, black legs with gold strapwork, pale green hands. A dark " +
+      "brown fedora.",
+    tags: ["villain", "bounty-hunter", "alien", "well-dressed", "friendly", "amoral", "fedora"],
+    images: [
+      { src: "images/the-dapper-bounty-hunter-01.jpg", caption: "Hat off" },
+      { src: "images/the-dapper-bounty-hunter-02.jpg", caption: "Hat on" },
+    ],
+    acquired: "",
+    notes: "Two photographs, one man, the way Luke and Obi-Wan and Quinn are done - this pair is just the hat. Bounty hunting is the single most common job on the villain side now - nine figures here carry the role and five of them are filed bad, and that is before the Bounty Hunter Captain, who is one too and is filed under Captain. He is easily the strangest of them on the moral question this collection keeps asking. The Charming Bounty Hunter loves the work and is a sociopath about it. This one does not enjoy it at all, is good company, and does it anyway because he is good at it. Nothing is written between him and any of the others; he wears none of the Iron League\'s chest plate."
+  },
+
+
+  {
+    id: "the-defector-commander",
+    name: "The Defector Commander",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Battalion Commander",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Defected to" },
+    ],
+    rating: 0,
+    background:
+      "A battalion commander who defected, and took his battalion with him in " +
+      "the worst possible sense.\n\n" +
+      "He walked his own troops into a chamber and had it gassed. Then he had " +
+      "one of his loyal men strip the bodies of everything they were carrying, " +
+      "and left for Quinn\'s super base with the lot.",
+    provenance:
+      "White peaked cap over a scarred face - red lines across both cheeks, a " +
+      "pale moustache, teeth bared. White officer\'s tunic printed with a " +
+      "panelled front and a data plate at the chest, white legs with a pocket " +
+      "outlined on each thigh, white hands, and a cream cloth cape.",
+    tags: ["villain", "traitor", "commander", "battalion", "gas", "massacre", "looting", "quinn", "cape"],
+    images: ["images/the-defector-commander-01.jpg"],
+    acquired: "",
+    notes: "Not the Battalion Commander, who is filed good and runs the Space Militia from the mothership - this is another one, in a different uniform, and you called him another. Third officer here to spend his own men: the Traitor Captain rigged a ship with half the Verdauf aboard, the Fleet General sent a crew to be surrounded and taken, and this one used a room. He also brings Quinn\'s super base into the catalogue, which nothing had named before. And there is a man unaccounted for in his story - the loyal one who stripped the bodies."
+  },
+
+
+  {
+    id: "the-propagandist",
+    name: "The Propagandist",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Propagandist",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He plans the shots and writes the stories. What he puts out is " +
+      "misleading information about the royal system, aimed at whoever will " +
+      "take it.",
+    provenance:
+      "Brown hair swept up off a plain yellow face with an easy, pleased " +
+      "smile. Cream shirt under an orange-brown waistcoat, and a red press " +
+      "pass clipped to it printed with a small photograph. Blue legs.",
+    tags: ["villain", "propaganda", "media", "misinformation", "press-pass", "royal-system"],
+    images: ["images/the-propagandist-01.jpg"],
+    acquired: "",
+    notes: "A new kind of enemy for this world. Forty-five villains and every other one of them does something to a body - takes a throne, a planet, a ship, a life. This man works on what people believe, and he is the only one whose weapon is a story. He sits directly against something this collection already had: Lego City has a TV unit that is very highly regarded, with a Cameraman who does the editing and a TV Star who left it to enlist. Nobody has said whether the Propagandist came out of that unit or works against it. It is the obvious question."
   },
 
 
