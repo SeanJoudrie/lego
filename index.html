@@ -98,6 +98,20 @@
   .grid.small .custom-tag, .grid.small .theme-tag { display:none; }
   .grid.tiny .meta, .grid.tiny .custom-tag, .grid.tiny .theme-tag { display:none; }
   .grid.tiny .flag { width:7px; height:7px; top:5px; left:5px; box-shadow:0 0 0 2px rgba(0,0,0,.5); }
+
+  /* A full-width rule across the grid where the living stop and the lost
+     begin, with the label sitting under the line. */
+  .sec {
+    grid-column:1 / -1;
+    margin:22px 0 2px; padding-top:10px;
+    border-top:1px solid var(--line);
+    display:flex; align-items:baseline; justify-content:space-between; gap:12px;
+    font-size:11px; font-weight:600; letter-spacing:.12em;
+    text-transform:uppercase; color:var(--dim);
+  }
+  .sec b { font-weight:500; letter-spacing:.06em; opacity:.75; }
+  .grid.small .sec { margin:16px 0 0; }
+  .grid.tiny .sec { margin:12px 0 0; font-size:10px; letter-spacing:.08em; }
   .card {
     background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
     overflow:hidden; cursor:pointer; text-align:left; padding:0; color:inherit; font:inherit;
@@ -303,8 +317,8 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789459691"></script>
-<script src="data/lore.js?v=1789459691"></script>
+<script src="data/collection.js?v=1789460357"></script>
+<script src="data/lore.js?v=1789460357"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", faction:"all", origin:"all", theme:"all", rank:"all", role:"all", group:"all", location:"all", sort:"order" };
@@ -408,7 +422,30 @@ function render() {
 
   syncFilterUI();
 
-  $("grid").innerHTML = list.map(f => {
+  $("grid").innerHTML = sections(list).map((run, i) =>
+    (i === 0 ? `` : `<div class="sec">${run.lost ? "Deceased or missing" : "Still here"}<b>${run.items.length}</b></div>`)
+    + run.items.map(card).join("")
+  ).join("");
+  fitShots($("grid"));
+}
+
+// The lost are catalogued as a block at the end of the collection, so the grid
+// draws a rule where they start. Only when the current order actually splits
+// the two apart - sorting by name or rating interleaves them, and a rule there
+// would claim a division that isn't on screen.
+const isLost = f => (f.tags || []).includes("lost");
+
+function sections(list) {
+  const runs = [];
+  for (const f of list) {
+    const lost = isLost(f);
+    if (!runs.length || runs[runs.length - 1].lost !== lost) runs.push({ lost, items: [] });
+    runs[runs.length - 1].items.push(f);
+  }
+  return runs.length === 2 ? runs : [{ lost: null, items: list }];
+}
+
+function card(f) {
     const cover = photos(f)[0];
     return `<button class="card" data-i="${f._i}">
       <div class="shot">
@@ -428,8 +465,6 @@ function render() {
         </div>
       </div>
     </button>`;
-  }).join("");
-  fitShots($("grid"));
 }
 
 // Short labels for the corner tag - a few franchise names are far too long to

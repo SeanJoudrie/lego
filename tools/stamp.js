@@ -16,15 +16,20 @@ const stamp = Math.max(
     Math.floor(fs.statSync(path.join(root, f)).mtimeMs / 1000))
 );
 
-let html = fs.readFileSync(page, "utf8");
-const before = html;
-html = html.replace(
-  /(<script src="data\/(?:collection|lore)\.js)(\?v=\d+)?("><\/script>)/g,
-  `$1?v=${stamp}$3`);
+const TAG = /(<script src="data\/(?:collection|lore)\.js)(\?v=\d+)?("><\/script>)/g;
 
-if (html === before) {
-  console.error("stamp: found no data script tags to stamp");
+let html = fs.readFileSync(page, "utf8");
+const found = (html.match(TAG) || []).length;
+if (found !== 2) {
+  console.error(`stamp: expected 2 data script tags in index.html, found ${found}`);
   process.exit(1);
 }
-fs.writeFileSync(page, html);
-console.log("stamped data scripts with v=" + stamp);
+
+const stamped = html.replace(TAG, `$1?v=${stamp}$3`);
+if (stamped === html) {
+  // The data has not changed since the last stamp, so neither should the URL.
+  console.log("stamp: already at v=" + stamp);
+} else {
+  fs.writeFileSync(page, stamped);
+  console.log("stamped data scripts with v=" + stamp);
+}
