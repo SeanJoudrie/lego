@@ -17432,6 +17432,100 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "darth-vader",
+    name: "Darth Vader",
+    variant: "Three figures",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Sith",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Darth Vader.",
+    provenance:
+      "Three of him, and two of the three are the same figure a decade " +
+      "apart.\n\n" +
+      "Plain: the moulded black helmet and mask, a black cloth cape, and a " +
+      "torso printed simply - white ribbing at the chest, a control box, two " +
+      "panels at the belt. Black arms, black hands, black legs with no " +
+      "printing on them at all.\n\n" +
+      "In detail: the same helmet over a torso worked properly - the ribbing " +
+      "shaded, the chest box picked out in red and green, panels at both hips " +
+      "and the printing carried right down the legs. A rougher, heavier cloth " +
+      "cape.\n\n" +
+      "And in blue: the whole figure moulded in transparent blue, helmet to " +
+      "boots, with the chest panel printed in white over it and a blue blade " +
+      "in his hand. You can see through him.",
+    tags: ["villain", "sith", "star-wars", "branded", "vader", "helmet", "cape", "translucent"],
+    images: [
+      { src: "images/darth-vader-01.jpg", caption: "Plain" },
+      { src: "images/darth-vader-02.jpg", caption: "In detail" },
+      { src: "images/darth-vader-03.jpg", caption: "Transparent blue" }
+    ],
+    acquired: "",
+    notes: "Eighth branded villain and the sixth out of Star Wars, which makes that franchise the enemy's main supplier of bought figures by a distance. Sixth Sith here, after Quinn, the Purple Shadow, the Sith Lord, Savage Opress and Darth Nihilus - three home-made, three off the shelf. The transparent one is the odd thing: a fair few figures in this collection have a translucent piece, a visor or a helmet or a blade, and none of them is translucent all the way through. He is the only figure here you can see the shelf through."
+  },
+
+  {
+    id: "the-blue-mandalorian",
+    name: "The Blue Mandalorian",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Mandalorian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A Mandalorian, and an enemy of this world.",
+    provenance:
+      "A grey-domed helmet with the face plate in blue, a black T-visor and " +
+      "silver at the ears and brow. A blue torso printed with a grey chest " +
+      "plate, a sculpted collar and a grey segmented belt with a brown strap " +
+      "under it; blue arms, grey hands, blue legs.",
+    tags: ["villain", "mandalorian", "star-wars", "branded", "beskar", "t-visor", "blue"],
+    images: ["images/the-blue-mandalorian-01.jpg"],
+    acquired: "",
+    notes: "Ninth branded villain. The Mandalorian and the Armorer, who forges beskar and keeps their creed, are both filed good - so this is the third Mandalorian here and the first against this world. You said these two are separate men rather than one photographed twice, so they get a card each; they share a torso print and differ only at the helmet."
+  },
+
+  {
+    id: "the-second-blue-mandalorian",
+    name: "The Second Blue Mandalorian",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Mandalorian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The other Mandalorian.",
+    provenance:
+      "The same blue and grey armour as the first, down to the chest plate and " +
+      "the segmented belt - and a different helmet: the dome grey, the blue " +
+      "carried further forward, a silver band running up the centre over the " +
+      "visor, and a brown pack at the back of the neck. Blue arms, grey hands, " +
+      "blue legs.",
+    tags: ["villain", "mandalorian", "star-wars", "branded", "beskar", "t-visor", "blue", "pack"],
+    images: ["images/the-second-blue-mandalorian-01.jpg"],
+    acquired: "",
+    notes: "Tenth branded villain. Two men in one set of armour, named apart because you said they are separate - which is the opposite call to Boba Fett, where three suits of armour turned out to be one man. Mandalorian armour is inherited and handed on in the source, so a shared print is exactly what you would expect either way; the helmet and the pack are what separate them here."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
