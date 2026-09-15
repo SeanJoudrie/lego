@@ -571,8 +571,8 @@ window.LORE = [
       "and Quinn - who spent his own middle era as an independent arms dealer " +
       "before he became what he became.\n\n" +
       "When this note was written there were twelve villains and half of them " +
-      "had no written tie to anybody. There are twenty-six now, and the shape " +
-      "has changed: Quinn has a second-in-command on the technology side who " +
+      "had no written tie to anybody. There are a great many more now, and the " +
+      "shape has changed: Quinn has a second-in-command on the technology side who " +
       "organises killing machines and plans invasions, and a fanatic who did " +
       "to his own body what Quinn did to his. The Iron League has four men in " +
       "one uniform. Two units on that side now have somebody in charge of " +
@@ -659,6 +659,54 @@ window.LORE = [
       "somebody with an appetite or a grievance - Phalanx wants to eat, the " +
       "Pretender wants a throne, the Light King wants a war. This is the first " +
       "villain in this world whose job is to sit down and work out how."
+  },
+
+  {
+    title: "The Bionics Team",
+    text:
+      "Body modification has been in this world almost from the start, and it " +
+      "has always been read as history rather than as kit. The Discarded came " +
+      "here from another civilization with a silver arm, and studying that arm " +
+      "is the reason this society has cybernetics at all. The Mechanic was " +
+      "shot down and repaired his own arm and his own skull. The Rebuilt is an " +
+      "archangel who was put back together. The Modified Arms Dealer had " +
+      "hardware fitted and got healing, gills and strength out of it. The " +
+      "Bounty Hunter Captain wears a mechanical arm. The Bionic Brother runs " +
+      "on bionic legs.\n\n" +
+      "Six people, and nobody had ever said who builds the things.\n\n" +
+      "There is an answer now and it is not a comfortable one. There is a " +
+      "bionics team, it has a leader, and what it makes are prosthetics that " +
+      "double as weapons - a limb that is also a gun. The whole outfit is " +
+      "filed with the villains.\n\n" +
+      "That reframes a lot without contradicting any of it. The Discarded's " +
+      "arm gave this world the science. It has not been said who took the " +
+      "science and started selling limbs you can shoot people with, or whether " +
+      "any of the six above got theirs from this team. Nobody has drawn those " +
+      "lines. They are the obvious ones to draw."
+  },
+
+  {
+    title: "Where the villains come from",
+    text:
+      "The villains started as a list of individuals. They are turning into " +
+      "people with histories, and the histories are mostly other people.\n\n" +
+      "Two sets of brothers arrived in one batch. The Bionic Brother is " +
+      "brother to the Lead Alien Mercenary. The Narcissist is brother to the " +
+      "cheerful sociopath - and the two of them are the only villains in the " +
+      "collection whose faces carry no mark at all, no scar, no visor, no " +
+      "mask, nothing. Everything wrong with either of them is under the " +
+      "surface, and the plastic agrees.\n\n" +
+      "Before them there was already family on that side: the Prince Pretender " +
+      "is the Queen's brother and the royal children's uncle, and the Shadow " +
+      "King is the Shadow Prince's father, and the Prince is good.\n\n" +
+      "And now there is a partnership that broke. The Guardsman is one of the " +
+      "elite protection forces around the Prince and climbed the whole ladder " +
+      "to the top of it. He and one other man were a duo. That man is filed " +
+      "with the villains, and he is the most efficient killer here - quiet, " +
+      "formal, methodical, and very hard to stop.\n\n" +
+      "His reason is the thing worth keeping. Thirty-one villains, and every " +
+      "one of the others wants a throne, a war, a meal, a grievance settled or " +
+      "the world remade. He wanted to be filthy rich."
   }
 
 ];

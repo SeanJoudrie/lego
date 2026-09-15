@@ -1676,7 +1676,9 @@ window.COLLECTION = [
     role: "Prince's Guard",
     group: "The Royal Household",
     location: "The Royal Palace",
-    relations: [],
+    relations: [
+      { to: "the-guardsmans-partner", label: "Was his partner" },
+    ],
     rating: 0,
     background:
       "One of the elite protection forces around the Prince — the top of that " +
@@ -13027,7 +13029,9 @@ window.COLLECTION = [
     role: "Mercenary",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-bionic-brother", label: "Brother of" },
+    ],
     rating: 0,
     background:
       "He leads the alien mercenaries, and he is skilled in every single kind " +
@@ -13038,7 +13042,7 @@ window.COLLECTION = [
       "Grey and gold armour with a bandolier of shells over one shoulder and a " +
       "cog badge at the chest, a yellow-striped belt, black legs with silver " +
       "chevrons at the knees and boots.",
-    tags: ["villain", "mercenary", "alien", "combat", "leader", "bandolier"],
+    tags: ["villain", "mercenary", "alien", "combat", "leader", "bandolier", "brother"],
     images: ["images/the-lead-alien-mercenary-01.jpg"],
     acquired: "",
     notes: "Leads mercenaries who have not been photographed yet, so the group is real and empty for now. He arrived in the same batch as two arms dealers and nobody has said whether they work together - it would be the obvious arrangement, and it is not written down. Say so and they connect."
@@ -13335,7 +13339,9 @@ window.COLLECTION = [
     role: "Bounty Hunter",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-narcissist", label: "Brother of" },
+    ],
     rating: 0,
     background:
       "Extremely charming, and a complete sociopath. Cheerful about it - oh " +
@@ -13557,6 +13563,164 @@ window.COLLECTION = [
     images: ["images/the-bounty-hunter-captain-01.jpg"],
     acquired: "",
     notes: "Not filed with the Iron League, whose four members all wear the same chest plate and who already have a captain; this man is in nothing like it. If he captains them too, or captains somebody else, say so. Sixth bounty hunter here and the second on the villain side. The mechanical arm is the fifth body modification worn as history in this collection, after the Discarded, the Mechanic, the Rebuilt and the Modified Arms Dealer - and the third of the five to be on this side."
+  },
+
+
+
+  {
+    id: "the-bionic-brother",
+    name: "The Bionic Brother",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Brawler",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-lead-alien-mercenary", label: "Brother of" },
+    ],
+    rating: 0,
+    background:
+      "Brother to the mercenary who leads the aliens. He has bionic legs and " +
+      "super strength, which makes him made for close work - hand to hand is " +
+      "where he is at his best.",
+    provenance:
+      "A pale green face with red eyes, two lower fangs and a scar hooked down " +
+      "one cheek, under a swept ginger hairpiece. Pale green torso printed " +
+      "with a gold X harness and a gold disc at the chest, green arms and a " +
+      "green hand. White armoured legs plated in silver.",
+    tags: ["villain", "bionic", "prosthetic", "super-strength", "hand-to-hand", "alien", "brother"],
+    images: ["images/the-bionic-brother-01.jpg"],
+    acquired: "",
+    notes: "Linked to the Lead Alien Mercenary as his brother on the strength of the description - green skin and golden hair is that man exactly, and nothing else here matches both. If you meant somebody else, one word moves it. His legs are the sixth body modification worn as history in this collection, and they arrive in the same batch as the man whose team makes them; no line is written between those two, because you have not drawn one."
+  },
+
+
+  {
+    id: "the-space-outlaw",
+    name: "The Space Outlaw",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Outlaw",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A space outlaw and a cowboy, in a cape he is pleased with.\n\n" +
+      "He gets himself into bar fights and duels on purpose. Not over money " +
+      "and not over insults - he does it because he likes it.",
+    provenance:
+      "Long dark hair, a curled black moustache over a wide grin and stubble " +
+      "across the jaw. Black doublet printed with two crossed studded " +
+      "bandoliers and a gold buckle at the belt, black legs with gold " +
+      "strapwork, brown hands. A deep red cloth cape.",
+    tags: ["villain", "outlaw", "cowboy", "duellist", "bar-fights", "cape", "showman"],
+    images: ["images/the-space-outlaw-01.jpg"],
+    acquired: "",
+    notes: "Named close to the Outlaw on purpose, because that is what you called him, and the two are worth reading together. The Outlaw is a space cowboy who would rob any of the good guys blind and never hurt one, and the Great Shadow War settled him; this one fights for the pleasure of fighting and is filed bad. Same job, same century, opposite ends of it. Say the word if you would rather he had a name that did not shadow the other one."
+  },
+
+
+  {
+    id: "the-bionics-leader",
+    name: "The Bionics Leader",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Leader, Bionics Team",
+    group: "The Bionics Team",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He leads the bionics team. What they build are prosthetics that double " +
+      "as weapons - a limb that is also a gun.",
+    provenance:
+      "Black hair cut flat on top over a yellow face with a small moustache " +
+      "and a hard mouth, and a grey space collar with round ports at the ears. " +
+      "Black torso with a silver chest plate, a lime green badge at the " +
+      "sternum, and a row of silver blocks across the belt. One grey arm, one " +
+      "black, black legs.",
+    tags: ["villain", "bionics", "prosthetics", "weapons", "engineer", "leader", "new-group"],
+    images: ["images/the-bionics-leader-01.jpg"],
+    acquired: "",
+    notes: "A new group, and a significant one. This world has had body modification worn as history since very early - the Discarded, whose silver arm is the reason the civilization has cybernetics at all, then the Mechanic, the Rebuilt, the Modified Arms Dealer, the Bounty Hunter Captain and now the Bionic Brother. Until today nobody had said who makes them. The answer is a team, and it is on the villain side, and what it builds is a limb that is also a gun. He wears the same lime green badge as the Guardsman\'s Partner, which is the only thing tying those two together and is not written as a link."
+  },
+
+
+  {
+    id: "the-narcissist",
+    name: "The Narcissist",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-charming-bounty-hunter", label: "Brother of" },
+    ],
+    rating: 0,
+    background:
+      "Brother to the cheerful sociopath. This one runs on ego - how he looks, " +
+      "what he is wearing, how he comes across - and underneath it he is as " +
+      "unwell as his brother, in a different direction.\n\n" +
+      "He reads as perfectly normal at first, and charming with it.",
+    provenance:
+      "Brown hair over a plain yellow face with a small closed smile - no " +
+      "scar, no marking, nothing. Black doublet printed with crossed studded " +
+      "bandoliers over a white shirt and a buckle at the belt, black legs with " +
+      "silver strapwork, brown hands.",
+    tags: ["villain", "bounty-hunter", "narcissist", "vanity", "charming", "brother", "unmarked-face"],
+    images: ["images/the-narcissist-01.jpg"],
+    acquired: "",
+    notes: "Second pair of brothers on the villain side in one batch. Worth seeing the two of them together: his brother is a plain yellow face with an easy smile and this is a plain yellow face with an easy smile, and between them they are the only two villains here whose faces carry no mark at all - everybody else on that side has a scar, a visor, a mask or is not human. The wrongness in both of them is entirely under the surface, and the plastic agrees. He also wears nearly the same doublet as the Space Outlaw, who arrived in the same batch; nothing is written between them."
+  },
+
+
+  {
+    id: "the-guardsmans-partner",
+    name: "The Guardsman\'s Partner",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assassin",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-guardsman", label: "Was his partner" },
+    ],
+    rating: 0,
+    background:
+      "He and the Guardsman were a duo, before.\n\n" +
+      "What he is now is the most efficient killer in this world. Quiet, " +
+      "formal, methodical - he does not threaten anybody, he simply arrives, " +
+      "and the reputation does most of the work before he gets there. He " +
+      "takes an enormous amount of punishment and keeps walking. People who " +
+      "know what he is say his name carefully.\n\n" +
+      "And the reason for all of it is money. He turned because he wanted to " +
+      "be filthy rich.",
+    provenance:
+      "Long black hair, a black goatee, and orange scoring across the brows " +
+      "and cheeks. Black torso with a grey chest plate and a lime green badge " +
+      "at the shoulder, black arms, grey legs printed with thigh panels and " +
+      "equipment slots.",
+    tags: ["villain", "assassin", "efficient", "relentless", "reputation", "greed", "turned", "former-partner"],
+    images: ["images/the-guardsmans-partner-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, taken from the only fixed thing about him. Written as traits rather than naming the comparison you gave, the way the Outlaw and the Anakin and Avatar cards are done - say the word and it goes in outright. The Guardsman is one of the elite protection forces around the Prince and climbed the whole ladder from soldier to agent to the top of it, and his card has been empty of connections since he was written; this is the first, and it is this. Thirty-one villains and he is the first whose motive is simply money - the rest want a throne, a war, a meal or revenge. He wears the same lime green badge as the Bionics Leader and nobody has said why."
   },
 
 
