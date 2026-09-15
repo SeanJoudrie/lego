@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-242 characters from a custom LEGO minifigure world, in the order they were
+247 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2906,13 +2906,67 @@ A pirate hobo. He likes to party.
 
 ### 242. The Pirate Captain
 
-**Alignment:** good · **Role:** Pirate · **Figure:** custom
+**Alignment:** good · **Role:** Pirate Captain · **Figure:** custom
 
 A pirate captain. She runs the ship.
 
 *How it was got:* Red corset over a white shirt, and a holster on the belt.
 
+*Connections:* Her first mate The First Mate
+
 *Tags:* pirate, captain, woman, command, ship
+
+### 243. The First Mate
+
+**Alignment:** good · **Role:** First Mate · **Figure:** custom
+
+First mate to the Pirate Captain.
+
+*How it was got:* Green and white stripes under a bandolier, and a blue knit cap.
+
+*Connections:* First mate to The Pirate Captain
+
+*Tags:* pirate, first-mate, crew, second-in-command
+
+### 244. The Tattooed Pirate
+
+**Alignment:** good · **Role:** Pirate · **Figure:** custom
+
+One of the Pirate Captain's crew.
+
+*How it was got:* An anchor inked on his chest, open pink-lined vest, green cap.
+
+*Tags:* pirate, crew, tattoo, anchor
+
+### 245. The Long-Haired Pirate
+
+**Alignment:** good · **Role:** Pirate · **Figure:** custom
+
+One of the Pirate Captain's crew.
+
+*How it was got:* A braided blue coat over a red and white striped shirt.
+
+*Tags:* pirate, crew, long-hair, coat
+
+### 246. The Tin Robot
+
+**Alignment:** good · **Figure:** custom
+
+A robot.
+
+*How it was got:* Built to look like a wind-up tin toy - square head, dial eyes, a mouth of coloured lights and springs printed down the legs.
+
+*Tags:* robot, tin-toy, wind-up, dials, background
+
+### 247. The Sleepy Pirate
+
+**Alignment:** good · **Role:** Pirate · **Figure:** custom
+
+A sleepy pirate.
+
+*How it was got:* Tricorn hat, and a face caught mid-yawn with both eyes shut.
+
+*Tags:* pirate, sleepy, yawn, tricorn
 
 ---
 

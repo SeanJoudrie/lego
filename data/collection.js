@@ -6559,17 +6559,134 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Pirate",
-    group: "",
+    role: "Pirate Captain",
+    group: "The Pirate Crew",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-first-mate", label: "Her first mate" },
+    ],
     rating: 0,
     background: "A pirate captain. She runs the ship.",
     provenance: "Red corset over a white shirt, and a holster on the belt.",
     tags: ["pirate", "captain", "woman", "command", "ship"],
     images: ["images/the-pirate-captain-01.jpg"],
     acquired: "",
-    notes: "Placeholder name. First woman here who captains anything. Second pirate captain in the collection, but the Beach Bum is a former one who walked away from it, so she is the only serving one - and he has no Pirate role for exactly that reason."
+    notes: "Placeholder name. First woman here who captains anything, and she has a crew now. Second pirate captain in the collection, but the Beach Bum is a former one who walked away from it, so she is the only serving one - and he has no Pirate role for exactly that reason."
+  },
+
+
+
+  {
+    id: "the-first-mate",
+    name: "The First Mate",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "First Mate",
+    group: "The Pirate Crew",
+    location: "",
+    relations: [
+      { to: "the-pirate-captain", label: "First mate to" },
+    ],
+    rating: 0,
+    background: "First mate to the Pirate Captain.",
+    provenance: "Green and white stripes under a bandolier, and a blue knit cap.",
+    tags: ["pirate", "first-mate", "crew", "second-in-command"],
+    images: ["images/the-first-mate-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The captain had no crew until this batch; now she has three, and he is the one who answers for them."
+  },
+
+
+  {
+    id: "the-tattooed-pirate",
+    name: "The Tattooed Pirate",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate",
+    group: "The Pirate Crew",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Pirate Captain's crew.",
+    provenance: "An anchor inked on his chest, open pink-lined vest, green cap.",
+    tags: ["pirate", "crew", "tattoo", "anchor"],
+    images: ["images/the-tattooed-pirate-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. No roster link written to the captain - the crew already shows everyone to everyone, and stacking serves-under on top is the redundancy called out on the Space Marshal."
+  },
+
+
+  {
+    id: "the-long-haired-pirate",
+    name: "The Long-Haired Pirate",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate",
+    group: "The Pirate Crew",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Pirate Captain's crew.",
+    provenance: "A braided blue coat over a red and white striped shirt.",
+    tags: ["pirate", "crew", "long-hair", "coat"],
+    images: ["images/the-long-haired-pirate-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, paired with the Tattooed Pirate."
+  },
+
+
+  {
+    id: "the-tin-robot",
+    name: "The Tin Robot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A robot.",
+    provenance:
+      "Built to look like a wind-up tin toy - square head, dial eyes, a mouth " +
+      "of coloured lights and springs printed down the legs.",
+    tags: ["robot", "tin-toy", "wind-up", "dials", "background"],
+    images: ["images/the-tin-robot-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Ninth robot in the collection, and the only one built to look like a toy - everything else mechanical here is a soldier, a vessel, a stand-in or a courier."
+  },
+
+
+  {
+    id: "the-sleepy-pirate",
+    name: "The Sleepy Pirate",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A sleepy pirate.",
+    provenance: "Tricorn hat, and a face caught mid-yawn with both eyes shut.",
+    tags: ["pirate", "sleepy", "yawn", "tricorn"],
+    images: ["images/the-sleepy-pirate-01.jpg"],
+    acquired: "",
+    notes: "Left out of the Pirate Crew on purpose: you named the other three as hers and stopped short of him. Say the word and he joins, along with the Pirate Hobo, who is in the same position."
   },
 
 
