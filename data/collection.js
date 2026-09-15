@@ -17663,6 +17663,142 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-blue-imperial-trooper",
+    name: "The Blue Imperial Trooper",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An Imperial trooper in blue armour.",
+    provenance:
+      "The stormtrooper helmet mould, moulded in dark blue and printed with " +
+      "black lining and a small red triangle at the brow. A blue torso carrying " +
+      "the Imperial cog in a white circle at the chest, black seam lines over " +
+      "the plating and a silver-blocked belt; blue arms, white hands, blue legs " +
+      "lined to match.",
+    tags: ["villain", "star-wars", "branded", "imperial", "stormtrooper", "blue", "cog"],
+    images: ["images/the-blue-imperial-trooper-01.jpg"],
+    acquired: "",
+    notes: "Named for what he plainly is rather than guessed at: a stormtrooper mould in blue with the Imperial crest. He is most likely one of the Imperial special forces figures, and if you know which, the card takes the proper name. Seven stormtroopers and troopers of that army are already catalogued here and every one is good - the Stormtroopers, their Commander, the Stormtrooper Pilot, the TIE Pilots, the Scout Trooper, the Snowtroopers and the Shadow Troopers. He and the First Order Snowtrooper are the first two against this world."
+  },
+
+  {
+    id: "harley-quinn",
+    name: "Harley Quinn",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "DC",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Harley Quinn.",
+    provenance:
+      "Two pigtails, one black and one red, held in clasps of the opposite " +
+      "colour, over a white face with a wide grin, pink lips and a black " +
+      "diamond at one eye. A red and black corset printed across the torso with " +
+      "white lacing and a red diamond at the waist; one red arm and one black, " +
+      "white hands, and legs split the same way - red over black, black over " +
+      "red, with diamonds at the thigh and boots below.",
+    tags: ["villain", "dc", "branded", "harley-quinn", "pigtails", "diamonds", "woman"],
+    images: ["images/harley-quinn-01.jpg"],
+    acquired: "",
+    notes: "First DC villain here. Bruce Wayne, Superman and the Old Flash are the three DC figures before her and all three are good, so this is the same pattern as Star Wars and Toy Story - the bought figures supplied the heroes first and the enemy came later. She is also the fifth woman on the villain side, after the TV Camera Woman, the Pharaoh, the Orc Queen and the Blue Bounty Hunter."
+  },
+
+  {
+    id: "the-joker",
+    name: "The Joker",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "DC",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The Joker.",
+    provenance:
+      "Swept lime-green hair over a white face - black brows drawn up, a red " +
+      "grin stretched well past where a mouth should end, and fine lines at the " +
+      "eyes. A white suit printed with black lapels and pocket seams over a " +
+      "purple shirt and a white tie; white arms, white hands, white legs.",
+    tags: ["villain", "dc", "branded", "joker", "white-suit", "green-hair", "grin"],
+    images: ["images/the-joker-01.jpg"],
+    acquired: "",
+    notes: "Second DC villain, arriving with the first. Bruce Wayne is filed good and his card holds three figures - the man and Batman - so the two halves of that rivalry are now both on the shelf, on opposite decks, with nothing written between them. Say they have met and the connection draws itself across the two sides."
+  },
+
+  {
+    id: "the-at-st-pilot",
+    name: "The AT-ST Pilot",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An Imperial walker pilot.",
+    provenance:
+      "A grey helmet with flat flaps hanging at both sides, over a pale face " +
+      "printed with wide black goggles and a chin strap. A pale grey tunic with " +
+      "fine creasing, a black belt and a silver buckle; grey arms, black hands, " +
+      "pale grey legs.",
+    tags: ["villain", "star-wars", "branded", "imperial", "pilot", "walker", "goggles"],
+    images: ["images/the-at-st-pilot-01.jpg"],
+    acquired: "",
+    notes: "Third pilot on the bad side, after the Pilot's Apprentice who murdered the Famous Pilot for his job and the Evil Pilot. Thirty-two pilots are catalogued here and twenty-nine of them are good; this is the first one flying for an army rather than for himself."
+  },
+
+  {
+    id: "grand-moff-tarkin",
+    name: "Grand Moff Tarkin",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Governor",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Grand Moff Tarkin.",
+    provenance:
+      "Swept grey hair over a pale face with a hard mouth and deep lines drawn " +
+      "down both cheeks. A grey uniform tunic printed with a high collar, twin " +
+      "rank studs at the shoulders, a bar of blue, red and white rank squares " +
+      "at the chest and a black belt with a silver buckle; grey arms, pale " +
+      "hands, grey legs.",
+    tags: ["villain", "star-wars", "branded", "imperial", "governor", "moff", "uniform", "rank-bar"],
+    images: ["images/grand-moff-tarkin-01.jpg"],
+    acquired: "",
+    notes: "The Empire arrives properly with this batch: a governor, a walker pilot, a trooper in blue and a snowtrooper, where before it was seven figures of that army all filed good. He is the one who makes it an occupation rather than a uniform - the second villain here whose power is administrative, after Nute Gunray's trade route, and only the third figure on that side with no weapon in the description at all."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
