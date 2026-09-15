@@ -14082,6 +14082,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "the-war-secretary", label: "His Secretary of War" },
       { to: "quinn", label: "Aligned with" },
     ],
     rating: 0,
@@ -14949,6 +14950,118 @@ window.COLLECTION = [
     images: ["images/the-knock-off-captain-01.jpg"],
     acquired: "",
     notes: "You said his good counterpart wears a red hat, and that lands exactly: the Defector is the same mould, the same face print and the same vest under a red peaked cap. No guessing needed. This makes The Knock-offs the fifth group with people on both sides, after the Verdauf, the Discarded, the Royal Space Academy and the Green Rangers - and the first where the split is one figure against four rather than a unit coming apart. Placeholder name."
+  },
+
+
+
+  {
+    id: "the-war-secretary",
+    name: "The War Secretary",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Secretary of War",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-dictator", label: "Secretary of War to" },
+    ],
+    rating: 0,
+    background:
+      "Secretary of War to the Dictator - the fascist who already holds one " +
+      "planet and aligned with Quinn to take the rest of his outer rim.\n\n" +
+      "The war that man wants is this man's department.",
+    provenance:
+      "A pale grey peaked officer's cap over a yellow face with a flat mouth " +
+      "and a metal stud at one eye. A khaki tunic printed with an open collar, " +
+      "buttoned breast pockets, a leather strap slung across the chest and a " +
+      "broad buckled belt; khaki arms, yellow hands, plain khaki legs.",
+    tags: ["villain", "secretary-of-war", "dictator", "cabinet", "officer", "uniform", "outer-rim"],
+    images: ["images/the-war-secretary-01.jpg"],
+    acquired: "",
+    notes: "Second holder of this office in the collection and the first on the bad side. Brute has it for the good - loud, gruff, genuinely kind, in charge of all artillery and sitting on the Prince and Princess's council. Same job, opposite war. That makes twenty-three roles now held on both sides at once, out of two hundred and nine. He is also dressed almost exactly like his own boss: peaked cap, khaki tunic, strap across the chest. Placeholder name, kept clear of Brute's title."
+  },
+
+  {
+    id: "the-infamous-space-pirate",
+    name: "The Infamous Space Pirate",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A space pirate, and an infamous one. The name travels ahead of him.",
+    provenance:
+      "A dark green knitted beanie pulled down over a pale stubbled face with " +
+      "a smirk and heavy brows. A lime and green torso printed with a climbing " +
+      "harness - carabiners, a strap across the chest and a black instrument " +
+      "hung at it - white arms, pale hands, white legs marked with lime and a " +
+      "purple band at the boot.",
+    tags: ["villain", "pirate", "space-pirate", "infamous", "beanie", "harness"],
+    images: ["images/the-infamous-space-pirate-01.jpg"],
+    acquired: "",
+    notes: "The first pirate in this collection on the bad side. All eight before him are good - the Pirate Crew, the Pirate Hobo, the Sleepy Pirate, Jack Sparrow - and not one of them was ever said to work space. This is the first who works space, and the second time space piracy has come up at all: the Outlaw has a crew of space pirates behind him and reformed after the Great Shadow War. Nothing says this man is one of them, so no link. Say the word and he joins that crew, or takes it over."
+  },
+
+  {
+    id: "the-incompetent-bounty-hunter",
+    name: "The Incompetent Bounty Hunter",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A bounty hunter, more or less incompetent at it.",
+    provenance:
+      "A black domed helmet with a long antenna standing off the top, over a " +
+      "yellow face furious to the point of comedy - eyes screwed up, teeth " +
+      "bared, stubble across the scalp. Grey armour printed with white plating " +
+      "and a small red crest at the chest, grey arms, black hands, black legs.",
+    tags: ["villain", "bounty-hunter", "incompetent", "antenna", "helmet", "comic"],
+    images: ["images/the-incompetent-bounty-hunter-01.jpg"],
+    acquired: "",
+    notes: "Tenth bounty hunter here and the sixth on the villain side, and the first of the ten who is bad at the work. The other nine are each defined by being good at it - Kaz, the Golden Sniper, the Ninja Robot and the Masked Bounty Hunter for the good; the Charming one, the Narcissist, Long Arm Johnson, the Dapper one and the Iron League Alien against. Ten people here hunt bounties for a living, evenly split six against four, and this is the first time the work has been played for a joke."
+  },
+
+  {
+    id: "the-alien-militia-commander",
+    name: "The Alien Militia Commander",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "School Commander",
+    group: "The Alien Militia",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A captain of the alien militia, and the commander of its school. The " +
+      "people who fight for that militia come up through him.",
+    provenance:
+      "A dark red knitted beanie over a white skull face - black sockets lit " +
+      "red at the pupil, a stitched grin, a silver plate riveted across the " +
+      "brow. A dark brown torso printed with a gold sash and medallion, gold " +
+      "buckles and a studded collar; white arms, white hands, grey legs.",
+    tags: ["villain", "alien", "militia", "commander", "captain", "school", "training", "skull"],
+    images: ["images/the-alien-militia-commander-01.jpg"],
+    acquired: "",
+    notes: "New group: The Alien Militia, and the first standing military force catalogued on the bad side that is not a mercenary outfit or somebody's personal guard. The Space Militia is the good side's, seventeen strong. Nothing is written between this militia and the alien mercenaries the Lead Alien Mercenary commands - two separate alien fighting forces until you say otherwise. Placeholder name; the school is the part worth keeping in it."
   },
 
 

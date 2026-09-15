@@ -1019,6 +1019,53 @@ window.LORE = [
       "were never the enemy in it. Every villain up to this point has been a " +
       "person who chose it, and there are now well over sixty of them. The " +
       "robots stayed out of it."
+  },
+
+  {
+    title: "The other militia",
+    text:
+      "For the whole of this collection there has been one militia. The Space " +
+      "Militia, seventeen strong, the unit with the most people in it and the " +
+      "most history attached - the General and his son, the Disc Thrower, the " +
+      "Planner, the Reckless, the TV Star who lost half his face in a shadow " +
+      "war, the Battalion Commander, the New Recruit.\n\n" +
+      "There is a second one now, and it is not human and it is not friendly. " +
+      "The aliens have a militia of their own, and the man photographed out of " +
+      "it is a captain who runs its school. The people who fight for it come " +
+      "up through him.\n\n" +
+      "That is the part worth keeping. Standing armies on the bad side have " +
+      "been hired or personal until now - mercenary outfits, a warlord's guard, " +
+      "a legion of matched chest plates. This one trains its own, which means " +
+      "it expects to still be there in a generation.\n\n" +
+      "Whether it is the same force as the alien mercenaries the Lead Alien " +
+      "Mercenary commands is not written down. Two alien fighting forces until " +
+      "somebody says otherwise."
+  },
+
+  {
+    title: "The same job on both sides",
+    text:
+      "Two hundred and nine jobs are held in this world, and twenty-three of " +
+      "them are held on both sides at once. Not by enemies who happen to be " +
+      "alike - by people doing the identical work in opposite directions.\n\n" +
+      "Two arrived together. The Dictator has a Secretary of War now, the same " +
+      "office Brute holds for the Prince and Princess; Brute is loud and gruff " +
+      "and genuinely kind and runs all the artillery, and the other man plans " +
+      "the taking of an outer rim. And piracy has crossed over: eight pirates " +
+      "were catalogued before this batch and every one was good, which is a " +
+      "strange sentence about pirates and was true until an infamous one turned " +
+      "up working space.\n\n" +
+      "The pattern goes further than jobs. There are two kings at war, light " +
+      "and shadow, and neither is better than the other. There are two captains " +
+      "of the Verdauf. There is a Nexo Knight who spent his career in the " +
+      "shadow of a more famous Nexo Knight who turned out to be the villain. " +
+      "There is a knock-off commander in a red cap on this side and the same " +
+      "figure in an olive cap on the other.\n\n" +
+      "Five groups are split down the middle - the Verdauf, the Discarded, the " +
+      "Royal Space Academy, the Green Rangers, the Knock-offs. Nobody sat down " +
+      "and designed that. It is what happens when a world is built one person " +
+      "at a time over six years: the roles get reused, and eventually somebody " +
+      "fills one from the wrong end."
   }
 
 ];
