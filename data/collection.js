@@ -11938,7 +11938,7 @@ window.COLLECTION = [
   {
     id: "the-snowtroopers",
     name: "The Snowtroopers",
-    variant: "Two of them",
+    variant: "Three of them, two patterns",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -11948,16 +11948,22 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Snowtroopers. There are two of them.",
+    background: "Snowtroopers. There are three of them.",
     provenance:
       "Ridged white helmets with a hanging cowl that covers everything but a " +
       "dark eye slit, over white armour printed with a breathing pack and " +
       "harness. One wears a black belt, the other grey. Both have gone " +
-      "blotchy cream with age in places.",
+      "blotchy cream with age in places. A third is a later pattern " +
+      "entirely: the helmet smooth instead of ridged, a flared plate " +
+      "standing off the back of the neck, and a thin black visor slit rather " +
+      "than a wide one.",
     tags: ["star-wars", "imperial", "snowtrooper", "cold-weather", "unit", "two", "branded"],
-    images: [{ src: "images/the-snowtroopers-01.jpg", caption: "Both of them" }],
+    images: [
+      { src: "images/the-snowtroopers-01.jpg", caption: "The first two" },
+      { src: "images/the-snowtroopers-02.jpg", caption: "The third, a later pattern" },
+    ],
     acquired: "",
-    notes: "One entry for the pair. Filed good by the standing rule, since you have not said otherwise - the same call the Umbaran Soldier got. Worth saying once and then leaving alone: these two and the Scout Trooper are the first unambiguously Imperial figures here, and this world already has the rebels in it by your own ruling. If the Empire exists here as well, they have a side to be on and a group to be in."
+    notes: "One entry for all three, with the two helmet patterns on the same card the way the Rebel Troopers have theirs. Filed good by the standing rule, since you have not said otherwise - the same call the Umbaran Soldier got. Worth saying once and then leaving alone: these two and the Scout Trooper are the first unambiguously Imperial figures here, and this world already has the rebels in it by your own ruling. If the Empire exists here as well, they have a side to be on and a group to be in."
   },
 
 
@@ -12113,6 +12119,115 @@ window.COLLECTION = [
     images: ["images/the-stormtrooper-pilot-01.jpg"],
     acquired: "",
     notes: "Same chest rig as the two clone pilots, and the cog at his temple is the only thing that puts him on the other side of it - three men in identical kit and one badge between them. Fourth Imperial card now waiting on whether the Empire is a thing in this world, alongside the Snowtroopers, the Scout Trooper and the Stormtrooper Commander."
+  },
+
+
+  {
+    id: "the-clone-captain",
+    name: "The Clone Captain",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Star Wars",
+    rank: "",
+    role: "Captain",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A captain in the clone army who is not a clone.\n\n" +
+      "He came out of the Discarded - made as a throwaway in somebody " +
+      "else's civilization and given refuge here. He took a commission in " +
+      "the clone army and still fights for it, and every man under him was " +
+      "grown for the job while he simply turned up.",
+    provenance:
+      "Plain Phase 1 clone armour worked over by hand in dark purple marker - " +
+      "jagged strikes down the chest and both arms, crosses on each thigh, " +
+      "streaks up the crown of the helmet and bars across the boots. None of " +
+      "it is printed. A yellow neck shows between helmet and torso.",
+    tags: ["star-wars", "clone", "captain", "discarded", "hand-drawn", "custom"],
+    images: ["images/the-clone-captain-01.jpg"],
+    acquired: "",
+    notes: "The first figure in the collection who belongs to two worlds at once - one of the Discarded, who are this world's own refugees from other people's sets, serving in the clone army, which came out of the films. Nothing else here crosses that line. Filed in the Clone Army because that is where he serves; say the word and he goes with the Discarded instead. He is also the only Star Wars figure whose markings you put on yourself."
+  },
+
+
+  {
+    id: "the-verdauf-guards",
+    name: "The Verdauf Guards",
+    variant: "Three of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Verdauf Squadron",
+    group: "The Verdauf",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Guards of the Verdauf Squadron. There are three of them.",
+    provenance:
+      "Light green armour over white, all three identical: a flat-browed " +
+      "helmet with a visor shelf, a silver breathing box clamped across the " +
+      "mouth, green shoulders and a green belt, and a pale yellow marking at " +
+      "the collar. One helmet carries a red flash the others do not.",
+    tags: ["verdauf", "squadron", "guard", "green-armor", "respirator", "unit", "three"],
+    images: [{ src: "images/the-verdauf-guards-01.jpg", caption: "All three" }],
+    acquired: "",
+    notes: "The Green Captain's entry has said from the start that the Verdauf Squadron is an actual unit rather than a handful of individuals, and that you would meet more of them later. These are them, and they are in his light green - the colour he is known by. The squadron is six strong on four cards now: the Captain, his younger brother, the Defense Bot and these three guards."
+  },
+
+
+  {
+    id: "the-battle-pack-clone",
+    name: "The Battle Pack Clone",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A clone trooper.",
+    provenance:
+      "Phase 1 helmet with an olive-tan cap over the crown and a dark " +
+      "Republic crest at each temple, a fin standing up from the top. Grey " +
+      "arms, white legs, and a silver hexagonal plate at the chest that the " +
+      "other clones here do not have.\n\n" +
+      "Out of one of the early clone battle packs, by your account.",
+    tags: ["star-wars", "clone", "trooper", "phase-1", "republic-crest", "vintage", "branded"],
+    images: ["images/the-battle-pack-clone-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, taken from where he came from rather than who he is. The silver chest plate is the thing to look at - no other clone in the collection has armour drawn as a separate plate over the body."
+  },
+
+
+  {
+    id: "the-plain-clone-trooper",
+    name: "The Plain Clone Trooper",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A clone trooper, with no unit markings at all.",
+    provenance:
+      "Phase 1 helmet and armour in plain white - the black brow band, the " +
+      "moustache vent and the grey chest lines are all the printing there is. " +
+      "No colour anywhere on him. The white has gone faintly cream.",
+    tags: ["star-wars", "clone", "trooper", "phase-1", "unmarked", "branded"],
+    images: ["images/the-plain-clone-trooper-01.jpg"],
+    acquired: "",
+    notes: "The only clone here wearing no unit colour whatsoever - every other one carries yellow, blue, green, orange, red or purple somewhere. He is what all of them looked like before they were anybody."
   },
 
 

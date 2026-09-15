@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-456 characters from a custom LEGO minifigure world, in the order they were
+460 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5106,13 +5106,13 @@ Rebel troopers. There are nine of them.
 
 *Tags:* star-wars, rebel, soldier, unit, nine, branded
 
-### 450. The Snowtroopers — Two of them
+### 450. The Snowtroopers — Three of them, two patterns
 
 **Alignment:** good · **Role:** Soldier · **Figure:** branded
 
-Snowtroopers. There are two of them.
+Snowtroopers. There are three of them.
 
-*How it was got:* Ridged white helmets with a hanging cowl that covers everything but a dark eye slit, over white armour printed with a breathing pack and harness. One wears a black belt, the other grey. Both have gone blotchy cream with age in places.
+*How it was got:* Ridged white helmets with a hanging cowl that covers everything but a dark eye slit, over white armour printed with a breathing pack and harness. One wears a black belt, the other grey. Both have gone blotchy cream with age in places. A third is a later pattern entirely: the helmet smooth instead of ridged, a flared plate standing off the back of the neck, and a thin black visor slit rather than a wide one.
 
 *Tags:* star-wars, imperial, snowtrooper, cold-weather, unit, two, branded
 
@@ -5175,6 +5175,50 @@ An Imperial pilot.
 *How it was got:* White flight helmet with a black stripe over the crown and a red Imperial cog at each temple, a red bar printed across the mouth vent. Dark grey arms, light grey legs, and the hosed chest rig with its control panel and red blocks.
 
 *Tags:* star-wars, imperial, pilot, cog, flight-rig, branded
+
+### 457. The Clone Captain
+
+**Alignment:** good · **Role:** Captain · **Figure:** custom
+
+A captain in the clone army who is not a clone.
+
+He came out of the Discarded - made as a throwaway in somebody else's civilization and given refuge here. He took a commission in the clone army and still fights for it, and every man under him was grown for the job while he simply turned up.
+
+*How it was got:* Plain Phase 1 clone armour worked over by hand in dark purple marker - jagged strikes down the chest and both arms, crosses on each thigh, streaks up the crown of the helmet and bars across the boots. None of it is printed. A yellow neck shows between helmet and torso.
+
+*Tags:* star-wars, clone, captain, discarded, hand-drawn, custom
+
+### 458. The Verdauf Guards — Three of them
+
+**Alignment:** good · **Role:** Verdauf Squadron · **Figure:** custom
+
+Guards of the Verdauf Squadron. There are three of them.
+
+*How it was got:* Light green armour over white, all three identical: a flat-browed helmet with a visor shelf, a silver breathing box clamped across the mouth, green shoulders and a green belt, and a pale yellow marking at the collar. One helmet carries a red flash the others do not.
+
+*Tags:* verdauf, squadron, guard, green-armor, respirator, unit, three
+
+### 459. The Battle Pack Clone
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+A clone trooper.
+
+*How it was got:* Phase 1 helmet with an olive-tan cap over the crown and a dark Republic crest at each temple, a fin standing up from the top. Grey arms, white legs, and a silver hexagonal plate at the chest that the other clones here do not have.
+
+Out of one of the early clone battle packs, by your account.
+
+*Tags:* star-wars, clone, trooper, phase-1, republic-crest, vintage, branded
+
+### 460. The Plain Clone Trooper
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+A clone trooper, with no unit markings at all.
+
+*How it was got:* Phase 1 helmet and armour in plain white - the black brow band, the moustache vent and the grey chest lines are all the printing there is. No colour anywhere on him. The white has gone faintly cream.
+
+*Tags:* star-wars, clone, trooper, phase-1, unmarked, branded
 
 ---
 
