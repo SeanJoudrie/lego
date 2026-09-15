@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-528 characters from a custom LEGO minifigure world, in the order they were
+533 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -223,7 +223,11 @@ That is the worst rate of any unit here by a distance - the Space Militia has lo
 
 What makes it land is who they are. The Rangers have the most expressive faces in the collection: two enormous round eyes and no mouth at all, a handlebar moustache running into muttonchops, the widest grin in the unit. They were written down as the funny ones. They are the ones the world keeps taking from.
 
-And the only Green Ranger who ever outranked the others is among the dead. The unit had no captain at all until the Ranger Patrol Captain turned up in the lost - which means the one time this outfit had somebody in charge, he was already gone.
+The only Green Ranger who ever outranked the others is among the dead. The unit had no captain at all until the Ranger Patrol Captain turned up in the lost, so the one time this outfit had one of its own in charge, he was already gone.
+
+This note used to end there, and it was missing something. They had a general the whole time. General Shepherd is in charge of them, and he put them on a battlefield on a mission they were not meant to walk off. They got out of it anyway, which is the only part of this that goes their way.
+
+No line is drawn between him and the three who are dead, because none has been said out loud. But the unit with the worst casualty rate in this world, the one written down as the funny ones, turns out to have been commanded by somebody who tried to spend them. He is filed inside the group, which puts him on the same card list as every man he sent.
 
 ### Stolen uniforms
 
@@ -305,7 +309,9 @@ Two arms dealers of exactly equal rank. One keeps the accounts and decides who g
 
 Nothing is written between the three of them, or between any of them and Quinn - who spent his own middle era as an independent arms dealer before he became what he became.
 
-Which is the interesting part. This world's good people are organised into fifty-four named groups with commanders and rosters. Its villains are twelve, half of them with no written tie to anybody at all. Either the villains really do work alone, or the lines exist and nobody has said them out loud yet.
+When this note was written there were twelve villains and half of them had no written tie to anybody. There are twenty-six now, and the shape has changed: Quinn has a second-in-command on the technology side who organises killing machines and plans invasions, and a fanatic who did to his own body what Quinn did to his. The Iron League has four men in one uniform. Two units on that side now have somebody in charge of them.
+
+The arms dealers and the mercenary are still standing on their own though, with nothing written between them or to Quinn. That was the first thing worth settling when this note went in and it still is.
 
 ### The Iron League
 
@@ -333,7 +339,17 @@ Same unit, same rank, same colour, same ship, same bomb, same survivors. Either 
 
 Nothing has been changed on the Green Captain. Rewriting a death that load-bearing on an inference would be the wrong call, so both cards carry the question instead. It takes one word to answer.
 
-Either way the Verdauf are now the only group in the collection with people on both sides in it.
+Either way the Verdauf became the first group in the collection with people on both sides in it. The Green Rangers are the second, for the same reason: the man in charge.
+
+### Quinn has an organisation now
+
+For a long stretch the villains here were a list rather than a side. Everybody on Quinn's card was an equal or an enemy - the Shadow King he ran the uprising with, the Prince Pretender he allied with, the Purple Shadow who opened the portal for him, and the two men who brought him down and whom he captured.
+
+Two cards changed that. He has a second-in-command on the technology side, an old man with a scope mounted at his collarbone who organises the killing machines and plans the invasions. And he has a fanatic - somebody who went and committed his own body to the neon the way Quinn did, and is very hard to kill for it.
+
+One is the first person ever placed under him rather than beside him. The other is the first person written as simply belonging to him.
+
+The planner is the one to watch. Everything on that side until now was somebody with an appetite or a grievance - Phalanx wants to eat, the Pretender wants a throne, the Light King wants a war. This is the first villain in this world whose job is to sit down and work out how.
 
 ---
 
@@ -5598,7 +5614,7 @@ The arms dealer: brown hair, no helmet, a black pauldron across both shoulders, 
 
 What he made of himself: a translucent neon green head, grinning, one eye red. Bone-white spines stand off the collar. Black Sith robes over black legs, one hand still flesh and the other gone black.
 
-*Connections:* Led the shadow uprising with The Shadow King · Allied with The Prince Pretender · His middleman to the shadow dimension The Purple Shadow · Captured Claws · Brought down by The Knighted Civilian
+*Connections:* Led the shadow uprising with The Shadow King · Allied with The Prince Pretender · His middleman to the shadow dimension The Purple Shadow · His second, on the technology side Quinn's Second-in-Command · Followed by The Neon Fanatic · Captured Claws · Brought down by The Knighted Civilian
 
 *Tags:* villain, quinn, sith, dark-arts, force, shadow-uprising, betrayal, self-healing, immortality, arms-dealer
 
@@ -5802,7 +5818,65 @@ He put half of them aboard a ship he had rigged with explosives, meant to kill t
 
 *Tags:* villain, verdauf, captain, traitor, massacre, sabotage, clone-armor, cape
 
-### 497. The Militiaman in the Black Helm
+### 497. General Shepherd
+
+**Alignment:** bad · **Role:** General · **Figure:** custom
+
+He is in charge of the Green Rangers, and he stranded them.
+
+He put them on a battlefield on a mission they were not meant to come back from. They somehow got out of it anyway.
+
+*How it was got:* Olive helmet over a fair face with a heavy brown moustache and a flat, unimpressed mouth. Plain green field jacket printed with two breast pockets and a webbing belt, green arms and green legs, pale hands. Nothing on him marks a rank.
+
+*Tags:* villain, general, green-rangers, betrayal, suicide-mission, command
+
+### 498. The Neon Fanatic
+
+**Alignment:** bad · **Role:** Fanatic · **Figure:** custom
+
+A fanatic of Quinn's who went and did the same thing to himself. He committed his own body to the neon, which makes him extremely hard to kill.
+
+Hyper, violent, and completely devoted.
+
+*How it was got:* A translucent yellow-green head under a clear domed helmet - a wide square-toothed grin, black brows drawn down hard and red pinpricks for eyes. Silver chest armour with a glowing yellow-green core at the sternum, one black arm and one grey, a red belt and black legs.
+
+*Connections:* Follows Quinn
+
+*Tags:* villain, fanatic, quinn, neon, hard-to-kill, devoted, translucent
+
+### 499. The Hitman
+
+**Alignment:** bad · **Role:** Hitman · **Figure:** custom
+
+An expert poacher who became a hitman. Same skills, different quarry.
+
+*How it was got:* Swept fair hair, a raw orange scar down one temple, a heavy stubbled jaw and a hard flat mouth. White jacket open over a grey striped shirt with a necklace of long teeth at the throat, a thick coil of rope round the waist, tan legs.
+
+*Tags:* villain, hitman, poacher, assassin, trophies, scar, rope
+
+### 500. Quinn's Second-in-Command
+
+**Alignment:** bad · **Role:** Second in Command · **Figure:** custom
+
+Quinn's second, on the technology side. He organises the killing machines and plans the invasions.
+
+*How it was got:* White hair swept back off a lined yellow face, a white moustache and beard, and a black eyepatch with a teal lens set into it over one eye. Brown torso under a black shoulder rig with a targeting scope mounted at the collarbone and a bandolier printed beneath. Olive legs printed with rope, buckles and pouches, one grey hand and one yellow.
+
+*Connections:* Second-in-command to Quinn
+
+*Tags:* villain, quinn, second-in-command, technology, war-machines, invasions, eyepatch
+
+### 501. The Bounty Hunter Captain
+
+**Alignment:** bad · **Role:** Captain · **Figure:** custom
+
+A bounty hunter, and a captain of them.
+
+*How it was got:* Brown wide-brimmed hat over a yellow face with a long fair moustache and goatee and a scar at one eye. A deep red neckerchief knotted at the throat over a dark blue and grey torso printed with straps and a bedroll. A heavy ribbed grey mechanical arm on one side, an ordinary yellow hand on the other, and brown legs.
+
+*Tags:* villain, bounty-hunter, captain, mechanical-arm, prosthetic, scar, neckerchief
+
+### 502. The Militiaman in the Black Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5816,7 +5890,7 @@ Photographed off an old video rather than in hand, because there is no hand to p
 
 *Tags:* space-militia, lost, deceased, helmet, sunglasses
 
-### 498. The Militiaman in the Red Helm
+### 503. The Militiaman in the Red Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5826,7 +5900,7 @@ Space Militia. Lost, and dead.
 
 *Tags:* space-militia, lost, deceased, rifle, scarred
 
-### 499. The Ranger Patrol Captain
+### 504. The Ranger Patrol Captain
 
 **Alignment:** good · **Role:** Patrol Captain · **Figure:** custom
 
@@ -5836,7 +5910,7 @@ A patrol captain of the rangers. Lost, and dead.
 
 *Tags:* green-rangers, ranger, captain, lost, deceased, camouflage
 
-### 500. The Militiamen Out of Armour — Two of them
+### 505. The Militiamen Out of Armour — Two of them
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5848,7 +5922,7 @@ Photographed together, on a table, years ago.
 
 *Tags:* space-militia, lost, deceased, civilian-dress, headset
 
-### 501. The Lost Miners — Two of them
+### 506. The Lost Miners — Two of them
 
 **Alignment:** good · **Role:** Power Miner · **Figure:** custom
 
@@ -5858,7 +5932,7 @@ Two of the power miners. Lost, and dead.
 
 *Tags:* power-miner, lost, deceased, overalls, helmet
 
-### 502. The Discarded in the Blue Cap
+### 507. The Discarded in the Blue Cap
 
 **Alignment:** good · **Role:** Discarded · **Figure:** custom
 
@@ -5870,7 +5944,7 @@ The badge is not a marking anyone else in this collection wears, and I could not
 
 *Tags:* discarded, refugee, lost, deceased, cap, goatee
 
-### 503. The Elf Man
+### 508. The Elf Man
 
 **Alignment:** good · **Role:** Elf · **Figure:** custom
 
@@ -5884,7 +5958,7 @@ Nothing about the moulding is elven - it is an ordinary head and an ordinary hai
 
 *Tags:* elf, lost, deceased, long-hair, vest
 
-### 504. The Long Shot Bowman
+### 509. The Long Shot Bowman
 
 **Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
 
@@ -5894,7 +5968,7 @@ An archer of the Royal Knights, and a long shot. Lost, and dead.
 
 *Tags:* knight, archer, bow, medieval, royal-knights, lost, deceased, kettle-helm
 
-### 505. The Lost Pirates — Two of them
+### 510. The Lost Pirates — Two of them
 
 **Alignment:** good · **Role:** Pirate · **Figure:** custom
 
@@ -5906,7 +5980,7 @@ The other in a blue headscarf, moustached and heavily freckled, in a red and whi
 
 *Tags:* pirate, crew, lost, deceased, tattoo, anchor, stripes
 
-### 506. The Lost Aqua Diver
+### 511. The Lost Aqua Diver
 
 **Alignment:** good · **Role:** Aqua Force · **Figure:** custom
 
@@ -5916,7 +5990,7 @@ Aqua Force - the service that handles any military necessity involving going und
 
 *Tags:* aqua-force, underwater, diver, trident, lost, deceased, scarred
 
-### 507. The Gungan Jedi
+### 512. The Gungan Jedi
 
 **Alignment:** good · **Role:** Jedi · **Figure:** custom
 
@@ -5930,7 +6004,7 @@ The robe is not a piece I could place. Photographed off an old video rather than
 
 *Tags:* star-wars, gungan, jedi, alien, cape, lost, deceased
 
-### 508. The Alien Professor
+### 513. The Alien Professor
 
 **Alignment:** good · **Role:** Professor · **Figure:** custom
 
@@ -5942,7 +6016,7 @@ The frame is too soft to make out the piece. This is as much as the video gives.
 
 *Tags:* alien, professor, academic, moulded-head, robes, lost, deceased
 
-### 509. The Lost Soccer Player
+### 514. The Lost Soccer Player
 
 **Alignment:** good · **Role:** Athlete · **Figure:** custom
 
@@ -5952,7 +6026,7 @@ A soccer player. Lost, and dead.
 
 *Tags:* soccer, football, athlete, sport, kit, lost, deceased
 
-### 510. The Astronaut Soldier
+### 515. The Astronaut Soldier
 
 **Alignment:** good · **Role:** Astronaut Soldier · **Figure:** custom
 
@@ -5962,7 +6036,7 @@ An astronaut, and a soldier. Lost, and dead.
 
 *Tags:* astronaut, soldier, space, helmet, lost, deceased
 
-### 511. The Airline Pilot
+### 516. The Airline Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** custom
 
@@ -5972,7 +6046,7 @@ An airline pilot. Lost, and dead.
 
 *Tags:* pilot, airline, civilian, uniform, cap, lost, deceased
 
-### 512. The Hooded Ranger
+### 517. The Hooded Ranger
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5982,7 +6056,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, hood, balaclava, lost, deceased
 
-### 513. The Blue Space Captain
+### 518. The Blue Space Captain
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -5994,7 +6068,7 @@ The badge is the Galactic Republic cog, so the pieces are out of a Star Wars pil
 
 *Tags:* captain, space, pilot, goggles, headset, lost, deceased
 
-### 514. The Nude Aliens — Two of them
+### 519. The Nude Aliens — Two of them
 
 **Alignment:** good · **Figure:** custom
 
@@ -6006,7 +6080,7 @@ The other is green throughout with a moulded head - a scaled, gaping fish-like f
 
 *Tags:* alien, nude, unprinted, moulded-head, lost, deceased
 
-### 515. The Engine Technician
+### 520. The Engine Technician
 
 **Alignment:** good · **Role:** Technician · **Figure:** custom
 
@@ -6016,7 +6090,7 @@ One of the engine technicians. Lost, and dead.
 
 *Tags:* technician, engines, space-programme, helmet, lost, deceased
 
-### 516. The Ranger in the Olive Helm
+### 521. The Ranger in the Olive Helm
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -6026,7 +6100,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, helmet, field-jacket, lost, deceased
 
-### 517. The Lost Golden Rifleman
+### 522. The Lost Golden Rifleman
 
 **Alignment:** good · **Role:** Rifleman · **Figure:** branded
 
@@ -6038,7 +6112,7 @@ Too soft a frame to tell Phase 1 from Phase 2, or to read the unit markings the 
 
 *Tags:* star-wars, clone, trooper, rifleman, golden-company, rifle, lost, deceased, branded
 
-### 518. The Saxophone Player
+### 523. The Saxophone Player
 
 **Alignment:** good · **Role:** Musician · **Figure:** custom
 
@@ -6050,7 +6124,7 @@ Photographed standing on wet sand with the sea behind him and his own reflection
 
 *Tags:* musician, saxophone, music, cool, sunglasses, lost, deceased
 
-### 519. The Old Verdauf Soldier
+### 524. The Old Verdauf Soldier
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -6062,7 +6136,7 @@ He is built off white blocks below the waist rather than printed legs.
 
 *Tags:* verdauf, squadron, soldier, veteran, beard, white-armor, lost, deceased
 
-### 520. The Blue Pirate Thug
+### 525. The Blue Pirate Thug
 
 **Alignment:** good · **Role:** Thug · **Figure:** custom
 
@@ -6072,7 +6146,7 @@ A pirate thug. The uniform he is wearing is not his - he stole it. Lost, and dea
 
 *Tags:* thug, pirate, stolen-uniform, respirator, blue, lost, deceased
 
-### 521. The Space Captain Lady
+### 526. The Space Captain Lady
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -6084,7 +6158,7 @@ It is the same uniform the Blue Space Captain wears, down to the badge.
 
 *Tags:* captain, space, woman, stolen-uniform, visor, lost, deceased
 
-### 522. The Evil Space Captain
+### 527. The Evil Space Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -6096,7 +6170,7 @@ It is a rebel pilot's kit. There are nine Rebel Pilots in this collection and he
 
 *Tags:* captain, space, villain, stolen-uniform, flight-helmet, beard, lost, deceased
 
-### 523. The Space Criminal
+### 528. The Space Criminal
 
 **Alignment:** good · **Role:** Criminal · **Figure:** custom
 
@@ -6106,7 +6180,7 @@ A space criminal. Lost, and dead.
 
 *Tags:* criminal, space, crook, grin, blaster, lost, deceased
 
-### 524. The Bribed Royal Enforcer
+### 529. The Bribed Royal Enforcer
 
 **Alignment:** good · **Role:** Enforcer · **Figure:** custom
 
@@ -6116,7 +6190,7 @@ A royal enforcer who took a bribe. Lost, and dead.
 
 *Tags:* enforcer, royal, bribed, corruption, visor, lost, deceased
 
-### 525. The Bearded Spaceman
+### 530. The Bearded Spaceman
 
 **Alignment:** good · **Role:** Spaceman · **Figure:** custom
 
@@ -6126,7 +6200,7 @@ A blue spaceman. Lost, and dead.
 
 *Tags:* spaceman, classic-space, blue, beard, vintage, lost, deceased
 
-### 526. The Masked Bounty Hunter
+### 531. The Masked Bounty Hunter
 
 **Alignment:** good · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -6138,7 +6212,7 @@ The frame is badly blurred and this is as much as it gives.
 
 *Tags:* bounty-hunter, masked, red-eyes, hood, lost, deceased
 
-### 527. The Crimson Ninja
+### 532. The Crimson Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -6148,7 +6222,7 @@ An evil ninja, in crimson. The figure has not been photographed yet - this card 
 
 *Tags:* ninja, villain, crimson, masked, concept-art, no-photograph
 
-### 528. The Nightwatch Captain
+### 533. The Nightwatch Captain
 
 **Alignment:** good · **Role:** Nightwatch Captain · **Based:** Lego City · **Figure:** custom
 

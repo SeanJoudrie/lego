@@ -12850,6 +12850,8 @@ window.COLLECTION = [
       { to: "the-shadow-king", label: "Led the shadow uprising with" },
       { to: "the-prince-pretender", label: "Allied with" },
       { to: "the-purple-shadow", label: "His middleman to the shadow dimension" },
+      { to: "quinns-second-in-command", label: "His second, on the technology side" },
+      { to: "the-neon-fanatic", label: "Followed by" },
       { to: "claws", label: "Captured" },
       { to: "the-knighted-civilian", label: "Brought down by" },
     ],
@@ -13408,6 +13410,153 @@ window.COLLECTION = [
     images: ["images/the-traitor-captain-01.jpg"],
     acquired: "",
     notes: "Read carefully before taking this as settled. The Verdauf already have a captain on record - the Green Captain, who is known by his light green armour, who dies aboard an exploding ship, and whose card says he set the bomb off himself so that everyone else lived. This man is also a Verdauf captain, also in light green, also with a rigged ship and a bomb and survivors. Either they are two different men, or they are one story told two ways and the version on the Green Captain\'s card is the lie he left behind. I have not touched the Green Captain: overwriting a death that is quoted in two world notes on an inference would be the wrong call. Say which it is. Filed inside the Verdauf because he commanded them - a group shows everybody to everybody, and these are exactly the people he did it to."
+  },
+
+
+
+  {
+    id: "general-shepherd",
+    name: "General Shepherd",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "General",
+    group: "The Green Rangers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He is in charge of the Green Rangers, and he stranded them.\n\n" +
+      "He put them on a battlefield on a mission they were not meant to come " +
+      "back from. They somehow got out of it anyway.",
+    provenance:
+      "Olive helmet over a fair face with a heavy brown moustache and a flat, " +
+      "unimpressed mouth. Plain green field jacket printed with two breast " +
+      "pockets and a webbing belt, green arms and green legs, pale hands. " +
+      "Nothing on him marks a rank.",
+    tags: ["villain", "general", "green-rangers", "betrayal", "suicide-mission", "command"],
+    images: ["images/general-shepherd-01.jpg"],
+    acquired: "",
+    notes: "This card answers the loudest open question in the catalogue. The world note on the Green Rangers was written because they have the worst casualty rate of any unit here - three of eight dead - and it ended by saying the one time this outfit had somebody in charge, he was already gone. That was wrong. They had a general the whole time, and he is the reason. No causal line is drawn between him and the three who are dead, because you have not drawn one; what is written is what you said, which is that he sent them somewhere to die and they got out anyway. Named the way you named him, and the Modern Warfare comparison is yours rather than mine - the Outlaw\'s card writes its comparison as traits instead, and you can have that here too. Filed inside the unit because he commands it, which means the Rangers are the second group in the collection with people on both sides in it."
+  },
+
+
+  {
+    id: "the-neon-fanatic",
+    name: "The Neon Fanatic",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Fanatic",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Follows" },
+    ],
+    rating: 0,
+    background:
+      "A fanatic of Quinn\'s who went and did the same thing to himself. He " +
+      "committed his own body to the neon, which makes him extremely hard to " +
+      "kill.\n\n" +
+      "Hyper, violent, and completely devoted.",
+    provenance:
+      "A translucent yellow-green head under a clear domed helmet - a wide " +
+      "square-toothed grin, black brows drawn down hard and red pinpricks for " +
+      "eyes. Silver chest armour with a glowing yellow-green core at the " +
+      "sternum, one black arm and one grey, a red belt and black legs.",
+    tags: ["villain", "fanatic", "quinn", "neon", "hard-to-kill", "devoted", "translucent"],
+    images: ["images/the-neon-fanatic-01.jpg"],
+    acquired: "",
+    notes: "The first follower Quinn has. Everything else on his card is an equal or an enemy - the Shadow King, the Prince Pretender, the Purple Shadow - and this is the first person written as simply belonging to him. Worth keeping apart from the Goo, which is the collection\'s other body-taking substance: the Goo is something that happens to people and turns what it takes to grey rock, and the neon is something two men have now chosen."
+  },
+
+
+  {
+    id: "the-hitman",
+    name: "The Hitman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Hitman",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An expert poacher who became a hitman. Same skills, different quarry.",
+    provenance:
+      "Swept fair hair, a raw orange scar down one temple, a heavy stubbled " +
+      "jaw and a hard flat mouth. White jacket open over a grey striped shirt " +
+      "with a necklace of long teeth at the throat, a thick coil of rope round " +
+      "the waist, tan legs.",
+    tags: ["villain", "hitman", "poacher", "assassin", "trophies", "scar", "rope"],
+    images: ["images/the-hitman-01.jpg"],
+    acquired: "",
+    notes: "Second poacher on the villain side. The Modified Arms Dealer used to be one too, and went into weapons; this one went into killing people directly. Neither is written to the other. He also wears teeth round his neck, which puts him with the Red Baron as the second man here who keeps something off what he kills."
+  },
+
+
+  {
+    id: "quinns-second-in-command",
+    name: "Quinn\'s Second-in-Command",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Second in Command",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Second-in-command to" },
+    ],
+    rating: 0,
+    background:
+      "Quinn\'s second, on the technology side. He organises the killing " +
+      "machines and plans the invasions.",
+    provenance:
+      "White hair swept back off a lined yellow face, a white moustache and " +
+      "beard, and a black eyepatch with a teal lens set into it over one eye. " +
+      "Brown torso under a black shoulder rig with a targeting scope mounted " +
+      "at the collarbone and a bandolier printed beneath. Olive legs printed " +
+      "with rope, buckles and pouches, one grey hand and one yellow.",
+    tags: ["villain", "quinn", "second-in-command", "technology", "war-machines", "invasions", "eyepatch"],
+    images: ["images/quinns-second-in-command-01.jpg"],
+    acquired: "",
+    notes: "The first time anybody has been placed under Quinn rather than beside him. He also gives the villains something they have not had: a planner. Everything on that side so far has been a person with an appetite or a grievance, and this one sits down and organises invasions. The scope mounted at his collarbone is the only aiming device on any figure in the collection."
+  },
+
+
+  {
+    id: "the-bounty-hunter-captain",
+    name: "The Bounty Hunter Captain",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A bounty hunter, and a captain of them.",
+    provenance:
+      "Brown wide-brimmed hat over a yellow face with a long fair moustache " +
+      "and goatee and a scar at one eye. A deep red neckerchief knotted at the " +
+      "throat over a dark blue and grey torso printed with straps and a " +
+      "bedroll. A heavy ribbed grey mechanical arm on one side, an ordinary " +
+      "yellow hand on the other, and brown legs.",
+    tags: ["villain", "bounty-hunter", "captain", "mechanical-arm", "prosthetic", "scar", "neckerchief"],
+    images: ["images/the-bounty-hunter-captain-01.jpg"],
+    acquired: "",
+    notes: "Not filed with the Iron League, whose four members all wear the same chest plate and who already have a captain; this man is in nothing like it. If he captains them too, or captains somebody else, say so. Sixth bounty hunter here and the second on the villain side. The mechanical arm is the fifth body modification worn as history in this collection, after the Discarded, the Mechanic, the Rebuilt and the Modified Arms Dealer - and the third of the five to be on this side."
   },
 
 

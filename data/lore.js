@@ -383,10 +383,20 @@ window.LORE = [
       "mouth at all, a handlebar moustache running into muttonchops, the " +
       "widest grin in the unit. They were written down as the funny ones. " +
       "They are the ones the world keeps taking from.\n\n" +
-      "And the only Green Ranger who ever outranked the others is among the " +
-      "dead. The unit had no captain at all until the Ranger Patrol Captain " +
-      "turned up in the lost - which means the one time this outfit had " +
-      "somebody in charge, he was already gone."
+      "The only Green Ranger who ever outranked the others is among the dead. " +
+      "The unit had no captain at all until the Ranger Patrol Captain turned " +
+      "up in the lost, so the one time this outfit had one of its own in " +
+      "charge, he was already gone.\n\n" +
+      "This note used to end there, and it was missing something. They had a " +
+      "general the whole time. General Shepherd is in charge of them, and he " +
+      "put them on a battlefield on a mission they were not meant to walk off. " +
+      "They got out of it anyway, which is the only part of this that goes " +
+      "their way.\n\n" +
+      "No line is drawn between him and the three who are dead, because none " +
+      "has been said out loud. But the unit with the worst casualty rate in " +
+      "this world, the one written down as the funny ones, turns out to have " +
+      "been commanded by somebody who tried to spend them. He is filed inside " +
+      "the group, which puts him on the same card list as every man he sent."
   },
 
   {
@@ -560,11 +570,16 @@ window.LORE = [
       "Nothing is written between the three of them, or between any of them " +
       "and Quinn - who spent his own middle era as an independent arms dealer " +
       "before he became what he became.\n\n" +
-      "Which is the interesting part. This world's good people are organised " +
-      "into fifty-four named groups with commanders and rosters. Its villains " +
-      "are twelve, half of them with no written tie to anybody at all. Either " +
-      "the villains really do work alone, or the lines exist and nobody has " +
-      "said them out loud yet."
+      "When this note was written there were twelve villains and half of them " +
+      "had no written tie to anybody. There are twenty-six now, and the shape " +
+      "has changed: Quinn has a second-in-command on the technology side who " +
+      "organises killing machines and plans invasions, and a fanatic who did " +
+      "to his own body what Quinn did to his. The Iron League has four men in " +
+      "one uniform. Two units on that side now have somebody in charge of " +
+      "them.\n\n" +
+      "The arms dealers and the mercenary are still standing on their own " +
+      "though, with nothing written between them or to Quinn. That was the " +
+      "first thing worth settling when this note went in and it still is."
   },
 
   {
@@ -620,8 +635,30 @@ window.LORE = [
       "Nothing has been changed on the Green Captain. Rewriting a death that " +
       "load-bearing on an inference would be the wrong call, so both cards " +
       "carry the question instead. It takes one word to answer.\n\n" +
-      "Either way the Verdauf are now the only group in the collection with " +
-      "people on both sides in it."
+      "Either way the Verdauf became the first group in the collection with " +
+      "people on both sides in it. The Green Rangers are the second, for the " +
+      "same reason: the man in charge."
+  },
+
+  {
+    title: "Quinn has an organisation now",
+    text:
+      "For a long stretch the villains here were a list rather than a side. " +
+      "Everybody on Quinn's card was an equal or an enemy - the Shadow King " +
+      "he ran the uprising with, the Prince Pretender he allied with, the " +
+      "Purple Shadow who opened the portal for him, and the two men who " +
+      "brought him down and whom he captured.\n\n" +
+      "Two cards changed that. He has a second-in-command on the technology " +
+      "side, an old man with a scope mounted at his collarbone who organises " +
+      "the killing machines and plans the invasions. And he has a fanatic - " +
+      "somebody who went and committed his own body to the neon the way Quinn " +
+      "did, and is very hard to kill for it.\n\n" +
+      "One is the first person ever placed under him rather than beside him. " +
+      "The other is the first person written as simply belonging to him.\n\n" +
+      "The planner is the one to watch. Everything on that side until now was " +
+      "somebody with an appetite or a grievance - Phalanx wants to eat, the " +
+      "Pretender wants a throne, the Light King wants a war. This is the first " +
+      "villain in this world whose job is to sit down and work out how."
   }
 
 ];
