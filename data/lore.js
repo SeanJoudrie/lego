@@ -78,7 +78,12 @@ window.LORE = [
       "talking rather than winning was a prince on their own side.\n\n" +
       "This is the clearest case in the whole collection of the story and the " +
       "material being the same thing: he is from a knock-off society because he " +
-      "is a knock-off minifigure."
+      "is a knock-off minifigure." +
+      "\n\nThat commander has an opposite number now, and it is the same " +
+      "figure. A captain of the knock-offs, identical to him down to the " +
+      "sunglasses and the bandoliers, wearing an olive cap instead of a red " +
+      "one, standing on the side the Defector walked away from. Two casts of " +
+      "one mould, one on each side of the war."
   },
 
   {
@@ -970,6 +975,50 @@ window.LORE = [
       "Demigods, three Mortals, four Cosmic Deities - and until now every " +
       "single one of them belonged to the creation mythos. The ladder had only " +
       "ever been climbed from one side."
+  },
+
+  {
+    title: "The shadow room",
+    text:
+      "The shadow people have a religion, a chaplain who preached the invasion " +
+      "as its doctrine, and now a subject. What they worship are occult gods, " +
+      "and they worship them in a room.\n\n" +
+      "Two elders keep it. They guard the room itself and they hold the " +
+      "secrets of the dark side, and neither of them is known by a name - each " +
+      "carries a title, one for wrath and one for darkness. It is the first " +
+      "office in this world where the title has entirely replaced the man.\n\n" +
+      "It also puts a shape on the shadow side that it did not have. It is not " +
+      "just a king with an army. There is a throne, a chaplain who preaches, a " +
+      "pair of elders who keep what is preached about, a commander who brought " +
+      "a defecting unit in, a Sith from outside who opened the door, and a " +
+      "prince who left. Six roles, one dimension.\n\n" +
+      "The good side has its own expert on exactly this. The Occultist runs a " +
+      "school teaching dark magic and how to contact the spirits of other " +
+      "realms, in the open, so that people understand how evil works. Nothing " +
+      "is written between him and the elders and so no link is drawn - but the " +
+      "subject he teaches to be understood is the subject they exist to keep " +
+      "hidden."
+  },
+
+  {
+    title: "The first machine on the other side",
+    text:
+      "Every thinking machine ever catalogued here was good. Fifteen of them " +
+      "belong to this world - the Rebuilt, the Defense Bot, the Ninja Robot, " +
+      "the Tin Robot, the Dock Robot, the Hijacked, the Stunt Robot, the " +
+      "Storage Robot, the Vessel, the Replica, the Voiceless, Kenjen, the " +
+      "Delta Gunner, the Sniper, the Golden Sniper - and eight more are " +
+      "borrowed droids, C-3PO and R2-D2 and six astromechs. Some were built " +
+      "as weapons, some were taken over, one was frozen for an age and woke " +
+      "up loyal. Not one of the twenty-three turned.\n\n" +
+      "That held for the entire collection until now. A sentient robot has " +
+      "arrived on the bad side, and what he does is fly through ships - his " +
+      "body cannot be broken, so he launches himself as the weapon and comes " +
+      "out the other side.\n\n" +
+      "Worth noticing what it means about how this world was built. Machines " +
+      "were never the enemy in it. Every villain up to this point has been a " +
+      "person who chose it, and there are now well over sixty of them. The " +
+      "robots stayed out of it."
   }
 
 ];

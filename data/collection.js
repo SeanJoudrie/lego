@@ -2414,6 +2414,7 @@ window.COLLECTION = [
     group: "The Knock-offs",
     location: "",
     relations: [
+      { to: "the-knock-off-captain", label: "The same man on the other side" },
       { to: "the-car-repairman", label: "Brought him across" },
     ],
     rating: 0,
@@ -14793,6 +14794,161 @@ window.COLLECTION = [
     images: ["images/the-evil-knight-01.jpg"],
     acquired: "",
     notes: "Three men now on one weapon, and the weapon has become weapons. The rule in that realm is that dying costs you your armour and not your life, which is the whole reason going to war there is bearable; what these three made breaks it, and the first of them carried his blade around pretending he did not know what it did. Who commissioned the work is still the open question. He looks nothing like the other two - they are painted surcoats and nasal helms and he is a lit visor over moulded plate - so whether he is of that realm at all, or somebody who came to it, is worth saying."
+  },
+
+
+
+  {
+    id: "the-juggernaut",
+    name: "The Juggernaut",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Heavy",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He carries a minigun and he goes into combat with it. That is the whole " +
+      "of him: he walks in where the fighting is and he kills a great many " +
+      "people.",
+    provenance:
+      "A black flight helmet with the ear covers down, over a pale grinning " +
+      "face heavy with freckles and stubble. Wide grey pauldrons flared out " +
+      "over a grey chest plate, black arms, black hands, black legs.",
+    tags: ["villain", "heavy", "minigun", "combat", "killer"],
+    images: ["images/the-juggernaut-01.jpg"],
+    acquired: "",
+    notes: "Third heavy-weapons figure in the collection and the first on the bad side. The Minigunner is Space Police and carries the same gun; Heavy is nineteen, in the Royal Household honor guard, and runs the largest gun in the Lego world. Nothing is written between any of the three, so no links. He is also the first figure to take Heavy as a role - Heavy himself is filed under Honor Guard."
+  },
+
+  {
+    id: "the-lord-of-wrath",
+    name: "The Lord of Wrath",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Elder",
+    group: "The Shadow Elders",
+    location: "The Shadow Dimension",
+    relations: [
+      { to: "the-lord-of-darkness", label: "Shadow Elder alongside" },
+    ],
+    rating: 0,
+    background:
+      "One of two elders who keep the secrets of the dark side, and who guard " +
+      "the shadow room the shadow people worship in. What they worship there " +
+      "are occult gods.\n\n" +
+      "Each elder holds a title rather than a name. His is wrath.",
+    provenance:
+      "Long black hair swept back, with an enormous black beard hanging down " +
+      "over the whole chest. Yellow face, heavy brows, stubble under the beard " +
+      "line. Grey torso worked in gold and dark purple, yellow arms and hands, " +
+      "and grey legs printed with two instrument dials - one yellow, one red.",
+    tags: ["villain", "shadow", "elder", "occult", "secrets", "shadow-room", "wrath", "beard"],
+    images: ["images/the-lord-of-wrath-01.jpg"],
+    acquired: "",
+    notes: "Which elder is which is my call, not yours - you said one is the Lord of Wrath and the other the Lord of Darkness without saying which. I gave the hood to Darkness and the beard to Wrath. One word swaps them if I have it backwards. New group: The Shadow Elders."
+  },
+
+  {
+    id: "the-lord-of-darkness",
+    name: "The Lord of Darkness",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Elder",
+    group: "The Shadow Elders",
+    location: "The Shadow Dimension",
+    relations: [
+      { to: "the-lord-of-wrath", label: "Shadow Elder alongside" },
+    ],
+    rating: 0,
+    background:
+      "The other of the two elders who keep the secrets of the dark side and " +
+      "guard the shadow room. The occult gods worshipped there are theirs to " +
+      "protect.\n\n" +
+      "His title is darkness.",
+    provenance:
+      "A dark brown cloth hood pulled up over a yellow bearded face, scarred " +
+      "across one eye. Black torso under grey chest armour and grey pauldrons, " +
+      "a row of grey gauges printed across the belly, black arms, grey hands, " +
+      "black legs with silver plating at the thighs.",
+    tags: ["villain", "shadow", "elder", "occult", "secrets", "shadow-room", "darkness", "hood", "scarred"],
+    images: ["images/the-lord-of-darkness-01.jpg"],
+    acquired: "",
+    notes: "See the Lord of Wrath - the two titles are assigned on my guess and swap on one word. The shadow side now has a king, a prince who left it, a portal-opener, a chaplain, a commander and two elders, and this is the first time it has been said outright what the religion is about: occult gods, kept in a room."
+  },
+
+  {
+    id: "the-missile",
+    name: "The Missile",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Heavy",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A sentient robot, and a heavy. He carries the big weapons like any " +
+      "other heavy does.\n\n" +
+      "He is also a weapon himself. His body cannot be broken, so he uses it: " +
+      "he launches and flies straight through a ship, in one side and out the " +
+      "other.",
+    provenance:
+      "A smooth black dome helmet with an orange translucent visor lit red at " +
+      "the eye. A black flared collar piece over a black torso printed with " +
+      "silver bars and an orange checker stripe, grey hands, a red belt " +
+      "carried down the front of black legs.",
+    tags: ["villain", "robot", "sentient", "heavy", "indestructible", "missile", "ramming"],
+    images: ["images/the-missile-01.jpg"],
+    acquired: "",
+    notes: "The first robot in this collection on the bad side. Twenty-three thinking machines were catalogued before him - fifteen of this world, from the Rebuilt through to the Golden Sniper, plus C-3PO, R2-D2 and six astromechs - and every single one is filed good. Second figure to take the Heavy role, in the same batch as the first. Placeholder name."
+  },
+
+  {
+    id: "the-knock-off-captain",
+    name: "The Knock-off Captain",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain",
+    group: "The Knock-offs",
+    location: "",
+    relations: [
+      { to: "the-defector", label: "The same man on the other side" },
+    ],
+    rating: 0,
+    background:
+      "A military captain out of one of the knock-off societies - the off-brand " +
+      "civilizations, the ones that would go to war with Lego given the " +
+      "chance.\n\n" +
+      "He is the Defector's opposite number. Same species, same rank, same " +
+      "uniform down to the bandoliers; the Defector came across and this one " +
+      "did not.",
+    provenance:
+      "The identical figure to the Defector but for the cap. Olive peaked cap " +
+      "instead of red, over the same pale head with black sunglasses and a " +
+      "thin moustache; the same moulded black tactical vest hung with " +
+      "bandoliers and pouches, olive arms, pale hands, olive legs. Not a Lego " +
+      "mould.",
+    tags: ["villain", "knock-off", "captain", "military", "bandoliers", "not-lego", "counterpart"],
+    images: ["images/the-knock-off-captain-01.jpg"],
+    acquired: "",
+    notes: "You said his good counterpart wears a red hat, and that lands exactly: the Defector is the same mould, the same face print and the same vest under a red peaked cap. No guessing needed. This makes The Knock-offs the fifth group with people on both sides, after the Verdauf, the Discarded, the Royal Space Academy and the Green Rangers - and the first where the split is one figure against four rather than a unit coming apart. Placeholder name."
   },
 
 
