@@ -573,9 +573,13 @@ window.LORE = [
       "A set of specialists who can take out any target, and some of the " +
       "highest-rated bounty hunters in the galaxy. They can kill just about " +
       "anybody. They do have a big price.\n\n" +
-      "One of them is photographed so far, the captain, so the League is a " +
-      "named organisation with a single member in it - which is how the " +
-      "Verdauf Squadron and the alien mercenaries both started.\n\n" +
+      "Four of them are photographed: the captain, an assassin trained for " +
+      "underwater and space who does plenty of ground work anyway, a " +
+      "rifleman, and one who is not human. All four wear the same chest " +
+      "plate.\n\n" +
+      "That uniform matters. It is the first time a villain unit in this " +
+      "collection has had one. The Enemy are two anonymous squads and " +
+      "everybody else on that side dresses as themselves.\n\n" +
       "They are the second villain organisation in this world, after the " +
       "Enemy - and the Enemy is two anonymous squads with no names, no " +
       "commander and no story, so the Iron League is the first one with " +
@@ -583,12 +587,41 @@ window.LORE = [
       "Sith, two kings, a pretender, two arms dealers, a mercenary, an " +
       "assassin, a ninja, a space captain, a Martian and a virus. Two villain " +
       "groups, against fifty-five on the other side.\n\n" +
-      "And they are filed here under protest. Every other bounty hunter in " +
-      "this collection - Kaz, the Golden Sniper, the Ninja Robot, the Masked " +
-      "Bounty Hunter - is filed good, because the standing rule is that rogues " +
-      "stay on the good side unless the word evil gets used. It did not get " +
-      "used here. They are on the villain side because they arrived in the " +
-      "villain run, and one word moves them back."
+      "This note used to say they were filed as villains under protest, " +
+      "because every other bounty hunter here is good and the standing rule " +
+      "is that rogues stay good unless the word gets used. It has been used " +
+      "now - the rest of the League arrived with the line that all of these " +
+      "people are bad - so the protest is withdrawn.\n\n" +
+      "The outfit has been called the Iron League, the Iron Legion, the Iron " +
+      "Squadron and the Iron Squad Legion. The cards use the first, which is " +
+      "what came first. One word changes all four."
+  },
+
+  {
+    title: "Two captains of the Verdauf",
+    text:
+      "This one is not settled, and it should be read before it is taken as " +
+      "canon either way.\n\n" +
+      "The Green Captain has been on record from very early on. He leads the " +
+      "Verdauf Squadron, he is known by his light green armour, and he dies " +
+      "aboard an exploding ship - a bomb was about to go off and take the " +
+      "whole planet with it, so he pushed his younger brother into an escape " +
+      "pod and set it off on the ship instead. Everyone else lived. His death " +
+      "is quoted in two other world notes as proof that death in this world " +
+      "costs something.\n\n" +
+      "There is now a second captain of the Verdauf. Also light green. He " +
+      "misled his own troops into a massacre on purpose, put half of them on " +
+      "a ship he had rigged with explosives, and the ones who lived only " +
+      "lived because the bomb on the second ship failed.\n\n" +
+      "Same unit, same rank, same colour, same ship, same bomb, same " +
+      "survivors. Either the Verdauf had two captains and the second was a " +
+      "traitor, or there was only ever one and the heroic version on the " +
+      "Green Captain's card is the story he left behind him.\n\n" +
+      "Nothing has been changed on the Green Captain. Rewriting a death that " +
+      "load-bearing on an inference would be the wrong call, so both cards " +
+      "carry the question instead. It takes one word to answer.\n\n" +
+      "Either way the Verdauf are now the only group in the collection with " +
+      "people on both sides in it."
   }
 
 ];

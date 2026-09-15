@@ -828,7 +828,7 @@ window.COLLECTION = [
     tags: ["verdauf", "elite", "captain", "hand-to-hand", "brother", "deceased"],
     images: ["images/the-green-captain-01.jpg"],
     acquired: "",
-    notes: "Placeholder name - you called him the Green Captain in passing."
+    notes: "Placeholder name - you called him the Green Captain in passing. Since this was written, a second Verdauf captain has been catalogued: the Traitor Captain, also in light green, who misled his troops into a massacre and rigged a ship with explosives, and whose survivors lived because a bomb failed. Either that is a different man or it is this same event told honestly. Nothing here has been changed on a guess - say which it is."
   },
 
   {
@@ -13261,7 +13261,153 @@ window.COLLECTION = [
     tags: ["villain", "iron-league", "bounty-hunter", "captain", "specialist", "for-hire", "expensive"],
     images: ["images/the-iron-league-captain-01.jpg"],
     acquired: "",
-    notes: "A new group, named by you, with one man in it so far - the rest of the League has not been photographed. Filed bad because this is the villain run, but flagging it: every other bounty hunter here is filed good, all four of them, and the standing rule in this collection is that rogues stay on the good side unless you use the word evil. You did not. One word moves him and his League across. He is the first villain in a named unit at all; the other twelve are individuals."
+    notes: "A new group, named by you, with one man in it so far - the rest of the League has not been photographed. Filed bad, and you have since confirmed it outright - the League came with the line that all of these people are bad, which settles a flag this card used to carry. He is the first villain in a named unit at all; the other twelve are individuals."
+  },
+
+
+
+  {
+    id: "the-iron-league-assassin",
+    name: "The Iron League Assassin",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assassin",
+    group: "The Iron League",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Iron League. An expert in combat and a first-rate assassin, trained " +
+      "specifically for fighting underwater and in space - and he still does " +
+      "plenty of boots on the ground.",
+    provenance:
+      "Black flight helmet with silver-lensed goggles pushed over the eyes and " +
+      "a wide grin under them. A ribbed grey air hose collared round the neck " +
+      "and a black cape behind. The League chest plate - white and silver " +
+      "harness over dark red with yellow clips - and grey legs printed with " +
+      "dials, one yellow gauge and one red.",
+    tags: ["villain", "iron-league", "assassin", "underwater", "space", "goggles", "air-hose"],
+    images: ["images/the-iron-league-assassin-01.jpg"],
+    acquired: "",
+    notes: "The only figure in the collection trained for all three - underwater, space and ground. Aqua Force handle what happens under the water and the Space Militia handle what happens off the planet, and both of those are whole services; he is one man who does both and the ground as well."
+  },
+
+
+  {
+    id: "the-iron-league-rifleman",
+    name: "The Iron League Rifleman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Rifleman",
+    group: "The Iron League",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Iron League. Their rifleman.",
+    provenance:
+      "Pale blond hair swept up hard, a black visor band with blue lenses " +
+      "across the eyes, black flashes down both cheeks and a fanged grin. " +
+      "Yellow arms into black hands. The League chest plate, and grey legs " +
+      "printed with brown and gold plating.",
+    tags: ["villain", "iron-league", "rifleman", "fangs", "visor"],
+    images: ["images/the-iron-league-rifleman-01.jpg"],
+    acquired: "",
+    notes: "Third of the League and the only one of them showing teeth. All four wear the same chest plate, which is the first time a villain unit in this collection has had a uniform at all - the Enemy are two anonymous squads and everybody else on that side dresses as themselves."
+  },
+
+
+  {
+    id: "the-charming-bounty-hunter",
+    name: "The Charming Bounty Hunter",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Extremely charming, and a complete sociopath. Cheerful about it - oh " +
+      "boy, here I go killing again - and genuinely good company right up " +
+      "until he is working.\n\n" +
+      "He loves it enough that he made a career of it. A lot of his kills are " +
+      "very messy.",
+    provenance:
+      "Dark brown hair over a plain yellow face with a small, easy smile - " +
+      "the mildest face on any villain here. Cream field jacket printed with " +
+      "a white collar scarf, two pairs of clips at the chest, a radio at the " +
+      "breast and a belt with a buckle and pouch. Black legs, black hands.",
+    tags: ["villain", "bounty-hunter", "charming", "sociopath", "cheerful", "messy"],
+    images: ["images/the-charming-bounty-hunter-01.jpg"],
+    acquired: "",
+    notes: "Not filed with the Iron League: he arrived between two of them but you described him on his own, and his torso is nothing like their chest plate. Say the word and he joins. He is the fifth bounty hunter in the collection and the first who is not on our side - Kaz, the Golden Sniper, the Ninja Robot and the Masked Bounty Hunter are all good. And his is the only villain face here that is simply a smile: no scar, no visor, no mask, no green."
+  },
+
+
+  {
+    id: "the-iron-league-alien",
+    name: "The Iron League Alien",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    group: "The Iron League",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Iron League.",
+    provenance:
+      "A brown wide-brimmed hat over a grey-blue face - not human. Deep orange " +
+      "eyes, a lined brow and a hard downturned mouth. Grey arms and hands, " +
+      "the League chest plate, and grey legs printed with the same equipment " +
+      "panels the Captain wears.",
+    tags: ["villain", "iron-league", "bounty-hunter", "alien", "hat", "orange-eyes"],
+    images: ["images/the-iron-league-alien-01.jpg"],
+    acquired: "",
+    notes: "Fourth of the League. The only non-human in it, and the only alien on the villain side other than Phalanx, the Martian Leader and the Lead Alien Mercenary - none of whom is written to anybody. Naming note: you have called this outfit the Iron League, the Iron Legion, the Iron Squadron and the Iron Squad Legion across two batches. The cards use Iron League, which is what you said first; one word changes all four of them."
+  },
+
+
+  {
+    id: "the-traitor-captain",
+    name: "The Traitor Captain",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain, Verdauf Squadron",
+    group: "The Verdauf",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A captain of the Verdauf who misled his own troops into a massacre on " +
+      "purpose.\n\n" +
+      "He put half of them aboard a ship he had rigged with explosives, meant " +
+      "to kill the ones who were on the good side. The men who lived only " +
+      "lived because the bomb on the second ship failed to go off.",
+    provenance:
+      "White clone armour marked in pale green - a crested helmet with a fin " +
+      "over the crown, a black visor bar across the eyes and a green chevron " +
+      "at the mouth. Green shoulder flashes, a yellow crest at the sternum and " +
+      "a rank plate at the belt, green wedges at both knees, and a heavy green " +
+      "cloth cape.",
+    tags: ["villain", "verdauf", "captain", "traitor", "massacre", "sabotage", "clone-armor", "cape"],
+    images: ["images/the-traitor-captain-01.jpg"],
+    acquired: "",
+    notes: "Read carefully before taking this as settled. The Verdauf already have a captain on record - the Green Captain, who is known by his light green armour, who dies aboard an exploding ship, and whose card says he set the bomb off himself so that everyone else lived. This man is also a Verdauf captain, also in light green, also with a rigged ship and a bomb and survivors. Either they are two different men, or they are one story told two ways and the version on the Green Captain\'s card is the lie he left behind. I have not touched the Green Captain: overwriting a death that is quoted in two world notes on an inference would be the wrong call. Say which it is. Filed inside the Verdauf because he commanded them - a group shows everybody to everybody, and these are exactly the people he did it to."
   },
 
 
