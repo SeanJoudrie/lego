@@ -206,13 +206,14 @@ window.LORE = [
   {
     title: "Named but not yet seen",
     text:
-      "Antagonists and figures the stories point at, none of them photographed " +
-      "yet: the Purple Shadow. The evil blue civilization that Kenjen helped " +
-      "bring down.\n\n" +
-      "Two names came off this list at once. Quinn and the Shadow King both " +
-      "have cards now, and three links that had been sitting in other " +
-      "people's entries - written against ids that did not exist - went live " +
-      "the moment they did.\n\n" +
+      "Antagonists the stories point at and nobody has photographed: the evil " +
+      "blue civilization that Kenjen helped bring down.\n\n" +
+      "Three names came off this list in quick succession - Quinn, the Shadow " +
+      "King and the Purple Shadow - and with the last of them the catalogue " +
+      "hit something it had never managed before. Every person referred to by " +
+      "another person now exists. For most of this collection's life there " +
+      "were links written against ids that did not resolve to anybody, sitting " +
+      "there waiting. There are none left.\n\n" +
       "The famous Nexo Knight — the one with the spectacular sword, who turned " +
       "out to be a villain, and in whose shadow the modest one has spent his " +
       "whole career.\n\n" +
@@ -235,9 +236,12 @@ window.LORE = [
       "with light itself. What he and Quinn did together has its own note, " +
       "and so does the other king in that sentence, who turns out to be no " +
       "better than he is.\n\n" +
-      "One figure on that side is still only a name: the Purple Shadow, who " +
-      "killed the Snow Jedi's second Padawan. Whether he and the King are the " +
-      "same power is not established.\n\n" +
+      "The Purple Shadow has been photographed too, and he settles the " +
+      "question this note used to leave open. He is not the King and he is not " +
+      "of that dimension at all - he is a Sith who reached the shadow people " +
+      "through the dark arts, and he is the reason Quinn ever got to them. He " +
+      "opened the portal. He also killed the Snow Jedi's second Padawan, and " +
+      "fought the Beowulf Jedi constantly.\n\n" +
       "Nor is it established whether the shadow uprising Quinn and the King " +
       "ran is the same war as the Great Shadow War the Prince helped negotiate " +
       "the end of, or another one."
@@ -441,7 +445,9 @@ window.LORE = [
       "would be on the winning side of it, at the very top.\n\n" +
       "Everything after that is method. He studied both kinds of dark art - " +
       "dark magic and the dark side of the Force - and became a master Sith. " +
-      "He reached the shadow dimension and brought its King in with him. The " +
+      "He did not reach the shadow dimension himself - the Purple Shadow, a " +
+      "Sith who had got through to the shadow people, opened the portal for " +
+      "him - and once through it he brought the King in with him. The " +
       "green came from the study, and then he pushed it further on purpose, " +
       "because he wanted to change the essence of the body itself and be " +
       "unkillable.\n\n" +
@@ -559,6 +565,30 @@ window.LORE = [
       "are twelve, half of them with no written tie to anybody at all. Either " +
       "the villains really do work alone, or the lines exist and nobody has " +
       "said them out loud yet."
+  },
+
+  {
+    title: "The Iron League",
+    text:
+      "A set of specialists who can take out any target, and some of the " +
+      "highest-rated bounty hunters in the galaxy. They can kill just about " +
+      "anybody. They do have a big price.\n\n" +
+      "One of them is photographed so far, the captain, so the League is a " +
+      "named organisation with a single member in it - which is how the " +
+      "Verdauf Squadron and the alien mercenaries both started.\n\n" +
+      "They are the second villain organisation in this world, after the " +
+      "Enemy - and the Enemy is two anonymous squads with no names, no " +
+      "commander and no story, so the Iron League is the first one with " +
+      "somebody in charge of it. Everybody else on that side stands alone: a " +
+      "Sith, two kings, a pretender, two arms dealers, a mercenary, an " +
+      "assassin, a ninja, a space captain, a Martian and a virus. Two villain " +
+      "groups, against fifty-five on the other side.\n\n" +
+      "And they are filed here under protest. Every other bounty hunter in " +
+      "this collection - Kaz, the Golden Sniper, the Ninja Robot, the Masked " +
+      "Bounty Hunter - is filed good, because the standing rule is that rogues " +
+      "stay on the good side unless the word evil gets used. It did not get " +
+      "used here. They are on the villain side because they arrived in the " +
+      "villain run, and one word moves them back."
   }
 
 ];

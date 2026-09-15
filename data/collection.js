@@ -2228,6 +2228,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-snow-jedi", label: "Trained by" },
       { to: "the-second-padawan", label: "Friendly rival of" },
+      { to: "the-purple-shadow", label: "Constantly fought" },
     ],
     rating: 0,
     background:
@@ -2274,7 +2275,7 @@ window.COLLECTION = [
     tags: ["jedi", "force-sensitive", "mind-tricks", "poverty", "redeemed", "deceased"],
     images: ["images/the-second-padawan-01.jpg"],
     acquired: "",
-    notes: "Second death in the collection, after the Green Captain. His link to the Purple Shadow will start working once that figure exists."
+    notes: "Second death in the collection, after the Green Captain. His link to the Purple Shadow was written against an id that did not exist for a long time. It is live now."
   },
 
   {
@@ -12848,6 +12849,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-shadow-king", label: "Led the shadow uprising with" },
       { to: "the-prince-pretender", label: "Allied with" },
+      { to: "the-purple-shadow", label: "His middleman to the shadow dimension" },
       { to: "claws", label: "Captured" },
       { to: "the-knighted-civilian", label: "Brought down by" },
     ],
@@ -13138,6 +13140,128 @@ window.COLLECTION = [
     images: ["images/the-modified-arms-dealer-01.jpg"],
     acquired: "",
     notes: "Worth putting beside Quinn. Quinn wanted the essence of his body changed so nothing could kill him and went to the dark arts for it; this man went and had hardware fitted, and got healing, gills, capacity and strength out of it. Same want, two prices. He is also the fourth figure here to wear a body modification as history rather than kit, after the Discarded, the Mechanic and the Rebuilt - and the only one of the four who is not on our side."
+  },
+
+
+
+  {
+    id: "the-red-baron",
+    name: "The Red Baron",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assassin",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A professional assassin who can use shadows, and who leaves a streak of " +
+      "violence behind him wherever he has been.\n\n" +
+      "He enjoys taking skulls.",
+    provenance:
+      "Brown hair over a silver visor band across the eyes, stubble, a flat " +
+      "hard mouth. Black armour printed in grey and red plate with red spiked " +
+      "pauldrons standing off both shoulders, red arms into black hands, a belt " +
+      "of white crosses, and black legs with red knee plates.",
+    tags: ["villain", "assassin", "shadows", "trophies", "spikes", "for-hire"],
+    images: ["images/the-red-baron-01.jpg"],
+    acquired: "",
+    notes: "He uses shadows, which puts him near the shadow dimension without anybody having said he is of it or works for it - the Shadow King, the Purple Shadow and Quinn are all in that part of the world and none of them is written to him. Say the word and he connects. Also the first figure here who collects trophies off the people he kills; this world has had killers before and none of them kept anything."
+  },
+
+
+  {
+    id: "the-purple-shadow",
+    name: "The Purple Shadow",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Sith",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Opened the shadow portal for" },
+      { to: "the-second-padawan", label: "Killed" },
+      { to: "the-beowulf-jedi", label: "Constantly fought" },
+    ],
+    rating: 0,
+    background:
+      "A Sith who reached the shadow people through the dark arts, and the " +
+      "reason Quinn ever got to them. He was the middleman: he opened the " +
+      "portal to the shadow dimension.\n\n" +
+      "He carries a purple lightsaber. He and the Beowulf Jedi fought " +
+      "constantly, and he killed the Snow Jedi\'s second Padawan - the Beowulf " +
+      "Jedi\'s friendly rival, and by the end his friend.",
+    provenance:
+      "Black from head to boots. The head itself is printed rather than " +
+      "moulded: a red band across the brow with a clasp at the centre, and two " +
+      "pale discs where the eyes should be. A black cloth cape, a torso lined " +
+      "in grey with a buckled belt, black legs, silver hands.",
+    tags: ["villain", "sith", "purple-shadow", "dark-arts", "lightsaber", "portal", "shadow-dimension", "killer"],
+    images: ["images/the-purple-shadow-01.jpg"],
+    acquired: "",
+    notes: "The last name to come off the not-yet-photographed list, and the last dangling link in the collection: the Second Padawan has carried \"Killed by\" against this exact id since he was catalogued. You called him the purple shadow Prince this time - the card uses the Purple Shadow, which is what the world notes and that link have always called him, and because this world already has a Shadow Prince who is the Shadow King\'s son and is good. If Prince is a title he actually holds, say so. He also settles an old question: he is a Sith who talked to the shadow people, not one of them, so he and the Shadow King are not the same power after all."
+  },
+
+
+  {
+    id: "the-martian-leader",
+    name: "The Martian Leader",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Invasion Leader",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He led an army of Martian aliens in an invasion of Lego City.",
+    provenance:
+      "Not a minifigure at all - a Bionicle build, and taller than everyone " +
+      "else here. A dark brown mask with two hollow white eye slits over a " +
+      "translucent green body, the chest open around a bare socket, with " +
+      "translucent green limbs pinned on at every joint.",
+    tags: ["villain", "martian", "alien", "invasion", "lego-city", "bionicle", "not-a-minifigure"],
+    images: ["images/the-martian-leader-01.jpg"],
+    acquired: "",
+    notes: "The fifth not-a-minifigure in the collection, after the Ancient out of a Tonka set, the Salvager, the Yellow Spaceman and the Bionicle wrap on Claws - and the first that is an enemy. He is also the only villain so far to have attacked Lego City itself rather than the wider world, which puts him against Lego City Law: eleven officers, the Commissioner, the Watch Commander and the Nightwatch Captain, and nobody has written a line between him and any of them."
+  },
+
+
+  {
+    id: "the-iron-league-captain",
+    name: "The Iron League Captain",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain",
+    group: "The Iron League",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Captain of the Iron League - a set of specialists who can take out any " +
+      "target, and some of the highest-rated bounty hunters in the galaxy.\n\n" +
+      "They can kill just about anybody. They do have a big price.",
+    provenance:
+      "A silver combat helmet with a brow shelf and side boxes over black " +
+      "goggles and a grim mouth. Bare tan arms into black hands. Grey torso " +
+      "printed with a white and silver chest harness over dark red, yellow " +
+      "clips at the waist, and grey legs with equipment panels down both thighs.",
+    tags: ["villain", "iron-league", "bounty-hunter", "captain", "specialist", "for-hire", "expensive"],
+    images: ["images/the-iron-league-captain-01.jpg"],
+    acquired: "",
+    notes: "A new group, named by you, with one man in it so far - the rest of the League has not been photographed. Filed bad because this is the villain run, but flagging it: every other bounty hunter here is filed good, all four of them, and the standing rule in this collection is that rogues stay on the good side unless you use the word evil. You did not. One word moves him and his League across. He is the first villain in a named unit at all; the other twelve are individuals."
   },
 
 

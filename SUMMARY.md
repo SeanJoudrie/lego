@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-519 characters from a custom LEGO minifigure world, in the order they were
+523 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -131,9 +131,9 @@ The Golden Sniper and his ninja robot are hired as a pair, and that is the work 
 
 ### Named but not yet seen
 
-Antagonists and figures the stories point at, none of them photographed yet: the Purple Shadow. The evil blue civilization that Kenjen helped bring down.
+Antagonists the stories point at and nobody has photographed: the evil blue civilization that Kenjen helped bring down.
 
-Two names came off this list at once. Quinn and the Shadow King both have cards now, and three links that had been sitting in other people's entries - written against ids that did not exist - went live the moment they did.
+Three names came off this list in quick succession - Quinn, the Shadow King and the Purple Shadow - and with the last of them the catalogue hit something it had never managed before. Every person referred to by another person now exists. For most of this collection's life there were links written against ids that did not resolve to anybody, sitting there waiting. There are none left.
 
 The famous Nexo Knight — the one with the spectacular sword, who turned out to be a villain, and in whose shadow the modest one has spent his whole career.
 
@@ -147,7 +147,7 @@ There has been more than one. A war against the shadow ended by negotiation rath
 
 The Shadow King has been photographed now - a villain, the Shadow Prince's father, and king of a dimension locked in eternal conflict with light itself. What he and Quinn did together has its own note, and so does the other king in that sentence, who turns out to be no better than he is.
 
-One figure on that side is still only a name: the Purple Shadow, who killed the Snow Jedi's second Padawan. Whether he and the King are the same power is not established.
+The Purple Shadow has been photographed too, and he settles the question this note used to leave open. He is not the King and he is not of that dimension at all - he is a Sith who reached the shadow people through the dark arts, and he is the reason Quinn ever got to them. He opened the portal. He also killed the Snow Jedi's second Padawan, and fought the Beowulf Jedi constantly.
 
 Nor is it established whether the shadow uprising Quinn and the King ran is the same war as the Great Shadow War the Prince helped negotiate the end of, or another one.
 
@@ -251,7 +251,7 @@ He was nobody. A low-ranking soldier for a neutral third party in somebody else'
 
 He came back from that with a vow - never to be used by anyone again - and with a conclusion, which is the part that actually matters. He looked at how widespread war is, how industrial and constant, and at how many good people would keep turning up to fight in one. He decided conflict was simply inevitable. And if it could not be stopped, he would be on the winning side of it, at the very top.
 
-Everything after that is method. He studied both kinds of dark art - dark magic and the dark side of the Force - and became a master Sith. He reached the shadow dimension and brought its King in with him. The green came from the study, and then he pushed it further on purpose, because he wanted to change the essence of the body itself and be unkillable.
+Everything after that is method. He studied both kinds of dark art - dark magic and the dark side of the Force - and became a master Sith. He did not reach the shadow dimension himself - the Purple Shadow, a Sith who had got through to the shadow people, opened the portal for him - and once through it he brought the King in with him. The green came from the study, and then he pushed it further on purpose, because he wanted to change the essence of the body itself and be unkillable.
 
 He has three photographs here and they are three eras of one man: the grunt in standard-issue grey, the independent arms dealer building himself a history, and the neon thing in Sith robes.
 
@@ -306,6 +306,16 @@ Two arms dealers of exactly equal rank. One keeps the accounts and decides who g
 Nothing is written between the three of them, or between any of them and Quinn - who spent his own middle era as an independent arms dealer before he became what he became.
 
 Which is the interesting part. This world's good people are organised into fifty-four named groups with commanders and rosters. Its villains are twelve, half of them with no written tie to anybody at all. Either the villains really do work alone, or the lines exist and nobody has said them out loud yet.
+
+### The Iron League
+
+A set of specialists who can take out any target, and some of the highest-rated bounty hunters in the galaxy. They can kill just about anybody. They do have a big price.
+
+One of them is photographed so far, the captain, so the League is a named organisation with a single member in it - which is how the Verdauf Squadron and the alien mercenaries both started.
+
+They are the second villain organisation in this world, after the Enemy - and the Enemy is two anonymous squads with no names, no commander and no story, so the Iron League is the first one with somebody in charge of it. Everybody else on that side stands alone: a Sith, two kings, a pretender, two arms dealers, a mercenary, an assassin, a ninja, a space captain, a Martian and a virus. Two villain groups, against fifty-five on the other side.
+
+And they are filed here under protest. Every other bounty hunter in this collection - Kaz, the Golden Sniper, the Ninja Robot, the Masked Bounty Hunter - is filed good, because the standing rule is that rogues stay on the good side unless the word evil gets used. It did not get used here. They are on the villain side because they arrived in the villain run, and one word moves them back.
 
 ---
 
@@ -1240,7 +1250,7 @@ He fights monsters, and anything else put in front of him. Extremely brave, and 
 
 He trained alongside the Snow Jedi's other Padawan. They were friendly rivals, and in the end they were friends. His death hit him hard.
 
-*Connections:* Trained by The Snow Jedi · Friendly rival of The Second Padawan
+*Connections:* Trained by The Snow Jedi · Friendly rival of The Second Padawan · Constantly fought The Purple Shadow
 
 *Tags:* jedi, ancient-soul, reborn, brave, monster-slayer, willpower
 
@@ -1254,7 +1264,7 @@ The Snow Jedi sought him out, and he corrected himself. He fought.
 
 He was killed by the Purple Shadow. He and the Beowulf Jedi were friendly rivals who had trained together, and by the end that amounted to being good friends — the loss hurt him badly.
 
-*Connections:* Trained by The Snow Jedi · Friendly rival of The Beowulf Jedi
+*Connections:* Trained by The Snow Jedi · Friendly rival of The Beowulf Jedi · Killed by The Purple Shadow
 
 *Tags:* jedi, force-sensitive, mind-tricks, poverty, redeemed, deceased
 
@@ -5570,7 +5580,7 @@ The arms dealer: brown hair, no helmet, a black pauldron across both shoulders, 
 
 What he made of himself: a translucent neon green head, grinning, one eye red. Bone-white spines stand off the collar. Black Sith robes over black legs, one hand still flesh and the other gone black.
 
-*Connections:* Led the shadow uprising with The Shadow King · Allied with The Prince Pretender · Captured Claws · Brought down by The Knighted Civilian
+*Connections:* Led the shadow uprising with The Shadow King · Allied with The Prince Pretender · His middleman to the shadow dimension The Purple Shadow · Captured Claws · Brought down by The Knighted Civilian
 
 *Tags:* villain, quinn, sith, dark-arts, force, shadow-uprising, betrayal, self-healing, immortality, arms-dealer
 
@@ -5672,7 +5682,55 @@ He used to be a poacher. What he has now is a body modification: it heals him qu
 
 *Tags:* villain, arms-dealer, poacher, body-modification, self-healing, amphibious, strength
 
-### 488. The Militiaman in the Black Helm
+### 488. The Red Baron
+
+**Alignment:** bad · **Role:** Assassin · **Figure:** custom
+
+A professional assassin who can use shadows, and who leaves a streak of violence behind him wherever he has been.
+
+He enjoys taking skulls.
+
+*How it was got:* Brown hair over a silver visor band across the eyes, stubble, a flat hard mouth. Black armour printed in grey and red plate with red spiked pauldrons standing off both shoulders, red arms into black hands, a belt of white crosses, and black legs with red knee plates.
+
+*Tags:* villain, assassin, shadows, trophies, spikes, for-hire
+
+### 489. The Purple Shadow
+
+**Alignment:** bad · **Role:** Sith · **Figure:** custom
+
+A Sith who reached the shadow people through the dark arts, and the reason Quinn ever got to them. He was the middleman: he opened the portal to the shadow dimension.
+
+He carries a purple lightsaber. He and the Beowulf Jedi fought constantly, and he killed the Snow Jedi's second Padawan - the Beowulf Jedi's friendly rival, and by the end his friend.
+
+*How it was got:* Black from head to boots. The head itself is printed rather than moulded: a red band across the brow with a clasp at the centre, and two pale discs where the eyes should be. A black cloth cape, a torso lined in grey with a buckled belt, black legs, silver hands.
+
+*Connections:* Opened the shadow portal for Quinn · Killed The Second Padawan · Constantly fought The Beowulf Jedi
+
+*Tags:* villain, sith, purple-shadow, dark-arts, lightsaber, portal, shadow-dimension, killer
+
+### 490. The Martian Leader
+
+**Alignment:** bad · **Role:** Invasion Leader · **Figure:** custom
+
+He led an army of Martian aliens in an invasion of Lego City.
+
+*How it was got:* Not a minifigure at all - a Bionicle build, and taller than everyone else here. A dark brown mask with two hollow white eye slits over a translucent green body, the chest open around a bare socket, with translucent green limbs pinned on at every joint.
+
+*Tags:* villain, martian, alien, invasion, lego-city, bionicle, not-a-minifigure
+
+### 491. The Iron League Captain
+
+**Alignment:** bad · **Role:** Captain · **Figure:** custom
+
+Captain of the Iron League - a set of specialists who can take out any target, and some of the highest-rated bounty hunters in the galaxy.
+
+They can kill just about anybody. They do have a big price.
+
+*How it was got:* A silver combat helmet with a brow shelf and side boxes over black goggles and a grim mouth. Bare tan arms into black hands. Grey torso printed with a white and silver chest harness over dark red, yellow clips at the waist, and grey legs with equipment panels down both thighs.
+
+*Tags:* villain, iron-league, bounty-hunter, captain, specialist, for-hire, expensive
+
+### 492. The Militiaman in the Black Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5686,7 +5744,7 @@ Photographed off an old video rather than in hand, because there is no hand to p
 
 *Tags:* space-militia, lost, deceased, helmet, sunglasses
 
-### 489. The Militiaman in the Red Helm
+### 493. The Militiaman in the Red Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5696,7 +5754,7 @@ Space Militia. Lost, and dead.
 
 *Tags:* space-militia, lost, deceased, rifle, scarred
 
-### 490. The Ranger Patrol Captain
+### 494. The Ranger Patrol Captain
 
 **Alignment:** good · **Role:** Patrol Captain · **Figure:** custom
 
@@ -5706,7 +5764,7 @@ A patrol captain of the rangers. Lost, and dead.
 
 *Tags:* green-rangers, ranger, captain, lost, deceased, camouflage
 
-### 491. The Militiamen Out of Armour — Two of them
+### 495. The Militiamen Out of Armour — Two of them
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -5718,7 +5776,7 @@ Photographed together, on a table, years ago.
 
 *Tags:* space-militia, lost, deceased, civilian-dress, headset
 
-### 492. The Lost Miners — Two of them
+### 496. The Lost Miners — Two of them
 
 **Alignment:** good · **Role:** Power Miner · **Figure:** custom
 
@@ -5728,7 +5786,7 @@ Two of the power miners. Lost, and dead.
 
 *Tags:* power-miner, lost, deceased, overalls, helmet
 
-### 493. The Discarded in the Blue Cap
+### 497. The Discarded in the Blue Cap
 
 **Alignment:** good · **Role:** Discarded · **Figure:** custom
 
@@ -5740,7 +5798,7 @@ The badge is not a marking anyone else in this collection wears, and I could not
 
 *Tags:* discarded, refugee, lost, deceased, cap, goatee
 
-### 494. The Elf Man
+### 498. The Elf Man
 
 **Alignment:** good · **Role:** Elf · **Figure:** custom
 
@@ -5754,7 +5812,7 @@ Nothing about the moulding is elven - it is an ordinary head and an ordinary hai
 
 *Tags:* elf, lost, deceased, long-hair, vest
 
-### 495. The Long Shot Bowman
+### 499. The Long Shot Bowman
 
 **Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
 
@@ -5764,7 +5822,7 @@ An archer of the Royal Knights, and a long shot. Lost, and dead.
 
 *Tags:* knight, archer, bow, medieval, royal-knights, lost, deceased, kettle-helm
 
-### 496. The Lost Pirates — Two of them
+### 500. The Lost Pirates — Two of them
 
 **Alignment:** good · **Role:** Pirate · **Figure:** custom
 
@@ -5776,7 +5834,7 @@ The other in a blue headscarf, moustached and heavily freckled, in a red and whi
 
 *Tags:* pirate, crew, lost, deceased, tattoo, anchor, stripes
 
-### 497. The Lost Aqua Diver
+### 501. The Lost Aqua Diver
 
 **Alignment:** good · **Role:** Aqua Force · **Figure:** custom
 
@@ -5786,7 +5844,7 @@ Aqua Force - the service that handles any military necessity involving going und
 
 *Tags:* aqua-force, underwater, diver, trident, lost, deceased, scarred
 
-### 498. The Gungan Jedi
+### 502. The Gungan Jedi
 
 **Alignment:** good · **Role:** Jedi · **Figure:** custom
 
@@ -5800,7 +5858,7 @@ The robe is not a piece I could place. Photographed off an old video rather than
 
 *Tags:* star-wars, gungan, jedi, alien, cape, lost, deceased
 
-### 499. The Alien Professor
+### 503. The Alien Professor
 
 **Alignment:** good · **Role:** Professor · **Figure:** custom
 
@@ -5812,7 +5870,7 @@ The frame is too soft to make out the piece. This is as much as the video gives.
 
 *Tags:* alien, professor, academic, moulded-head, robes, lost, deceased
 
-### 500. The Lost Soccer Player
+### 504. The Lost Soccer Player
 
 **Alignment:** good · **Role:** Athlete · **Figure:** custom
 
@@ -5822,7 +5880,7 @@ A soccer player. Lost, and dead.
 
 *Tags:* soccer, football, athlete, sport, kit, lost, deceased
 
-### 501. The Astronaut Soldier
+### 505. The Astronaut Soldier
 
 **Alignment:** good · **Role:** Astronaut Soldier · **Figure:** custom
 
@@ -5832,7 +5890,7 @@ An astronaut, and a soldier. Lost, and dead.
 
 *Tags:* astronaut, soldier, space, helmet, lost, deceased
 
-### 502. The Airline Pilot
+### 506. The Airline Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** custom
 
@@ -5842,7 +5900,7 @@ An airline pilot. Lost, and dead.
 
 *Tags:* pilot, airline, civilian, uniform, cap, lost, deceased
 
-### 503. The Hooded Ranger
+### 507. The Hooded Ranger
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5852,7 +5910,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, hood, balaclava, lost, deceased
 
-### 504. The Blue Space Captain
+### 508. The Blue Space Captain
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -5864,7 +5922,7 @@ The badge is the Galactic Republic cog, so the pieces are out of a Star Wars pil
 
 *Tags:* captain, space, pilot, goggles, headset, lost, deceased
 
-### 505. The Nude Aliens — Two of them
+### 509. The Nude Aliens — Two of them
 
 **Alignment:** good · **Figure:** custom
 
@@ -5876,7 +5934,7 @@ The other is green throughout with a moulded head - a scaled, gaping fish-like f
 
 *Tags:* alien, nude, unprinted, moulded-head, lost, deceased
 
-### 506. The Engine Technician
+### 510. The Engine Technician
 
 **Alignment:** good · **Role:** Technician · **Figure:** custom
 
@@ -5886,7 +5944,7 @@ One of the engine technicians. Lost, and dead.
 
 *Tags:* technician, engines, space-programme, helmet, lost, deceased
 
-### 507. The Ranger in the Olive Helm
+### 511. The Ranger in the Olive Helm
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5896,7 +5954,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, helmet, field-jacket, lost, deceased
 
-### 508. The Lost Golden Rifleman
+### 512. The Lost Golden Rifleman
 
 **Alignment:** good · **Role:** Rifleman · **Figure:** branded
 
@@ -5908,7 +5966,7 @@ Too soft a frame to tell Phase 1 from Phase 2, or to read the unit markings the 
 
 *Tags:* star-wars, clone, trooper, rifleman, golden-company, rifle, lost, deceased, branded
 
-### 509. The Saxophone Player
+### 513. The Saxophone Player
 
 **Alignment:** good · **Role:** Musician · **Figure:** custom
 
@@ -5920,7 +5978,7 @@ Photographed standing on wet sand with the sea behind him and his own reflection
 
 *Tags:* musician, saxophone, music, cool, sunglasses, lost, deceased
 
-### 510. The Old Verdauf Soldier
+### 514. The Old Verdauf Soldier
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5932,7 +5990,7 @@ He is built off white blocks below the waist rather than printed legs.
 
 *Tags:* verdauf, squadron, soldier, veteran, beard, white-armor, lost, deceased
 
-### 511. The Blue Pirate Thug
+### 515. The Blue Pirate Thug
 
 **Alignment:** good · **Role:** Thug · **Figure:** custom
 
@@ -5942,7 +6000,7 @@ A pirate thug. The uniform he is wearing is not his - he stole it. Lost, and dea
 
 *Tags:* thug, pirate, stolen-uniform, respirator, blue, lost, deceased
 
-### 512. The Space Captain Lady
+### 516. The Space Captain Lady
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -5954,7 +6012,7 @@ It is the same uniform the Blue Space Captain wears, down to the badge.
 
 *Tags:* captain, space, woman, stolen-uniform, visor, lost, deceased
 
-### 513. The Evil Space Captain
+### 517. The Evil Space Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -5966,7 +6024,7 @@ It is a rebel pilot's kit. There are nine Rebel Pilots in this collection and he
 
 *Tags:* captain, space, villain, stolen-uniform, flight-helmet, beard, lost, deceased
 
-### 514. The Space Criminal
+### 518. The Space Criminal
 
 **Alignment:** good · **Role:** Criminal · **Figure:** custom
 
@@ -5976,7 +6034,7 @@ A space criminal. Lost, and dead.
 
 *Tags:* criminal, space, crook, grin, blaster, lost, deceased
 
-### 515. The Bribed Royal Enforcer
+### 519. The Bribed Royal Enforcer
 
 **Alignment:** good · **Role:** Enforcer · **Figure:** custom
 
@@ -5986,7 +6044,7 @@ A royal enforcer who took a bribe. Lost, and dead.
 
 *Tags:* enforcer, royal, bribed, corruption, visor, lost, deceased
 
-### 516. The Bearded Spaceman
+### 520. The Bearded Spaceman
 
 **Alignment:** good · **Role:** Spaceman · **Figure:** custom
 
@@ -5996,7 +6054,7 @@ A blue spaceman. Lost, and dead.
 
 *Tags:* spaceman, classic-space, blue, beard, vintage, lost, deceased
 
-### 517. The Masked Bounty Hunter
+### 521. The Masked Bounty Hunter
 
 **Alignment:** good · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -6008,7 +6066,7 @@ The frame is badly blurred and this is as much as it gives.
 
 *Tags:* bounty-hunter, masked, red-eyes, hood, lost, deceased
 
-### 518. The Crimson Ninja
+### 522. The Crimson Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -6018,7 +6076,7 @@ An evil ninja, in crimson. The figure has not been photographed yet - this card 
 
 *Tags:* ninja, villain, crimson, masked, concept-art, no-photograph
 
-### 519. The Nightwatch Captain
+### 523. The Nightwatch Captain
 
 **Alignment:** good · **Role:** Nightwatch Captain · **Based:** Lego City · **Figure:** custom
 
