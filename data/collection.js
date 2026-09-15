@@ -5387,7 +5387,7 @@ window.COLLECTION = [
   {
     id: "spongebob",
     name: "SpongeBob",
-    variant: "Two outfits",
+    variant: "Three outfits",
     faction: "good",
     origin: "branded",
     theme: "SpongeBob SquarePants",
@@ -5404,11 +5404,12 @@ window.COLLECTION = [
     provenance: "A genuine SpongeBob SquarePants minifigure, square head and all.",
     tags: ["spongebob", "branded", "visitor"],
     images: [
-      { src: "images/spongebob-01.jpg", caption: "As usual" },
-      { src: "images/spongebob-02.jpg", caption: "In the air helmet" }
+      { src: "images/spongebob-01.jpg", caption: "Brown trousers" },
+      { src: "images/spongebob-02.jpg", caption: "In the air helmet" },
+      { src: "images/spongebob-03.jpg", caption: "Yellow trousers" }
     ],
     acquired: "",
-    notes: "Two photos, one sponge - the air helmet is an outfit, not another character. Fifth branded figure, and the first branded theme with three of its own people in it. Linked to the other two on your say-so - the only branded figures here who know each other."
+    notes: "Three photos, one sponge. The air helmet is an outfit and the trousers change colour; none of it is another character. Fifth branded figure, and the first branded theme with three of its own people in it. Linked to the other two on your say-so - the only branded figures here who know each other."
   },
 
 
@@ -7606,6 +7607,106 @@ window.COLLECTION = [
     images: ["images/the-common-knight-01.jpg"],
     acquired: "",
     notes: "Placeholder name, from your word for him. The plainest knight in the order, and the only one in 285 figures whose face is printed sweating - which is a strange thing to find on the one you called normal."
+  },
+
+
+
+  {
+    id: "the-fleet-commander",
+    name: "The Fleet Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Fleet Commander",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A fleet commander.",
+    provenance: "Grey officer's tunic with a rank bar on the chest and a plain belt.",
+    tags: ["commander", "fleet", "officer", "space"],
+    images: ["images/the-fleet-commander-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, and no group written: this world has a Space Militia, a Space Police, a Royal Galactic Army, a Blacktron Squadron and an Aqua Force, and nobody has said whose fleet he commands. Name it and he joins them."
+  },
+
+
+  {
+    id: "the-inventory-specialist",
+    name: "The Inventory Specialist",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Inventory Specialist",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Inventory specialist for the entire civilization. He tracks every " +
+      "material that goes into the city, and everything the space forces or " +
+      "the Royals hold. If it needs ordering, he is the one who orders it.\n\n" +
+      "Every mechanic and every technician answers to him.\n\n" +
+      "He looks like nobody in particular. He is extremely high ranking.",
+    provenance: "Plain tan coveralls with two chest pockets, brown hair, no insignia anywhere.",
+    tags: ["inventory", "logistics", "supply", "high-ranking", "modest", "quartermaster-general"],
+    images: ["images/the-inventory-specialist-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. No link written to the Quartermaster, who runs maintenance and supply aboard the mothership for the militia and the police both - by this man's description that is a job inside his own, but nobody has said so. Second figure here whose appearance is a deliberate lie about his standing, after the Potato Farmer who lives in a mansion."
+  },
+
+
+  {
+    id: "the-second-ranger",
+    name: "The Second Ranger",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ranger",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-third-ranger", label: "Same ranger kit" },
+    ],
+    rating: 0,
+    background: "A ranger.",
+    provenance: "Pith helmet, open safari shirt, ammunition pouches across the belt.",
+    tags: ["ranger", "pith-helmet", "expedition", "bandolier"],
+    images: ["images/the-second-ranger-01.jpg"],
+    acquired: "",
+    notes: "Named by ordinal because the Ranger already exists - the one with the bionic arm, out with the Frontier Expedition. These two are not filed with him: they wear a completely different kit and nobody has said they are the same outfit. Say so and all three go together."
+  },
+
+
+  {
+    id: "the-third-ranger",
+    name: "The Third Ranger",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ranger",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-second-ranger", label: "Same ranger kit" },
+    ],
+    rating: 0,
+    background: "Also a ranger.",
+    provenance:
+      "The same pith helmet and pouches, but his shirt is buttoned and his face " +
+      "is scarred across one eye.",
+    tags: ["ranger", "pith-helmet", "expedition", "scarred"],
+    images: ["images/the-third-ranger-01.jpg"],
+    acquired: "",
+    notes: "Named by ordinal, linked to the second by the kit rather than filed into a unit. The scar is printed, not wear."
   },
 
 

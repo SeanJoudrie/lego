@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-285 characters from a custom LEGO minifigure world, in the order they were
+289 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2418,7 +2418,7 @@ It is their job, for Easter.
 
 *Tags:* bunny-suit, easter, costume, job, pair
 
-### 194. SpongeBob — Two outfits
+### 194. SpongeBob — Three outfits
 
 **Alignment:** good · **Figure:** branded
 
@@ -3377,6 +3377,54 @@ A normal knight.
 *How it was got:* Pointed helm with neck guards, lion's head on the chest - and a face printed frowning with sweat coming off it.
 
 *Tags:* knight, medieval, royal-knights, ordinary, sweating
+
+### 286. The Fleet Commander
+
+**Alignment:** good · **Role:** Fleet Commander · **Figure:** custom
+
+A fleet commander.
+
+*How it was got:* Grey officer's tunic with a rank bar on the chest and a plain belt.
+
+*Tags:* commander, fleet, officer, space
+
+### 287. The Inventory Specialist
+
+**Alignment:** good · **Role:** Inventory Specialist · **Figure:** custom
+
+Inventory specialist for the entire civilization. He tracks every material that goes into the city, and everything the space forces or the Royals hold. If it needs ordering, he is the one who orders it.
+
+Every mechanic and every technician answers to him.
+
+He looks like nobody in particular. He is extremely high ranking.
+
+*How it was got:* Plain tan coveralls with two chest pockets, brown hair, no insignia anywhere.
+
+*Tags:* inventory, logistics, supply, high-ranking, modest, quartermaster-general
+
+### 288. The Second Ranger
+
+**Alignment:** good · **Role:** Ranger · **Figure:** custom
+
+A ranger.
+
+*How it was got:* Pith helmet, open safari shirt, ammunition pouches across the belt.
+
+*Connections:* Same ranger kit The Third Ranger
+
+*Tags:* ranger, pith-helmet, expedition, bandolier
+
+### 289. The Third Ranger
+
+**Alignment:** good · **Role:** Ranger · **Figure:** custom
+
+Also a ranger.
+
+*How it was got:* The same pith helmet and pouches, but his shirt is buttoned and his face is scarred across one eye.
+
+*Connections:* Same ranger kit The Second Ranger
+
+*Tags:* ranger, pith-helmet, expedition, scarred
 
 ---
 
