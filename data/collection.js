@@ -17526,6 +17526,143 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-wampa",
+    name: "The Wampa",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Beast",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A wampa. The thing that lives in the ice and takes people back to its " +
+      "cave.",
+    provenance:
+      "Not a minifigure - a single large moulded piece in off-white, twice the " +
+      "bulk of an ordinary figure, with shaggy fur cut into it in jagged " +
+      "planes. Two curved grey horns, a black snarl of teeth under a small " +
+      "yellow muzzle, dark sunken eyes, and grey claws on both hands and both " +
+      "feet. It stands hunched.",
+    tags: ["villain", "beast", "animal", "wampa", "star-wars", "branded", "not-a-minifigure", "ice"],
+    images: ["images/the-wampa-01.jpg"],
+    acquired: "",
+    notes: "The first animal in this collection on the bad side. Six creatures were catalogued before him - Laval, a horse called Widow, Chewbacca, the Ewok, Rotta the Hutt and a Spider-Man - and every one is good. He is also the first enemy here that is simply a predator: the Brain Parasites eat, but they were built as a weapon by somebody. Nobody sent the wampa. Fifth figure in the catalogue that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba and the Alien Professor."
+  },
+
+  {
+    id: "lotso",
+    name: "Lotso",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Toy Story",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Lots-o'-Huggin' Bear.",
+    provenance:
+      "A single moulded piece, deep pink, shaped as a bear standing upright - " +
+      "rounded ears, a pale grey muzzle with a purple nose and purple brows " +
+      "over small brown eyes, and a pale belly patch stitched round the edge. " +
+      "Stubby arms hanging at the sides and moulded feet. No printing except " +
+      "the face.",
+    tags: ["villain", "toy-story", "branded", "bear", "not-a-minifigure", "pink", "moulded"],
+    images: ["images/lotso-01.jpg"],
+    acquired: "",
+    notes: "The first Toy Story villain here, and the first branded villain out of anywhere except Star Wars, Avatar and Ninjago. The Toys are Woody, Buzz Lightyear and the Toy Alien, all good and all in a group together - he is deliberately not put in it, since being the thing they are afraid of is the point. Sixth figure that is not minifigure-shaped, arriving in the same batch as the fifth."
+  },
+
+  {
+    id: "nute-gunray",
+    name: "Nute Gunray",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Viceroy",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Nute Gunray, Viceroy of the Trade Federation.",
+    provenance:
+      "A tall grey moulded headdress worked with raised ovals and swept out to " +
+      "points at both sides, over a pale grey face - a heavy frown, a wide " +
+      "flat mouth and orange eyes with dark centres. A dark red tunic printed " +
+      "with an orange-edged panel and a silver device at the chest; orange " +
+      "arms, grey hands, dark red legs.",
+    tags: ["villain", "star-wars", "branded", "neimoidian", "viceroy", "trade-federation", "headdress"],
+    images: ["images/nute-gunray-01.jpg"],
+    acquired: "",
+    notes: "The first villain in this collection whose power is commercial. Everybody else on that side holds a throne, an army, a doctrine or a gun; this one holds a trade route. He sits oddly beside the five financiers on the bad side, none of whom is said to fund anything in particular - a viceroy of a trade federation is exactly the thing they would all be working for, and nothing is written between them."
+  },
+
+  {
+    id: "the-first-order-snowtrooper",
+    name: "The First Order Snowtrooper",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A snowtrooper of the First Order.",
+    provenance:
+      "A smooth white helmet with a narrow black visor slit and two grey studs " +
+      "at the jaw, no cowl. White armour printed with a fine black lining - " +
+      "seams, a chest box, a belt and thigh pouches - carried down onto white " +
+      "legs. One white arm and one white with a grey hand.",
+    tags: ["villain", "star-wars", "branded", "snowtrooper", "first-order", "soldier", "white"],
+    images: ["images/the-first-order-snowtrooper-01.jpg"],
+    acquired: "",
+    notes: "There are already three snowtroopers here and all three are good - ridged helmets with a hanging cowl and a dark eye slit, the older pattern. This one is the later army: smooth helmet, no cowl, black lining instead of blocks. Same job, different generation, opposite deck. Not put with them, since the whole point of him is that he is the other one."
+  },
+
+  {
+    id: "the-third-blue-mandalorian",
+    name: "The Third Blue Mandalorian",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Mandalorian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The third of them.",
+    provenance:
+      "The same blue and grey armour again - grey-domed helmet, blue face " +
+      "plate, black T-visor, the grey chest plate and segmented belt. What " +
+      "separates him is below the waist: a white band across the hips and a " +
+      "white stripe running down between the legs, where the other two have " +
+      "plain blue.",
+    tags: ["villain", "mandalorian", "star-wars", "branded", "beskar", "t-visor", "blue", "white-stripe"],
+    images: ["images/the-third-blue-mandalorian-01.jpg"],
+    acquired: "",
+    notes: "Three of them now, separate men in one set of armour, told apart by a helmet, a neck pack and a white stripe. They are not put in a group: you have called them separate rather than a unit, and a group here shows everybody to everybody. Say they are a squad and they become one - which would give the bad side its first Star Wars unit, against the Clone Army, the 501st, the Commandos and the rest on the other deck."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
