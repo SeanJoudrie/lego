@@ -18842,6 +18842,128 @@ window.COLLECTION = [
     notes: "Named for his face because nothing else about him has been said yet - green is not enough to go on when this collection already holds an alien farmer, a four-armed alien, a bionic alien, an alien racer, a lead mercenary, a militia commander, five alien soldiers and four goons. The blue is the part nobody else has.\n\nWhich makes him a sixth alien body on that side with nothing written between him and the other five. The catalogue has kept mercenaries, a militia, the Alien Soldiers, the Alien Goons and the Grey Alien Soldier apart because nothing in the world joined them up, and he goes on the same shelf of open doors. One ruling would collapse most of it.\n\nThe ribcage is the odd detail. It is printed on the outside of him, over the chest, the way the Damaged carry their damage on the plastic - except nothing here says he was hurt. It may just be how his species is built."
   },
 
+  {
+    id: "the-giant-orc",
+    name: "The Giant Orc",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A giant orc. A monster rather than a soldier.",
+    provenance:
+      "Not a minifigure - a single large build, half again the height of " +
+      "everything around him and three or four times the bulk. Pale green all " +
+      "over, with an enormous moulded head: a heavy brow, small hard eyes, a " +
+      "flat snout and two white tusks standing up out of the lower jaw. A dark " +
+      "grey helmet sits over the crown with long cheek plates hanging down " +
+      "either side. Huge closed fists with the fingers moulded in, a silver " +
+      "belt plate with two studs on it, and a black kilt hanging from it. No " +
+      "printing on him anywhere except the face.",
+    tags: ["villain", "orc", "giant", "monster", "tusks", "non-minifigure", "custom", "green"],
+    images: ["images/the-giant-orc-01.jpg"],
+    acquired: "",
+    notes: "Fourth orc, and the shape of them is filling in fast. The Orc Queen sat here for a long time as a queen of nobody - her card says so - and in two batches she has gone to three subjects: one short, one in armour called a warrior, and this. They are still not in a group, because a species is not an affiliation and nobody has said they answer to her, but the offer stands and it now covers four figures rather than three.\n\nHe is the eighth thing in this collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Alien Professor, the Wampa, Lotso and Gollum - and only the third of those that is big rather than small. The other two enormous ones are Jabba and the Martian Leader, and both of them are leaders. This one is described as a monster."
+  },
+
+  {
+    id: "the-shadow-soldiers",
+    name: "The Shadow Soldiers",
+    variant: "Seven of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Shadow soldiers. Seven of them.",
+    provenance:
+      "Black plastic and nothing else. Head, torso, arms, legs, all the " +
+      "standard minifigure moulds and every one of them unprinted - no face, " +
+      "no collar, no belt, no seams drawn anywhere. The only thing that is not " +
+      "black on any of them is a hand: most wear black ones, several have a " +
+      "single grey hand on one side, which is the only way to tell one from " +
+      "another at all.\n\n" +
+      "Six are photographed in a row and one on his own. They are people with " +
+      "everything taken out.",
+    tags: ["villain", "shadow", "soldier", "unprinted", "blank", "black", "custom", "seven-figures"],
+    images: [
+      { src: "images/the-shadow-soldiers-01.jpg", caption: "One of them" },
+      { src: "images/the-shadow-soldiers-02.jpg", caption: "Six of them" }
+    ],
+    acquired: "",
+    notes: "The shadow dimension has had everything except the shadows. It has a king locked in eternal conflict with light, a chaplain who preached the invasion as doctrine, two elders keeping a room where occult gods are worshipped, a commander who walked a defecting unit in, a Sith from outside who opened the door, and a prince who left and helped negotiate peace. Six roles and a throne, all catalogued, and not one rank-and-file shadow on the shelf until now.\n\nWhat the uprising actually did is the thing this card settles. Quinn and the Shadow King raised each friendly leader's own shadow against him - near-identical versions of the people themselves - and that has been written down as a method for a long time without anybody being able to see it. A figure with the face, the printing and the colour taken out and the silhouette left standing is exactly what that would look like.\n\nNo group has been made and that is deliberate twice over. The Shadow Team is a unit of humans who defected under their commander and they have faces; these do not. And the shadow dimension's own army has never been named, so putting these in a group would mean inventing a name for it. Name it and they go in.\n\nSeven figures on one card. Only three entries in this catalogue are recorded as holding more - about a dozen plain clones, ten US Army soldiers and nine rebel troopers - and all three of them are on the good deck."
+  },
+
+  {
+    id: "matthew",
+    name: "Matthew",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A child. He was kidnapped by the bad guys, and he is being raised by " +
+      "some of them.",
+    provenance:
+      "Not a minifigure and older than one. A solid red body moulded as a " +
+      "single tapered block with no arms and no legs on it at all, and a large " +
+      "yellow head on top - a moulded nose and two ears standing out from the " +
+      "sides, a face drawn in four thin lines: two eyes, two brows, and a " +
+      "curve for a mouth that is neither a smile nor not one. Black hair " +
+      "moulded in a bowl cut over the whole crown. This mould is older than " +
+      "the minifigure itself.",
+    tags: ["villain", "child", "kidnapped", "red", "vintage", "non-minifigure", "armless", "custom"],
+    images: ["images/matthew-01.jpg"],
+    acquired: "",
+    notes: "Every child catalogued in this collection until now has been on the good side - royal sons and a royal daughter, a son, a farmer boy, two peasant boys, a karate kid, a kid in pyjamas, a girl in a guinea pig costume, the boy Anakin, the boy Boba, Rotta and Grogu. He is the first child on the other deck, and he did not walk there. He was taken.\n\nThat puts him with the Brainwashed Assassin as the second figure on this side who is filed as an enemy without having chosen it, and he is the younger of the two by a long way. Nothing says what he has been raised to do, or which of them is raising him.\n\nHe has a name, which is rare here. Most of this world goes by what it is; the home-made villains with personal names come to a handful - Quinn, Phalanx, General Shepherd, Johnny Plasma, Wen, Long Arm Johnson, Deus Pater - and he is the only child among them. Somebody named him. Given the card, that may be the point.\n\nHe is also the ninth thing here that is not minifigure-shaped, and the oldest kind of figure in the collection: the mould predates the minifigure, so the youngest character on this deck is the oldest piece of plastic on it."
+  },
+
+  {
+    id: "the-squid-warrior",
+    name: "The Squid Warrior",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An evil squid, underwater.",
+    provenance:
+      "Dark red throughout. A moulded head drawn up into a tall ridged cone " +
+      "with a gold emblem printed across the front of it - a ring with a spike " +
+      "through it and scrollwork either side - and two small eyes set low " +
+      "beneath. Below the eyes the face opens into a hood of tentacles hanging " +
+      "down over the chest, with more coiling up out of the middle of them. " +
+      "Instead of legs, a moulded skirt of long tentacles spread out to the " +
+      "floor. Dark red arms and grey hands.",
+    tags: ["villain", "squid", "sea", "creature", "moulded", "tentacles", "gold", "custom"],
+    images: ["images/the-squid-warrior-01.jpg"],
+    acquired: "",
+    notes: "Second thing in the water. The Shark Warrior arrived in the batch before this one and his card said he was the first thing in this collection the divers would actually meet down there; there are two now, against fifteen people catalogued underwater across two dive teams.\n\nThe difference between the pair is worth writing down. The shark carries no marking at all - grey head, worn blue tribal lines, nothing that says rank. This one has a gold emblem printed across the front of the skull, which is the only insignia anything in the water is wearing. If one of these two gives the orders it is this one, and nothing says so yet.\n\nThey are not in a group together. Two sea creatures on the same deck is a pattern, not an affiliation, and nothing has been said about whether they know each other. Say they are one force and they go in together - it would be the first enemy the Atlantis dive team has ever had a name for."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
