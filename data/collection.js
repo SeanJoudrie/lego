@@ -6810,6 +6810,130 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-minecraft-person",
+    name: "The Minecraft Person",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Minecraft person.",
+    provenance:
+      "A genuine Lego Minecraft figure, which means his head is a cube and his " +
+      "face is pixels. He is not built to the same standard as everybody else " +
+      "here.",
+    tags: ["minecraft", "blocky", "pixel", "visitor", "other-world"],
+    images: ["images/the-minecraft-person-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. By your own cosmology - every Lego world is its own world, and figures can visit - he is the clearest visitor in the collection, because the difference is physical: his body is made to a different pattern. The Ancient, the Salvager, the Defector and the Red Spartan are the others who are shaped wrong for this world, and every one of them came from somewhere else."
+  },
+
+
+  {
+    id: "the-bodybuilder",
+    name: "The Bodybuilder",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A bodybuilder.",
+    provenance: "Bare printed torso and gym shorts.",
+    tags: ["bodybuilder", "athlete", "gym", "muscles", "background"],
+    images: ["images/the-bodybuilder-01.jpg"],
+    acquired: "",
+    notes: "Background figure. Tenth athlete."
+  },
+
+
+  {
+    id: "the-yellow-spaceman",
+    name: "The Yellow Spaceman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Spaceman",
+    group: "Classic Space",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A yellow spaceman.",
+    provenance:
+      "Yellow throughout, no helmet, and the oldest face in the collection - " +
+      "two plain dots and a line. The planet-and-rocket badge is worn nearly off.",
+    tags: ["spaceman", "classic-space", "yellow", "vintage", "worn"],
+    images: ["images/the-yellow-spaceman-01.jpg"],
+    acquired: "",
+    notes: "Third in Classic Space, which settles the group: blue, red and now yellow, same badge, same service. Probably the oldest Lego figure here after the Ancient, who is not Lego at all."
+  },
+
+
+  {
+    id: "the-retired-clone",
+    name: "The Retired Clone",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A clone trooper, damaged and retired from service.\n\n" +
+      "He can still do the military parades.",
+    provenance:
+      "The camouflage is worn most of the way off the helmet and the armor - " +
+      "genuinely scuffed plastic, not printed damage.",
+    tags: ["clone", "trooper", "retired", "damaged", "veteran", "parades"],
+    images: ["images/the-retired-clone-01.jpg"],
+    acquired: "",
+    notes: "Deliberately not put in the Damaged: that group is people out of the world where Lego figures were destroyed and abused, and he is a veteran with wear on him, which is a different thing entirely. No link to Claws either, though Claws commands the clone armies and this man presumably served in them - say so and it goes in."
+  },
+
+
+  {
+    id: "the-porsche-driver",
+    name: "The Porsche Driver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Racing Driver",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Porsche driver.",
+    provenance:
+      "Worth flagging: the suit is printed with the Ferrari shield and the " +
+      "Italian tricolour, not a Porsche badge. Either he has changed teams and " +
+      "kept the overalls, or Porsche is the slip and he is the second Ferrari " +
+      "driver here.",
+    tags: ["racing", "driver", "porsche", "motorsport", "white-suit"],
+    images: ["images/the-porsche-driver-01.jpg"],
+    acquired: "",
+    notes: "Named as you said him. Third Racing Driver, after the Ferrari Driver and the Spaceship Racer. The badge on his chest disagrees with his name, which has happened once before with the Blacktron pilot who is not wearing Blacktron colours - tell me which way round it goes."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

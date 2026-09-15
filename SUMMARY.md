@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-252 characters from a custom LEGO minifigure world, in the order they were
+257 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3021,6 +3021,58 @@ A peasant boy, the shorter of the two.
 *How it was got:* Same patched tunic again, and short legs - the figure is physically smaller, not just described as younger.
 
 *Tags:* medieval, peasant, boy, young, short-legs
+
+### 253. The Minecraft Person
+
+**Alignment:** good · **Figure:** custom
+
+A Minecraft person.
+
+*How it was got:* A genuine Lego Minecraft figure, which means his head is a cube and his face is pixels. He is not built to the same standard as everybody else here.
+
+*Tags:* minecraft, blocky, pixel, visitor, other-world
+
+### 254. The Bodybuilder
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+A bodybuilder.
+
+*How it was got:* Bare printed torso and gym shorts.
+
+*Tags:* bodybuilder, athlete, gym, muscles, background
+
+### 255. The Yellow Spaceman
+
+**Alignment:** good · **Role:** Spaceman · **Figure:** custom
+
+A yellow spaceman.
+
+*How it was got:* Yellow throughout, no helmet, and the oldest face in the collection - two plain dots and a line. The planet-and-rocket badge is worn nearly off.
+
+*Tags:* spaceman, classic-space, yellow, vintage, worn
+
+### 256. The Retired Clone
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A clone trooper, damaged and retired from service.
+
+He can still do the military parades.
+
+*How it was got:* The camouflage is worn most of the way off the helmet and the armor - genuinely scuffed plastic, not printed damage.
+
+*Tags:* clone, trooper, retired, damaged, veteran, parades
+
+### 257. The Porsche Driver
+
+**Alignment:** good · **Role:** Racing Driver · **Figure:** custom
+
+A Porsche driver.
+
+*How it was got:* Worth flagging: the suit is printed with the Ferrari shield and the Italian tricolour, not a Porsche badge. Either he has changed teams and kept the overalls, or Porsche is the slip and he is the second Ferrari driver here.
+
+*Tags:* racing, driver, porsche, motorsport, white-suit
 
 ---
 
