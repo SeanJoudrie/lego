@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-322 characters from a custom LEGO minifigure world, in the order they were
+327 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2764,7 +2764,7 @@ A winter trooper.
 
 *How it was got:* Hoth rebel kit - the tan cold-weather cap with the ear flaps, ammunition pouches and a satchel on the belt. The same rebel line Armstrong and the Deputy's torsos came out of.
 
-*Connections:* Same winter kit The Second Winter Trooper
+*Connections:* Serves under The Winter Trooper Leader
 
 *Tags:* soldier, winter, cold-weather, trooper, hoth, background
 
@@ -2776,7 +2776,7 @@ Another winter trooper.
 
 *How it was got:* The same tan cold-weather cap and kit as the first one, but with grey sleeves instead of tan and a different set of pouches printed on.
 
-*Connections:* Same winter kit The Winter Trooper
+*Connections:* Serves under The Winter Trooper Leader
 
 *Tags:* soldier, winter, cold-weather, trooper, background
 
@@ -3690,17 +3690,15 @@ A construction worker.
 
 *Tags:* construction, worker, sunglasses, hard-hat, hi-vis
 
-### 316. The Atlantis Leader
+### 316. The Leader with the Eyepatch
 
 **Alignment:** good · **Role:** Leader · **Figure:** custom
 
-One of the leaders of the Atlantis dive team.
-
-The name is where they went once, not what they do - the team has been a good deal further than Atlantis.
+One of the leaders of the Atlantis dive team, under the Young Leader.
 
 *How it was got:* Green transparent dome helmet over a grey armoured dive suit, lime arms, a harpoon printed down one leg and a red trident badge on the other. Black eyepatch with the strap across his face.
 
-*Connections:* On his team The Diver with the Thrusters · On his team The Moustached Diver · On his team The Bearded Diver · On his team The Grinning Diver · On his team The Scowling Diver · On his team The Woman in the Dive Suit
+*Connections:* Serves under The Young Leader
 
 *Tags:* atlantis, dive-team, leader, diver, underwater, eyepatch, trident
 
@@ -3712,7 +3710,7 @@ One of the Atlantis dive team.
 
 *How it was got:* Same grey armoured suit and green dome, with twin yellow thruster pods mounted on the back. Red trident badge on the leg.
 
-*Connections:* Serves under The Atlantis Leader
+*Connections:* Serves under The Young Leader
 
 *Tags:* atlantis, dive-team, diver, underwater, thrusters, trident
 
@@ -3724,7 +3722,7 @@ One of the Atlantis dive team.
 
 *How it was got:* Round wire-rimmed glasses behind the green dome and a heavy brown moustache. Same grey pressure suit, lime arms, black hands.
 
-*Connections:* Serves under The Atlantis Leader
+*Connections:* Serves under The Young Leader
 
 *Tags:* atlantis, dive-team, diver, underwater, glasses, moustache, trident
 
@@ -3736,7 +3734,7 @@ One of the Atlantis dive team.
 
 *How it was got:* Round glasses, grey hair and a grey beard, and a smile. The oldest face on the team by a long way.
 
-*Connections:* Serves under The Atlantis Leader
+*Connections:* Serves under The Young Leader
 
 *Tags:* atlantis, dive-team, diver, underwater, glasses, beard, trident
 
@@ -3748,7 +3746,7 @@ One of the Atlantis dive team.
 
 *How it was got:* Clean-shaven, one eyebrow up, grinning. Dark grey claw hands rather than black.
 
-*Connections:* Serves under The Atlantis Leader
+*Connections:* Serves under The Young Leader
 
 *Tags:* atlantis, dive-team, diver, underwater, trident
 
@@ -3760,7 +3758,7 @@ One of the Atlantis dive team.
 
 *How it was got:* Same raised eyebrow as the Grinning Diver but the mouth turned down, and stubble on the chin. Dark grey claw hands.
 
-*Connections:* Serves under The Atlantis Leader
+*Connections:* Serves under The Young Leader
 
 *Tags:* atlantis, dive-team, diver, underwater, trident
 
@@ -3772,9 +3770,71 @@ One of the Atlantis dive team.
 
 *How it was got:* Lashes and red lipstick behind the dome, and the same armoured suit as every other diver.
 
-*Connections:* Serves under The Atlantis Leader
+*Connections:* Serves under The Young Leader
 
 *Tags:* atlantis, dive-team, diver, underwater, trident
+
+### 323. The Diver with the Crooked Smile
+
+**Alignment:** good · **Role:** Diver · **Figure:** custom
+
+One of the Atlantis dive team.
+
+*How it was got:* A small closed-mouth smile pulled to one side. The only diver wearing mismatched hands, one silver and one black.
+
+*Connections:* Serves under The Young Leader
+
+*Tags:* atlantis, dive-team, diver, underwater, trident
+
+### 324. The Beaming Diver
+
+**Alignment:** good · **Role:** Diver · **Figure:** custom
+
+One of the Atlantis dive team.
+
+*How it was got:* Wide open grin with the teeth showing, thick dark eyebrows, black claw hands.
+
+*Connections:* Serves under The Young Leader
+
+*Tags:* atlantis, dive-team, diver, underwater, trident
+
+### 325. The Young Leader
+
+**Alignment:** good · **Role:** Leader · **Figure:** custom
+
+The leader of the Atlantis dive team.
+
+He is twenty-three. He is the youngest person in the collection to run anything, and nobody under him treats that as a problem - he is so relentlessly motivated that the respect came anyway.
+
+The winged helmet looks silly and is not. It is an ancient relic the team dug up, and they asked him to wear it. It is not a rank badge the organisation issued him; it is a thing his own people handed him because they were proud of him.
+
+*How it was got:* Steel helm with two large white wings, out of the dive suit and into a grey breastplate with a horned collar. Lime arms, same as every other diver. Grinning.
+
+*Connections:* One of his leaders The Leader with the Eyepatch · Leads The Diver with the Thrusters · Leads The Moustached Diver · Leads The Bearded Diver · Leads The Grinning Diver · Leads The Scowling Diver · Leads The Woman in the Dive Suit · Leads The Diver with the Crooked Smile · Leads The Beaming Diver
+
+*Tags:* atlantis, dive-team, leader, young, relic, winged-helm, motivated
+
+### 326. The Winter Trooper Leader
+
+**Alignment:** good · **Role:** Leader · **Figure:** custom
+
+He leads the two winter troopers.
+
+*How it was got:* White cold-weather helmet with the goggles pushed up on the brim, a grey moustache and beard, and a white and tan field jacket with ammo pouches and a belt pack.
+
+*Connections:* Commands The Winter Trooper · Commands The Second Winter Trooper
+
+*Tags:* soldier, winter, cold-weather, trooper, leader, veteran
+
+### 327. The Girl in the Guinea Pig Costume
+
+**Alignment:** good · **Role:** Civilian · **Based:** Lego City · **Figure:** custom
+
+A civilian girl in a costume.
+
+*How it was got:* Full brown guinea pig suit with the head as a hood and her freckled face showing through the mouth, white belly patch, pink paws, and roller skates whose wheels are cucumber slices.
+
+*Tags:* civilian, costume, guinea-pig, roller-skates, lego-city
 
 ---
 

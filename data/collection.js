@@ -6244,10 +6244,10 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Soldier",
-    group: "",
+    group: "The Winter Troopers",
     location: "",
     relations: [
-      { to: "the-second-winter-trooper", label: "Same winter kit" },
+      { to: "the-winter-trooper-leader", label: "Serves under" },
     ],
     rating: 0,
     background: "A winter trooper.",
@@ -6272,10 +6272,10 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Soldier",
-    group: "",
+    group: "The Winter Troopers",
     location: "",
     relations: [
-      { to: "the-winter-trooper", label: "Same winter kit" },
+      { to: "the-winter-trooper-leader", label: "Serves under" },
     ],
     rating: 0,
     background: "Another winter trooper.",
@@ -8360,7 +8360,7 @@ window.COLLECTION = [
 
   {
     id: "the-atlantis-leader",
-    name: "The Atlantis Leader",
+    name: "The Leader with the Eyepatch",
     variant: "",
     faction: "good",
     origin: "custom",
@@ -8370,18 +8370,11 @@ window.COLLECTION = [
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
-      { to: "the-atlantis-diver", label: "On his team" },
-      { to: "the-moustached-diver", label: "On his team" },
-      { to: "the-bearded-diver", label: "On his team" },
-      { to: "the-grinning-diver", label: "On his team" },
-      { to: "the-scowling-diver", label: "On his team" },
-      { to: "the-woman-in-the-dive-suit", label: "On his team" },
+      { to: "the-young-leader", label: "Serves under" },
     ],
     rating: 0,
     background:
-      "One of the leaders of the Atlantis dive team.\n\n" +
-      "The name is where they went once, not what they do - the team has been " +
-      "a good deal further than Atlantis.",
+      "One of the leaders of the Atlantis dive team, under the Young Leader.",
     provenance:
       "Green transparent dome helmet over a grey armoured dive suit, lime " +
       "arms, a harpoon printed down one leg and a red trident badge on the " +
@@ -8389,7 +8382,7 @@ window.COLLECTION = [
     tags: ["atlantis", "dive-team", "leader", "diver", "underwater", "eyepatch", "trident"],
     images: ["images/the-atlantis-leader-01.jpg"],
     acquired: "",
-    notes: "You said the one with the eyepatch is one of their leaders - one of, so there are others still to come. Worth checking: the other diver may have an eyepatch too, half hidden behind the green dome, in which case tell me which of the two you meant."
+    notes: "Renamed from The Atlantis Leader once the actual leader turned up - you called him one of their leaders, and the Young Leader is the leader. Still worth checking whether the Diver with the Thrusters has an eyepatch too, half hidden behind the green dome."
   },
 
 
@@ -8405,7 +8398,7 @@ window.COLLECTION = [
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
-      { to: "the-atlantis-leader", label: "Serves under" },
+      { to: "the-young-leader", label: "Serves under" },
     ],
     rating: 0,
     background: "One of the Atlantis dive team.",
@@ -8431,7 +8424,7 @@ window.COLLECTION = [
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
-      { to: "the-atlantis-leader", label: "Serves under" },
+      { to: "the-young-leader", label: "Serves under" },
     ],
     rating: 0,
     background: "One of the Atlantis dive team.",
@@ -8457,7 +8450,7 @@ window.COLLECTION = [
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
-      { to: "the-atlantis-leader", label: "Serves under" },
+      { to: "the-young-leader", label: "Serves under" },
     ],
     rating: 0,
     background: "One of the Atlantis dive team.",
@@ -8483,7 +8476,7 @@ window.COLLECTION = [
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
-      { to: "the-atlantis-leader", label: "Serves under" },
+      { to: "the-young-leader", label: "Serves under" },
     ],
     rating: 0,
     background: "One of the Atlantis dive team.",
@@ -8507,7 +8500,7 @@ window.COLLECTION = [
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
-      { to: "the-atlantis-leader", label: "Serves under" },
+      { to: "the-young-leader", label: "Serves under" },
     ],
     rating: 0,
     background: "One of the Atlantis dive team.",
@@ -8533,7 +8526,7 @@ window.COLLECTION = [
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
-      { to: "the-atlantis-leader", label: "Serves under" },
+      { to: "the-young-leader", label: "Serves under" },
     ],
     rating: 0,
     background: "One of the Atlantis dive team.",
@@ -8542,6 +8535,152 @@ window.COLLECTION = [
     images: ["images/the-woman-in-the-dive-suit-01.jpg"],
     acquired: "",
     notes: "Name is purely descriptive, and kept clear of the Dive Team, who are a different outfit. The only woman on the Atlantis team so far, and she is in exactly the same kit as the men - no separate uniform for her, which is not true everywhere in this world."
+  },
+
+
+  {
+    id: "the-diver-with-the-crooked-smile",
+    name: "The Diver with the Crooked Smile",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-young-leader", label: "Serves under" },
+    ],
+    rating: 0,
+    background: "One of the Atlantis dive team.",
+    provenance:
+      "A small closed-mouth smile pulled to one side. The only diver wearing " +
+      "mismatched hands, one silver and one black.",
+    tags: ["atlantis", "dive-team", "diver", "underwater", "trident"],
+    images: ["images/the-diver-with-the-crooked-smile-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. The odd hands are probably just how he was put together, but he is the only one, so it is written down."
+  },
+
+
+  {
+    id: "the-beaming-diver",
+    name: "The Beaming Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-young-leader", label: "Serves under" },
+    ],
+    rating: 0,
+    background: "One of the Atlantis dive team.",
+    provenance: "Wide open grin with the teeth showing, thick dark eyebrows, black claw hands.",
+    tags: ["atlantis", "dive-team", "diver", "underwater", "trident"],
+    images: ["images/the-beaming-diver-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, and kept clear of the Grinning Diver, whose mouth is closed."
+  },
+
+
+  {
+    id: "the-young-leader",
+    name: "The Young Leader",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Leader",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-atlantis-leader", label: "One of his leaders" },
+      { to: "the-atlantis-diver", label: "Leads" },
+      { to: "the-moustached-diver", label: "Leads" },
+      { to: "the-bearded-diver", label: "Leads" },
+      { to: "the-grinning-diver", label: "Leads" },
+      { to: "the-scowling-diver", label: "Leads" },
+      { to: "the-woman-in-the-dive-suit", label: "Leads" },
+      { to: "the-diver-with-the-crooked-smile", label: "Leads" },
+      { to: "the-beaming-diver", label: "Leads" },
+    ],
+    rating: 0,
+    background:
+      "The leader of the Atlantis dive team.\n\n" +
+      "He is twenty-three. He is the youngest person in the collection to run " +
+      "anything, and nobody under him treats that as a problem - he is so " +
+      "relentlessly motivated that the respect came anyway.\n\n" +
+      "The winged helmet looks silly and is not. It is an ancient relic the " +
+      "team dug up, and they asked him to wear it. It is not a rank badge the " +
+      "organisation issued him; it is a thing his own people handed him " +
+      "because they were proud of him.",
+    provenance:
+      "Steel helm with two large white wings, out of the dive suit and into " +
+      "a grey breastplate with a horned collar. Lime arms, same as every " +
+      "other diver. Grinning.",
+    tags: ["atlantis", "dive-team", "leader", "young", "relic", "winged-helm", "motivated"],
+    images: ["images/the-young-leader-01.jpg"],
+    acquired: "",
+    notes: "The grin is on his face nearly always, and it is an age thing rather than a mood. Worth noting how rare this is here: almost every leader in this collection got the job through rank, bloodline or outliving the last one. He got it by being wanted in it, and the relic was given, not awarded."
+  },
+
+
+  {
+    id: "the-winter-trooper-leader",
+    name: "The Winter Trooper Leader",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Leader",
+    group: "The Winter Troopers",
+    location: "",
+    relations: [
+      { to: "the-winter-trooper", label: "Commands" },
+      { to: "the-second-winter-trooper", label: "Commands" },
+    ],
+    rating: 0,
+    background: "He leads the two winter troopers.",
+    provenance:
+      "White cold-weather helmet with the goggles pushed up on the brim, a " +
+      "grey moustache and beard, and a white and tan field jacket with ammo " +
+      "pouches and a belt pack.",
+    tags: ["soldier", "winter", "cold-weather", "trooper", "leader", "veteran"],
+    images: ["images/the-winter-trooper-leader-01.jpg"],
+    acquired: "",
+    notes: "His arrival turns the two winter troopers from loose figures into a unit - they are now a group of three. He is also visibly the oldest of them, which the other two are not."
+  },
+
+
+  {
+    id: "the-girl-in-the-guinea-pig-costume",
+    name: "The Girl in the Guinea Pig Costume",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "A civilian girl in a costume.",
+    provenance:
+      "Full brown guinea pig suit with the head as a hood and her freckled " +
+      "face showing through the mouth, white belly patch, pink paws, and " +
+      "roller skates whose wheels are cucumber slices.",
+    tags: ["civilian", "costume", "guinea-pig", "roller-skates", "lego-city"],
+    images: ["images/the-girl-in-the-guinea-pig-costume-01.jpg"],
+    acquired: "",
+    notes: "Third person here in a full costume, after the Guy in the Pizza Costume and the man who sells bricks at the Lego store in a brick suit. Filed in Lego City by default - say the word if she belongs somewhere else."
   },
 
 
