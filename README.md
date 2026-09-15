@@ -227,3 +227,16 @@ kept separate from the catalogue on purpose: machine guesses don't belong in
 Everything is plain text and plain images in a git repo. It opens on any
 machine with a browser, it's searchable with `grep`, it survives without any
 software staying alive around it, and every change is backed up in git history.
+
+## Deploying
+
+After changing `data/collection.js` or `data/lore.js`, run:
+
+    cd tools && node make-summary.js > ../SUMMARY.md && node stamp.js
+
+`stamp.js` rewrites the two data script tags in `index.html` with the data
+files' timestamp. Github Pages serves those files with a ten-minute cache and
+phones hold them a good deal longer, so without the stamp a browser that has
+been to the site recently keeps showing the old figure count after a deploy.
+The query string works over `file://` as well, so the catalogue still opens
+straight off disk.
