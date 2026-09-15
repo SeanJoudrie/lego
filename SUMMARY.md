@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-505 characters from a custom LEGO minifigure world, in the order they were
+509 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -231,6 +231,16 @@ This matters more than it looks, because a uniform is how this catalogue has bee
 
 The sharpest case is the woman. She is in the exact suit the Blue Space Captain wears, down to the badge, and he is among the lost as well. Nobody has said she took it off him. Nobody has said she did not.
 
+### Quinn took Claws
+
+Quinn is the villain this world keeps coming back to without ever showing. The first Quinn uprising destroyed half the city and left every one of the strongest heroes beaten, destroyed or killed, and it ended because a jogger in a red hoodie got hold of a rifle and shot him through the lung. That man was knighted for it. Quinn went into captivity.
+
+Now there is a second thing on his account, and a photograph of it. Quinn captured Claws - Commander of all the clone armies, the man who saved the entire civilization once and came out of it with his face bruised and bloody - and put him in a stasis chamber. The picture shows him standing frosted inside a lit blue tube with two figures in the dark outside it.
+
+It is the first photograph in this whole catalogue of something happening rather than of somebody standing still. Five hundred and nine entries of people, and one of an event.
+
+Quinn still has no card. Two people now carry a written link to him - the Knighted Civilian who brought him down, and Claws whom he took - and both of those links are pointed at an id that does not exist yet. They connect themselves the day he is photographed.
+
 ---
 
 ## The characters
@@ -434,6 +444,8 @@ He was just a normal clone trooper. He actually refused any medals or decoration
 After that he was given all kinds of royal awards, and he reluctantly accepted his position. He's still capable of fighting, but he's no longer the super mega assassin soldier he once was. He's in charge of all the clone armies now, and that's why he's decorated like that — so everyone knows.
 
 Really cool guy.
+
+Quinn captured him and put him in a stasis chamber. There is a photograph of it.
 
 *How it was got:* There is not a single piece on him that comes from the same figure. The only matching pair is the arms, because arms come in twos.
 
@@ -5755,6 +5767,48 @@ An evil space captain. The uniform he is wearing is not his - he stole it. Lost,
 It is a rebel pilot's kit. There are nine Rebel Pilots in this collection and he is not one of them.
 
 *Tags:* captain, space, villain, stolen-uniform, flight-helmet, beard, lost, deceased
+
+### 506. The Space Criminal
+
+**Alignment:** good · **Role:** Criminal · **Figure:** custom
+
+A space criminal. Lost, and dead.
+
+*How it was got:* Tan hair swept back in a heavy wave. Yellow face stubbled across the jaw, one brow up, a wide bared-teeth grin - one of the most openly pleased-with-itself faces in the collection. White waistcoat over a purple shirt, a patterned yellow cravat at the throat with a round medallion on it, purple sleeves, dark blue jeans. A black blaster in one hand.
+
+*Tags:* criminal, space, crook, grin, blaster, lost, deceased
+
+### 507. The Bribed Royal Enforcer
+
+**Alignment:** good · **Role:** Enforcer · **Figure:** custom
+
+A royal enforcer who took a bribe. Lost, and dead.
+
+*How it was got:* Blue helmet with a clear visor pulled down over a frowning yellow face and a padded hood. Blue service parka, zip up the front, twin yellow-and-black belt buckles, and the badge at the chest of a submarine inside a targeting reticle. Black legs printed with pale blue panels. A black weapon with a red translucent tip.
+
+*Tags:* enforcer, royal, bribed, corruption, visor, lost, deceased
+
+### 508. The Bearded Spaceman
+
+**Alignment:** good · **Role:** Spaceman · **Figure:** custom
+
+A blue spaceman. Lost, and dead.
+
+*How it was got:* The classic Lego Space suit, blue from collar to boots, with the planet-and-rocket badge on the chest. No helmet: long dark brown hair swept back and a full black beard, heavy brows, a flat mouth. Dust worn into the plastic at the shoulders and knees.
+
+*Tags:* spaceman, classic-space, blue, beard, vintage, lost, deceased
+
+### 509. The Masked Bounty Hunter
+
+**Alignment:** good · **Role:** Bounty Hunter · **Figure:** custom
+
+A masked bounty hunter. Lost, and dead.
+
+*How it was got:* A blue hood drawn over the whole head with two slit eyes burning red through it - no face at all behind the mask. A gold and tan tunic printed in a dense repeating pattern, blue arms, dark brown below the belt.
+
+The frame is badly blurred and this is as much as it gives.
+
+*Tags:* bounty-hunter, masked, red-eyes, hood, lost, deceased
 
 ---
 

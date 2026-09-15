@@ -496,6 +496,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-clone-pilot", label: "Lost him to the space militia" },
+      { to: "quinn", label: "Captured by" },
     ],
     rating: 0,
     background:
@@ -510,7 +511,9 @@ window.COLLECTION = [
       "longer the super mega assassin soldier he once was. He's in charge of " +
       "all the clone armies now, and that's why he's decorated like that — so " +
       "everyone knows.\n\n" +
-      "Really cool guy.",
+      "Really cool guy.\n\n" +
+      "Quinn captured him and put him in a stasis chamber. There is a " +
+      "photograph of it.",
     provenance:
       "There is not a single piece on him that comes from the same figure. The " +
       "only matching pair is the arms, because arms come in twos.\n\n" +
@@ -525,9 +528,12 @@ window.COLLECTION = [
       "The blue wrap around him — Bionicle\n" +
       "Accessories — Halo",
     tags: ["clone", "energy-sword", "decorated", "veteran", "commander", "kitbash"],
-    images: ["images/claws-01.jpg"],
+    images: [
+      { src: "images/claws-01.jpg", caption: "Claws" },
+      { src: "images/claws-02.jpg", caption: "In the stasis chamber, after Quinn took him" },
+    ],
     acquired: "",
-    notes: "The most heavily kitbashed figure in the collection - nine different sources in one minifigure. Filed as custom, which in his case is not even a judgement call."
+    notes: "The most heavily kitbashed figure in the collection - nine different sources in one minifigure. Filed as custom, which in his case is not even a judgement call. The second photograph is the first picture of an event anywhere in this catalogue rather than a picture of a person: he is the frosted figure standing inside the lit tube, with two others in the dark outside it. The link to Quinn is written although Quinn still has no entry, the same way the Knighted Civilian\'s is - unknown ids are skipped, so both light up the moment Quinn is photographed."
   },
 
   {
@@ -6568,7 +6574,7 @@ window.COLLECTION = [
     tags: ["robot", "radar", "lasers", "hacked", "possessed", "awake", "restored"],
     images: ["images/the-hijacked-01.jpg"],
     acquired: "",
-    notes: "Named for what was done to him, the way the Discarded, the Damaged, the Displaced and the Rebuilt are. Seventh robot here, and the second whose body was driven by somebody else - except the Vessel lends his out to demigods on purpose, and this one was awake for it. Only the second thing villains are recorded as actually doing, after Quinn's uprising, and it is a quieter and worse one."
+    notes: "Named for what was done to him, the way the Discarded, the Damaged, the Displaced and the Rebuilt are. Seventh robot here, and the second whose body was driven by somebody else - except the Vessel lends his out to demigods on purpose, and this one was awake for it. One of the few things villains are recorded as actually doing, alongside Quinn's uprising and Quinn's taking of Claws, and it is the quietest and worst of them."
   },
 
 
@@ -13475,7 +13481,7 @@ window.COLLECTION = [
     tags: ["thug", "pirate", "stolen-uniform", "respirator", "blue", "lost", "deceased"],
     images: ["images/the-blue-pirate-thug-01.jpg"],
     acquired: "",
-    notes: "One of three you sent in stolen uniforms. Kept good rather than bad, the way the Outlaw is - a mercenary who would rob any of the good guys blind and would never hurt one - because you called him a thug, not evil. The badge is a submarine in a gunsight, which is a navy marking, and the only underwater service in this world is Aqua Force; if that is who he robbed, say so."
+    notes: "One of three you sent in stolen uniforms. Kept good rather than bad, the way the Outlaw is - a mercenary who would rob any of the good guys blind and would never hurt one - because you called him a thug, not evil. The badge is a submarine in a gunsight, and this card first guessed Aqua Force for it. That was wrong: the Bribed Royal Enforcer arrived in the identical parka, buckles and badge, so what the Thug is wearing is a royal enforcer's kit."
   },
 
 
@@ -13535,6 +13541,116 @@ window.COLLECTION = [
     images: ["images/the-evil-space-captain-01.jpg"],
     acquired: "",
     notes: "Third bad figure in five hundred and five, after the two units of Enemy Soldiers, and the first villain here who is a person rather than a nameless squad. Marked bad because you called him evil outright; one word flips it. You said the villains come once the good people are done, so he is not that batch - he arrived because he is dead, not because he is bad."
+  },
+
+
+
+  {
+    id: "the-space-criminal",
+    name: "The Space Criminal",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Criminal",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A space criminal. Lost, and dead.",
+    provenance:
+      "Tan hair swept back in a heavy wave. Yellow face stubbled across the " +
+      "jaw, one brow up, a wide bared-teeth grin - one of the most openly " +
+      "pleased-with-itself faces in the collection. White waistcoat over a " +
+      "purple shirt, a patterned yellow cravat at the throat with a round " +
+      "medallion on it, purple sleeves, dark blue jeans. A black blaster in " +
+      "one hand.",
+    tags: ["criminal", "space", "crook", "grin", "blaster", "lost", "deceased"],
+    images: ["images/the-space-criminal-01.jpg"],
+    acquired: "",
+    notes: "Kept good rather than bad, the way the Outlaw and the Blue Pirate Thug are - this world files its rogues on the good side unless you say the word evil, and you did not. He is dressed better than anybody in the lost block: waistcoat, cravat and a medallion, while the soldiers around him are in armour."
+  },
+
+
+  {
+    id: "the-bribed-royal-enforcer",
+    name: "The Bribed Royal Enforcer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Enforcer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A royal enforcer who took a bribe. Lost, and dead.",
+    provenance:
+      "Blue helmet with a clear visor pulled down over a frowning yellow face " +
+      "and a padded hood. Blue service parka, zip up the front, twin " +
+      "yellow-and-black belt buckles, and the badge at the chest of a " +
+      "submarine inside a targeting reticle. Black legs printed with pale " +
+      "blue panels. A black weapon with a red translucent tip.",
+    tags: ["enforcer", "royal", "bribed", "corruption", "visor", "lost", "deceased"],
+    images: ["images/the-bribed-royal-enforcer-01.jpg"],
+    acquired: "",
+    notes: "The first bribe recorded anywhere in this collection - five hundred and nine people and nobody until now has been bought. It matters that he is an enforcer: this world has no corrupt soldiers, no crooked police, and the one man who took money is the one whose job was making people obey. He wears the same parka and the same submarine badge as the Blue Pirate Thug, whose uniform is stolen - so the Thug robbed an enforcer, not Aqua Force as that card guessed. No group written: the Enforcer Squad wear white armour and black visor bands, nothing like this, so whether a royal enforcer is one of them is an open question."
+  },
+
+
+  {
+    id: "the-bearded-spaceman",
+    name: "The Bearded Spaceman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Spaceman",
+    group: "Classic Space",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A blue spaceman. Lost, and dead.",
+    provenance:
+      "The classic Lego Space suit, blue from collar to boots, with the " +
+      "planet-and-rocket badge on the chest. No helmet: long dark brown hair " +
+      "swept back and a full black beard, heavy brows, a flat mouth. Dust " +
+      "worn into the plastic at the shoulders and knees.",
+    tags: ["spaceman", "classic-space", "blue", "beard", "vintage", "lost", "deceased"],
+    images: ["images/the-bearded-spaceman-01.jpg"],
+    acquired: "",
+    notes: "Named apart from the Blue Spaceman only because that name is taken - you called them both blue spacemen. Fourth in Classic Space and the only one of the four out of his helmet, which makes him the only face that badge has. First loss among the oldest designs in the collection."
+  },
+
+
+  {
+    id: "the-masked-bounty-hunter",
+    name: "The Masked Bounty Hunter",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A masked bounty hunter. Lost, and dead.",
+    provenance:
+      "A blue hood drawn over the whole head with two slit eyes burning red " +
+      "through it - no face at all behind the mask. A gold and tan tunic " +
+      "printed in a dense repeating pattern, blue arms, dark brown below the " +
+      "belt.\n\n" +
+      "The frame is badly blurred and this is as much as it gives.",
+    tags: ["bounty-hunter", "masked", "red-eyes", "hood", "lost", "deceased"],
+    images: ["images/the-masked-bounty-hunter-01.jpg"],
+    acquired: "",
+    notes: "Fourth bounty hunter of this world's own after Kaz, the Golden Sniper and the Ninja Robot, and the first one dead. The red eyes are the thing: every other masked figure here has a visor or a respirator over an ordinary face, and there is nothing behind this one."
   },
 
 

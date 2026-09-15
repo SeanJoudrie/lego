@@ -391,6 +391,30 @@ window.LORE = [
       "The sharpest case is the woman. She is in the exact suit the Blue Space " +
       "Captain wears, down to the badge, and he is among the lost as well. " +
       "Nobody has said she took it off him. Nobody has said she did not."
+  },
+
+  {
+    title: "Quinn took Claws",
+    text:
+      "Quinn is the villain this world keeps coming back to without ever " +
+      "showing. The first Quinn uprising destroyed half the city and left " +
+      "every one of the strongest heroes beaten, destroyed or killed, and it " +
+      "ended because a jogger in a red hoodie got hold of a rifle and shot him " +
+      "through the lung. That man was knighted for it. Quinn went into " +
+      "captivity.\n\n" +
+      "Now there is a second thing on his account, and a photograph of it. " +
+      "Quinn captured Claws - Commander of all the clone armies, the man who " +
+      "saved the entire civilization once and came out of it with his face " +
+      "bruised and bloody - and put him in a stasis chamber. The picture shows " +
+      "him standing frosted inside a lit blue tube with two figures in the " +
+      "dark outside it.\n\n" +
+      "It is the first photograph in this whole catalogue of something " +
+      "happening rather than of somebody standing still. Five hundred and " +
+      "nine entries of people, and one of an event.\n\n" +
+      "Quinn still has no card. Two people now carry a written link to him - " +
+      "the Knighted Civilian who brought him down, and Claws whom he took - " +
+      "and both of those links are pointed at an id that does not exist yet. " +
+      "They connect themselves the day he is photographed."
   }
 
 ];
