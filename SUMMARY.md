@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-247 characters from a custom LEGO minifigure world, in the order they were
+252 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2967,6 +2967,60 @@ A sleepy pirate.
 *How it was got:* Tricorn hat, and a face caught mid-yawn with both eyes shut.
 
 *Tags:* pirate, sleepy, yawn, tricorn
+
+### 248. The Potato Farmer
+
+**Alignment:** good · **Role:** Farmer · **Based:** The Medieval Era · **Figure:** custom
+
+An old potato farmer. He looks like a pauper and he is not one - he lives in what amounts to a mansion, by the standards of the age.
+
+He has a resting sad face. He is actually pretty happy.
+
+*How it was got:* The plastic does the first half of the joke: the face really is printed downturned and miserable, and the tunic really is patched.
+
+*Tags:* medieval, farmer, potatoes, wealthy, resting-sad-face, happy
+
+### 249. The Blacksmith
+
+**Alignment:** good · **Role:** Blacksmith · **Based:** The Medieval Era · **Figure:** custom
+
+The blacksmith.
+
+*How it was got:* Black leather apron under a hood, and black gloves.
+
+*Tags:* medieval, blacksmith, smith, forge, apron
+
+### 250. The Maiden
+
+**Alignment:** good · **Role:** Peasant · **Based:** The Medieval Era · **Figure:** custom
+
+A maiden.
+
+*How it was got:* Laced bodice, white apron, and a long skirt instead of legs.
+
+*Tags:* medieval, maiden, woman, apron, peasant
+
+### 251. The Older Peasant Boy
+
+**Alignment:** good · **Role:** Peasant · **Based:** The Medieval Era · **Figure:** custom
+
+A peasant boy, the taller of the two.
+
+He wants to be a knight someday.
+
+*How it was got:* The same patched tunic the potato farmer wears, with grey legs.
+
+*Tags:* medieval, peasant, boy, knight, ambition
+
+### 252. The Younger Peasant Boy
+
+**Alignment:** good · **Role:** Peasant · **Based:** The Medieval Era · **Figure:** custom
+
+A peasant boy, the shorter of the two.
+
+*How it was got:* Same patched tunic again, and short legs - the figure is physically smaller, not just described as younger.
+
+*Tags:* medieval, peasant, boy, young, short-legs
 
 ---
 

@@ -6690,6 +6690,126 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-potato-farmer",
+    name: "The Potato Farmer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Farmer",
+    group: "The Medieval Era",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background:
+      "An old potato farmer. He looks like a pauper and he is not one - he " +
+      "lives in what amounts to a mansion, by the standards of the age.\n\n" +
+      "He has a resting sad face. He is actually pretty happy.",
+    provenance:
+      "The plastic does the first half of the joke: the face really is printed " +
+      "downturned and miserable, and the tunic really is patched.",
+    tags: ["medieval", "farmer", "potatoes", "wealthy", "resting-sad-face", "happy"],
+    images: ["images/the-potato-farmer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Fourth farmer here. Two things about him are the opposite of how he looks, which is a rare trick in a collection where the figure usually tells you the truth."
+  },
+
+
+  {
+    id: "the-blacksmith",
+    name: "The Blacksmith",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Blacksmith",
+    group: "The Medieval Era",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "The blacksmith.",
+    provenance: "Black leather apron under a hood, and black gloves.",
+    tags: ["medieval", "blacksmith", "smith", "forge", "apron"],
+    images: ["images/the-blacksmith-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. No link to the Armorer of the Gunless Realm - both work metal, but nobody has said the two places are the same place."
+  },
+
+
+  {
+    id: "the-maiden",
+    name: "The Maiden",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Peasant",
+    group: "The Medieval Era",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "A maiden.",
+    provenance: "Laced bodice, white apron, and a long skirt instead of legs.",
+    tags: ["medieval", "maiden", "woman", "apron", "peasant"],
+    images: ["images/the-maiden-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, taken from your word for her. Filed Peasant because you said the era is mostly peasants - say if she is something more particular."
+  },
+
+
+  {
+    id: "the-older-peasant-boy",
+    name: "The Older Peasant Boy",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Peasant",
+    group: "The Medieval Era",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background:
+      "A peasant boy, the taller of the two.\n\n" +
+      "He wants to be a knight someday.",
+    provenance: "The same patched tunic the potato farmer wears, with grey legs.",
+    tags: ["medieval", "peasant", "boy", "knight", "ambition"],
+    images: ["images/the-older-peasant-boy-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. No link written to the younger one - they arrived together and dress alike, but nobody has said they are brothers. He is the fifth person here defined by a trade he has not got yet, after the Law Student, the Intern, the Graduate and the Prince's Cousin."
+  },
+
+
+  {
+    id: "the-younger-peasant-boy",
+    name: "The Younger Peasant Boy",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Peasant",
+    group: "The Medieval Era",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "A peasant boy, the shorter of the two.",
+    provenance:
+      "Same patched tunic again, and short legs - the figure is physically " +
+      "smaller, not just described as younger.",
+    tags: ["medieval", "peasant", "boy", "young", "short-legs"],
+    images: ["images/the-younger-peasant-boy-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The age difference is built rather than written: he is on short legs and the other one is not."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
