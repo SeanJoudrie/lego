@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-509 characters from a custom LEGO minifigure world, in the order they were
+511 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5809,6 +5809,26 @@ A masked bounty hunter. Lost, and dead.
 The frame is badly blurred and this is as much as it gives.
 
 *Tags:* bounty-hunter, masked, red-eyes, hood, lost, deceased
+
+### 510. The Crimson Ninja
+
+**Alignment:** bad · **Role:** Ninja · **Figure:** custom
+
+An evil ninja, in crimson. The figure has not been photographed yet - this card is holding his concept art until he turns up.
+
+*How it was got:* From the art: a wide woven straw hat with a long red feather through the crown, a pale mask with a red domino worked across the eyes, and no face behind it. White and crimson lamellar over full sleeves, a red sash at the waist, white gloves, and a red cloak streaming off one shoulder. A katana held level in both hands.
+
+*Tags:* ninja, villain, crimson, masked, concept-art, no-photograph
+
+### 511. The Nightwatch Captain
+
+**Alignment:** good · **Role:** Nightwatch Captain · **Based:** Lego City · **Figure:** custom
+
+He covers all the night work in Lego City. Everything that happens after dark is his.
+
+*How it was got:* Blue helmet under a broad gold brim. Dark beard and moustache across a pale face. Black tunic with gold frogging up the front, a red crest at the breast and two gold rank bars at the waist, blue arms, black hands and black legs.
+
+*Tags:* police, nightwatch, captain, night, lego-city, gold-braid
 
 ---
 

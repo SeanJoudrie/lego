@@ -2519,9 +2519,12 @@ window.COLLECTION = [
       "been through a great many jungle adventures together.",
     provenance: "",
     tags: ["adventurer", "scrap-pieces", "jungle", "friends"],
-    images: ["images/the-scrap-adventurer-01.jpg"],
+    images: [
+      { src: "images/the-scrap-adventurer-01.jpg", caption: "The figure" },
+      { src: "images/the-scrap-adventurer-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "Placeholder name. More detail to come - there's concept art of these two."
+    notes: "Placeholder name. The concept art is here at last - this card and the Ginger Adventurer's have both been promising it since the day they were catalogued. Blue mirrored aviators, a sword on the back and scale armour buckled over a dozen straps: the scrap reads as salvaged plate rather than as spare parts, which is a different thing from what the name suggests."
   },
 
   {
@@ -2546,9 +2549,12 @@ window.COLLECTION = [
       "many jungle adventures between the two of them.",
     provenance: "",
     tags: ["adventurer", "jungle", "friends"],
-    images: ["images/the-ginger-adventurer-01.jpg"],
+    images: [
+      { src: "images/the-ginger-adventurer-01.jpg", caption: "The figure" },
+      { src: "images/the-ginger-adventurer-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "More detail to come - there's concept art of these two."
+    notes: "The concept art, finally. Pith helmet, a full ginger beard, a blue neckerchief and a notebook open in both hands - and a six-pointed star pinned to the vest, which is the first time anything has suggested this man holds an office as well as going on expeditions. Nobody has said what the badge is."
   },
 
   {
@@ -2605,9 +2611,12 @@ window.COLLECTION = [
       "still very young.",
     provenance: "",
     tags: ["watch-command", "young", "warm", "friendly", "adventurer"],
-    images: ["images/the-young-watchman-01.jpg"],
+    images: [
+      { src: "images/the-young-watchman-01.jpg", caption: "The figure" },
+      { src: "images/the-young-watchman-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "Placeholder name."
+    notes: "Placeholder name. The concept art bears his card out exactly - young, open-faced, warm rather than brooding - and dresses him for the cold: a fur-lined parka over a white tactical vest, snow behind him. The figure is a white spacesuit with air tanks, so the art is the first thing to say where he actually works."
   },
 
   {
@@ -10541,7 +10550,10 @@ window.COLLECTION = [
       "two buckled belts, mismatched arms - one black, one black and cream " +
       "with a pauldron - and black legs.",
     tags: ["dwarf", "soldier", "beard", "small-folk"],
-    images: ["images/the-dwarf-soldier-01.jpg"],
+    images: [
+      { src: "images/the-dwarf-soldier-01.jpg", caption: "The figure" },
+      { src: "images/the-dwarves-adventure-01.jpg", caption: "Out in the grass with the Dwarf Archer" },
+    ],
     acquired: "",
     notes: "His arrival makes three dwarves, so they are a group now - him, the Dwarf King and the Dwarf Librarian, who were both sitting loose until today. The same thing happened to the Winter Troopers and the Enforcer Squad: two of a kind are not an organisation, three are."
   },
@@ -10567,9 +10579,12 @@ window.COLLECTION = [
       "claws, a quiver strap across the chest and pouches at the waist. Dark " +
       "green legs, stubbled chin, open grin.",
     tags: ["dwarf", "archer", "hunter", "antlers", "small-folk"],
-    images: ["images/the-dwarf-archer-01.jpg"],
+    images: [
+      { src: "images/the-dwarf-archer-01.jpg", caption: "The figure" },
+      { src: "images/the-dwarves-adventure-01.jpg", caption: "Out in the grass with the Dwarf Soldier" },
+    ],
     acquired: "",
-    notes: "Fourth dwarf, a day after they became a group at all. He is the only one of them dressed for the woods rather than for a hall - the King, the Librarian and the Soldier are all indoor or battlefield people, and he is out hunting."
+    notes: "Fourth dwarf, a day after they became a group at all. He is the only one of them dressed for the woods rather than for a hall - the King, the Librarian and the Soldier are all indoor or battlefield people, and he is out hunting. The second photograph puts him out there with the Soldier, torches lit, undergrowth over their heads - the second picture of an event in this catalogue after Claws in the stasis chamber, and the first of one that is simply people doing something."
   },
 
 
@@ -13651,6 +13666,66 @@ window.COLLECTION = [
     images: ["images/the-masked-bounty-hunter-01.jpg"],
     acquired: "",
     notes: "Fourth bounty hunter of this world's own after Kaz, the Golden Sniper and the Ninja Robot, and the first one dead. The red eyes are the thing: every other masked figure here has a visor or a respirator over an ordinary face, and there is nothing behind this one."
+  },
+
+
+
+  {
+    id: "the-crimson-ninja",
+    name: "The Crimson Ninja",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An evil ninja, in crimson. The figure has not been photographed yet - " +
+      "this card is holding his concept art until he turns up.",
+    provenance:
+      "From the art: a wide woven straw hat with a long red feather through " +
+      "the crown, a pale mask with a red domino worked across the eyes, and no " +
+      "face behind it. White and crimson lamellar over full sleeves, a red sash " +
+      "at the waist, white gloves, and a red cloak streaming off one shoulder. " +
+      "A katana held level in both hands.",
+    tags: ["ninja", "villain", "crimson", "masked", "concept-art", "no-photograph"],
+    images: [
+      { src: "images/the-crimson-ninja-01.jpg", caption: "Concept art - no photograph of the figure yet" },
+    ],
+    acquired: "",
+    notes: "The first card in five hundred and ten with no photograph of the figure on it. Everyone else here is a thing on a shelf first and a story second; he is the other way round for now. Fourth bad figure, and the second villain who is a person rather than a nameless squad. No group written: this world has a Ninja Lineage six strong and nobody has said whether he came out of it or came for it."
+  },
+
+
+  {
+    id: "the-nightwatch-captain",
+    name: "The Nightwatch Captain",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Nightwatch Captain",
+    group: "Lego City Law",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background:
+      "He covers all the night work in Lego City. Everything that happens after " +
+      "dark is his.",
+    provenance:
+      "Blue helmet under a broad gold brim. Dark beard and moustache across a " +
+      "pale face. Black tunic with gold frogging up the front, a red crest at " +
+      "the breast and two gold rank bars at the waist, blue arms, black hands " +
+      "and black legs.",
+    tags: ["police", "nightwatch", "captain", "night", "lego-city", "gold-braid"],
+    images: ["images/the-nightwatch-captain-01.jpg"],
+    acquired: "",
+    notes: "Read as one who was missing from the catalogue rather than one lost to time - he is stood up and in focus the way the living are photographed, not laid flat or pulled off an old video, and you put him in the present tense. One word moves him to the lost. Eleventh in Lego City Law and the only one of them with a shift: everybody else polices the city, he polices the dark. No link to the Watch Commander, who runs the day-to-day ground units and would be the obvious other half of that arrangement - say so and they connect."
   },
 
 
