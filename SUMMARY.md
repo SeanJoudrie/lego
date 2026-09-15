@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-561 characters from a custom LEGO minifigure world, in the order they were
+566 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -76,6 +76,12 @@ The pieces also carry things. The Snow Jedi was formed out of ancient ones, and 
 ### The Discarded
 
 People made as throwaway characters in other civilizations, who found refuge in this world. Not a slur and not quite a nationality — it's what they're known as, in-universe.
+
+For a long time the whole group read as a kindness that worked. Their ambassador is a bridge between civilizations and the reason this world has cybernetics at all. His brother wanders about, talks to people and skateboards. The Salvager goes back into the Bin to pull other pieces out and fight off what comes at him on the way. Two more took commissions in the clone army and serve it.
+
+One of them drew the opposite conclusion. He wants an army of his own, the Royals brought down with it, and a society militarised hard enough that what was done to him and his people can never happen again. He is filed with the villains, and filed inside the group, because he is one of them.
+
+Which is the uncomfortable shape of it. The same fact - we were thrown away, and this place took us in - produced an ambassador and a coup.
 
 ### The Damaged
 
@@ -193,7 +199,9 @@ And somebody broke the rule from the inside. A knight of that realm was granted 
 
 That is worse there than it would be anywhere else, for a specific reason: the whole realm fights on the understanding that the stakes are armour. He did not only kill people. He killed them somewhere nobody had agreed that was on the table.
 
-Somebody granted him the sword. Nobody has said who.
+And he did not do it alone. A second swordsman of that realm helped forge the blade, and the two of them used it together - going into fights where losing was supposed to cost armour, and killing people properly, while nobody knew that was what was happening. They are the only two people in this collection who have killed anybody in the one place killing was not possible.
+
+Who commissioned the sword is still open. There is exactly one other person in the medieval era who works metal, and he is filed good.
 
 ### The Rebellion is not visiting
 
@@ -555,7 +563,7 @@ He started out as a senator in the earliest days of the Senate, in a purple T-sh
 
 He is a much better king now, and genuinely useful. He still sometimes wonders what makes him so special. The real answer is just that he has a good heart. He is not the super mega ultra genius politician. He genuinely just has a good heart.
 
-*Connections:* Cousin of The Prince's Cousin · Impersonated by The Prince's Impersonator · Loyal to him Kenjen · Loyal to him Jimzon · Follows him King Arthur · Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief · His throne is claimed by The Prince Pretender
+*Connections:* His Shadow Team defected under The Shadow Team Commander · Cousin of The Prince's Cousin · Impersonated by The Prince's Impersonator · Loyal to him Kenjen · Loyal to him Jimzon · Follows him King Arthur · Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief · His throne is claimed by The Prince Pretender
 
 *Tags:* royal-family, king, senator, married, good-heart
 
@@ -5734,7 +5742,7 @@ The arms dealer: brown hair, no helmet, a black pauldron across both shoulders, 
 
 What he made of himself: a translucent neon green head, grinning, one eye red. Bone-white spines stand off the collar. Black Sith robes over black legs, one hand still flesh and the other gone black.
 
-*Connections:* Bought him The First Man in Space · Aligned with The Sith Lord · Defected to him The Defector Commander · Aligned with The Dictator · Taught by Wen · Given a fleet by The Fleet General · Followed by The Infamous Traitor · Led the shadow uprising with The Shadow King · Allied with The Prince Pretender · His middleman to the shadow dimension The Purple Shadow · His second, on the technology side Quinn's Second-in-Command · Followed by The Neon Fanatic · Captured Claws · Brought down by The Knighted Civilian
+*Connections:* Given a whole team by The Shadow Team Commander · Bought him The First Man in Space · Aligned with The Sith Lord · Defected to him The Defector Commander · Aligned with The Dictator · Taught by Wen · Given a fleet by The Fleet General · Followed by The Infamous Traitor · Led the shadow uprising with The Shadow King · Allied with The Prince Pretender · His middleman to the shadow dimension The Purple Shadow · His second, on the technology side Quinn's Second-in-Command · Followed by The Neon Fanatic · Captured Claws · Brought down by The Knighted Civilian
 
 *Tags:* villain, quinn, sith, dark-arts, force, shadow-uprising, betrayal, self-healing, immortality, arms-dealer
 
@@ -6366,9 +6374,73 @@ Somebody granted him a sword that could kill for real. He played it as though he
 
 *How it was got:* A silver nasal helm with hinged cheek guards, and a yellow face under it with a lopsided half-smile. Blue and pale blue quartered surcoat printed with a gold crown and a star-worked collar over a brown belt, grey sleeves, pale grey legs, yellow hands.
 
+*Connections:* Forged the sword with him The Swordsmith Knight
+
 *Tags:* villain, knight, medieval, real-death, sword, deception, murder
 
-### 530. The Militiaman in the Black Helm
+### 530. The Swordsmith Knight
+
+**Alignment:** bad · **Role:** Swordsman · **Based:** The Medieval Era · **Figure:** custom
+
+A swordsman of the medieval realm, and he helped forge the blade that kills for real.
+
+Then the two of them used it. They went into fights in a place where losing costs you your armour and nothing else, and killed people properly, and for a while nobody knew that was what was happening.
+
+*How it was got:* Dark brown nasal helm with hinged cheek guards over a yellow face wearing a broad, delighted grin. Blue tunic with a grey panel and a gold-edged collar, a brown baldric across the chest carrying a gold-ringed crown badge, black belt, blue legs printed with a chain and a lantern. Grey arms and grey hands.
+
+*Connections:* Forged the sword with him The Knight with the Real Sword
+
+*Tags:* villain, knight, medieval, swordsman, forge, real-death, deception
+
+### 531. The Discarded Militarist
+
+**Alignment:** bad · **Role:** Discarded · **Figure:** custom
+
+One of the Discarded - made as a throwaway in another civilization and given refuge in this one.
+
+What he wants is an army of his own, and to take the Royals down with it. The point of the coup is what comes after: a society militarised hard enough that nothing like what happened to him and his people can happen again.
+
+*How it was got:* Clone pilot armour worked over by hand in blue - a helmet painted in streaked blues with a black brow bar and a red cogged marking over each temple, a black respirator across the mouth. The chest, arms and legs carry the same layered blue, brushed on rather than printed, with the moulded detail showing through and white left bare at the boots.
+
+*Tags:* villain, discarded, militarist, coup, refugee, hand-painted, kitbash
+
+### 532. The Shadow Sorcerer
+
+**Alignment:** bad · **Role:** Chaplain · **Based:** The Shadow Dimension · **Figure:** custom
+
+The shadow people have a religion, and this is the man who keeps it. Something like a chaplain to them.
+
+He was a fanatic, and what he preached was the invasion.
+
+*How it was got:* Black from the crown down - a bare black head with no face printed on it at all, black arms, black hands, black legs, and a dark cloth robe hung open over the whole of it.
+
+*Tags:* villain, shadow, chaplain, religion, fanatic, invasion, faceless, unprinted
+
+### 533. The Shadow Team Commander
+
+**Alignment:** bad · **Role:** Commander · **Figure:** custom
+
+He commands the Shadow Team, who used to work under the Prince.
+
+Under his leadership every one of them defected to Quinn.
+
+*How it was got:* Black peaked cap over a lined face with orange scarring down one cheek and a hard-set mouth. Black tunic printed with a grey winged crest at the chest and a panelled rank plate across the stomach, pale grey sleeves, black hands, black legs.
+
+*Connections:* Took his whole team to Quinn · His team used to serve him The Prince
+
+*Tags:* villain, commander, shadow-team, defector, traitor, quinn, royal-forces
+
+### 534. The Evil Grenadier
+
+**Alignment:** bad · **Role:** Grenadier · **Figure:** custom
+
+A grenadier, on the wrong side of it.
+
+*How it was got:* Black helmet over a plain yellow face with a small, easy smile. Black torso under a moulded black tactical vest hung with three magazine pouches, a black collar piece at the throat, black arms and black legs. Yellow hands.
+
+*Tags:* villain, grenadier, soldier, tactical-vest, black
+
+### 535. The Militiaman in the Black Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -6382,7 +6454,7 @@ Photographed off an old video rather than in hand, because there is no hand to p
 
 *Tags:* space-militia, lost, deceased, helmet, sunglasses
 
-### 531. The Militiaman in the Red Helm
+### 536. The Militiaman in the Red Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -6392,7 +6464,7 @@ Space Militia. Lost, and dead.
 
 *Tags:* space-militia, lost, deceased, rifle, scarred
 
-### 532. The Ranger Patrol Captain
+### 537. The Ranger Patrol Captain
 
 **Alignment:** good · **Role:** Patrol Captain · **Figure:** custom
 
@@ -6402,7 +6474,7 @@ A patrol captain of the rangers. Lost, and dead.
 
 *Tags:* green-rangers, ranger, captain, lost, deceased, camouflage
 
-### 533. The Militiamen Out of Armour — Two of them
+### 538. The Militiamen Out of Armour — Two of them
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -6414,7 +6486,7 @@ Photographed together, on a table, years ago.
 
 *Tags:* space-militia, lost, deceased, civilian-dress, headset
 
-### 534. The Lost Miners — Two of them
+### 539. The Lost Miners — Two of them
 
 **Alignment:** good · **Role:** Power Miner · **Figure:** custom
 
@@ -6424,7 +6496,7 @@ Two of the power miners. Lost, and dead.
 
 *Tags:* power-miner, lost, deceased, overalls, helmet
 
-### 535. The Discarded in the Blue Cap
+### 540. The Discarded in the Blue Cap
 
 **Alignment:** good · **Role:** Discarded · **Figure:** custom
 
@@ -6436,7 +6508,7 @@ The badge is not a marking anyone else in this collection wears, and I could not
 
 *Tags:* discarded, refugee, lost, deceased, cap, goatee
 
-### 536. The Elf Man
+### 541. The Elf Man
 
 **Alignment:** good · **Role:** Elf · **Figure:** custom
 
@@ -6450,7 +6522,7 @@ Nothing about the moulding is elven - it is an ordinary head and an ordinary hai
 
 *Tags:* elf, lost, deceased, long-hair, vest
 
-### 537. The Long Shot Bowman
+### 542. The Long Shot Bowman
 
 **Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
 
@@ -6460,7 +6532,7 @@ An archer of the Royal Knights, and a long shot. Lost, and dead.
 
 *Tags:* knight, archer, bow, medieval, royal-knights, lost, deceased, kettle-helm
 
-### 538. The Lost Pirates — Two of them
+### 543. The Lost Pirates — Two of them
 
 **Alignment:** good · **Role:** Pirate · **Figure:** custom
 
@@ -6472,7 +6544,7 @@ The other in a blue headscarf, moustached and heavily freckled, in a red and whi
 
 *Tags:* pirate, crew, lost, deceased, tattoo, anchor, stripes
 
-### 539. The Lost Aqua Diver
+### 544. The Lost Aqua Diver
 
 **Alignment:** good · **Role:** Aqua Force · **Figure:** custom
 
@@ -6482,7 +6554,7 @@ Aqua Force - the service that handles any military necessity involving going und
 
 *Tags:* aqua-force, underwater, diver, trident, lost, deceased, scarred
 
-### 540. The Gungan Jedi
+### 545. The Gungan Jedi
 
 **Alignment:** good · **Role:** Jedi · **Figure:** custom
 
@@ -6496,7 +6568,7 @@ The robe is not a piece I could place. Photographed off an old video rather than
 
 *Tags:* star-wars, gungan, jedi, alien, cape, lost, deceased
 
-### 541. The Alien Professor
+### 546. The Alien Professor
 
 **Alignment:** good · **Role:** Professor · **Figure:** custom
 
@@ -6508,7 +6580,7 @@ The frame is too soft to make out the piece. This is as much as the video gives.
 
 *Tags:* alien, professor, academic, moulded-head, robes, lost, deceased
 
-### 542. The Lost Soccer Player
+### 547. The Lost Soccer Player
 
 **Alignment:** good · **Role:** Athlete · **Figure:** custom
 
@@ -6518,7 +6590,7 @@ A soccer player. Lost, and dead.
 
 *Tags:* soccer, football, athlete, sport, kit, lost, deceased
 
-### 543. The Astronaut Soldier
+### 548. The Astronaut Soldier
 
 **Alignment:** good · **Role:** Astronaut Soldier · **Figure:** custom
 
@@ -6528,7 +6600,7 @@ An astronaut, and a soldier. Lost, and dead.
 
 *Tags:* astronaut, soldier, space, helmet, lost, deceased
 
-### 544. The Airline Pilot
+### 549. The Airline Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** custom
 
@@ -6538,7 +6610,7 @@ An airline pilot. Lost, and dead.
 
 *Tags:* pilot, airline, civilian, uniform, cap, lost, deceased
 
-### 545. The Hooded Ranger
+### 550. The Hooded Ranger
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -6548,7 +6620,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, hood, balaclava, lost, deceased
 
-### 546. The Blue Space Captain
+### 551. The Blue Space Captain
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -6560,7 +6632,7 @@ The badge is the Galactic Republic cog, so the pieces are out of a Star Wars pil
 
 *Tags:* captain, space, pilot, goggles, headset, lost, deceased
 
-### 547. The Nude Aliens — Two of them
+### 552. The Nude Aliens — Two of them
 
 **Alignment:** good · **Figure:** custom
 
@@ -6572,7 +6644,7 @@ The other is green throughout with a moulded head - a scaled, gaping fish-like f
 
 *Tags:* alien, nude, unprinted, moulded-head, lost, deceased
 
-### 548. The Engine Technician
+### 553. The Engine Technician
 
 **Alignment:** good · **Role:** Technician · **Figure:** custom
 
@@ -6582,7 +6654,7 @@ One of the engine technicians. Lost, and dead.
 
 *Tags:* technician, engines, space-programme, helmet, lost, deceased
 
-### 549. The Ranger in the Olive Helm
+### 554. The Ranger in the Olive Helm
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -6592,7 +6664,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, helmet, field-jacket, lost, deceased
 
-### 550. The Lost Golden Rifleman
+### 555. The Lost Golden Rifleman
 
 **Alignment:** good · **Role:** Rifleman · **Figure:** branded
 
@@ -6604,7 +6676,7 @@ Too soft a frame to tell Phase 1 from Phase 2, or to read the unit markings the 
 
 *Tags:* star-wars, clone, trooper, rifleman, golden-company, rifle, lost, deceased, branded
 
-### 551. The Saxophone Player
+### 556. The Saxophone Player
 
 **Alignment:** good · **Role:** Musician · **Figure:** custom
 
@@ -6616,7 +6688,7 @@ Photographed standing on wet sand with the sea behind him and his own reflection
 
 *Tags:* musician, saxophone, music, cool, sunglasses, lost, deceased
 
-### 552. The Old Verdauf Soldier
+### 557. The Old Verdauf Soldier
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -6628,7 +6700,7 @@ He is built off white blocks below the waist rather than printed legs.
 
 *Tags:* verdauf, squadron, soldier, veteran, beard, white-armor, lost, deceased
 
-### 553. The Blue Pirate Thug
+### 558. The Blue Pirate Thug
 
 **Alignment:** good · **Role:** Thug · **Figure:** custom
 
@@ -6638,7 +6710,7 @@ A pirate thug. The uniform he is wearing is not his - he stole it. Lost, and dea
 
 *Tags:* thug, pirate, stolen-uniform, respirator, blue, lost, deceased
 
-### 554. The Space Captain Lady
+### 559. The Space Captain Lady
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -6650,7 +6722,7 @@ It is the same uniform the Blue Space Captain wears, down to the badge.
 
 *Tags:* captain, space, woman, stolen-uniform, visor, lost, deceased
 
-### 555. The Evil Space Captain
+### 560. The Evil Space Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -6662,7 +6734,7 @@ It is a rebel pilot's kit. There are nine Rebel Pilots in this collection and he
 
 *Tags:* captain, space, villain, stolen-uniform, flight-helmet, beard, lost, deceased
 
-### 556. The Space Criminal
+### 561. The Space Criminal
 
 **Alignment:** good · **Role:** Criminal · **Figure:** custom
 
@@ -6672,7 +6744,7 @@ A space criminal. Lost, and dead.
 
 *Tags:* criminal, space, crook, grin, blaster, lost, deceased
 
-### 557. The Bribed Royal Enforcer
+### 562. The Bribed Royal Enforcer
 
 **Alignment:** good · **Role:** Enforcer · **Figure:** custom
 
@@ -6682,7 +6754,7 @@ A royal enforcer who took a bribe. Lost, and dead.
 
 *Tags:* enforcer, royal, bribed, corruption, visor, lost, deceased
 
-### 558. The Bearded Spaceman
+### 563. The Bearded Spaceman
 
 **Alignment:** good · **Role:** Spaceman · **Figure:** custom
 
@@ -6692,7 +6764,7 @@ A blue spaceman. Lost, and dead.
 
 *Tags:* spaceman, classic-space, blue, beard, vintage, lost, deceased
 
-### 559. The Masked Bounty Hunter
+### 564. The Masked Bounty Hunter
 
 **Alignment:** good · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -6704,7 +6776,7 @@ The frame is badly blurred and this is as much as it gives.
 
 *Tags:* bounty-hunter, masked, red-eyes, hood, lost, deceased
 
-### 560. The Crimson Ninja
+### 565. The Crimson Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -6714,7 +6786,7 @@ An evil ninja, in crimson. The figure has not been photographed yet - this card 
 
 *Tags:* ninja, villain, crimson, masked, concept-art, no-photograph
 
-### 561. The Nightwatch Captain
+### 566. The Nightwatch Captain
 
 **Alignment:** good · **Role:** Nightwatch Captain · **Based:** Lego City · **Figure:** custom
 

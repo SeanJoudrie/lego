@@ -118,7 +118,20 @@ window.LORE = [
     text:
       "People made as throwaway characters in other civilizations, who found " +
       "refuge in this world. Not a slur and not quite a nationality — it's what " +
-      "they're known as, in-universe."
+      "they're known as, in-universe.\n\n" +
+      "For a long time the whole group read as a kindness that worked. Their " +
+      "ambassador is a bridge between civilizations and the reason this world " +
+      "has cybernetics at all. His brother wanders about, talks to people and " +
+      "skateboards. The Salvager goes back into the Bin to pull other pieces " +
+      "out and fight off what comes at him on the way. Two more took " +
+      "commissions in the clone army and serve it.\n\n" +
+      "One of them drew the opposite conclusion. He wants an army of his own, " +
+      "the Royals brought down with it, and a society militarised hard enough " +
+      "that what was done to him and his people can never happen again. He is " +
+      "filed with the villains, and filed inside the group, because he is one " +
+      "of them.\n\n" +
+      "Which is the uncomfortable shape of it. The same fact - we were thrown " +
+      "away, and this place took us in - produced an ambassador and a coup."
   },
 
   {
@@ -330,7 +343,14 @@ window.LORE = [
       "reason: the whole realm fights on the understanding that the stakes are " +
       "armour. He did not only kill people. He killed them somewhere nobody " +
       "had agreed that was on the table.\n\n" +
-      "Somebody granted him the sword. Nobody has said who."
+      "And he did not do it alone. A second swordsman of that realm helped " +
+      "forge the blade, and the two of them used it together - going into " +
+      "fights where losing was supposed to cost armour, and killing people " +
+      "properly, while nobody knew that was what was happening. They are the " +
+      "only two people in this collection who have killed anybody in the one " +
+      "place killing was not possible.\n\n" +
+      "Who commissioned the sword is still open. There is exactly one other " +
+      "person in the medieval era who works metal, and he is filed good."
   },
 
   {

@@ -228,6 +228,7 @@ window.COLLECTION = [
     group: "The Royal Household",
     location: "The Royal Palace",
     relations: [
+      { to: "the-shadow-team-commander", label: "His Shadow Team defected under" },
       { to: "the-princes-cousin", label: "Cousin of" },
       { to: "the-princes-impersonator", label: "Impersonated by" },
       { to: "kenjen", label: "Loyal to him" },
@@ -12859,6 +12860,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "the-shadow-team-commander", label: "Given a whole team by" },
       { to: "the-first-man-in-space", label: "Bought him" },
       { to: "the-sith-lord", label: "Aligned with" },
       { to: "the-defector-commander", label: "Defected to him" },
@@ -14466,7 +14468,9 @@ window.COLLECTION = [
     role: "Knight",
     group: "",
     location: "The Medieval Era",
-    relations: [],
+    relations: [
+      { to: "the-swordsmith-knight", label: "Forged the sword with him" },
+    ],
     rating: 0,
     background:
       "He lived in the medieval realm, where death is not final and a fight " +
@@ -14483,6 +14487,159 @@ window.COLLECTION = [
     images: ["images/the-knight-with-the-real-sword-01.jpg"],
     acquired: "",
     notes: "This is an attack on the oldest local rule in the collection. The medieval realm works because dying there is not final - you come back, the enemy keeps your armour, and that is why going to war there is not the appalling thing it is everywhere else. He was handed a weapon that breaks it and pretended not to know. Every man he beat stayed beaten. Left out of the Royal Knights: they wear a red and blue surcoat with a crowned lion and his is a blue quartering with a plain crown, so say the word if he is one of theirs. And somebody gave him that sword, which is the loudest unanswered question on this card."
+  },
+
+
+
+  {
+    id: "the-swordsmith-knight",
+    name: "The Swordsmith Knight",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Swordsman",
+    group: "",
+    location: "The Medieval Era",
+    relations: [
+      { to: "the-knight-with-the-real-sword", label: "Forged the sword with him" },
+    ],
+    rating: 0,
+    background:
+      "A swordsman of the medieval realm, and he helped forge the blade that " +
+      "kills for real.\n\n" +
+      "Then the two of them used it. They went into fights in a place where " +
+      "losing costs you your armour and nothing else, and killed people " +
+      "properly, and for a while nobody knew that was what was happening.",
+    provenance:
+      "Dark brown nasal helm with hinged cheek guards over a yellow face wearing " +
+      "a broad, delighted grin. Blue tunic with a grey panel and a gold-edged " +
+      "collar, a brown baldric across the chest carrying a gold-ringed crown " +
+      "badge, black belt, blue legs printed with a chain and a lantern. Grey " +
+      "arms and grey hands.",
+    tags: ["villain", "knight", "medieval", "swordsman", "forge", "real-death", "deception"],
+    images: ["images/the-swordsmith-knight-01.jpg"],
+    acquired: "",
+    notes: "The Knight with the Real Sword\'s card ended on a question - somebody granted him that sword, and nobody had said who. This is half an answer: this man helped forge it. Who commissioned it is still open. The two of them are linked and both are filed bad, and between them they are the only people in the collection who have killed anybody in the one realm where killing was not supposed to be possible. Worth reading against the Blacksmith, who is filed good and is the only other person in the medieval era who works metal; nothing is written between them, and it is the obvious thing to ask."
+  },
+
+
+  {
+    id: "the-discarded-militarist",
+    name: "The Discarded Militarist",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Discarded",
+    group: "The Discarded",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the Discarded - made as a throwaway in another civilization and " +
+      "given refuge in this one.\n\n" +
+      "What he wants is an army of his own, and to take the Royals down with " +
+      "it. The point of the coup is what comes after: a society militarised " +
+      "hard enough that nothing like what happened to him and his people can " +
+      "happen again.",
+    provenance:
+      "Clone pilot armour worked over by hand in blue - a helmet painted in " +
+      "streaked blues with a black brow bar and a red cogged marking over each " +
+      "temple, a black respirator across the mouth. The chest, arms and legs " +
+      "carry the same layered blue, brushed on rather than printed, with the " +
+      "moulded detail showing through and white left bare at the boots.",
+    tags: ["villain", "discarded", "militarist", "coup", "refugee", "hand-painted", "kitbash"],
+    images: ["images/the-discarded-militarist-01.jpg"],
+    acquired: "",
+    notes: "This is the hardest card in the batch to sit with. The Discarded are this world\'s refugees - people thrown away in somebody else\'s civilization and taken in here - and the whole group has been written as a kindness that worked. Their ambassador is a bridge between civilizations. Their brother wanders and skateboards. One of them went back into the Bin to pull other pieces out. This one came out of the same thing and drew the opposite conclusion: never again, by force, and the Royals go first. Filed inside the group, because he is one of them and a group shows everybody to everybody. That makes the Discarded the fourth group here with people on both sides in it."
+  },
+
+
+  {
+    id: "the-shadow-sorcerer",
+    name: "The Shadow Sorcerer",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Chaplain",
+    group: "",
+    location: "The Shadow Dimension",
+    relations: [],
+    rating: 0,
+    background:
+      "The shadow people have a religion, and this is the man who keeps it. " +
+      "Something like a chaplain to them.\n\n" +
+      "He was a fanatic, and what he preached was the invasion.",
+    provenance:
+      "Black from the crown down - a bare black head with no face printed on it " +
+      "at all, black arms, black hands, black legs, and a dark cloth robe hung " +
+      "open over the whole of it.",
+    tags: ["villain", "shadow", "chaplain", "religion", "fanatic", "invasion", "faceless", "unprinted"],
+    images: ["images/the-shadow-sorcerer-01.jpg"],
+    acquired: "",
+    notes: "Third figure in this world with no face at all, after the Man from the Yellow Dimension and the Light King, and the third all-black unprinted one on the shadow side after the Shadow King and the Purple Shadow. He is also the second enemy here whose work is a religion, after the Sith Lord who aligned with Quinn to spread the dark side as one. No relations written - being of the shadow people is affiliation rather than a stated meeting - but there is now a king, a prince, a portal-opener and a chaplain on that side of the world and no group holding them. That grouping is the obvious one waiting to be made; say the word."
+  },
+
+
+  {
+    id: "the-shadow-team-commander",
+    name: "The Shadow Team Commander",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Commander",
+    group: "The Shadow Team",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Took his whole team to" },
+      { to: "the-prince", label: "His team used to serve him" },
+    ],
+    rating: 0,
+    background:
+      "He commands the Shadow Team, who used to work under the Prince.\n\n" +
+      "Under his leadership every one of them defected to Quinn.",
+    provenance:
+      "Black peaked cap over a lined face with orange scarring down one cheek " +
+      "and a hard-set mouth. Black tunic printed with a grey winged crest at " +
+      "the chest and a panelled rank plate across the stomach, pale grey " +
+      "sleeves, black hands, black legs.",
+    tags: ["villain", "commander", "shadow-team", "defector", "traitor", "quinn", "royal-forces"],
+    images: ["images/the-shadow-team-commander-01.jpg"],
+    acquired: "",
+    notes: "A new group, named by you, with one man photographed. He is the fourth officer in this collection to take his own unit somewhere it did not choose - the Traitor Captain rigged a ship with half the Verdauf on it, General Shepherd stranded the Green Rangers, the Defector Commander gassed his battalion - and the only one of the four whose men went with him willingly. Nothing is written between the Shadow Team and the shadow dimension; the name may be a coincidence and may not be."
+  },
+
+
+  {
+    id: "the-evil-grenadier",
+    name: "The Evil Grenadier",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Grenadier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A grenadier, on the wrong side of it.",
+    provenance:
+      "Black helmet over a plain yellow face with a small, easy smile. Black " +
+      "torso under a moulded black tactical vest hung with three magazine " +
+      "pouches, a black collar piece at the throat, black arms and black legs. " +
+      "Yellow hands.",
+    tags: ["villain", "grenadier", "soldier", "tactical-vest", "black"],
+    images: ["images/the-evil-grenadier-01.jpg"],
+    acquired: "",
+    notes: "Second grenadier in the collection, after the Golden Company\'s, who is filed good. He is black from the helmet to the boots with a plain smiling face and nothing else on him, which makes him the plainest villain here - no scar, no visor, no marking, no story yet beyond the job. Say more about him and he will take it."
   },
 
 
