@@ -9763,7 +9763,7 @@ window.COLLECTION = [
   {
     id: "obi-wan-kenobi",
     name: "Obi-Wan Kenobi",
-    variant: "Five figures",
+    variant: "Six figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9775,7 +9775,7 @@ window.COLLECTION = [
     rating: 0,
     background: "Obi-Wan Kenobi.",
     provenance:
-      "Two figures of the same man. The older one has a full ginger beard, " +
+      "Six figures of the same man. The first has a full ginger beard, " +
       "flesh-toned face, a brown cloth cape and rust-coloured legs. The " +
       "younger has a plain yellow head, long hair past the shoulders, a " +
       "headset at the jaw and tan robes throughout. A third has him bearded " +
@@ -9784,7 +9784,11 @@ window.COLLECTION = [
       "grey hair and a full grey beard on a yellow head, plain cream robes with " +
       "a brown belt and nothing else on him at all. A fifth is the old man " +
       "again on a later mould - a flesh face instead of a yellow one, the grey " +
-      "beard printed in properly, and a gold buckle on the belt.",
+      "beard printed in properly, and a gold buckle on the belt. A sixth is him " +
+      "in his prime - a moulded reddish-brown hair piece instead of a cape, a " +
+      "trimmed ginger beard on a flesh face, and plain cream robes with a " +
+      "printed leather belt, tan from the collar to the boots with no outer " +
+      "robe on him at all.",
     tags: ["star-wars", "jedi", "obi-wan", "beard", "robes", "branded"],
     images: [
       { src: "images/obi-wan-kenobi-01.jpg", caption: "Bearded, in the brown cape" },
@@ -9792,9 +9796,10 @@ window.COLLECTION = [
       { src: "images/obi-wan-kenobi-03.jpg", caption: "Older, in the heavy robe" },
       { src: "images/obi-wan-kenobi-04.jpg", caption: "Old, as Ben" },
       { src: "images/obi-wan-kenobi-05.jpg", caption: "Old again, the later mould" },
+      { src: "images/obi-wan-kenobi-06.jpg", caption: "In his prime, in cream robes" },
     ],
     acquired: "",
-    notes: "One entry, two figures - the same man at two points in his life, the way the Prince and SpongeBob are done. Putting them in as two cards would have broken the one-entry rule. Five now, level with Luke for the most photographed person in the collection. The oldest of them is the one you called Ben - the name he took on Tatooine when he was hiding - and putting all four on one card means the young man with the headset and the old hermit are the same person, which is the whole point of the one-entry rule."
+    notes: "One entry, six figures - the same man at six points in his life, the way the Prince and SpongeBob are done. Putting them in as separate cards would have broken the one-entry rule. This card has said twice that it was level with Luke and been wrong both times; the count is settled now, and so is the top of the collection: Luke, Anakin and Obi-Wan all stand at six figures on one card, and nobody else is above three. The oldest of them is the one you called Ben - the name he took on Tatooine when he was hiding - and putting all six on one card means the young man with the headset and the old hermit are the same person, which is the whole point of the one-entry rule."
   },
 
 
@@ -11292,7 +11297,9 @@ window.COLLECTION = [
     role: "",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "perfect-cell", label: "His enemy" },
+    ],
     rating: 0,
     background: "Goku, gone Super Saiyan.",
     provenance:
@@ -18137,7 +18144,7 @@ window.COLLECTION = [
   {
     id: "emperor-palpatine",
     name: "Emperor Palpatine",
-    variant: "",
+    variant: "Two figures",
     faction: "bad",
     origin: "branded",
     theme: "Star Wars",
@@ -18159,11 +18166,21 @@ window.COLLECTION = [
       "lines at the brow, cheeks and jaw, the eyes small and yellow. Black " +
       "robes printed in pale grey folds with a sash at the waist, black arms " +
       "and hands, black legs, and a long black cloth cape gone soft and frayed " +
-      "at the shoulders. Older wear than most things on the shelf.",
+      "at the shoulders. Older wear than most things on the shelf.\n\n" +
+      "A second figure is the same man on a different mould: a tan face " +
+      "instead of a white one, the lines cut deeper and the eyes wide and " +
+      "yellow with the teeth bared, under a hard moulded hood rather than a " +
+      "soft one. Black robes printed in silver, a black cape. He is holding " +
+      "two lengths of lightning - translucent purple and pale blue, zigzagged, " +
+      "one in each hand - which is the only weapon in this collection that is " +
+      "not a blade, a gun or a staff.",
     tags: ["villain", "star-wars", "branded", "sith", "emperor", "hood", "cape", "old"],
-    images: ["images/emperor-palpatine-01.jpg"],
+    images: [
+      { src: "images/emperor-palpatine-01.jpg", caption: "The white-faced mould" },
+      { src: "images/emperor-palpatine-02.jpg", caption: "The later mould, throwing lightning" }
+    ],
     acquired: "",
-    notes: "Thirty-first branded villain and the ninth Sith, after Quinn, the Purple Shadow, the Sith Lord, Savage Opress, Darth Nihilus, Darth Vader, Count Dooku and Darth Maul. He is the first emperor in this collection - no figure on either deck has held that job before, and this one arrives holding the leashes of three men already catalogued. Four relations, which is more than any other bought figure here has, villain or otherwise. The payoff is the Imperial Royal Guard. His card was written with the line that he stands in front of an emperor, at a point when there was no emperor in this collection to stand in front of. There is now."
+    notes: "Thirty-first branded villain and the ninth Sith, after Quinn, the Purple Shadow, the Sith Lord, Savage Opress, Darth Nihilus, Darth Vader, Count Dooku and Darth Maul. He is the first emperor in this collection - no figure on either deck has held that job before, and this one arrives holding the leashes of three men already catalogued. Four relations, which is more than any other bought figure here has, villain or otherwise. The payoff is the Imperial Royal Guard. His card was written with the line that he stands in front of an emperor, at a point when there was no emperor in this collection to stand in front of. There is now. Two figures on one card, one batch after the first arrived - the same man on two moulds, the second one caught mid-attack."
   },
 
   {
@@ -18307,6 +18324,92 @@ window.COLLECTION = [
     ],
     acquired: "",
     notes: "Thirty-sixth branded villain and the fourth out of Marvel. He joins a villain side that has been filling with machines for a long time - the Missile, the White and Armoured Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Robot Builder - and he is the first of them that was bought rather than built here. The card that matters is The Maker. That figure was catalogued as a cross between Tony Stark and Ultron, the man who builds the machines and the machine that came out of it, at a point when neither half of that sentence existed in this collection as a person. Both halves are now here, on opposite decks: Tony Stark filed good, Ultron filed bad, and The Maker in between with nothing written to either of them. Two figures on one card because there are two of him and they are identical, which is the one villain here where duplication is the character rather than an accident of the shelf."
+  },
+
+  {
+    id: "perfect-cell",
+    name: "Perfect Cell",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Dragon Ball",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "goku", label: "His enemy" }
+    ],
+    rating: 0,
+    background:
+      "Cell, in his perfect form.",
+    provenance:
+      "A green head plate moulded into two long swept horns, spotted black, " +
+      "with yellow tabs at the ears and a white face under it - purple eye " +
+      "markings and a small closed smile. A green torso and legs printed all " +
+      "over in black spotting and purple panelling, yellow at the feet, with a " +
+      "separate black chest and shoulder armour piece clipped over the top and " +
+      "two black wings behind. White hands. More separate moulded pieces than " +
+      "almost anything else here.",
+    tags: ["villain", "dragon-ball", "branded", "third-party", "green", "wings", "horns"],
+    images: ["images/perfect-cell-01.jpg"],
+    acquired: "",
+    notes: "Thirty-seventh branded villain, and the first villain out of Dragon Ball. That theme had exactly one figure in it - Goku, gone Super Saiyan - and now it has the man Goku fights, which makes this the second theme in two batches to go from all-good to having an enemy in it. Goku's card carries an open question and this one doubles it. He is a branded character on a piece Lego never made, and this world already has a word for that sort of thing: the Knock-offs, who came from other makers and went to war. If Goku belongs with them, so does this one, and the ruling now moves two figures rather than one."
+  },
+
+  {
+    id: "gollum",
+    name: "Gollum",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Lord of the Rings",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Gollum.",
+    provenance:
+      "One moulded piece in pale tan, crouched forward on all fours with the " +
+      "arms and legs bent under him - not a minifigure body at all. A thin " +
+      "drawn face with heavy brow lines, a few strands of hair scratched over " +
+      "the crown, wide pale blue eyes ringed in grey and a mouth full of small " +
+      "pointed teeth. No printing below the neck and no clothes on him.",
+    tags: ["villain", "lord-of-the-rings", "branded", "creature", "crawling", "non-minifigure", "tan"],
+    images: ["images/gollum-01.jpg"],
+    acquired: "",
+    notes: "Thirty-eighth branded villain, and he opens a nineteenth theme: Lord of the Rings has never had a figure in this collection until now, and the first one through the door is on the villain side. Every other licence here arrived good first. He is also the seventh figure in the catalogue that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Alien Professor, the Wampa and Lotso, and he is in Rotta the Hutt's territory - no torso and no legs in the standard build, the whole body one piece. Whether he is an enemy at all is the same question the Pharaoh and Deus Pater are carrying. He is filed here because he arrived in a run of villains, and of the seven things here that are not minifigure-shaped, five are now on this side - only the Kaminoan and the Alien Professor are good."
+  },
+
+  {
+    id: "the-shadow-arf-trooper",
+    name: "The Shadow ARF Trooper",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A clone scout trooper, in black.",
+    provenance:
+      "The recon helmet - a wide brim over a broad silver visor, with a ribbed " +
+      "breathing piece down the front of the face and a rounded pack at each " +
+      "ear - moulded in black instead of white. A black torso with the trooper " +
+      "chest plates printed in pale grey rather than picked out in colour, " +
+      "black arms, grey hands, black legs with grey boots. He is carrying a " +
+      "long black blaster rifle.",
+    tags: ["villain", "star-wars", "branded", "clone", "trooper", "scout", "helmet", "black"],
+    images: ["images/the-shadow-arf-trooper-01.jpg"],
+    acquired: "",
+    notes: "Thirty-ninth branded villain and the third clone on this side, after the Clone Traitor, who turned, and Jek-14, who was built by the other side. This one is neither - he is a standard recon trooper issued in black, which is a unit rather than a story. The collection already holds the Shadow Troopers on the good side: three stormtroopers moulded in black instead of white, catalogued as the exact photographic negative of the standard figure and noted as the only figures here whose whole idea is being hard to see. This is the same idea applied to a clone instead of a stormtrooper, and it has landed on the opposite deck. Nothing is written between them and nothing should be until it is said, but if the black kit means one outfit rather than two coincidences, say so and they go in a group together."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */

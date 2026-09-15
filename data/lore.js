@@ -1469,8 +1469,8 @@ window.LORE = [
     title: "The bought enemy starts talking to itself",
     text:
       "For a long time the bought figures came in as famous people and nothing " +
-      "else. A hundred and sixty-two of them now, out of Star Wars, Ninjago, " +
-      "Marvel, DC, Chima, Harry Potter and the rest, and thirty-six of those " +
+      "else. A hundred and sixty-five of them now, out of Star Wars, Ninjago, " +
+      "Marvel, DC, Chima, Harry Potter and the rest, and thirty-nine of those " +
       "are on the villain side. Until this run not one of them had a line drawn " +
       "to another one of them. They stood in a row, each famous on his own, " +
       "with the entire web of who-knows-whom belonging to the figures that were " +
@@ -1496,6 +1496,11 @@ window.LORE = [
       "licence on the shelf. Then Loki arrived with an army behind him, and " +
       "Magneto and two Ultrons came in the batch after. Four against six, in " +
       "two batches.\n\n" +
+      "Then a licence turned up that never had a good side to lose. Seventeen " +
+      "licences have figures here and sixteen of them opened with somebody " +
+      "good - Luke, Tony Stark, Bruce Wayne, Woody, Kai, Sokka, Goku, all of " +
+      "them. Lord of the Rings opened with Gollum, and has nobody else in it " +
+      "at all.\n\n" +
       "So the shape has changed. The enemy used to be entirely home-made and " +
       "the famous people were decoration. They are not decoration any more. " +
       "They have a chain of command, and at the top of it is a man with four " +
