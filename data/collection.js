@@ -18938,7 +18938,7 @@ window.COLLECTION = [
   {
     id: "the-squid-warrior",
     name: "The Squid Warrior",
-    variant: "",
+    variant: "Two of them",
     faction: "bad",
     origin: "custom",
     theme: "Creation Mythos",
@@ -18949,7 +18949,7 @@ window.COLLECTION = [
     relations: [],
     rating: 0,
     background:
-      "An evil squid, underwater.",
+      "Evil squids, underwater. Two of them.",
     provenance:
       "Dark red throughout. A moulded head drawn up into a tall ridged cone " +
       "with a gold emblem printed across the front of it - a ring with a spike " +
@@ -18957,11 +18957,140 @@ window.COLLECTION = [
       "beneath. Below the eyes the face opens into a hood of tentacles hanging " +
       "down over the chest, with more coiling up out of the middle of them. " +
       "Instead of legs, a moulded skirt of long tentacles spread out to the " +
-      "floor. Dark red arms and grey hands.",
+      "floor. Dark red arms and grey hands.\n\n" +
+      "A second one has since arrived and he is the same figure down to the " +
+      "emblem - same dark red, same gold ring and spike stamped across the " +
+      "cone, same tentacle skirt. The only thing that reads differently is the " +
+      "eyes, one white and one dark, which may be the mould and may be the " +
+      "light.",
     tags: ["villain", "squid", "sea", "creature", "moulded", "tentacles", "gold", "custom"],
-    images: ["images/the-squid-warrior-01.jpg"],
+    images: [
+      { src: "images/the-squid-warrior-01.jpg", caption: "The first" },
+      { src: "images/the-squid-warrior-02.jpg", caption: "The second" }
+    ],
     acquired: "",
-    notes: "Second thing in the water. The Shark Warrior arrived in the batch before this one and his card said he was the first thing in this collection the divers would actually meet down there; there are two now, against fifteen people catalogued underwater across two dive teams.\n\nThe difference between the pair is worth writing down. The shark carries no marking at all - grey head, worn blue tribal lines, nothing that says rank. This one has a gold emblem printed across the front of the skull, which is the only insignia anything in the water is wearing. If one of these two gives the orders it is this one, and nothing says so yet.\n\nThey are not in a group together. Two sea creatures on the same deck is a pattern, not an affiliation, and nothing has been said about whether they know each other. Say they are one force and they go in together - it would be the first enemy the Atlantis dive team has ever had a name for."
+    notes: "Second kind of thing in the water, and now two of him. The Shark Warrior arrived in the batch before this one and his card said he was the first thing in this collection the divers would actually meet down there; there are four creatures down there now, across three kinds, against fifteen people catalogued underwater on two dive teams.\n\nThe difference between the pair is worth writing down. The shark carries no marking at all - grey head, worn blue tribal lines, nothing that says rank. This one has a gold emblem printed across the front of the skull, which is the only insignia anything in the water is wearing. If one of these two gives the orders it is this one, and nothing says so yet.\n\nThey are not in a group together. Two sea creatures on the same deck is a pattern, not an affiliation, and nothing has been said about whether they know each other. Say they are one force and they go in together - it would be the first enemy the Atlantis dive team has ever had a name for."
+  },
+
+  {
+    id: "the-devoured",
+    name: "The Devoured",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A man in a white suit whose body was taken over by a hungry " +
+      "carnivorous monster.\n\n" +
+      "What walks around in the suit now is the monster.",
+    provenance:
+      "A plain white helmet with no visor and no face - and where the face " +
+      "should be, a mouth. A wide dark red maw printed across the front of the " +
+      "head, filled top and bottom with white pointed teeth and opening into " +
+      "red throat behind them. White trooper armour below it, the chest plates " +
+      "and belt clips drawn in fine grey, a black waist and white legs. Black " +
+      "arms and black hands. Everything about him is a standard soldier in " +
+      "white except the head, and the head is eating.",
+    tags: ["villain", "monster", "possessed", "teeth", "white", "helmet", "custom"],
+    images: ["images/the-devoured-01.jpg"],
+    acquired: "",
+    notes: "Named the way the Discarded, the Damaged, the Displaced, the Rebuilt, the Reformed and the Hijacked are named - for what was done to him rather than for who he was. That is a coined name, not one you gave, so change it if it is wrong.\n\nEvery other figure in that naming family is on the good side. He is the first of them filed as an enemy, and the reason is on the card: with the Hijacked, villains took the body and left the mind, and he was brought back afterwards. Nothing here says this one gets brought back. What is standing on the shelf is the thing that ate him, wearing the suit.\n\nThat makes four ways this world has now recorded a body being used against its owner. The Hijacked was hacked and stayed awake through it. The Commissioner's apprentice chose it. The Brainwashed Assassin had the decision taken out of him and kept the body. This one had the body taken and lost everything else. It is the only one of the four where nobody is left inside to bring back."
+  },
+
+  {
+    id: "the-anglerfish",
+    name: "The Anglerfish",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An anglerfish, underwater.",
+    provenance:
+      "A moulded head in two greens - a dark olive crest running back over the " +
+      "crown in ridged fins, a sand green face beneath it, and one small orange " +
+      "eye at each side. Two white fangs the length of his own chest stand " +
+      "straight up out of the lower jaw, far bigger than anything else in his " +
+      "mouth. A dark olive torso and sand green legs with nothing printed on " +
+      "them at all, and a fin hanging down over the front of the thighs.",
+    tags: ["villain", "fish", "sea", "creature", "moulded", "fangs", "green", "custom"],
+    images: ["images/the-anglerfish-01.jpg"],
+    acquired: "",
+    notes: "Third kind of thing in the water, after the shark and the squid, and the fourth figure down there - the squid has two of him now. The sea went from empty to a small population in three batches: before the Shark Warrior there were fifteen people catalogued underwater across two dive teams and nothing at all in the water with them.\n\nStill no group. Three sea creatures on the same deck is a pattern and not an affiliation, and nothing has been said about whether any of them knows the others. The squid is the only one wearing an insignia, so if there is an order down there it starts with him. Say they are one force and the Atlantis dive team finally has an enemy with a name."
+  },
+
+  {
+    id: "the-second-viking",
+    name: "The Second Viking",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Viking",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-vikings-wife", label: "Married to" }
+    ],
+    rating: 0,
+    background:
+      "A viking, and a married man.",
+    provenance:
+      "A grey helmet with a nose guard coming down over the face, so that only " +
+      "a strip of the eyes shows through it, and an enormous orange beard " +
+      "hanging out from under the jaw and down over the chest. An olive green " +
+      "torso printed with a blue-trimmed collar, a small silver face-medallion " +
+      "on a cord, and two brown straps crossed over the front. Brown arms, " +
+      "yellow hands, olive legs going into brown boots. A blue cloth cape " +
+      "behind him.",
+    tags: ["villain", "viking", "beard", "helmet", "cape", "married", "custom"],
+    images: ["images/the-second-viking-01.jpg"],
+    acquired: "",
+    notes: "Called the Second Viking because the name was taken. There is already a Viking in this collection, filed good - a woman who came through a time dilation, calm, nice, fond of running water, with a card that has been asking for years who the others who came through with her were.\n\nSo there are three vikings here now and they sit on opposite decks, and nothing says whether they are anything to each other. That is the question this card is for. If she came through the dilation with these two, her card stops being a loose end. If she did not, then vikings simply exist here twice over and it means nothing.\n\nHe and his wife are also the first married couple on the villain side. The catalogue has two marriages written into it - the Prince and the Space Princess, the Father and the Mother - and until now both were good and both were on the same deck as each other."
+  },
+
+  {
+    id: "the-vikings-wife",
+    name: "The Viking's Wife",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-second-viking", label: "Married to" }
+    ],
+    rating: 0,
+    background:
+      "The Viking's wife.",
+    provenance:
+      "A silver horned helmet with two long white horns curving out from the " +
+      "sides and a diamond pattern stamped into the front, worn over long pale " +
+      "blonde hair falling past both shoulders. A yellow face with hard drawn " +
+      "brows and a level, unimpressed mouth. A brown dress printed from collar " +
+      "to hem - a beaded necklace and two gold brooches at the shoulders, a " +
+      "wide gold-worked belt, and a band of Celtic knotwork low across the " +
+      "skirt. Pale tan arms, yellow hands, and no legs showing at all.",
+    tags: ["villain", "viking", "woman", "married", "horned-helmet", "dress", "custom"],
+    images: ["images/the-vikings-wife-01.jpg"],
+    acquired: "",
+    notes: "Seventh woman on the villain side, after the TV Camera Woman, the Pharaoh, the Orc Queen, the Blue Bounty Hunter, Harley Quinn and Asajj Ventress. Every one of those six has a job on her own card: the Pharaoh rules, the Orc Queen rules, the bounty hunter hunts, Ventress kills, Harley Quinn is Harley Quinn, and even the TV Camera Woman runs a camera. She is the first woman filed on this deck described by her marriage instead, and that is the description given rather than a judgement - nothing has been said about what she does.\n\nShe wears the horned helmet and he does not, which is worth noting since he is the one with the job title.\n\nA name of her own would help. She is one of very few figures in this collection identified entirely by somebody else's card."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
