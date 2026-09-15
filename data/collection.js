@@ -5387,7 +5387,7 @@ window.COLLECTION = [
   {
     id: "spongebob",
     name: "SpongeBob",
-    variant: "",
+    variant: "Two outfits",
     faction: "good",
     origin: "branded",
     theme: "SpongeBob SquarePants",
@@ -5403,9 +5403,12 @@ window.COLLECTION = [
     background: "Literally SpongeBob.",
     provenance: "A genuine SpongeBob SquarePants minifigure, square head and all.",
     tags: ["spongebob", "branded", "visitor"],
-    images: ["images/spongebob-01.jpg"],
+    images: [
+      { src: "images/spongebob-01.jpg", caption: "As usual" },
+      { src: "images/spongebob-02.jpg", caption: "In the air helmet" }
+    ],
     acquired: "",
-    notes: "Fifth branded figure, and the first branded theme with three of its own people in it. Linked to the other two on your say-so - the only branded figures here who know each other."
+    notes: "Two photos, one sponge - the air helmet is an outfit, not another character. Fifth branded figure, and the first branded theme with three of its own people in it. Linked to the other two on your say-so - the only branded figures here who know each other."
   },
 
 
@@ -7506,6 +7509,103 @@ window.COLLECTION = [
     images: ["images/the-supreme-mega-knight-01.jpg"],
     acquired: "",
     notes: "Named exactly as you called him. The Royal Knights are on record as not wearing much armor, and he is in full plate - which in a realm where death costs you your gear and nothing else makes him the man with the most to lose on the field. He is also the only one of the fourteen whose armor is visibly beaten up."
+  },
+
+
+
+  {
+    id: "the-elf-knight",
+    name: "The Elf Knight",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Knight",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background:
+      "A Royal Knight, and an elf human. He has his own ties to the elf people " +
+      "of this world.",
+    provenance: "Mail over a red undershirt, pale swept-back hair, grey legs.",
+    tags: ["knight", "elf", "half-elf", "medieval", "royal-knights", "kinship"],
+    images: ["images/the-elf-knight-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. First mention of elves anywhere in the collection - the world already had dwarves, gnomes, several alien species and a viking, and it turns out it has elves too. He is the tie to them and none of them are photographed yet."
+  },
+
+
+  {
+    id: "the-dragon-knight",
+    name: "The Dragon Knight",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Knight",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "A dragon knight.",
+    provenance:
+      "Gold dragon helm over full silver plate, and a white dragon on blue on " +
+      "the shield - not the lion the rest of the order carries.",
+    tags: ["knight", "dragon", "plate-armor", "heraldry", "medieval", "royal-knights"],
+    images: ["images/the-dragon-knight-01.jpg"],
+    acquired: "",
+    notes: "Filed with the Royal Knights on the strength of the batch, but flagging it: his arms are a dragon, not the blue lion shield. He is the second knight here under different heraldry, after the Second Royal Archer - which either means there is a second house in the realm or it means nothing. Second man in full plate, after the Supreme Mega Knight."
+  },
+
+
+  {
+    id: "finn",
+    name: "Finn",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Adventure Time",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Finn, from Adventure Time.",
+    provenance:
+      "Built rather than bought - a plain blue torso and a white helmet standing " +
+      "in for the hat.",
+    tags: ["finn", "adventure-time", "visitor", "custom-build"],
+    images: ["images/finn-01.jpg"],
+    acquired: "",
+    notes: "First figure here that is custom in origin and branded in theme at the same time, and the split is deliberate: origin describes the figure, theme describes who it is. Tony Stark and SpongeBob are real Lego figures of themselves; this is a build of somebody. Seventh theme outside the Creation Mythos."
+  },
+
+
+  {
+    id: "the-common-knight",
+    name: "The Common Knight",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Knight",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "A normal knight.",
+    provenance:
+      "Pointed helm with neck guards, lion's head on the chest - and a face " +
+      "printed frowning with sweat coming off it.",
+    tags: ["knight", "medieval", "royal-knights", "ordinary", "sweating"],
+    images: ["images/the-common-knight-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, from your word for him. The plainest knight in the order, and the only one in 285 figures whose face is printed sweating - which is a strange thing to find on the one you called normal."
   },
 
 

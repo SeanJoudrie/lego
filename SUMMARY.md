@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-281 characters from a custom LEGO minifigure world, in the order they were
+285 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2418,7 +2418,7 @@ It is their job, for Easter.
 
 *Tags:* bunny-suit, easter, costume, job, pair
 
-### 194. SpongeBob
+### 194. SpongeBob — Two outfits
 
 **Alignment:** good · **Figure:** branded
 
@@ -3337,6 +3337,46 @@ The supreme mega knight.
 *How it was got:* Full plate - barred visor, breastplate, pauldrons, the lot. Battered, scuffed and grubby with it.
 
 *Tags:* knight, supreme, full-plate, armor, medieval, royal-knights
+
+### 282. The Elf Knight
+
+**Alignment:** good · **Role:** Knight · **Based:** The Medieval Era · **Figure:** custom
+
+A Royal Knight, and an elf human. He has his own ties to the elf people of this world.
+
+*How it was got:* Mail over a red undershirt, pale swept-back hair, grey legs.
+
+*Tags:* knight, elf, half-elf, medieval, royal-knights, kinship
+
+### 283. The Dragon Knight
+
+**Alignment:** good · **Role:** Knight · **Based:** The Medieval Era · **Figure:** custom
+
+A dragon knight.
+
+*How it was got:* Gold dragon helm over full silver plate, and a white dragon on blue on the shield - not the lion the rest of the order carries.
+
+*Tags:* knight, dragon, plate-armor, heraldry, medieval, royal-knights
+
+### 284. Finn
+
+**Alignment:** good · **Figure:** custom
+
+Finn, from Adventure Time.
+
+*How it was got:* Built rather than bought - a plain blue torso and a white helmet standing in for the hat.
+
+*Tags:* finn, adventure-time, visitor, custom-build
+
+### 285. The Common Knight
+
+**Alignment:** good · **Role:** Knight · **Based:** The Medieval Era · **Figure:** custom
+
+A normal knight.
+
+*How it was got:* Pointed helm with neck guards, lion's head on the chest - and a face printed frowning with sweat coming off it.
+
+*Tags:* knight, medieval, royal-knights, ordinary, sweating
 
 ---
 
