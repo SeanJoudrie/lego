@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-293 characters from a custom LEGO minifigure world, in the order they were
+298 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3465,6 +3465,56 @@ A leprechaun.
 *How it was got:* Green tails, buckled top hat, shamrock on the lapel, ginger beard.
 
 *Tags:* leprechaun, small-folk, green, shamrock, folklore
+
+### 294. The Delta Leader
+
+**Alignment:** good · **Role:** Squad Leader · **Figure:** custom
+
+Leader of Delta Squad.
+
+*How it was got:* The only one of the five with his head uncovered - dark hair instead of a helmet, same green fatigues as the rest.
+
+*Tags:* delta-squad, soldier, leader, squad
+
+### 295. The Delta Medic
+
+**Alignment:** good · **Role:** Medic · **Figure:** custom
+
+Delta Squad's medic.
+
+*How it was got:* White cross on the helmet, and the only plain smile in the squad.
+
+*Tags:* delta-squad, medic, soldier, red-cross
+
+### 296. The Delta Gunner
+
+**Alignment:** good · **Role:** Machine Gunner · **Figure:** custom
+
+Delta Squad's machine gunner.
+
+*How it was got:* Stubble and a mark over one eye.
+
+*Tags:* delta-squad, machine-gun, soldier, gunner
+
+### 297. The Delta Artilleryman
+
+**Alignment:** good · **Role:** Artillery · **Figure:** custom
+
+Delta Squad's artillery.
+
+*How it was got:* Pale head rather than yellow, and a face printed bloodied and furious.
+
+*Tags:* delta-squad, artillery, soldier, battered
+
+### 298. The Delta Sniper
+
+**Alignment:** good · **Role:** Sniper · **Figure:** custom
+
+Delta Squad's sniper.
+
+*How it was got:* Chinstrap down, pale head, one fair eyebrow showing under the helmet.
+
+*Tags:* delta-squad, sniper, soldier, marksman
 
 ---
 

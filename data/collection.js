@@ -7803,6 +7803,119 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-delta-leader",
+    name: "The Delta Leader",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Squad Leader",
+    group: "Delta Squad",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Leader of Delta Squad.",
+    provenance:
+      "The only one of the five with his head uncovered - dark hair instead of " +
+      "a helmet, same green fatigues as the rest.",
+    tags: ["delta-squad", "soldier", "leader", "squad"],
+    images: ["images/the-delta-leader-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Delta Squad is the first unit in the collection built as a fireteam rather than assembled as a roster - leader, medic, machine gun, artillery, sniper, one man to each job. Every other group here is people who happen to share an employer."
+  },
+
+
+  {
+    id: "the-delta-medic",
+    name: "The Delta Medic",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Medic",
+    group: "Delta Squad",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Delta Squad's medic.",
+    provenance: "White cross on the helmet, and the only plain smile in the squad.",
+    tags: ["delta-squad", "medic", "soldier", "red-cross"],
+    images: ["images/the-delta-medic-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Second Medic in the collection, after the Space Militia's. He is also the only man in Delta Squad who is not scowling, which is a fair division of labour."
+  },
+
+
+  {
+    id: "the-delta-gunner",
+    name: "The Delta Gunner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Machine Gunner",
+    group: "Delta Squad",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Delta Squad's machine gunner.",
+    provenance: "Stubble and a mark over one eye.",
+    tags: ["delta-squad", "machine-gun", "soldier", "gunner"],
+    images: ["images/the-delta-gunner-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Third gunner in the collection, after the Gunner of the Space Police and the Minigunner."
+  },
+
+
+  {
+    id: "the-delta-artilleryman",
+    name: "The Delta Artilleryman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Artillery",
+    group: "Delta Squad",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Delta Squad's artillery.",
+    provenance: "Pale head rather than yellow, and a face printed bloodied and furious.",
+    tags: ["delta-squad", "artillery", "soldier", "battered"],
+    images: ["images/the-delta-artilleryman-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Only artillery specialist in the collection - this world has five armed services, dozens of soldiers and nobody else whose job is the big guns."
+  },
+
+
+  {
+    id: "the-delta-sniper",
+    name: "The Delta Sniper",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Sniper",
+    group: "Delta Squad",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Delta Squad's sniper.",
+    provenance: "Chinstrap down, pale head, one fair eyebrow showing under the helmet.",
+    tags: ["delta-squad", "sniper", "soldier", "marksman"],
+    images: ["images/the-delta-sniper-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Third sniper here, after the Sniper and the Golden Sniper - and the first one who belongs to a squad rather than working alone or for hire."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
