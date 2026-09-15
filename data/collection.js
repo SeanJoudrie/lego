@@ -6904,7 +6904,7 @@ window.COLLECTION = [
   {
     id: "the-yellow-spaceman",
     name: "The Yellow Spaceman",
-    variant: "",
+    variant: "Two figures",
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
@@ -6916,12 +6916,17 @@ window.COLLECTION = [
     rating: 0,
     background: "A yellow spaceman.",
     provenance:
-      "Yellow throughout, no helmet, and the oldest face in the collection - " +
-      "two plain dots and a line. The planet-and-rocket badge is worn nearly off.",
+      "Two of him. Both are yellow throughout with no helmet and the oldest " +
+      "face in the collection - two plain dots and a line. One is scuffed and " +
+      "grubby with the planet-and-rocket badge worn nearly off; the other is " +
+      "clean, with the badge still crisp.",
     tags: ["spaceman", "classic-space", "yellow", "vintage", "worn"],
-    images: ["images/the-yellow-spaceman-01.jpg"],
+    images: [
+      { src: "images/the-yellow-spaceman-01.jpg", caption: "The worn one" },
+      { src: "images/the-yellow-spaceman-02.jpg", caption: "The clean one" },
+    ],
     acquired: "",
-    notes: "Third in Classic Space, which settles the group: blue, red and now yellow, same badge, same service. Probably the oldest Lego figure here after the Ancient, who is not Lego at all."
+    notes: "Third in Classic Space, which settled the group: blue, red and now yellow, same badge, same service. Probably the oldest Lego figure here after the Ancient, who is not Lego at all. A second yellow figure has since turned up, kept on this card as one man in two conditions - but unlike Luke or Yoda, these two could as easily be two different spacemen, since the trio are told apart by colour and there is nothing else to tell these two apart by. Say the word and the clean one gets his own entry."
   },
 
 
@@ -11374,6 +11379,110 @@ window.COLLECTION = [
     images: ["images/the-a-wing-pilot-01.jpg"],
     acquired: "",
     notes: "Ninth in the Rebel Pilots, and the odd one out in it - everybody else in that squadron flies X-wings in orange, and he is in green for a different ship. Also one of the oldest figures in the whole collection by manufacture, at twenty-five years."
+  },
+
+
+  {
+    id: "the-arctic-explorers",
+    name: "The Arctic Explorers",
+    variant: "Six of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Explorer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An adventure squad of arctic explorers and mountaineers. There are six " +
+      "of them.",
+    provenance:
+      "All six carry the same badge - a white mountain on pale blue with " +
+      "ARCTIC in red under it. Four are in green parkas with white fur hoods " +
+      "and blue snow goggles, one of those with a rainbow visor. One wears a " +
+      "green cap and sunglasses instead of a hood, with A2 stencilled on his " +
+      "chest. The last is in grey and blue with a black-lined hood.",
+    tags: ["arctic", "explorer", "mountaineer", "unit", "six", "cold-weather", "expedition"],
+    images: [{ src: "images/the-arctic-explorers-01.jpg", caption: "All six" }],
+    acquired: "",
+    notes: "One entry for the squad, the way the US Army Soldiers and the Gungan Soldiers are done. The man in the cap is the only one showing his whole face and the only one carrying a number, which reads as the one in charge - say so and he gets his own card. This world already has cold-weather people in the Winter Troopers and the Rescue Ranger, and a whole separate Frontier Expedition and Jungle Adventurers; whether any of them have met is not written down."
+  },
+
+
+  {
+    id: "sev",
+    name: "Sev",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Commando",
+    group: "The Clone Commandos",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Sev, a clone commando.",
+    provenance:
+      "White commando armour slashed all over with red - across the helmet " +
+      "like claw marks, down the arms, across the thighs, and solid red on " +
+      "the boots. Blue visor, black underlay, and a long rifle held upright.",
+    tags: ["star-wars", "clone", "commando", "red", "sniper", "branded"],
+    images: ["images/sev-01.jpg"],
+    acquired: "",
+    notes: "The red on him does not read as unit colour the way the other two commandos wear theirs - it is sprayed on in streaks and spatters, like something done by hand rather than issued."
+  },
+
+
+  {
+    id: "fixer",
+    name: "Fixer",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Commando",
+    group: "The Clone Commandos",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Fixer, a clone commando.",
+    provenance:
+      "White commando armour marked in green - a stripe straight over the " +
+      "crown of the helmet and down the faceplate, green panels on the chest, " +
+      "shoulders and thighs. Blue visor, black hands.",
+    tags: ["star-wars", "clone", "commando", "green", "branded"],
+    images: ["images/fixer-01.jpg"],
+    acquired: "",
+    notes: "His markings are laid on in clean straight lines where Sev\'s are slashed - the same armour, painted by two different temperaments."
+  },
+
+
+  {
+    id: "scorch",
+    name: "Scorch",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Commando",
+    group: "The Clone Commandos",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Scorch, a clone commando.",
+    provenance:
+      "White commando armour with yellow at the hips, thighs and boots and a " +
+      "yellow flash on one arm. Plain white helmet with a blue visor, no " +
+      "colour on it at all, and grey and black plating across the chest.",
+    tags: ["star-wars", "clone", "commando", "yellow", "demolitions", "branded"],
+    images: ["images/scorch-01.jpg"],
+    acquired: "",
+    notes: "New group, The Clone Commandos - and here is the thing worth knowing. In their own source these three are Delta Squad, and this collection already has a Delta Squad: six soldiers of your own, with a leader, a medic, a gunner, an artilleryman, a sniper and a rifleman. Two Delta Squads in one world. I kept them apart rather than merge two units that only share a name, but say the word and they become one."
   },
 
 

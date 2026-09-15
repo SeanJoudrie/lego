@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-429 characters from a custom LEGO minifigure world, in the order they were
+433 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3060,13 +3060,13 @@ A bodybuilder.
 
 *Tags:* bodybuilder, athlete, gym, muscles, background
 
-### 255. The Yellow Spaceman
+### 255. The Yellow Spaceman — Two figures
 
 **Alignment:** good · **Role:** Spaceman · **Figure:** custom
 
 A yellow spaceman.
 
-*How it was got:* Yellow throughout, no helmet, and the oldest face in the collection - two plain dots and a line. The planet-and-rocket badge is worn nearly off.
+*How it was got:* Two of him. Both are yellow throughout with no helmet and the oldest face in the collection - two plain dots and a line. One is scuffed and grubby with the planet-and-rocket badge worn nearly off; the other is clean, with the badge still crisp.
 
 *Tags:* spaceman, classic-space, yellow, vintage, worn
 
@@ -4903,6 +4903,46 @@ A rebel A-wing pilot.
 Double-checked as you asked: you were right. This is the A-wing pilot, Lego part sw0031 - the oldest of the seven versions they have made, first released in 2000, and the one with the classic yellow head and the see-through yellow visor rather than a flesh face.
 
 *Tags:* star-wars, rebel, pilot, a-wing, green, vintage, branded
+
+### 430. The Arctic Explorers — Six of them
+
+**Alignment:** good · **Role:** Explorer · **Figure:** custom
+
+An adventure squad of arctic explorers and mountaineers. There are six of them.
+
+*How it was got:* All six carry the same badge - a white mountain on pale blue with ARCTIC in red under it. Four are in green parkas with white fur hoods and blue snow goggles, one of those with a rainbow visor. One wears a green cap and sunglasses instead of a hood, with A2 stencilled on his chest. The last is in grey and blue with a black-lined hood.
+
+*Tags:* arctic, explorer, mountaineer, unit, six, cold-weather, expedition
+
+### 431. Sev
+
+**Alignment:** good · **Role:** Clone Commando · **Figure:** branded
+
+Sev, a clone commando.
+
+*How it was got:* White commando armour slashed all over with red - across the helmet like claw marks, down the arms, across the thighs, and solid red on the boots. Blue visor, black underlay, and a long rifle held upright.
+
+*Tags:* star-wars, clone, commando, red, sniper, branded
+
+### 432. Fixer
+
+**Alignment:** good · **Role:** Clone Commando · **Figure:** branded
+
+Fixer, a clone commando.
+
+*How it was got:* White commando armour marked in green - a stripe straight over the crown of the helmet and down the faceplate, green panels on the chest, shoulders and thighs. Blue visor, black hands.
+
+*Tags:* star-wars, clone, commando, green, branded
+
+### 433. Scorch
+
+**Alignment:** good · **Role:** Clone Commando · **Figure:** branded
+
+Scorch, a clone commando.
+
+*How it was got:* White commando armour with yellow at the hips, thighs and boots and a yellow flash on one arm. Plain white helmet with a blue visor, no colour on it at all, and grey and black plating across the chest.
+
+*Tags:* star-wars, clone, commando, yellow, demolitions, branded
 
 ---
 
