@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-420 characters from a custom LEGO minifigure world, in the order they were
+423 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4254,13 +4254,13 @@ A Kaminoan.
 
 *Tags:* star-wars, kaminoan, alien, cloner, branded
 
-### 368. Obi-Wan Kenobi — Two eras
+### 368. Obi-Wan Kenobi — Three figures
 
 **Alignment:** good · **Role:** Jedi · **Figure:** branded
 
 Obi-Wan Kenobi.
 
-*How it was got:* Two figures of the same man. The older one has a full ginger beard, flesh-toned face, a brown cloth cape and rust-coloured legs. The younger has a plain yellow head, long hair past the shoulders, a headset at the jaw and tan robes throughout.
+*How it was got:* Two figures of the same man. The older one has a full ginger beard, flesh-toned face, a brown cloth cape and rust-coloured legs. The younger has a plain yellow head, long hair past the shoulders, a headset at the jaw and tan robes throughout. A third has him bearded again but shoulder-length and worn, in a heavy brown outer robe over pale wrappings, mouth open as though caught mid-word.
 
 *Tags:* star-wars, jedi, obi-wan, beard, robes, branded
 
@@ -4636,13 +4636,13 @@ A droid built out of whatever was to hand.
 
 *Tags:* droid, astromech, scrap-built, custom, dish, improvised
 
-### 406. Lloyd
+### 406. Lloyd — Two figures
 
 **Alignment:** good · **Role:** Ninja · **Figure:** branded
 
 Lloyd, the green ninja.
 
-*How it was got:* Two-tone green hood, lime over dark, with a yellow band across the eyes and brows drawn hard down. Green gi scaled in lime across one shoulder, a white wrapped sash, olive legs, and mismatched arms - one dark green, one lime.
+*How it was got:* Two figures of the same man. The first has a two-tone green hood, lime over dark, a yellow band across the eyes, a gi scaled in lime and a white sash. The second wears a pale blonde hair piece pushed over the hood, so the mask covers the mouth but the head is uncovered, in a darker green kit hung with gold rope and two straight swords - one sheathed at the back, one in his hand.
 
 *Tags:* ninjago, ninja, green, hood, branded
 
@@ -4795,6 +4795,38 @@ Buzz Lightyear, a Space Ranger. Also a toy.
 *How it was got:* Purple hood over a white face with a curl of hair printed on it, under a clear domed helmet. Green and white suit with a lit control panel at the chest, and a pair of wings spread out behind him, striped red and white at the tips.
 
 *Tags:* toy-story, space-ranger, wings, helmet, doll, branded
+
+### 421. The Toy Alien
+
+**Alignment:** good · **Figure:** branded
+
+One of the three-eyed aliens.
+
+*How it was got:* Moulded green head with three eyes in a row, pointed ears and a knob on a stalk rising from the crown. Blue suit with a pink collar and a ringed planet on the chest, green hands.
+
+*Tags:* toy-story, alien, three-eyed, claw, branded
+
+### 422. Goku
+
+**Alignment:** good · **Figure:** branded
+
+Goku, gone Super Saiyan.
+
+*How it was got:* Spiked yellow hair moulded into a flame, green eyes, mouth open in a shout. Orange gi torn ragged across the chest and thighs with the skin showing through, blue undershirt and wristbands, blue boots.
+
+Worth recording: Lego has never made a Dragon Ball figure. The printing is sharper and busier than anything official in the collection, which means this one came from somewhere else.
+
+*Tags:* dragon-ball, super-saiyan, martial-arts, third-party
+
+### 423. The Mandalorian Armorer
+
+**Alignment:** good · **Role:** Armorer · **Figure:** branded
+
+The Armorer, who forges beskar for the Mandalorians and keeps their creed.
+
+*How it was got:* Gold horned helmet with a narrow visor and four black spikes along the crown, a real fur mantle across the shoulders, a dark red chest plate, and a cloth kilt over printed legs.
+
+*Tags:* star-wars, mandalorian, armorer, beskar, fur, helmet, branded
 
 ---
 

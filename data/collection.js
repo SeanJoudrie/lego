@@ -9698,7 +9698,7 @@ window.COLLECTION = [
   {
     id: "obi-wan-kenobi",
     name: "Obi-Wan Kenobi",
-    variant: "Two eras",
+    variant: "Three figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9713,14 +9713,17 @@ window.COLLECTION = [
       "Two figures of the same man. The older one has a full ginger beard, " +
       "flesh-toned face, a brown cloth cape and rust-coloured legs. The " +
       "younger has a plain yellow head, long hair past the shoulders, a " +
-      "headset at the jaw and tan robes throughout.",
+      "headset at the jaw and tan robes throughout. A third has him bearded " +
+      "again but shoulder-length and worn, in a heavy brown outer robe over pale " +
+      "wrappings, mouth open as though caught mid-word.",
     tags: ["star-wars", "jedi", "obi-wan", "beard", "robes", "branded"],
     images: [
       { src: "images/obi-wan-kenobi-01.jpg", caption: "Bearded, in the brown cape" },
       { src: "images/obi-wan-kenobi-02.jpg", caption: "Long-haired, with a headset" },
+      { src: "images/obi-wan-kenobi-03.jpg", caption: "Older, in the heavy robe" },
     ],
     acquired: "",
-    notes: "One entry, two figures - the same man at two points in his life, the way the Prince and SpongeBob are done. Putting them in as two cards would have broken the one-entry rule. The older of the two is also the only Jedi here with a real cloth cape."
+    notes: "One entry, two figures - the same man at two points in his life, the way the Prince and SpongeBob are done. Putting them in as two cards would have broken the one-entry rule. Three now, which puts him level with Mace Windu, Luke, Anakin and Ahsoka as the most photographed people in the collection."
   },
 
 
@@ -10698,7 +10701,7 @@ window.COLLECTION = [
   {
     id: "lloyd",
     name: "Lloyd",
-    variant: "",
+    variant: "Two figures",
     faction: "good",
     origin: "branded",
     theme: "Ninjago",
@@ -10710,14 +10713,19 @@ window.COLLECTION = [
     rating: 0,
     background: "Lloyd, the green ninja.",
     provenance:
-      "Two-tone green hood, lime over dark, with a yellow band across the " +
-      "eyes and brows drawn hard down. Green gi scaled in lime across one " +
-      "shoulder, a white wrapped sash, olive legs, and mismatched arms - one " +
-      "dark green, one lime.",
+      "Two figures of the same man. The first has a two-tone green hood, lime " +
+      "over dark, a yellow band across the eyes, a gi scaled in lime and a " +
+      "white sash. The second wears a pale blonde hair piece pushed over the " +
+      "hood, so the mask covers the mouth but the head is uncovered, in a " +
+      "darker green kit hung with gold rope and two straight swords - one " +
+      "sheathed at the back, one in his hand.",
     tags: ["ninjago", "ninja", "green", "hood", "branded"],
-    images: ["images/lloyd-01.jpg"],
+    images: [
+      { src: "images/lloyd-01.jpg", caption: "Hooded" },
+      { src: "images/lloyd-02.jpg", caption: "Hair over the hood, swords drawn" },
+    ],
     acquired: "",
-    notes: "Sixth of the Ninjago group. His green is the one colour the other five do not wear - red, blue, white, black and Nya in red plate - so the set reads complete with him in it."
+    notes: "Sixth of the Ninjago group, and his green is the one colour the other five do not wear. Two figures on one card, and the second is a halfway state nobody else here has - hair over the hood, face still masked, neither covered nor uncovered."
   },
 
 
@@ -11052,7 +11060,7 @@ window.COLLECTION = [
     theme: "Toy Story",
     rank: "",
     role: "",
-    group: "",
+    group: "The Toys",
     location: "",
     relations: [],
     rating: 0,
@@ -11083,7 +11091,7 @@ window.COLLECTION = [
     theme: "Toy Story",
     rank: "",
     role: "Space Ranger",
-    group: "",
+    group: "The Toys",
     location: "",
     relations: [],
     rating: 0,
@@ -11096,7 +11104,87 @@ window.COLLECTION = [
     tags: ["toy-story", "space-ranger", "wings", "helmet", "doll", "branded"],
     images: ["images/buzz-lightyear-01.jpg"],
     acquired: "",
-    notes: "This collection is full of space forces - the Space Militia, the Space Police, Classic Space, the Royal Space Academy, Mars Mission, the Green Rangers - and he is the only spaceman in it who is not really one. Left ungrouped: he and Woody are two, and two is not an organisation by the rule the Winter Troopers and the dwarves set."
+    notes: "This collection is full of space forces - the Space Militia, the Space Police, Classic Space, the Royal Space Academy, Mars Mission, the Green Rangers - and he is the only spaceman in it who is not really one. He and Woody were left ungrouped at two last time, because two is not an organisation by the rule the Winter Troopers and the dwarves set - the third toy arrived in the very next batch, so they are The Toys now."
+  },
+
+
+  {
+    id: "the-toy-alien",
+    name: "The Toy Alien",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Toy Story",
+    rank: "",
+    role: "",
+    group: "The Toys",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the three-eyed aliens.",
+    provenance:
+      "Moulded green head with three eyes in a row, pointed ears and a knob " +
+      "on a stalk rising from the crown. Blue suit with a pink collar and a " +
+      "ringed planet on the chest, green hands.",
+    tags: ["toy-story", "alien", "three-eyed", "claw", "branded"],
+    images: ["images/the-toy-alien-01.jpg"],
+    acquired: "",
+    notes: "Third Toy Story figure, which makes The Toys a group - Woody and Buzz were left loose last batch waiting for exactly this. He is also one of a crowd rather than a person, the way the Gungan Soldiers and the astromechs are, but he is the only one of that sort catalogued alone rather than as a unit."
+  },
+
+
+  {
+    id: "goku",
+    name: "Goku",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Dragon Ball",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Goku, gone Super Saiyan.",
+    provenance:
+      "Spiked yellow hair moulded into a flame, green eyes, mouth open in a " +
+      "shout. Orange gi torn ragged across the chest and thighs with the skin " +
+      "showing through, blue undershirt and wristbands, blue boots.\n\n" +
+      "Worth recording: Lego has never made a Dragon Ball figure. The " +
+      "printing is sharper and busier than anything official in the " +
+      "collection, which means this one came from somewhere else.",
+    tags: ["dragon-ball", "super-saiyan", "martial-arts", "third-party"],
+    images: ["images/goku-01.jpg"],
+    acquired: "",
+    notes: "Opens an eighteenth theme. He is the first figure here that is a branded character on a piece Lego never made, and this world already has a word for that sort of thing - the Knock-offs, who came from other makers and went to war. If he belongs with the Defector, the Brute Prince, the Car Repairman and the Red Spartan, say so and he moves."
+  },
+
+
+  {
+    id: "the-mandalorian-armorer",
+    name: "The Mandalorian Armorer",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Armorer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The Armorer, who forges beskar for the Mandalorians and keeps their " +
+      "creed.",
+    provenance:
+      "Gold horned helmet with a narrow visor and four black spikes along the " +
+      "crown, a real fur mantle across the shoulders, a dark red chest plate, " +
+      "and a cloth kilt over printed legs.",
+    tags: ["star-wars", "mandalorian", "armorer", "beskar", "fur", "helmet", "branded"],
+    images: ["images/the-mandalorian-armorer-01.jpg"],
+    acquired: "",
+    notes: "Named The Mandalorian Armorer rather than just The Armorer, because this collection already has one - a knight out of the Gunless Realm who came to the primary dimension, picked up a firearm and turned out to be the best shot in it. Two armorers now, one in each of two worlds, and neither has anything to do with the other unless you say so. Second Mandalorian here, after the bounty hunter."
   },
 
 
