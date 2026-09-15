@@ -4968,13 +4968,13 @@ Looked him up as you asked, and could not pin him down. The obvious candidate is
 
 *Tags:* star-wars, clone, trooper, green, commander-helmet, branded
 
-### 436. The 501st Troopers — Three of them, two prints
+### 436. The 501st Troopers — Four of them
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
-Troopers of the 501st. There are three of them.
+Troopers of the 501st. There are four of them.
 
-*How it was got:* Phase 2 helmets with a blue stripe over the crown and blue down the cheek, blue arms, blue flashes at the knees. Identical to each other down to the last line. A third is the same trooper on a later print - the blue laid on heavier over the crown, a blue wedge at the sternum the first two do not have, and the knee bands outlined in black.
+*How it was got:* Phase 2 helmets with a blue stripe over the crown and blue down the cheek, blue arms, blue flashes at the knees. Identical to each other down to the last line. A third is the same trooper on a later print - the blue laid on heavier over the crown, a blue wedge at the sternum the first two do not have, and the knee bands outlined in black. A fourth is the same again on plain white legs, no knee bands at all.
 
 *Tags:* star-wars, clone, trooper, 501st, blue, unit, two, branded
 
@@ -5202,27 +5202,27 @@ A fourth stands apart: a silver ribbed pauldron over one shoulder, and the arm b
 
 *Tags:* verdauf, squadron, guard, green-armor, respirator, unit, three
 
-### 459. The Battle Pack Clone
+### 459. The Clone Bombers — Two of them
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
-A clone trooper.
+Clone bombers. There are two of them.
 
 *How it was got:* Phase 1 helmet with an olive-tan cap over the crown and a dark Republic crest at each temple, a fin standing up from the top. Grey arms, white legs, and a silver hexagonal plate at the chest that the other clones here do not have.
 
-Out of one of the early clone battle packs, by your account.
+Out of one of the early clone battle packs, by your account. A second of him has since turned up, identical down to the chest plate.
 
 *Tags:* star-wars, clone, trooper, phase-1, republic-crest, vintage, branded
 
-### 460. The Plain Clone Trooper — Two figures
+### 460. The Plain Clones — About a dozen
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
-A clone trooper, with no unit markings at all.
+Clone troopers with no unit markings at all. There are about a dozen of them.
 
 *How it was got:* Phase 1 helmet and armour in plain white - the black brow band, the moustache vent and the grey chest lines are all the printing there is. No colour anywhere on him. The white has gone faintly cream.
 
-A second of him is the same unmarked armour on a later print: the same Phase 1 helmet, but the chest plates outlined in bold black and the belt drawn as a row of separate boxes rather than a grey smudge.
+A second of him is the same unmarked armour on a later print: the same Phase 1 helmet, but the chest plates outlined in bold black and the belt drawn as a row of separate boxes rather than a grey smudge. Photographed together they come to roughly a dozen - the count is read off the group shot rather than tallied - and every one of them is the same unmarked white.
 
 *Tags:* star-wars, clone, trooper, phase-1, unmarked, branded
 
@@ -5402,13 +5402,13 @@ Read as Fives on the markings. His helmet is supposed to carry a rishi eel drawn
 
 *Tags:* star-wars, clone, arc-trooper, 501st, fives, blue, branded
 
-### 478. The 501st ARC Troopers — Two of them
+### 478. The 501st ARC Troopers — Three of them
 
 **Alignment:** good · **Role:** ARC Trooper · **Figure:** branded
 
-ARC troopers of the 501st. There are two of them.
+ARC troopers of the 501st. There are three of them.
 
-*How it was got:* Both wear the blue rangefinder raised above the brow and blue stripes straight back over the crown, either side of the fin. One has a plain 501st chest with blue belt boxes; the other has the grey harness and slung bandolier across it.
+*How it was got:* Both wear the blue rangefinder raised above the brow and blue stripes straight back over the crown, either side of the fin. One has a plain 501st chest with blue belt boxes; the other has the grey harness and slung bandolier across it. A third breaks the pattern: his rangefinder is white rather than blue, and two yellow chevrons are printed at his collar where the others carry none.
 
 *Tags:* star-wars, clone, arc-trooper, 501st, blue, rangefinder, unit, two, branded
 

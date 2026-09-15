@@ -11574,7 +11574,7 @@ window.COLLECTION = [
   {
     id: "the-501st-troopers",
     name: "The 501st Troopers",
-    variant: "Three of them, two prints",
+    variant: "Four of them",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -11584,18 +11584,20 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Troopers of the 501st. There are three of them.",
+    background: "Troopers of the 501st. There are four of them.",
     provenance:
       "Phase 2 helmets with a blue stripe over the crown and blue down the " +
       "cheek, blue arms, blue flashes at the knees. Identical to each other " +
       "down to the last line. A third is the same " +
       "trooper on a later print - the blue laid on heavier over the crown, a " +
       "blue wedge at the sternum the first two do not have, and the knee bands " +
-      "outlined in black.",
+      "outlined in black. " +
+      "A fourth is the same again on plain white legs, no knee bands at all.",
     tags: ["star-wars", "clone", "trooper", "501st", "blue", "unit", "two", "branded"],
     images: [
       { src: "images/the-501st-troopers-01.jpg", caption: "The first two" },
       { src: "images/the-501st-troopers-02.jpg", caption: "The third, a later print" },
+      { src: "images/the-501st-troopers-03.jpg", caption: "The fourth, on plain legs" },
     ],
     acquired: "",
     notes: "One entry for the pair, the way the Enforcer Squad and the Gungan Soldiers are done. Clones are the one case where that is not a shortcut - they really are the same man twice. Captain Rex has since arrived in the same blue, so the 501st is a group of its own now rather than two men filed under the whole army."
@@ -12195,8 +12197,8 @@ window.COLLECTION = [
 
   {
     id: "the-battle-pack-clone",
-    name: "The Battle Pack Clone",
-    variant: "",
+    name: "The Clone Bombers",
+    variant: "Two of them",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -12206,24 +12208,28 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "A clone trooper.",
+    background: "Clone bombers. There are two of them.",
     provenance:
       "Phase 1 helmet with an olive-tan cap over the crown and a dark " +
       "Republic crest at each temple, a fin standing up from the top. Grey " +
       "arms, white legs, and a silver hexagonal plate at the chest that the " +
       "other clones here do not have.\n\n" +
-      "Out of one of the early clone battle packs, by your account.",
+      "Out of one of the early clone battle packs, by your account. " +
+      "A second of him has since turned up, identical down to the chest plate.",
     tags: ["star-wars", "clone", "trooper", "phase-1", "republic-crest", "vintage", "branded"],
-    images: ["images/the-battle-pack-clone-01.jpg"],
+    images: [
+      { src: "images/the-battle-pack-clone-01.jpg", caption: "The first" },
+      { src: "images/the-battle-pack-clone-02.jpg", caption: "The second" },
+    ],
     acquired: "",
-    notes: "Placeholder name, taken from where he came from rather than who he is. The silver chest plate is the thing to look at - no other clone in the collection has armour drawn as a separate plate over the body."
+    notes: "Renamed from The Battle Pack Clone, which was a placeholder taken from where he came from - you called them clone bombers, so that is the name now. Two of them. The silver chest plate is the thing to look at - no other clone in the collection has armour drawn as a separate plate over the body."
   },
 
 
   {
     id: "the-plain-clone-trooper",
-    name: "The Plain Clone Trooper",
-    variant: "Two figures",
+    name: "The Plain Clones",
+    variant: "About a dozen",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -12233,21 +12239,26 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "A clone trooper, with no unit markings at all.",
+    background: "Clone troopers with no unit markings at all. There are about a dozen of them.",
     provenance:
       "Phase 1 helmet and armour in plain white - the black brow band, the " +
       "moustache vent and the grey chest lines are all the printing there is. " +
       "No colour anywhere on him. The white has gone faintly cream.\n\n" +
       "A second of him is the same unmarked armour on a later print: the same " +
       "Phase 1 helmet, but the chest plates outlined in bold black and the belt " +
-      "drawn as a row of separate boxes rather than a grey smudge.",
+      "drawn as a row of separate boxes rather than a grey smudge. " +
+      "Photographed together they come to roughly a dozen - the count is read " +
+      "off the group shot rather than tallied - and every one of them is the " +
+      "same unmarked white.",
     tags: ["star-wars", "clone", "trooper", "phase-1", "unmarked", "branded"],
     images: [
       { src: "images/the-plain-clone-trooper-01.jpg", caption: "The faint print" },
       { src: "images/the-plain-clone-trooper-02.jpg", caption: "The crisper print" },
+      { src: "images/the-plain-clone-trooper-03.jpg", caption: "One of them, out in front" },
+      { src: "images/the-plain-clone-trooper-04.jpg", caption: "About a dozen together" },
     ],
     acquired: "",
-    notes: "The only clone here wearing no unit colour whatsoever - every other one carries yellow, blue, green, orange, red or purple somewhere. He is what all of them looked like before they were anybody. Two figures on this card now - both unmarked Phase 1 clones, one printed faintly and one crisply. Read as the same man twice rather than two men, since there is nothing to tell them apart but the printing; say the word and the crisp one gets his own entry."
+    notes: "The only clone here wearing no unit colour whatsoever - every other one carries yellow, blue, green, orange, red or purple somewhere. He is what all of them looked like before they were anybody. Renamed from The Plain Clone Trooper once the group shot arrived - there are about a dozen of them, not one. That makes this the largest unit in the collection, ahead of the ten US Army Soldiers and the nine Rebel Troopers, and every man in it is unmarked. The count is an estimate off the photograph; give me a real number and it goes in."
   },
 
 
@@ -12728,7 +12739,7 @@ window.COLLECTION = [
   {
     id: "the-501st-arc-troopers",
     name: "The 501st ARC Troopers",
-    variant: "Two of them",
+    variant: "Three of them",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -12738,19 +12749,23 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "ARC troopers of the 501st. There are two of them.",
+    background: "ARC troopers of the 501st. There are three of them.",
     provenance:
       "Both wear the blue rangefinder raised above the brow and blue stripes " +
       "straight back over the crown, either side of the fin. One has a plain " +
       "501st chest with blue belt boxes; the other has the grey harness and " +
-      "slung bandolier across it.",
+      "slung bandolier across it. " +
+      "A third breaks the pattern: his rangefinder is white rather than blue, " +
+      "and two yellow chevrons are printed at his collar where the others " +
+      "carry none.",
     tags: ["star-wars", "clone", "arc-trooper", "501st", "blue", "rangefinder", "unit", "two", "branded"],
     images: [
       { src: "images/the-501st-arc-troopers-01.jpg", caption: "With the blue belt boxes" },
       { src: "images/the-501st-arc-troopers-02.jpg", caption: "With the chest harness" },
+      { src: "images/the-501st-arc-troopers-03.jpg", caption: "White rangefinder, yellow chevrons" },
     ],
     acquired: "",
-    notes: "The two ARC troopers left over once Fives was picked out. Their helmets are plain blue stripes either side of the fin, which is how Echo is described, so one of these two may be him - say which and the card splits."
+    notes: "The two ARC troopers left over once Fives was picked out. Their helmets are plain blue stripes either side of the fin, which is how Echo is described, so one of the first two may be him - say which and the card splits. The third is the one worth a second look: a white rangefinder and two yellow chevrons are the only markings of their kind anywhere in the legion, which is how a named man usually announces himself here."
   },
 
 
