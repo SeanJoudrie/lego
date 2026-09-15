@@ -17456,7 +17456,9 @@ window.COLLECTION = [
     role: "Sith",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "emperor-palpatine", label: "His master" },
+    ],
     rating: 0,
     background:
       "Darth Vader.",
@@ -17929,7 +17931,9 @@ window.COLLECTION = [
     role: "Guard",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "emperor-palpatine", label: "Guards him" },
+    ],
     rating: 0,
     background:
       "An Imperial Royal Guard.",
@@ -17942,7 +17946,7 @@ window.COLLECTION = [
     tags: ["villain", "star-wars", "branded", "imperial", "guard", "red", "cape", "unprinted"],
     images: ["images/the-royal-guard-01.jpg"],
     acquired: "",
-    notes: "The first guard in this collection on the bad side. Five were catalogued before him and all five stand in front of somebody good - Heavy and the Prince's Guards and the Guardsman at the Royal Household, the Jedi Palace Guard, and the Ninja Golem who guards the golden sword. This one stands in front of an emperor. He is also almost entirely unprinted, which on that side puts him with the Shadow King, the Purple Shadow and the Shadow Sorcerer - and they are black where he is red."
+    notes: "The first guard in this collection on the bad side. Five were catalogued before him and all five stand in front of somebody good - Heavy and the Prince's Guards and the Guardsman at the Royal Household, the Jedi Palace Guard, and the Ninja Golem who guards the golden sword. This one stands in front of an emperor - and that sentence was written when there was no emperor in this collection. Palpatine has since been catalogued, and the line is drawn. He is also almost entirely unprinted, which on that side puts him with the Shadow King, the Purple Shadow and the Shadow Sorcerer - and they are black where he is red."
   },
 
 
@@ -17988,6 +17992,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "emperor-palpatine", label: "His master" },
       { to: "asajj-ventress", label: "His apprentice" },
       { to: "savage-opress", label: "Trained him, for a time" }
     ],
@@ -18049,6 +18054,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "emperor-palpatine", label: "His master" },
       { to: "savage-opress", label: "His brother" }
     ],
     rating: 0,
@@ -18063,7 +18069,156 @@ window.COLLECTION = [
     tags: ["villain", "star-wars", "branded", "sith", "hood", "cape", "tattooed", "black"],
     images: ["images/darth-maul-01.jpg"],
     acquired: "",
-    notes: "Twenty-eighth branded villain and the eighth Sith. He is here for his brother. Savage Opress was the first figure ever filed on the villain side with a name already printed on the box, the card that broke a run of a hundred and twenty-six bought figures all landing good, and he sat there with an empty relations list for twenty-three villains after him. In one batch he has picked up a brother and a master. He is also the second card in this batch to hand Savage something. Two relations ties him with Dooku for the most of any bought villain here, which is a strange result: the best-connected figures on the branded side of the enemy are now the one who sat alone longest and the master who turned up to claim him."
+    notes: "Twenty-eighth branded villain and the eighth Sith. He is here for his brother. Savage Opress was the first figure ever filed on the villain side with a name already printed on the box, the card that broke a run of a hundred and twenty-six bought figures all landing good, and he sat there with an empty relations list for twenty-three villains after him. In one batch he has picked up a brother and a master. He is also the second card in this batch to hand Savage something. Between the two of them, the first branded villain in this collection went from an empty relations list to a brother and a master in a single batch."
+  },
+
+  {
+    id: "loki",
+    name: "Loki",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Marvel",
+    rank: "Cosmic Deity",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-chitauri", label: "Leads them" }
+    ],
+    rating: 0,
+    background:
+      "Loki. A Norse god, and the one who brought the invasion.",
+    provenance:
+      "A gold helmet with two long curved horns sweeping up and back off the " +
+      "brow, cheek plates coming down either side of the face. Under it a pale " +
+      "face with heavy black brows and a set mouth. Grey armour printed in fine " +
+      "olive and green panels across the chest and down the legs, a green cloth " +
+      "cape to the ankles, grey arms and pale hands. The helmet is taller than " +
+      "the head it sits on.",
+    tags: ["villain", "marvel", "branded", "god", "deity", "norse", "mythology", "horns", "cape", "gold"],
+    images: ["images/loki-01.jpg"],
+    acquired: "",
+    notes: "Twenty-ninth branded villain, and the first villain out of Marvel. Marvel had six figures here before him - Tony Stark, Captain America, Deadpool, Iron Fist, Cowboy Spider-Man and his horse - and every one of them was good, which made it the last big licence on the shelf with no enemy in it at all. He is the sixth Cosmic Deity in this collection and the second on the villain side after Deus Pater, and the third figure here out of real human mythology after Aphrodite and Deus Pater. That is the thing worth stopping on. The rank ladder - the First Man, Cosmic Deity, Demigod, Mortal - was built out of this world's own creation story, and the gods filling it in now are arriving out of Greek myth, Roman myth and Norse myth, through a toy licence."
+  },
+
+  {
+    id: "the-chitauri",
+    name: "The Chitauri",
+    variant: "Two figures",
+    faction: "bad",
+    origin: "branded",
+    theme: "Marvel",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [
+      { to: "loki", label: "Led by him" }
+    ],
+    rating: 0,
+    background:
+      "The Chitauri. The army Loki came through the sky with.",
+    provenance:
+      "Two of them, and their heads are not the same. Both are moulded in gold " +
+      "with a helmet and a face printed straight onto the stud - a pale bone " +
+      "mask with sunk eyes and a tusked jaw underneath gold plating. One has " +
+      "clean gold over the brow; the other has purple worked through the plates " +
+      "and a bright stone set at the forehead, which reads as the senior of the " +
+      "two. The bodies match: white and grey armour with gold shoulder work, " +
+      "brown strapping and purple piping, grey arms and purple hands.",
+    tags: ["villain", "marvel", "branded", "alien", "army", "soldier", "gold", "two-figures"],
+    images: ["images/the-chitauri-01.jpg"],
+    acquired: "",
+    notes: "Thirtieth branded villain, and the fifth alien force on this side that nobody has joined up to any of the others. The catalogue already holds mercenaries nobody has photographed, a militia with a school and one member, five alien soldiers with a medic and a technician, and four alien goons - four doors kept open because nothing in the world said they were the same army. This lot are different in one respect that settles them: they arrived with their commander in the same batch, and he is a god. Every other alien body here is still waiting to be told who it answers to."
+  },
+
+  {
+    id: "emperor-palpatine",
+    name: "Emperor Palpatine",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Emperor",
+    group: "",
+    location: "",
+    relations: [
+      { to: "darth-vader", label: "His apprentice" },
+      { to: "count-dooku", label: "His apprentice" },
+      { to: "darth-maul", label: "His apprentice" },
+      { to: "the-royal-guard", label: "Guarded by him" }
+    ],
+    rating: 0,
+    background:
+      "Emperor Palpatine.",
+    provenance:
+      "A brown hood pulled forward over a white face cut through with deep " +
+      "lines at the brow, cheeks and jaw, the eyes small and yellow. Black " +
+      "robes printed in pale grey folds with a sash at the waist, black arms " +
+      "and hands, black legs, and a long black cloth cape gone soft and frayed " +
+      "at the shoulders. Older wear than most things on the shelf.",
+    tags: ["villain", "star-wars", "branded", "sith", "emperor", "hood", "cape", "old"],
+    images: ["images/emperor-palpatine-01.jpg"],
+    acquired: "",
+    notes: "Thirty-first branded villain and the ninth Sith, after Quinn, the Purple Shadow, the Sith Lord, Savage Opress, Darth Nihilus, Darth Vader, Count Dooku and Darth Maul. He is the first emperor in this collection - no figure on either deck has held that job before, and this one arrives holding the leashes of three men already catalogued. Four relations, which is more than any other bought figure here has, villain or otherwise. The payoff is the Imperial Royal Guard. His card was written with the line that he stands in front of an emperor, at a point when there was no emperor in this collection to stand in front of. There is now."
+  },
+
+  {
+    id: "the-tusken-raider",
+    name: "The Tusken Raider",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Raider",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A Tusken Raider, off the desert planet.",
+    provenance:
+      "A tan head wrapped in printed cloth, with two round silver-ringed eye " +
+      "pieces and a ribbed breathing mouthpiece below them, orange wrapping at " +
+      "the jaw. A tan torso with two crossed bandoliers of orange pouches and a " +
+      "grey belt, tan arms and legs, grey hands. Nothing of the face is visible " +
+      "and nothing on him is metal armour - it is all cloth, strap and pouch.",
+    tags: ["villain", "star-wars", "branded", "desert", "masked", "raider", "tan"],
+    images: ["images/the-tusken-raider-01.jpg"],
+    acquired: "",
+    notes: "Thirty-second branded villain, and the first raider in this collection - nobody on either deck has held that job, which is a gap for a world with this many soldiers, pirates and bandits in it. He is worth reading next to Anakin Skywalker's card, which is two decks over and holds two figures of the same boy in plain pale desert clothes with no weapon. This figure comes off that same desert. Nothing is written between them and nothing should be until it is said out loud, but they are the only two things in this collection standing on the same sand."
+  },
+
+  {
+    id: "jek-14",
+    name: "Jek-14",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Jek-14. A clone the other side built for itself.",
+    provenance:
+      "A clone helmet in white with dark red blocks over the crown, down the " +
+      "brow and along the breathing vents, and the eye slits picked out in pale " +
+      "blue rather than the black every other clone here has. A white torso " +
+      "with dark red chest plates and a grey belt, white legs with dark red " +
+      "knee flashes. One arm is white; the other is translucent blue all the " +
+      "way down to a white hand, which is not a colour any trooper in this " +
+      "collection has anywhere on him.",
+    tags: ["villain", "star-wars", "branded", "clone", "trooper", "helmet", "translucent", "red"],
+    images: ["images/jek-14-01.jpg"],
+    acquired: "",
+    notes: "Thirty-third branded villain, and the second clone on this side. Twenty figures here have some form of clone as their job and eighteen of them are good; the only exception before him was the Clone Traitor, who turned. This one did not turn, because he was never theirs - the other side made him. Those two are not the same kind of story and the catalogue should not file them as if they were. The pale blue eye slits and the one translucent arm are how you tell him from the ranks he was copied off, and the arm is the part I cannot account for: it may be how he was sold or it may be a piece somebody swapped in years ago. Say which and the card gets fixed."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */

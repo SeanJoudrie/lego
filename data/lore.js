@@ -1306,7 +1306,13 @@ window.LORE = [
       "ruling would collapse most of this into a single alien army with a " +
       "commander, a school, a medic, a technician and its muscle - which is " +
       "what it looks like from here. Until then the catalogue keeps four " +
-      "doors open rather than invent a corridor between them."
+      "doors open rather than invent a corridor between them.\n\n" +
+      "A fifth body has since landed, and it is the one that does not belong " +
+      "in this problem. The Chitauri came in out of Marvel, bought, with a " +
+      "commander attached - Loki, in the same batch, with the line already " +
+      "drawn. That is what none of the other four have. Four alien forces on " +
+      "this side are still waiting to be told who they answer to, and the " +
+      "one that arrived knowing came out of a box."
   },
 
   {
@@ -1463,24 +1469,35 @@ window.LORE = [
     title: "The bought enemy starts talking to itself",
     text:
       "For a long time the bought figures came in as famous people and nothing " +
-      "else. A hundred and fifty-four of them now, out of Star Wars, Ninjago, " +
-      "Marvel, DC, Chima, Harry Potter and the rest, and twenty-eight of those " +
-      "are on the villain side. Until this batch not one of those twenty-eight " +
-      "had a line drawn to another one of them. They stood in a row, each " +
-      "famous on his own, with the entire web of who-knows-whom belonging to " +
-      "the figures that were invented here.\n\n" +
+      "else. A hundred and fifty-nine of them now, out of Star Wars, Ninjago, " +
+      "Marvel, DC, Chima, Harry Potter and the rest, and thirty-three of those " +
+      "are on the villain side. Until this run not one of them had a line drawn " +
+      "to another one of them. They stood in a row, each famous on his own, " +
+      "with the entire web of who-knows-whom belonging to the figures that were " +
+      "invented here.\n\n" +
       "Three lines got drawn at once. Dooku to Ventress, master and apprentice. " +
       "Maul to Savage Opress, brothers. The Gamorrean to Jabba, the first " +
       "person written down as standing in a crime lord's doorway.\n\n" +
-      "Savage Opress is the one it lands on. He was the first figure ever " +
-      "filed here as an enemy with a name already printed on the box - the card " +
-      "that broke a run of more than a hundred bought figures all landing good " +
-      "- and he sat with an empty relations list ever since. He now has a " +
-      "brother and a master, which is more than any other bought villain here " +
-      "except the master himself.\n\n" +
+      "Savage Opress is the one it landed on first. He was the first figure " +
+      "ever filed here as an enemy with a name already printed on the box - the " +
+      "card that broke a run of more than a hundred bought figures all landing " +
+      "good - and he had sat with an empty relations list ever since. In one " +
+      "batch he picked up a brother and a master.\n\n" +
+      "Then the next batch put somebody above all of them. Palpatine came in " +
+      "holding three leashes at once - Dooku, Maul and Vader, all three already " +
+      "catalogued, and Vader had had nothing written between him and anybody " +
+      "at all - and a fourth " +
+      "line to the Imperial Royal Guard, whose card had been written with the " +
+      "sentence that he stands in front of an emperor, at a time when this " +
+      "collection did not have one. Four relations. No other bought figure " +
+      "here, on either deck, has more than three.\n\n" +
+      "Loki did the same thing to Marvel in the same batch. Six Marvel figures " +
+      "were catalogued here before him and every one of them was good. He " +
+      "arrived with an army behind him.\n\n" +
       "So the shape has changed. The enemy used to be entirely home-made and " +
-      "the famous people were decoration. The famous people are starting to " +
-      "form ranks."
+      "the famous people were decoration. They are not decoration any more. " +
+      "They have a chain of command, and at the top of it is a man with four " +
+      "names under him."
   }
 
 ];
