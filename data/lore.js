@@ -1094,6 +1094,31 @@ window.LORE = [
       "defending her own grave from people who came to rob it. She is on that " +
       "side because she arrived in a run of villains, and she would be the " +
       "collection's first neutral the day somebody says so."
+  },
+
+  {
+    title: "The League of Shadows",
+    text:
+      "A cult, named outright, with four people in it.\n\n" +
+      "It does not run on ranks. It runs on masters of disciplines, and three " +
+      "of them have been photographed: a master of combat in a gilded snarling " +
+      "mask, a master of the dark psyche in a torn cloth poncho, and a master " +
+      "of tradition in a gold-worked robe with an eyepatch. Body, mind, and " +
+      "what the League has always done. The fourth man is its archer.\n\n" +
+      "That makes it the second named League against this world, after the " +
+      "Iron League and their four matched chest plates - and the two are " +
+      "nothing alike. The Iron League is a unit: a captain, a rifleman, an " +
+      "assassin, a bounty hunter, all in the same armour. This one is a " +
+      "faculty.\n\n" +
+      "And it is the second body on that side to replace names with titles. " +
+      "The Shadow Elders did it first - a Lord of Wrath and a Lord of " +
+      "Darkness, who keep the secrets of the dark side and guard the room the " +
+      "shadow people worship occult gods in. Two elders holding titles, three " +
+      "masters holding titles, both of them shadow, both of them cults, and " +
+      "not one word anywhere saying whether they are the same organisation.\n\n" +
+      "It is the obvious reading and it is not written down, so the catalogue " +
+      "keeps them apart: The Shadow Elders and The League of Shadows are two " +
+      "groups. Say they are one and they merge."
   }
 
 ];

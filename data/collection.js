@@ -15203,6 +15203,145 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-shadow-archer",
+    name: "The Shadow Archer",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Archer",
+    group: "The League of Shadows",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The archer of the League of Shadows.",
+    provenance:
+      "A black helm with flared cheek guards over a silver skull faceplate, " +
+      "the eyes cut open behind it. A brown leather strap across the chest " +
+      "holding a quiver of arrows at the shoulder. Dark grey torso printed " +
+      "with fine chainmail and three clasps down the front, dark arms, pale " +
+      "hands, black legs with tan panels at the knees.",
+    tags: ["villain", "archer", "league-of-shadows", "cult", "skull-faceplate", "quiver", "chainmail"],
+    images: ["images/the-shadow-archer-01.jpg"],
+    acquired: "",
+    notes: "The first archer in this collection on the bad side. The six before him are all good, and five of the six are Royal Knights - two Royal Archers, their Commander, the Crossbowman and the Long Shot Bowman - with a dwarf making up the rest. Bows have been a knight's weapon here and nothing else until now. First member catalogued of a new group, The League of Shadows."
+  },
+
+  {
+    id: "the-master-of-tradition",
+    name: "The Master of Tradition",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Master of Tradition",
+    group: "The League of Shadows",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the masters of the League of Shadows - the cult. His discipline " +
+      "is tradition: what the League has always done, and the keeping of it.",
+    provenance:
+      "A black cloth head wrap drawn close around a yellow face with an " +
+      "eyepatch on a strap, stubble and a hard mouth. A black robe worked in " +
+      "gold scrollwork over a purple and white collar, a wide gold-trimmed " +
+      "sash at the waist, black arms, yellow hands, black legs carrying the " +
+      "same gold running down them.",
+    tags: ["villain", "league-of-shadows", "cult", "master", "tradition", "eyepatch", "robe"],
+    images: ["images/the-master-of-tradition-01.jpg"],
+    acquired: "",
+    notes: "The League runs on masters of disciplines rather than ranks, which is the second body on the villain side to replace names with titles - the Shadow Elders did it first, with a Lord of Wrath and a Lord of Darkness keeping the secrets of the dark side. Whether the League of Shadows and the Shadow Elders are the same organisation is not written down. See the world note."
+  },
+
+  {
+    id: "the-master-of-the-dark-psyche",
+    name: "The Master of the Dark Psyche",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Master of the Dark Psyche",
+    group: "The League of Shadows",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Master of the dark psyche. The mind is his discipline, and the part of " +
+      "it the League is interested in.",
+    provenance:
+      "A black turban over a plain yellow face - level brows, a small " +
+      "uncertain mouth, a scar at one temple. A ragged black cloth poncho hung " +
+      "over the whole body, torn at the hem, with the arms almost entirely " +
+      "hidden. Grey feet below it.",
+    tags: ["villain", "league-of-shadows", "cult", "master", "psyche", "mind", "turban", "poncho"],
+    images: ["images/the-master-of-the-dark-psyche-01.jpg"],
+    acquired: "",
+    notes: "The plainest face in the batch under the least clothing anybody on that side has worn - no armour, no printing, a torn cloth. The one master here whose discipline is not a thing you can carry."
+  },
+
+  {
+    id: "the-evil-financier",
+    name: "The Evil Financier",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Financier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An evil financier.",
+    provenance:
+      "A black fedora over a tan face with dark brows, a thin moustache and " +
+      "the beginnings of a smirk. A black suit printed with a grey-green " +
+      "waistcoat, a pale collar and a silver knotwork device across the chest; " +
+      "black arms, pale hands, black legs.",
+    tags: ["villain", "financier", "money", "suit", "fedora", "moustache"],
+    images: ["images/the-evil-financier-01.jpg"],
+    acquired: "",
+    notes: "Fifth financier here and the second on the bad side, one batch after the first. The money side of the enemy went from nothing to two men in a fortnight, and nothing is written between them - the Gangster Financier funds a gang, this one is not said to fund anything in particular. He is also not put in the League of Shadows: the other four in this batch are, and he is the one you did not call a master. Say the word and he joins them."
+  },
+
+  {
+    id: "the-master-of-combat",
+    name: "The Master of Combat",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Master of Combat",
+    group: "The League of Shadows",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Master of combat for the League of Shadows. The fighting is his " +
+      "discipline, and the teaching of it.",
+    provenance:
+      "A moulded gold mask, weathered and pitted, with a spike standing off " +
+      "the crown, cut-out eyes showing yellow behind, and a snarling toothed " +
+      "mouth. A long black cloth cape. Black torso printed as heavy armour - " +
+      "a grey chest plate with a red stripe down the centre, a control box at " +
+      "the sternum and a silver belt - black arms, yellow hands, black legs " +
+      "piped in silver.",
+    tags: ["villain", "league-of-shadows", "cult", "master", "combat", "gold-mask", "cape", "armour"],
+    images: ["images/the-master-of-combat-01.jpg"],
+    acquired: "",
+    notes: "The League keeps a master of the body, a master of the mind and a master of the past, and he is the body. Hand-worked plastic is not rare in this collection, but almost all of it is clone armour repainted - Captain Rex, Ahsoka's Trooper, the Painted Clone Commander, the Discarded Commander. A sculpted mask, gilded and given teeth, on a figure of this world rather than a borrowed one, is a different kind of effort."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
