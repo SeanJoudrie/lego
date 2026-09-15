@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-427 characters from a custom LEGO minifigure world, in the order they were
+429 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3936,13 +3936,13 @@ One of the fire service.
 
 *Tags:* firefighter, fire-service, breathing-apparatus, rescue, lego-city
 
-### 337. Luke Skywalker — Three outfits
+### 337. Luke Skywalker — Five outfits
 
 **Alignment:** good · **Role:** Pilot · **Figure:** branded
 
 Luke Skywalker, in his flight kit and later in black.
 
-*How it was got:* Two figures of the same man. The pilot is in an orange flight suit with the grey chest rig and the white X-wing helmet, red rebel crests on both sides. The later one is bare-headed and blond, in a grey tunic over black arms and legs, with no kit on him at all. A third has him in a yellow ceremonial jacket over brown trousers, a gold medallion printed at the chest and a holster on the thigh.
+*How it was got:* Two figures of the same man. The pilot is in an orange flight suit with the grey chest rig and the white X-wing helmet, red rebel crests on both sides. The later one is bare-headed and blond, in a grey tunic over black arms and legs, with no kit on him at all. A third has him in a yellow ceremonial jacket over brown trousers, a gold medallion printed at the chest and a holster on the thigh. A fourth is the boy on Tatooine: plain white robes with a brown belt, pale hair, a yellow head. A fifth is him on the ice - a tan quilted vest over white, a brown utility belt, and a helmet with goggles pushed up on the brim.
 
 *Tags:* star-wars, pilot, jedi, rebel, x-wing, branded
 
@@ -4258,13 +4258,13 @@ A Kaminoan.
 
 *Tags:* star-wars, kaminoan, alien, cloner, branded
 
-### 368. Obi-Wan Kenobi — Three figures
+### 368. Obi-Wan Kenobi — Four figures
 
 **Alignment:** good · **Role:** Jedi · **Figure:** branded
 
 Obi-Wan Kenobi.
 
-*How it was got:* Two figures of the same man. The older one has a full ginger beard, flesh-toned face, a brown cloth cape and rust-coloured legs. The younger has a plain yellow head, long hair past the shoulders, a headset at the jaw and tan robes throughout. A third has him bearded again but shoulder-length and worn, in a heavy brown outer robe over pale wrappings, mouth open as though caught mid-word.
+*How it was got:* Two figures of the same man. The older one has a full ginger beard, flesh-toned face, a brown cloth cape and rust-coloured legs. The younger has a plain yellow head, long hair past the shoulders, a headset at the jaw and tan robes throughout. A third has him bearded again but shoulder-length and worn, in a heavy brown outer robe over pale wrappings, mouth open as though caught mid-word. A fourth is him old - grey hair and a full grey beard on a yellow head, plain cream robes with a brown belt and nothing else on him at all.
 
 *Tags:* star-wars, jedi, obi-wan, beard, robes, branded
 
@@ -4881,6 +4881,28 @@ Looked her up: she is Widow, the horse who comes with Web-Slinger in the Spider-
 *Connections:* Her rider Cowboy Spider-Man
 
 *Tags:* marvel, horse, spider-verse, animal, mask, branded
+
+### 428. Padme Amidala
+
+**Alignment:** good · **Figure:** branded
+
+Padme Amidala.
+
+*How it was got:* Brown hair swept up and back, red lipstick, level brows. Blue jacket open over a grey top, a blue sash at the waist with a red stone set in it, black legs. A yellow head, which dates the figure to the older run.
+
+*Tags:* star-wars, padme, senator, branded
+
+### 429. The A-Wing Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+A rebel A-wing pilot.
+
+*How it was got:* Dark grey helmet striped red and white over the crown, with a translucent yellow visor pulled down over a plain yellow face. Green flight suit with a grey control box printed at the chest, black hands.
+
+Double-checked as you asked: you were right. This is the A-wing pilot, Lego part sw0031 - the oldest of the seven versions they have made, first released in 2000, and the one with the classic yellow head and the see-through yellow visor rather than a flesh face.
+
+*Tags:* star-wars, rebel, pilot, a-wing, green, vintage, branded
 
 ---
 

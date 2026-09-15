@@ -8909,7 +8909,7 @@ window.COLLECTION = [
   {
     id: "luke-skywalker",
     name: "Luke Skywalker",
-    variant: "Three outfits",
+    variant: "Five outfits",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -8926,15 +8926,20 @@ window.COLLECTION = [
       "sides. The later one is bare-headed and blond, in a grey tunic over black " +
       "arms and legs, with no kit on him at all. A third has him in a yellow " +
       "ceremonial jacket over brown trousers, a gold medallion printed at the " +
-      "chest and a holster on the thigh.",
+      "chest and a holster on the thigh. A fourth is the boy on Tatooine: " +
+      "plain white robes with a brown belt, pale hair, a yellow head. A fifth " +
+      "is him on the ice - a tan quilted vest over white, a brown utility belt, " +
+      "and a helmet with goggles pushed up on the brim.",
     tags: ["star-wars", "pilot", "jedi", "rebel", "x-wing", "branded"],
     images: [
       { src: "images/luke-skywalker-01.jpg", caption: "In his flight kit" },
+      { src: "images/luke-skywalker-04.jpg", caption: "On Tatooine, in white" },
       { src: "images/luke-skywalker-03.jpg", caption: "In the ceremonial jacket" },
+      { src: "images/luke-skywalker-05.jpg", caption: "In cold-weather gear" },
       { src: "images/luke-skywalker-02.jpg", caption: "Later, in black" },
     ],
     acquired: "",
-    notes: "Opened the Star Wars theme, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both. Three figures of him now, which makes him the most photographed person in the collection alongside Tony Stark, Bruce Wayne and SpongeBob - and the only one of those four who is not the owner of his own franchise. The jacket is the one picture of him being thanked; the black is the one where he is nobody's pilot."
+    notes: "Opened the Star Wars theme, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both. Five figures of him now, more than anybody else in the collection by a clear margin - the next highest is four. The captions describe rather than sequence: the photographs are not in the order he lived them. The jacket is the one picture of him being thanked; the black is the one where he is nobody's pilot."
   },
 
 
@@ -9704,7 +9709,7 @@ window.COLLECTION = [
   {
     id: "obi-wan-kenobi",
     name: "Obi-Wan Kenobi",
-    variant: "Three figures",
+    variant: "Four figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9721,15 +9726,18 @@ window.COLLECTION = [
       "younger has a plain yellow head, long hair past the shoulders, a " +
       "headset at the jaw and tan robes throughout. A third has him bearded " +
       "again but shoulder-length and worn, in a heavy brown outer robe over pale " +
-      "wrappings, mouth open as though caught mid-word.",
+      "wrappings, mouth open as though caught mid-word. A fourth is him old - " +
+      "grey hair and a full grey beard on a yellow head, plain cream robes with " +
+      "a brown belt and nothing else on him at all.",
     tags: ["star-wars", "jedi", "obi-wan", "beard", "robes", "branded"],
     images: [
       { src: "images/obi-wan-kenobi-01.jpg", caption: "Bearded, in the brown cape" },
       { src: "images/obi-wan-kenobi-02.jpg", caption: "Long-haired, with a headset" },
       { src: "images/obi-wan-kenobi-03.jpg", caption: "Older, in the heavy robe" },
+      { src: "images/obi-wan-kenobi-04.jpg", caption: "Old, as Ben" },
     ],
     acquired: "",
-    notes: "One entry, two figures - the same man at two points in his life, the way the Prince and SpongeBob are done. Putting them in as two cards would have broken the one-entry rule. Three now, which puts him level with Mace Windu, Luke, Anakin and Ahsoka as the most photographed people in the collection."
+    notes: "One entry, two figures - the same man at two points in his life, the way the Prince and SpongeBob are done. Putting them in as two cards would have broken the one-entry rule. Four now, second only to Luke. The oldest of them is the one you called Ben - the name he took on Tatooine when he was hiding - and putting all four on one card means the young man with the headset and the old hermit are the same person, which is the whole point of the one-entry rule."
   },
 
 
@@ -11312,6 +11320,60 @@ window.COLLECTION = [
     images: ["images/widow-01.jpg"],
     acquired: "",
     notes: "The first animal catalogued here in her own right - the monkey shares the Explorer card, and nothing else four-legged has an entry. She is also the only figure in the collection with no arms, no hands and no face of her own."
+  },
+
+
+  {
+    id: "padme-amidala",
+    name: "Padme Amidala",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Padme Amidala.",
+    provenance:
+      "Brown hair swept up and back, red lipstick, level brows. Blue jacket " +
+      "open over a grey top, a blue sash at the waist with a red stone set in " +
+      "it, black legs. A yellow head, which dates the figure to the older run.",
+    tags: ["star-wars", "padme", "senator", "branded"],
+    images: ["images/padme-amidala-01.jpg"],
+    acquired: "",
+    notes: "Third woman in the Star Wars corner, after Ahsoka and Leia, out of forty-three figures. Worth saying once: with her here, the collection now holds Anakin, Padme, Luke and Leia - a whole family, on four separate cards, none of them linked to each other. That is yours to write or leave alone."
+  },
+
+
+  {
+    id: "the-a-wing-pilot",
+    name: "The A-Wing Pilot",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "The Rebel Pilots",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A rebel A-wing pilot.",
+    provenance:
+      "Dark grey helmet striped red and white over the crown, with a " +
+      "translucent yellow visor pulled down over a plain yellow face. Green " +
+      "flight suit with a grey control box printed at the chest, black hands.\n\n" +
+      "Double-checked as you asked: you were right. This is the A-wing pilot, " +
+      "Lego part sw0031 - the oldest of the seven versions they have made, " +
+      "first released in 2000, and the one with the classic yellow head and " +
+      "the see-through yellow visor rather than a flesh face.",
+    tags: ["star-wars", "rebel", "pilot", "a-wing", "green", "vintage", "branded"],
+    images: ["images/the-a-wing-pilot-01.jpg"],
+    acquired: "",
+    notes: "Ninth in the Rebel Pilots, and the odd one out in it - everybody else in that squadron flies X-wings in orange, and he is in green for a different ship. Also one of the oldest figures in the whole collection by manufacture, at twenty-five years."
   },
 
 
