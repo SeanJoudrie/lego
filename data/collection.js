@@ -464,7 +464,9 @@ window.COLLECTION = [
     role: "Chief of Police",
     group: "Lego City Law",
     location: "Lego City",
-    relations: [],
+    relations: [
+      { to: "the-commissioners-apprentice", label: "Left for dead by" },
+    ],
     rating: 0,
     background:
       "He's based in Lego City — the giant, expensive city that exists in this " +
@@ -482,7 +484,7 @@ window.COLLECTION = [
     tags: ["veteran", "sniper", "police", "anti-terrorism", "has-apprentice", "kitbash"],
     images: ["images/the-commissioner-01.jpg"],
     acquired: "",
-    notes: "Needs a real name. You mentioned a gold visor - I can't see one in this shot, so check I photographed the right figure."
+    notes: "Needs a real name. You mentioned a gold visor - I can't see one in this shot, so check I photographed the right figure. The protege this card mentions has been catalogued, and it did not go well: he shot the Commissioner through the thigh during the great betrayal, stabbed him in the chest and left him slumped over a command board. Left for dead rather than dead - nothing here has been changed - but say whether he lived."
   },
 
   {
@@ -12852,6 +12854,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "wen", label: "Taught by" },
       { to: "the-fleet-general", label: "Given a fleet by" },
       { to: "the-infamous-traitor", label: "Followed by" },
       { to: "the-shadow-king", label: "Led the shadow uprising with" },
@@ -13890,6 +13893,165 @@ window.COLLECTION = [
     images: ["images/the-fleet-general-01.jpg"],
     acquired: "",
     notes: "He is the most expensive traitor in the collection - he did not steal a thing, he spent a crew. Worth putting next to the Fleet Commander, who is filed good and whose card has asked since it was written whose fleet he actually commands; nobody has said, and now there is a fleet that changed hands. Different men on the evidence - that one is in a grey officer\'s tunic with a rank bar, this one is in white dress uniform and a cape - but if they are the same man at two points in his life, say so. Also the second white-and-unprinted-looking figure on the villain side, after the Light King; this one at least has a face."
+  },
+
+
+
+  {
+    id: "wen",
+    name: "Wen",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Mentor",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Took him under his wing" },
+    ],
+    rating: 0,
+    background:
+      "Quinn had a teacher, and this is him. Wen mentored him before Quinn " +
+      "went all the way off the deep end.\n\n" +
+      "He started as a disgruntled soldier and walked away from it. Then he " +
+      "studied the dark arts, and then he went looking - out into the world " +
+      "after crystals that might stretch his life out and burn the disease " +
+      "out of him. He ran a militia of his own along the way, five or ten " +
+      "people, small.\n\n" +
+      "Then he took Quinn on.",
+    provenance:
+      "Grey hair swept back, a grey moustache, one eye narrowed. Olive " +
+      "explorer\'s shirt printed with two buttoned chest pockets, a red " +
+      "chequered bandana at the throat and a coil of rope slung across the " +
+      "body. Black trousers with a gold-buckled belt and a gold star hanging " +
+      "at the hip.",
+    tags: ["villain", "mentor", "quinn", "dark-arts", "crystals", "life-extension", "disease", "explorer", "old"],
+    images: ["images/wen-01.jpg"],
+    acquired: "",
+    notes: "One of the few villains here with a proper name, and the only one who is older than Quinn in every sense. The making of Quinn has always read as a man who taught himself: he was left to die in the cold, drew a conclusion, and went and studied. There was somebody standing there. Note also what he was looking for - crystals to prolong a life and drive out a disease. Quinn ended up changing the essence of his own body so nothing could kill him, and the man who trained him spent his life chasing the same thing by gentler means. Say the word if Wen never actually got what he was after."
+  },
+
+
+  {
+    id: "the-soldier-in-the-brown-helmet",
+    name: "The Soldier in the Brown Helmet",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "No story given for him yet. He arrived in the villain batch and is " +
+      "filed there until you say otherwise.",
+    provenance:
+      "Brown padded flight helmet with the ear flaps down over a plain yellow " +
+      "face and an easy smile. Cream jacket printed with a grey harness, two " +
+      "buckled straps and an equipment belt, brown arms into brown hands, " +
+      "brown legs with a grey hip.",
+    tags: ["villain", "soldier", "helmet", "no-story-yet", "needs-a-description"],
+    images: ["images/the-soldier-in-the-brown-helmet-01.jpg"],
+    acquired: "",
+    notes: "This is the honest version of a guess. Five figures came in that batch and four descriptions came with them - Wen, the Commissioner\'s apprentice, Long Arm Johnson and the Butcher - and the apprentice one was not numbered. I put it on the third figure, who is scarred, armed, wears a badge on the shirt and a death\'s head on the leg, over this one, who is smiling in a flight helmet. If I have them the wrong way round, say so and the two cards swap. Either way this man has no story yet and should get one."
+  },
+
+
+  {
+    id: "the-commissioners-apprentice",
+    name: "The Commissioner\'s Apprentice",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Apprentice",
+    group: "",
+    location: "Lego City",
+    relations: [
+      { to: "the-commissioner", label: "Left him for dead" },
+    ],
+    rating: 0,
+    background:
+      "The Commissioner\'s protege, and very promising at first.\n\n" +
+      "When the great betrayal came he was standing beside his commander. He " +
+      "shot him through the thigh, stabbed him in the chest, and left him " +
+      "slumped over a command board to die. He killed two guards on the way " +
+      "out and stole a ship, and he took the information on the mothership " +
+      "with him.",
+    provenance:
+      "Tousled brown hair over a yellow face with a scar through one brow and " +
+      "a hard, level mouth. Cream shirt printed with two buttoned pockets, a " +
+      "small gold badge at the breast, a brown belt and a holster. Black legs " +
+      "carrying a white skull, a length of chain and orange banding.",
+    tags: ["villain", "traitor", "apprentice", "police", "lego-city", "great-betrayal", "murder", "skull"],
+    images: ["images/the-commissioners-apprentice-01.jpg"],
+    acquired: "",
+    notes: "The Commissioner\'s card has said from the day it was written that he has got a little old and so he has a protege, a Padawan - and that in this world Padawan just means apprentice, nothing to do with the Force. This is that man. The world note on the day of betrayals says Quinn arranged every turning to land inside the same minute of the same day, and that students turned on their masters and masters on their students. That has been an abstraction until now. This is one of them, with a name for the victim. The Commissioner is left for dead rather than dead: you said left him to die, and his card has not been touched. Say whether he lived."
+  },
+
+
+  {
+    id: "long-arm-johnson",
+    name: "Long Arm Johnson",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An alien bounty hunter, and he has long arms.",
+    provenance:
+      "Dark blue knitted cap over a yellow face that is not a human one - a " +
+      "broad grey snout, small black eyes set wide, freckling across both " +
+      "cheeks and a mouth of pointed teeth. Brown tunic printed with a gold " +
+      "studded belt and gold clasps, long yellow arms into yellow hands, " +
+      "black legs.",
+    tags: ["villain", "bounty-hunter", "alien", "long-arms", "fangs", "snout"],
+    images: ["images/long-arm-johnson-01.jpg"],
+    acquired: "",
+    notes: "Seventh bounty hunter in the collection and the third on the villain side. One of only a handful of villains with a personal name rather than a description - Quinn, Phalanx, Johnny Plasma, Wen and this man. Not filed with the Iron League: they all wear the same chest plate and he is in nothing like it. Say the word if he is one of theirs."
+  },
+
+
+  {
+    id: "the-butcher",
+    name: "The Butcher",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Doctor",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A doctor, and they call him the Butcher.\n\n" +
+      "What he works on is the dead. He takes corpses and tries to bring them " +
+      "back or to make weapons out of them - his stated problem is the problem " +
+      "of the dead, and this is his answer to it.\n\n" +
+      "The rest of his work is on the living. He builds torture devices, and " +
+      "he uses them on captured good people to get information out of them.",
+    provenance:
+      "Ginger hair and a full ginger beard over a wide, delighted grin - he is " +
+      "smiling in the photograph. White coat printed with a buttoned collar " +
+      "and a brown tool belt carrying a green-filled vial, a pair of open " +
+      "scissors and a saw-edged blade. Black arms into black hands, black legs.",
+    tags: ["villain", "doctor", "butcher", "reanimation", "corpses", "torture", "interrogation", "surgery"],
+    images: ["images/the-butcher-01.jpg"],
+    acquired: "",
+    notes: "Named the Butcher rather than the Doctor, which you also called him, because this collection already has a Doctor - Dr. Oz, who is filed good and works with an assistant. Two men here now work on the dead and they could not be less alike: the Demon Lord comes out of the underworld and raises them whole, and this one is a man with scissors trying to solve it. He is also the second villain whose face is simply a happy one, after the Charming Bounty Hunter - and the only figure in five hundred and forty-eight who is grinning about this."
   },
 
 

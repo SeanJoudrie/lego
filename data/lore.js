@@ -463,8 +463,16 @@ window.LORE = [
       "how many good people would keep turning up to fight in one. He decided " +
       "conflict was simply inevitable. And if it could not be stopped, he " +
       "would be on the winning side of it, at the very top.\n\n" +
-      "Everything after that is method. He studied both kinds of dark art - " +
-      "dark magic and the dark side of the Force - and became a master Sith. " +
+      "Everything after that is method, and he did not work it out alone. A " +
+      "man called Wen took him on - a disgruntled soldier who had walked away " +
+      "from soldiering, studied the dark arts and gone out looking for " +
+      "crystals that might stretch his life and burn a disease out of him. " +
+      "Quinn was his student before he was anything else. Note what the two of " +
+      "them were after: the old man spent his life chasing a way not to die, " +
+      "by gentler means, and the student ended up rewriting the essence of his " +
+      "own body so that nothing could kill him.\n\n" +
+      "He studied both kinds of dark art - dark magic and the dark side of the " +
+      "Force - and became a master Sith. " +
       "He did not reach the shadow dimension himself - the Purple Shadow, a " +
       "Sith who had got through to the shadow people, opened the portal for " +
       "him - and once through it he brought the King in with him. The " +
@@ -494,6 +502,13 @@ window.LORE = [
       "every one of those betrayals to land inside the same minute of the same " +
       "day. Students turned on their masters. Masters turned on their " +
       "students. Nobody knew who was still theirs.\n\n" +
+      "That was an abstraction until one of them was catalogued with a name " +
+      "for the victim. The Commissioner - chief of all the police in Lego " +
+      "City, a former sniper, grown a little old and so given a protege - was " +
+      "standing beside that protege when the minute came. He was shot through " +
+      "the thigh, stabbed in the chest and left slumped over a command board. " +
+      "The apprentice killed two guards on his way out, stole a ship and took " +
+      "the mothership intelligence with him.\n\n" +
       "That is the second time this world records a body used against its own " +
       "side. The Hijacked was a robot whose lasers villains turned into a " +
       "weapon while he stayed awake and watched it happen. This was the same " +
@@ -767,6 +782,33 @@ window.LORE = [
       "ship, the Second Padawan was killed by the Purple Shadow. Death has " +
       "always cost something here. The Demon Lord is the first thing in this " +
       "world that can reach past it, and he does not do it as mercy."
+  },
+
+  {
+    title: "The problem of the dead",
+    text:
+      "Two men in this world work on corpses, and they could not be less " +
+      "alike.\n\n" +
+      "The Demon Lord comes out of the underworld and raises them whole - " +
+      "skeletons, or people killed recently enough to still have a body - and " +
+      "sends them in beside him. It costs him nothing. It is simply what he " +
+      "is.\n\n" +
+      "The Butcher is a man with scissors. He takes corpses and tries to " +
+      "reanimate them or make weapons out of them, and what he calls it is the " +
+      "problem of the dead. He is trying to solve by hand what the other one " +
+      "does by being.\n\n" +
+      "Set both of them against the rule this world has held since almost the " +
+      "beginning. Outside the medieval realm, death is final and it costs " +
+      "something. The General's son died and stayed dead. The Green Captain " +
+      "stayed aboard the ship. The Second Padawan was killed and his friend " +
+      "never got over it. That rule is the reason any of those losses mean " +
+      "anything.\n\n" +
+      "Both of these men are attacks on it, and both are filed with the " +
+      "villains. Which is the tidiest thing this catalogue has said about " +
+      "itself: in a world where thirty people are dead and stay dead, the " +
+      "people trying to undo that are the bad ones.\n\n" +
+      "The Butcher\'s other work is torture devices, for getting information " +
+      "out of captured good people. He is smiling in his photograph."
   }
 
 ];
