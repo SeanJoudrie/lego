@@ -9714,7 +9714,7 @@ window.COLLECTION = [
   {
     id: "obi-wan-kenobi",
     name: "Obi-Wan Kenobi",
-    variant: "Four figures",
+    variant: "Five figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9733,16 +9733,19 @@ window.COLLECTION = [
       "again but shoulder-length and worn, in a heavy brown outer robe over pale " +
       "wrappings, mouth open as though caught mid-word. A fourth is him old - " +
       "grey hair and a full grey beard on a yellow head, plain cream robes with " +
-      "a brown belt and nothing else on him at all.",
+      "a brown belt and nothing else on him at all. A fifth is the old man " +
+      "again on a later mould - a flesh face instead of a yellow one, the grey " +
+      "beard printed in properly, and a gold buckle on the belt.",
     tags: ["star-wars", "jedi", "obi-wan", "beard", "robes", "branded"],
     images: [
       { src: "images/obi-wan-kenobi-01.jpg", caption: "Bearded, in the brown cape" },
       { src: "images/obi-wan-kenobi-02.jpg", caption: "Long-haired, with a headset" },
       { src: "images/obi-wan-kenobi-03.jpg", caption: "Older, in the heavy robe" },
       { src: "images/obi-wan-kenobi-04.jpg", caption: "Old, as Ben" },
+      { src: "images/obi-wan-kenobi-05.jpg", caption: "Old again, the later mould" },
     ],
     acquired: "",
-    notes: "One entry, two figures - the same man at two points in his life, the way the Prince and SpongeBob are done. Putting them in as two cards would have broken the one-entry rule. Four now, second only to Luke. The oldest of them is the one you called Ben - the name he took on Tatooine when he was hiding - and putting all four on one card means the young man with the headset and the old hermit are the same person, which is the whole point of the one-entry rule."
+    notes: "One entry, two figures - the same man at two points in his life, the way the Prince and SpongeBob are done. Putting them in as two cards would have broken the one-entry rule. Five now, level with Luke for the most photographed person in the collection. The oldest of them is the one you called Ben - the name he took on Tatooine when he was hiding - and putting all four on one card means the young man with the headset and the old hermit are the same person, which is the whole point of the one-entry rule."
   },
 
 
@@ -10169,7 +10172,7 @@ window.COLLECTION = [
   {
     id: "han-solo",
     name: "Han Solo",
-    variant: "",
+    variant: "Two outfits",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -10181,13 +10184,18 @@ window.COLLECTION = [
     rating: 0,
     background: "Han Solo, in cold-weather gear.",
     provenance:
-      "Navy parka with the fur-lined hood up round the face, a satchel on a " +
-      "strap across the chest, a tool belt, and pale cream trousers with an " +
-      "ice axe printed down one thigh.",
+      "Two figures of the same man. One is in a navy parka with the fur-lined " +
+      "hood up round the face, a satchel across the chest, a tool belt and an " +
+      "ice axe printed down one thigh. The other is bare-headed, brown hair " +
+      "swept back, in the black waistcoat over a white shirt with a gun belt " +
+      "slung across the hip and blue trousers with the stripe down the seam.",
     tags: ["star-wars", "han-solo", "parka", "cold-weather", "branded"],
-    images: ["images/han-solo-01.jpg"],
+    images: [
+      { src: "images/han-solo-01.jpg", caption: "In the parka" },
+      { src: "images/han-solo-02.jpg", caption: "In the waistcoat" },
+    ],
     acquired: "",
-    notes: "In the parka rather than the waistcoat, which puts him in the same weather as the Winter Troopers - their leader is in the same white cold-weather kit from the same source. He is also the only figure in the Star Wars corner carrying an ice axe."
+    notes: "In the parka rather than the waistcoat, which puts him in the same weather as the Winter Troopers - their leader is in the same white cold-weather kit from the same source. He is also the only figure in the Star Wars corner carrying an ice axe. The second figure is him as everybody pictures him, and the two together are the whole of his wardrobe: one for the cold and one for everything else."
   },
 
 
@@ -10274,7 +10282,7 @@ window.COLLECTION = [
   {
     id: "princess-leia",
     name: "Princess Leia",
-    variant: "Two outfits",
+    variant: "Three outfits",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -10290,14 +10298,16 @@ window.COLLECTION = [
       "shoulder, red lipstick, a pale yellow jacket with dark toggle fastenings " +
       "and stitched seams, mismatched grey and brown sleeves, white legs. The " +
       "other has her hair up in a coil and wears a worked metal halter over a " +
-      "red drape, bare arms.",
+      "red drape, bare arms. A third has her in the long white gown with a " +
+      "silver disc belt at the waist and the hair coiled over both ears.",
     tags: ["star-wars", "leia", "princess", "branded"],
     images: [
+      { src: "images/princess-leia-03.jpg", caption: "In the white gown" },
       { src: "images/princess-leia-01.jpg", caption: "In the cold-weather jacket" },
       { src: "images/princess-leia-02.jpg", caption: "Held captive by Jabba" },
     ],
     acquired: "",
-    notes: "Second woman in the Star Wars corner, after Ahsoka - twenty-nine figures there and two of them are women. She is also the third royal title in the collection, alongside the Prince and the Space Princess, and the only one of the three from outside this world. Two figures on one card, and they are as far apart as two pictures of one person get here - buttoned to the chin against the cold in the first, held in chains in the second."
+    notes: "Second woman in the Star Wars corner, after Ahsoka - twenty-nine figures there and two of them are women. She is also the third royal title in the collection, alongside the Prince and the Space Princess, and the only one of the three from outside this world. Two figures on one card, and they are as far apart as two pictures of one person get here - buttoned to the chin against the cold in one, held in chains in another. The white gown is the third, and it is the only one of the three where she is dressed as what her title says she is."
   },
 
 
@@ -10545,7 +10555,7 @@ window.COLLECTION = [
   {
     id: "r2-d2",
     name: "R2-D2",
-    variant: "Two figures",
+    variant: "Three figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -10560,14 +10570,16 @@ window.COLLECTION = [
       "Two figures of him, and the pair together are a lesson in how plastic " +
       "ages. One has yellowed right through - more than anything else in the " +
       "collection - with the blue gone chalky on the dome. The other is the " +
-      "same droid still clean and white, blue still blue.",
+      "same droid still clean and white, blue still blue. A third sits between " +
+      "them: the body still white, but the dome and both legs gone cream.",
     tags: ["star-wars", "droid", "astromech", "r2-d2", "aged", "branded"],
     images: [
       { src: "images/r2-d2-01.jpg", caption: "The yellowed one" },
       { src: "images/r2-d2-02.jpg", caption: "The clean one" },
+      { src: "images/r2-d2-03.jpg", caption: "Part-yellowed, dome and legs" },
     ],
     acquired: "",
-    notes: "Two figures on one card. The yellowed one is the most visibly aged piece in the whole collection, and standing the clean one beside it is the clearest before-and-after here of what thirty years does to white plastic. He is still the only named astromech - the other six are unnamed units."
+    notes: "Two figures on one card. The yellowed one is the most visibly aged piece in the whole collection, and standing the clean one beside it is the clearest before-and-after here of what thirty years does to white plastic. Three of him now, and the middle one is the useful part: it shows the yellowing arriving piece by piece rather than all at once, because the legs and the dome are moulded in a plastic that goes first. He is still the only named astromech - the other six are unnamed units."
   },
 
 
@@ -11823,6 +11835,32 @@ window.COLLECTION = [
     images: ["images/the-187th-commander-01.jpg"],
     acquired: "",
     notes: "Purple is a colour no other unit here wears, and he is the only clone in the collection with a pauldron on both shoulders instead of one. Alone so far, so he stays in the Clone Army until the 187th has more than a commander."
+  },
+
+
+  {
+    id: "the-librarian",
+    name: "The Librarian",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Librarian",
+    group: "",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "A librarian.",
+    provenance:
+      "Dark brown bobbed hair, black-framed glasses, and a wide open smile - " +
+      "one of the few faces here with the teeth showing. Cream jumper knitted " +
+      "in orange and yellow argyle over a collared shirt, mismatched white and " +
+      "dark grey sleeves, black legs.",
+    tags: ["civilian", "librarian", "glasses", "argyle", "lego-city"],
+    images: ["images/the-librarian-01.jpg"],
+    acquired: "",
+    notes: "Second librarian in the collection, after the Dwarf Librarian - who was raised to the job and did not do it. This one appears to be actually doing it. Placeholder name; filed in Lego City by default."
   },
 
 

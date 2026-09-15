@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-446 characters from a custom LEGO minifigure world, in the order they were
+447 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4258,13 +4258,13 @@ A Kaminoan.
 
 *Tags:* star-wars, kaminoan, alien, cloner, branded
 
-### 368. Obi-Wan Kenobi — Four figures
+### 368. Obi-Wan Kenobi — Five figures
 
 **Alignment:** good · **Role:** Jedi · **Figure:** branded
 
 Obi-Wan Kenobi.
 
-*How it was got:* Two figures of the same man. The older one has a full ginger beard, flesh-toned face, a brown cloth cape and rust-coloured legs. The younger has a plain yellow head, long hair past the shoulders, a headset at the jaw and tan robes throughout. A third has him bearded again but shoulder-length and worn, in a heavy brown outer robe over pale wrappings, mouth open as though caught mid-word. A fourth is him old - grey hair and a full grey beard on a yellow head, plain cream robes with a brown belt and nothing else on him at all.
+*How it was got:* Two figures of the same man. The older one has a full ginger beard, flesh-toned face, a brown cloth cape and rust-coloured legs. The younger has a plain yellow head, long hair past the shoulders, a headset at the jaw and tan robes throughout. A third has him bearded again but shoulder-length and worn, in a heavy brown outer robe over pale wrappings, mouth open as though caught mid-word. A fourth is him old - grey hair and a full grey beard on a yellow head, plain cream robes with a brown belt and nothing else on him at all. A fifth is the old man again on a later mould - a flesh face instead of a yellow one, the grey beard printed in properly, and a gold buckle on the belt.
 
 *Tags:* star-wars, jedi, obi-wan, beard, robes, branded
 
@@ -4430,13 +4430,13 @@ Boba Fett, as a boy.
 
 *Tags:* star-wars, boba-fett, child, branded
 
-### 385. Han Solo
+### 385. Han Solo — Two outfits
 
 **Alignment:** good · **Figure:** branded
 
 Han Solo, in cold-weather gear.
 
-*How it was got:* Navy parka with the fur-lined hood up round the face, a satchel on a strap across the chest, a tool belt, and pale cream trousers with an ice axe printed down one thigh.
+*How it was got:* Two figures of the same man. One is in a navy parka with the fur-lined hood up round the face, a satchel across the chest, a tool belt and an ice axe printed down one thigh. The other is bare-headed, brown hair swept back, in the black waistcoat over a white shirt with a gun belt slung across the hip and blue trousers with the stripe down the seam.
 
 *Tags:* star-wars, han-solo, parka, cold-weather, branded
 
@@ -4470,13 +4470,13 @@ Yoda.
 
 *Tags:* star-wars, jedi, yoda, alien, branded
 
-### 389. Princess Leia — Two outfits
+### 389. Princess Leia — Three outfits
 
 **Alignment:** good · **Figure:** branded
 
 Princess Leia.
 
-*How it was got:* Two figures of the same woman. One has long brown hair swept over the shoulder, red lipstick, a pale yellow jacket with dark toggle fastenings and stitched seams, mismatched grey and brown sleeves, white legs. The other has her hair up in a coil and wears a worked metal halter over a red drape, bare arms.
+*How it was got:* Two figures of the same woman. One has long brown hair swept over the shoulder, red lipstick, a pale yellow jacket with dark toggle fastenings and stitched seams, mismatched grey and brown sleeves, white legs. The other has her hair up in a coil and wears a worked metal halter over a red drape, bare arms. A third has her in the long white gown with a silver disc belt at the waist and the hair coiled over both ears.
 
 *Tags:* star-wars, leia, princess, branded
 
@@ -4570,13 +4570,13 @@ A dwarf archer.
 
 *Tags:* dwarf, archer, hunter, antlers, small-folk
 
-### 399. R2-D2 — Two figures
+### 399. R2-D2 — Three figures
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
 R2-D2.
 
-*How it was got:* Two figures of him, and the pair together are a lesson in how plastic ages. One has yellowed right through - more than anything else in the collection - with the blue gone chalky on the dome. The other is the same droid still clean and white, blue still blue.
+*How it was got:* Two figures of him, and the pair together are a lesson in how plastic ages. One has yellowed right through - more than anything else in the collection - with the blue gone chalky on the dome. The other is the same droid still clean and white, blue still blue. A third sits between them: the body still white, but the dome and both legs gone cream.
 
 *Tags:* star-wars, droid, astromech, r2-d2, aged, branded
 
@@ -5075,6 +5075,16 @@ The commander of the 187th Legion.
 *How it was got:* Phase 1 helmet with a purple stripe over the crown and purple worked around the eyes in a flared mask shape. Purple pauldrons on both shoulders rather than one, a black ammunition pack clipped across the chest, a purple belt and purple knee markings.
 
 *Tags:* star-wars, clone, commander, 187th, purple, pauldron, branded
+
+### 447. The Librarian
+
+**Alignment:** good · **Role:** Librarian · **Based:** Lego City · **Figure:** custom
+
+A librarian.
+
+*How it was got:* Dark brown bobbed hair, black-framed glasses, and a wide open smile - one of the few faces here with the teeth showing. Cream jumper knitted in orange and yellow argyle over a collared shirt, mismatched white and dark grey sleeves, black legs.
+
+*Tags:* civilian, librarian, glasses, argyle, lego-city
 
 ---
 
