@@ -353,6 +353,25 @@ window.LORE = [
       "elves as a people, which is not the same as having met this particular " +
       "man, and this catalogue only connects people who have actually crossed " +
       "paths."
+  },
+
+  {
+    title: "The Green Rangers keep dying",
+    text:
+      "The Green Rangers are the lowest rung of the military in this world. " +
+      "Eight of them are catalogued. Three are dead.\n\n" +
+      "That is the worst rate of any unit here by a distance - the Space " +
+      "Militia has lost more men outright, four, but out of seventeen. No " +
+      "other outfit is anywhere near a third gone.\n\n" +
+      "What makes it land is who they are. The Rangers have the most " +
+      "expressive faces in the collection: two enormous round eyes and no " +
+      "mouth at all, a handlebar moustache running into muttonchops, the " +
+      "widest grin in the unit. They were written down as the funny ones. " +
+      "They are the ones the world keeps taking from.\n\n" +
+      "And the only Green Ranger who ever outranked the others is among the " +
+      "dead. The unit had no captain at all until the Ranger Patrol Captain " +
+      "turned up in the lost - which means the one time this outfit had " +
+      "somebody in charge, he was already gone."
   }
 
 ];

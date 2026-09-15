@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-495 characters from a custom LEGO minifigure world, in the order they were
+500 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -210,6 +210,16 @@ They have a face now. The Elf Man is the first elf ever photographed here - and 
 Nothing about him is elven in the moulding. Ordinary head, ordinary hair. He is an elf because you said he is, the same way the Elf Knight is, and that is how this world has always decided what someone is.
 
 No tie is written between the two of them. The Knight has ties to the elves as a people, which is not the same as having met this particular man, and this catalogue only connects people who have actually crossed paths.
+
+### The Green Rangers keep dying
+
+The Green Rangers are the lowest rung of the military in this world. Eight of them are catalogued. Three are dead.
+
+That is the worst rate of any unit here by a distance - the Space Militia has lost more men outright, four, but out of seventeen. No other outfit is anywhere near a third gone.
+
+What makes it land is who they are. The Rangers have the most expressive faces in the collection: two enormous round eyes and no mouth at all, a handlebar moustache running into muttonchops, the widest grin in the unit. They were written down as the funny ones. They are the ones the world keeps taking from.
+
+And the only Green Ranger who ever outranked the others is among the dead. The unit had no captain at all until the Ranger Patrol Captain turned up in the lost - which means the one time this outfit had somebody in charge, he was already gone.
 
 ---
 
@@ -5621,6 +5631,62 @@ A Green Ranger. Lost, and dead.
 *How it was got:* A black hood pulled right over the head with only a band of yellow face showing through at the eyes, over a green uniform and dark legs.
 
 *Tags:* green-rangers, soldier, hood, balaclava, lost, deceased
+
+### 496. The Blue Space Captain
+
+**Alignment:** good · **Role:** Captain · **Figure:** custom
+
+A space captain. Lost, and dead.
+
+*How it was got:* Blue flight cap with the ear flaps down, black goggles across the eyes and a headset mic curving to the mouth. Blue flight suit all the way down, a circular cogged badge at the chest, a printed equipment belt at the waist and white hands.
+
+The badge is the Galactic Republic cog, so the pieces are out of a Star Wars pilot. The man is not - he is yours, and you named him a space captain rather than a clone.
+
+*Tags:* captain, space, pilot, goggles, headset, lost, deceased
+
+### 497. The Nude Aliens — Two of them
+
+**Alignment:** good · **Figure:** custom
+
+Two aliens, both of them nude. Lost, and dead.
+
+*How it was got:* One is a bare yellow minifigure - torso, arms, hands and legs all plain unprinted yellow, with a face on him: brown hair, thick brows and a moustache. He is not blank, he is undressed.
+
+The other is green throughout with a moulded head - a scaled, gaping fish-like face with a blue patch at the gill - and dark markings across the chest that read as skin rather than clothing. He is in pieces on the table in the photograph, head and torso and a loose brick.
+
+*Tags:* alien, nude, unprinted, moulded-head, lost, deceased
+
+### 498. The Engine Technician
+
+**Alignment:** good · **Role:** Technician · **Figure:** custom
+
+One of the engine technicians. Lost, and dead.
+
+*How it was got:* Black helmet with round padded ear cups. A pale face, wide open grin, one raised brow. Cream torso printed with grey shoulder plates and a panelled chest, grey arms.
+
+*Tags:* technician, engines, space-programme, helmet, lost, deceased
+
+### 499. The Ranger in the Olive Helm
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A Green Ranger. Lost, and dead.
+
+*How it was got:* Plain domed helmet in dark olive. Yellow face, dark eyes, a small closed smile. Green field jacket printed with breast pockets and a seam down the front, a pale yellow-green belt, grey legs with a red patch at one hip and black hands.
+
+*Tags:* green-rangers, soldier, helmet, field-jacket, lost, deceased
+
+### 500. The Lost Golden Rifleman
+
+**Alignment:** good · **Role:** Rifleman · **Figure:** branded
+
+A rifleman of the Golden Company. Lost, and dead.
+
+*How it was got:* Pale clone helmet with a plain visor and no crown stripe, white armour carrying orange-gold markings across the chest and hips. A long black rifle held at his side, standing on a grey baseplate.
+
+Too soft a frame to tell Phase 1 from Phase 2, or to read the unit markings the living Rifleman carries on both arms.
+
+*Tags:* star-wars, clone, trooper, rifleman, golden-company, rifle, lost, deceased, branded
 
 ---
 

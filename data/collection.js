@@ -13250,7 +13250,144 @@ window.COLLECTION = [
     tags: ["green-rangers", "soldier", "hood", "balaclava", "lost", "deceased"],
     images: ["images/the-hooded-ranger-01.jpg"],
     acquired: "",
-    notes: "Filed with the Green Rangers because they are the only green army in this world - say the word if the green army men are somebody else and he moves. He is the odd one out among them either way: the other five have the most expressive faces in the collection, two enormous eyes, a handlebar moustache, the widest grin in the unit, and this one has no face showing at all. The Rangers are seven now and two of the seven are dead, which is the worst rate of any unit here."
+    notes: "Filed with the Green Rangers because they are the only green army in this world - say the word if the green army men are somebody else and he moves. He is the odd one out among them either way: the other five have the most expressive faces in the collection, two enormous eyes, a handlebar moustache, the widest grin in the unit, and this one has no face showing at all. The Rangers are eight now and three of the eight are dead, which is by some way the worst rate of any unit here - the lowest rung of the military, and the one the world keeps taking from."
+  },
+
+
+
+  {
+    id: "the-blue-space-captain",
+    name: "The Blue Space Captain",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A space captain. Lost, and dead.",
+    provenance:
+      "Blue flight cap with the ear flaps down, black goggles across the eyes " +
+      "and a headset mic curving to the mouth. Blue flight suit all the way " +
+      "down, a circular cogged badge at the chest, a printed equipment belt at " +
+      "the waist and white hands.\n\n" +
+      "The badge is the Galactic Republic cog, so the pieces are out of a Star " +
+      "Wars pilot. The man is not - he is yours, and you named him a space " +
+      "captain rather than a clone.",
+    tags: ["captain", "space", "pilot", "goggles", "headset", "lost", "deceased"],
+    images: ["images/the-blue-space-captain-01.jpg"],
+    acquired: "",
+    notes: "Filed as one of yours because that is how you named him - every Star Wars figure here you call by its Star Wars name, and this one you called a space captain. Say the word and he moves to the Star Wars corner. No group either: this world has a Space Militia, a Royal Galactic Army, a Royal Space Academy and a Blacktron Squadron, and nobody has said which ship was his."
+  },
+
+
+  {
+    id: "the-nude-aliens",
+    name: "The Nude Aliens",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two aliens, both of them nude. Lost, and dead.",
+    provenance:
+      "One is a bare yellow minifigure - torso, arms, hands and legs all plain " +
+      "unprinted yellow, with a face on him: brown hair, thick brows and a " +
+      "moustache. He is not blank, he is undressed.\n\n" +
+      "The other is green throughout with a moulded head - a scaled, gaping " +
+      "fish-like face with a blue patch at the gill - and dark markings across " +
+      "the chest that read as skin rather than clothing. He is in pieces on " +
+      "the table in the photograph, head and torso and a loose brick.",
+    tags: ["alien", "nude", "unprinted", "moulded-head", "lost", "deceased"],
+    images: [{ src: "images/the-nude-aliens-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "One card because you sent them as a pair. Worth distinguishing from the Man from the Yellow Dimension, who is unprinted everywhere including his face - the yellow one here has a face and is simply not wearing anything. The green one is the third alien in this world who is not shaped like everybody else, after the Four-Armed Alien and the Alien Professor. No species link written between the two of them: being undressed is not a species."
+  },
+
+
+  {
+    id: "the-engine-technician",
+    name: "The Engine Technician",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Technician",
+    group: "The Royal Space Academy",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the engine technicians. Lost, and dead.",
+    provenance:
+      "Black helmet with round padded ear cups. A pale face, wide open grin, " +
+      "one raised brow. Cream torso printed with grey shoulder plates and a " +
+      "panelled chest, grey arms.",
+    tags: ["technician", "engines", "space-programme", "helmet", "lost", "deceased"],
+    images: ["images/the-engine-technician-01.jpg"],
+    acquired: "",
+    notes: "Filed with the Royal Space Academy, whose two technicians are the only ones in this world - say so if the engine technicians are a crew of their own and he moves. The Mechanic Supervisor on the Command Staff and the ungrouped Repair Crew are the other places he could belong. First of the Academy to be lost; they are six now and one of the six is gone."
+  },
+
+
+  {
+    id: "the-ranger-in-the-olive-helm",
+    name: "The Ranger in the Olive Helm",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Green Rangers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Green Ranger. Lost, and dead.",
+    provenance:
+      "Plain domed helmet in dark olive. Yellow face, dark eyes, a small " +
+      "closed smile. Green field jacket printed with breast pockets and a " +
+      "seam down the front, a pale yellow-green belt, grey legs with a red " +
+      "patch at one hip and black hands.",
+    tags: ["green-rangers", "soldier", "helmet", "field-jacket", "lost", "deceased"],
+    images: ["images/the-ranger-in-the-olive-helm-01.jpg"],
+    acquired: "",
+    notes: "Named the way the lost militiamen are, for the helmet, because the Rangers' descriptive names are all faces and his face is the ordinary one. Eighth Green Ranger."
+  },
+
+
+  {
+    id: "the-lost-golden-rifleman",
+    name: "The Lost Golden Rifleman",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Rifleman",
+    group: "The Golden Company",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A rifleman of the Golden Company. Lost, and dead.",
+    provenance:
+      "Pale clone helmet with a plain visor and no crown stripe, white armour " +
+      "carrying orange-gold markings across the chest and hips. A long black " +
+      "rifle held at his side, standing on a grey baseplate.\n\n" +
+      "Too soft a frame to tell Phase 1 from Phase 2, or to read the unit " +
+      "markings the living Rifleman carries on both arms.",
+    tags: ["star-wars", "clone", "trooper", "rifleman", "golden-company", "rifle", "lost", "deceased", "branded"],
+    images: ["images/the-lost-golden-rifleman-01.jpg"],
+    acquired: "",
+    notes: "Named apart from the Golden Company Rifleman only because that name is taken - you called them both riflemen. First loss in the Golden Company, and the only branded figure among the lost - every other one of the dead is a person out of your own world rather than out of a box."
   },
 
 
