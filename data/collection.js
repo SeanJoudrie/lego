@@ -17574,7 +17574,7 @@ window.COLLECTION = [
     tags: ["villain", "beast", "animal", "wampa", "star-wars", "branded", "not-a-minifigure", "ice"],
     images: ["images/the-wampa-01.jpg"],
     acquired: "",
-    notes: "The first animal in this collection on the bad side. Six creatures were catalogued before him - Laval, a horse called Widow, Chewbacca, the Ewok, Rotta the Hutt and a Spider-Man - and every one is good. He is also the first enemy here that is simply a predator: the Brain Parasites eat, but they were built as a weapon by somebody. Nobody sent the wampa. Fifth figure in the catalogue that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba and the Alien Professor."
+    notes: "The first animal in this collection on the bad side. Six creatures were catalogued before him - Laval, a horse called Widow, Chewbacca, the Ewok, Rotta the Hutt and a Spider-Man - and every one is good. He is also the first enemy here that is simply a predator: the Brain Parasites eat, but they were built as a weapon by somebody. Nobody sent the wampa. Fourth figure in the catalogue that is not minifigure-shaped, after the Kaminoan, the Martian Leader and Jabba. This used to read fifth and counted the Alien Professor, who has since been photographed properly and turns out to be an ordinary minifigure."
   },
 
   {
@@ -17601,7 +17601,7 @@ window.COLLECTION = [
     tags: ["villain", "toy-story", "branded", "bear", "not-a-minifigure", "pink", "moulded"],
     images: ["images/lotso-01.jpg"],
     acquired: "",
-    notes: "The first Toy Story villain here, and the first branded villain out of anywhere except Star Wars, Avatar and Ninjago. The Toys are Woody, Buzz Lightyear and the Toy Alien, all good and all in a group together - he is deliberately not put in it, since being the thing they are afraid of is the point. Sixth figure that is not minifigure-shaped, arriving in the same batch as the fifth."
+    notes: "The first Toy Story villain here, and the first branded villain out of anywhere except Star Wars, Avatar and Ninjago. The Toys are Woody, Buzz Lightyear and the Toy Alien, all good and all in a group together - he is deliberately not put in it, since being the thing they are afraid of is the point. Fifth figure that is not minifigure-shaped, arriving in the same batch as the fourth. Both counts moved down by one when the Alien Professor was photographed and turned out to be an ordinary minifigure."
   },
 
   {
@@ -18381,7 +18381,7 @@ window.COLLECTION = [
     tags: ["villain", "lord-of-the-rings", "branded", "creature", "crawling", "non-minifigure", "tan"],
     images: ["images/gollum-01.jpg"],
     acquired: "",
-    notes: "Thirty-eighth branded villain, and he opens a nineteenth theme: Lord of the Rings has never had a figure in this collection until now, and the first one through the door is on the villain side. Every other licence here arrived good first. He is also the seventh figure in the catalogue that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Alien Professor, the Wampa and Lotso, and he is in Rotta the Hutt's territory - no torso and no legs in the standard build, the whole body one piece. Whether he is an enemy at all is the same question the Pharaoh and Deus Pater are carrying. He is filed here because he arrived in a run of villains, and of the seven things here that are not minifigure-shaped, five are now on this side - only the Kaminoan and the Alien Professor are good."
+    notes: "Thirty-eighth branded villain, and he opens a nineteenth theme: Lord of the Rings has never had a figure in this collection until now, and the first one through the door is on the villain side. Every other licence here arrived good first. He is also the sixth figure in the catalogue that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Wampa and Lotso - the Alien Professor was on that list until he was photographed properly - and he is in Rotta the Hutt's territory - no torso and no legs in the standard build, the whole body one piece. Whether he is an enemy at all is the same question the Pharaoh and Deus Pater are carrying. He is filed here because he arrived in a run of villains, and of the six things here that are not minifigure-shaped, five are now on this side - the Kaminoan is the only good one."
   },
 
   {
@@ -18869,7 +18869,7 @@ window.COLLECTION = [
     tags: ["villain", "orc", "giant", "monster", "tusks", "non-minifigure", "custom", "green"],
     images: ["images/the-giant-orc-01.jpg"],
     acquired: "",
-    notes: "Fourth orc, and the shape of them is filling in fast. The Orc Queen sat here for a long time as a queen of nobody - her card says so - and in two batches she has gone to three subjects: one short, one in armour called a warrior, and this. They are still not in a group, because a species is not an affiliation and nobody has said they answer to her, but the offer stands and it now covers four figures rather than three.\n\nHe is the eighth thing in this collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Alien Professor, the Wampa, Lotso and Gollum - and only the third of those that is big rather than small. The other two enormous ones are Jabba and the Martian Leader, and both of them are leaders. This one is described as a monster."
+    notes: "Fourth orc, and the shape of them is filling in fast. The Orc Queen sat here for a long time as a queen of nobody - her card says so - and in two batches she has gone to three subjects: one short, one in armour called a warrior, and this. They are still not in a group, because a species is not an affiliation and nobody has said they answer to her, but the offer stands and it now covers four figures rather than three.\n\nHe is the seventh thing in this collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Wampa, Lotso and Gollum - and only the third of those that is big rather than small. The other two enormous ones are Jabba and the Martian Leader, and both of them are leaders. This one is described as a monster."
   },
 
   {
@@ -18932,7 +18932,7 @@ window.COLLECTION = [
     tags: ["villain", "child", "kidnapped", "red", "vintage", "non-minifigure", "armless", "custom"],
     images: ["images/matthew-01.jpg"],
     acquired: "",
-    notes: "Every child catalogued in this collection until now has been on the good side - royal sons and a royal daughter, a son, a farmer boy, two peasant boys, a karate kid, a kid in pyjamas, a girl in a guinea pig costume, the boy Anakin, the boy Boba, Rotta and Grogu. He is the first child on the other deck, and he did not walk there. He was taken.\n\nThat puts him with the Brainwashed Assassin as the second figure on this side who is filed as an enemy without having chosen it, and he is the younger of the two by a long way. Nothing says what he has been raised to do, or which of them is raising him.\n\nHe has a name, which is rare here. Most of this world goes by what it is; the home-made villains with personal names come to a handful - Quinn, Phalanx, General Shepherd, Johnny Plasma, Wen, Long Arm Johnson, Deus Pater - and he is the only child among them. Somebody named him. Given the card, that may be the point.\n\nHe is also the ninth thing here that is not minifigure-shaped, and the oldest kind of figure in the collection: the mould predates the minifigure, so the youngest character on this deck is the oldest piece of plastic on it."
+    notes: "Every child catalogued in this collection until now has been on the good side - royal sons and a royal daughter, a son, a farmer boy, two peasant boys, a karate kid, a kid in pyjamas, a girl in a guinea pig costume, the boy Anakin, the boy Boba, Rotta and Grogu. He is the first child on the other deck, and he did not walk there. He was taken.\n\nThat puts him with the Brainwashed Assassin as the second figure on this side who is filed as an enemy without having chosen it, and he is the younger of the two by a long way. Nothing says what he has been raised to do, or which of them is raising him.\n\nHe has a name, which is rare here. Most of this world goes by what it is; the home-made villains with personal names come to a handful - Quinn, Phalanx, General Shepherd, Johnny Plasma, Wen, Long Arm Johnson, Deus Pater - and he is the only child among them. Somebody named him. Given the card, that may be the point.\n\nHe is also the eighth thing here that is not minifigure-shaped, and the oldest kind of figure in the collection: the mould predates the minifigure, so the youngest character on this deck is the oldest piece of plastic on it."
   },
 
   {
@@ -19091,6 +19091,119 @@ window.COLLECTION = [
     images: ["images/the-vikings-wife-01.jpg"],
     acquired: "",
     notes: "Seventh woman on the villain side, after the TV Camera Woman, the Pharaoh, the Orc Queen, the Blue Bounty Hunter, Harley Quinn and Asajj Ventress. Every one of those six has a job on her own card: the Pharaoh rules, the Orc Queen rules, the bounty hunter hunts, Ventress kills, Harley Quinn is Harley Quinn, and even the TV Camera Woman runs a camera. She is the first woman filed on this deck described by her marriage instead, and that is the description given rather than a judgement - nothing has been said about what she does.\n\nShe wears the horned helmet and he does not, which is worth noting since he is the one with the job title.\n\nA name of her own would help. She is one of very few figures in this collection identified entirely by somebody else's card."
+  },
+
+  {
+    id: "the-evil-dwarf",
+    name: "The Evil Dwarf",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A dwarf, and an enemy.",
+    provenance:
+      "Short legs, and black from the hat down. A dark brown tricorn worn low " +
+      "with a feather laid along the brim, and under it a strip of yellow face " +
+      "showing nothing but two orange eyes and heavy black brows drawn hard " +
+      "down. Everything below that is a moulded black beard falling in folds " +
+      "past the chest, with a black cape behind and a thin edge of pale cloth " +
+      "showing at one side. Black arms, grey hands, black short legs.",
+    tags: ["villain", "dwarf", "beard", "tricorn", "cape", "black", "custom"],
+    images: ["images/the-evil-dwarf-01.jpg"],
+    acquired: "",
+    notes: "The first dwarf on the villain side. There is a group here called The Dwarves and it has four in it - a king, a librarian, a soldier and an archer - and every one of them is good. He is not put in with them, because nothing says he is one of theirs rather than one of somebody else's, and a species is not an affiliation. But that group has been entirely good since the day it was made, and it is not any more unless he is from somewhere else.\n\nThe beard is the whole figure. It starts under the eyes and does not stop until the waist, so what you can actually see of him is one narrow yellow band with two orange eyes in it. That is the second face in two batches reduced to a strip: the Second Viking shows the same narrow band of eyes, except his is closed off by a helmet's nose guard from above and this one is closed off by his own beard from below."
+  },
+
+  {
+    id: "the-ghost",
+    name: "The Ghost",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A ghost.",
+    provenance:
+      "A single pale shroud moulded over the whole figure from the crown to " +
+      "the ankles, falling in soft folds with no seam at the waist. Two black " +
+      "eyes and a small open black mouth are the only printing on it, set into " +
+      "the front of the hood. White arms and white hands come out from " +
+      "underneath, and two plain white feet stand out below the hem. The " +
+      "plastic is the old glow-in-the-dark kind, gone faintly green with age.",
+    tags: ["villain", "ghost", "dead", "shroud", "glow-in-the-dark", "white", "custom"],
+    images: ["images/the-ghost-01.jpg"],
+    acquired: "",
+    notes: "The first ghost in this collection, which is odd for a world this size - it has a Ferryman, a religion, occult gods, a shadow dimension, two figures lost to time and a whole section of the catalogue for the dead, and until now nothing has ever come back.\n\nTwo cards were waiting for him without knowing it. The Ranger's says there are temples out there full of evil spirits, ghosts and zombie-like things that he has to go in and fight - written long before anything of the kind was on the shelf. And the Occultist runs a school teaching how to contact the spirits of other dimensions and realms, in the open, so people understand how evil works. One man fights them and one man teaches about them, and this is the first one either of them could point at.\n\nNo line drawn to either. Nothing says this ghost is from those temples, and nothing says who he was before."
+  },
+
+  {
+    id: "the-orc-alien-hybrid",
+    name: "The Orc-Alien Hybrid",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A cross between an orc and an alien.",
+    provenance:
+      "A pale grey moulded alien head, wide and flat, with two red eyes on " +
+      "stalks standing out to either side, green speckling across the crown, a " +
+      "ring of small teeth and a long red tongue hanging out of the mouth. " +
+      "Below the neck he is an orc: the brown torso with a gold medallion at " +
+      "one shoulder, a silver chain across the chest and a fur collar under " +
+      "it, pale green arms, grey hands, brown legs.",
+    tags: ["villain", "orc", "alien", "hybrid", "moulded-head", "green", "custom"],
+    images: ["images/the-orc-alien-hybrid-01.jpg"],
+    acquired: "",
+    notes: "This figure is made of two other cards in this collection, and the descriptions match part for part. The head is the Alien Medic's - pale grey, flat and wide, red eyes out on stalks, green speckling, the red tongue hanging out - and he is one of the five Alien Soldiers on the villain side. The body is the Short Orc's: brown torso, gold medallion, silver chain, fur collar.\n\nSo the hybrid is not a metaphor. Two catalogued enemies, one from the alien soldiers and one from the orcs, and he is the join between them. Nothing is written between him and either, and nothing should be until it is said - but if a hybrid means those two peoples have met, that is the first thing anybody has said about how any of the alien forces on that side relate to anything else.\n\nFifth orc and, depending on the ruling, a seventh alien body."
+  },
+
+  {
+    id: "the-serpent",
+    name: "The Serpent",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A snake villain, out of Ninjago.",
+    provenance:
+      "A moulded snake head with a wide cobra hood spread back from the skull, " +
+      "pale grey on the outside with dark grey scrollwork worked over it and " +
+      "dark blue underneath. The face is dark blue with two small white fangs " +
+      "and a yellow chevron up the brow, and the eyes are orange spirals " +
+      "wound in on themselves. A pale grey torso and legs printed with the " +
+      "same grey scrollwork, split down the middle by a dark blue belly panel " +
+      "barred in yellow. Grey arms and hands.",
+    tags: ["villain", "ninjago", "branded", "snake", "cobra", "hood", "spiral-eyes"],
+    images: ["images/the-serpent-01.jpg"],
+    acquired: "",
+    notes: "Forty-first branded villain, and the second out of Ninjago after the False Kai - who is a man who went undercover as one of the ninja rather than an enemy of his own. So this is the first thing from Ninjago on that deck that is simply not one of them. Six good Ninjago figures against two.\n\nNamed descriptively because I do not know which snake he is. The tribes have names and he will have one; the spiral eyes are the identifying mark, and they are worth flagging for a second reason. Spirals wound in on themselves is what hypnosis looks like drawn on a face, and there is already a thread in this world about taking a mind: the Evil Doctor and the Butcher built mind control between them, and the Brainwashed Assassin is walking around as the result. If this one takes minds too, say so - that would be three separate methods for the same crime, from three different corners of the shelf."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
@@ -19428,15 +19541,23 @@ window.COLLECTION = [
     rating: 0,
     background: "An alien, and a professor. Lost, and dead.",
     provenance:
-      "A pale moulded head - not a minifigure face but a sculpted one, flat " +
-      "and broad with dark sunken eyes. Long tan robes with a brown strap or " +
-      "sash running straight down the front, white hands.\n\n" +
-      "The frame is too soft to make out the piece. This is as much as the " +
-      "video gives.",
-    tags: ["alien", "professor", "academic", "moulded-head", "robes", "lost", "deceased"],
-    images: ["images/the-alien-professor-01.jpg"],
+      "A photograph at last. He is an ordinary minifigure, which the first " +
+      "description of him got wrong.\n\n" +
+      "A white face with three eyes - two set where eyes go, lashed and ringed " +
+      "in red, and a third smaller one closed in the middle of the forehead - " +
+      "over a wide red mouth. Sandy blond hair swept across the crown. A dark " +
+      "tan suit jacket printed with a collar, a dark tie, three buttons and two " +
+      "pocket flaps, tan arms, white hands, plain tan legs. He is dressed for a " +
+      "lecture.\n\n" +
+      "The first entry was written off a soft video frame and described a " +
+      "sculpted moulded head and long robes. Neither is right.",
+    tags: ["alien", "professor", "academic", "three-eyes", "suit", "lost", "deceased"],
+    images: [
+      { src: "images/the-alien-professor-02.jpg", caption: "Found, and photographed" },
+      { src: "images/the-alien-professor-01.jpg", caption: "The old video frame" }
+    ],
     acquired: "",
-    notes: "The only professor in this world who is not out of Hogwarts - the Hogwarts Professor and Professor Sprout are both branded, so he is the collection's own academic, and he is dead. Also the only moulded-head alien here who is not from a franchise; every other one is Star Wars, Chima, Disney or Toy Story."
+    notes: "The only professor in this world who is not out of Hogwarts - the Hogwarts Professor and Professor Sprout are both branded, so he is the collection's own academic, and his card says he is dead.\n\nHe was catalogued off a video frame, as lost, with a guess at what he looked like. He has now been found and photographed and the guess was wrong twice over: no moulded head, no robes. He is a man in a suit with three eyes. The claim that he was the only moulded-head alien here not out of a franchise goes with it, and so does his place on the list of figures that are not minifigure-shaped - five other cards were counting him on it and all five have been corrected.\n\nWhat has not changed is the word lost, and that wants a ruling. Found on the shelf is not the same as found in the world. If he is still lost and dead out there, the card stands. If finding the figure means finding the man, then a card filed as lost and dead stops being either, and it wants rewriting from the top."
   },
 
 
