@@ -11886,7 +11886,7 @@ window.COLLECTION = [
     theme: "Star Wars",
     rank: "",
     role: "Captain",
-    group: "",
+    group: "The Rebel Troopers",
     location: "",
     relations: [],
     rating: 0,
@@ -11899,7 +11899,91 @@ window.COLLECTION = [
     tags: ["star-wars", "rebel", "captain", "officer", "helmet", "branded"],
     images: ["images/captain-antilles-01.jpg"],
     acquired: "",
-    notes: "First rebel here who is not a pilot - the other nine all fly, so the group is called The Rebel Pilots and he does not fit in it. Left ungrouped rather than stretch that name; if it should widen to cover the Rebellion as a whole, say so and he goes in with them."
+    notes: "First rebel here who is not a pilot - the other nine all fly, so the group is called The Rebel Pilots and he does not fit in it. He is grouped instead with the Rebel Troopers, who arrived a batch later in the same open-faced helmet - an officer and the men he would be commanding, which is a better fit than a squadron of starfighter pilots. If the Rebellion should be one group rather than two, say so and they merge."
+  },
+
+
+  {
+    id: "the-rebel-troopers",
+    name: "The Rebel Troopers",
+    variant: "Nine of them, two patterns",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "The Rebel Troopers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Rebel troopers. There are nine of them.",
+    provenance:
+      "All nine wear the same thing: a brown and white open-faced helmet with " +
+      "the chin strap drawn down both cheeks, a blue-grey shirt and tie under " +
+      "a black vest, and pale grey legs. Seven are the older pattern, with a " +
+      "plain vest and a single silver buckle. Two are a later moulding - the " +
+      "vest printed with pockets, straps and a brown belt, and two different " +
+      "faces rather than one repeated.",
+    tags: ["star-wars", "rebel", "soldier", "unit", "nine", "branded"],
+    images: [
+      { src: "images/the-rebel-troopers-01.jpg", caption: "One of them" },
+      { src: "images/the-rebel-troopers-02.jpg", caption: "The seven older ones" },
+      { src: "images/the-rebel-troopers-03.jpg", caption: "The two newer ones" },
+    ],
+    acquired: "",
+    notes: "One entry for all nine, the way the US Army Soldiers and the Arctic Explorers are done, with the two mouldings on the same card the way R2 and C-3PO have theirs. New group, The Rebel Troopers, holding them and Captain Antilles - the officer in the same helmet who had nobody to stand with until now. Largest unit in the collection after the ten US Army Soldiers."
+  },
+
+
+  {
+    id: "the-snowtroopers",
+    name: "The Snowtroopers",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Snowtroopers. There are two of them.",
+    provenance:
+      "Ridged white helmets with a hanging cowl that covers everything but a " +
+      "dark eye slit, over white armour printed with a breathing pack and " +
+      "harness. One wears a black belt, the other grey. Both have gone " +
+      "blotchy cream with age in places.",
+    tags: ["star-wars", "imperial", "snowtrooper", "cold-weather", "unit", "two", "branded"],
+    images: [{ src: "images/the-snowtroopers-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "One entry for the pair. Filed good by the standing rule, since you have not said otherwise - the same call the Umbaran Soldier got. Worth saying once and then leaving alone: these two and the Scout Trooper are the first unambiguously Imperial figures here, and this world already has the rebels in it by your own ruling. If the Empire exists here as well, they have a side to be on and a group to be in."
+  },
+
+
+  {
+    id: "the-scout-trooper",
+    name: "The Scout Trooper",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Scout",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A scout trooper.",
+    provenance:
+      "White helmet with a wide black visor across the whole face and a snub " +
+      "filter below it, ear cups at both sides. Chest armour printed with two " +
+      "big thigh pouches and a black belt. The white has gone cream and there " +
+      "is scuffing across the chest.",
+    tags: ["star-wars", "imperial", "scout-trooper", "visor", "worn", "branded"],
+    images: ["images/the-scout-trooper-01.jpg"],
+    acquired: "",
+    notes: "Third scout in the collection to be defined by what he cannot be seen through, after the Camo Scouts and the Golden Company Scout. Ungrouped alongside the Snowtroopers until you say whether the Empire is a thing in this world."
   },
 
 

@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-448 characters from a custom LEGO minifigure world, in the order they were
+451 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5095,6 +5095,36 @@ Captain Antilles, a rebel ship's captain.
 *How it was got:* Open-faced rebel helmet - a brown dome in a white rim, with the chin strap drawn down both cheeks - over a lined face with a black beard. Tan officer's jacket with a rank plate at the chest, pocket flaps, and a badge pinned at the waist. Olive legs.
 
 *Tags:* star-wars, rebel, captain, officer, helmet, branded
+
+### 449. The Rebel Troopers — Nine of them, two patterns
+
+**Alignment:** good · **Role:** Soldier · **Figure:** branded
+
+Rebel troopers. There are nine of them.
+
+*How it was got:* All nine wear the same thing: a brown and white open-faced helmet with the chin strap drawn down both cheeks, a blue-grey shirt and tie under a black vest, and pale grey legs. Seven are the older pattern, with a plain vest and a single silver buckle. Two are a later moulding - the vest printed with pockets, straps and a brown belt, and two different faces rather than one repeated.
+
+*Tags:* star-wars, rebel, soldier, unit, nine, branded
+
+### 450. The Snowtroopers — Two of them
+
+**Alignment:** good · **Role:** Soldier · **Figure:** branded
+
+Snowtroopers. There are two of them.
+
+*How it was got:* Ridged white helmets with a hanging cowl that covers everything but a dark eye slit, over white armour printed with a breathing pack and harness. One wears a black belt, the other grey. Both have gone blotchy cream with age in places.
+
+*Tags:* star-wars, imperial, snowtrooper, cold-weather, unit, two, branded
+
+### 451. The Scout Trooper
+
+**Alignment:** good · **Role:** Scout · **Figure:** branded
+
+A scout trooper.
+
+*How it was got:* White helmet with a wide black visor across the whole face and a snub filter below it, ear cups at both sides. Chest armour printed with two big thigh pouches and a black belt. The white has gone cream and there is scuffing across the chest.
+
+*Tags:* star-wars, imperial, scout-trooper, visor, worn, branded
 
 ---
 
