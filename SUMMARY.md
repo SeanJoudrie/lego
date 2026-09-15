@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-411 characters from a custom LEGO minifigure world, in the order they were
+416 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4699,6 +4699,62 @@ Minnie Mouse.
 *How it was got:* Moulded mouse head with the two round ears, white face, lashes and a sidelong smile. Black torso and arms, cream bloomers scalloped at the hem, black legs and white shoes. No colour anywhere on her - the whole figure is the early black and white cartoons rather than the red dress.
 
 *Tags:* disney, minnie-mouse, black-and-white, vintage, branded
+
+### 412. Harry Potter
+
+**Alignment:** good · **Role:** Student · **Figure:** branded
+
+Harry Potter.
+
+*How it was got:* Black hair, round wire glasses, a small orange lightning scar at the brow, and a distinctly unimpressed set to the mouth. Grey school jumper over a striped tie, the Gryffindor lion crest on the chest, black legs.
+
+*Tags:* harry-potter, student, gryffindor, glasses, scar, branded
+
+### 413. Neville Longbottom
+
+**Alignment:** good · **Role:** Student · **Figure:** branded
+
+Neville Longbottom.
+
+*How it was got:* Brown hair swept across the brow, a lopsided half-smile. Grey patterned cardigan over a blue collared shirt and a yellow vest, dark tan legs. Not a stitch of school uniform on him.
+
+*Tags:* harry-potter, student, gryffindor, cardigan, branded
+
+### 414. Fred Weasley
+
+**Alignment:** good · **Role:** Student · **Figure:** branded
+
+One of the Weasley twins.
+
+*How it was got:* Dark orange hair under a cream bobble hat patterned in grey, a dark tan buttoned winter coat over a red scarf and a striped jumper, grey legs.
+
+Looked him up: Lego catalogues this coat-and-bobble-hat design as Fred Weasley, from the Goblet of Fire.
+
+*Tags:* harry-potter, student, gryffindor, weasley, winter, branded
+
+### 415. Kingsley Shacklebolt
+
+**Alignment:** good · **Role:** Auror · **Figure:** branded
+
+Kingsley Shacklebolt, an Auror - a wizard whose job is catching dark wizards.
+
+*How it was got:* Blue cap sitting at an angle, ringed with metallic gold and purple diamonds. Purple robes printed down the torso, arms and legs, with a cloth cape blue outside and darker blue within.
+
+Looked him up for you: this is the Kingsley Shacklebolt figure from the Harry Potter Series 2 collectible minifigures, 71028, number thirteen of sixteen. It was his first minifigure ever.
+
+*Tags:* harry-potter, auror, ministry, cape, branded
+
+### 416. Elizabeth Swann
+
+**Alignment:** good · **Figure:** branded
+
+Elizabeth Swann.
+
+*How it was got:* Long wavy light brown hair, dark red gown over a white underdress, gold trim down every edge, and a gold medallion at the throat.
+
+Looked her up: this is Elizabeth Swann from set 4181, Isla De La Muerta, 2011. The medallion is not jewellery - it is one of the cursed Aztec coins, which is the whole reason the first film happens to her.
+
+*Tags:* pirates-of-the-caribbean, elizabeth-swann, gown, cursed-gold, branded
 
 ---
 

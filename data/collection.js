@@ -10730,7 +10730,7 @@ window.COLLECTION = [
     theme: "Harry Potter",
     rank: "",
     role: "Professor",
-    group: "",
+    group: "Hogwarts",
     location: "",
     relations: [],
     rating: 0,
@@ -10756,7 +10756,7 @@ window.COLLECTION = [
     theme: "Harry Potter",
     rank: "",
     role: "Professor",
-    group: "",
+    group: "Hogwarts",
     location: "",
     relations: [],
     rating: 0,
@@ -10774,7 +10774,7 @@ window.COLLECTION = [
     tags: ["harry-potter", "professor", "herbology", "hufflepuff", "witch", "branded"],
     images: ["images/professor-sprout-01.jpg"],
     acquired: "",
-    notes: "You asked me to work out who she was and that is her. Opens a thirteenth theme, alongside your own custom professor - and a third Hogwarts figure would make the two of them a group, the way the Winter Troopers and the dwarves went."
+    notes: "You asked me to work out who she was and that is her. Opens a thirteenth theme, alongside your own custom professor - and the third Hogwarts figure turned up the very next batch, so they are a group now - along with Harry, Neville and Fred Weasley."
   },
 
 
@@ -10855,6 +10855,141 @@ window.COLLECTION = [
     images: ["images/minnie-mouse-01.jpg"],
     acquired: "",
     notes: "Opens a sixteenth theme. Four new themes in one batch, which has not happened before. She is also the only figure in the collection printed with no colour at all."
+  },
+
+
+  {
+    id: "harry-potter",
+    name: "Harry Potter",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Harry Potter",
+    rank: "",
+    role: "Student",
+    group: "Hogwarts",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Harry Potter.",
+    provenance:
+      "Black hair, round wire glasses, a small orange lightning scar at the " +
+      "brow, and a distinctly unimpressed set to the mouth. Grey school " +
+      "jumper over a striped tie, the Gryffindor lion crest on the chest, " +
+      "black legs.",
+    tags: ["harry-potter", "student", "gryffindor", "glasses", "scar", "branded"],
+    images: ["images/harry-potter-01.jpg"],
+    acquired: "",
+    notes: "In school uniform rather than robes, which is the ordinary version of him rather than the wizard one."
+  },
+
+
+  {
+    id: "neville-longbottom",
+    name: "Neville Longbottom",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Harry Potter",
+    rank: "",
+    role: "Student",
+    group: "Hogwarts",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Neville Longbottom.",
+    provenance:
+      "Brown hair swept across the brow, a lopsided half-smile. Grey patterned " +
+      "cardigan over a blue collared shirt and a yellow vest, dark tan legs. " +
+      "Not a stitch of school uniform on him.",
+    tags: ["harry-potter", "student", "gryffindor", "cardigan", "branded"],
+    images: ["images/neville-longbottom-01.jpg"],
+    acquired: "",
+    notes: "In his own clothes where Harry is in uniform. Between them and Professor Sprout, whose subject he is famously good at, three of the six Hogwarts figures here are connected in the books in ways nobody has written down yet."
+  },
+
+
+  {
+    id: "fred-weasley",
+    name: "Fred Weasley",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Harry Potter",
+    rank: "",
+    role: "Student",
+    group: "Hogwarts",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Weasley twins.",
+    provenance:
+      "Dark orange hair under a cream bobble hat patterned in grey, a dark " +
+      "tan buttoned winter coat over a red scarf and a striped jumper, grey " +
+      "legs.\n\n" +
+      "Looked him up: Lego catalogues this coat-and-bobble-hat design as Fred " +
+      "Weasley, from the Goblet of Fire.",
+    tags: ["harry-potter", "student", "gryffindor", "weasley", "winter", "branded"],
+    images: ["images/fred-weasley-01.jpg"],
+    acquired: "",
+    notes: "You said maybe Fred or George and that is exactly the right amount of doubt to have. Lego calls this one Fred, so that is the name on the card - but they are identical twins and the figures are near enough identical too, and Fred and George are two different people who could not share an entry the way one man in two outfits can. If you know it is George, say so and the name changes."
+  },
+
+
+  {
+    id: "kingsley-shacklebolt",
+    name: "Kingsley Shacklebolt",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Harry Potter",
+    rank: "",
+    role: "Auror",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Kingsley Shacklebolt, an Auror - a wizard whose job is catching dark " +
+      "wizards.",
+    provenance:
+      "Blue cap sitting at an angle, ringed with metallic gold and purple " +
+      "diamonds. Purple robes printed down the torso, arms and legs, with a " +
+      "cloth cape blue outside and darker blue within.\n\n" +
+      "Looked him up for you: this is the Kingsley Shacklebolt figure from " +
+      "the Harry Potter Series 2 collectible minifigures, 71028, number " +
+      "thirteen of sixteen. It was his first minifigure ever.",
+    tags: ["harry-potter", "auror", "ministry", "cape", "branded"],
+    images: ["images/kingsley-shacklebolt-01.jpg"],
+    acquired: "",
+    notes: "You asked me to work out who he was and that is him. Deliberately left out of the Hogwarts group - he is Ministry rather than school, the only Harry Potter figure here who is not a pupil or a teacher, and lumping him in would have been the vague sort of grouping you told me to avoid."
+  },
+
+
+  {
+    id: "elizabeth-swann",
+    name: "Elizabeth Swann",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Pirates of the Caribbean",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Elizabeth Swann.",
+    provenance:
+      "Long wavy light brown hair, dark red gown over a white underdress, " +
+      "gold trim down every edge, and a gold medallion at the throat.\n\n" +
+      "Looked her up: this is Elizabeth Swann from set 4181, Isla De La " +
+      "Muerta, 2011. The medallion is not jewellery - it is one of the cursed " +
+      "Aztec coins, which is the whole reason the first film happens to her.",
+    tags: ["pirates-of-the-caribbean", "elizabeth-swann", "gown", "cursed-gold", "branded"],
+    images: ["images/elizabeth-swann-01.jpg"],
+    acquired: "",
+    notes: "Your guess was right - Pirates of the Caribbean. Second figure in that theme, beside Jack Sparrow, and this world already has a pirate crew of its own for the pair of them to have never met."
   },
 
 
