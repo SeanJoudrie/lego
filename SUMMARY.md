@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-351 characters from a custom LEGO minifigure world, in the order they were
+356 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4085,6 +4085,56 @@ The Enforcer Squad. There are two of them.
 *How it was got:* White armour with a black visor band straight across the dome, and a ribbed chest and belt plate printed on the torso. The two are identical.
 
 *Tags:* enforcer, squad, soldier, unit, armour, two
+
+### 352. The Defense Gunner
+
+**Alignment:** good · **Role:** Defense Gunner · **Figure:** custom
+
+He works the defensive guns.
+
+*How it was got:* White armour with a smoked translucent visor band rather than a solid one - his face reads straight through it, brows down, stubbled and unhappy. Black hands.
+
+*Tags:* gunner, defense, armour, visor, command-staff
+
+### 353. The Pilot Commander
+
+**Alignment:** good · **Role:** Pilot Commander · **Figure:** custom
+
+He commands the pilots.
+
+*How it was got:* White peaked cap, sand-blue arms and legs, and a white chest rig with hoses running to a panel of red and blue rank bars. A pack on his back.
+
+*Tags:* commander, pilot, officer, rank-insignia, command-staff
+
+### 354. The Hangar Commander
+
+**Alignment:** good · **Role:** Hangar Commander · **Figure:** custom
+
+He runs the hangar.
+
+*How it was got:* Same white peaked cap and the same scarred face as the Pilot Commander, but in full white armour with a black belt rather than an officer's kit.
+
+*Tags:* commander, hangar, officer, armour, command-staff
+
+### 355. The Troop Commander
+
+**Alignment:** good · **Role:** Troop Commander · **Figure:** custom
+
+He commands the troops.
+
+*How it was got:* Dark brown hair, no helmet, and a cloth pauldron over one shoulder - white with a blue stripe. Full white armour underneath.
+
+*Tags:* commander, troops, pauldron, armour, command-staff
+
+### 356. The Mechanic Supervisor
+
+**Alignment:** good · **Role:** Mechanic Supervisor · **Figure:** custom
+
+He supervises the mechanics.
+
+*How it was got:* Brown cap over a yellow face with a lopsided grin. Full white armour, white hands. Easily the most cheerful of the five.
+
+*Tags:* supervisor, mechanic, armour, command-staff
 
 ---
 

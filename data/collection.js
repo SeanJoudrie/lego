@@ -9277,6 +9277,127 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "the-defense-gunner",
+    name: "The Defense Gunner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Defense Gunner",
+    group: "The Command Staff",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "He works the defensive guns.",
+    provenance:
+      "White armour with a smoked translucent visor band rather than a solid " +
+      "one - his face reads straight through it, brows down, stubbled and " +
+      "unhappy. Black hands.",
+    tags: ["gunner", "defense", "armour", "visor", "command-staff"],
+    images: ["images/the-defense-gunner-01.jpg"],
+    acquired: "",
+    notes: "The only one of the five without a command title, and the only one whose face is behind a visor - the rest go bare-headed under caps and hair. He wears the Enforcer Squad's helmet with a see-through visor instead of their black one."
+  },
+
+
+  {
+    id: "the-pilot-commander",
+    name: "The Pilot Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot Commander",
+    group: "The Command Staff",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "He commands the pilots.",
+    provenance:
+      "White peaked cap, sand-blue arms and legs, and a white chest rig with " +
+      "hoses running to a panel of red and blue rank bars. A pack on his back.",
+    tags: ["commander", "pilot", "officer", "rank-insignia", "command-staff"],
+    images: ["images/the-pilot-commander-01.jpg"],
+    acquired: "",
+    notes: "He and the Hangar Commander have the same scarred face. Two men running next-door departments with one face between them is either brothers or the same man twice - say which."
+  },
+
+
+  {
+    id: "the-hangar-commander",
+    name: "The Hangar Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Hangar Commander",
+    group: "The Command Staff",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "He runs the hangar.",
+    provenance:
+      "Same white peaked cap and the same scarred face as the Pilot Commander, " +
+      "but in full white armour with a black belt rather than an officer's kit.",
+    tags: ["commander", "hangar", "officer", "armour", "command-staff"],
+    images: ["images/the-hangar-commander-01.jpg"],
+    acquired: "",
+    notes: "The hangar and the pilots are the same building's business, and these two share a face and a cap. If there is a relation between them beyond the department, say so."
+  },
+
+
+  {
+    id: "the-troop-commander",
+    name: "The Troop Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Troop Commander",
+    group: "The Command Staff",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "He commands the troops.",
+    provenance:
+      "Dark brown hair, no helmet, and a cloth pauldron over one shoulder - " +
+      "white with a blue stripe. Full white armour underneath.",
+    tags: ["commander", "troops", "pauldron", "armour", "command-staff"],
+    images: ["images/the-troop-commander-01.jpg"],
+    acquired: "",
+    notes: "The only one of the five wearing cloth. A pauldron is a field marking rather than an office one, so of this staff he is the one who is meant to be seen from a distance on the ground."
+  },
+
+
+  {
+    id: "the-mechanic-supervisor",
+    name: "The Mechanic Supervisor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Mechanic Supervisor",
+    group: "The Command Staff",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "He supervises the mechanics.",
+    provenance:
+      "Brown cap over a yellow face with a lopsided grin. Full white armour, " +
+      "white hands. Easily the most cheerful of the five.",
+    tags: ["supervisor", "mechanic", "armour", "command-staff"],
+    images: ["images/the-mechanic-supervisor-01.jpg"],
+    acquired: "",
+    notes: "Third man now whose job is the mechanics, after the Inventory Specialist - who you said is in charge of any mechanic or technician in the civilization - and the Engineer Commander. Three layers of the same trade with no line drawn between them yet."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
