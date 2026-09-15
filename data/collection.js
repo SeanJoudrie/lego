@@ -17031,6 +17031,140 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-evil-bowman",
+    name: "The Evil Bowman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Archer",
+    group: "The Evil Knights",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The bowman of the evil knights.",
+    provenance:
+      "A riveted grey kettle helm with a wide brim, over a mail coif framing a " +
+      "yellow face with a small closed mouth. A tunic quartered red and white " +
+      "and printed with a gold lion, a brown belt across it; one grey arm and " +
+      "one black, yellow hands, pale grey legs.",
+    tags: ["villain", "knight", "archer", "bowman", "kettle-helm", "lion", "medieval"],
+    images: ["images/the-evil-bowman-01.jpg"],
+    acquired: "",
+    notes: "He is wearing the enemy's badge. The Dragon Knight's card has said since it was written that the lion is what the rest of the order carries - it is the Royal Knights' own crest - and this man has a gold one across his chest. In that realm the rule is that dying costs you your armour and not your life, and what you lose stays where you fell for the other side to pick up and keep. A lion surcoat on an enemy archer is exactly what that rule predicts. He could equally be a defector, or it could be a shared part and nothing more. Second archer on the bad side, after the Shadow Archer."
+  },
+
+  {
+    id: "the-clubman",
+    name: "The Clubman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Clubman",
+    group: "The Evil Knights",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The club man of the evil knights.",
+    provenance:
+      "A black mail coif drawn close around a yellow face with heavy stubble, " +
+      "brows down and the teeth bared. A grey torso printed with fine white " +
+      "chainmail under crossed brown leather straps and a buckled belt; red " +
+      "arms, yellow hands, red legs.",
+    tags: ["villain", "knight", "clubman", "chainmail", "coif", "stubble", "medieval"],
+    images: ["images/the-clubman-01.jpg"],
+    acquired: "",
+    notes: "Clubman is a new office. The Royal Knights have a Mace Knight who fights with a mace and that is the nearest thing - eighteen of them, and every one is good. A club is the crudest weapon anybody in this collection carries; the rest of the medieval realm fights with swords, bows, crossbows and a mace."
+  },
+
+  {
+    id: "the-evil-cavalryman",
+    name: "The Evil Cavalryman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Cavalry",
+    group: "The Evil Knights",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The cavalry of the evil knights.",
+    provenance:
+      "A black helm with the neck guard flaring wide at both sides, over a " +
+      "yellow face carrying a black eyepatch and a scar beneath it. A torso " +
+      "printed with a silver gorget above a red and black shield with a gold " +
+      "dragon rearing on it; blue arms, yellow hands, blue legs.",
+    tags: ["villain", "knight", "cavalry", "dragon", "eyepatch", "scar", "medieval"],
+    images: ["images/the-evil-cavalryman-01.jpg"],
+    acquired: "",
+    notes: "Cavalry is new, and it raises a question the collection cannot answer: there is exactly one horse in it, Widow, and she is filed good. A mounted arm on the enemy side needs mounts. He carries a gold dragon, and so does the Evil Swordsman beside him - but the Royal Knights have a Dragon Knight of their own, whose card points out that his dragon is not the lion the rest of the order carries. A dragon is not a side here."
+  },
+
+  {
+    id: "the-evil-swordsman",
+    name: "The Evil Swordsman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Swordsman",
+    group: "The Evil Knights",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The swordsman of the evil knights.",
+    provenance:
+      "A black helm with the neck guard swept out and down, over a yellow face " +
+      "with a heavy black moustache and the brows pulled hard together. A black " +
+      "torso printed with rows of silver studs around a red shield carrying a " +
+      "red dragon, a studded brown belt below it; red arms, black hands, black " +
+      "legs.",
+    tags: ["villain", "knight", "swordsman", "dragon", "studded", "moustache", "medieval"],
+    images: ["images/the-evil-swordsman-01.jpg"],
+    acquired: "",
+    notes: "The first man on that side whose whole job is the sword and who is not tied to the killing swords. The three medieval villains before him - the Swordsmith Knight, the Knight with the Real Sword and the Evil Knight - are every one of them caught up in that story, the weapons that kill for real in a realm where dying is supposed to cost you nothing but your armour. This one is not written into it. If he is, that story has a fourth man."
+  },
+
+  {
+    id: "the-yellow-super-swordsman",
+    name: "The Yellow Super Swordsman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Swordsman",
+    group: "The Evil Knights",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The best swordsman the evil knights have.",
+    provenance:
+      "A full black great helm with a cross brace and a narrow eye slit, a dark " +
+      "red plume standing off the crown on a spike. A tunic quartered yellow " +
+      "and black under a printed mail collar, a red and silver studded belt " +
+      "across it; black arms, dark red hands, black and yellow legs over grey " +
+      "boots.",
+    tags: ["villain", "knight", "swordsman", "elite", "great-helm", "plume", "quartered"],
+    images: ["images/the-yellow-super-swordsman-01.jpg"],
+    acquired: "",
+    notes: "Their best, and the only one of the five whose face is entirely shut away - the other four all show a jaw or a scar. The Royal Knights answer him with the Swordmaster and the Supreme Mega Knight, who is full plate, battered, scuffed and grubby with it. Nobody has said whether these two have ever met and it is the fight the medieval realm has been missing."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {

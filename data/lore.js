@@ -1393,6 +1393,32 @@ window.LORE = [
       "None of them is written as knowing any other. If they do, the enemy has " +
       "a fifth column rather than a run of separate resignations, and that is " +
       "one word away either direction."
+  },
+
+  {
+    title: "The Royal Knights finally have somebody to fight",
+    text:
+      "Eighteen Royal Knights have been catalogued, which makes them one of " +
+      "the largest bodies in this collection, and for the whole of that time " +
+      "they had no army opposite them. The medieval villains were five men and " +
+      "three of the five were tangled in one story - the swords that kill for " +
+      "real.\n\n" +
+      "Now there is an order. Five evil knights, arriving together, with the " +
+      "battlefield divided between them: a bowman, a club man, cavalry, a " +
+      "swordsman, and their best swordsman. That is not a handful of " +
+      "individuals. That is a line of battle, and it is the first one the " +
+      "realm has had on the other side.\n\n" +
+      "Two things about them are worth stopping on.\n\n" +
+      "The first is the bowman's chest. The Royal Knights carry a lion - the " +
+      "Dragon Knight's card says so outright, since his dragon is the " +
+      "exception that proves it - and the enemy archer has a gold lion across " +
+      "his front. The rule in that realm is that dying costs you your armour " +
+      "and not your life, and that what you drop stays there for the other " +
+      "side to pick up and keep. An enemy in your colours is not a mistake in " +
+      "that world. It is the rule working.\n\n" +
+      "The second is the cavalry. There is exactly one horse in this entire " +
+      "collection and she is called Widow and she is on the good side. " +
+      "Somebody has a mounted arm now and nothing to mount it on."
   }
 
 ];
