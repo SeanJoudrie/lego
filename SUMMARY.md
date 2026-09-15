@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-298 characters from a custom LEGO minifigure world, in the order they were
+303 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3515,6 +3515,56 @@ Delta Squad's sniper.
 *How it was got:* Chinstrap down, pale head, one fair eyebrow showing under the helmet.
 
 *Tags:* delta-squad, sniper, soldier, marksman
+
+### 299. The Delta Rifleman
+
+**Alignment:** good · **Role:** Rifleman · **Figure:** custom
+
+Delta Squad's other rifleman.
+
+*How it was got:* Bareheaded like the leader, black hair, the same green fatigues as the rest of the squad.
+
+*Tags:* delta-squad, rifleman, soldier
+
+### 300. The Fighter Pilot
+
+**Alignment:** good · **Role:** Fighter Pilot · **Figure:** custom
+
+The Green Rangers' fighter pilot.
+
+*How it was got:* Brown leather flying cap with goggles pushed up, star on the belt buckle.
+
+*Tags:* green-rangers, pilot, fighter, goggles
+
+### 301. The Cargo Pilot
+
+**Alignment:** good · **Role:** Cargo Pilot · **Figure:** custom
+
+The Green Rangers' routine cargo pilot.
+
+*How it was got:* Black flying cap where the fighter pilot's is brown, and trousers scuffed and stained down both legs.
+
+*Tags:* green-rangers, pilot, cargo, routine, goggles
+
+### 302. The Wide-Eyed Ranger
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A Green Ranger. Funny, and goofy with it.
+
+*How it was got:* Two enormous round eyes, an orange nose and no mouth at all - the strangest face in the collection, and the only one without a mouth.
+
+*Tags:* green-rangers, soldier, goofy, odd-face
+
+### 303. The Moustached Ranger
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A Green Ranger. Funny, and goofy with it.
+
+*How it was got:* An enormous black handlebar moustache running into muttonchops.
+
+*Tags:* green-rangers, soldier, goofy, moustache
 
 ---
 

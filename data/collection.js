@@ -7916,6 +7916,123 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-delta-rifleman",
+    name: "The Delta Rifleman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Rifleman",
+    group: "Delta Squad",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Delta Squad's other rifleman.",
+    provenance:
+      "Bareheaded like the leader, black hair, the same green fatigues as the " +
+      "rest of the squad.",
+    tags: ["delta-squad", "rifleman", "soldier"],
+    images: ["images/the-delta-rifleman-01.jpg"],
+    acquired: "",
+    notes: "Sixth and last of Delta Squad. You called him the OTHER rifleman, which means one of the first five is carrying a rifle too and it has not been recorded which - say and it goes in. Second Rifleman in the role filter, after the Adventure Crew's."
+  },
+
+
+  {
+    id: "the-fighter-pilot",
+    name: "The Fighter Pilot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Fighter Pilot",
+    group: "The Green Rangers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The Green Rangers' fighter pilot.",
+    provenance: "Brown leather flying cap with goggles pushed up, star on the belt buckle.",
+    tags: ["green-rangers", "pilot", "fighter", "goggles"],
+    images: ["images/the-fighter-pilot-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The Green Rangers are the lowest rung of this world's military - which makes them the first unit in the collection defined by being at the bottom. Everything else here is elite, royal, specialist or a whole service."
+  },
+
+
+  {
+    id: "the-cargo-pilot",
+    name: "The Cargo Pilot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Cargo Pilot",
+    group: "The Green Rangers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The Green Rangers' routine cargo pilot.",
+    provenance:
+      "Black flying cap where the fighter pilot's is brown, and trousers scuffed " +
+      "and stained down both legs.",
+    tags: ["green-rangers", "pilot", "cargo", "routine", "goggles"],
+    images: ["images/the-cargo-pilot-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, told apart from the fighter pilot by the black cap as you said. Ninth pilot in the collection and the only one whose job is described as routine - everybody else here flies something famous, experimental or armed."
+  },
+
+
+  {
+    id: "the-wide-eyed-ranger",
+    name: "The Wide-Eyed Ranger",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Green Rangers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Green Ranger. Funny, and goofy with it.",
+    provenance:
+      "Two enormous round eyes, an orange nose and no mouth at all - the " +
+      "strangest face in the collection, and the only one without a mouth.",
+    tags: ["green-rangers", "soldier", "goofy", "odd-face"],
+    images: ["images/the-wide-eyed-ranger-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. You said these two are funny and goofy, and the plastic agrees before the lore does: he has a face no other figure here has."
+  },
+
+
+  {
+    id: "the-moustached-ranger",
+    name: "The Moustached Ranger",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Green Rangers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Green Ranger. Funny, and goofy with it.",
+    provenance: "An enormous black handlebar moustache running into muttonchops.",
+    tags: ["green-rangers", "soldier", "goofy", "moustache"],
+    images: ["images/the-moustached-ranger-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, paired with the Wide-Eyed Ranger."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
