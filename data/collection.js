@@ -8926,7 +8926,7 @@ window.COLLECTION = [
     tags: ["star-wars", "pilot", "jedi", "rebel", "x-wing", "branded"],
     images: ["images/luke-skywalker-01.jpg"],
     acquired: "",
-    notes: "Opens a Star Wars theme, the eighth, and now has a squadron round him - five more rebel pilots in the same orange flight kit. Worth deciding how he sits with what is already here: this world has its own Jedi - the Snow Jedi's line - and its own clone troopers, all custom characters rather than the films'. Luke is the first named figure from that source to be catalogued, so say whether he is part of their story or a visitor from another world, the way the collection already handles it."
+    notes: "Opens a Star Wars theme, the eighth, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both."
   },
 
 
@@ -9052,6 +9052,108 @@ window.COLLECTION = [
     images: ["images/the-smiling-pilot-01.jpg"],
     acquired: "",
     notes: "Name is purely descriptive. The youngest-looking face in the squadron, and the only one in it with no expression to read."
+  },
+
+
+  {
+    id: "the-stern-pilot",
+    name: "The Stern Pilot",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "The Rebel Pilots",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the rebel pilots.",
+    provenance:
+      "Grey and white striped helmet, heavy dark brows and a hard set to the " +
+      "mouth. Panelled life-support vest with the control box and hose.",
+    tags: ["star-wars", "rebel", "pilot", "x-wing", "branded"],
+    images: ["images/the-stern-pilot-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive."
+  },
+
+
+  {
+    id: "the-pilot-in-glasses",
+    name: "The Pilot in Glasses",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "The Rebel Pilots",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the rebel pilots.",
+    provenance:
+      "Blue-rimmed glasses and a headset microphone swung across his cheek, " +
+      "under a helmet marked with tan oval panels. Yellow head, plain chest rig.",
+    tags: ["star-wars", "rebel", "pilot", "x-wing", "glasses", "headset", "branded"],
+    images: ["images/the-pilot-in-glasses-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. The only pilot in the squadron with a microphone printed on his face, which reads as the one doing the talking. Second yellow head among eight rebels, after the Smirking Pilot."
+  },
+
+
+  {
+    id: "the-gold-domed-astronaut",
+    name: "The Gold-Domed Astronaut",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Astronaut",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An astronaut.",
+    provenance:
+      "Solid gold dome over a white pressure suit, with a ribbed breathing " +
+      "collar and hoses running to a chest valve. Black utility belt, white " +
+      "legs printed with vents.",
+    tags: ["astronaut", "space", "gold-visor", "pressure-suit", "life-support"],
+    images: ["images/the-gold-domed-astronaut-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Kept out of a group for now, but worth checking against the Mars Mission crew - his gold dome is the same idea as their gold visor, and if he is one of them rather than a lone astronaut, say so and he moves."
+  },
+
+
+  {
+    id: "the-mars-mission-astronaut",
+    name: "The Mars Mission Astronaut",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Astronaut",
+    group: "Mars Mission",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Mars Mission crew.",
+    provenance:
+      "White suit printed with an orange harness and the old rocket-and-planet " +
+      "badge on the chest. The gold visor flips: down it covers the face " +
+      "entirely, up it sits on the brim and shows a yellow face in " +
+      "sunglasses, teeth clenched.",
+    tags: ["astronaut", "mars-mission", "space", "gold-visor", "classic-space-logo"],
+    images: [
+      { src: "images/the-mars-mission-astronaut-01.jpg", caption: "Visor down" },
+      { src: "images/the-mars-mission-astronaut-02.jpg", caption: "Visor up" },
+    ],
+    acquired: "",
+    notes: "One man, two photos - not two figures. New group, Mars Mission, though only he is in it so far: you said three, so two more to come. Also worth noting the badge on his chest is the old rocket-and-planet mark that Classic Space wear, which would make Mars Mission a later chapter of the same service rather than a separate one - say so and the two connect."
   },
 
 

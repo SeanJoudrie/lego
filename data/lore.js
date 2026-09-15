@@ -297,6 +297,23 @@ window.LORE = [
       "stayed aboard the ship to set the bomb off himself, and the Verdauf " +
       "brothers' father was killed in the line of duty and did not come back. " +
       "If everybody respawned, none of that would have cost anything. It did."
+  },
+
+  {
+    title: "The Rebellion is not visiting",
+    text:
+      "Luke Skywalker and the rebel pilots exist within this world. They are " +
+      "not figures on loan from somebody else's collection, the way the " +
+      "Discarded and the Damaged are.\n\n" +
+      "That is worth stating plainly because the world already had its own " +
+      "answer to all of this. It has Jedi - the Snow Jedi and the line he " +
+      "trained. It has clone troopers. None of those are the films' people; " +
+      "they are this world's own, built out of the same parts. The easy " +
+      "reading would have been that the Rebellion belongs to some other world " +
+      "and came through, which is a thing that happens here constantly.\n\n" +
+      "It is not that. The Snow Jedi's line and Luke's squadron are in the " +
+      "same world at the same time, and neither is a copy or a guest of the " +
+      "other. This world simply has both."
   }
 
 ];

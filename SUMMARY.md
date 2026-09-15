@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-342 characters from a custom LEGO minifigure world, in the order they were
+346 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -182,6 +182,14 @@ In the realm of the medieval, death is not final. You come back.
 What you lose is everything you were carrying. Your knight armor stays where you fell and the enemy can pick it up and keep it. So going to war there is not the appalling thing it is elsewhere - it costs you your gear, not your life - and a sword fight still matters, because nobody wants to be hurt and nobody wants to be stripped.
 
 This rule has to be local to that realm, and the rest of the catalogue is the reason why. The General's son died and stayed dead. The Snow Jedi's second Padawan was killed by the Purple Shadow. The Green Captain stayed aboard the ship to set the bomb off himself, and the Verdauf brothers' father was killed in the line of duty and did not come back. If everybody respawned, none of that would have cost anything. It did.
+
+### The Rebellion is not visiting
+
+Luke Skywalker and the rebel pilots exist within this world. They are not figures on loan from somebody else's collection, the way the Discarded and the Damaged are.
+
+That is worth stating plainly because the world already had its own answer to all of this. It has Jedi - the Snow Jedi and the line he trained. It has clone troopers. None of those are the films' people; they are this world's own, built out of the same parts. The easy reading would have been that the Rebellion belongs to some other world and came through, which is a thing that happens here constantly.
+
+It is not that. The Snow Jedi's line and Luke's squadron are in the same world at the same time, and neither is a copy or a guest of the other. This world simply has both.
 
 ---
 
@@ -3987,6 +3995,46 @@ One of the rebel pilots.
 *How it was got:* Same olive grid helmet with the black spiral. Plain flesh face, two dots and a simple smile, no beard. Wears the plain chest rig.
 
 *Tags:* star-wars, rebel, pilot, x-wing, branded
+
+### 343. The Stern Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+One of the rebel pilots.
+
+*How it was got:* Grey and white striped helmet, heavy dark brows and a hard set to the mouth. Panelled life-support vest with the control box and hose.
+
+*Tags:* star-wars, rebel, pilot, x-wing, branded
+
+### 344. The Pilot in Glasses
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+One of the rebel pilots.
+
+*How it was got:* Blue-rimmed glasses and a headset microphone swung across his cheek, under a helmet marked with tan oval panels. Yellow head, plain chest rig.
+
+*Tags:* star-wars, rebel, pilot, x-wing, glasses, headset, branded
+
+### 345. The Gold-Domed Astronaut
+
+**Alignment:** good · **Role:** Astronaut · **Figure:** custom
+
+An astronaut.
+
+*How it was got:* Solid gold dome over a white pressure suit, with a ribbed breathing collar and hoses running to a chest valve. Black utility belt, white legs printed with vents.
+
+*Tags:* astronaut, space, gold-visor, pressure-suit, life-support
+
+### 346. The Mars Mission Astronaut
+
+**Alignment:** good · **Role:** Astronaut · **Figure:** custom
+
+One of the Mars Mission crew.
+
+*How it was got:* White suit printed with an orange harness and the old rocket-and-planet badge on the chest. The gold visor flips: down it covers the face entirely, up it sits on the brim and shows a yellow face in sunglasses, teeth clenched.
+
+*Tags:* astronaut, mars-mission, space, gold-visor, classic-space-logo
 
 ---
 
