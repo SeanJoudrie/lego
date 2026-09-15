@@ -1348,6 +1348,29 @@ window.LORE = [
       "outranks Cosmic Deity, which would mean this world needs a new top " +
       "step. And whether he is an enemy at all: he arrived in a run of " +
       "villains and nothing said about him is hostile."
+  },
+
+  {
+    title: "The man everybody suspected",
+    text:
+      "The Mad Ticket Man has one of the older cards in this collection and it " +
+      "contains a joke that has been waiting years for a punchline.\n\n" +
+      "He is very grumpy, very grouchy, and widely considered an asshole. He " +
+      "controls security for the Royal Palace and the city, which means he " +
+      "decides not only which people get through the walls but which " +
+      "information and which goods do too. He carries a small pistol and he " +
+      "would be the first person to fight if anything happened. And his card " +
+      "says this: a lot of people assumed he would turn out to be a bad guy " +
+      "when the Great Lego War came. He was devoutly loyal instead, which was " +
+      "very nice.\n\n" +
+      "The man above him is the one who went. The Royal Transport Authority " +
+      "had a director, the director has switched sides, and on his way out he " +
+      "betrayed the gatekeeper everybody had been watching.\n\n" +
+      "Two things come out of it. The Authority itself is new, and it says " +
+      "what the Ticket Man actually is - not a jobsworth on a gate but a " +
+      "security post inside a directorate. And the world has produced the " +
+      "oldest shape in fiction without anybody planning it: the suspicious man " +
+      "who stayed, and the respectable one who did not."
   }
 
 ];

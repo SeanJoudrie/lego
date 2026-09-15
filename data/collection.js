@@ -923,6 +923,7 @@ window.COLLECTION = [
     group: "The Discarded",
     location: "The Royal Palace",
     relations: [
+      { to: "the-transport-director", label: "Betrayed by his own director" },
       { to: "the-discarded", label: "From the same world as" },
     ],
     rating: 0,
@@ -16746,6 +16747,146 @@ window.COLLECTION = [
     images: ["images/the-financier-in-the-green-tie-01.jpg"],
     acquired: "",
     notes: "Seventh financier in the collection and the fourth on the bad side, all four inside six batches. Three of the four are near-identical men in dark suits - the Gangster Financier and the Second Gangster Financier share a torso print outright, the Evil Financier wears the same fedora - and this one is the first without a hat. Named for the tie because there is nothing else to tell him apart by. The money end of the enemy went from nobody to four in a fortnight and not one of them is written as connected to any other, or to Jabba, who is the crime lord they would all plausibly answer to."
+  },
+
+
+
+  {
+    id: "the-financier-in-the-cravat",
+    name: "The Financier in the Cravat",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Financier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Another evil financier.",
+    provenance:
+      "Black hair swept up and back over a pale face with heavy stubble and a " +
+      "small closed mouth. A black formal coat printed over a pale waistcoat " +
+      "and a dark red cravat knotted at the throat, with gold buttons and a " +
+      "gold watch chain looped at the pocket; black arms, white hands, black " +
+      "legs printed with the tails of the coat.",
+    tags: ["villain", "financier", "money", "cravat", "watch-chain", "formal"],
+    images: ["images/the-financier-in-the-cravat-01.jpg"],
+    acquired: "",
+    notes: "Fifth financier on the bad side and the eighth in the collection. Five men handle the enemy's money, which is more than the Iron League or the Propaganda Unit can field and level with the Alien Soldiers and the Goons. Only the League of Shadows, at eight, is bigger than the accounts department. Not one of the five is written as connected to any other, or to Jabba the Hutt, and none of them is said to fund anything in particular. This one is the best dressed of them, which is the only thing that separates him."
+  },
+
+  {
+    id: "the-transport-director",
+    name: "The Transport Director",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Director, Royal Transport Authority",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-mad-ticket-man", label: "Was over him, and betrayed him" },
+    ],
+    rating: 0,
+    background:
+      "He used to run the Royal Transport Authority. He has switched sides.\n\n" +
+      "The Mad Ticket Man was under him, and he betrayed him.",
+    provenance:
+      "A black peaked cap over a yellow face with a flat mouth and a small " +
+      "scar at one cheek. A dark blue conductor's uniform printed with a pale " +
+      "shirt, a red tie, three buttons, a ticket and pen in the breast pocket " +
+      "and a white rail badge at the chest; dark blue arms, yellow hands, dark " +
+      "blue legs.",
+    tags: ["villain", "transport", "director", "railway", "defector", "betrayal", "uniform"],
+    images: ["images/the-transport-director-01.jpg"],
+    acquired: "",
+    notes: "This is the payoff nobody had set up. The Mad Ticket Man's card has said from the day it was written that a lot of people assumed he would turn out to be a bad guy when the Great Lego War came, and that he was devoutly loyal instead, which was very nice. The man everybody suspected stayed. The man above him is the one who went. The Royal Transport Authority is new, and it explains what the Ticket Man actually is: not a jobsworth on a gate but the security of the Royal Palace and the city, under a directorate that has now lost its director."
+  },
+
+  {
+    id: "the-dark-side-enforcer",
+    name: "The Dark Side Enforcer",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Enforcer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The enforcer of the dark side.",
+    provenance:
+      "A black helmet closed over the whole head with a smoked visor and a " +
+      "collar piece beneath it, nothing showing. A black suit printed with a " +
+      "pale shirt, a grey tie, two yellow buttons and a white shield badge " +
+      "carrying a yellow star; black arms, grey hands, black legs printed with " +
+      "belt pouches and pale bands at the knee.",
+    tags: ["villain", "enforcer", "dark-side", "faceless", "visor", "badge", "star"],
+    images: ["images/the-dark-side-enforcer-01.jpg"],
+    acquired: "",
+    notes: "The first enforcer in this collection on the bad side; the Enforcer Squad, their Commander and the Bribed Royal Enforcer are all good. He wears a badge with a star on it, which is what a lawman wears here, over a suit and tie - the enemy has produced its own police. Which dark side he enforces for is not said: Quinn is a Sith Master, the Sith Lord spreads the doctrine as a religion, the shadow people worship occult gods, and the League of Shadows keeps their secrets. Four candidates, no link drawn."
+  },
+
+  {
+    id: "the-robotic-samurai",
+    name: "The Robotic Samurai",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Samurai",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A samurai, and a machine.",
+    provenance:
+      "A black samurai helm with wide neck flanges and a pair of chrome horns " +
+      "curving up off the brow. Under it a dark face with a thin moustache and " +
+      "a wide grin. A black torso printed with a blue and silver circuit plate " +
+      "across the chest - coils either side, a warning triangle at the centre, " +
+      "screws at all four corners - one grey arm and one black, blue hands, a " +
+      "blue belt and grey legs.",
+    tags: ["villain", "samurai", "robot", "machine", "circuitry", "horned-helm"],
+    images: ["images/the-robotic-samurai-01.jpg"],
+    acquired: "",
+    notes: "Seventh machine on the bad side, and the first samurai there. The other two are good and both belong to the ninja story - the Samurai, who is the Shogun of the Ninja Lineage and trained the blue-haired ninja, and Nya. A samurai built rather than trained is a new idea in that corner of the world, and nothing connects him to the Lineage."
+  },
+
+  {
+    id: "the-evil-pilot",
+    name: "The Evil Pilot",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An evil pilot.",
+    provenance:
+      "A plain orange helmet with a silver mirrored visor pulled down, a " +
+      "grimace just visible behind it. An orange racing suit printed with a " +
+      "white and grey panel across the chest and a globe badge reading WR; " +
+      "orange arms, yellow hands, plain orange legs.",
+    tags: ["villain", "pilot", "racing-suit", "mirrored-visor", "orange"],
+    images: ["images/the-evil-pilot-01.jpg"],
+    acquired: "",
+    notes: "Thirty pilots are catalogued here and twenty-eight of them are good - it is the second commonest job in the collection after soldier, and until the Pilot's Apprentice murdered the Famous Pilot for his job, every single one of them was on the right side. This is the second. He is dressed as a racing driver rather than a combat flier, and the three racing drivers here are all good, so which he actually flies is worth saying."
   },
 
 
