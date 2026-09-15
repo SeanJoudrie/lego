@@ -8909,7 +8909,7 @@ window.COLLECTION = [
   {
     id: "luke-skywalker",
     name: "Luke Skywalker",
-    variant: "Two eras",
+    variant: "Three outfits",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -8924,14 +8924,17 @@ window.COLLECTION = [
       "Two figures of the same man. The pilot is in an orange flight suit with " +
       "the grey chest rig and the white X-wing helmet, red rebel crests on both " +
       "sides. The later one is bare-headed and blond, in a grey tunic over black " +
-      "arms and legs, with no kit on him at all.",
+      "arms and legs, with no kit on him at all. A third has him in a yellow " +
+      "ceremonial jacket over brown trousers, a gold medallion printed at the " +
+      "chest and a holster on the thigh.",
     tags: ["star-wars", "pilot", "jedi", "rebel", "x-wing", "branded"],
     images: [
       { src: "images/luke-skywalker-01.jpg", caption: "In his flight kit" },
+      { src: "images/luke-skywalker-03.jpg", caption: "In the ceremonial jacket" },
       { src: "images/luke-skywalker-02.jpg", caption: "Later, in black" },
     ],
     acquired: "",
-    notes: "Opened the Star Wars theme, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both. Second photo added later: the same man out of the cockpit and out of the squadron, which is the only picture of him here where he is nobody's pilot."
+    notes: "Opened the Star Wars theme, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both. Three figures of him now, which makes him the most photographed person in the collection alongside Tony Stark, Bruce Wayne and SpongeBob - and the only one of those four who is not the owner of his own franchise. The jacket is the one picture of him being thanked; the black is the one where he is nobody's pilot."
   },
 
 
@@ -9838,6 +9841,105 @@ window.COLLECTION = [
     images: ["images/iron-fist-01.jpg"],
     acquired: "",
     notes: "Fifth Marvel figure. Marvel is now the largest branded theme here, ahead of Star Wars\' named characters, and every one of them so far is a man."
+  },
+
+
+  {
+    id: "jar-jar-binks",
+    name: "Jar Jar Binks",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Jar Jar Binks.",
+    provenance:
+      "Moulded Gungan head in pale olive, eyes up on stalks, long earflaps " +
+      "hanging past the shoulders. Grey open jerkin over a bare chest, orange " +
+      "arms, grey legs.",
+    tags: ["star-wars", "gungan", "jar-jar", "alien", "branded"],
+    images: ["images/jar-jar-binks-01.jpg"],
+    acquired: "",
+    notes: "Second non-human in the Star Wars corner, after the Kaminoan, and the second figure here whose head is a solid moulded piece rather than a printed stud."
+  },
+
+
+  {
+    id: "mace-windu",
+    name: "Mace Windu",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Jedi",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Mace Windu.",
+    provenance:
+      "Brown head, flat mouth, no hair piece. Grey wrapped tunic with a gold " +
+      "belt, pale legs, and a brown cloth cape. Carries a lightsaber hilt.",
+    tags: ["star-wars", "jedi", "mace-windu", "cape", "branded"],
+    images: ["images/mace-windu-01.jpg"],
+    acquired: "",
+    notes: "Fourth Jedi from the films now, after Obi-Wan, Ahsoka and Anakin, and the collection already has its own order in the Snow Jedi\'s line. That is two Jedi traditions in one world, and no link written between them yet."
+  },
+
+
+  {
+    id: "chewbacca",
+    name: "Chewbacca",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Chewbacca.",
+    provenance:
+      "One moulded brown piece from the head to the hips, fur sculpted all " +
+      "over it, with the ammunition bandolier picked out in silver across the " +
+      "chest. Brown legs and arms under it.",
+    tags: ["star-wars", "wookiee", "chewbacca", "bandolier", "branded"],
+    images: ["images/chewbacca-01.jpg"],
+    acquired: "",
+    notes: "Bare-faced, no cloak, and the bandolier is the only thing he carries."
+  },
+
+
+  {
+    id: "the-wookiee",
+    name: "The Wookiee",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Wookiee.",
+    provenance:
+      "The same sculpted brown build as Chewbacca, but hooded, with a heavy " +
+      "mane pulled over the head, twin bandoliers crossed at the chest, a gold " +
+      "medallion at the breast and a broad worked belt with a gold buckle.",
+    tags: ["star-wars", "wookiee", "hooded", "bandolier", "medallion", "branded"],
+    images: ["images/the-wookiee-01.jpg"],
+    acquired: "",
+    notes: "Not Chewbacca - a second Wookiee, and far better dressed. The hood, the medallion and the worked belt all read as rank rather than kit, so if he is somebody in particular among his own people, say so and he gets the name. Third species represented in the Star Wars corner."
   },
 
 

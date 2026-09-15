@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-373 characters from a custom LEGO minifigure world, in the order they were
+377 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3936,13 +3936,13 @@ One of the fire service.
 
 *Tags:* firefighter, fire-service, breathing-apparatus, rescue, lego-city
 
-### 337. Luke Skywalker — Two eras
+### 337. Luke Skywalker — Three outfits
 
 **Alignment:** good · **Role:** Pilot · **Figure:** branded
 
 Luke Skywalker, in his flight kit and later in black.
 
-*How it was got:* Two figures of the same man. The pilot is in an orange flight suit with the grey chest rig and the white X-wing helmet, red rebel crests on both sides. The later one is bare-headed and blond, in a grey tunic over black arms and legs, with no kit on him at all.
+*How it was got:* Two figures of the same man. The pilot is in an orange flight suit with the grey chest rig and the white X-wing helmet, red rebel crests on both sides. The later one is bare-headed and blond, in a grey tunic over black arms and legs, with no kit on him at all. A third has him in a yellow ceremonial jacket over brown trousers, a gold medallion printed at the chest and a holster on the thigh.
 
 *Tags:* star-wars, pilot, jedi, rebel, x-wing, branded
 
@@ -4313,6 +4313,46 @@ Iron Fist.
 *How it was got:* Green suit with a yellow sash at the waist and the black dragon spread across the chest. Yellow mask over the upper face, mouth and chin bare, yellow hands.
 
 *Tags:* marvel, iron-fist, dragon, martial-arts, branded
+
+### 374. Jar Jar Binks
+
+**Alignment:** good · **Figure:** branded
+
+Jar Jar Binks.
+
+*How it was got:* Moulded Gungan head in pale olive, eyes up on stalks, long earflaps hanging past the shoulders. Grey open jerkin over a bare chest, orange arms, grey legs.
+
+*Tags:* star-wars, gungan, jar-jar, alien, branded
+
+### 375. Mace Windu
+
+**Alignment:** good · **Role:** Jedi · **Figure:** branded
+
+Mace Windu.
+
+*How it was got:* Brown head, flat mouth, no hair piece. Grey wrapped tunic with a gold belt, pale legs, and a brown cloth cape. Carries a lightsaber hilt.
+
+*Tags:* star-wars, jedi, mace-windu, cape, branded
+
+### 376. Chewbacca
+
+**Alignment:** good · **Figure:** branded
+
+Chewbacca.
+
+*How it was got:* One moulded brown piece from the head to the hips, fur sculpted all over it, with the ammunition bandolier picked out in silver across the chest. Brown legs and arms under it.
+
+*Tags:* star-wars, wookiee, chewbacca, bandolier, branded
+
+### 377. The Wookiee
+
+**Alignment:** good · **Figure:** branded
+
+A Wookiee.
+
+*How it was got:* The same sculpted brown build as Chewbacca, but hooded, with a heavy mane pulled over the head, twin bandoliers crossed at the chest, a gold medallion at the breast and a broad worked belt with a gold buckle.
+
+*Tags:* star-wars, wookiee, hooded, bandolier, medallion, branded
 
 ---
 
