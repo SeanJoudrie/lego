@@ -6201,7 +6201,9 @@ window.COLLECTION = [
     role: "Soldier",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-second-winter-trooper", label: "Same winter kit" },
+    ],
     rating: 0,
     background: "A winter trooper.",
     provenance:
@@ -6211,7 +6213,125 @@ window.COLLECTION = [
     tags: ["soldier", "winter", "cold-weather", "trooper", "hoth", "background"],
     images: ["images/the-winter-trooper-01.jpg"],
     acquired: "",
-    notes: "Background figure. No unit recorded - say which army he belongs to and he joins them."
+    notes: "Background figure. No unit recorded - say which army he belongs to and he and the second winter trooper both join it."
+  },
+
+
+
+  {
+    id: "the-second-winter-trooper",
+    name: "The Second Winter Trooper",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-winter-trooper", label: "Same winter kit" },
+    ],
+    rating: 0,
+    background: "Another winter trooper.",
+    provenance:
+      "The same tan cold-weather cap and kit as the first one, but with grey " +
+      "sleeves instead of tan and a different set of pouches printed on.",
+    tags: ["soldier", "winter", "cold-weather", "trooper", "background"],
+    images: ["images/the-second-winter-trooper-01.jpg"],
+    acquired: "",
+    notes: "Named by ordinal, like the Second Padawan. Linked to the first by the kit rather than filed into a unit, because no unit has been named for either of them - say which army and they both join it."
+  },
+
+
+  {
+    id: "the-guy-in-lederhosen",
+    name: "The Guy in Lederhosen",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Just a guy in lederhosen.",
+    provenance: "Green alpine hat, braces, and the full embroidered front.",
+    tags: ["lederhosen", "alpine", "traditional-dress", "background"],
+    images: ["images/the-guy-in-lederhosen-01.jpg"],
+    acquired: "",
+    notes: "Background figure, named the way the Guy in the Pizza Costume is - except this one is not in costume, he is just dressed."
+  },
+
+
+  {
+    id: "the-statue-of-liberty",
+    name: "The Statue of Liberty",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The Statue of Liberty, except she is a walking person. Not a statue - an " +
+      "actual person who looks like that.\n\n" +
+      "She presumably enjoys talking about freedom and philosophy.",
+    provenance: "Green from crown to hem, robe folds printed all the way down.",
+    tags: ["liberty", "statue", "walking", "freedom", "philosophy", "not-a-statue"],
+    images: ["images/the-statue-of-liberty-01.jpg"],
+    acquired: "",
+    notes: "Filed custom rather than branded: Santa is literally Santa, but this is a person of yours who happens to look like a monument, which is a different move. The exact mirror of the Ninja Golem, who is a statue that turned out to be a person - she is a person the world keeps mistaking for a statue. There is also a moustache on her face that the figure would not normally have; tell me whether that was done to her and by whom, the way the Activist's damage was."
+  },
+
+
+  {
+    id: "the-boxer",
+    name: "The Boxer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A boxer.",
+    provenance: "Headguard, gloves and a championship belt printed round his middle.",
+    tags: ["boxer", "boxing", "gloves", "champion", "athlete", "background"],
+    images: ["images/the-boxer-01.jpg"],
+    acquired: "",
+    notes: "Background figure. Ninth athlete, and the third fighter after the Wrestler and the Sumo Wrestler - the sports half of this collection is mostly people hitting each other."
+  },
+
+
+  {
+    id: "the-average-joe",
+    name: "The Average Joe",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An average Joe civilian.",
+    provenance: "",
+    tags: ["civilian", "average", "ordinary", "background"],
+    images: ["images/the-average-joe-01.jpg"],
+    acquired: "",
+    notes: "Background figure, and the ninth civilian. In a world with a creator god, three cosmic deities and four armies, that is a category worth having."
   },
 
 

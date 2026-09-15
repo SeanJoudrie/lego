@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-227 characters from a custom LEGO minifigure world, in the order they were
+232 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2752,7 +2752,61 @@ A winter trooper.
 
 *How it was got:* Hoth rebel kit - the tan cold-weather cap with the ear flaps, ammunition pouches and a satchel on the belt. The same rebel line Armstrong and the Deputy's torsos came out of.
 
+*Connections:* Same winter kit The Second Winter Trooper
+
 *Tags:* soldier, winter, cold-weather, trooper, hoth, background
+
+### 228. The Second Winter Trooper
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+Another winter trooper.
+
+*How it was got:* The same tan cold-weather cap and kit as the first one, but with grey sleeves instead of tan and a different set of pouches printed on.
+
+*Connections:* Same winter kit The Winter Trooper
+
+*Tags:* soldier, winter, cold-weather, trooper, background
+
+### 229. The Guy in Lederhosen
+
+**Alignment:** good · **Figure:** custom
+
+Just a guy in lederhosen.
+
+*How it was got:* Green alpine hat, braces, and the full embroidered front.
+
+*Tags:* lederhosen, alpine, traditional-dress, background
+
+### 230. The Statue of Liberty
+
+**Alignment:** good · **Figure:** custom
+
+The Statue of Liberty, except she is a walking person. Not a statue - an actual person who looks like that.
+
+She presumably enjoys talking about freedom and philosophy.
+
+*How it was got:* Green from crown to hem, robe folds printed all the way down.
+
+*Tags:* liberty, statue, walking, freedom, philosophy, not-a-statue
+
+### 231. The Boxer
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+A boxer.
+
+*How it was got:* Headguard, gloves and a championship belt printed round his middle.
+
+*Tags:* boxer, boxing, gloves, champion, athlete, background
+
+### 232. The Average Joe
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+An average Joe civilian.
+
+*Tags:* civilian, average, ordinary, background
 
 ---
 
