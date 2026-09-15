@@ -1866,6 +1866,7 @@ window.COLLECTION = [
     group: "The Space Militia",
     location: "",
     relations: [
+      { to: "the-disc-throwers-brother", label: "Brother of" },
       { to: "the-space-marshal", label: "Serves under" },
     ],
     rating: 0,
@@ -1880,7 +1881,7 @@ window.COLLECTION = [
     tags: ["space-militia", "discs", "modular-weapons", "jolly", "off-world-trained"],
     images: ["images/the-disc-thrower-01.jpg"],
     acquired: "",
-    notes: "His brother is in the same militia but hasn't been photographed yet - no link drawn, and it isn't clear whether it's Crispus."
+    notes: "His brother has been photographed now, and he is on the other side - he betrayed the whole militia and then came back for this man, who said no. The link is live. It is not Crispus, and it is not the Planner, which this card and the Planner's both used to wonder about."
   },
 
   {
@@ -2030,7 +2031,7 @@ window.COLLECTION = [
     tags: ["space-militia", "tech", "intelligence", "planner", "gadgets", "upgraded"],
     images: ["images/the-planner-01.jpg"],
     acquired: "",
-    notes: "Possibly the Disc Thrower's brother - a brother came up in the description and the Disc Thrower has one in this militia, but it wasn't stated outright, so no link drawn."
+    notes: "This card used to wonder whether he was the Disc Thrower's brother. He is not - that man has turned up, on the other side, catalogued with the villains. Whoever the brother in this description was, it is somebody else."
   },
 
   {
@@ -2887,7 +2888,9 @@ window.COLLECTION = [
     role: "Knight",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "johnny-plasma", label: "Spent his career in his shadow" },
+    ],
     rating: 0,
     background:
       "There is a more famous Nexo Knight than him — one with a spectacular " +
@@ -2901,7 +2904,7 @@ window.COLLECTION = [
     tags: ["knight", "nexo", "jetpack", "modest", "overshadowed"],
     images: ["images/the-nexo-knight-01.jpg"],
     acquired: "",
-    notes: "Placeholder name. The knight he stands behind is a villain and is still to come."
+    notes: "Placeholder name. The knight he stands behind has arrived - Johnny Plasma, the celebrated one, who turned out to be exactly what this card always said he was. The link is live, and it is an inference rather than something stated outright: read Johnny Plasma's note and correct it if the famous knight is somebody else."
   },
 
   {
@@ -12849,6 +12852,8 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "the-fleet-general", label: "Given a fleet by" },
+      { to: "the-infamous-traitor", label: "Followed by" },
       { to: "the-shadow-king", label: "Led the shadow uprising with" },
       { to: "the-prince-pretender", label: "Allied with" },
       { to: "the-purple-shadow", label: "His middleman to the shadow dimension" },
@@ -13721,6 +13726,170 @@ window.COLLECTION = [
     images: ["images/the-guardsmans-partner-01.jpg"],
     acquired: "",
     notes: "Placeholder name, taken from the only fixed thing about him. Written as traits rather than naming the comparison you gave, the way the Outlaw and the Anakin and Avatar cards are done - say the word and it goes in outright. The Guardsman is one of the elite protection forces around the Prince and climbed the whole ladder from soldier to agent to the top of it, and his card has been empty of connections since he was written; this is the first, and it is this. Thirty-one villains and he is the first whose motive is simply money - the rest want a throne, a war, a meal or revenge. He wears the same lime green badge as the Bionics Leader and nobody has said why."
+  },
+
+
+
+  {
+    id: "the-infamous-traitor",
+    name: "The Infamous Traitor",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Technician Sergeant",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Follows" },
+    ],
+    rating: 0,
+    background:
+      "One of the most infamous traitors this world has. He was a technician " +
+      "sergeant in the Prince\'s army, and he went over to Quinn.\n\n" +
+      "He sold state secrets. He got out on a ship carrying stolen technology " +
+      "and weapons and delivered the lot to Quinn. And before he left he got " +
+      "into the mainframe and left every entrance of a string of royal bases " +
+      "unlocked, so that they could be walked into.",
+    provenance:
+      "Grey knitted cap over a pale face, black brows drawn hard down and a " +
+      "flat closed mouth. White clone chest armour printed over the torso with " +
+      "blue sleeves and grey hands, white legs with a grey hip.",
+    tags: ["villain", "traitor", "technician", "sergeant", "quinn", "state-secrets", "sabotage", "hacker"],
+    images: ["images/the-infamous-traitor-01.jpg"],
+    acquired: "",
+    notes: "He is a technician who turned, which is worse in this world than it sounds - the Space Militia\'s perfect safety record is built on one man\'s intelligence work, and the Royal Space Academy runs on its technicians. The damage here is the same job pointed the other way: he did not fight anybody, he unlocked the doors. No group written; the Prince\'s army is not a group in this catalogue, and the Royal Galactic Army has exactly one man in it. Say which force he was in."
+  },
+
+
+  {
+    id: "the-demon-lord",
+    name: "The Demon Lord",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Demon Lord",
+    group: "",
+    location: "The Underworld",
+    relations: [],
+    rating: 0,
+    background:
+      "He comes from the underworld.\n\n" +
+      "What he does is raise the dead around him and fight with them. " +
+      "Skeletons, or people killed recently enough to still have a body - he " +
+      "reanimates the corpses and they go in with him.",
+    provenance:
+      "A dark metallic helm with a hooked face guard and a flared crest, " +
+      "clawed pauldrons standing off both shoulders, and a moulded breastplate " +
+      "over a dark torso. Pale grey legs marked with black. Everything about " +
+      "him is metal or bone-coloured; there is no skin showing anywhere.",
+    tags: ["villain", "demon", "underworld", "necromancy", "undead", "skeletons", "armour"],
+    images: ["images/the-demon-lord-01.jpg"],
+    acquired: "",
+    notes: "He brings a whole place with him. The underworld has never been mentioned anywhere in this collection - there is a shadow dimension, a yellow dimension, the Bin, the space between worlds and the realm where dying costs you your gear, and now there is somewhere the dead are. He is also the first power here whose army is made of people who are already dead, which puts him beside Phalanx, whose army is made of people whose bodies he took while they lived."
+  },
+
+
+  {
+    id: "the-disc-throwers-brother",
+    name: "The Disc Thrower\'s Brother",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Disc Thrower",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-disc-thrower", label: "Brother of" },
+    ],
+    rating: 0,
+    background:
+      "The Disc Thrower\'s brother, and as good with a disc as he is. The two " +
+      "of them were trained together on another planet.\n\n" +
+      "He betrayed the entire Space Militia and went over to the other side. " +
+      "Then he went to his brother and tried to bring him too, and his brother " +
+      "said no.",
+    provenance:
+      "Ginger hair over a yellow face with one brow up and a small crooked " +
+      "mouth. Grey mail torso printed with a broad ringed disc at the chest, " +
+      "dark blue arms and dark blue legs, yellow hands.",
+    tags: ["villain", "traitor", "space-militia", "disc", "brother", "recruiter"],
+    images: ["images/the-disc-throwers-brother-01.jpg"],
+    acquired: "",
+    notes: "The Disc Thrower\'s card has said since it was written that his brother was in the same militia and had not been photographed; his note even wondered whether it was Crispus, and the Planner\'s card carries a maybe about it too. It is neither. It is this man, and he is filed with the villains. The Space Militia is the unit whose entire identity is that they keep everybody alive - a perfect record built out of the General\'s grief for his son - and one of them walked out to the other side and came back for his brother. Kept out of the group: he betrayed it, and he is not in it any more. Say the word if he should sit inside it the way the Traitor Captain sits inside the Verdauf."
+  },
+
+
+  {
+    id: "johnny-plasma",
+    name: "Johnny Plasma",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Knight",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-nexo-knight", label: "The knight who stood in his shadow" },
+    ],
+    rating: 0,
+    background:
+      "The famous one. The spectacular sword, the celebrated name, the figure " +
+      "everybody was told to look up to.\n\n" +
+      "He is a narcissist, and the public face was the whole of it. The heroism " +
+      "was something he wore because it was being applauded; underneath he " +
+      "never liked any of it. When he switched sides it was not a fall, it was " +
+      "him stopping pretending.\n\n" +
+      "Smiling, golden, and entirely hollow.",
+    provenance:
+      "Brown hair swept forward over a yellow face wearing a wide, pleased " +
+      "grin with a dimple at each corner. A gold moulded pauldron piece with " +
+      "wings standing off both shoulders and a horse crest in orange at the " +
+      "sternum, over white and gold armour printed down the torso and both " +
+      "legs. Pale blue arms, gold hands.",
+    tags: ["villain", "knight", "nexo", "famous", "narcissist", "public-face", "turncoat", "gold"],
+    images: ["images/johnny-plasma-01.jpg"],
+    acquired: "",
+    notes: "Read this one and correct it if it is wrong, because it is a real claim. The Nexo Knight\'s card has said from the day it was written that there is a more famous Nexo Knight than him, one with a spectacular sword, who turned out to be a villain - and that the modest one has spent his whole career in that man\'s shadow and never minded. That card\'s note ends: the knight he stands behind is a villain and is still to come. This is a Nexo Knights figure, he is the celebrated one, and he turned. So the link is written. If Johnny Plasma is somebody else and the famous knight is still out there, one word takes it out. Written as traits rather than naming the comparison you gave, the way the Outlaw and the Anakin and Avatar cards are done."
+  },
+
+
+  {
+    id: "the-fleet-general",
+    name: "The Fleet General",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Fleet General",
+    group: "",
+    location: "",
+    relations: [
+      { to: "quinn", label: "Handed him a fleet" },
+    ],
+    rating: 0,
+    background:
+      "Fleet command general of the Prince\'s forces, and he defected.\n\n" +
+      "The way he did it was to send a small fleet out to be surrounded and " +
+      "taken. Its whole crew was imprisoned and killed. The ships were the " +
+      "point: that is how Quinn got a space fleet.",
+    provenance:
+      "White peaked cap over a lined, sour face with a heavy moustache. White " +
+      "dress tunic printed with a pale blue winged crest at the chest and three " +
+      "grey rank bars across the stomach, a black belt, white legs and white " +
+      "hands. A white cloth cape.",
+    tags: ["villain", "general", "fleet", "defector", "traitor", "quinn", "dress-uniform", "cape"],
+    images: ["images/the-fleet-general-01.jpg"],
+    acquired: "",
+    notes: "He is the most expensive traitor in the collection - he did not steal a thing, he spent a crew. Worth putting next to the Fleet Commander, who is filed good and whose card has asked since it was written whose fleet he actually commands; nobody has said, and now there is a fleet that changed hands. Different men on the evidence - that one is in a grey officer\'s tunic with a rank bar, this one is in white dress uniform and a cape - but if they are the same man at two points in his life, say so. Also the second white-and-unprinted-looking figure on the villain side, after the Light King; this one at least has a face."
   },
 
 

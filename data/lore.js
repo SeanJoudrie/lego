@@ -190,7 +190,13 @@ window.LORE = [
       "Their only casualty since is an arm, and a medic saved the man it " +
       "belonged to. The arm he has now is stronger than the one he lost.\n\n" +
       "The perfect record is not luck. It is a father's grief, turned into " +
-      "procurement."
+      "procurement.\n\n" +
+      "They have lost a man since, and not to death. The Disc Thrower's " +
+      "brother - trained on another planet alongside him, as good with a disc " +
+      "as he is - betrayed the whole militia and went over. Then he came back " +
+      "for his brother, and his brother said no. The unit built entirely " +
+      "around keeping everyone alive has never had anybody killed and has now " +
+      "had somebody walk out."
   },
 
   {
@@ -214,9 +220,13 @@ window.LORE = [
       "another person now exists. For most of this collection's life there " +
       "were links written against ids that did not resolve to anybody, sitting " +
       "there waiting. There are none left.\n\n" +
-      "The famous Nexo Knight — the one with the spectacular sword, who turned " +
-      "out to be a villain, and in whose shadow the modest one has spent his " +
-      "whole career.\n\n" +
+      "The famous Nexo Knight came off this list too. The modest one\'s card " +
+      "has said from the day it was written that there is a more celebrated " +
+      "knight than him, with a spectacular sword, who turned out to be a " +
+      "villain - and that this one spent his whole career in that man\'s " +
+      "shadow and never minded. That knight is catalogued now, and his name " +
+      "is Johnny Plasma. It is an inference rather than a thing said outright, " +
+      "and his card says so.\n\n" +
       "Also friendly and still missing: the old man clone, the old man clone's " +
       "robot, and the old man of the former Verdauf guards who built the " +
       "Defense Bot.\n\n" +
@@ -707,6 +717,56 @@ window.LORE = [
       "His reason is the thing worth keeping. Thirty-one villains, and every " +
       "one of the others wants a throne, a war, a meal, a grievance settled or " +
       "the world remade. He wanted to be filthy rich."
+  },
+
+  {
+    title: "The ones who turned",
+    text:
+      "The villains here did not mostly come from outside. They came from " +
+      "inside, and that is the single biggest pattern on that side of the " +
+      "collection.\n\n" +
+      "A captain of the Verdauf, who put half his own men on a ship he had " +
+      "rigged. A general in charge of the Green Rangers, who sent them " +
+      "somewhere they were not meant to walk off. The Guardsman's own partner, " +
+      "who wanted to be rich. A technician sergeant in the Prince's army, who " +
+      "sold the state secrets, ran the stolen weapons out on a ship and left " +
+      "the doors of the royal bases unlocked behind him. The Space Militia's " +
+      "own disc thrower, who went over and then came back to recruit his " +
+      "brother. The most celebrated knight in the world, who was never really " +
+      "on anybody's side. The fleet command general of the Prince's forces, " +
+      "who spent an entire crew - surrounded, taken, imprisoned and killed - " +
+      "so that Quinn would have ships.\n\n" +
+      "And around the edges of that: the Queen's own brother, who allied with " +
+      "Quinn over a throne he says was promised to him.\n\n" +
+      "Set that against how this world talks about itself everywhere else. " +
+      "The Reformed came out of an alien biker gang and turned good. The " +
+      "Outlaw came out of the Great Shadow War loyal to the city and stopped " +
+      "stealing. The Hijacked was driven against his own side and brought " +
+      "back. People crossing the line is the oldest thing in this catalogue.\n\n" +
+      "It just turns out to run both ways, and the traffic going the other " +
+      "direction is heavier than anybody had written down."
+  },
+
+  {
+    title: "The underworld",
+    text:
+      "A new place, and it arrived with one man.\n\n" +
+      "The Demon Lord comes from the underworld, and what he does there and " +
+      "here is raise the dead to fight for him - skeletons, or people killed " +
+      "recently enough to still have a body, reanimated and sent in beside " +
+      "him.\n\n" +
+      "This world already had a lot of elsewhere in it. A shadow dimension " +
+      "with a king. A yellow dimension. The Bin, which was a donation bin at " +
+      "an elementary school and is where the non-Lego pieces come from. The " +
+      "space between worlds, which somebody lives in. Every other person's " +
+      "collection, reachable by a trickster's boat. And a medieval realm where " +
+      "dying costs you your armour and not your life.\n\n" +
+      "Now there is somewhere the dead actually are. Which lands hard against " +
+      "the rule that holds everywhere outside that medieval realm - the " +
+      "General's son died and stayed dead, the Green Captain stayed on the " +
+      "ship, the Second Padawan was killed by the Purple Shadow. Death has " +
+      "always cost something here. The Demon Lord is the first thing in this " +
+      "world that can reach past it, and he does not do it as mercy."
   }
 
 ];
