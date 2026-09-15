@@ -17799,6 +17799,141 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-hooded-skeleton",
+    name: "The Hooded Skeleton",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A hooded man wearing his own bones on the outside.",
+    provenance:
+      "A black cloth hood drawn up over a yellow face - one brow raised, the " +
+      "mouth pulled into a smirk - with a black cape falling behind. A black " +
+      "torso printed with a white ribcage and a purple sash across the " +
+      "stomach, and a small lime-green S at one shoulder. Black arms, yellow " +
+      "hands, black legs.",
+    tags: ["villain", "hooded", "skeleton", "ribcage", "cape", "smirk", "green-s"],
+    images: ["images/the-hooded-skeleton-01.jpg"],
+    acquired: "",
+    notes: "The one in this batch I could not put a name to. He came in a run of branded villains but I cannot place the character, and the parts read as a mixture rather than one figure out of one box - a hood and cape over a skeleton torso with a lime-green S on it. Filed custom and described from the plastic rather than guessed at; tell me who he is and the card takes the name, the theme and the branded tag."
+  },
+
+  {
+    id: "dengar",
+    name: "Dengar",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Bounty Hunter",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Dengar.",
+    provenance:
+      "A moulded off-white head wrap covering everything but a narrow band at " +
+      "the eyes, wound round the jaw and hanging down the neck. A grey torso " +
+      "printed with a brown harness over a dark chest plate with a boxed device " +
+      "at the centre; grey arms, white hands, brown legs.",
+    tags: ["villain", "star-wars", "branded", "bounty-hunter", "bandaged", "head-wrap"],
+    images: ["images/dengar-01.jpg"],
+    acquired: "",
+    notes: "Thirteenth bounty hunter here and the ninth on the bad side, where only Soldier is a commoner job. He is the second of them out of Star Wars after Boba Fett, and the two of them arrived at the same trade from opposite directions - Boba was good in this collection for years before he crossed, and this one started there."
+  },
+
+  {
+    id: "the-death-star-droid",
+    name: "The Death Star Droid",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A black protocol droid, working for the Empire.",
+    provenance:
+      "The protocol droid mould in black - the same head shape as C-3PO, " +
+      "smooth and eyeless except for two lit discs. A black torso printed with " +
+      "white wiring at the collar and chest and a band of colour at the waist, " +
+      "red and blue and yellow against silver; black arms, black hands, black " +
+      "legs printed with white cabling at the thigh.",
+    tags: ["villain", "star-wars", "branded", "droid", "protocol", "black", "empire"],
+    images: ["images/the-death-star-droid-01.jpg"],
+    acquired: "",
+    notes: "The first droid in this collection on the bad side. Eight were catalogued before him - C-3PO, R2-D2 and six astromechs, all in a group called The Droids - and every one is good. He and R-3PO arrive together and break that in the same batch. Not put in The Droids: a group here shows everybody to everybody, and these two work for the people the others were running from."
+  },
+
+  {
+    id: "r-3po",
+    name: "R-3PO",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "R-3PO. A protocol droid in red, and an informer.",
+    provenance:
+      "The same protocol droid mould as C-3PO, moulded in deep red throughout - " +
+      "head, body, arms and legs, with the black wiring lines printed at the " +
+      "collar and a set of concentric rings at the stomach where the gold one " +
+      "has his. Nothing else on him is any other colour.",
+    tags: ["villain", "star-wars", "branded", "droid", "protocol", "red", "informer"],
+    images: ["images/r-3po-01.jpg"],
+    acquired: "",
+    notes: "The same mould as C-3PO in another colour, and on the other deck. That is a neat thing for a catalogue that sorts by side to have in it: two identical castings, one filed good and one filed bad, and the only difference visible on the shelf is red against gold. Second droid on the bad side, arriving with the first."
+  },
+
+  {
+    id: "the-royal-guard",
+    name: "The Royal Guard",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Guard",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An Imperial Royal Guard.",
+    provenance:
+      "A moulded red helmet coming to a point at the crown with a silver stud " +
+      "on top, the whole face closed behind it but for a black slit at the " +
+      "eyes. A red robe over a red torso with no printing anywhere, a long red " +
+      "cloth cape, red arms, black hands, red legs. Red from the stud down " +
+      "apart from the hands.",
+    tags: ["villain", "star-wars", "branded", "imperial", "guard", "red", "cape", "unprinted"],
+    images: ["images/the-royal-guard-01.jpg"],
+    acquired: "",
+    notes: "The first guard in this collection on the bad side. Five were catalogued before him and all five stand in front of somebody good - Heavy and the Prince's Guards and the Guardsman at the Royal Household, the Jedi Palace Guard, and the Ninja Golem who guards the golden sword. This one stands in front of an emperor. He is also almost entirely unprinted, which on that side puts him with the Shadow King, the Purple Shadow and the Shadow Sorcerer - and they are black where he is red."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {

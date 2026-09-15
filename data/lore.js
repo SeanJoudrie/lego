@@ -1017,6 +1017,12 @@ window.LORE = [
       "off demigod DNA, to be an evil demigod of their own - and the niceness " +
       "was already in the code, so he came out good anyway. Not one of them " +
       "turned.\n\n" +
+      "The borrowed droids have since been answered rather than turned. A " +
+      "black protocol droid and a red one, R-3PO, arrived working for the " +
+      "Empire - not defectors from the eight on the good side but a separate " +
+      "pair off the same production line. R-3PO is the same casting as C-3PO " +
+      "in another colour, standing on the other deck, and the only difference " +
+      "you can see on the shelf is red against gold.\n\n" +
       "That held for the entire collection until the Missile: a sentient robot " +
       "whose body cannot be broken, so he launches himself through ships and " +
       "comes out the other side.\n\n" +
