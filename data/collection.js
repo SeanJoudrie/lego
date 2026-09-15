@@ -4612,7 +4612,7 @@ window.COLLECTION = [
   {
     id: "tony-stark",
     name: "Tony Stark",
-    variant: "And Iron Man, in two suits",
+    variant: "And Iron Man, in three suits",
     faction: "good",
     origin: "branded",
     theme: "Marvel",
@@ -4622,16 +4622,17 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Literally Tony Stark. Also, literally Iron Man - in two suits.",
+    background: "Literally Tony Stark. Also, literally Iron Man - in three suits.",
     provenance: "A genuine Marvel minifigure, not a build.",
-    tags: ["marvel", "iron-man", "tony-stark", "branded", "visitor", "three-outfits"],
+    tags: ["marvel", "iron-man", "tony-stark", "branded", "visitor", "four-outfits"],
     images: [
       { src: "images/tony-stark-01.jpg", caption: "Tony Stark" },
       { src: "images/tony-stark-02.jpg", caption: "Iron Man, the earlier suit" },
-      { src: "images/tony-stark-03.jpg", caption: "Iron Man, the later suit" }
+      { src: "images/tony-stark-03.jpg", caption: "Iron Man, the later suit" },
+      { src: "images/tony-stark-04.jpg", caption: "Iron Man, the gold-faced suit" }
     ],
     acquired: "",
-    notes: "First branded figure in the catalog - the origin filter has had nothing but customs in it for 160 figures and now it does something. Three figures, one man, one entry - the same call as Bruce Wayne and Batman, and the suits are outfits. How he stands relative to the worlds cosmology still isn't written down."
+    notes: "First branded figure in the catalog - the origin filter has had nothing but customs in it for 160 figures and now it does something. Four figures now, one man, one entry - the same call as Bruce Wayne and Batman, and the suits are outfits. The fourth is a third Iron Man suit, red and dark red with a gold faceplate and the reactor set in a hexagonal chest plate, and it arrived in the middle of a run of villains; it is filed here on the good side with the rest of him because he is already catalogued as one person, the same ruling Anakin got. Say the word if it was meant otherwise. How he stands relative to the worlds cosmology still isn't written down."
   },
 
 
@@ -15761,7 +15762,7 @@ window.COLLECTION = [
     tags: ["villain", "inventor", "machine", "cybernetic", "tech", "stark", "ultron"],
     images: ["images/the-maker-01.jpg"],
     acquired: "",
-    notes: "Tony Stark is already in this collection, filed good, as three figures in one entry - the man and both Iron Man suits. This one is the same idea gone wrong and is not linked to him, because nothing says they have met; it may be a comparison you were drawing rather than a person he knows. He follows the Missile and the two killer bots onto that side, and unlike any of them he is not only a machine - he is the man who made it as well. Placeholder name."
+    notes: "Tony Stark is already in this collection, filed good, as three figures in one entry - the man and both Iron Man suits. This one is the same idea gone wrong and is not linked to him, because nothing says they have met; it may be a comparison you were drawing rather than a person he knows. He follows the Missile and the two killer bots onto that side, and unlike any of them he is not only a machine - he is the man who made it as well. Ultron has since been catalogued too, two of him, on this same deck. So both halves of the sentence that describes this figure now exist here as people, standing on opposite decks, and he is still linked to neither. Placeholder name."
   },
 
   {
@@ -18219,6 +18220,93 @@ window.COLLECTION = [
     images: ["images/jek-14-01.jpg"],
     acquired: "",
     notes: "Thirty-third branded villain, and the second clone on this side. Twenty figures here have some form of clone as their job and eighteen of them are good; the only exception before him was the Clone Traitor, who turned. This one did not turn, because he was never theirs - the other side made him. Those two are not the same kind of story and the catalogue should not file them as if they were. The pale blue eye slits and the one translucent arm are how you tell him from the ranks he was copied off, and the arm is the part I cannot account for: it may be how he was sold or it may be a piece somebody swapped in years ago. Say which and the card gets fixed."
+  },
+
+  {
+    id: "magneto",
+    name: "Magneto",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Marvel",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Magneto.",
+    provenance:
+      "A red and purple helmet moulded to the skull with a raised fin at the " +
+      "crown and wide flared cheek pieces, leaving a narrow window at the face " +
+      "- grey brows drawn down hard and teeth bared. A red torso printed with " +
+      "muscle lines under a purple yoke with three round studs at the collar. " +
+      "Red arms, purple hands, a purple belt, red legs, and a long dark purple " +
+      "cloth cape. He is red and purple and nothing else.",
+    tags: ["villain", "marvel", "branded", "helmet", "cape", "red", "purple"],
+    images: ["images/magneto-01.jpg"],
+    acquired: "",
+    notes: "Thirty-fourth branded villain and the third out of Marvel. Two batches ago Marvel was the most one-sided licence on this shelf: six figures here, every one of them good, no enemy at all. It now has Loki, the Chitauri, this man and Ultron on the other deck, which is four against six in the space of two batches. The helmet is the whole design. It comes down over the ears and in at the cheeks and leaves a slot for a face, which makes it one of the few helmets here that is clearly built to keep something out rather than to stop a blow."
+  },
+
+  {
+    id: "the-teal-astromech",
+    name: "The Teal Astromech",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An astromech droid, in teal.",
+    provenance:
+      "A dome and body moulded in dark teal, which is not a colour anything " +
+      "else in this collection is. The dome carries three silver-ringed lenses " +
+      "in a row and two pale bands around the crown; the body is printed with a " +
+      "silver panel, vents and two small readouts down the front. Two legs and " +
+      "no arms, like every astromech here.",
+    tags: ["villain", "star-wars", "branded", "droid", "astromech", "teal", "armless"],
+    images: ["images/the-teal-astromech-01.jpg"],
+    acquired: "",
+    notes: "Thirty-fifth branded villain, and the eighth astromech in this collection. The other seven - R2-D2, the Blue, the Cone-Headed, the Brown, the Red-Domed, the Horned and the Junk Astromech - are all on the good side, so this is the first one ever filed as an enemy. Six of those seven carry descriptive names because nothing named them, and this one joins them: I do not know which droid he is. If he has a designation, say it and the card gets his real name. He is here as an enemy because he arrived in a run of villains and nothing said otherwise, which is the only reason - an astromech is a tool and tools do not pick sides on their own."
+  },
+
+  {
+    id: "ultron",
+    name: "Ultron",
+    variant: "Two figures",
+    faction: "bad",
+    origin: "branded",
+    theme: "Marvel",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Ultron. Two of him.",
+    provenance:
+      "A black head moulded with a plated skull, two round blue eyes and a wide " +
+      "blue grille across the jaw that reads as a lit mouth. A silver torso " +
+      "printed in fine white and blue circuitry over black, the same work " +
+      "running down silver legs, with black arms and grey hands. Two of them, " +
+      "and the print is the same on both down to the last line. The only other " +
+      "villain card here that holds two figures is the Chitauri, and those two " +
+      "have different faces.",
+    tags: ["villain", "marvel", "branded", "robot", "machine", "android", "silver", "two-figures"],
+    images: [
+      { src: "images/ultron-01.jpg", caption: "One" },
+      { src: "images/ultron-02.jpg", caption: "The other" }
+    ],
+    acquired: "",
+    notes: "Thirty-sixth branded villain and the fourth out of Marvel. He joins a villain side that has been filling with machines for a long time - the Missile, the White and Armoured Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Robot Builder - and he is the first of them that was bought rather than built here. The card that matters is The Maker. That figure was catalogued as a cross between Tony Stark and Ultron, the man who builds the machines and the machine that came out of it, at a point when neither half of that sentence existed in this collection as a person. Both halves are now here, on opposite decks: Tony Stark filed good, Ultron filed bad, and The Maker in between with nothing written to either of them. Two figures on one card because there are two of him and they are identical, which is the one villain here where duplication is the character rather than an accident of the shelf."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */

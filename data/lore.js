@@ -1469,8 +1469,8 @@ window.LORE = [
     title: "The bought enemy starts talking to itself",
     text:
       "For a long time the bought figures came in as famous people and nothing " +
-      "else. A hundred and fifty-nine of them now, out of Star Wars, Ninjago, " +
-      "Marvel, DC, Chima, Harry Potter and the rest, and thirty-three of those " +
+      "else. A hundred and sixty-two of them now, out of Star Wars, Ninjago, " +
+      "Marvel, DC, Chima, Harry Potter and the rest, and thirty-six of those " +
       "are on the villain side. Until this run not one of them had a line drawn " +
       "to another one of them. They stood in a row, each famous on his own, " +
       "with the entire web of who-knows-whom belonging to the figures that were " +
@@ -1491,9 +1491,11 @@ window.LORE = [
       "sentence that he stands in front of an emperor, at a time when this " +
       "collection did not have one. Four relations. No other bought figure " +
       "here, on either deck, has more than three.\n\n" +
-      "Loki did the same thing to Marvel in the same batch. Six Marvel figures " +
-      "were catalogued here before him and every one of them was good. He " +
-      "arrived with an army behind him.\n\n" +
+      "Marvel went over faster than any of it. Six Marvel figures were " +
+      "catalogued here and every one of them was good - the most one-sided " +
+      "licence on the shelf. Then Loki arrived with an army behind him, and " +
+      "Magneto and two Ultrons came in the batch after. Four against six, in " +
+      "two batches.\n\n" +
       "So the shape has changed. The enemy used to be entirely home-made and " +
       "the famous people were decoration. They are not decoration any more. " +
       "They have a chain of command, and at the top of it is a man with four " +
