@@ -15342,6 +15342,142 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-ninja-assassin-pirate",
+    name: "The Ninja Assassin Pirate",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assassin",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A ninja, an assassin and a pirate. All three at once.",
+    provenance:
+      "Swept black hair over a pale face with a pointed goatee, hard brows and " +
+      "scarring at both cheeks. A black tunic printed with a grey wrapped " +
+      "collar and a deep red sash worn diagonally across the chest; black " +
+      "arms, grey hands, brown legs printed with gold cord and buckles.",
+    tags: ["villain", "ninja", "assassin", "pirate", "goatee", "sash"],
+    images: ["images/the-ninja-assassin-pirate-01.jpg"],
+    acquired: "",
+    notes: "Three trades in one man, which nobody else in this collection has. The role field only takes one, so he is filed under Assassin - fourth here, and all four are on the bad side - with ninja and pirate carried in the tags. He is also the second ninja here on the bad side, after the Crimson Ninja, and the second pirate, after the Infamous Space Pirate."
+  },
+
+  {
+    id: "savage-opress",
+    name: "Savage Opress",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Sith",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Savage Opress.",
+    provenance:
+      "Black head and body worked over in yellow - a pattern of blades and " +
+      "hooks running up the face from the jaw to the brow and spread across " +
+      "the chest, with a grey device at the sternum. A crown of horns, some " +
+      "black and some painted yellow, standing off the top of the head. Black " +
+      "arms, yellow hands, black legs.",
+    tags: ["villain", "sith", "star-wars", "zabrak", "horns", "branded", "first-branded-villain"],
+    images: ["images/savage-opress-01.jpg"],
+    acquired: "",
+    notes: "The first branded villain in this collection. A hundred and twenty-six figures here come out of a box with a name already on them - Star Wars, Ninjago, Marvel, Harry Potter, Chima, the lot - and until this one every single one of them was filed good, including Boba Fett, the stormtroopers, the TIE pilots and the snowtroopers. The enemy was entirely home-made for the first five hundred and ninety figures."
+  },
+
+  {
+    id: "the-master-of-stealing-and-looting",
+    name: "The Master of Stealing and Looting",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Master of Stealing and Looting",
+    group: "The League of Shadows",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Master of stealing and looting for the League of Shadows. Taking things " +
+      "is the discipline, and he is the one who teaches it.",
+    provenance:
+      "A black cloth hood pulled up over a yellow face with a wide dark " +
+      "moustache and a short beard, brows drawn together. A gold-worked shawl " +
+      "across the shoulders with a round clasp at the throat and a gilded strap " +
+      "of pouches slung down one side, over a black torso printed with buckles; " +
+      "black arms, yellow hands, black legs.",
+    tags: ["villain", "league-of-shadows", "cult", "master", "stealing", "looting", "hood", "gilded"],
+    images: ["images/the-master-of-stealing-and-looting-01.jpg"],
+    acquired: "",
+    notes: "There is already a Looter on that side - a soldier who went through what was left after a fight - and nothing is written between them. If the League taught him, say so and they connect."
+  },
+
+  {
+    id: "the-master-of-dark-wisdom",
+    name: "The Master of Dark Wisdom",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Master of Dark Wisdom",
+    group: "The League of Shadows",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Master of dark wisdom. Knowing is his discipline - what the League " +
+      "knows, and what it is better nobody else did.",
+    provenance:
+      "A black hood over a yellow face carrying a monocle on one eye and a " +
+      "round lens on the other, under a full white handlebar moustache. A " +
+      "black torso printed as segmented armour with a panelled belt, a hooded " +
+      "cape collar over the shoulders, black arms, yellow hands, black legs " +
+      "with a grey plate at the hip.",
+    tags: ["villain", "league-of-shadows", "cult", "master", "wisdom", "knowledge", "monocle", "moustache"],
+    images: ["images/the-master-of-dark-wisdom-01.jpg"],
+    acquired: "",
+    notes: "The League's scholar. Learning has existed on that side - Wen mentored Quinn, and the Butcher and the Evil Doctor run experiments together on the dead - but it has always been knowledge put to use. The eight scholars filed good keep it or teach it instead: the Ancient, the Mystery Shaman, the Occultist, two librarians and three professors. The one villain office that comes close is the Shadow Elders, who guard the secrets of the dark side - one more reason to ask whether they and the League are the same body. The monocle is the only one in the collection."
+  },
+
+  {
+    id: "the-master-of-disguise",
+    name: "The Master of Disguise",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Master of Disguise",
+    group: "The League of Shadows",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Master of disguise. Being someone else is the discipline.",
+    provenance:
+      "A black hood over a pale head with two dots for eyes and a simple " +
+      "curved smile, and nothing else on it at all. A black robe printed with pale folds and a wrapped belt, " +
+      "black arms, pale hands, black legs.",
+    tags: ["villain", "league-of-shadows", "cult", "master", "disguise", "blank-face", "hood"],
+    images: ["images/the-master-of-disguise-01.jpg"],
+    acquired: "",
+    notes: "The master of disguise wears the old plain smiley - no eyebrows, no lines, nothing to remember. The only other figure in the catalogue described that way is the Smiling Pilot. Whether it was the joke when he was built or an accident of what was in the box, it is the right head for the job."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {

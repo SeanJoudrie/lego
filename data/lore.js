@@ -1099,12 +1099,19 @@ window.LORE = [
   {
     title: "The League of Shadows",
     text:
-      "A cult, named outright, with four people in it.\n\n" +
-      "It does not run on ranks. It runs on masters of disciplines, and three " +
-      "of them have been photographed: a master of combat in a gilded snarling " +
-      "mask, a master of the dark psyche in a torn cloth poncho, and a master " +
-      "of tradition in a gold-worked robe with an eyepatch. Body, mind, and " +
-      "what the League has always done. The fourth man is its archer.\n\n" +
+      "A cult, named outright, and the largest thing on the bad side.\n\n" +
+      "It does not run on ranks. It runs on masters of disciplines, and there " +
+      "are six of them now: combat, the dark psyche, tradition, stealing and " +
+      "looting, dark wisdom, and disguise. The body, the mind, the past, the " +
+      "taking of things, the knowing of things, and the not being yourself. A " +
+      "seventh man is its archer, and he is the only one in it with an " +
+      "ordinary job.\n\n" +
+      "They dress like one body - hood up, black to the boots, with whatever " +
+      "the discipline needs worked over the top in gold. The master of combat " +
+      "has a gilded snarling mask, the master of stealing a gilded strap of " +
+      "pouches, the master of tradition a gold-scrolled robe. The master of " +
+      "disguise has the old plain smiley for a face, which is the right head " +
+      "for that job and possibly an accident.\n\n" +
       "That makes it the second named League against this world, after the " +
       "Iron League and their four matched chest plates - and the two are " +
       "nothing alike. The Iron League is a unit: a captain, a rifleman, an " +
@@ -1113,12 +1120,35 @@ window.LORE = [
       "And it is the second body on that side to replace names with titles. " +
       "The Shadow Elders did it first - a Lord of Wrath and a Lord of " +
       "Darkness, who keep the secrets of the dark side and guard the room the " +
-      "shadow people worship occult gods in. Two elders holding titles, three " +
+      "shadow people worship occult gods in. Two elders holding titles, six " +
       "masters holding titles, both of them shadow, both of them cults, and " +
-      "not one word anywhere saying whether they are the same organisation.\n\n" +
+      "both of them in the business of keeping what is known. Not one word " +
+      "anywhere says whether they are the same organisation.\n\n" +
       "It is the obvious reading and it is not written down, so the catalogue " +
       "keeps them apart: The Shadow Elders and The League of Shadows are two " +
       "groups. Say they are one and they merge."
+  },
+
+  {
+    title: "The first villain out of a box",
+    text:
+      "A hundred and twenty-six figures in this collection came with a name " +
+      "already on them. Star Wars, Ninjago, Marvel, Harry Potter, Chima, " +
+      "Pirates of the Caribbean, SpongeBob. And every single one of them was " +
+      "filed good.\n\n" +
+      "That includes the ones who are not. Boba Fett is good here. So are the " +
+      "stormtroopers, the snowtroopers, the TIE pilots and the stormtrooper " +
+      "commander. Whatever they were in the film they came out of, in this " +
+      "world they were absorbed onto the side that wins.\n\n" +
+      "Savage Opress breaks it. He is the first branded figure in five hundred " +
+      "and ninety to be filed against this world, and he arrives with no story " +
+      "attached beyond his own name.\n\n" +
+      "It is worth saying what that streak meant. The enemy here was " +
+      "hand-made, every one of them, for the entire life of the collection. " +
+      "Quinn, the shadow king, the Iron League, the Verdauf traitors, the " +
+      "League of Shadows - not one of them came out of a box with a villain " +
+      "already written. A bought figure could be a soldier of yours. It could " +
+      "not be the thing you were fighting."
   }
 
 ];
