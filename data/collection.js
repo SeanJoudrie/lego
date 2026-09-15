@@ -8033,6 +8033,122 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-grinning-ranger",
+    name: "The Grinning Ranger",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Green Rangers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Another of the Green Rangers.",
+    provenance: "Tanned head, bright blue eyes, freckles, and the widest grin in the unit.",
+    tags: ["green-rangers", "soldier", "grin", "freckles"],
+    images: ["images/the-grinning-ranger-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. Fifth Green Ranger, and the third of them with a face doing something odd - for the lowest rung of the military they are by some distance the most expressive unit in the collection."
+  },
+
+
+  {
+    id: "the-dive-captain",
+    name: "The Dive Captain",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain",
+    group: "The Dive Team",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Captain of the dive team.",
+    provenance: "Blue helmet with the visor down, air hose round the collar, yellow high-visibility jacket.",
+    tags: ["dive-team", "captain", "diver", "underwater", "rescue"],
+    images: ["images/the-dive-captain-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, and a new group. Kept separate from Aqua Force, who handle military necessities underwater - this lot are in high-visibility rescue kit rather than wetsuits, and nobody has said the two are connected. Say so and they merge."
+  },
+
+
+  {
+    id: "the-snorkel-diver",
+    name: "The Snorkel Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Dive Team",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the divers.",
+    provenance: "Mask and snorkel over a white cap, life vest on.",
+    tags: ["dive-team", "diver", "snorkel", "life-vest"],
+    images: ["images/the-snorkel-diver-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive."
+  },
+
+
+  {
+    id: "the-goggled-diver",
+    name: "The Goggled Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Dive Team",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the divers.",
+    provenance:
+      "Worth flagging: he is in a white McLaren racing suit with the logo on " +
+      "the chest, not dive kit. Only the blue goggles over the helmet say " +
+      "water at all.",
+    tags: ["dive-team", "diver", "goggles", "racing-suit"],
+    images: ["images/the-goggled-diver-01.jpg"],
+    acquired: "",
+    notes: "Filed as a diver because you said so. The suit disagrees - it is motorsport, the same sort of discrepancy as the Porsche Driver in his Ferrari overalls. Either he came to the water from racing or the kit is just what was to hand; tell me which."
+  },
+
+
+  {
+    id: "the-us-army-soldiers",
+    name: "The US Army Soldiers",
+    variant: "Ten of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "US Army soldiers. There are ten of them.",
+    provenance:
+      "M1 helmets, ammunition bandoliers and a US pouch on the belt - the " +
+      "uniform print is modelled on twentieth-century American infantry kit.",
+    tags: ["us-army", "soldier", "unit", "infantry", "ten"],
+    images: ["images/the-us-army-soldiers-01.jpg"],
+    acquired: "",
+    notes: "One entry for all ten, waiting on the group photo you said you would send - it goes on here as a second image the way the Enemy's does. Filed good by the standing rule, since you have not said otherwise: the only figures marked bad in 308 are the Enemy Soldiers, who are the other twentieth-century unit here. Whether these two fight each other is not written down."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-303 characters from a custom LEGO minifigure world, in the order they were
+308 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3565,6 +3565,56 @@ A Green Ranger. Funny, and goofy with it.
 *How it was got:* An enormous black handlebar moustache running into muttonchops.
 
 *Tags:* green-rangers, soldier, goofy, moustache
+
+### 304. The Grinning Ranger
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+Another of the Green Rangers.
+
+*How it was got:* Tanned head, bright blue eyes, freckles, and the widest grin in the unit.
+
+*Tags:* green-rangers, soldier, grin, freckles
+
+### 305. The Dive Captain
+
+**Alignment:** good · **Role:** Captain · **Figure:** custom
+
+Captain of the dive team.
+
+*How it was got:* Blue helmet with the visor down, air hose round the collar, yellow high-visibility jacket.
+
+*Tags:* dive-team, captain, diver, underwater, rescue
+
+### 306. The Snorkel Diver
+
+**Alignment:** good · **Role:** Diver · **Figure:** custom
+
+One of the divers.
+
+*How it was got:* Mask and snorkel over a white cap, life vest on.
+
+*Tags:* dive-team, diver, snorkel, life-vest
+
+### 307. The Goggled Diver
+
+**Alignment:** good · **Role:** Diver · **Figure:** custom
+
+One of the divers.
+
+*How it was got:* Worth flagging: he is in a white McLaren racing suit with the logo on the chest, not dive kit. Only the blue goggles over the helmet say water at all.
+
+*Tags:* dive-team, diver, goggles, racing-suit
+
+### 308. The US Army Soldiers — Ten of them
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+US Army soldiers. There are ten of them.
+
+*How it was got:* M1 helmets, ammunition bandoliers and a US pouch on the belt - the uniform print is modelled on twentieth-century American infantry kit.
+
+*Tags:* us-army, soldier, unit, infantry, ten
 
 ---
 
