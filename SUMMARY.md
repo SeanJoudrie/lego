@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-466 characters from a custom LEGO minifigure world, in the order they were
+470 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5283,6 +5283,46 @@ Shadow troopers. There are three of them.
 *How it was got:* The stormtrooper helmet and armour, but moulded in black instead of white - the eyes, teeth and vents picked out in pale grey so the face still reads, and the belt blocks drawn in grey across the waist. All three identical.
 
 *Tags:* star-wars, imperial, shadow-trooper, black, unit, three, branded
+
+### 467. The 187th Soldiers — Two of them
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+Soldiers of the 187th. There are two of them.
+
+*How it was got:* Phase 2 helmets with a purple fin down the crown, grey combs at the brow and a purple muzzle plate. Purple shoulder panels, a purple ammunition belt and a sling drawn diagonally across the chest. One has gold thigh plates the other does not.
+
+*Tags:* star-wars, clone, trooper, 187th, purple, unit, two, branded
+
+### 468. The Bomb Squad — Two of them
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+Clone bomb squad. There are two of them.
+
+*How it was got:* Phase 1 helmets moulded in solid orange with a white wedge across the brow and the black visor over it - the only clones here whose helmet is orange rather than white with orange on it. Orange arms, white chest plates worked over in orange, and orange legs with white knees. The two are identical.
+
+*Tags:* star-wars, clone, trooper, bomb-squad, orange, unit, two, branded
+
+### 469. The Discarded Commander
+
+**Alignment:** good · **Role:** Commander · **Figure:** custom
+
+A commander in the clone army who came out of the Discarded world, like the Clone Captain before him.
+
+*How it was got:* Phase 1 armour coloured over by hand in orange - blocks laid across the chest plates, bands round both thighs, streaks down one arm and stripes on the boots. The strokes go over the moulded edges rather than following them, and the white underneath shows through in patches.
+
+*Tags:* star-wars, clone, commander, discarded, hand-coloured, orange, custom
+
+### 470. The Old Republic Trooper
+
+**Alignment:** good · **Role:** Soldier · **Figure:** branded
+
+A trooper of the Old Republic.
+
+*How it was got:* A helmet shaped unlike any other here - smooth and rounded with a flat brow, a black T across the face and a grey grille at the mouth, orange bars over the crown and orange flashes at the cheeks. White armour with orange down the sternum, a black belt and orange panels at both thighs. Scuffed and grubby throughout.
+
+*Tags:* star-wars, old-republic, soldier, orange, worn, branded
 
 ---
 

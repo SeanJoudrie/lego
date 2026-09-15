@@ -11834,7 +11834,7 @@ window.COLLECTION = [
     theme: "Star Wars",
     rank: "",
     role: "Commander",
-    group: "The Clone Army",
+    group: "The 187th Legion",
     location: "",
     relations: [],
     rating: 0,
@@ -11847,7 +11847,7 @@ window.COLLECTION = [
     tags: ["star-wars", "clone", "commander", "187th", "purple", "pauldron", "branded"],
     images: ["images/the-187th-commander-01.jpg"],
     acquired: "",
-    notes: "Purple is a colour no other unit here wears, and he is the only clone in the collection with a pauldron on both shoulders instead of one. Alone so far, so he stays in the Clone Army until the 187th has more than a commander."
+    notes: "Purple is a colour no other unit here wears, and he is the only clone in the collection with a pauldron on both shoulders instead of one. He was alone in the Clone Army until the 187th had more than a commander, and now it does - two soldiers in his purple arrived and the legion is a group of its own."
   },
 
 
@@ -12401,6 +12401,118 @@ window.COLLECTION = [
     ],
     acquired: "",
     notes: "One entry for all three, solo shot first and the group behind it, the way the Rebel Troopers are done. They are the exact photographic negative of a stormtrooper - same mould, same printing, inverted - which makes them and the TIE Pilots the only figures here whose whole idea is being hard to see."
+  },
+
+
+  {
+    id: "the-187th-soldiers",
+    name: "The 187th Soldiers",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The 187th Legion",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Soldiers of the 187th. There are two of them.",
+    provenance:
+      "Phase 2 helmets with a purple fin down the crown, grey combs at the " +
+      "brow and a purple muzzle plate. Purple shoulder panels, a purple " +
+      "ammunition belt and a sling drawn diagonally across the chest. One has " +
+      "gold thigh plates the other does not.",
+    tags: ["star-wars", "clone", "trooper", "187th", "purple", "unit", "two", "branded"],
+    images: [
+      { src: "images/the-187th-soldiers-01.jpg", caption: "The one with gold thigh plates" },
+      { src: "images/the-187th-soldiers-02.jpg", caption: "The other" },
+    ],
+    acquired: "",
+    notes: "New group, The 187th Legion, holding these two and the Commander - who has been sitting in the Clone Army since he arrived, waiting for exactly this. Their purple matches his, which is the only colour in the whole clone army that no other unit touches."
+  },
+
+
+  {
+    id: "the-bomb-squad",
+    name: "The Bomb Squad",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Clone bomb squad. There are two of them.",
+    provenance:
+      "Phase 1 helmets moulded in solid orange with a white wedge across the " +
+      "brow and the black visor over it - the only clones here whose helmet is " +
+      "orange rather than white with orange on it. Orange arms, white chest " +
+      "plates worked over in orange, and orange legs with white knees. The two " +
+      "are identical.",
+    tags: ["star-wars", "clone", "trooper", "bomb-squad", "orange", "unit", "two", "branded"],
+    images: [{ src: "images/the-bomb-squad-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "One entry for the pair. Every other clone in the collection is a white man with a colour added; these two are the other way round, orange with white added. Bomb disposal is the one job where being seen is the point."
+  },
+
+
+  {
+    id: "the-discarded-commander",
+    name: "The Discarded Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Star Wars",
+    rank: "",
+    role: "Commander",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A commander in the clone army who came out of the Discarded world, " +
+      "like the Clone Captain before him.",
+    provenance:
+      "Phase 1 armour coloured over by hand in orange - blocks laid across " +
+      "the chest plates, bands round both thighs, streaks down one arm and " +
+      "stripes on the boots. The strokes go over the moulded edges rather " +
+      "than following them, and the white underneath shows through in " +
+      "patches.",
+    tags: ["star-wars", "clone", "commander", "discarded", "hand-coloured", "orange", "custom"],
+    images: ["images/the-discarded-commander-01.jpg"],
+    acquired: "",
+    notes: "Second figure here who came out of the Discarded and serves the clone army, after the Clone Captain - so that crossing is not a one-off, it is a route. Third clone whose markings were put on by hand: marker on the Captain, paint on the Painted Commander, and this one coloured in."
+  },
+
+
+  {
+    id: "the-old-republic-trooper",
+    name: "The Old Republic Trooper",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A trooper of the Old Republic.",
+    provenance:
+      "A helmet shaped unlike any other here - smooth and rounded with a " +
+      "flat brow, a black T across the face and a grey grille at the mouth, " +
+      "orange bars over the crown and orange flashes at the cheeks. White " +
+      "armour with orange down the sternum, a black belt and orange panels " +
+      "at both thighs. Scuffed and grubby throughout.",
+    tags: ["star-wars", "old-republic", "soldier", "orange", "worn", "branded"],
+    images: ["images/the-old-republic-trooper-01.jpg"],
+    acquired: "",
+    notes: "He is from a different age of this world entirely - the Old Republic is thousands of years before the clones, so he is the earliest Star Wars figure here by in-world time while the clones and Imperials are all one lifetime apart. Ungrouped: he has nobody to stand with."
   },
 
 
