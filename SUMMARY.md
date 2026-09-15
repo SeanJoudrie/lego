@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-402 characters from a custom LEGO minifigure world, in the order they were
+406 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4566,13 +4566,13 @@ A dwarf archer.
 
 *Tags:* dwarf, archer, hunter, antlers, small-folk
 
-### 399. R2-D2
+### 399. R2-D2 — Two figures
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
 R2-D2.
 
-*How it was got:* Domed astromech body, no minifigure parts in him at all. The white has yellowed right through with age - more than any other figure in the collection - and the blue dome markings have gone chalky.
+*How it was got:* Two figures of him, and the pair together are a lesson in how plastic ages. One has yellowed right through - more than anything else in the collection - with the blue gone chalky on the dome. The other is the same droid still clean and white, blue still blue.
 
 *Tags:* star-wars, droid, astromech, r2-d2, aged, branded
 
@@ -4586,7 +4586,7 @@ An astromech droid.
 
 *Tags:* star-wars, droid, astromech, blue, branded
 
-### 401. The Red Astromech
+### 401. The Cone-Headed Astromech
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
@@ -4605,6 +4605,46 @@ An astromech droid.
 *How it was got:* Brown body with white panelling, and a dome split brown and white with a red lens. The printing is scuffed away in patches across the chest and the dome.
 
 *Tags:* star-wars, droid, astromech, brown, worn, branded
+
+### 403. The Red-Domed Astromech
+
+**Alignment:** good · **Role:** Droid · **Figure:** branded
+
+An astromech droid.
+
+*How it was got:* The standard dome and body, but banded in orange-red where R2 is blue - red rungs round the crown of the dome and two red arrow stripes across the chest.
+
+*Tags:* star-wars, droid, astromech, red, branded
+
+### 404. The Horned Astromech
+
+**Alignment:** good · **Role:** Droid · **Figure:** branded
+
+An astromech droid.
+
+*How it was got:* Blue and grey dome over a white body, same as R2, except a long grey spike rises straight out of the top of his head. The chest printing has rubbed thin in places.
+
+*Tags:* star-wars, droid, astromech, horn, antenna, branded
+
+### 405. The Junk Astromech
+
+**Alignment:** good · **Role:** Droid · **Figure:** custom
+
+A droid built out of whatever was to hand.
+
+*How it was got:* Nothing moulded about him - he is assembled. A blue dish on one side of the head and a ribbed barrel on the other, a black rod through an open frame above, a panelled grey body with yellow markings, and two legs under it. A gold cylinder shows through the middle.
+
+*Tags:* droid, astromech, scrap-built, custom, dish, improvised
+
+### 406. Lloyd
+
+**Alignment:** good · **Role:** Ninja · **Figure:** branded
+
+Lloyd, the green ninja.
+
+*How it was got:* Two-tone green hood, lime over dark, with a yellow band across the eyes and brows drawn hard down. Green gi scaled in lime across one shoulder, a white wrapped sash, olive legs, and mismatched arms - one dark green, one lime.
+
+*Tags:* ninjago, ninja, green, hood, branded
 
 ---
 

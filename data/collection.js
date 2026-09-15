@@ -10519,7 +10519,7 @@ window.COLLECTION = [
   {
     id: "r2-d2",
     name: "R2-D2",
-    variant: "",
+    variant: "Two figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -10531,13 +10531,17 @@ window.COLLECTION = [
     rating: 0,
     background: "R2-D2.",
     provenance:
-      "Domed astromech body, no minifigure parts in him at all. The white has " +
-      "yellowed right through with age - more than any other figure in the " +
-      "collection - and the blue dome markings have gone chalky.",
+      "Two figures of him, and the pair together are a lesson in how plastic " +
+      "ages. One has yellowed right through - more than anything else in the " +
+      "collection - with the blue gone chalky on the dome. The other is the " +
+      "same droid still clean and white, blue still blue.",
     tags: ["star-wars", "droid", "astromech", "r2-d2", "aged", "branded"],
-    images: ["images/r2-d2-01.jpg"],
+    images: [
+      { src: "images/r2-d2-01.jpg", caption: "The yellowed one" },
+      { src: "images/r2-d2-02.jpg", caption: "The clean one" },
+    ],
     acquired: "",
-    notes: "The most visibly aged piece in the whole collection. Worth saying: he is the only named astromech here, and the other three are unnamed units - the same shape as Jar Jar standing over the Gungan soldiers."
+    notes: "Two figures on one card. The yellowed one is the most visibly aged piece in the whole collection, and standing the clean one beside it is the clearest before-and-after here of what thirty years does to white plastic. He is still the only named astromech - the other six are unnamed units."
   },
 
 
@@ -10568,7 +10572,7 @@ window.COLLECTION = [
 
   {
     id: "the-red-astromech",
-    name: "The Red Astromech",
+    name: "The Cone-Headed Astromech",
     variant: "",
     faction: "good",
     origin: "branded",
@@ -10586,7 +10590,7 @@ window.COLLECTION = [
     tags: ["star-wars", "droid", "astromech", "red", "cone-head", "branded"],
     images: ["images/the-red-astromech-01.jpg"],
     acquired: "",
-    notes: "The odd one of the four - a different head entirely, cone rather than dome, which is a whole different series of droid rather than a repaint."
+    notes: "Renamed from The Red Astromech once a red-domed one arrived, since the cone is the thing that actually sets him apart - a whole different series of droid rather than a repaint. He is still the only one here without a dome."
   },
 
 
@@ -10612,6 +10616,108 @@ window.COLLECTION = [
     images: ["images/the-brown-astromech-01.jpg"],
     acquired: "",
     notes: "New group, The Droids, holding these four and C-3PO - my call rather than yours, made because five droids with no connections between them was worse than one grouping you can rename. This world has thinking machines of its own besides: the radar robot who was hacked, the Dock Robot, the Defense Bot, the Tin Robot and three more."
+  },
+
+
+  {
+    id: "the-red-dome-astromech",
+    name: "The Red-Domed Astromech",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droids",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An astromech droid.",
+    provenance:
+      "The standard dome and body, but banded in orange-red where R2 is blue " +
+      "- red rungs round the crown of the dome and two red arrow stripes " +
+      "across the chest.",
+    tags: ["star-wars", "droid", "astromech", "red", "branded"],
+    images: ["images/the-red-dome-astromech-01.jpg"],
+    acquired: "",
+    notes: "His arrival is why the Cone-Headed Astromech got renamed - that one was The Red Astromech until this one turned up wearing the colour on a normal dome."
+  },
+
+
+  {
+    id: "the-horned-astromech",
+    name: "The Horned Astromech",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droids",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An astromech droid.",
+    provenance:
+      "Blue and grey dome over a white body, same as R2, except a long grey " +
+      "spike rises straight out of the top of his head. The chest printing " +
+      "has rubbed thin in places.",
+    tags: ["star-wars", "droid", "astromech", "horn", "antenna", "branded"],
+    images: ["images/the-horned-astromech-01.jpg"],
+    acquired: "",
+    notes: "The horn is the only thing separating him from R2 at a glance - whether it is an antenna, a tool or damage is not something the figure says."
+  },
+
+
+  {
+    id: "the-junk-astromech",
+    name: "The Junk Astromech",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Droid",
+    group: "The Droids",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A droid built out of whatever was to hand.",
+    provenance:
+      "Nothing moulded about him - he is assembled. A blue dish on one side " +
+      "of the head and a ribbed barrel on the other, a black rod through an " +
+      "open frame above, a panelled grey body with yellow markings, and two " +
+      "legs under it. A gold cylinder shows through the middle.",
+    tags: ["droid", "astromech", "scrap-built", "custom", "dish", "improvised"],
+    images: ["images/the-junk-astromech-01.jpg"],
+    acquired: "",
+    notes: "Filed custom rather than branded, because he is a build and not a figure - the only droid in the group who came out of a parts box instead of a set. That puts him beside the scrap-built Dock Robot rather than beside R2, and this world has form for machines made of what was lying around."
+  },
+
+
+  {
+    id: "lloyd",
+    name: "Lloyd",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "Ninja",
+    group: "The Ninja",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Lloyd, the green ninja.",
+    provenance:
+      "Two-tone green hood, lime over dark, with a yellow band across the " +
+      "eyes and brows drawn hard down. Green gi scaled in lime across one " +
+      "shoulder, a white wrapped sash, olive legs, and mismatched arms - one " +
+      "dark green, one lime.",
+    tags: ["ninjago", "ninja", "green", "hood", "branded"],
+    images: ["images/lloyd-01.jpg"],
+    acquired: "",
+    notes: "Sixth of the Ninjago group. His green is the one colour the other five do not wear - red, blue, white, black and Nya in red plate - so the set reads complete with him in it."
   },
 
 
