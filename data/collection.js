@@ -9722,7 +9722,7 @@ window.COLLECTION = [
   {
     id: "ahsoka-tano",
     name: "Ahsoka Tano",
-    variant: "",
+    variant: "Two eras",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9734,13 +9734,18 @@ window.COLLECTION = [
     rating: 0,
     background: "Ahsoka Tano.",
     provenance:
-      "Orange face with white markings, white and blue montrals falling past " +
-      "the shoulders, grey chest armour over a blue and yellow tabard, and " +
-      "greaved legs. Carries two lightsabers, one in each hand.",
+      "Two figures of the same woman. The older has grey chest armour over a " +
+      "blue and yellow tabard, greaved legs, long white and blue montrals, and " +
+      "carries two lightsabers at once. The younger has short montrals, a bare " +
+      "midriff under an orange top, a plain brown belt and white legs - and " +
+      "nothing in her hands.",
     tags: ["star-wars", "jedi", "ahsoka", "togruta", "twin-sabers", "branded"],
-    images: ["images/ahsoka-tano-01.jpg"],
+    images: [
+      { src: "images/ahsoka-tano-01.jpg", caption: "Older, in armour" },
+      { src: "images/ahsoka-tano-02.jpg", caption: "Younger, in orange" },
+    ],
     acquired: "",
-    notes: "First woman in the Star Wars corner of the collection - the rebel squadron, the Jedi and the bounty hunter are all men. Also the only figure here holding two weapons at once."
+    notes: "First woman in the Star Wars corner, and still the only one. Two figures of her now, one entry: the young one is unarmed and the older one carries two sabers, which is the whole of what changed between them."
   },
 
 
@@ -9940,6 +9945,107 @@ window.COLLECTION = [
     images: ["images/the-wookiee-01.jpg"],
     acquired: "",
     notes: "Not Chewbacca - a second Wookiee, and far better dressed. The hood, the medallion and the worked belt all read as rank rather than kit, so if he is somebody in particular among his own people, say so and he gets the name. Third species represented in the Star Wars corner."
+  },
+
+
+  {
+    id: "kit-fisto",
+    name: "Kit Fisto",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Jedi",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Kit Fisto.",
+    provenance:
+      "Moulded green Nautolan head, black eyes with no whites, and fourteen " +
+      "tentacles falling from the skull down past the chest. Brown Jedi robes " +
+      "with a grey wrap and a white clasp at the belt, green hands.",
+    tags: ["star-wars", "jedi", "kit-fisto", "nautolan", "alien", "branded"],
+    images: ["images/kit-fisto-01.jpg"],
+    acquired: "",
+    notes: "Fifth Jedi from the films. Third moulded-head alien in the collection, after the Kaminoan and Jar Jar, and the first of them who is also a Jedi."
+  },
+
+
+  {
+    id: "the-gungan-soldiers",
+    name: "The Gungan Soldiers",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Gungan soldiers. There are two of them.",
+    provenance:
+      "Moulded Gungan heads in pale olive with a dark brown cap over the " +
+      "brow, eyes up on stalks, long earflaps down the back. Brown leather " +
+      "jerkins with gold trim at the waist, orange arms, tan legs. Identical " +
+      "to each other.",
+    tags: ["star-wars", "gungan", "soldier", "unit", "alien", "two", "branded"],
+    images: [{ src: "images/the-gungan-soldiers-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "One entry for the pair, the way the Enforcer Squad and the US Army Soldiers are done. They are Jar Jar\'s own people in armour - he is in an open jerkin with a bare chest and they are kitted out, which is the first time this collection has a named alien and the rank and file of his species both catalogued."
+  },
+
+
+  {
+    id: "plo-koon",
+    name: "Plo Koon",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Jedi",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Plo Koon.",
+    provenance:
+      "Moulded orange Kel Dor head behind a grey breathing mask and goggles - " +
+      "nothing of the face is visible at all. Tan Jedi robes with a brown " +
+      "belt, tan legs, brown hands.",
+    tags: ["star-wars", "jedi", "plo-koon", "kel-dor", "mask", "alien", "branded"],
+    images: ["images/plo-koon-01.jpg"],
+    acquired: "",
+    notes: "Sixth Jedi from the films, and the fourth moulded-head alien. He cannot breathe what everybody else breathes, which makes him the first figure in the collection kept alive by his own equipment rather than wearing it for work."
+  },
+
+
+  {
+    id: "jack-sparrow",
+    name: "Jack Sparrow",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Pirates of the Caribbean",
+    rank: "",
+    role: "Pirate",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Jack Sparrow.",
+    provenance:
+      "Dark red bandana under long black dreadlocks strung with silver beads, " +
+      "a braided moustache and beard, a blue waistcoat over a loose shirt with " +
+      "a wide buckled belt and a red sash, and tan breeches.",
+    tags: ["pirates-of-the-caribbean", "pirate", "jack-sparrow", "branded"],
+    images: ["images/jack-sparrow-01.jpg"],
+    acquired: "",
+    notes: "Opens a tenth theme. This collection already has a whole pirate crew of its own - the Pirate Captain, her first mate in green, the hobo, the sleepy one - so he lands in a world that has pirates already and is not one of them. Whether he ever crossed her deck is yours to say."
   },
 
 

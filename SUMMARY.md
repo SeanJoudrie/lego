@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-377 characters from a custom LEGO minifigure world, in the order they were
+381 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4264,13 +4264,13 @@ Obi-Wan Kenobi.
 
 *Tags:* star-wars, jedi, obi-wan, beard, robes, branded
 
-### 369. Ahsoka Tano
+### 369. Ahsoka Tano — Two eras
 
 **Alignment:** good · **Role:** Jedi · **Figure:** branded
 
 Ahsoka Tano.
 
-*How it was got:* Orange face with white markings, white and blue montrals falling past the shoulders, grey chest armour over a blue and yellow tabard, and greaved legs. Carries two lightsabers, one in each hand.
+*How it was got:* Two figures of the same woman. The older has grey chest armour over a blue and yellow tabard, greaved legs, long white and blue montrals, and carries two lightsabers at once. The younger has short montrals, a bare midriff under an orange top, a plain brown belt and white legs - and nothing in her hands.
 
 *Tags:* star-wars, jedi, ahsoka, togruta, twin-sabers, branded
 
@@ -4353,6 +4353,46 @@ A Wookiee.
 *How it was got:* The same sculpted brown build as Chewbacca, but hooded, with a heavy mane pulled over the head, twin bandoliers crossed at the chest, a gold medallion at the breast and a broad worked belt with a gold buckle.
 
 *Tags:* star-wars, wookiee, hooded, bandolier, medallion, branded
+
+### 378. Kit Fisto
+
+**Alignment:** good · **Role:** Jedi · **Figure:** branded
+
+Kit Fisto.
+
+*How it was got:* Moulded green Nautolan head, black eyes with no whites, and fourteen tentacles falling from the skull down past the chest. Brown Jedi robes with a grey wrap and a white clasp at the belt, green hands.
+
+*Tags:* star-wars, jedi, kit-fisto, nautolan, alien, branded
+
+### 379. The Gungan Soldiers — Two of them
+
+**Alignment:** good · **Role:** Soldier · **Figure:** branded
+
+Gungan soldiers. There are two of them.
+
+*How it was got:* Moulded Gungan heads in pale olive with a dark brown cap over the brow, eyes up on stalks, long earflaps down the back. Brown leather jerkins with gold trim at the waist, orange arms, tan legs. Identical to each other.
+
+*Tags:* star-wars, gungan, soldier, unit, alien, two, branded
+
+### 380. Plo Koon
+
+**Alignment:** good · **Role:** Jedi · **Figure:** branded
+
+Plo Koon.
+
+*How it was got:* Moulded orange Kel Dor head behind a grey breathing mask and goggles - nothing of the face is visible at all. Tan Jedi robes with a brown belt, tan legs, brown hands.
+
+*Tags:* star-wars, jedi, plo-koon, kel-dor, mask, alien, branded
+
+### 381. Jack Sparrow
+
+**Alignment:** good · **Role:** Pirate · **Figure:** branded
+
+Jack Sparrow.
+
+*How it was got:* Dark red bandana under long black dreadlocks strung with silver beads, a braided moustache and beard, a blue waistcoat over a loose shirt with a wide buckled belt and a red sash, and tan breeches.
+
+*Tags:* pirates-of-the-caribbean, pirate, jack-sparrow, branded
 
 ---
 
