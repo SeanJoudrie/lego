@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-490 characters from a custom LEGO minifigure world, in the order they were
+495 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5569,6 +5569,58 @@ There is no such thing in the films - the Gungans in this collection are Jar Jar
 The robe is not a piece I could place. Photographed off an old video rather than in hand.
 
 *Tags:* star-wars, gungan, jedi, alien, cape, lost, deceased
+
+### 491. The Alien Professor
+
+**Alignment:** good · **Role:** Professor · **Figure:** custom
+
+An alien, and a professor. Lost, and dead.
+
+*How it was got:* A pale moulded head - not a minifigure face but a sculpted one, flat and broad with dark sunken eyes. Long tan robes with a brown strap or sash running straight down the front, white hands.
+
+The frame is too soft to make out the piece. This is as much as the video gives.
+
+*Tags:* alien, professor, academic, moulded-head, robes, lost, deceased
+
+### 492. The Lost Soccer Player
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+A soccer player. Lost, and dead.
+
+*How it was got:* Black hair, a plain yellow face. A strip shirt in red with a white panel down the front and blue trim at the shoulders, over blue shorts or legs.
+
+*Tags:* soccer, football, athlete, sport, kit, lost, deceased
+
+### 493. The Astronaut Soldier
+
+**Alignment:** good · **Role:** Astronaut Soldier · **Figure:** custom
+
+An astronaut, and a soldier. Lost, and dead.
+
+*How it was got:* Blue helmet. Black torso carrying a dense printed panel in blue and white across the chest - instruments or webbing, the frame will not say which - over a red hip piece and dark legs. Blue arms, yellow hands.
+
+*Tags:* astronaut, soldier, space, helmet, lost, deceased
+
+### 494. The Airline Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** custom
+
+An airline pilot. Lost, and dead.
+
+*How it was got:* White uniform shirt with a dark tie down the front and a white peaked cap, one black arm. Photographed lying on a grey baseplate with a second pale figure just behind him, too soft to identify.
+
+*Tags:* pilot, airline, civilian, uniform, cap, lost, deceased
+
+### 495. The Hooded Ranger
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A Green Ranger. Lost, and dead.
+
+*How it was got:* A black hood pulled right over the head with only a band of yellow face showing through at the eyes, over a green uniform and dark legs.
+
+*Tags:* green-rangers, soldier, hood, balaclava, lost, deceased
 
 ---
 

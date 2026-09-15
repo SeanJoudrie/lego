@@ -12914,7 +12914,7 @@ window.COLLECTION = [
     tags: ["space-militia", "lost", "deceased", "civilian-dress", "headset"],
     images: [{ src: "images/the-militiamen-out-of-armour-01.jpg", caption: "Both of them" }],
     acquired: "",
-    notes: "Four of the fourteen lost figures are Space Militia, across three cards, which is a hard thing to notice - of every unit in this collection, the militia is the one that actually lost people. The General lost his adopted son too, and that death is why the whole outfit has the safety culture it has."
+    notes: "More of the lost are Space Militia than any other unit - four of them, across three cards - which is a hard thing to notice - of every unit in this collection, the militia is the one that actually lost people. The General lost his adopted son too, and that death is why the whole outfit has the safety culture it has."
   },
 
 
@@ -13124,6 +13124,133 @@ window.COLLECTION = [
     images: ["images/the-gungan-jedi-01.jpg"],
     acquired: "",
     notes: "Named the way you named him. The Gungans are four figures on three cards now, and this is the only one of them who is not out of a film. No group written: this world has its own Jedi - the Jedi, and the Snow Jedi's Line - and nobody has said whether he trained with any of them or stood alone. Say so and he joins them."
+  },
+
+
+
+  {
+    id: "the-alien-professor",
+    name: "The Alien Professor",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Professor",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An alien, and a professor. Lost, and dead.",
+    provenance:
+      "A pale moulded head - not a minifigure face but a sculpted one, flat " +
+      "and broad with dark sunken eyes. Long tan robes with a brown strap or " +
+      "sash running straight down the front, white hands.\n\n" +
+      "The frame is too soft to make out the piece. This is as much as the " +
+      "video gives.",
+    tags: ["alien", "professor", "academic", "moulded-head", "robes", "lost", "deceased"],
+    images: ["images/the-alien-professor-01.jpg"],
+    acquired: "",
+    notes: "The only professor in this world who is not out of Hogwarts - the Hogwarts Professor and Professor Sprout are both branded, so he is the collection's own academic, and he is dead. Also the only moulded-head alien here who is not from a franchise; every other one is Star Wars, Chima, Disney or Toy Story."
+  },
+
+
+  {
+    id: "the-lost-soccer-player",
+    name: "The Lost Soccer Player",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A soccer player. Lost, and dead.",
+    provenance:
+      "Black hair, a plain yellow face. A strip shirt in red with a white " +
+      "panel down the front and blue trim at the shoulders, over blue shorts " +
+      "or legs.",
+    tags: ["soccer", "football", "athlete", "sport", "kit", "lost", "deceased"],
+    images: ["images/the-lost-soccer-player-01.jpg"],
+    acquired: "",
+    notes: "Second soccer player, and named apart from the first only because that name is taken. Which raises a question worth answering: the other one is alive, and two players in kit is either two people or a team. Say they played together and they group."
+  },
+
+
+  {
+    id: "the-astronaut-soldier",
+    name: "The Astronaut Soldier",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Astronaut Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An astronaut, and a soldier. Lost, and dead.",
+    provenance:
+      "Blue helmet. Black torso carrying a dense printed panel in blue and " +
+      "white across the chest - instruments or webbing, the frame will not say " +
+      "which - over a red hip piece and dark legs. Blue arms, yellow hands.",
+    tags: ["astronaut", "soldier", "space", "helmet", "lost", "deceased"],
+    images: ["images/the-astronaut-soldier-01.jpg"],
+    acquired: "",
+    notes: "The first figure here who is both at once. This world already had nine cards of astronauts and spacemen, and soldiers beyond counting, and until now those were separate jobs - the Mars Mission crew explore, the Space Militia fight. No group written: nobody has said whether he flew for the militia, the Royal Galactic Army or neither."
+  },
+
+
+  {
+    id: "the-airline-pilot",
+    name: "The Airline Pilot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An airline pilot. Lost, and dead.",
+    provenance:
+      "White uniform shirt with a dark tie down the front and a white peaked " +
+      "cap, one black arm. Photographed lying on a grey baseplate with a " +
+      "second pale figure just behind him, too soft to identify.",
+    tags: ["pilot", "airline", "civilian", "uniform", "cap", "lost", "deceased"],
+    images: ["images/the-airline-pilot-01.jpg"],
+    acquired: "",
+    notes: "Twenty-eight pilot cards in this collection and he is the first civilian one. Every other pilot here flies for somebody - clones, rebels, TIE squadrons, the Green Rangers, the Command Staff - and this man flew passengers. There is a second figure in the frame behind him; if that is another of the lost, say so and he gets a card."
+  },
+
+
+  {
+    id: "the-hooded-ranger",
+    name: "The Hooded Ranger",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Green Rangers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Green Ranger. Lost, and dead.",
+    provenance:
+      "A black hood pulled right over the head with only a band of yellow face " +
+      "showing through at the eyes, over a green uniform and dark legs.",
+    tags: ["green-rangers", "soldier", "hood", "balaclava", "lost", "deceased"],
+    images: ["images/the-hooded-ranger-01.jpg"],
+    acquired: "",
+    notes: "Filed with the Green Rangers because they are the only green army in this world - say the word if the green army men are somebody else and he moves. He is the odd one out among them either way: the other five have the most expressive faces in the collection, two enormous eyes, a handlebar moustache, the widest grin in the unit, and this one has no face showing at all. The Rangers are seven now and two of the seven are dead, which is the worst rate of any unit here."
   },
 
 
