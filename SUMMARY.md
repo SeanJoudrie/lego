@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-356 characters from a custom LEGO minifigure world, in the order they were
+361 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4084,6 +4084,8 @@ The Enforcer Squad. There are two of them.
 
 *How it was got:* White armour with a black visor band straight across the dome, and a ribbed chest and belt plate printed on the torso. The two are identical.
 
+*Connections:* Serves under The Enforcer Commander
+
 *Tags:* enforcer, squad, soldier, unit, armour, two
 
 ### 352. The Defense Gunner
@@ -4103,6 +4105,8 @@ He works the defensive guns.
 He commands the pilots.
 
 *How it was got:* White peaked cap, sand-blue arms and legs, and a white chest rig with hoses running to a panel of red and blue rank bars. A pack on his back.
+
+*Connections:* Shares his title with The Second Pilot Commander
 
 *Tags:* commander, pilot, officer, rank-insignia, command-staff
 
@@ -4135,6 +4139,60 @@ He supervises the mechanics.
 *How it was got:* Brown cap over a yellow face with a lopsided grin. Full white armour, white hands. Easily the most cheerful of the five.
 
 *Tags:* supervisor, mechanic, armour, command-staff
+
+### 357. The Range Commander
+
+**Alignment:** good · **Role:** Range Commander · **Figure:** custom
+
+He commands the range.
+
+*How it was got:* Sand-coloured field uniform, a tactical vest printed with pouches and a stencilled number, and white goggles pushed up on a black helmet. His face is cut about and furious.
+
+*Tags:* commander, range, field-kit, goggles, scarred, command-staff
+
+### 358. The Second Pilot Commander
+
+**Alignment:** good · **Role:** Pilot Commander · **Figure:** custom
+
+He commands the pilots.
+
+*How it was got:* Grey skull cap over a cheerful flesh face, white armour with a black chest plate, and mismatched arms - one grey, one black.
+
+*Connections:* Shares his title with The Pilot Commander
+
+*Tags:* commander, pilot, armour, command-staff
+
+### 359. The Enforcer Commander
+
+**Alignment:** good · **Role:** Enforcer Commander · **Figure:** custom
+
+He commands the Enforcer Squad.
+
+*How it was got:* The squad's own kit exactly - white armour, white dome, solid black visor band - with white hands where theirs are black.
+
+*Connections:* Commands The Enforcer Squad
+
+*Tags:* commander, enforcer, squad, armour, visor
+
+### 360. The Pilot Officer
+
+**Alignment:** good · **Role:** Pilot Officer · **Figure:** custom
+
+An officer among the pilots.
+
+*How it was got:* White flight helmet capped in blue, flesh face with a flat mouth, full white armour, black hands.
+
+*Tags:* officer, pilot, armour, flight-helmet, command-staff
+
+### 361. Cowboy Spider-Man
+
+**Alignment:** good · **Figure:** branded
+
+Spider-Man, dressed as a cowboy.
+
+*How it was got:* The mask under a brown cowboy hat, a red bandana pulled up over the mouth so only the eyes show, a grey cloth serape over one shoulder, yellow waistcoat, gun belts on pale denim and brown boots.
+
+*Tags:* marvel, spider-man, cowboy, western, bandana, branded
 
 ---
 

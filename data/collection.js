@@ -9262,9 +9262,11 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Soldier",
-    group: "",
+    group: "The Enforcer Squad",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-enforcer-commander", label: "Serves under" },
+    ],
     rating: 0,
     background: "The Enforcer Squad. There are two of them.",
     provenance:
@@ -9273,7 +9275,7 @@ window.COLLECTION = [
     tags: ["enforcer", "squad", "soldier", "unit", "armour", "two"],
     images: [{ src: "images/the-enforcer-squad-01.jpg", caption: "Both of them" }],
     acquired: "",
-    notes: "One entry for the pair, the way the US Army Soldiers and the Enemy are done. Filed good by the standing rule, since you have not said otherwise. No group written - two men with no third are a squad, not an organisation, unless there is something above them."
+    notes: "One entry for the pair, the way the US Army Soldiers and the Enemy are done. Filed good by the standing rule, since you have not said otherwise. They now have a commander, so the squad is a group after all - that note used to say two men with no third are not an organisation, and the third arrived."
   },
 
 
@@ -9313,7 +9315,9 @@ window.COLLECTION = [
     role: "Pilot Commander",
     group: "The Command Staff",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-second-pilot-commander", label: "Shares his title with" },
+    ],
     rating: 0,
     background: "He commands the pilots.",
     provenance:
@@ -9395,6 +9399,132 @@ window.COLLECTION = [
     images: ["images/the-mechanic-supervisor-01.jpg"],
     acquired: "",
     notes: "Third man now whose job is the mechanics, after the Inventory Specialist - who you said is in charge of any mechanic or technician in the civilization - and the Engineer Commander. Three layers of the same trade with no line drawn between them yet."
+  },
+
+
+  {
+    id: "the-range-commander",
+    name: "The Range Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Range Commander",
+    group: "The Command Staff",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "He commands the range.",
+    provenance:
+      "Sand-coloured field uniform, a tactical vest printed with pouches and " +
+      "a stencilled number, and white goggles pushed up on a black helmet. " +
+      "His face is cut about and furious.",
+    tags: ["commander", "range", "field-kit", "goggles", "scarred", "command-staff"],
+    images: ["images/the-range-commander-01.jpg"],
+    acquired: "",
+    notes: "The only one of the staff not in white - sand field kit rather than armour or an officer's tunic, which puts him outdoors where the others are inside a building. Also the most beaten-up face on the staff."
+  },
+
+
+  {
+    id: "the-second-pilot-commander",
+    name: "The Second Pilot Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot Commander",
+    group: "The Command Staff",
+    location: "",
+    relations: [
+      { to: "the-pilot-commander", label: "Shares his title with" },
+    ],
+    rating: 0,
+    background: "He commands the pilots.",
+    provenance:
+      "Grey skull cap over a cheerful flesh face, white armour with a black " +
+      "chest plate, and mismatched arms - one grey, one black.",
+    tags: ["commander", "pilot", "armour", "command-staff"],
+    images: ["images/the-second-pilot-commander-01.jpg"],
+    acquired: "",
+    notes: "You gave the Pilot Commander title twice, so this is the second holder of it - named the way the Second Winter Trooper and the Second Padawan are. Either the pilots have two commanders, or one of these two is something else; the difference in kit is real, since the first wears an officer's tunic with rank bars and this one wears armour."
+  },
+
+
+  {
+    id: "the-enforcer-commander",
+    name: "The Enforcer Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Enforcer Commander",
+    group: "The Enforcer Squad",
+    location: "",
+    relations: [
+      { to: "the-enforcer-squad", label: "Commands" },
+    ],
+    rating: 0,
+    background: "He commands the Enforcer Squad.",
+    provenance:
+      "The squad's own kit exactly - white armour, white dome, solid black " +
+      "visor band - with white hands where theirs are black.",
+    tags: ["commander", "enforcer", "squad", "armour", "visor"],
+    images: ["images/the-enforcer-commander-01.jpg"],
+    acquired: "",
+    notes: "His arrival turns the Enforcer Squad from a loose pair into a unit of three. He is in their exact helmet rather than a cap, which is the opposite of how the Command Staff mark rank - so he may belong with them on that staff as well, and only one group can be written; say the word and he moves."
+  },
+
+
+  {
+    id: "the-pilot-officer",
+    name: "The Pilot Officer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pilot Officer",
+    group: "The Command Staff",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An officer among the pilots.",
+    provenance:
+      "White flight helmet capped in blue, flesh face with a flat mouth, full " +
+      "white armour, black hands.",
+    tags: ["officer", "pilot", "armour", "flight-helmet", "command-staff"],
+    images: ["images/the-pilot-officer-01.jpg"],
+    acquired: "",
+    notes: "Third man on the staff attached to the pilots, after the two Pilot Commanders. Officer is a rung below commander everywhere else in this collection, so he is written as under them until you say otherwise."
+  },
+
+
+  {
+    id: "cowboy-spider-man",
+    name: "Cowboy Spider-Man",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Marvel",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Spider-Man, dressed as a cowboy.",
+    provenance:
+      "The mask under a brown cowboy hat, a red bandana pulled up over the " +
+      "mouth so only the eyes show, a grey cloth serape over one shoulder, " +
+      "yellow waistcoat, gun belts on pale denim and brown boots.",
+    tags: ["marvel", "spider-man", "cowboy", "western", "bandana", "branded"],
+    images: ["images/cowboy-spider-man-01.jpg"],
+    acquired: "",
+    notes: "Second Marvel figure here, after Tony Stark, and third man in the collection dressed western after the Sheriff and the Outlaw. The bandana over the mask is the joke: he is wearing a disguise over a disguise."
   },
 
 
