@@ -8684,6 +8684,131 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "the-engineer-commander",
+    name: "The Engineer Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Engineer Commander",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "He commands the engineers.",
+    provenance:
+      "Black peaked cap, grey officer's tunic with a rank plate of red and " +
+      "blue bars on the chest, grey legs, and one black hand and one grey.",
+    tags: ["engineer", "commander", "officer", "rank-insignia"],
+    images: ["images/the-engineer-commander-01.jpg"],
+    acquired: "",
+    notes: "Kept clear of the Engineer, who is an Archangel and nothing to do with machines. Worth deciding: the Inventory Specialist is described as in charge of any mechanic or technician in the civilization, which would put this man under him - but his cap and rank plate say a separate service, so no link is written until you say."
+  },
+
+
+  {
+    id: "the-hiker",
+    name: "The Hiker",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An outdoorsman. He hikes, and that is the whole of it - no service, no " +
+      "unit, nobody above him.\n\n" +
+      "He is short. Not a dwarf or one of the small folk, just a short man " +
+      "who goes walking.",
+    provenance:
+      "Brown wide-brimmed hat, round glasses, brown beard, navy shirt under " +
+      "green braces hung with a wrench and a hammer. Short legs in brown, " +
+      "and mismatched hands - one yellow, one white.",
+    tags: ["civilian", "hiker", "outdoors", "short", "beard", "glasses"],
+    images: ["images/the-hiker-01.jpg"],
+    acquired: "",
+    notes: "Kept clear of the Backpacker. His height is the thing to note: every other short figure here is a dwarf, a gnome, a leprechaun or a child - he is the first who is simply a short man, with no species or age attached."
+  },
+
+
+  {
+    id: "the-snarling-miner",
+    name: "The Snarling Miner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Power Miner",
+    group: "The Power Miners",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the power miners.",
+    provenance:
+      "Blue mining helmet with the ear guards down, teeth bared, stubble and " +
+      "fresh cuts across the face. Grey and blue harness over blue legs with " +
+      "a chain and a dynamite stick printed on them.",
+    tags: ["power-miner", "miner", "underground", "helmet", "scarred"],
+    images: ["images/the-snarling-miner-01.jpg"],
+    acquired: "",
+    notes: "New group. Names are purely descriptive - the three arrived together in identical kit and the faces are the only difference. He is the only one of them with cuts on his face."
+  },
+
+
+  {
+    id: "the-green-eyed-miner",
+    name: "The Green-Eyed Miner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Power Miner",
+    group: "The Power Miners",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the power miners.",
+    provenance: "Same blue helmet and harness. Green eyes under heavy brows, and a flat half-smile.",
+    tags: ["power-miner", "miner", "underground", "helmet"],
+    images: ["images/the-green-eyed-miner-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. Green eyes are rare here - nearly every face in the collection is printed with plain black dots."
+  },
+
+
+  {
+    id: "the-miner-in-goggles",
+    name: "The Miner in Goggles",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Power Miner",
+    group: "The Power Miners",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the power miners.",
+    provenance:
+      "Tinted goggles across the face, freckles and stubble, grinning. His " +
+      "harness is the odd one out - two big cargo pockets where the others " +
+      "carry tool loops.",
+    tags: ["power-miner", "miner", "underground", "goggles", "helmet"],
+    images: ["images/the-miner-in-goggles-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, and kept clear of the Goggled Diver. The different harness is the only kit variation in the three, so if it means a different job down there, say so."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

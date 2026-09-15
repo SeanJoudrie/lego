@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-327 characters from a custom LEGO minifigure world, in the order they were
+332 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3835,6 +3835,58 @@ A civilian girl in a costume.
 *How it was got:* Full brown guinea pig suit with the head as a hood and her freckled face showing through the mouth, white belly patch, pink paws, and roller skates whose wheels are cucumber slices.
 
 *Tags:* civilian, costume, guinea-pig, roller-skates, lego-city
+
+### 328. The Engineer Commander
+
+**Alignment:** good · **Role:** Engineer Commander · **Figure:** custom
+
+He commands the engineers.
+
+*How it was got:* Black peaked cap, grey officer's tunic with a rank plate of red and blue bars on the chest, grey legs, and one black hand and one grey.
+
+*Tags:* engineer, commander, officer, rank-insignia
+
+### 329. The Hiker
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+An outdoorsman. He hikes, and that is the whole of it - no service, no unit, nobody above him.
+
+He is short. Not a dwarf or one of the small folk, just a short man who goes walking.
+
+*How it was got:* Brown wide-brimmed hat, round glasses, brown beard, navy shirt under green braces hung with a wrench and a hammer. Short legs in brown, and mismatched hands - one yellow, one white.
+
+*Tags:* civilian, hiker, outdoors, short, beard, glasses
+
+### 330. The Snarling Miner
+
+**Alignment:** good · **Role:** Power Miner · **Figure:** custom
+
+One of the power miners.
+
+*How it was got:* Blue mining helmet with the ear guards down, teeth bared, stubble and fresh cuts across the face. Grey and blue harness over blue legs with a chain and a dynamite stick printed on them.
+
+*Tags:* power-miner, miner, underground, helmet, scarred
+
+### 331. The Green-Eyed Miner
+
+**Alignment:** good · **Role:** Power Miner · **Figure:** custom
+
+One of the power miners.
+
+*How it was got:* Same blue helmet and harness. Green eyes under heavy brows, and a flat half-smile.
+
+*Tags:* power-miner, miner, underground, helmet
+
+### 332. The Miner in Goggles
+
+**Alignment:** good · **Role:** Power Miner · **Figure:** custom
+
+One of the power miners.
+
+*How it was got:* Tinted goggles across the face, freckles and stubble, grinning. His harness is the odd one out - two big cargo pockets where the others carry tool loops.
+
+*Tags:* power-miner, miner, underground, goggles, helmet
 
 ---
 
