@@ -1129,6 +1129,7 @@ window.COLLECTION = [
     group: "The Ninja Lineage",
     location: "",
     relations: [
+      { to: "the-black-ninja", label: "Studied under" },
       { to: "the-blue-haired-ninja", label: "Taught" },
       { to: "the-street-ninja", label: "Taught" },
     ],
@@ -17162,6 +17163,142 @@ window.COLLECTION = [
     images: ["images/the-yellow-super-swordsman-01.jpg"],
     acquired: "",
     notes: "Their best, and the only one of the five whose face is entirely shut away - the other four all show a jaw or a scar. The Royal Knights answer him with the Swordmaster and the Supreme Mega Knight, who is full plate, battered, scuffed and grubby with it. Nobody has said whether these two have ever met and it is the fight the medieval realm has been missing."
+  },
+
+
+
+  {
+    id: "the-armoured-space-pirate",
+    name: "The Armoured Space Pirate",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A space pirate.",
+    provenance:
+      "A black helm with the neck guard flared wide, over a dark brown face " +
+      "with a white eye and a scar drawn down the cheek. A brown leather " +
+      "cuirass printed with pale straps at the shoulders, gold studs and a gold " +
+      "band round the hem; brown arms, brown hands, tan legs.",
+    tags: ["villain", "pirate", "space-pirate", "leather", "scar", "helm"],
+    images: ["images/the-armoured-space-pirate-01.jpg"],
+    acquired: "",
+    notes: "Sixth pirate on the bad side. The Pirate Fleet Commander arrived several batches ago in charge of their combat, and the crew he implies keeps growing without anybody saying it is his: the Infamous Space Pirate, the Ninja Assassin Pirate, the Masked Space Pirate, the Space Trucker and now this one. Five pirates and a man who commands a fleet, and not a word between any of them."
+  },
+
+  {
+    id: "the-second-evil-bowman",
+    name: "The Second Evil Bowman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Archer",
+    group: "The Evil Knights",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The second bowman of the evil knights.",
+    provenance:
+      "The same riveted kettle helm and mail coif as the first bowman, over a " +
+      "yellow face with a black moustache and heavy stubble. The same tunic " +
+      "too - quartered red and white, gold lion across the chest, brown belt - " +
+      "with grey arms, one pale hand and one yellow, and pale grey legs.",
+    tags: ["villain", "knight", "archer", "bowman", "kettle-helm", "lion", "moustache"],
+    images: ["images/the-second-evil-bowman-01.jpg"],
+    acquired: "",
+    notes: "Two enemy archers now, wearing the identical tunic, and the tunic is the Royal Knights' lion. One man in their colours could be a shared part. Two is a pattern. In that realm what you lose when you fall stays there for the other side to pick up and keep, so a pair of enemy bowmen kitted out of the same wardrobe is precisely what the rule produces - and the Second Royal Archer is still wearing his. Whether these two stripped him or defected from beside him is the open question."
+  },
+
+  {
+    id: "the-blue-bounty-hunter",
+    name: "The Blue Bounty Hunter",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A bounty hunter, and she flies alone.",
+    provenance:
+      "Long red hair falling either side of a blue face - brown eyes, painted " +
+      "lips, fine lines at the brow. A grey torso printed with plated armour " +
+      "and gold chain looped across it, a yellow-blocked belt below; one blue " +
+      "arm bare and one in a black armoured sleeve with a clawed gauntlet, grey " +
+      "legs carrying a yellow dial at one thigh and a red one at the other.",
+    tags: ["villain", "bounty-hunter", "woman", "pilot", "solo", "blue", "chains", "gauntlet"],
+    images: ["images/the-blue-bounty-hunter-01.jpg"],
+    acquired: "",
+    notes: "Eleventh bounty hunter and the first woman among them; seven of the eleven are on this side and every one before her was a man. She is also the fourth woman on the villain side at all, after the TV Camera Woman, the Pharaoh and the Orc Queen. The thing worth a ruling is her skin: the blue people are the portal masters of this world, whose magic and essence open the ways between dimensions, and the only one of them photographed is a demigod who came through uninvited with an army. If she is one of theirs, a portal master working as a bounty hunter is a much larger fact than the job. Nothing says she is."
+  },
+
+  {
+    id: "the-black-ninja",
+    name: "The Black Ninja",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja",
+    group: "The Ninja Lineage",
+    location: "",
+    relations: [
+      { to: "the-red-ninja", label: "Taught" },
+    ],
+    rating: 0,
+    background:
+      "The ninja who taught the Red Ninja.",
+    provenance:
+      "A black cloth wrap closed over the whole head, leaving a single yellow " +
+      "band at the eyes and nothing else. A black gi printed with pale fold " +
+      "lines and a crossed wrap at the chest; black arms, black hands, black " +
+      "legs. Not one other colour anywhere on him.",
+    tags: ["villain", "ninja", "teacher", "lineage", "masked", "all-black"],
+    images: ["images/the-black-ninja-01.jpg"],
+    acquired: "",
+    notes: "This explains a line that has been sitting on the Red Ninja's card doing nothing: for a time he was tempted by evil, and he decided not to do evil. His teacher is where the temptation came from. The Ninja Lineage is a chain of teaching four generations deep now - the Black Ninja taught the Red Ninja, the Red Ninja taught the Blue-Haired Ninja and the Street Ninja, the Blue-Haired Ninja is training the Red Apprentice - and the man at the top of it is on the other deck. He is in the group, because a lineage is exactly the thing he belongs to, which makes it the seventh group in this collection with people on both sides."
+  },
+
+  {
+    id: "the-astronaut-ninja",
+    name: "The Astronaut Ninja",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An astronaut ninja. He is not much of a ninja. He is genuinely good " +
+      "with a sword.",
+    provenance:
+      "A white space helmet with a dark blue visor pulled right down over the " +
+      "face. A red tunic printed with a gold scaled collar, a black sash " +
+      "crossing the chest with a hilt at it, and a gold chevron at the hem; red " +
+      "arms, yellow hands, black legs.",
+    tags: ["villain", "ninja", "astronaut", "swordsman", "space-helmet", "not-very-good"],
+    images: ["images/the-astronaut-ninja-01.jpg"],
+    acquired: "",
+    notes: "The bad side has four men filed as ninja now - the Crimson Ninja, the Cybernetic Ninja, the Black Ninja and him - plus the Ninja Assassin Pirate, who is filed as an assassin. He is also the second figure in the collection admitted to be bad at their own job, after the Incompetent Bounty Hunter. The Brawling Alien is dumb and good at his, which is a different thing. Nobody here has ever combined the two crafts either - the ninja are medieval and Ninjago, the astronauts are Classic Space and Mars Mission, and a man in a space helmet carrying a sword belongs to neither."
   },
 
 

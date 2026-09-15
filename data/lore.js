@@ -1419,6 +1419,32 @@ window.LORE = [
       "The second is the cavalry. There is exactly one horse in this entire " +
       "collection and she is called Widow and she is on the good side. " +
       "Somebody has a mounted arm now and nothing to mount it on."
+  },
+
+  {
+    title: "Where the Red Ninja's temptation came from",
+    text:
+      "The Red Ninja's card carries two sentences that have never done any " +
+      "work: for a time he was tempted by evil, and he decided not to do evil. " +
+      "They sat there as a fact about a man with no cause attached.\n\n" +
+      "The cause is his teacher. The ninja who trained him is catalogued now, " +
+      "all in black with a single yellow band at the eyes, and he is on the " +
+      "other deck.\n\n" +
+      "That makes the Ninja Lineage four generations of teaching, and the top " +
+      "of it is the enemy. The Black Ninja taught the Red Ninja. The Red Ninja " +
+      "took the Blue-Haired Ninja after the Samurai had finished with him, " +
+      "which is how that one came away with both sides of the craft, and he " +
+      "trained the Street Ninja too. The Blue-Haired Ninja is training the Red " +
+      "Apprentice, who will take the mantle one day.\n\n" +
+      "So the best ninja there is learned from a man who learned from a " +
+      "villain, and the apprentice waiting to inherit is three steps down from " +
+      "the same source. Nobody in that chain has done anything wrong. One of " +
+      "them nearly did, and said so.\n\n" +
+      "The Lineage is the seventh group in this collection with people on both " +
+      "sides, and the only one where the split is a teacher rather than a " +
+      "traitor. The Verdauf lost a captain, the dive team lost two men, the " +
+      "Green Rangers were stranded by their own general. This one did not lose " +
+      "anybody. It simply started there."
   }
 
 ];
