@@ -1264,7 +1264,7 @@ window.LORE = [
   },
 
   {
-    title: "Three alien forces, and nobody has said which",
+    title: "Four alien forces, and nobody has said which",
     text:
       "The aliens on the bad side have been arriving in pieces for a long time " +
       "and none of the pieces has been joined up.\n\n" +
@@ -1283,7 +1283,42 @@ window.LORE = [
       "other alien on that side is a specialist who works alone - a mercenary " +
       "leader, a bounty hunter, a brawler, an invasion leader. This lot have a " +
       "medic to keep them alive and a technician to keep the kit running. That " +
-      "is not a band of monsters. That is an army with a supply chain."
+      "is not a band of monsters. That is an army with a supply chain.\n\n" +
+      "Then it happened again. Four alien goons arrived the very next batch - " +
+      "a cobra-headed assassin, a rhino heavy, and two men on small arms - and " +
+      "they are a fourth body with nothing written between them and the other " +
+      "three. So the count now runs: mercenaries nobody has photographed, a " +
+      "militia with a school and one member, five soldiers, four goons.\n\n" +
+      "Two of those names came out of the words used to describe them rather " +
+      "than out of the world, because nothing in the world named them. One " +
+      "ruling would collapse most of this into a single alien army with a " +
+      "commander, a school, a medic, a technician and its muscle - which is " +
+      "what it looks like from here. Until then the catalogue keeps four " +
+      "doors open rather than invent a corridor between them."
+  },
+
+  {
+    title: "Nobody on that side has a friend",
+    text:
+      "Twenty-eight links in this collection join one villain to another, and " +
+      "until now not one of them was affection.\n\n" +
+      "They are brothers. They are seconds-in-command. They are men who follow " +
+      "Quinn, and Quinn is at the centre of thirteen of them on his own. Two " +
+      "doctors run experiments together. Three knights forged the swords that " +
+      "kill for real. Two arms dealers are equal in rank. A commander has a " +
+      "loyal man. Every single one is blood, rank, or business.\n\n" +
+      "Then an occupying soldier turns up who grew up with the alien " +
+      "technician, and they are friends. That is the whole of the fact and it " +
+      "is the first of its kind over there.\n\n" +
+      "The good side is thick with this. Best friends who test experimental " +
+      "ships together for fun. A gruff Secretary of War the royal children " +
+      "idolise because he lets them fire a cannon. Two adventurers from the " +
+      "same land who simply like each other. A bounty hunter who travels with " +
+      "his robot and is deeply into tea.\n\n" +
+      "It is not something anybody designed. It is what a world looks like " +
+      "when the villains were written as functions and the heroes were written " +
+      "as people - and it took six hundred and thirty-five figures for one " +
+      "villain to be given somebody he simply likes."
   }
 
 ];

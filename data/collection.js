@@ -16450,7 +16450,9 @@ window.COLLECTION = [
     role: "Technician",
     group: "The Alien Soldiers",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-occupier", label: "Grew up with" },
+    ],
     rating: 0,
     background:
       "The technician of the alien soldiers.",
@@ -16463,6 +16465,144 @@ window.COLLECTION = [
     images: ["images/the-alien-technician-01.jpg"],
     acquired: "",
     notes: "Second technician on the bad side, after the Infamous Traitor, who is a Technician Sergeant. This unit is now five people with a medic, a technician, a gunslinger and two soldiers - a proper small force rather than a handful of monsters, which is a first for the aliens here. The open question is whose force it is: the Alien Militia has a commander who runs its school and the people who fight for it come up through him, and the Lead Alien Mercenary leads mercenaries who have never been photographed. Either of those has been waiting for exactly this. Say which and The Alien Soldiers folds into it."
+  },
+
+
+
+  {
+    id: "the-occupier",
+    name: "The Occupier",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-alien-technician", label: "Grew up with" },
+    ],
+    rating: 0,
+    background:
+      "A soldier of an occupying army.\n\n" +
+      "He and the alien technician grew up together, and they are friends.",
+    provenance:
+      "A moulded red head, skull-like, ridged across the crown and hollow at " +
+      "the eyes, on a thin red neck. A black backpack torso with two round " +
+      "vents at the front, red arms hanging either side of it, red hands, and " +
+      "a red bar and strut assembly for legs. Barely a minifigure at all.",
+    tags: ["villain", "alien", "soldier", "occupation", "friendship", "moulded", "skull-head"],
+    images: ["images/the-occupier-01.jpg"],
+    acquired: "",
+    notes: "This card is the first friendship on the villain side of the collection. Fifty-odd relations connect one villain to another and every last one of them is rank, blood or business - brothers, seconds-in-command, men who follow Quinn, two doctors who run experiments together, three knights who made a sword. Growing up with somebody and liking them is new over there. An occupying army is also new: nothing in this world has been said to hold ground it took until now, the Dictator included, and he only holds the planet he started with."
+  },
+
+  {
+    id: "the-cobra-assassin",
+    name: "The Cobra Assassin",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assassin",
+    group: "The Alien Goons",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A silent assassin.",
+    provenance:
+      "A moulded dark green cobra head, the hood spread wide and marked with " +
+      "pale scales, yellow slit eyes and two long white fangs over an open " +
+      "mouth. A black torso printed with a blue tabard laced in gold over a " +
+      "white wrap, dark green arms, bright green hands, black legs.",
+    tags: ["villain", "alien", "assassin", "silent", "cobra", "fangs", "goon"],
+    images: ["images/the-cobra-assassin-01.jpg"],
+    acquired: "",
+    notes: "You called him a silent assassin, and The Silent Soldier already holds that name here - an elite assassin with a closed helmet and an insect device on his chest. Two cards a letter apart would be a nuisance to live with, so this one is named for the head. Say the word and he takes the name back. Eighth assassin, all eight on the bad side."
+  },
+
+  {
+    id: "the-rhino-heavy",
+    name: "The Rhino Heavy",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Heavy",
+    group: "The Alien Goons",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The heavy of the goons.",
+    provenance:
+      "A moulded grey head built like a rhinoceros - a blunt snout with square " +
+      "teeth showing, small dark eyes, and two horns standing up off the brow " +
+      "in olive. A silver torso under a blue cloth cape hung from both " +
+      "shoulders, blue arms, grey hands, black legs.",
+    tags: ["villain", "alien", "heavy", "rhino", "horns", "cape", "goon"],
+    images: ["images/the-rhino-heavy-01.jpg"],
+    acquired: "",
+    notes: "Third heavy on the bad side, after the Juggernaut with his minigun and the Missile who is one. There is no heavy at all on the good side - Heavy himself, the nineteen-year-old in the honor guard who runs the largest gun in the Lego world, is filed under Honor Guard rather than the role. Heavy weapons are entirely a villain job in this catalogue."
+  },
+
+  {
+    id: "the-goon-in-the-beanie",
+    name: "The Goon in the Beanie",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Goon",
+    group: "The Alien Goons",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the goons. Small arms.",
+    provenance:
+      "A moulded grey snake head with yellow slit eyes, pale scaling over the " +
+      "brow and two fangs at the corners of the mouth, wearing a black ribbed " +
+      "beanie pulled down over the crown. A dark red torso printed with gold " +
+      "scalework at the collar and a gold-buckled belt; grey arms, black " +
+      "hands, brown legs with a red and white striped sash hanging at one hip.",
+    tags: ["villain", "alien", "goon", "small-arms", "snake", "beanie", "sash"],
+    images: ["images/the-goon-in-the-beanie-01.jpg"],
+    acquired: "",
+    notes: "Goon is a new office, and the four of them are the first muscle in this world catalogued as muscle. Everybody else who hits people for a living here has a trade attached - assassin, hitman, brawler, enforcer, thug. These are just the men you bring."
+  },
+
+  {
+    id: "the-scarred-goon",
+    name: "The Scarred Goon",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Goon",
+    group: "The Alien Goons",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the goons. Small arms.",
+    provenance:
+      "A lime green moulded head with a heavy crested helm worked into it, " +
+      "lugs standing out at both temples, a dark scar across one eye socket " +
+      "and a red tongue between two fangs. A pale green torso printed with a " +
+      "studded silver collar, a bare chest and an orange lightning belt; one " +
+      "dark grey arm and one black, silver hands, black legs printed with gold " +
+      "chain and buckles.",
+    tags: ["villain", "alien", "goon", "small-arms", "scarred", "helm", "chain"],
+    images: ["images/the-scarred-goon-01.jpg"],
+    acquired: "",
+    notes: "Fourth of the goons and the second of the two on small arms. New group: The Alien Goons. That is now four separate alien bodies on the bad side with nothing written between any of them - the Lead Alien Mercenary's mercenaries, the Alien Militia and its school, The Alien Soldiers from last batch, and these. See the world note; one ruling would collapse most of it."
   },
 
 
