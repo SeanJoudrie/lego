@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-317 characters from a custom LEGO minifigure world, in the order they were
+322 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3700,11 +3700,11 @@ The name is where they went once, not what they do - the team has been a good de
 
 *How it was got:* Green transparent dome helmet over a grey armoured dive suit, lime arms, a harpoon printed down one leg and a red trident badge on the other. Black eyepatch with the strap across his face.
 
-*Connections:* On his team The Atlantis Diver
+*Connections:* On his team The Diver with the Thrusters · On his team The Moustached Diver · On his team The Bearded Diver · On his team The Grinning Diver · On his team The Scowling Diver · On his team The Woman in the Dive Suit
 
 *Tags:* atlantis, dive-team, leader, diver, underwater, eyepatch, trident
 
-### 317. The Atlantis Diver
+### 317. The Diver with the Thrusters
 
 **Alignment:** good · **Role:** Diver · **Figure:** custom
 
@@ -3715,6 +3715,66 @@ One of the Atlantis dive team.
 *Connections:* Serves under The Atlantis Leader
 
 *Tags:* atlantis, dive-team, diver, underwater, thrusters, trident
+
+### 318. The Moustached Diver
+
+**Alignment:** good · **Role:** Diver · **Figure:** custom
+
+One of the Atlantis dive team.
+
+*How it was got:* Round wire-rimmed glasses behind the green dome and a heavy brown moustache. Same grey pressure suit, lime arms, black hands.
+
+*Connections:* Serves under The Atlantis Leader
+
+*Tags:* atlantis, dive-team, diver, underwater, glasses, moustache, trident
+
+### 319. The Bearded Diver
+
+**Alignment:** good · **Role:** Diver · **Figure:** custom
+
+One of the Atlantis dive team.
+
+*How it was got:* Round glasses, grey hair and a grey beard, and a smile. The oldest face on the team by a long way.
+
+*Connections:* Serves under The Atlantis Leader
+
+*Tags:* atlantis, dive-team, diver, underwater, glasses, beard, trident
+
+### 320. The Grinning Diver
+
+**Alignment:** good · **Role:** Diver · **Figure:** custom
+
+One of the Atlantis dive team.
+
+*How it was got:* Clean-shaven, one eyebrow up, grinning. Dark grey claw hands rather than black.
+
+*Connections:* Serves under The Atlantis Leader
+
+*Tags:* atlantis, dive-team, diver, underwater, trident
+
+### 321. The Scowling Diver
+
+**Alignment:** good · **Role:** Diver · **Figure:** custom
+
+One of the Atlantis dive team.
+
+*How it was got:* Same raised eyebrow as the Grinning Diver but the mouth turned down, and stubble on the chin. Dark grey claw hands.
+
+*Connections:* Serves under The Atlantis Leader
+
+*Tags:* atlantis, dive-team, diver, underwater, trident
+
+### 322. The Woman in the Dive Suit
+
+**Alignment:** good · **Role:** Diver · **Figure:** custom
+
+One of the Atlantis dive team.
+
+*How it was got:* Lashes and red lipstick behind the dome, and the same armoured suit as every other diver.
+
+*Connections:* Serves under The Atlantis Leader
+
+*Tags:* atlantis, dive-team, diver, underwater, trident
 
 ---
 

@@ -8371,6 +8371,11 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-atlantis-diver", label: "On his team" },
+      { to: "the-moustached-diver", label: "On his team" },
+      { to: "the-bearded-diver", label: "On his team" },
+      { to: "the-grinning-diver", label: "On his team" },
+      { to: "the-scowling-diver", label: "On his team" },
+      { to: "the-woman-in-the-dive-suit", label: "On his team" },
     ],
     rating: 0,
     background:
@@ -8390,7 +8395,7 @@ window.COLLECTION = [
 
   {
     id: "the-atlantis-diver",
-    name: "The Atlantis Diver",
+    name: "The Diver with the Thrusters",
     variant: "",
     faction: "good",
     origin: "custom",
@@ -8410,7 +8415,133 @@ window.COLLECTION = [
     tags: ["atlantis", "dive-team", "diver", "underwater", "thrusters", "trident"],
     images: ["images/the-atlantis-diver-01.jpg"],
     acquired: "",
-    notes: "Name is purely descriptive. Three separate underwater outfits now: Aqua Force in wetsuits with a blue trident, the Dive Team in yellow hi-vis rescue kit, and this lot in armoured pressure suits with a red trident. The two tridents are close enough to be worth asking about - say the word and Aqua Force and Atlantis connect."
+    notes: "Renamed from The Atlantis Diver once the team grew to seven - that name read as the whole group. The thruster pods are his alone, so far. Three separate underwater outfits now: Aqua Force in wetsuits with a blue trident, the Dive Team in yellow hi-vis rescue kit, and this lot in armoured pressure suits with a red trident. The two tridents are close enough to be worth asking about - say the word and Aqua Force and Atlantis connect."
+  },
+
+
+  {
+    id: "the-moustached-diver",
+    name: "The Moustached Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-atlantis-leader", label: "Serves under" },
+    ],
+    rating: 0,
+    background: "One of the Atlantis dive team.",
+    provenance:
+      "Round wire-rimmed glasses behind the green dome and a heavy brown " +
+      "moustache. Same grey pressure suit, lime arms, black hands.",
+    tags: ["atlantis", "dive-team", "diver", "underwater", "glasses", "moustache", "trident"],
+    images: ["images/the-moustached-diver-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. Two of the seven wear glasses under the helmet, which is an odd thing to do at depth and reads as the team carrying specialists rather than only swimmers."
+  },
+
+
+  {
+    id: "the-bearded-diver",
+    name: "The Bearded Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-atlantis-leader", label: "Serves under" },
+    ],
+    rating: 0,
+    background: "One of the Atlantis dive team.",
+    provenance:
+      "Round glasses, grey hair and a grey beard, and a smile. The oldest " +
+      "face on the team by a long way.",
+    tags: ["atlantis", "dive-team", "diver", "underwater", "glasses", "beard", "trident"],
+    images: ["images/the-bearded-diver-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. The other man in glasses, and grey where the rest are not - if either of these two is the team's scientist or engineer rather than a diver, say so and the role changes."
+  },
+
+
+  {
+    id: "the-grinning-diver",
+    name: "The Grinning Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-atlantis-leader", label: "Serves under" },
+    ],
+    rating: 0,
+    background: "One of the Atlantis dive team.",
+    provenance: "Clean-shaven, one eyebrow up, grinning. Dark grey claw hands rather than black.",
+    tags: ["atlantis", "dive-team", "diver", "underwater", "trident"],
+    images: ["images/the-grinning-diver-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, and kept clear of the Grinning Ranger."
+  },
+
+
+  {
+    id: "the-scowling-diver",
+    name: "The Scowling Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-atlantis-leader", label: "Serves under" },
+    ],
+    rating: 0,
+    background: "One of the Atlantis dive team.",
+    provenance:
+      "Same raised eyebrow as the Grinning Diver but the mouth turned down, " +
+      "and stubble on the chin. Dark grey claw hands.",
+    tags: ["atlantis", "dive-team", "diver", "underwater", "trident"],
+    images: ["images/the-scowling-diver-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. He and the Grinning Diver are near enough the same man with the mouth redrawn - if they are meant to be brothers, or the same person twice, say so."
+  },
+
+
+  {
+    id: "the-woman-in-the-dive-suit",
+    name: "The Woman in the Dive Suit",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-atlantis-leader", label: "Serves under" },
+    ],
+    rating: 0,
+    background: "One of the Atlantis dive team.",
+    provenance: "Lashes and red lipstick behind the dome, and the same armoured suit as every other diver.",
+    tags: ["atlantis", "dive-team", "diver", "underwater", "trident"],
+    images: ["images/the-woman-in-the-dive-suit-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, and kept clear of the Dive Team, who are a different outfit. The only woman on the Atlantis team so far, and she is in exactly the same kit as the men - no separate uniform for her, which is not true everywhere in this world."
   },
 
 
