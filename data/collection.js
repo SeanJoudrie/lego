@@ -8915,7 +8915,7 @@ window.COLLECTION = [
     theme: "Star Wars",
     rank: "",
     role: "Pilot",
-    group: "",
+    group: "The Rebel Pilots",
     location: "",
     relations: [],
     rating: 0,
@@ -8926,7 +8926,132 @@ window.COLLECTION = [
     tags: ["star-wars", "pilot", "jedi", "rebel", "x-wing", "branded"],
     images: ["images/luke-skywalker-01.jpg"],
     acquired: "",
-    notes: "Opens a Star Wars theme, the eighth. Worth deciding how he sits with what is already here: this world has its own Jedi - the Snow Jedi's line - and its own clone troopers, all custom characters rather than the films'. Luke is the first named figure from that source to be catalogued, so say whether he is part of their story or a visitor from another world, the way the collection already handles it."
+    notes: "Opens a Star Wars theme, the eighth, and now has a squadron round him - five more rebel pilots in the same orange flight kit. Worth deciding how he sits with what is already here: this world has its own Jedi - the Snow Jedi's line - and its own clone troopers, all custom characters rather than the films'. Luke is the first named figure from that source to be catalogued, so say whether he is part of their story or a visitor from another world, the way the collection already handles it."
+  },
+
+
+  {
+    id: "the-smirking-pilot",
+    name: "The Smirking Pilot",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "The Rebel Pilots",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the rebel pilots.",
+    provenance:
+      "White helmet with broad grey stripes, one eyebrow up and a smirk. He " +
+      "is the only rebel pilot with a plain yellow head - every other one is " +
+      "flesh-toned. Orange suit with the full life-support rig: white vest, " +
+      "grey control panel, coiled hose.",
+    tags: ["star-wars", "rebel", "pilot", "x-wing", "branded"],
+    images: ["images/the-smirking-pilot-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. New group, The Rebel Pilots, with Luke Skywalker in it."
+  },
+
+
+  {
+    id: "the-bearded-pilot",
+    name: "The Bearded Pilot",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "The Rebel Pilots",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the rebel pilots.",
+    provenance:
+      "Full black chinstrap beard with the teeth showing, and a yellow stripe " +
+      "down the crown of the helmet. Wears the plainer chest rig, the same " +
+      "one Luke has, rather than the panelled life-support vest.",
+    tags: ["star-wars", "rebel", "pilot", "x-wing", "beard", "branded"],
+    images: ["images/the-bearded-pilot-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. The squadron splits on kit: three in the panelled life-support vest, three in the plain rig."
+  },
+
+
+  {
+    id: "the-pilot-in-the-striped-helmet",
+    name: "The Pilot in the Striped Helmet",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "The Rebel Pilots",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the rebel pilots.",
+    provenance:
+      "Grey and white striped helmet. An orange band is printed straight " +
+      "across his face at eye level, with a black goatee under it, and the " +
+      "panelled life-support vest on the chest.",
+    tags: ["star-wars", "rebel", "pilot", "x-wing", "goatee", "branded"],
+    images: ["images/the-pilot-in-the-striped-helmet-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. He and the Pilot in the Grid Helmet have the same face - orange band, same goatee - so the helmet is the only way to tell them apart. If they are brothers, or the same man twice, say so."
+  },
+
+
+  {
+    id: "the-pilot-in-the-grid-helmet",
+    name: "The Pilot in the Grid Helmet",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "The Rebel Pilots",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the rebel pilots.",
+    provenance:
+      "Helmet marked with olive grid panels and a black spiral emblem on the " +
+      "crown. Same orange face band and black goatee as the Pilot in the " +
+      "Striped Helmet, and the panelled life-support vest.",
+    tags: ["star-wars", "rebel", "pilot", "x-wing", "goatee", "branded"],
+    images: ["images/the-pilot-in-the-grid-helmet-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. He shares his helmet markings with the Smiling Pilot and his face with the Pilot in the Striped Helmet - the only figure here who overlaps with two others in different ways."
+  },
+
+
+  {
+    id: "the-smiling-pilot",
+    name: "The Smiling Pilot",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "The Rebel Pilots",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the rebel pilots.",
+    provenance:
+      "Same olive grid helmet with the black spiral. Plain flesh face, two " +
+      "dots and a simple smile, no beard. Wears the plain chest rig.",
+    tags: ["star-wars", "rebel", "pilot", "x-wing", "branded"],
+    images: ["images/the-smiling-pilot-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. The youngest-looking face in the squadron, and the only one in it with no expression to read."
   },
 
 

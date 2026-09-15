@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-337 characters from a custom LEGO minifigure world, in the order they were
+342 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3937,6 +3937,56 @@ Luke Skywalker, in his flight kit.
 *How it was got:* Orange flight suit with the grey chest rig, and the white X-wing pilot's helmet with red rebel crests on both sides.
 
 *Tags:* star-wars, pilot, jedi, rebel, x-wing, branded
+
+### 338. The Smirking Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+One of the rebel pilots.
+
+*How it was got:* White helmet with broad grey stripes, one eyebrow up and a smirk. He is the only rebel pilot with a plain yellow head - every other one is flesh-toned. Orange suit with the full life-support rig: white vest, grey control panel, coiled hose.
+
+*Tags:* star-wars, rebel, pilot, x-wing, branded
+
+### 339. The Bearded Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+One of the rebel pilots.
+
+*How it was got:* Full black chinstrap beard with the teeth showing, and a yellow stripe down the crown of the helmet. Wears the plainer chest rig, the same one Luke has, rather than the panelled life-support vest.
+
+*Tags:* star-wars, rebel, pilot, x-wing, beard, branded
+
+### 340. The Pilot in the Striped Helmet
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+One of the rebel pilots.
+
+*How it was got:* Grey and white striped helmet. An orange band is printed straight across his face at eye level, with a black goatee under it, and the panelled life-support vest on the chest.
+
+*Tags:* star-wars, rebel, pilot, x-wing, goatee, branded
+
+### 341. The Pilot in the Grid Helmet
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+One of the rebel pilots.
+
+*How it was got:* Helmet marked with olive grid panels and a black spiral emblem on the crown. Same orange face band and black goatee as the Pilot in the Striped Helmet, and the panelled life-support vest.
+
+*Tags:* star-wars, rebel, pilot, x-wing, goatee, branded
+
+### 342. The Smiling Pilot
+
+**Alignment:** good · **Role:** Pilot · **Figure:** branded
+
+One of the rebel pilots.
+
+*How it was got:* Same olive grid helmet with the black spiral. Plain flesh face, two dots and a simple smile, no beard. Wears the plain chest rig.
+
+*Tags:* star-wars, rebel, pilot, x-wing, branded
 
 ---
 
