@@ -14149,6 +14149,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "the-looter", label: "His loyal man" },
       { to: "quinn", label: "Defected to" },
     ],
     rating: 0,
@@ -14469,6 +14470,7 @@ window.COLLECTION = [
     group: "",
     location: "The Medieval Era",
     relations: [
+      { to: "the-evil-knight", label: "Helped make his sword" },
       { to: "the-swordsmith-knight", label: "Forged the sword with him" },
     ],
     rating: 0,
@@ -14503,6 +14505,7 @@ window.COLLECTION = [
     group: "",
     location: "The Medieval Era",
     relations: [
+      { to: "the-evil-knight", label: "Made the swords with him" },
       { to: "the-knight-with-the-real-sword", label: "Forged the sword with him" },
     ],
     rating: 0,
@@ -14640,6 +14643,156 @@ window.COLLECTION = [
     images: ["images/the-evil-grenadier-01.jpg"],
     acquired: "",
     notes: "Second grenadier in the collection, after the Golden Company\'s, who is filed good. He is black from the helmet to the boots with a plain smiling face and nothing else on him, which makes him the plainest villain here - no scar, no visor, no marking, no story yet beyond the job. Say more about him and he will take it."
+  },
+
+
+
+  {
+    id: "the-famous-poacher",
+    name: "The Famous Poacher",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Smuggler",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Famous for it - a poacher and a smuggler both, and he worked with the " +
+      "arms dealer.",
+    provenance:
+      "Brown wide-brimmed hat over a stubbled face with heavy brows and a " +
+      "small hard mouth. White shirt printed with an orange spine down the " +
+      "centre and black ribs curving off it, two pale fangs hung at the " +
+      "throat, brown legs and a pale cloth cape.",
+    tags: ["villain", "poacher", "smuggler", "famous", "trophies", "arms-trade"],
+    images: ["images/the-famous-poacher-01.jpg"],
+    acquired: "",
+    notes: "Third poacher on the villain side, and the pattern is now hard to miss: the Modified Arms Dealer used to be one and went into weapons, the Hitman was one and went into killing people, and this one stayed in it and added smuggling. Nothing connects any of the three. No link written to the arms dealer either, because there are two of them and you did not say which - though the Modified one is the ex-poacher, which makes him the obvious guess. One word picks. His shirt is ribs and fangs, which is the third villain here wearing something taken off what he killed, after the Red Baron and the Hitman."
+  },
+
+
+  {
+    id: "the-looter",
+    name: "The Looter",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-defector-commander", label: "Loyal to" },
+    ],
+    rating: 0,
+    background:
+      "The Defector Commander\'s loyal man. When the commander walked a whole " +
+      "squadron into a chamber and had it gassed, this is who went in " +
+      "afterwards and stripped the bodies of everything they were carrying.\n\n" +
+      "Then the two of them left for Quinn\'s super base with the lot.",
+    provenance:
+      "Black peaked cap over a pale, lined face with orange scarring down one " +
+      "cheek and a flat mouth. White clone chest armour with a blue pauldron " +
+      "sitting across both shoulders, blue sleeves into black hands, white " +
+      "legs with a black hip.",
+    tags: ["villain", "looter", "soldier", "massacre", "loyal", "quinn", "pauldron"],
+    images: ["images/the-looter-01.jpg"],
+    acquired: "",
+    notes: "The Defector Commander\'s card ended by saying there was a man unaccounted for in his story - the loyal one who stripped the bodies. This is him, and the link is live. Worth saying plainly what the job was: the killing was the commander\'s idea and this man\'s whole recorded contribution is what he did to the dead afterwards. Nothing else about him is written down yet."
+  },
+
+
+  {
+    id: "the-french-hitman",
+    name: "The French Hitman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Hitman",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A hitman, and he has a French accent.",
+    provenance:
+      "Dark brown hair over a yellow face with a thin curled moustache and a " +
+      "small pursed mouth. Black double-breasted suit printed with a pale " +
+      "grey shirt and a red tie, black legs, one yellow hand. He is carrying " +
+      "something long and black at his side.",
+    tags: ["villain", "hitman", "french", "suit", "moustache", "assassin"],
+    images: ["images/the-french-hitman-01.jpg"],
+    acquired: "",
+    notes: "Named apart from the Hitman only because that name is taken - the other one is the ex-poacher. This is the second man in this collection whose whole card turns on how he sounds rather than what he has done: the only other one is the Wookiee, and he cannot talk. The suit puts him with the Arms Dealer, who keeps the accounts in a waistcoat, as the second villain here dressed for an office."
+  },
+
+
+  {
+    id: "the-blue-demigod",
+    name: "The Blue Demigod",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Demigod",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A demigod of the blue people, who are the portal masters of this world " +
+      "- their magic and their essence open ways into other dimensions.\n\n" +
+      "He came through a portal, uninvited, and brought a blue army with him. " +
+      "What he wanted was not a side. He wanted the shadow and light war " +
+      "stopped, and his method was to go at whichever of the two was winning " +
+      "and wreck it. A third party in somebody else\'s war, doing damage to " +
+      "both expansions on purpose.",
+    provenance:
+      "Blue from the crown down - a bare blue head with no face printed on it, " +
+      "blue torso, blue arms, blue hands and blue legs, with no marking " +
+      "anywhere on him.",
+    tags: ["villain", "demigod", "blue-people", "portal-masters", "dimensions", "third-party", "shadow-war", "unprinted", "faceless"],
+    images: ["images/the-blue-demigod-01.jpg"],
+    acquired: "",
+    notes: "Two large things arrive with him. He is the first figure in the collection with a rank who is not on the good side - eleven people carry one and every other one of them belongs to the creation mythos. And the blue people are a whole civilization nobody had described: portal masters, who make the ways between dimensions this world has always used without saying who built them. Read it against Kenjen, who brought down an evil blue civilization with the old man clone and his robot, and whose card says that story has a great deal more to it. That civilization is the last antagonist left on the not-yet-photographed list. Whether these are them is the single biggest open question in the catalogue, and you have not said - so nothing is written. Fourth faceless figure here, after the Man from the Yellow Dimension, the Light King and the Shadow Sorcerer, and the fourth monochrome one standing for a whole realm."
+  },
+
+
+  {
+    id: "the-evil-knight",
+    name: "The Evil Knight",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Knight",
+    group: "",
+    location: "The Medieval Era",
+    relations: [
+      { to: "the-knight-with-the-real-sword", label: "Helped make his sword" },
+      { to: "the-swordsmith-knight", label: "Made the swords with him" },
+    ],
+    rating: 0,
+    background:
+      "The third pair of hands on the swords that kill for real in the " +
+      "medieval realm.\n\n" +
+      "Swords, now - more than one of them was made.",
+    provenance:
+      "A translucent red visored helm lit from inside, with flared side vanes " +
+      "and a black eye panel, over a grey moulded pauldron and cape. Dark " +
+      "armour beneath, silver legs streaked with pale blue.",
+    tags: ["villain", "knight", "medieval", "smith", "real-death", "swords", "translucent"],
+    images: ["images/the-evil-knight-01.jpg"],
+    acquired: "",
+    notes: "Three men now on one weapon, and the weapon has become weapons. The rule in that realm is that dying costs you your armour and not your life, which is the whole reason going to war there is bearable; what these three made breaks it, and the first of them carried his blade around pretending he did not know what it did. Who commissioned the work is still the open question. He looks nothing like the other two - they are painted surcoats and nasal helms and he is a lit visor over moulded plate - so whether he is of that realm at all, or somebody who came to it, is worth saying."
   },
 
 

@@ -225,8 +225,16 @@ window.LORE = [
   {
     title: "Named but not yet seen",
     text:
-      "Antagonists the stories point at and nobody has photographed: the evil " +
-      "blue civilization that Kenjen helped bring down.\n\n" +
+      "One antagonist is left on this list, and it may have just arrived. The " +
+      "evil blue civilization that Kenjen brought down, with the old man clone " +
+      "and the old man clone\'s robot, in a story his card says has a great " +
+      "deal more to it.\n\n" +
+      "A blue demigod has now been catalogued, of a blue people who are the " +
+      "portal masters of this world, and he came through a portal with a blue " +
+      "army behind him. Whether they are the same blue civilization has not " +
+      "been said, so nothing is written. It is the single biggest open " +
+      "question in the catalogue: if they are, this list empties completely " +
+      "for the first time.\n\n" +
       "Three names came off this list in quick succession - Quinn, the Shadow " +
       "King and the Purple Shadow - and with the last of them the catalogue " +
       "hit something it had never managed before. Every person referred to by " +
@@ -349,7 +357,12 @@ window.LORE = [
       "properly, while nobody knew that was what was happening. They are the " +
       "only two people in this collection who have killed anybody in the one " +
       "place killing was not possible.\n\n" +
-      "Who commissioned the sword is still open. There is exactly one other " +
+      "There is a third man on it, and it is swords now rather than a sword. " +
+      "More than one was made. He looks nothing like the other two - they are " +
+      "painted surcoats and nasal helms, and he is a lit red visor over " +
+      "moulded plate - so whether he is of that realm or came to it is not " +
+      "settled either.\n\n" +
+      "Who commissioned the work is still open. There is exactly one other " +
       "person in the medieval era who works metal, and he is filed good."
   },
 
@@ -931,6 +944,32 @@ window.LORE = [
       "two of them the family name is known across the galaxy for being heroic " +
       "and brave. Her card still reads exactly as it did.\n\n" +
       "Nobody has said what she knows about how her father actually died."
+  },
+
+  {
+    title: "The blue people",
+    text:
+      "A whole civilization arrived in one card, and it answers something the " +
+      "world has been using without explaining for a very long time.\n\n" +
+      "The blue people are the portal masters. Their magic and their essence " +
+      "are what open ways into other dimensions.\n\n" +
+      "This world has always been full of doors. A trickster god pilots an " +
+      "interdimensional boat and goes out to collect the lost and the " +
+      "abandoned. A second man pilots another and lives in the space between " +
+      "worlds without ever crossing. The Purple Shadow opened a portal to the " +
+      "shadow dimension so that Quinn could get through it. The Discarded and " +
+      "the Damaged came here from other people\'s civilizations. Nobody had " +
+      "ever said who makes the doors, or that anybody does.\n\n" +
+      "The one who has been photographed is a demigod of theirs, and he came " +
+      "through uninvited with an army. He is not on a side. He wanted the " +
+      "shadow and light war stopped, and his method was to go at whichever of " +
+      "the two was winning and wreck it - damage to both expansions, on " +
+      "purpose.\n\n" +
+      "He is also the first ranked figure in this collection who is not one of " +
+      "the good. Eleven people here carry a rank - the First Man, three " +
+      "Demigods, three Mortals, four Cosmic Deities - and until now every " +
+      "single one of them belonged to the creation mythos. The ladder had only " +
+      "ever been climbed from one side."
   }
 
 ];
