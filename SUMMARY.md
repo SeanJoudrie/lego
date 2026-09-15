@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-484 characters from a custom LEGO minifigure world, in the order they were
+488 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -200,6 +200,16 @@ The rule is that a lost figure is a dead one. They are not written out or quietl
 It does uncomfortable things to the timeline - people who were alive in one story are dead in this one - and the instruction is to ignore that. The deaths stand.
 
 Four of the first seven are Space Militia. That unit already carried the collection's heaviest loss, the General's adopted son, whose death is the reason the militia has the safety culture it has. It has now lost more men than anybody else here, twice over: once in the world, and once in the real room where the collection lives.
+
+### The elves
+
+The elf people have been in this world since the Elf Knight was catalogued. He is a Royal Knight and an elf human, with his own ties to them, and for a long stretch of this collection that was the whole of it: a people referred to by one man and never seen.
+
+They have a face now. The Elf Man is the first elf ever photographed here - and he arrived among the figures lost to time, which means the first elf in the record is a dead one.
+
+Nothing about him is elven in the moulding. Ordinary head, ordinary hair. He is an elf because you said he is, the same way the Elf Knight is, and that is how this world has always decided what someone is.
+
+No tie is written between the two of them. The Knight has ties to the elves as a people, which is not the same as having met this particular man, and this catalogue only connects people who have actually crossed paths.
 
 ---
 
@@ -5487,6 +5497,54 @@ Two of the power miners. Lost, and dead.
 *How it was got:* Blue helmets with the ear guards down, one with the clear visor pulled over it. Blue working overalls - one in a plain bib with a pencil in the pocket, the other in a harnessed vest hung with tools - over blue legs. A streak of red hair shows under one helmet.
 
 *Tags:* power-miner, lost, deceased, overalls, helmet
+
+### 485. The Discarded in the Blue Cap
+
+**Alignment:** good · **Role:** Discarded · **Figure:** custom
+
+One of the Discarded - thrown away in another civilization and given refuge in this one. Lost, and dead.
+
+*How it was got:* Blue cap with the ear flaps down, a yellow face with a sharp goatee and an angry set to the brow. Orange jacket with a diagonal zip and a torn grey panel at the shoulder, carrying a round badge of a black crown in flame. Reddish-brown legs, black hands.
+
+The badge is not a marking anyone else in this collection wears, and I could not place the set it came from.
+
+*Tags:* discarded, refugee, lost, deceased, cap, goatee
+
+### 486. The Elf Man
+
+**Alignment:** good · **Role:** Elf · **Figure:** custom
+
+An elf. The first one ever photographed for this collection - and he is lost, and dead.
+
+The elf people have been in this world since the Elf Knight was catalogued, referred to and never seen. This is the only face any of them has.
+
+*How it was got:* Long dark hair swept back off the face, a plain yellow head with a half-smile and one raised eyebrow. Pale tan open vest over a grey shirt, black arms, dark grey hands, reddish-brown legs.
+
+Nothing about the moulding is elven - it is an ordinary head and an ordinary hairpiece. He is an elf because you said he is.
+
+*Tags:* elf, lost, deceased, long-hair, vest
+
+### 487. The Long Shot Bowman
+
+**Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
+
+An archer of the Royal Knights, and a long shot. Lost, and dead.
+
+*How it was got:* Broad-brimmed steel kettle helm over a mail coif, a dark face with a black beard. Mail shirt crossed by tan leather straps and a buckled belt, red arms, mail leggings printed over pale surcoat tails.
+
+*Tags:* knight, archer, bow, medieval, royal-knights, lost, deceased, kettle-helm
+
+### 488. The Lost Pirates — Two of them
+
+**Alignment:** good · **Role:** Pirate · **Figure:** custom
+
+Two of the crew. Lost, and dead.
+
+*How it was got:* One in a dark green knit cap, bare-chested under an open brown waistcoat with three white buttons, an anchor inked over his heart and a chain at his neck, green legs.
+
+The other in a blue headscarf, moustached and heavily freckled, in a red and white striped shirt over a wide belt and pale grey legs. He was photographed lying on his side.
+
+*Tags:* pirate, crew, lost, deceased, tattoo, anchor, stripes
 
 ---
 

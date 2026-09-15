@@ -7577,7 +7577,7 @@ window.COLLECTION = [
     tags: ["knight", "elf", "half-elf", "medieval", "royal-knights", "kinship"],
     images: ["images/the-elf-knight-01.jpg"],
     acquired: "",
-    notes: "Placeholder name. First mention of elves anywhere in the collection - the world already had dwarves, gnomes, several alien species and a viking, and it turns out it has elves too. He is the tie to them and none of them are photographed yet."
+    notes: "Placeholder name. First mention of elves anywhere in the collection - the world already had dwarves, gnomes, several alien species and a viking, and it turns out it has elves too. He is the tie to them, and for a long time none of them were photographed - until the Elf Man turned up among the lost."
   },
 
 
@@ -12914,7 +12914,7 @@ window.COLLECTION = [
     tags: ["space-militia", "lost", "deceased", "civilian-dress", "headset"],
     images: [{ src: "images/the-militiamen-out-of-armour-01.jpg", caption: "Both of them" }],
     acquired: "",
-    notes: "Four of the seven lost figures are Space Militia, across three cards, which is a hard thing to notice - of every unit in this collection, the militia is the one that actually lost people. The General lost his adopted son too, and that death is why the whole outfit has the safety culture it has."
+    notes: "Four of the twelve lost figures are Space Militia, across three cards, which is a hard thing to notice - of every unit in this collection, the militia is the one that actually lost people. The General lost his adopted son too, and that death is why the whole outfit has the safety culture it has."
   },
 
 
@@ -12941,6 +12941,125 @@ window.COLLECTION = [
     images: [{ src: "images/the-lost-miners-01.jpg", caption: "Both of them" }],
     acquired: "",
     notes: "The mining crew is eight now, and two of the eight are gone. Their blue is a different blue from the six who survive - lighter, and in overalls rather than the grey and blue harnesses the others wear - so they read as an earlier generation of the crew."
+  },
+
+
+
+  {
+    id: "the-discarded-in-the-blue-cap",
+    name: "The Discarded in the Blue Cap",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Discarded",
+    group: "The Discarded",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the Discarded - thrown away in another civilization and given " +
+      "refuge in this one. Lost, and dead.",
+    provenance:
+      "Blue cap with the ear flaps down, a yellow face with a sharp goatee and " +
+      "an angry set to the brow. Orange jacket with a diagonal zip and a torn " +
+      "grey panel at the shoulder, carrying a round badge of a black crown in " +
+      "flame. Reddish-brown legs, black hands.\n\n" +
+      "The badge is not a marking anyone else in this collection wears, and I " +
+      "could not place the set it came from.",
+    tags: ["discarded", "refugee", "lost", "deceased", "cap", "goatee"],
+    images: ["images/the-discarded-in-the-blue-cap-01.jpg"],
+    acquired: "",
+    notes: "The first of the Discarded to be lost. That group is five now and one of the five is gone, which lands differently than it would anywhere else - these are people who were thrown away once already and taken in, and this one did not get to stay either."
+  },
+
+
+  {
+    id: "the-elf-man",
+    name: "The Elf Man",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Elf",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An elf. The first one ever photographed for this collection - and he is " +
+      "lost, and dead.\n\n" +
+      "The elf people have been in this world since the Elf Knight was " +
+      "catalogued, referred to and never seen. This is the only face any of " +
+      "them has.",
+    provenance:
+      "Long dark hair swept back off the face, a plain yellow head with a " +
+      "half-smile and one raised eyebrow. Pale tan open vest over a grey shirt, " +
+      "black arms, dark grey hands, reddish-brown legs.\n\n" +
+      "Nothing about the moulding is elven - it is an ordinary head and an " +
+      "ordinary hairpiece. He is an elf because you said he is.",
+    tags: ["elf", "lost", "deceased", "long-hair", "vest"],
+    images: ["images/the-elf-man-01.jpg"],
+    acquired: "",
+    notes: "The payoff on a thread that has been open a long time: the Elf Knight has ties to the elf people of this world and not one of them had ever been photographed. Now one has, and he is dead. No link written between the two - the Knight has ties to the elves as a people, which is not the same as having met this man. Say they knew each other and they connect."
+  },
+
+
+  {
+    id: "the-long-shot-bowman",
+    name: "The Long Shot Bowman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Archer",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "An archer of the Royal Knights, and a long shot. Lost, and dead.",
+    provenance:
+      "Broad-brimmed steel kettle helm over a mail coif, a dark face with a " +
+      "black beard. Mail shirt crossed by tan leather straps and a buckled " +
+      "belt, red arms, mail leggings printed over pale surcoat tails.",
+    tags: ["knight", "archer", "bow", "medieval", "royal-knights", "lost", "deceased", "kettle-helm"],
+    images: ["images/the-long-shot-bowman-01.jpg"],
+    acquired: "",
+    notes: "Named the way you named him. Fifth ranged man among the Royal Knights - four bows and a crossbow across eighteen of them - and the only one of the eighteen who is dead."
+  },
+
+
+  {
+    id: "the-lost-pirates",
+    name: "The Lost Pirates",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate",
+    group: "The Pirate Crew",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two of the crew. Lost, and dead.",
+    provenance:
+      "One in a dark green knit cap, bare-chested under an open brown waistcoat " +
+      "with three white buttons, an anchor inked over his heart and a chain at " +
+      "his neck, green legs.\n\n" +
+      "The other in a blue headscarf, moustached and heavily freckled, in a red " +
+      "and white striped shirt over a wide belt and pale grey legs. He was " +
+      "photographed lying on his side.",
+    tags: ["pirate", "crew", "lost", "deceased", "tattoo", "anchor", "stripes"],
+    images: [
+      { src: "images/the-lost-pirates-01.jpg", caption: "The anchor tattoo" },
+      { src: "images/the-lost-pirates-02.jpg", caption: "The striped shirt" },
+    ],
+    acquired: "",
+    notes: "One card because you sent them as a pair, but they were photographed separately and split cleanly if you want two. The first shares the anchor tattoo with the Tattooed Pirate, who is alive and in the same crew - either the same ink twice or the same man in a second photograph, and you would know which. The crew is six now and two of the six are gone."
   },
 
 

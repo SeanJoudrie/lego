@@ -334,6 +334,25 @@ window.LORE = [
       "is the reason the militia has the safety culture it has. It has now " +
       "lost more men than anybody else here, twice over: once in the world, " +
       "and once in the real room where the collection lives."
+  },
+
+  {
+    title: "The elves",
+    text:
+      "The elf people have been in this world since the Elf Knight was " +
+      "catalogued. He is a Royal Knight and an elf human, with his own ties " +
+      "to them, and for a long stretch of this collection that was the whole " +
+      "of it: a people referred to by one man and never seen.\n\n" +
+      "They have a face now. The Elf Man is the first elf ever photographed " +
+      "here - and he arrived among the figures lost to time, which means the " +
+      "first elf in the record is a dead one.\n\n" +
+      "Nothing about him is elven in the moulding. Ordinary head, ordinary " +
+      "hair. He is an elf because you said he is, the same way the Elf Knight " +
+      "is, and that is how this world has always decided what someone is.\n\n" +
+      "No tie is written between the two of them. The Knight has ties to the " +
+      "elves as a people, which is not the same as having met this particular " +
+      "man, and this catalogue only connects people who have actually crossed " +
+      "paths."
   }
 
 ];
