@@ -228,6 +228,8 @@ window.COLLECTION = [
     group: "The Royal Household",
     location: "The Royal Palace",
     relations: [
+      { to: "the-princes-cousin", label: "Cousin of" },
+      { to: "the-princes-impersonator", label: "Impersonated by" },
       { to: "kenjen", label: "Loyal to him" },
       { to: "jimzon", label: "Loyal to him" },
       { to: "king-arthur", label: "Follows him" },
@@ -5854,6 +5856,128 @@ window.COLLECTION = [
     images: ["images/the-blue-spaceman-01.jpg"],
     acquired: "",
     notes: "Placeholder name. The plainest space figure here, and the only one wearing the original Lego Space badge rather than a militia, police or squadron marking."
+  },
+
+
+
+  {
+    id: "santa-claus",
+    name: "Santa Claus",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Christmas",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Literally Santa Claus.",
+    provenance: "A genuine Lego Santa - the old moulded beard, red cap, black belt.",
+    tags: ["santa", "christmas", "branded", "visitor"],
+    images: ["images/santa-claus-01.jpg"],
+    acquired: "",
+    notes: "Filed branded, like Tony Stark and Batman, because he is literally himself rather than a character built to look like somebody. He is the only branded figure here who comes from no franchise at all, which is why Christmas is a theme now."
+  },
+
+
+  {
+    id: "the-two-peas-in-a-pod",
+    name: "The Two Peas in a Pod",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Greengrocer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two peas in a pod. They sell healthy food.",
+    provenance: "",
+    tags: ["peas", "costume", "healthy-food", "grocer", "pair"],
+    images: ["images/the-two-peas-in-a-pod-01.jpg"],
+    acquired: "",
+    notes: "One box because they share a photo. Third costume in the collection after the bunny suits and the pizza, and the first where the costume is the job - the other two are wearing theirs for Easter and for no reason at all."
+  },
+
+
+  {
+    id: "the-spaceship-racer",
+    name: "The Spaceship Racer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Racing Driver",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A spaceship racer.",
+    provenance: "Helmet off and set down beside him, number 3 on the side of it.",
+    tags: ["racing", "spaceship", "racer", "helmet", "number-3"],
+    images: ["images/the-spaceship-racer-01.jpg"],
+    acquired: "",
+    notes: "Shares the Racing Driver role with the Ferrari Driver, who races on the ground. Only figure here photographed with a piece of his own gear taken off and stood next to him."
+  },
+
+
+  {
+    id: "the-princes-cousin",
+    name: "The Prince's Cousin",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "The Royal Household",
+    location: "",
+    relations: [
+      { to: "the-prince", label: "Cousin of" },
+      { to: "the-princes-impersonator", label: "Told apart by the haircut" },
+    ],
+    rating: 0,
+    background:
+      "Cousin to the Prince, which gives him real standing.\n\n" +
+      "He just wants to be a stuntman.",
+    provenance: "",
+    tags: ["royal", "cousin", "ginger", "stuntman", "status", "wants-out"],
+    images: ["images/the-princes-cousin-01.jpg"],
+    acquired: "",
+    notes: "In the Royal Household because standing is a fact and not a preference, however little he wants it. Wearing the same suit and cape as the Prince's Impersonator, which is the joke of the pair: this one has the blood and wants the stunts, that one has the stunts and fakes the blood."
+  },
+
+
+  {
+    id: "the-princes-impersonator",
+    name: "The Prince's Impersonator",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Stuntman",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-prince", label: "Impersonates" },
+      { to: "the-princes-cousin", label: "Told apart by the haircut" },
+    ],
+    rating: 0,
+    background:
+      "A stuntman who goes about pretending to be the Prince. It is marketing - " +
+      "the Elvis impersonator arrangement.\n\n" +
+      "They look very much alike. The haircut is how you tell them apart.",
+    provenance: "",
+    tags: ["stuntman", "impersonator", "marketing", "lookalike", "elvis"],
+    images: ["images/the-princes-impersonator-01.jpg"],
+    acquired: "",
+    notes: "Second stunt performer here, after the Stunt Driver, and the only one whose act is being somebody else. Not put in the Royal Household - looking like the Prince is not belonging to him."
   },
 
 

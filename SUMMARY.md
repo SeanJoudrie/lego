@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-212 characters from a custom LEGO minifigure world, in the order they were
+217 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -265,7 +265,7 @@ He started out as a senator in the earliest days of the Senate, in a purple T-sh
 
 He is a much better king now, and genuinely useful. He still sometimes wonders what makes him so special. The real answer is just that he has a good heart. He is not the super mega ultra genius politician. He genuinely just has a good heart.
 
-*Connections:* Loyal to him Kenjen · Loyal to him Jimzon · Follows him King Arthur · Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief
+*Connections:* Cousin of The Prince's Cousin · Impersonated by The Prince's Impersonator · Loyal to him Kenjen · Loyal to him Jimzon · Follows him King Arthur · Married to The Space Princess · Father of The Royal Sons · Father of The Royal Daughter · Brother of The Outcast Prince · Pushed into the Senate by The Palace Chief
 
 *Tags:* royal-family, king, senator, married, good-heart
 
@@ -2607,6 +2607,58 @@ A blue spaceman.
 *How it was got:* The classic Lego Space figure, planet-and-rocket logo on the chest, blue from helmet to boots. One of the oldest designs in the collection.
 
 *Tags:* spaceman, classic-space, blue, astronaut, vintage
+
+### 213. Santa Claus
+
+**Alignment:** good · **Figure:** branded
+
+Literally Santa Claus.
+
+*How it was got:* A genuine Lego Santa - the old moulded beard, red cap, black belt.
+
+*Tags:* santa, christmas, branded, visitor
+
+### 214. The Two Peas in a Pod — Two of them
+
+**Alignment:** good · **Role:** Greengrocer · **Figure:** custom
+
+Two peas in a pod. They sell healthy food.
+
+*Tags:* peas, costume, healthy-food, grocer, pair
+
+### 215. The Spaceship Racer
+
+**Alignment:** good · **Role:** Racing Driver · **Figure:** custom
+
+A spaceship racer.
+
+*How it was got:* Helmet off and set down beside him, number 3 on the side of it.
+
+*Tags:* racing, spaceship, racer, helmet, number-3
+
+### 216. The Prince's Cousin
+
+**Alignment:** good · **Figure:** custom
+
+Cousin to the Prince, which gives him real standing.
+
+He just wants to be a stuntman.
+
+*Connections:* Cousin of The Prince · Told apart by the haircut The Prince's Impersonator
+
+*Tags:* royal, cousin, ginger, stuntman, status, wants-out
+
+### 217. The Prince's Impersonator
+
+**Alignment:** good · **Role:** Stuntman · **Figure:** custom
+
+A stuntman who goes about pretending to be the Prince. It is marketing - the Elvis impersonator arrangement.
+
+They look very much alike. The haircut is how you tell them apart.
+
+*Connections:* Impersonates The Prince · Told apart by the haircut The Prince's Cousin
+
+*Tags:* stuntman, impersonator, marketing, lookalike, elvis
 
 ---
 
