@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-697 characters from a custom LEGO minifigure world, in the order they were
+700 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -718,6 +718,18 @@ Marvel went over faster than any of it. Six Marvel figures were catalogued here 
 Then a licence turned up that never had a good side to lose. Seventeen licences have figures here and sixteen of them opened with somebody good - Luke, Tony Stark, Bruce Wayne, Woody, Kai, Sokka, Goku, all of them. Lord of the Rings opened with Gollum, and has nobody else in it at all.
 
 So the shape has changed. The enemy used to be entirely home-made and the famous people were decoration. They are not decoration any more. They have a chain of command, and at the top of it is a man with four names under him.
+
+### The hand on the plastic
+
+Six clone figures in this collection have their markings put on by hand instead of printed. That started as a curiosity on one card and has quietly turned into the best physical evidence in the catalogue of who the Damaged and the Discarded are.
+
+The Clone Captain was drawn over in dark purple marker. He is one of the Discarded - made as a throwaway in somebody else's civilization - and he took a commission in the clone army, where every man under him was grown for the job while he simply turned up. The Discarded Commander is coloured in orange over Phase 1 armour, and he came the same route, which is what turned that crossing from a one-off into a route. The Painted Clone Commander is proper brushwork rather than marker, and his card says only that he came from somebody else and was given away, which is the Discarded's own definition without the word.
+
+Now three soldiers have arrived together, all three worked over by hand, handed in as belonging to the Damaged or the Discarded - the two names given together, with nothing to say which.
+
+So it holds at six for six. Every hand-marked figure in this collection that has a story attached came out of somebody else's world. The Activist put it plainly on his own card a long time ago: he was never painted by his owner, somebody was destroying these figures, and he was salvaged out of it. The marks are not decoration and they are not a paint job. They are what was done to them, and they are how you tell.
+
+Which leaves the question the new three are sitting on. The Discarded were made as throwaways and the Damaged were destroyed and abused - two different peoples with two different injuries. The marks look like the second and the precedent points at the first, and until somebody says, the group field on that card stays empty.
 
 ---
 
@@ -8106,7 +8118,45 @@ A clone scout trooper, in black.
 
 *Tags:* villain, star-wars, branded, clone, trooper, scout, helmet, black
 
-### 666. The Militiaman in the Black Helm
+### 666. The Marked Soldiers — Three of them
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+Three soldiers of the Damaged, or of the Discarded - you gave the two names together with a slash between them, so the catalogue is not picking one on its own.
+
+Whichever they belong to, they are the first fighting men either of those peoples has put on a card.
+
+*How it was got:* Three clone bodies, none of them printed where it counts - every marking on all three was put on by hand.
+
+The first wears a white recon helmet with the visor up and a real face showing through it, eyebrows and all, the whole dome scribbled over in black and grey. Grey arms, and a torso worked so hard in black and purple that the print underneath is gone. Purple smears on both thighs.
+
+The second is Phase 1 armour: the crown of the helmet scorched brown and black over the white, a black chevron drawn down the face, and one long purple stroke laid diagonally across the chest. Black arms. Both legs blotched dark from hip to boot.
+
+The third has the helmet coloured in blue and black almost to the edges, a yellow neck showing beneath it, a torso scrawled over in black and the legs darkened right down with a band of teal at each knee.
+
+*Tags:* damaged, discarded, soldier, clone, hand-marked, custom, refugee, star-wars
+
+### 667. Doc Ock
+
+**Alignment:** bad · **Figure:** custom
+
+Doctor Octopus, built rather than bought.
+
+*How it was got:* A dark grey helmet with a ribbed hose running round the jaw and a short nozzle standing out from the chest, red round goggles over a pale face with the teeth bared. A black torso printed with silver plating and magenta panels at the ribs. Black arms, pale hands, plain brown legs with nothing on them. No moulded arms and no tentacles anywhere - the character is assembled out of parts that were never his.
+
+*Tags:* villain, marvel, custom, doctor, cyborg, goggles, built
+
+### 668. The Brainwashed Assassin
+
+**Alignment:** bad · **Role:** Assassin · **Figure:** custom
+
+A cyborg assassin who was brainwashed into it. The work is his; the decision to do it was not.
+
+*How it was got:* A plain grey helmet with a dark visor, and behind it a yellow face with a grey breathing plate over the mouth and one eye ringed in orange - the other is uncovered. A black and silver torso printed with cabling and red lines running loose across the chest, one arm grey and one black. Deep red legs strapped over with pale bindings crossed at the thigh.
+
+*Tags:* villain, assassin, cyborg, brainwashed, custom, helmet, masked
+
+### 669. The Militiaman in the Black Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -8120,7 +8170,7 @@ Photographed off an old video rather than in hand, because there is no hand to p
 
 *Tags:* space-militia, lost, deceased, helmet, sunglasses
 
-### 667. The Militiaman in the Red Helm
+### 670. The Militiaman in the Red Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -8130,7 +8180,7 @@ Space Militia. Lost, and dead.
 
 *Tags:* space-militia, lost, deceased, rifle, scarred
 
-### 668. The Ranger Patrol Captain
+### 671. The Ranger Patrol Captain
 
 **Alignment:** good · **Role:** Patrol Captain · **Figure:** custom
 
@@ -8140,7 +8190,7 @@ A patrol captain of the rangers. Lost, and dead.
 
 *Tags:* green-rangers, ranger, captain, lost, deceased, camouflage
 
-### 669. The Militiamen Out of Armour — Two of them
+### 672. The Militiamen Out of Armour — Two of them
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -8152,7 +8202,7 @@ Photographed together, on a table, years ago.
 
 *Tags:* space-militia, lost, deceased, civilian-dress, headset
 
-### 670. The Lost Miners — Two of them
+### 673. The Lost Miners — Two of them
 
 **Alignment:** good · **Role:** Power Miner · **Figure:** custom
 
@@ -8162,7 +8212,7 @@ Two of the power miners. Lost, and dead.
 
 *Tags:* power-miner, lost, deceased, overalls, helmet
 
-### 671. The Discarded in the Blue Cap
+### 674. The Discarded in the Blue Cap
 
 **Alignment:** good · **Role:** Discarded · **Figure:** custom
 
@@ -8174,7 +8224,7 @@ The badge is not a marking anyone else in this collection wears, and I could not
 
 *Tags:* discarded, refugee, lost, deceased, cap, goatee
 
-### 672. The Elf Man
+### 675. The Elf Man
 
 **Alignment:** good · **Role:** Elf · **Figure:** custom
 
@@ -8188,7 +8238,7 @@ Nothing about the moulding is elven - it is an ordinary head and an ordinary hai
 
 *Tags:* elf, lost, deceased, long-hair, vest
 
-### 673. The Long Shot Bowman
+### 676. The Long Shot Bowman
 
 **Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
 
@@ -8198,7 +8248,7 @@ An archer of the Royal Knights, and a long shot. Lost, and dead.
 
 *Tags:* knight, archer, bow, medieval, royal-knights, lost, deceased, kettle-helm
 
-### 674. The Lost Pirates — Two of them
+### 677. The Lost Pirates — Two of them
 
 **Alignment:** good · **Role:** Pirate · **Figure:** custom
 
@@ -8210,7 +8260,7 @@ The other in a blue headscarf, moustached and heavily freckled, in a red and whi
 
 *Tags:* pirate, crew, lost, deceased, tattoo, anchor, stripes
 
-### 675. The Lost Aqua Diver
+### 678. The Lost Aqua Diver
 
 **Alignment:** good · **Role:** Aqua Force · **Figure:** custom
 
@@ -8220,7 +8270,7 @@ Aqua Force - the service that handles any military necessity involving going und
 
 *Tags:* aqua-force, underwater, diver, trident, lost, deceased, scarred
 
-### 676. The Gungan Jedi
+### 679. The Gungan Jedi
 
 **Alignment:** good · **Role:** Jedi · **Figure:** custom
 
@@ -8234,7 +8284,7 @@ The robe is not a piece I could place. Photographed off an old video rather than
 
 *Tags:* star-wars, gungan, jedi, alien, cape, lost, deceased
 
-### 677. The Alien Professor
+### 680. The Alien Professor
 
 **Alignment:** good · **Role:** Professor · **Figure:** custom
 
@@ -8246,7 +8296,7 @@ The frame is too soft to make out the piece. This is as much as the video gives.
 
 *Tags:* alien, professor, academic, moulded-head, robes, lost, deceased
 
-### 678. The Lost Soccer Player
+### 681. The Lost Soccer Player
 
 **Alignment:** good · **Role:** Athlete · **Figure:** custom
 
@@ -8256,7 +8306,7 @@ A soccer player. Lost, and dead.
 
 *Tags:* soccer, football, athlete, sport, kit, lost, deceased
 
-### 679. The Astronaut Soldier
+### 682. The Astronaut Soldier
 
 **Alignment:** good · **Role:** Astronaut Soldier · **Figure:** custom
 
@@ -8266,7 +8316,7 @@ An astronaut, and a soldier. Lost, and dead.
 
 *Tags:* astronaut, soldier, space, helmet, lost, deceased
 
-### 680. The Airline Pilot
+### 683. The Airline Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** custom
 
@@ -8276,7 +8326,7 @@ An airline pilot. Lost, and dead.
 
 *Tags:* pilot, airline, civilian, uniform, cap, lost, deceased
 
-### 681. The Hooded Ranger
+### 684. The Hooded Ranger
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -8286,7 +8336,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, hood, balaclava, lost, deceased
 
-### 682. The Blue Space Captain
+### 685. The Blue Space Captain
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -8298,7 +8348,7 @@ The badge is the Galactic Republic cog, so the pieces are out of a Star Wars pil
 
 *Tags:* captain, space, pilot, goggles, headset, lost, deceased
 
-### 683. The Nude Aliens — Two of them
+### 686. The Nude Aliens — Two of them
 
 **Alignment:** good · **Figure:** custom
 
@@ -8310,7 +8360,7 @@ The other is green throughout with a moulded head - a scaled, gaping fish-like f
 
 *Tags:* alien, nude, unprinted, moulded-head, lost, deceased
 
-### 684. The Engine Technician
+### 687. The Engine Technician
 
 **Alignment:** good · **Role:** Technician · **Figure:** custom
 
@@ -8320,7 +8370,7 @@ One of the engine technicians. Lost, and dead.
 
 *Tags:* technician, engines, space-programme, helmet, lost, deceased
 
-### 685. The Ranger in the Olive Helm
+### 688. The Ranger in the Olive Helm
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -8330,7 +8380,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, helmet, field-jacket, lost, deceased
 
-### 686. The Lost Golden Rifleman
+### 689. The Lost Golden Rifleman
 
 **Alignment:** good · **Role:** Rifleman · **Figure:** branded
 
@@ -8342,7 +8392,7 @@ Too soft a frame to tell Phase 1 from Phase 2, or to read the unit markings the 
 
 *Tags:* star-wars, clone, trooper, rifleman, golden-company, rifle, lost, deceased, branded
 
-### 687. The Saxophone Player
+### 690. The Saxophone Player
 
 **Alignment:** good · **Role:** Musician · **Figure:** custom
 
@@ -8354,7 +8404,7 @@ Photographed standing on wet sand with the sea behind him and his own reflection
 
 *Tags:* musician, saxophone, music, cool, sunglasses, lost, deceased
 
-### 688. The Old Verdauf Soldier
+### 691. The Old Verdauf Soldier
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -8366,7 +8416,7 @@ He is built off white blocks below the waist rather than printed legs.
 
 *Tags:* verdauf, squadron, soldier, veteran, beard, white-armor, lost, deceased
 
-### 689. The Blue Pirate Thug
+### 692. The Blue Pirate Thug
 
 **Alignment:** good · **Role:** Thug · **Figure:** custom
 
@@ -8376,7 +8426,7 @@ A pirate thug. The uniform he is wearing is not his - he stole it. Lost, and dea
 
 *Tags:* thug, pirate, stolen-uniform, respirator, blue, lost, deceased
 
-### 690. The Space Captain Lady
+### 693. The Space Captain Lady
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -8388,7 +8438,7 @@ It is the same uniform the Blue Space Captain wears, down to the badge.
 
 *Tags:* captain, space, woman, stolen-uniform, visor, lost, deceased
 
-### 691. The Evil Space Captain
+### 694. The Evil Space Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -8400,7 +8450,7 @@ It is a rebel pilot's kit. There are nine Rebel Pilots in this collection and he
 
 *Tags:* captain, space, villain, stolen-uniform, flight-helmet, beard, lost, deceased
 
-### 692. The Space Criminal
+### 695. The Space Criminal
 
 **Alignment:** good · **Role:** Criminal · **Figure:** custom
 
@@ -8410,7 +8460,7 @@ A space criminal. Lost, and dead.
 
 *Tags:* criminal, space, crook, grin, blaster, lost, deceased
 
-### 693. The Bribed Royal Enforcer
+### 696. The Bribed Royal Enforcer
 
 **Alignment:** good · **Role:** Enforcer · **Figure:** custom
 
@@ -8420,7 +8470,7 @@ A royal enforcer who took a bribe. Lost, and dead.
 
 *Tags:* enforcer, royal, bribed, corruption, visor, lost, deceased
 
-### 694. The Bearded Spaceman
+### 697. The Bearded Spaceman
 
 **Alignment:** good · **Role:** Spaceman · **Figure:** custom
 
@@ -8430,7 +8480,7 @@ A blue spaceman. Lost, and dead.
 
 *Tags:* spaceman, classic-space, blue, beard, vintage, lost, deceased
 
-### 695. The Masked Bounty Hunter
+### 698. The Masked Bounty Hunter
 
 **Alignment:** good · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -8442,7 +8492,7 @@ The frame is badly blurred and this is as much as it gives.
 
 *Tags:* bounty-hunter, masked, red-eyes, hood, lost, deceased
 
-### 696. The Crimson Ninja
+### 699. The Crimson Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -8452,7 +8502,7 @@ An evil ninja, in crimson. The figure has not been photographed yet - this card 
 
 *Tags:* ninja, villain, crimson, masked, concept-art, no-photograph
 
-### 697. The Nightwatch Captain
+### 700. The Nightwatch Captain
 
 **Alignment:** good · **Role:** Nightwatch Captain · **Based:** Lego City · **Figure:** custom
 

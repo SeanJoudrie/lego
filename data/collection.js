@@ -18412,6 +18412,105 @@ window.COLLECTION = [
     notes: "Thirty-ninth branded villain and the third clone on this side, after the Clone Traitor, who turned, and Jek-14, who was built by the other side. This one is neither - he is a standard recon trooper issued in black, which is a unit rather than a story. The collection already holds the Shadow Troopers on the good side: three stormtroopers moulded in black instead of white, catalogued as the exact photographic negative of the standard figure and noted as the only figures here whose whole idea is being hard to see. This is the same idea applied to a clone instead of a stormtrooper, and it has landed on the opposite deck. Nothing is written between them and nothing should be until it is said, but if the black kit means one outfit rather than two coincidences, say so and they go in a group together."
   },
 
+  {
+    id: "the-marked-soldiers",
+    name: "The Marked Soldiers",
+    variant: "Three of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Three soldiers of the Damaged, or of the Discarded - you gave the two " +
+      "names together with a slash between them, so the catalogue is not " +
+      "picking one on its own.\n\n" +
+      "Whichever they belong to, they are the first fighting men either of " +
+      "those peoples has put on a card.",
+    provenance:
+      "Three clone bodies, none of them printed where it counts - every " +
+      "marking on all three was put on by hand.\n\n" +
+      "The first wears a white recon helmet with the visor up and a real face " +
+      "showing through it, eyebrows and all, the whole dome scribbled over in " +
+      "black and grey. Grey arms, and a torso worked so hard in black and " +
+      "purple that the print underneath is gone. Purple smears on both thighs.\n\n" +
+      "The second is Phase 1 armour: the crown of the helmet scorched brown " +
+      "and black over the white, a black chevron drawn down the face, and one " +
+      "long purple stroke laid diagonally across the chest. Black arms. Both " +
+      "legs blotched dark from hip to boot.\n\n" +
+      "The third has the helmet coloured in blue and black almost to the " +
+      "edges, a yellow neck showing beneath it, a torso scrawled over in black " +
+      "and the legs darkened right down with a band of teal at each knee.",
+    tags: ["damaged", "discarded", "soldier", "clone", "hand-marked", "custom", "refugee", "star-wars"],
+    images: [
+      { src: "images/the-marked-soldiers-01.jpg", caption: "The one with his face showing" },
+      { src: "images/the-marked-soldiers-02.jpg", caption: "The one with the purple stroke" },
+      { src: "images/the-marked-soldiers-03.jpg", caption: "The one in blue and black" }
+    ],
+    acquired: "",
+    notes: "These three land on a thread that has been running quietly for a long time. Three clone figures here already have their markings put on by hand rather than printed - the Clone Captain, drawn over in purple marker, one of the Discarded serving in the clone army; the Painted Clone Commander, done in proper brushwork, who came from somebody else and was given away; and the Discarded Commander, coloured in orange, another of the Discarded. Add these three and there are six hand-marked clone figures in this collection, and every one that has a story attached came out of somebody else's world. The hand on the plastic is turning out to be the signature of these people.\n\nTwo rulings this card is waiting on. Which group - you wrote Damaged and Discarded with a slash, and they are two different peoples here: the Discarded were made as throwaways, the Damaged were destroyed and abused. The group field is deliberately empty until you say, because group membership in this catalogue has never been guessed. And whether these are three men or one unit: they are on one card because you described them together, but they are three visibly different figures and the other three hand-marked clones each got a card of their own. Say the word and they split.\n\nOne thing worth flagging either way. The Damaged already have a Combat Instructor - a man whose whole role is teaching people to fight, catalogued with nobody to teach. If these three are his, that card stops being a man with a job and no work."
+  },
+
+  {
+    id: "doc-ock",
+    name: "Doc Ock",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Marvel",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Doctor Octopus, built rather than bought.",
+    provenance:
+      "A dark grey helmet with a ribbed hose running round the jaw and a short " +
+      "nozzle standing out from the chest, red round goggles over a pale face " +
+      "with the teeth bared. A black torso printed with silver plating and " +
+      "magenta panels at the ribs. Black arms, pale hands, plain brown legs " +
+      "with nothing on them. No moulded arms and no tentacles anywhere - the " +
+      "character is assembled out of parts that were never his.",
+    tags: ["villain", "marvel", "custom", "doctor", "cyborg", "goggles", "built"],
+    images: ["images/doc-ock-01.jpg"],
+    acquired: "",
+    notes: "A custom, not a bought figure, which makes him unusual twice over. Every other custom filed against somebody else's licence here is on the good side - Finn, the Hogwarts Professor, the Clone Captain, the Painted Clone Commander, the Discarded Commander, the Gungan Jedi, and the Marked Soldiers who came in beside him. He is the first one built here, out of a licence, and filed as an enemy. He is also the first custom Marvel figure in the collection, against ten bought ones.\n\nCowboy Spider-Man is two decks over. Nothing is written between them and nothing is going in without you saying so - the same call The Maker got, whose card describes him as a cross between Tony Stark and Ultron and is still linked to neither. If these two have met in this world, say so."
+  },
+
+  {
+    id: "the-brainwashed-assassin",
+    name: "The Brainwashed Assassin",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assassin",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A cyborg assassin who was brainwashed into it. The work is his; the " +
+      "decision to do it was not.",
+    provenance:
+      "A plain grey helmet with a dark visor, and behind it a yellow face with " +
+      "a grey breathing plate over the mouth and one eye ringed in orange - the " +
+      "other is uncovered. A black and silver torso printed with cabling and " +
+      "red lines running loose across the chest, one arm grey and one black. " +
+      "Deep red legs strapped over with pale bindings crossed at the thigh.",
+    tags: ["villain", "assassin", "cyborg", "brainwashed", "custom", "helmet", "masked"],
+    images: ["images/the-brainwashed-assassin-01.jpg"],
+    acquired: "",
+    notes: "Eleventh figure here whose job is assassin, and all eleven are on the villain side - no one good in this collection has ever held that job. He is the only one of the eleven who did not choose it.\n\nThat lands on the Evil Doctor. His card says, in his own words, that what came out of his work with the Butcher is mind control - a way of taking over a body - and it already carries a note about the Hijacked, the robot whose body villains took while leaving him his mind, so that he watched himself attack people and could not stop. His card observed that two men here have that exact stated work and no line is written between them and him. Now there is a second subject, and a killer this time. No line is written here either, because you have not said who did it. If it was those two, say so and three cards resolve at once.\n\nHe is also a cyborg, and there is a Bionics Team on that side with a leader in it. Whether he is theirs is not written anywhere and has not been guessed."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {

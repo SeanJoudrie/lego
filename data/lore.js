@@ -1505,6 +1505,38 @@ window.LORE = [
       "the famous people were decoration. They are not decoration any more. " +
       "They have a chain of command, and at the top of it is a man with four " +
       "names under him."
+  },
+
+  {
+    title: "The hand on the plastic",
+    text:
+      "Six clone figures in this collection have their markings put on by hand " +
+      "instead of printed. That started as a curiosity on one card and has " +
+      "quietly turned into the best physical evidence in the catalogue of who " +
+      "the Damaged and the Discarded are.\n\n" +
+      "The Clone Captain was drawn over in dark purple marker. He is one of the " +
+      "Discarded - made as a throwaway in somebody else's civilization - and he " +
+      "took a commission in the clone army, where every man under him was grown " +
+      "for the job while he simply turned up. The Discarded Commander is " +
+      "coloured in orange over Phase 1 armour, and he came the same route, " +
+      "which is what turned that crossing from a one-off into a route. The " +
+      "Painted Clone Commander is proper brushwork rather than marker, and his " +
+      "card says only that he came from somebody else and was given away, which " +
+      "is the Discarded's own definition without the word.\n\n" +
+      "Now three soldiers have arrived together, all three worked over by hand, " +
+      "handed in as belonging to the Damaged or the Discarded - the two names " +
+      "given together, with nothing to say which.\n\n" +
+      "So it holds at six for six. Every hand-marked figure in this collection " +
+      "that has a story attached came out of somebody else's world. The " +
+      "Activist put it plainly on his own card a long time ago: he was never " +
+      "painted by his owner, somebody was destroying these figures, and he was " +
+      "salvaged out of it. The marks are not decoration and they are not a " +
+      "paint job. They are what was done to them, and they are how you tell.\n\n" +
+      "Which leaves the question the new three are sitting on. The Discarded " +
+      "were made as throwaways and the Damaged were destroyed and abused - two " +
+      "different peoples with two different injuries. The marks look like the " +
+      "second and the precedent points at the first, and until somebody says, " +
+      "the group field on that card stays empty."
   }
 
 ];
