@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-460 characters from a custom LEGO minifigure world, in the order they were
+463 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5188,13 +5188,15 @@ He came out of the Discarded - made as a throwaway in somebody else's civilizati
 
 *Tags:* star-wars, clone, captain, discarded, hand-drawn, custom
 
-### 458. The Verdauf Guards — Three of them
+### 458. The Verdauf Guards — Four of them
 
 **Alignment:** good · **Role:** Verdauf Squadron · **Figure:** custom
 
-Guards of the Verdauf Squadron. There are three of them.
+Guards of the Verdauf Squadron. There are four of them.
 
 *How it was got:* Light green armour over white, all three identical: a flat-browed helmet with a visor shelf, a silver breathing box clamped across the mouth, green shoulders and a green belt, and a pale yellow marking at the collar. One helmet carries a red flash the others do not.
+
+A fourth stands apart: a silver ribbed pauldron over one shoulder, and the arm beneath it gone entirely.
 
 *Tags:* verdauf, squadron, guard, green-armor, respirator, unit, three
 
@@ -5219,6 +5221,38 @@ A clone trooper, with no unit markings at all.
 *How it was got:* Phase 1 helmet and armour in plain white - the black brow band, the moustache vent and the grey chest lines are all the printing there is. No colour anywhere on him. The white has gone faintly cream.
 
 *Tags:* star-wars, clone, trooper, phase-1, unmarked, branded
+
+### 461. The Painted Clone Commander
+
+**Alignment:** good · **Role:** Commander · **Figure:** custom
+
+A clone commander.
+
+*How it was got:* Painted over by hand, not printed - every marking on him is brushwork. Pale blue across the brow and the mouth of the helmet with red at the temples, black strokes drawn on for the visor and the chest lines, and solid red boots with blue arcs over the toes. A red cloth cape at the shoulders. The paint has chipped at the edges and gone thick where it pooled.
+
+He was a giveaway - handed to you rather than bought or built.
+
+*Tags:* star-wars, clone, commander, hand-painted, cape, giveaway, custom
+
+### 462. The Commander in Red
+
+**Alignment:** good · **Role:** Commander · **Figure:** branded
+
+A clone commander.
+
+*How it was got:* Phase 1 helmet with a dark red rangefinder standing off one side and a twin-tube breathing rig across the mouth. Pale blue chest armour with an ammunition block and four red pips, dark red cloth over both shoulders and a black kama at the waist. Deep red legs.
+
+*Tags:* star-wars, clone, commander, red, rangefinder, kama, branded
+
+### 463. The Shock Troopers — Two of them
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+Shock troopers. There are two of them.
+
+*How it was got:* Phase 2 helmets banded with red combs over the brow and a red fin standing up from the crown, red flashes at the cheeks. Red chest plates and red ammunition blocks at the belt. Both wear mismatched legs, one red and one white, and both are scuffed and yellowed.
+
+*Tags:* star-wars, clone, trooper, shock-trooper, red, unit, two, worn, branded
 
 ---
 

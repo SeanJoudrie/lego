@@ -12156,7 +12156,7 @@ window.COLLECTION = [
   {
     id: "the-verdauf-guards",
     name: "The Verdauf Guards",
-    variant: "Three of them",
+    variant: "Four of them",
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
@@ -12166,16 +12166,22 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Guards of the Verdauf Squadron. There are three of them.",
+    background: "Guards of the Verdauf Squadron. There are four of them.",
     provenance:
       "Light green armour over white, all three identical: a flat-browed " +
       "helmet with a visor shelf, a silver breathing box clamped across the " +
       "mouth, green shoulders and a green belt, and a pale yellow marking at " +
-      "the collar. One helmet carries a red flash the others do not.",
+      "the collar. One helmet carries a red flash the others do not.\n\n" +
+      "A fourth stands apart: a silver ribbed pauldron over one shoulder, and " +
+      "the arm beneath it gone entirely.",
     tags: ["verdauf", "squadron", "guard", "green-armor", "respirator", "unit", "three"],
-    images: [{ src: "images/the-verdauf-guards-01.jpg", caption: "All three" }],
+    images: [
+      { src: "images/the-verdauf-guards-01.jpg", caption: "Three of them together" },
+      { src: "images/the-verdauf-guards-02.jpg", caption: "One of them alone" },
+      { src: "images/the-verdauf-guards-03.jpg", caption: "The fourth, in a pauldron, one arm gone" },
+    ],
     acquired: "",
-    notes: "The Green Captain's entry has said from the start that the Verdauf Squadron is an actual unit rather than a handful of individuals, and that you would meet more of them later. These are them, and they are in his light green - the colour he is known by. The squadron is six strong on four cards now: the Captain, his younger brother, the Defense Bot and these three guards."
+    notes: "The Green Captain's entry has said from the start that the Verdauf Squadron is an actual unit rather than a handful of individuals, and that you would meet more of them later. These are them, and they are in his light green - the colour he is known by. The squadron is seven strong on four cards now: the Captain, his younger brother, the Defense Bot and these four guards. The fourth is missing an arm and wears a pauldron the others do not, which is the only rank or damage marked anywhere in this unit - and this collection has form for reading a missing limb as history rather than a lost piece, from Claws to the Rebuilt to the Survivor. I read the solo photograph as a close-up of one of the three rather than a fifth man; say so if he is his own."
   },
 
 
@@ -12228,6 +12234,87 @@ window.COLLECTION = [
     images: ["images/the-plain-clone-trooper-01.jpg"],
     acquired: "",
     notes: "The only clone here wearing no unit colour whatsoever - every other one carries yellow, blue, green, orange, red or purple somewhere. He is what all of them looked like before they were anybody."
+  },
+
+
+  {
+    id: "the-painted-clone-commander",
+    name: "The Painted Clone Commander",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Star Wars",
+    rank: "",
+    role: "Commander",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A clone commander.",
+    provenance:
+      "Painted over by hand, not printed - every marking on him is brushwork. " +
+      "Pale blue across the brow and the mouth of the helmet with red at the " +
+      "temples, black strokes drawn on for the visor and the chest lines, and " +
+      "solid red boots with blue arcs over the toes. A red cloth cape at the " +
+      "shoulders. The paint has chipped at the edges and gone thick where it " +
+      "pooled.\n\n" +
+      "He was a giveaway - handed to you rather than bought or built.",
+    tags: ["star-wars", "clone", "commander", "hand-painted", "cape", "giveaway", "custom"],
+    images: ["images/the-painted-clone-commander-01.jpg"],
+    acquired: "",
+    notes: "Second clone here whose markings were put on by hand rather than printed, after the Clone Captain - and where that one was drawn in marker, this one is properly painted. Two different people made those two, which is the point: he came from somebody else and was given away."
+  },
+
+
+  {
+    id: "the-commander-in-red",
+    name: "The Commander in Red",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Commander",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A clone commander.",
+    provenance:
+      "Phase 1 helmet with a dark red rangefinder standing off one side and a " +
+      "twin-tube breathing rig across the mouth. Pale blue chest armour with " +
+      "an ammunition block and four red pips, dark red cloth over both " +
+      "shoulders and a black kama at the waist. Deep red legs.",
+    tags: ["star-wars", "clone", "commander", "red", "rangefinder", "kama", "branded"],
+    images: ["images/the-commander-in-red-01.jpg"],
+    acquired: "",
+    notes: "Fifth clone commander in the Star Wars corner, after Cody, the Golden Commander, the 187th and the painted one - and every single one of them is marked out by a different colour. Orange, yellow, purple, hand-painted blue, and now red. Nobody repeats."
+  },
+
+
+  {
+    id: "the-shock-troopers",
+    name: "The Shock Troopers",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Shock troopers. There are two of them.",
+    provenance:
+      "Phase 2 helmets banded with red combs over the brow and a red fin " +
+      "standing up from the crown, red flashes at the cheeks. Red chest " +
+      "plates and red ammunition blocks at the belt. Both wear mismatched " +
+      "legs, one red and one white, and both are scuffed and yellowed.",
+    tags: ["star-wars", "clone", "trooper", "shock-trooper", "red", "unit", "two", "worn", "branded"],
+    images: [{ src: "images/the-shock-troopers-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "One entry for the pair. The mismatched legs are the odd thing - one red and one white on both of them, the same way round, so it reads as how they are meant to be rather than as parts thrown together."
   },
 
 
