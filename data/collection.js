@@ -10195,25 +10195,39 @@ window.COLLECTION = [
   {
     id: "boba-fett",
     name: "Boba Fett",
-    variant: "As a boy",
+    variant: "As a boy, and twice in the armour",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
     rank: "",
-    role: "",
+    role: "Bounty Hunter",
     group: "",
     location: "",
     relations: [],
     rating: 0,
-    background: "Boba Fett, as a boy.",
+    background:
+      "Boba Fett. Three figures of him, one card: the boy with no armour, and " +
+      "the man in it twice.",
     provenance:
-      "Black bowl-cut hair, a plain yellow face with heavy brows and a flat " +
-      "mouth. Pale blue tunic with a dark belt and a laced collar, dark navy " +
-      "arms, pale blue legs. No armour and no helmet.",
-    tags: ["star-wars", "boba-fett", "child", "branded"],
-    images: ["images/boba-fett-01.jpg"],
+      "The boy: black bowl-cut hair, a plain yellow face with heavy brows and " +
+      "a flat mouth, a pale blue tunic with a dark belt and a laced collar, " +
+      "dark navy arms, pale blue legs. No armour and no helmet.\n\n" +
+      "The armour, first version: a green helmet with the brown T-visor, pale " +
+      "grey arms and legs, a green and grey chest plate over a brown belt. " +
+      "Clean, bright and unmarked.\n\n" +
+      "The armour, later: the same helmet shape weathered dark, the visor worn " +
+      "through to silver, the body black and grey and scuffed all over, one " +
+      "yellow pauldron, a brown bandolier at the waist, yellow knee plates. " +
+      "The two of them side by side are the same man twenty years apart, and " +
+      "the plastic is doing the ageing.",
+    tags: ["star-wars", "boba-fett", "child", "branded", "bounty-hunter", "mandalorian", "armour", "three-figures"],
+    images: [
+      { src: "images/boba-fett-01.jpg", caption: "As a boy, with no armour" },
+      { src: "images/boba-fett-02.jpg", caption: "In the armour, clean" },
+      { src: "images/boba-fett-03.jpg", caption: "In the armour, weathered" }
+    ],
     acquired: "",
-    notes: "Entered under his full name with the boy as a variant, the same way Anakin was - and Anakin has since grown into that entry, so the pattern works. A helmeted Boba later joins this card rather than starting a second one. Second child in the Star Wars corner."
+    notes: "This card said what would happen to it. Its own note has read since it was written that a helmeted Boba would later join it rather than start a second one, following Anakin - and two helmeted Bobas have now arrived. Three figures, one man, one entry, the same call as Tony Stark and his suits and as Bruce Wayne and Batman. He gains a role now that he has a job to show. He also stays filed good: he arrived in the middle of a long run of villains and nothing was said about moving him, and the world note on branded villains names him as one of the bought figures this world absorbed onto the winning side. Say the word and he crosses, and that note gets rewritten with him."
   },
 
 
@@ -17299,6 +17313,91 @@ window.COLLECTION = [
     images: ["images/the-astronaut-ninja-01.jpg"],
     acquired: "",
     notes: "The bad side has four men filed as ninja now - the Crimson Ninja, the Cybernetic Ninja, the Black Ninja and him - plus the Ninja Assassin Pirate, who is filed as an assassin. He is also the second figure in the collection admitted to be bad at their own job, after the Incompetent Bounty Hunter. The Brawling Alien is dumb and good at his, which is a different thing. Nobody here has ever combined the two crafts either - the ninja are medieval and Ninjago, the astronauts are Classic Space and Mars Mission, and a man in a space helmet carrying a sword belongs to neither."
+  },
+
+
+
+  {
+    id: "darth-nihilus",
+    name: "Darth Nihilus",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Sith",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Darth Nihilus.",
+    provenance:
+      "A black hood pulled forward over a white bone mask - a long crack down " +
+      "the centre, two dark hollows where the eyes would be with red bled into " +
+      "them. A black robe printed with pale folds and a high collar, a black " +
+      "cloth cape behind, black arms, black hands, black legs. A red blade on " +
+      "a silver hilt.",
+    tags: ["villain", "sith", "star-wars", "branded", "mask", "hood", "red-lightsaber"],
+    images: ["images/darth-nihilus-01.jpg"],
+    acquired: "",
+    notes: "Sixth branded villain, fourth of them out of Star Wars, and the fifth Sith here after Quinn, the Purple Shadow, the Sith Lord and Savage Opress. Three of those five are home-made, which keeps being the shape of this collection - the bought figures supply the famous ones and the enemy was invented."
+  },
+
+  {
+    id: "the-alien-racer",
+    name: "The Alien Racer",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Racing Driver",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A racer. He runs transports, and he is not a man.",
+    provenance:
+      "A translucent red head lit from inside and painted over with a black " +
+      "visor band, two pale eyes and a wide yellow grin, with green corrosion " +
+      "creeping across the crown. A blue torso printed with a silver control " +
+      "panel, dials and cabling running down to the waist; blue arms, one " +
+      "black hand and one silver, black legs.",
+    tags: ["villain", "racer", "transport", "alien", "robot", "translucent", "corroded"],
+    images: ["images/the-alien-racer-01.jpg"],
+    acquired: "",
+    notes: "First racing driver in this collection on the bad side - the Ferrari Driver, the Porsche Driver, the Spaceship Racer and the Stunt Driver are all good. Your description ran robot, transport, racer and alien together and I could not tell which of those is the noun. The head is translucent and corroded, which would suit a machine, so the card takes all four as true. Correct whichever is wrong."
+  },
+
+  {
+    id: "the-speed-assassins",
+    name: "The Speed Assassins",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assassin",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Two of them, working as a pair. They come past fast, blow the thing up " +
+      "and are gone before anybody has turned round. Hit and run, every time.",
+    provenance:
+      "Two figures, identically helmeted - black domed helms with a silver " +
+      "chevron worked across the face and small horns at the crown, no eyes " +
+      "and no mouth. One wears a grey chest rig printed with white tubing over " +
+      "a yellow-blocked belt; the other is armoured in silver and gold with " +
+      "chevrons at the thighs and silver boots. Black arms and legs on both, " +
+      "grey hands.",
+    tags: ["villain", "assassin", "pair", "hit-and-run", "speed", "helmet", "faceless"],
+    images: ["images/the-speed-assassins-01.jpg"],
+    acquired: "",
+    notes: "One card because they came as a pair, the same call as the Nude Aliens, the Lost Pirates and the Brain Parasites. They are also the first people in this collection whose method is a tactic rather than a weapon or a skill: everybody else is defined by what they carry or what they are good at, and these two are defined by not being there when you look."
   },
 
 
