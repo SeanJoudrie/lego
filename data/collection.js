@@ -18630,6 +18630,97 @@ window.COLLECTION = [
     notes: "Fortieth branded villain and the tenth Sith, after Quinn, the Purple Shadow, the Sith Lord, Savage Opress, Darth Nihilus, Darth Vader, Count Dooku, Darth Maul and Palpatine.\n\nTwo figures in this collection carry two lit blades at once, and they are on opposite decks: this one, with a purple blade in one hand and a red one in the other, and Ahsoka Tano, catalogued a long way back with two lightsabers and nothing written between her and anybody on this side. The hologram is the stranger half of the card. Every other figure on these two decks is somebody; this one is a picture of somebody, standing on the same shelf.\n\nThat also corrects Darth Vader's card, which claimed he was the only figure here you can see the shelf through. He is not, as of this batch, and his card now says so.\n\nOne flag. Revan is the one name on this deck famous for having been on both sides of it. Nothing in this world has said which way round he is here, and he is filed as an enemy because you handed him in as Darth Revan. If the hologram is meant to be the other half of that - the man before or after - say so, and the card can carry the split the way Boba Fett does."
   },
 
+  {
+    id: "the-sting-rays",
+    name: "The Sting Rays",
+    variant: "Six of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Sting Rays",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The Sting Rays. Rank and file.",
+    provenance:
+      "A hard grey helmet moulded in one piece over the whole head, closed at " +
+      "the jaw, with a black split running back over the crown and two eyes " +
+      "printed into the front - yellow, with a red pupil in each, and a black " +
+      "bar between them. A breathing piece sits under the chin. Grey arms and " +
+      "red hands, a black waist, red legs.\n\n" +
+      "The torsos are not all the same. Most carry an insect worked across the " +
+      "chest in teal and tan - a body, a pair of wings and an orange disc at " +
+      "the throat - but the six in the group shot are printed at least three " +
+      "different ways, some teal, some tan, one almost entirely dark. Six of " +
+      "them are photographed together and one is shown on his own in front.",
+    tags: ["villain", "soldier", "insect", "helmet", "unit", "custom", "six-figures"],
+    images: [
+      { src: "images/the-sting-rays-01.jpg", caption: "One of them" },
+      { src: "images/the-sting-rays-02.jpg", caption: "Six of them" }
+    ],
+    acquired: "",
+    notes: "One entry, solo shot first and the group behind it, the way the Shadow Troopers are done.\n\nThey arrive as a going concern, which is rare here. Most units in this collection turned up as a name with nobody in it - the alien mercenaries nobody had photographed, the militia with a school and one member, the Insect Captain's evil insects. This one arrives the other way round: six soldiers, a squad leader and a head of state, all in one batch, with the ranks already told apart by the colour of the legs. Red for the ranks, brown for the leader, green for the chancellor.\n\nTwo things are not written down and are not being guessed. You did not say which side they are on; they are filed as enemies because that is where the last several batches have been landing, and it is a one-word fix if that is wrong. And the Insect Captain is sitting one deck over with a card that says he is in charge of the evil insects, that the insects have not been photographed, and that no group would be made until there was somebody to put in it. These have an insect printed across the chest. If they are his, say so, and a card that has been empty since it was written finally has an army under it."
+  },
+
+  {
+    id: "the-sting-ray-squad-leader",
+    name: "The Sting Ray Squad Leader",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Squad Leader",
+    group: "The Sting Rays",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The one who leads the squad.",
+    provenance:
+      "The same closed grey helmet as the ranks, the same yellow eyes with red " +
+      "pupils, the same split down the crown. A grey torso printed with an " +
+      "orange disc at the throat, teal panels spread either side of it and two " +
+      "tan claw shapes below. Grey arms, red hands, a black waist. What marks " +
+      "him out is below that: brown legs where every soldier in the squad wears " +
+      "red.",
+    tags: ["villain", "leader", "insect", "helmet", "custom", "brown-legs"],
+    images: ["images/the-sting-ray-squad-leader-01.jpg"],
+    acquired: "",
+    notes: "Rank in this unit is worn on the legs and nowhere else. The helmet is identical to the ranks, the arms are identical, the torso print is a variation on the same insect - and the legs are brown instead of red. That is the whole insignia. It is the cleanest rank system in this collection: every other officer here is told apart by a cape, a pauldron, a helmet crest or a colour laid over the armour, and this one is told apart by his trousers."
+  },
+
+  {
+    id: "the-supreme-chancellor",
+    name: "The Supreme Chancellor",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Supreme Chancellor",
+    group: "The Sting Rays",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The Supreme Chancellor of the Sting Rays.",
+    provenance:
+      "The only one of the eight with his face showing. No closed helmet - a " +
+      "brown hairpiece with a pair of black goggles pushed up on it, and under " +
+      "that a yellow face with red eyes ringed in blue, a black moustache and " +
+      "scarring drawn back from both eyes. The same grey torso as the squad " +
+      "leader, orange disc at the throat, teal panels and tan claws. Grey arms, " +
+      "white hands, and green legs.",
+    tags: ["villain", "ruler", "chancellor", "insect", "goggles", "custom", "green-legs"],
+    images: ["images/the-supreme-chancellor-01.jpg"],
+    acquired: "",
+    notes: "Supreme Chancellor is a job nobody in this world has held. Twelve figures here carry a ruling title and they are all crowns and conquest - six kings, two queens, a dictator, a governor, an emperor and an elected king. This is the first one that sounds like an office rather than a throne, and it is on the villain side.\n\nHe is also the only Sting Ray with a face. Every soldier and the squad leader are sealed into a moulded helmet with printed eyes; the man in charge of them took his off, and what is underneath is a yellow face with red eyes and scars drawn back from both of them. Green legs where the ranks wear red and the leader wears brown, so the whole chain of command in this unit is legible from the knees down.\n\nThe Outcast Prince is the only other figure here whose title says he was put there rather than born there - he is an Elected King, on the good side. Nothing is written between them."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
