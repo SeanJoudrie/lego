@@ -9528,6 +9528,129 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "deadpool",
+    name: "Deadpool",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Marvel",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Deadpool.",
+    provenance:
+      "Red and black suit with the mask printed straight onto the head, " +
+      "twin katana harnesses crossed at the chest, a belt with the logo on " +
+      "the buckle and pouches down both hips. Black arms, red hands.",
+    tags: ["marvel", "deadpool", "mercenary", "katana", "branded"],
+    images: ["images/deadpool-01.jpg"],
+    acquired: "",
+    notes: "Third Marvel figure, after Tony Stark and Cowboy Spider-Man. Filed good by the standing rule, which is a call worth revisiting - he is the first figure here whose source material would not describe him as one of the good guys, and the Outlaw is the nearest thing the collection has to that so far."
+  },
+
+
+  {
+    id: "the-mandalorian",
+    name: "The Mandalorian",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The Mandalorian.",
+    provenance:
+      "Beskar helmet with the T visor, a dark cloth cape, bandolier across " +
+      "the chest, and greaved legs. Printed almost entirely in metallic greys.",
+    tags: ["star-wars", "mandalorian", "bounty-hunter", "beskar", "helmet", "branded"],
+    images: ["images/the-mandalorian-01.jpg"],
+    acquired: "",
+    notes: "Ninth Star Wars figure. He is the only one of them not attached to a side - the Rebel Pilots have a squadron, and he has nobody."
+  },
+
+
+  {
+    id: "the-jedi-palace-guard",
+    name: "The Jedi Palace Guard",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Guard",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A guard of the Jedi palace.",
+    provenance:
+      "White hood pulled over a featureless mask marked with a gold flame, " +
+      "tan robes with a white sash, a heavy brown belt and pouches. Nothing " +
+      "of the face shows but two slits.",
+    tags: ["star-wars", "jedi", "guard", "masked", "robes", "branded"],
+    images: ["images/the-jedi-palace-guard-01.jpg"],
+    acquired: "",
+    notes: "Worth deciding: this world already has a Jedi order of its own - the Snow Jedi and the line he trained - and the rebels were ruled to exist within the world rather than visiting. If the same goes for the Jedi, then this man guards a palace that the Snow Jedi's people would know, and a link can be written."
+  },
+
+
+  {
+    id: "anakin-skywalker",
+    name: "Anakin Skywalker",
+    variant: "As a boy",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Anakin Skywalker, as a boy.",
+    provenance:
+      "Short brown hair, a freckled face, and plain pale desert clothes with " +
+      "a brown belt. No armour, no weapon, nothing of what he becomes.",
+    tags: ["star-wars", "anakin", "child", "desert", "branded"],
+    images: ["images/anakin-skywalker-01.jpg"],
+    acquired: "",
+    notes: "Entered under his full name with the boy as a variant rather than as Baby Anakin, so that if you ever photograph him grown he goes in this same entry - one entry per person is the rule here. Also worth saying out loud: Luke is already in this collection as an adult pilot, and his father is here as a child. Whether the world knows they are father and son is not written down."
+  },
+
+
+  {
+    id: "jack-skellington",
+    name: "Jack Skellington",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "The Nightmare Before Christmas",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Jack Skellington.",
+    provenance:
+      "Bare skull head with the stitched grin, a black bat bow tie with the " +
+      "wings spread wide, and the pinstripe suit printed down the torso and " +
+      "both legs. A cloth sash at the waist.",
+    tags: ["nightmare-before-christmas", "skeleton", "pinstripe", "halloween", "branded"],
+    images: ["images/jack-skellington-01.jpg"],
+    acquired: "",
+    notes: "Opens a ninth theme. Kept out of Christmas, where Santa Claus sits, because he is his own property rather than part of that one - though the two of them being in the same collection is funny given what Jack does to Christmas in his own story."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

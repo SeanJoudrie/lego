@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-361 characters from a custom LEGO minifigure world, in the order they were
+366 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4193,6 +4193,56 @@ Spider-Man, dressed as a cowboy.
 *How it was got:* The mask under a brown cowboy hat, a red bandana pulled up over the mouth so only the eyes show, a grey cloth serape over one shoulder, yellow waistcoat, gun belts on pale denim and brown boots.
 
 *Tags:* marvel, spider-man, cowboy, western, bandana, branded
+
+### 362. Deadpool
+
+**Alignment:** good · **Figure:** branded
+
+Deadpool.
+
+*How it was got:* Red and black suit with the mask printed straight onto the head, twin katana harnesses crossed at the chest, a belt with the logo on the buckle and pouches down both hips. Black arms, red hands.
+
+*Tags:* marvel, deadpool, mercenary, katana, branded
+
+### 363. The Mandalorian
+
+**Alignment:** good · **Figure:** branded
+
+The Mandalorian.
+
+*How it was got:* Beskar helmet with the T visor, a dark cloth cape, bandolier across the chest, and greaved legs. Printed almost entirely in metallic greys.
+
+*Tags:* star-wars, mandalorian, bounty-hunter, beskar, helmet, branded
+
+### 364. The Jedi Palace Guard
+
+**Alignment:** good · **Role:** Guard · **Figure:** branded
+
+A guard of the Jedi palace.
+
+*How it was got:* White hood pulled over a featureless mask marked with a gold flame, tan robes with a white sash, a heavy brown belt and pouches. Nothing of the face shows but two slits.
+
+*Tags:* star-wars, jedi, guard, masked, robes, branded
+
+### 365. Anakin Skywalker — As a boy
+
+**Alignment:** good · **Figure:** branded
+
+Anakin Skywalker, as a boy.
+
+*How it was got:* Short brown hair, a freckled face, and plain pale desert clothes with a brown belt. No armour, no weapon, nothing of what he becomes.
+
+*Tags:* star-wars, anakin, child, desert, branded
+
+### 366. Jack Skellington
+
+**Alignment:** good · **Figure:** branded
+
+Jack Skellington.
+
+*How it was got:* Bare skull head with the stitched grin, a black bat bow tie with the wings spread wide, and the pinstripe suit printed down the torso and both legs. A cloth sash at the waist.
+
+*Tags:* nightmare-before-christmas, skeleton, pinstripe, halloween, branded
 
 ---
 
