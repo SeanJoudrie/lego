@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-308 characters from a custom LEGO minifigure world, in the order they were
+312 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -1049,6 +1049,8 @@ A clone who took a shot to the arm and used it as the moment to leave. He moved 
 He runs construction in Lego City and trained every other crew in it.
 
 He also works at supersonic speed, and he trained as a Jedi.
+
+*Connections:* His second The Site Planner
 
 *Tags:* construction, supersonic, jedi-trained, teacher
 
@@ -3615,6 +3617,50 @@ US Army soldiers. There are ten of them.
 *How it was got:* M1 helmets, ammunition bandoliers and a US pouch on the belt - the uniform print is modelled on twentieth-century American infantry kit.
 
 *Tags:* us-army, soldier, unit, infantry, ten
+
+### 309. The Site Planner
+
+**Alignment:** good · **Role:** Site Planner · **Based:** Lego City · **Figure:** custom
+
+Second in command to the Construction Chief.
+
+What he actually does is plan, and make sure everybody goes home in one piece.
+
+*How it was got:* White hard hat and white trousers, where the rest of the crew are in red and blue.
+
+*Connections:* Second to The Construction Chief
+
+*Tags:* construction, planner, safety, second-in-command, lego-city
+
+### 310. The Smirking Worker
+
+**Alignment:** good · **Role:** Construction Worker · **Based:** Lego City · **Figure:** custom
+
+A construction worker.
+
+*How it was got:* Red hard hat, orange hi-vis jacket, and a crooked grin.
+
+*Tags:* construction, worker, hard-hat, hi-vis
+
+### 311. The Stern Worker
+
+**Alignment:** good · **Role:** Construction Worker · **Based:** Lego City · **Figure:** custom
+
+A construction worker.
+
+*How it was got:* Same red hat and orange jacket, mouth printed as a flat line.
+
+*Tags:* construction, worker, hard-hat, hi-vis
+
+### 312. The Worker in Shades
+
+**Alignment:** good · **Role:** Construction Worker · **Based:** Lego City · **Figure:** custom
+
+A construction worker.
+
+*How it was got:* Black sunglasses under the hard hat, and a railway arrow on the vest - the same marking the Site Planner wears.
+
+*Tags:* construction, worker, sunglasses, railway, hi-vis
 
 ---
 

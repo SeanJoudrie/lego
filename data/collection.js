@@ -364,6 +364,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Elected King",
+    group: "",
     location: "The Sand Planet",
     relations: [
       { to: "the-prince", label: "Brother of" },
@@ -399,6 +400,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Bounty Hunter",
+    group: "",
     location: "The Sand Planet",
     relations: [
       { to: "the-outcast-prince", label: "Son of" },
@@ -490,6 +492,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Commander of the Clone Armies",
+    group: "",
     location: "",
     relations: [
       { to: "the-clone-pilot", label: "Lost him to the space militia" },
@@ -536,6 +539,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Aircraft Engineer",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -567,6 +571,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Soldier",
+    group: "",
     location: "Off-world",
     relations: [],
     rating: 0,
@@ -591,6 +596,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Sniper",
+    group: "",
     location: "Lego City",
     relations: [],
     rating: 0,
@@ -1135,6 +1141,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Explorer",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -1163,6 +1170,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Prince",
+    group: "",
     location: "",
     relations: [
       { to: "the-shadow-king", label: "Son of" },
@@ -1191,6 +1199,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Jedi",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -1218,6 +1227,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Gas Attendant",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -1271,6 +1281,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Ninja Master",
+    group: "",
     location: "The Mountain Dojo",
     relations: [],
     rating: 0,
@@ -1300,6 +1311,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Engineer",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -1494,6 +1506,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Chef",
+    group: "",
     location: "",
     relations: [
       { to: "the-space-cadets", label: "Trained one of" },
@@ -1523,6 +1536,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Doctor",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -1574,6 +1588,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Camera Operator",
+    group: "",
     location: "Lego City",
     relations: [],
     rating: 0,
@@ -1598,6 +1613,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Bounty Hunter",
+    group: "",
     location: "Lego City",
     relations: [
       { to: "the-ninja-robot", label: "Works with" },
@@ -1625,6 +1641,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Bounty Hunter",
+    group: "",
     location: "Lego City",
     relations: [
       { to: "the-golden-sniper", label: "Works with" },
@@ -1698,6 +1715,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Ambassador",
+    group: "",
     location: "",
     relations: [
       { to: "the-alien-farmer", label: "Same species as" },
@@ -1864,6 +1882,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Space Cadet",
+    group: "",
     location: "",
     relations: [
       { to: "the-chef", label: "One of them cooked for" },
@@ -1924,6 +1943,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Soldier",
+    group: "",
     location: "",
     relations: [
       { to: "the-activist", label: "Held by the same world as" },
@@ -1952,6 +1972,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Soldier",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -2011,6 +2032,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Pilot",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -2061,8 +2083,11 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Construction Chief",
+    group: "The Construction Crew",
     location: "Lego City",
-    relations: [],
+    relations: [
+      { to: "the-site-planner", label: "His second" },
+    ],
     rating: 0,
     background:
       "He runs construction in Lego City and trained every other crew in it.\n\n" +
@@ -2071,7 +2096,7 @@ window.COLLECTION = [
     tags: ["construction", "supersonic", "jedi-trained", "teacher"],
     images: ["images/the-construction-chief-01.jpg"],
     acquired: "",
-    notes: "Second figure who works at supersonic speed, after the Chef - and the only one outside the Jedi who trained as one."
+    notes: "He has a crew now, and a second. Second figure who works at supersonic speed, after the Chef - and the only one outside the Jedi who trained as one."
   },
 
   {
@@ -2253,6 +2278,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
+    group: "",
     location: "",
     relations: [
       { to: "the-prince", label: "Loyal to" },
@@ -2342,6 +2368,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Pilot",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -2425,6 +2452,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -2445,6 +2473,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "",
+    group: "",
     location: "",
     relations: [
       { to: "the-golden-sniper", label: "Best friends with" },
@@ -2525,6 +2554,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Outlaw",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -2609,6 +2639,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Pilot",
+    group: "",
     location: "",
     relations: [
       { to: "the-pilots-daughter", label: "Father of" },
@@ -2634,6 +2665,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Soldier",
+    group: "",
     location: "",
     relations: [
       { to: "the-famous-pilot", label: "Daughter of" },
@@ -2831,6 +2863,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Knight",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -3097,6 +3130,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Woodsman",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -3259,6 +3293,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Athlete",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -3332,6 +3367,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Elder",
+    group: "",
     location: "",
     relations: [],
     rating: 0,
@@ -8143,9 +8179,108 @@ window.COLLECTION = [
       "M1 helmets, ammunition bandoliers and a US pouch on the belt - the " +
       "uniform print is modelled on twentieth-century American infantry kit.",
     tags: ["us-army", "soldier", "unit", "infantry", "ten"],
-    images: ["images/the-us-army-soldiers-01.jpg"],
+    images: [
+      { src: "images/the-us-army-soldiers-01.jpg", caption: "One of them" },
+      { src: "images/the-us-army-soldiers-02.jpg", caption: "The unit" }
+    ],
     acquired: "",
-    notes: "One entry for all ten, waiting on the group photo you said you would send - it goes on here as a second image the way the Enemy's does. Filed good by the standing rule, since you have not said otherwise: the only figures marked bad in 308 are the Enemy Soldiers, who are the other twentieth-century unit here. Whether these two fight each other is not written down."
+    notes: "One entry for all ten, with the unit photo as the second image the way the Enemy's is. Filed good by the standing rule, since you have not said otherwise: the only figures marked bad in 308 are the Enemy Soldiers, who are the other twentieth-century unit here. Whether these two fight each other is not written down."
+  },
+
+
+
+  {
+    id: "the-site-planner",
+    name: "The Site Planner",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Site Planner",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [
+      { to: "the-construction-chief", label: "Second to" },
+    ],
+    rating: 0,
+    background:
+      "Second in command to the Construction Chief.\n\n" +
+      "What he actually does is plan, and make sure everybody goes home in one " +
+      "piece.",
+    provenance: "White hard hat and white trousers, where the rest of the crew are in red and blue.",
+    tags: ["construction", "planner", "safety", "second-in-command", "lego-city"],
+    images: ["images/the-site-planner-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, kept clear of the Planner of the Space Militia. The white hat and white trousers are how you tell him from the crew, and the collection has form for this: the General's son died and the militia built its whole safety culture round it. This is the first man here whose actual job is nobody getting hurt."
+  },
+
+
+  {
+    id: "the-smirking-worker",
+    name: "The Smirking Worker",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Worker",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "A construction worker.",
+    provenance: "Red hard hat, orange hi-vis jacket, and a crooked grin.",
+    tags: ["construction", "worker", "hard-hat", "hi-vis"],
+    images: ["images/the-smirking-worker-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive - three workers arrived together and their faces are the only difference."
+  },
+
+
+  {
+    id: "the-stern-worker",
+    name: "The Stern Worker",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Worker",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "A construction worker.",
+    provenance: "Same red hat and orange jacket, mouth printed as a flat line.",
+    tags: ["construction", "worker", "hard-hat", "hi-vis"],
+    images: ["images/the-stern-worker-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive."
+  },
+
+
+  {
+    id: "the-worker-in-shades",
+    name: "The Worker in Shades",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Worker",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "A construction worker.",
+    provenance:
+      "Black sunglasses under the hard hat, and a railway arrow on the vest - " +
+      "the same marking the Site Planner wears.",
+    tags: ["construction", "worker", "sunglasses", "railway", "hi-vis"],
+    images: ["images/the-worker-in-shades-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. He and the Site Planner both carry a railway arrow on the vest, which the other two do not - if this crew works the rails rather than buildings, say so."
   },
 
 
