@@ -7040,6 +7040,129 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-aqua-force-leader",
+    name: "The Aqua Force Leader",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Commander",
+    group: "Aqua Force",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Leader of Aqua Force.\n\n" +
+      "Aqua Force handles any military necessity that involves going underwater.",
+    provenance: "Black wetsuit with a blue trident on the chest, goggles pushed up onto the helmet.",
+    tags: ["aqua-force", "underwater", "diver", "leader", "trident"],
+    images: ["images/the-aqua-force-leader-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Aqua Force is the fifth armed service in the collection, after the Space Militia, the Space Police, Lego City Law and the Blacktron Squadron - and the first one whose whole remit is a place rather than a job: everything that happens under the water."
+  },
+
+
+  {
+    id: "the-aqua-force-second",
+    name: "The Aqua Force Second",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Second in Command",
+    group: "Aqua Force",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Second in command of Aqua Force.",
+    provenance: "Air hose collar round the neck, visored helmet, and a face that is not enjoying itself.",
+    tags: ["aqua-force", "underwater", "diver", "second-in-command", "air-hose"],
+    images: ["images/the-aqua-force-second-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. He shares the Second in Command role with the Second, who is an Archangel of the First Circle - the same office at wildly different altitudes."
+  },
+
+
+  {
+    id: "the-aqua-force-diver",
+    name: "The Aqua Force Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Aqua Force",
+    group: "Aqua Force",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A member of Aqua Force.",
+    provenance: "Same black wetsuit and trident, grey arms, black legs.",
+    tags: ["aqua-force", "underwater", "diver"],
+    images: ["images/the-aqua-force-diver-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. No roster link to the leader - the group already shows everyone to everyone."
+  },
+
+
+  {
+    id: "the-cool-aqua-diver",
+    name: "The Cool Aqua Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Aqua Force",
+    group: "Aqua Force",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The cool one in Aqua Force.",
+    provenance:
+      "Aviator sunglasses on, under the visor, underwater. The plastic is doing " +
+      "the work here.",
+    tags: ["aqua-force", "underwater", "diver", "cool", "sunglasses"],
+    images: ["images/the-cool-aqua-diver-01.jpg"],
+    acquired: "",
+    notes: "Named as you described him. He is the only figure in the collection whose defining trait is simply being cool, and he earns it by wearing sunglasses beneath a dive helmet."
+  },
+
+
+  {
+    id: "the-royal-knight",
+    name: "The Royal Knight",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Knight",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the Royal Knights, and one of the most popular of them.\n\n" +
+      "The Royal Knights do not wear much armor, and they fight on the " +
+      "battlefield anyway. They can afford to: in that realm, dying is not the " +
+      "end of you. You come back. What you do not get back is your things - " +
+      "your armor stays where you fell, and the enemy is welcome to it.\n\n" +
+      "Which is why going to war is not the terrible matter it would be " +
+      "elsewhere, and why a sword fight still is. Nobody wants to be hurt, and " +
+      "nobody wants to be stripped.",
+    provenance: "Red and blue royal surcoat with a crowned lion, and a matching shield.",
+    tags: ["knight", "royal-knights", "medieval", "respawn", "lion", "popular"],
+    images: ["images/the-royal-knight-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. New group, the Royal Knights, kept separate from the Medieval Era villagers - the era is the setting, the Knights are an order inside it - and they share the location so the filter still holds them together. Third Knight in the role filter after Curtis and the Nexo Knight, and the Gunless Realm question is still open: King Arthur, an Armorer and a Knight are already filed somewhere that might be this same place."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

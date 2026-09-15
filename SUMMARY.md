@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-261 characters from a custom LEGO minifigure world, in the order they were
+266 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -172,6 +172,14 @@ Quinn is the main villain, and the first time he rose he destroyed half the city
 What stopped him was a civilian. A jogger in a red hoodie who got to a rifle in the chaos and put a round through Quinn's lung. That finished it, and Quinn went into captivity. The man was knighted for it, and wears the armor the city gave him.
 
 Two things follow from calling it the first. Quinn did not stay in captivity. And the story this world tells about its own worst day is that the gods and the heroes all failed, and somebody with no rank at all picked up a rifle.
+
+### Dying in the medieval realm
+
+In the realm of the medieval, death is not final. You come back.
+
+What you lose is everything you were carrying. Your knight armor stays where you fell and the enemy can pick it up and keep it. So going to war there is not the appalling thing it is elsewhere - it costs you your gear, not your life - and a sword fight still matters, because nobody wants to be hurt and nobody wants to be stripped.
+
+This rule has to be local to that realm, and the rest of the catalogue is the reason why. The General's son died and stayed dead. The Snow Jedi's second Padawan was killed by the Purple Shadow. The Green Captain stayed aboard the ship to set the bomb off himself, and the Verdauf brothers' father was killed in the line of duty and did not come back. If everybody respawned, none of that would have cost anything. It did.
 
 ---
 
@@ -3117,6 +3125,62 @@ Soldiers, and nothing more particular than that.
 *How it was got:* Black helmets, red collar tabs and a flag patch at the shoulder - a different twentieth-century European pattern from the olive lot.
 
 *Tags:* enemy, soldier, unit, black-helmet, villain
+
+### 262. The Aqua Force Leader
+
+**Alignment:** good · **Role:** Commander · **Figure:** custom
+
+Leader of Aqua Force.
+
+Aqua Force handles any military necessity that involves going underwater.
+
+*How it was got:* Black wetsuit with a blue trident on the chest, goggles pushed up onto the helmet.
+
+*Tags:* aqua-force, underwater, diver, leader, trident
+
+### 263. The Aqua Force Second
+
+**Alignment:** good · **Role:** Second in Command · **Figure:** custom
+
+Second in command of Aqua Force.
+
+*How it was got:* Air hose collar round the neck, visored helmet, and a face that is not enjoying itself.
+
+*Tags:* aqua-force, underwater, diver, second-in-command, air-hose
+
+### 264. The Aqua Force Diver
+
+**Alignment:** good · **Role:** Aqua Force · **Figure:** custom
+
+A member of Aqua Force.
+
+*How it was got:* Same black wetsuit and trident, grey arms, black legs.
+
+*Tags:* aqua-force, underwater, diver
+
+### 265. The Cool Aqua Diver
+
+**Alignment:** good · **Role:** Aqua Force · **Figure:** custom
+
+The cool one in Aqua Force.
+
+*How it was got:* Aviator sunglasses on, under the visor, underwater. The plastic is doing the work here.
+
+*Tags:* aqua-force, underwater, diver, cool, sunglasses
+
+### 266. The Royal Knight
+
+**Alignment:** good · **Role:** Knight · **Based:** The Medieval Era · **Figure:** custom
+
+One of the Royal Knights, and one of the most popular of them.
+
+The Royal Knights do not wear much armor, and they fight on the battlefield anyway. They can afford to: in that realm, dying is not the end of you. You come back. What you do not get back is your things - your armor stays where you fell, and the enemy is welcome to it.
+
+Which is why going to war is not the terrible matter it would be elsewhere, and why a sword fight still is. Nobody wants to be hurt, and nobody wants to be stripped.
+
+*How it was got:* Red and blue royal surcoat with a crowned lion, and a matching shield.
+
+*Tags:* knight, royal-knights, medieval, respawn, lion, popular
 
 ---
 

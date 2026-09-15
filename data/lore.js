@@ -279,6 +279,23 @@ window.LORE = [
       "captivity. And the story this world tells about its own worst day is " +
       "that the gods and the heroes all failed, and somebody with no rank at " +
       "all picked up a rifle."
+  },
+
+  {
+    title: "Dying in the medieval realm",
+    text:
+      "In the realm of the medieval, death is not final. You come back.\n\n" +
+      "What you lose is everything you were carrying. Your knight armor stays " +
+      "where you fell and the enemy can pick it up and keep it. So going to war " +
+      "there is not the appalling thing it is elsewhere - it costs you your " +
+      "gear, not your life - and a sword fight still matters, because nobody " +
+      "wants to be hurt and nobody wants to be stripped.\n\n" +
+      "This rule has to be local to that realm, and the rest of the catalogue " +
+      "is the reason why. The General's son died and stayed dead. The Snow " +
+      "Jedi's second Padawan was killed by the Purple Shadow. The Green Captain " +
+      "stayed aboard the ship to set the bomb off himself, and the Verdauf " +
+      "brothers' father was killed in the line of duty and did not come back. " +
+      "If everybody respawned, none of that would have cost anything. It did."
   }
 
 ];
