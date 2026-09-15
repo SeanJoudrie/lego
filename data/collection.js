@@ -15617,6 +15617,144 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-black-knight",
+    name: "The Black Knight",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Knight",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The Black Knight. Super evil, and that is the whole of what is said " +
+      "about him so far.",
+    provenance:
+      "A black helm with a flared crown and a raised visor, and behind it a " +
+      "silver skull - not a face, a skull, with the jaw and teeth worked in. A " +
+      "black torso printed with a silver ribcage and spine, black shoulder " +
+      "plates, black arms and hands, a dark red belt, black legs.",
+    tags: ["villain", "knight", "black-knight", "skull", "ribcage", "medieval", "armour"],
+    images: ["images/the-black-knight-01.jpg"],
+    acquired: "",
+    notes: "Fifth knight on the bad side, after Johnny Plasma, the Knight with the Real Sword, the Swordsmith Knight and the Evil Knight - and the three of those who are not Johnny Plasma are all tied to the swords that kill for real in the medieval realm. Nothing says he is. If he belongs to that story, say so and four become a set."
+  },
+
+  {
+    id: "the-cybernetic-ninja",
+    name: "The Cybernetic Ninja",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A ninja, rebuilt. Half his head is machine.",
+    provenance:
+      "A black ninja wrap over a yellow face, with a silver cybernetic plate " +
+      "covering the left side - a ringed lens set with three red dots where " +
+      "that eye was, a bracket running up over the crown, and the jaw plated " +
+      "to match. The right eye is his own. Gold and purple armour printed " +
+      "across a grey torso, black arms, black hands, black legs with an orange " +
+      "flame sash at the waist.",
+    tags: ["villain", "ninja", "cybernetic", "implant", "rebuilt", "armour"],
+    images: ["images/the-cybernetic-ninja-01.jpg"],
+    acquired: "",
+    notes: "Third ninja on the bad side, after the Crimson Ninja and the Ninja Assassin Pirate. He also lands in the middle of this world's oldest running idea - body modification worn as history, which starts with the Discarded and his silver arm and is the reason the civilization has cybernetics at all. The Bionics Team on that side build prosthetics that double as weapons, a limb that is also a gun. Nothing connects him to them, and it would be the obvious place for him to have been made."
+  },
+
+  {
+    id: "the-maker",
+    name: "The Maker",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Inventor",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A cross between Tony Stark and Ultron - the man who builds the machines, " +
+      "and the machine that came out of it. Both at once.",
+    provenance:
+      "A black cowl moulded close over the top half of a pale face, cut away " +
+      "at the eyes, leaving the mouth and chin bare and smiling. A dark grey " +
+      "torso and legs printed edge to edge with fine machine tracery - " +
+      "plating, cabling and vents - lit through with pale blue at the chest " +
+      "and down the body. Black arms, grey hands.",
+    tags: ["villain", "inventor", "machine", "cybernetic", "tech", "stark", "ultron"],
+    images: ["images/the-maker-01.jpg"],
+    acquired: "",
+    notes: "Tony Stark is already in this collection, filed good, as three figures in one entry - the man and both Iron Man suits. This one is the same idea gone wrong and is not linked to him, because nothing says they have met; it may be a comparison you were drawing rather than a person he knows. He follows the Missile and the two killer bots onto that side, and unlike any of them he is not only a machine - he is the man who made it as well. Placeholder name."
+  },
+
+  {
+    id: "the-evil-infantry-captain",
+    name: "The Evil Infantry Captain",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Infantry Captain",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A captain of infantry, on the wrong side of it.",
+    provenance:
+      "A black helmet printed with a red and white skull across the crown, " +
+      "under a transparent red visor with a scarred, grimacing face showing " +
+      "through it. Black flared shoulder armour over a blue and grey chest " +
+      "plate with a panelled belt; yellow arms, silver hands, silver legs " +
+      "printed with torn edges and pale chevrons.",
+    tags: ["villain", "captain", "infantry", "skull-helmet", "red-visor", "armour"],
+    images: ["images/the-evil-infantry-captain-01.jpg"],
+    acquired: "",
+    notes: "Sixth captain on the bad side, after the Iron League Captain, the Traitor Captain, the Bounty Hunter Captain, the Knock-off Captain and the Evil Space Captain. The Insect Captain in this same batch makes seven villains carrying a captaincy of some kind, and not one of them is written as commanding any of the others."
+  },
+
+  {
+    id: "the-insect-captain",
+    name: "The Insect Captain",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Captain of the evil insects, and the one in charge of them.",
+    provenance:
+      "A black insect helm with spread mandibles and a spiked crest, two round " +
+      "yellow-green eyes lit under it and small fangs below. A black torso " +
+      "printed in green circuitry around a single red slit eye at the chest, " +
+      "with green panels carried down black legs. Black arms, grey hands.",
+    tags: ["villain", "insect", "captain", "hive", "mandibles", "bio-tech", "green"],
+    images: ["images/the-insect-captain-01.jpg"],
+    acquired: "",
+    notes: "Insects are new. Six hundred figures and there has not been a single one, nor any animal enemy at all - the only creatures catalogued are Laval, a horse, and a Spider-Man. The evil insects he commands have not been photographed, so the force is real and empty for now, the same way the alien mercenaries were before their leader arrived. No group made until there is somebody to put in it."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
