@@ -20,6 +20,16 @@ theme; sort by order added, rank, role, rating, name, theme, or newest first.
 
 Click any figure for the full write-up.
 
+**The corner tag** on every card says where the figure is from: CUSTOM for the
+people of this world, or the franchise for everyone else - STAR WARS, MARVEL,
+NINJAGO and so on. A few franchise names are too long for a card and get an
+abbreviation there; the full name is on the figure itself and in the filter.
+
+Photos fill their tile rather than sitting inside it, cropped a little above
+centre so the face is what you see. Landscape photos - the group shots, where
+six people are lined up across the frame - are left to fit inside instead, since
+cropping those would cut people off at the edges.
+
 **How many across** is the slider next to the Filters button — anywhere from 2
 to 12. It remembers what you set. As the cards get narrower the page drops the
 text it can no longer fit: first the variant line and the group, then the name,
