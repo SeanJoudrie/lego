@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-390 characters from a custom LEGO minifigure world, in the order they were
+393 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4485,6 +4485,36 @@ Greedo.
 *How it was got:* Moulded blue-green Rodian head - long snout, black bulb eyes, antennae over the crown. Pale yellow open jerkin over a ribbed pale blue shirt, brown belt, pale blue arms and legs.
 
 *Tags:* star-wars, rodian, greedo, bounty-hunter, alien, branded
+
+### 391. Kai
+
+**Alignment:** good · **Role:** Ninja · **Figure:** branded
+
+Kai, the red ninja.
+
+*How it was got:* Red wrap hood covering everything but a yellow band across the eyes, brows down hard. Red gi crossed with brown rope, a gold flame crest at the chest, grey sash and black hands.
+
+*Tags:* ninjago, ninja, red, fire, hood, branded
+
+### 392. Jay — Two figures
+
+**Alignment:** good · **Role:** Ninja · **Figure:** branded
+
+Jay, the blue ninja.
+
+*How it was got:* Two figures of the same man. The first is in a plain blue hood and a blue gi crossed with brown rope, a gold crest at the chest and a dark sash. The second has a silver crest riveted to the brow of the hood, a grey shoulder wrap and a white buckled belt, and one grey arm against one blue.
+
+*Tags:* ninjago, ninja, blue, hood, branded
+
+### 393. Zane — Two figures
+
+**Alignment:** good · **Role:** Ninja · **Figure:** branded
+
+Zane, the white ninja.
+
+*How it was got:* Two figures of the same man. One is unhooded - pale swept hair over a plain yellow face - in a white gi printed with a gold dragon breathing blue ice, silver sash. The other is hooded with a gold crest at the brow, in white with brown straps and a cream sash.
+
+*Tags:* ninjago, ninja, white, ice, dragon, branded
 
 ---
 

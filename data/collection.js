@@ -10301,6 +10301,90 @@ window.COLLECTION = [
   },
 
 
+  {
+    id: "kai",
+    name: "Kai",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "Ninja",
+    group: "The Ninja",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Kai, the red ninja.",
+    provenance:
+      "Red wrap hood covering everything but a yellow band across the eyes, " +
+      "brows down hard. Red gi crossed with brown rope, a gold flame crest at " +
+      "the chest, grey sash and black hands.",
+    tags: ["ninjago", "ninja", "red", "fire", "hood", "branded"],
+    images: ["images/kai-01.jpg"],
+    acquired: "",
+    notes: "Opens an eleventh theme. Only one figure of him so far, where Jay and Zane arrived with two apiece."
+  },
+
+
+  {
+    id: "jay",
+    name: "Jay",
+    variant: "Two figures",
+    faction: "good",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "Ninja",
+    group: "The Ninja",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Jay, the blue ninja.",
+    provenance:
+      "Two figures of the same man. The first is in a plain blue hood and a " +
+      "blue gi crossed with brown rope, a gold crest at the chest and a dark " +
+      "sash. The second has a silver crest riveted to the brow of the hood, a " +
+      "grey shoulder wrap and a white buckled belt, and one grey arm against " +
+      "one blue.",
+    tags: ["ninjago", "ninja", "blue", "hood", "branded"],
+    images: [
+      { src: "images/jay-01.jpg", caption: "In the plain hood" },
+      { src: "images/jay-02.jpg", caption: "Crested hood, with armour" },
+    ],
+    acquired: "",
+    notes: "Two figures, one card - the same man in ordinary kit and in armour, which is a third reason for a second photo after age and moulding."
+  },
+
+
+  {
+    id: "zane",
+    name: "Zane",
+    variant: "Two figures",
+    faction: "good",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "Ninja",
+    group: "The Ninja",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Zane, the white ninja.",
+    provenance:
+      "Two figures of the same man. One is unhooded - pale swept hair over a " +
+      "plain yellow face - in a white gi printed with a gold dragon breathing " +
+      "blue ice, silver sash. The other is hooded with a gold crest at the " +
+      "brow, in white with brown straps and a cream sash.",
+    tags: ["ninjago", "ninja", "white", "ice", "dragon", "branded"],
+    images: [
+      { src: "images/zane-01.jpg", caption: "Unmasked" },
+      { src: "images/zane-02.jpg", caption: "Hooded, with the gold crest" },
+    ],
+    acquired: "",
+    notes: "The unmasked figure is the point of this card - of the three ninja here, he is the only one whose face has been seen, and Kai and Jay are both still behind cloth."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
