@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-479 characters from a custom LEGO minifigure world, in the order they were
+484 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -190,6 +190,16 @@ Luke Skywalker and the rebel pilots exist within this world. They are not figure
 That is worth stating plainly because the world already had its own answer to all of this. It has Jedi - the Snow Jedi and the line he trained. It has clone troopers. None of those are the films' people; they are this world's own, built out of the same parts. The easy reading would have been that the Rebellion belongs to some other world and came through, which is a thing that happens here constantly.
 
 It is not that. The Snow Jedi's line and Luke's squadron are in the same world at the same time, and neither is a copy or a guest of the other. This world simply has both.
+
+### Figures lost to time
+
+Some of these people are not on the shelf any more. Pieces go missing over twenty-odd years - under furniture, into other people's boxes, into bins - and what is gone is gone.
+
+The rule is that a lost figure is a dead one. They are not written out or quietly dropped; they are catalogued at the end, with what they looked like and who they belonged to, and marked dead in the world. Some of them only exist now as a frame off an old video.
+
+It does uncomfortable things to the timeline - people who were alive in one story are dead in this one - and the instruction is to ignore that. The deaths stand.
+
+Four of the first seven are Space Militia. That unit already carried the collection's heaviest loss, the General's adopted son, whose death is the reason the militia has the safety culture it has. It has now lost more men than anybody else here, twice over: once in the world, and once in the real room where the collection lives.
 
 ---
 
@@ -5421,6 +5431,62 @@ A commando of the 501st.
 *How it was got:* Two figures sharing the same chest print - a grey rig with three dark blocks at one shoulder over a blue wedge. One wears a black cloth pauldron and carries a pistol in each hand; the other has a blue kama at the hip, thigh holsters printed on and a single long rifle. Both helmets carry blue strokes over the crown with small red marks.
 
 *Tags:* star-wars, clone, commando, 501st, blue, pauldron, kama, branded
+
+### 480. The Militiaman in the Black Helm
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+Space Militia. Lost, and dead.
+
+He is one of the figures that did not survive the years - gone from the shelf, and gone from the world with it.
+
+*How it was got:* Black domed helmet with the visor down over a yellow face in dark sunglasses, black neck bracket. Ribbed black chest armour with a control panel at the sternum and a segmented belt, one yellow arm and one black.
+
+Photographed off an old video rather than in hand, because there is no hand to photograph him in any more.
+
+*Tags:* space-militia, lost, deceased, helmet, sunglasses
+
+### 481. The Militiaman in the Red Helm
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+Space Militia. Lost, and dead.
+
+*How it was got:* Dark red helmet over a black cowl, a yellow face with a cut across one cheek and a flat, unhappy mouth. Black sleeveless top with a grey ammunition belt printed across it, black legs, a long rifle in one hand.
+
+*Tags:* space-militia, lost, deceased, rifle, scarred
+
+### 482. The Ranger Patrol Captain
+
+**Alignment:** good · **Role:** Patrol Captain · **Figure:** custom
+
+A patrol captain of the rangers. Lost, and dead.
+
+*How it was got:* Green helmet with a broad brim and flaps down both sides, fair hair showing under it. Green field jacket printed with a bandolier of pouches over camouflage, a white-and-black webbing belt, pale grey legs.
+
+*Tags:* green-rangers, ranger, captain, lost, deceased, camouflage
+
+### 483. The Militiamen Out of Armour — Two of them
+
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
+
+Space Militia. Lost, and dead. There are two of them.
+
+*How it was got:* Neither is in uniform. One has black hair and a blue work harness over denim with an identity card clipped at the hip and a pack on his back; the other is blond with wraparound sunglasses and a headset mic, in a black sleeveless top printed with flames and a chequered flag.
+
+Photographed together, on a table, years ago.
+
+*Tags:* space-militia, lost, deceased, civilian-dress, headset
+
+### 484. The Lost Miners — Two of them
+
+**Alignment:** good · **Role:** Power Miner · **Figure:** custom
+
+Two of the power miners. Lost, and dead.
+
+*How it was got:* Blue helmets with the ear guards down, one with the clear visor pulled over it. Blue working overalls - one in a plain bib with a pencil in the pocket, the other in a harnessed vest hung with tools - over blue legs. A streak of red hair shows under one helmet.
+
+*Tags:* power-miner, lost, deceased, overalls, helmet
 
 ---
 

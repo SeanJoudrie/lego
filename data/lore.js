@@ -314,6 +314,26 @@ window.LORE = [
       "It is not that. The Snow Jedi's line and Luke's squadron are in the " +
       "same world at the same time, and neither is a copy or a guest of the " +
       "other. This world simply has both."
+  },
+
+  {
+    title: "Figures lost to time",
+    text:
+      "Some of these people are not on the shelf any more. Pieces go missing " +
+      "over twenty-odd years - under furniture, into other people's boxes, " +
+      "into bins - and what is gone is gone.\n\n" +
+      "The rule is that a lost figure is a dead one. They are not written out " +
+      "or quietly dropped; they are catalogued at the end, with what they " +
+      "looked like and who they belonged to, and marked dead in the world. " +
+      "Some of them only exist now as a frame off an old video.\n\n" +
+      "It does uncomfortable things to the timeline - people who were alive " +
+      "in one story are dead in this one - and the instruction is to ignore " +
+      "that. The deaths stand.\n\n" +
+      "Four of the first seven are Space Militia. That unit already carried " +
+      "the collection's heaviest loss, the General's adopted son, whose death " +
+      "is the reason the militia has the safety culture it has. It has now " +
+      "lost more men than anybody else here, twice over: once in the world, " +
+      "and once in the real room where the collection lives."
   }
 
 ];

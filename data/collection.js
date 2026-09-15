@@ -12808,6 +12808,142 @@ window.COLLECTION = [
   },
 
 
+  /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
+
+  {
+    id: "the-militiaman-in-the-black-helm",
+    name: "The Militiaman in the Black Helm",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    group: "The Space Militia",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Space Militia. Lost, and dead.\n\n" +
+      "He is one of the figures that did not survive the years - gone from " +
+      "the shelf, and gone from the world with it.",
+    provenance:
+      "Black domed helmet with the visor down over a yellow face in dark " +
+      "sunglasses, black neck bracket. Ribbed black chest armour with a " +
+      "control panel at the sternum and a segmented belt, one yellow arm and " +
+      "one black.\n\n" +
+      "Photographed off an old video rather than in hand, because there is no " +
+      "hand to photograph him in any more.",
+    tags: ["space-militia", "lost", "deceased", "helmet", "sunglasses"],
+    images: ["images/the-militiaman-in-the-black-helm-01.jpg"],
+    acquired: "",
+    notes: "First of the lost. These entries are here because a catalogue that only holds what survives is not a record of the collection, it is a record of the shelf."
+  },
+
+
+  {
+    id: "the-militiaman-in-the-red-helm",
+    name: "The Militiaman in the Red Helm",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    group: "The Space Militia",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Space Militia. Lost, and dead.",
+    provenance:
+      "Dark red helmet over a black cowl, a yellow face with a cut across one " +
+      "cheek and a flat, unhappy mouth. Black sleeveless top with a grey " +
+      "ammunition belt printed across it, black legs, a long rifle in one hand.",
+    tags: ["space-militia", "lost", "deceased", "rifle", "scarred"],
+    images: ["images/the-militiaman-in-the-red-helm-01.jpg"],
+    acquired: "",
+    notes: "The only one of the lost carrying a weapon in his photograph."
+  },
+
+
+  {
+    id: "the-ranger-patrol-captain",
+    name: "The Ranger Patrol Captain",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Patrol Captain",
+    group: "The Green Rangers",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A patrol captain of the rangers. Lost, and dead.",
+    provenance:
+      "Green helmet with a broad brim and flaps down both sides, fair hair " +
+      "showing under it. Green field jacket printed with a bandolier of " +
+      "pouches over camouflage, a white-and-black webbing belt, pale grey legs.",
+    tags: ["green-rangers", "ranger", "captain", "lost", "deceased", "camouflage"],
+    images: ["images/the-ranger-patrol-captain-01.jpg"],
+    acquired: "",
+    notes: "Filed with the Green Rangers on the green, which is the only thing tying him to them - say so if the patrol was its own outfit. He is the highest rank among the lost, and the Green Rangers had no captain until now: they are the lowest tier of the military and every one of them catalogued so far is rank and file."
+  },
+
+
+  {
+    id: "the-militiamen-out-of-armour",
+    name: "The Militiamen Out of Armour",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Space Militia",
+    group: "The Space Militia",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Space Militia. Lost, and dead. There are two of them.",
+    provenance:
+      "Neither is in uniform. One has black hair and a blue work harness over " +
+      "denim with an identity card clipped at the hip and a pack on his back; " +
+      "the other is blond with wraparound sunglasses and a headset mic, in a " +
+      "black sleeveless top printed with flames and a chequered flag.\n\n" +
+      "Photographed together, on a table, years ago.",
+    tags: ["space-militia", "lost", "deceased", "civilian-dress", "headset"],
+    images: [{ src: "images/the-militiamen-out-of-armour-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "Four of the seven lost figures are Space Militia, across three cards, which is a hard thing to notice - of every unit in this collection, the militia is the one that actually lost people. The General lost his adopted son too, and that death is why the whole outfit has the safety culture it has."
+  },
+
+
+  {
+    id: "the-lost-miners",
+    name: "The Lost Miners",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Power Miner",
+    group: "The Power Miners",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two of the power miners. Lost, and dead.",
+    provenance:
+      "Blue helmets with the ear guards down, one with the clear visor pulled " +
+      "over it. Blue working overalls - one in a plain bib with a pencil in " +
+      "the pocket, the other in a harnessed vest hung with tools - over blue " +
+      "legs. A streak of red hair shows under one helmet.",
+    tags: ["power-miner", "lost", "deceased", "overalls", "helmet"],
+    images: [{ src: "images/the-lost-miners-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "The mining crew is eight now, and two of the eight are gone. Their blue is a different blue from the six who survive - lighter, and in overalls rather than the grey and blue harnesses the others wear - so they read as an earlier generation of the crew."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
