@@ -1371,6 +1371,28 @@ window.LORE = [
       "security post inside a directorate. And the world has produced the " +
       "oldest shape in fiction without anybody planning it: the suspicious man " +
       "who stayed, and the respectable one who did not."
+  },
+
+  {
+    title: "The institutions are leaking",
+    text:
+      "Something has started happening to this world that was not happening " +
+      "before, and it is not being done by armies.\n\n" +
+      "The Royal Transport Authority lost its director, and on his way out he " +
+      "betrayed the Mad Ticket Man, who holds the security of the palace and " +
+      "the city. The armoury lost the man who kept it, and he moved as many " +
+      "guns, explosives and weapons out of the door as he could carry. The " +
+      "Atlantis dive team lost its captain, which is why a twenty-three year " +
+      "old is running it - and then lost a diver as well, two batches apart, " +
+      "with nothing said to connect them.\n\n" +
+      "That is a different kind of enemy from the ones this collection was " +
+      "built on. The old villains want things and come and take them: a " +
+      "throne, an outer rim, a payday, the world remade. These are people who " +
+      "were already inside, holding the roads, the guns and the water, and who " +
+      "simply stopped being on this side one day.\n\n" +
+      "None of them is written as knowing any other. If they do, the enemy has " +
+      "a fifth column rather than a run of separate resignations, and that is " +
+      "one word away either direction."
   }
 
 ];

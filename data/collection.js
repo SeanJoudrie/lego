@@ -8640,6 +8640,7 @@ window.COLLECTION = [
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
+      { to: "the-former-dive-captain", label: "Took the job the captain left" },
       { to: "the-atlantis-leader", label: "One of his leaders" },
       { to: "the-atlantis-diver", label: "Leads" },
       { to: "the-moustached-diver", label: "Leads" },
@@ -16887,6 +16888,146 @@ window.COLLECTION = [
     images: ["images/the-evil-pilot-01.jpg"],
     acquired: "",
     notes: "Thirty pilots are catalogued here and twenty-eight of them are good - it is the second commonest job in the collection after soldier, and until the Pilot's Apprentice murdered the Famous Pilot for his job, every single one of them was on the right side. This is the second. He is dressed as a racing driver rather than a combat flier, and the three racing drivers here are all good, so which he actually flies is worth saying."
+  },
+
+
+
+  {
+    id: "the-armoury-traitor",
+    name: "The Armoury Traitor",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Armorer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The traitor of the armoury. He moved as many guns, weapons and " +
+      "explosives out of it as he could get his hands on.",
+    provenance:
+      "Short black hair over a pale face with heavy brows and a flat mouth. A " +
+      "blue torso printed with a grey chest plate, a panelled belt and a brown " +
+      "strap over one shoulder; one blue arm and one grey, grey hands, blue " +
+      "legs with a white buckle and a pale slash printed at the thigh.",
+    tags: ["villain", "armoury", "armorer", "traitor", "weapons", "explosives", "theft"],
+    images: ["images/the-armoury-traitor-01.jpg"],
+    acquired: "",
+    notes: "You put him next to the Transport Director from the last batch and the pair of them make a shape: two men inside the machinery of the state who turned, one holding the roads and one holding the guns. Nothing is written between them and a comparison is not a connection, so no link. Say they worked together and the enemy has a fifth column rather than two separate resignations. The armoury itself is new as a place; the Armorer of the Gunless Realm and the Space Militia's Quartermaster are the only other people here who keep weapons, and both are good."
+  },
+
+  {
+    id: "the-robot-builder",
+    name: "The Robot Builder",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Robot Builder",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A robotic soldier who builds robots.",
+    provenance:
+      "A plain white helmet with a silver mirrored visor lifted, and behind it " +
+      "a yellow face with a single green lens where one eye should be and a " +
+      "grimace under it. A black torso printed edge to edge with grey plating " +
+      "and pale blue lights - a ribbed spine, panels at the ribs, a lit core - " +
+      "black arms, grey hands, blue legs.",
+    tags: ["villain", "robot", "machine", "builder", "manufacture", "lens-eye", "visor"],
+    images: ["images/the-robot-builder-01.jpg"],
+    acquired: "",
+    notes: "Eighth machine on the bad side, and the one that changes the arithmetic: he makes more. Every machine over there so far has been a single object somebody else built - the Missile, two killer bots, the Television, the Robotic Samurai, the Successful Replica. The Maker built himself, which was already a step. This one is a production line, and a production line does not need the villains to keep photographing new ones."
+  },
+
+  {
+    id: "the-former-dive-captain",
+    name: "The Former Dive Captain",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Captain",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-young-leader", label: "The captain before him" },
+    ],
+    rating: 0,
+    background:
+      "He was the captain of the Atlantis dive team before he switched sides.",
+    provenance:
+      "A translucent green dome helmet over a yellow face in wide goggles, " +
+      "with a grey collar rig and a tank at the back. A grey dive suit printed " +
+      "with yellow-blocked plating at the waist and a red belt, red arms, black " +
+      "hands, grey legs carrying a red trident badge at one thigh and a tool at " +
+      "the other.",
+    tags: ["villain", "diver", "atlantis", "captain", "defector", "trident", "dome-helmet"],
+    images: ["images/the-former-dive-captain-01.jpg"],
+    acquired: "",
+    notes: "This answers a question the Young Leader's card never knew it was asking. He is twenty-three, he runs the Atlantis dive team, and his note says almost every leader in this collection got the job by rank, bloodline or outliving the last one - and that he got it by being wanted in it. Both are now true. There was a captain before him, the captain turned, and the job went to the youngest person in the collection to run anything. Second defector out of the same twelve-strong team in two batches, after the Atlantis Traitor, and the two of them are not written as connected."
+  },
+
+  {
+    id: "the-gladiator",
+    name: "The Gladiator",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Gladiator",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A gladiator, and a warrior.",
+    provenance:
+      "A bronze gladiator helm with a crest standing off the crown, the brim " +
+      "flared out at the sides and the whole face closed behind a pierced " +
+      "grille. A black tunic printed over a brown belt with pale fastenings, " +
+      "one yellow arm cracked with age and one black, a yellow hand and a grey " +
+      "one, tan legs with a satchel at one thigh and a white axe head at the " +
+      "other.",
+    tags: ["villain", "gladiator", "warrior", "bronze-helm", "grille", "axe", "arena"],
+    images: ["images/the-gladiator-01.jpg"],
+    acquired: "",
+    notes: "Gladiators are new. Six hundred and forty-five figures and nobody has fought for an audience before - the nearest things are the Wrestler, the Sumo Wrestler and the Boxer, all three filed as athletes and all three good. Fighting here has always been war, crime, or duty. This is the first man whose job is a spectacle. Whether there is an arena somewhere in this world, and whose, is worth saying."
+  },
+
+  {
+    id: "the-infantry-captain-in-grey",
+    name: "The Infantry Captain in Grey",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Infantry Captain",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An evil infantry captain.",
+    provenance:
+      "A grey helmet with the visor raised, showing an orange-lit face with " +
+      "hard brows and a set mouth. A dark blue torso printed with silver " +
+      "plating across the chest and a panelled belt, the letters WIZ at one " +
+      "shoulder; dark blue arms, grey hands, dark blue legs carrying the same " +
+      "silver panelling down to the boot.",
+    tags: ["villain", "captain", "infantry", "visor", "plating", "wiz"],
+    images: ["images/the-infantry-captain-in-grey-01.jpg"],
+    acquired: "",
+    notes: "Named in grey because The Evil Infantry Captain already exists on that side - a black helmet printed with a red and white skull under a transparent red visor, arriving five batches ago. Two evil infantry captains now, dressed nothing alike, with nothing written between them and no unit named for either. Tenth villain carrying a captaincy, counting the Former Dive Captain in this same batch, and still not one of the ten is written as commanding any of the others. The WIZ on his shoulder is not explained."
   },
 
 
