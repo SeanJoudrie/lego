@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-393 characters from a custom LEGO minifigure world, in the order they were
+397 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4224,13 +4224,13 @@ A guard of the Jedi palace.
 
 *Tags:* star-wars, jedi, guard, masked, robes, branded
 
-### 365. Anakin Skywalker — Three figures
+### 365. Anakin Skywalker — Four figures
 
 **Alignment:** good · **Figure:** branded
 
 Anakin Skywalker, as a boy and grown.
 
-*How it was got:* Three figures of the same man. Two are the boy - one with short dark brown hair, one with a fairer sandy mop - both freckled, both in plain pale desert clothes with a brown belt, no armour and no weapon. The third is the man: long swept hair, a scar down one cheek, blue eyes and black Jedi robes with a brown leather belt.
+*How it was got:* Three figures of the same man. Two are the boy - one with short dark brown hair, one with a fairer sandy mop - both freckled, both in plain pale desert clothes with a brown belt, no armour and no weapon. The third is the man: long swept hair, a scar down one cheek, blue eyes and black Jedi robes with a brown leather belt. A fourth is him again in cold-weather kit: a navy parka with a grey fur hood, the Jedi crest on the chest, and a scarf and goggles wrapped over the whole face.
 
 *Tags:* star-wars, anakin, child, desert, branded
 
@@ -4515,6 +4515,46 @@ Zane, the white ninja.
 *How it was got:* Two figures of the same man. One is unhooded - pale swept hair over a plain yellow face - in a white gi printed with a gold dragon breathing blue ice, silver sash. The other is hooded with a gold crest at the brow, in white with brown straps and a cream sash.
 
 *Tags:* ninjago, ninja, white, ice, dragon, branded
+
+### 394. Cole
+
+**Alignment:** good · **Role:** Ninja · **Figure:** branded
+
+Cole, the black ninja.
+
+*How it was got:* Unhooded - heavy dark hair over a plain yellow face, mouth set flat. Black gi with scaled shoulder panels and pale wrapping, silver shoulder guards clipped over the neck, silver hands.
+
+*Tags:* ninjago, ninja, black, unmasked, armour, branded
+
+### 395. Nya
+
+**Alignment:** good · **Role:** Samurai · **Figure:** branded
+
+Nya, in samurai armour.
+
+*How it was got:* Black war helmet with silver horns swept up from the brow, a red snarling face-guard clamped round the jaw, and her own face - lashes, level brows - showing through the gap. Grey breastplate and shoulder plates over red, red skirted legs.
+
+*Tags:* ninjago, samurai, armour, helmet, red, branded
+
+### 396. Sokka
+
+**Alignment:** good · **Figure:** branded
+
+Sokka.
+
+*How it was got:* Plain mid-blue torso and arms over dark navy legs, brown hair, blue eyes and a crooked grin. Not a printed piece anywhere on him - no Water Tribe markings, no belt, nothing.
+
+*Tags:* avatar-the-last-airbender, water-tribe, branded
+
+### 397. The Dwarf Soldier
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A dwarf soldier.
+
+*How it was got:* Ginger hair swept back and a full ginger beard across a brown face, one tooth showing in the grin. Red tunic with a white fur collar and two buckled belts, mismatched arms - one black, one black and cream with a pauldron - and black legs.
+
+*Tags:* dwarf, soldier, beard, small-folk
 
 ---
 

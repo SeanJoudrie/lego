@@ -5161,7 +5161,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Librarian",
-    group: "",
+    group: "The Dwarves",
     location: "",
     relations: [
       { to: "the-dwarf-king", label: "Dwarf kingdom in common" },
@@ -5318,7 +5318,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "King",
-    group: "",
+    group: "The Dwarves",
     location: "",
     relations: [
       { to: "the-dwarf-librarian", label: "Dwarf kingdom in common" },
@@ -9613,7 +9613,7 @@ window.COLLECTION = [
   {
     id: "anakin-skywalker",
     name: "Anakin Skywalker",
-    variant: "Three figures",
+    variant: "Four figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9629,15 +9629,18 @@ window.COLLECTION = [
       "brown hair, one with a fairer sandy mop - both freckled, both in plain " +
       "pale desert clothes with a brown belt, no armour and no weapon. The " +
       "third is the man: long swept hair, a scar down one cheek, blue eyes and " +
-      "black Jedi robes with a brown leather belt.",
+      "black Jedi robes with a brown leather belt. A fourth is him again in " +
+      "cold-weather kit: a navy parka with a grey fur hood, the Jedi crest on " +
+      "the chest, and a scarf and goggles wrapped over the whole face.",
     tags: ["star-wars", "anakin", "child", "desert", "branded"],
     images: [
       { src: "images/anakin-skywalker-01.jpg", caption: "As a boy, dark hair" },
       { src: "images/anakin-skywalker-03.jpg", caption: "As a boy, fair hair" },
       { src: "images/anakin-skywalker-02.jpg", caption: "Grown, in Jedi black" },
+      { src: "images/anakin-skywalker-04.jpg", caption: "Grown, in cold-weather kit" },
     ],
     acquired: "",
-    notes: "He was entered under his full name last time precisely so a grown figure could join this entry instead of starting a second one, and that is what happened - the boy and the man are one card. Three figures now, two of them the boy. The scar is the whole distance between the child and the man. Whether this world knows he is Luke's father is still not written down."
+    notes: "He was entered under his full name last time precisely so a grown figure could join this entry instead of starting a second one, and that is what happened - the boy and the man are one card. Four figures now, two of them the boy - the most of any person in this collection. The scar is the whole distance between the child and the man. Whether this world knows he is Luke's father is still not written down."
   },
 
 
@@ -10382,6 +10385,108 @@ window.COLLECTION = [
     ],
     acquired: "",
     notes: "The unmasked figure is the point of this card - of the three ninja here, he is the only one whose face has been seen, and Kai and Jay are both still behind cloth."
+  },
+
+
+  {
+    id: "cole",
+    name: "Cole",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "Ninja",
+    group: "The Ninja",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Cole, the black ninja.",
+    provenance:
+      "Unhooded - heavy dark hair over a plain yellow face, mouth set flat. " +
+      "Black gi with scaled shoulder panels and pale wrapping, silver " +
+      "shoulder guards clipped over the neck, silver hands.",
+    tags: ["ninjago", "ninja", "black", "unmasked", "armour", "branded"],
+    images: ["images/cole-01.jpg"],
+    acquired: "",
+    notes: "Second ninja here whose face has been seen, after the unmasked Zane. Kai and Jay are both still behind cloth."
+  },
+
+
+  {
+    id: "nya",
+    name: "Nya",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "Samurai",
+    group: "The Ninja",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Nya, in samurai armour.",
+    provenance:
+      "Black war helmet with silver horns swept up from the brow, a red " +
+      "snarling face-guard clamped round the jaw, and her own face - lashes, " +
+      "level brows - showing through the gap. Grey breastplate and shoulder " +
+      "plates over red, red skirted legs.",
+    tags: ["ninjago", "samurai", "armour", "helmet", "red", "branded"],
+    images: ["images/nya-01.jpg"],
+    acquired: "",
+    notes: "First woman in the Ninjago group, and the only one of the five in plate rather than cloth. She is also the second samurai in this collection - the first is the Shogun who trained the Blue-Haired Ninja, so both traditions here now have one."
+  },
+
+
+  {
+    id: "sokka",
+    name: "Sokka",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Avatar: The Last Airbender",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Sokka.",
+    provenance:
+      "Plain mid-blue torso and arms over dark navy legs, brown hair, blue " +
+      "eyes and a crooked grin. Not a printed piece anywhere on him - no " +
+      "Water Tribe markings, no belt, nothing.",
+    tags: ["avatar-the-last-airbender", "water-tribe", "branded"],
+    images: ["images/sokka-01.jpg"],
+    acquired: "",
+    notes: "Opens a twelfth theme. Worth recording plainly: the figure carries no character printing at all, so he is Sokka because you say he is, not because the parts say so - which puts him closer to how the custom half of this collection works than to how the branded half does."
+  },
+
+
+  {
+    id: "the-dwarf-soldier",
+    name: "The Dwarf Soldier",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Dwarves",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A dwarf soldier.",
+    provenance:
+      "Ginger hair swept back and a full ginger beard across a brown face, " +
+      "one tooth showing in the grin. Red tunic with a white fur collar and " +
+      "two buckled belts, mismatched arms - one black, one black and cream " +
+      "with a pauldron - and black legs.",
+    tags: ["dwarf", "soldier", "beard", "small-folk"],
+    images: ["images/the-dwarf-soldier-01.jpg"],
+    acquired: "",
+    notes: "His arrival makes three dwarves, so they are a group now - him, the Dwarf King and the Dwarf Librarian, who were both sitting loose until today. The same thing happened to the Winter Troopers and the Enforcer Squad: two of a kind are not an organisation, three are."
   },
 
 
