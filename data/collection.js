@@ -14915,7 +14915,7 @@ window.COLLECTION = [
     tags: ["villain", "robot", "sentient", "heavy", "indestructible", "missile", "ramming"],
     images: ["images/the-missile-01.jpg"],
     acquired: "",
-    notes: "The first robot in this collection on the bad side. Twenty-three thinking machines were catalogued before him - fifteen of this world, from the Rebuilt through to the Golden Sniper, plus C-3PO, R2-D2 and six astromechs - and every single one is filed good. Second figure to take the Heavy role, in the same batch as the first. Placeholder name."
+    notes: "The first machine in this collection on the bad side. Every one catalogued before him is good - the Rebuilt, the Ninja Robot, the Defense Bot, the Replica, the Stunt Robot, the Storage Robot, the Hijacked, the Tin Robot and the Dock Robot of this world, plus C-3PO, R2-D2 and six astromechs borrowed from another. Two more arrived on his side one batch later. Second figure to take the Heavy role, in the same batch as the first. Placeholder name."
   },
 
   {
@@ -15062,6 +15062,144 @@ window.COLLECTION = [
     images: ["images/the-alien-militia-commander-01.jpg"],
     acquired: "",
     notes: "New group: The Alien Militia, and the first standing military force catalogued on the bad side that is not a mercenary outfit or somebody's personal guard. The Space Militia is the good side's, seventeen strong. Nothing is written between this militia and the alien mercenaries the Lead Alien Mercenary commands - two separate alien fighting forces until you say otherwise. Placeholder name; the school is the part worth keeping in it."
+  },
+
+
+
+  {
+    id: "the-pharaoh",
+    name: "The Pharaoh",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pharaoh",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An ancient pharaoh. Raid her tomb and she puts the curse on you - " +
+      "anyone who goes in after what is hers comes out carrying it.",
+    provenance:
+      "A turquoise headdress banded in red and gold over a gold face with " +
+      "painted eyes and a level mouth. A white torso wrapped in bandages under " +
+      "a broad collar of red, turquoise and gold with a dark scarab at the " +
+      "centre; bandaged arms with gold and turquoise cuffs, grey hands, a gold " +
+      "belt and skirt over white bandaged legs.",
+    tags: ["villain", "pharaoh", "ancient", "curse", "tomb", "mummy", "egypt", "queen", "woman"],
+    images: ["images/the-pharaoh-01.jpg"],
+    acquired: "",
+    notes: "The second woman on the villain side, and the first with any power - the other is a camera operator in a work uniform. She is also the first Egypt in the collection at all; nothing else here is of that world. Filed bad with the rest of this run, though cursing the people who rob your own grave is the most defensible thing anybody on that side has done. Say the word and she moves."
+  },
+
+  {
+    id: "the-white-killer-bot",
+    name: "The White Killer Bot",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Killer Bot",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A killer bot. Built to do it, and that is the whole job.",
+    provenance:
+      "A white moulded head with a hooded brow and a long blunt snout, two " +
+      "ringed lenses lit green where the eyes would be, and a silver crown " +
+      "piece behind. White body throughout - a panelled jumpsuit printed with " +
+      "utility boxes down the waist and pocket seams at the thighs, white arms, " +
+      "white hands, white legs.",
+    tags: ["villain", "killer-bot", "robot", "machine", "green-optics", "white"],
+    images: ["images/the-white-killer-bot-01.jpg"],
+    acquired: "",
+    notes: "Second machine ever catalogued on the bad side, after the Missile in the batch before this one - and he had been the only one for about an hour. Nothing is written between him and the Armoured Killer Bot who arrived alongside him, so they share a role and nothing else; say they work together and they connect. Reading \"killer bought\" as killer bot - correct me if that is wrong."
+  },
+
+  {
+    id: "the-jetpack-sniper",
+    name: "The Jetpack Sniper",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Sniper",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A sniper who works from a jetpack. He takes the shot from wherever the " +
+      "pack will put him.",
+    provenance:
+      "A black cloth head wrap drawn across the face, leaving a band open at " +
+      "the eyes - dark brows, hard stare. Black sleeveless torso printed with " +
+      "a pale winged shape across the chest over a studded harness and a " +
+      "bearded mask device below it, bare tanned arms, tan hands, black legs.",
+    tags: ["villain", "sniper", "jetpack", "marksman", "masked", "wrapped"],
+    images: ["images/the-jetpack-sniper-01.jpg"],
+    acquired: "",
+    notes: "The first sniper in this collection on the bad side. The three who carried the name before him are all good - the Sniper, the Golden Sniper and the Delta Sniper - and all three are men, though the Golden Sniper never takes a bounty without his robot. He is also the first person here to use a jetpack as how he works rather than as a thing he owns; the only other jetpacks are on an archangel and a Nexo Knight."
+  },
+
+  {
+    id: "the-armoured-killer-bot",
+    name: "The Armoured Killer Bot",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Killer Bot",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The other killer bot. Same work, built heavier.",
+    provenance:
+      "A grey helm with a spiked crest and a hinged snouted faceplate, the " +
+      "visor a band of transparent gold with two lit rings behind it. Grey " +
+      "plate armour printed with a winged crest and copper edging, one pale " +
+      "grey arm and one dark, grey hands, grey legs printed with pale blazons " +
+      "and worn patches.",
+    tags: ["villain", "killer-bot", "robot", "machine", "armour", "gold-visor", "spiked-helm"],
+    images: ["images/the-armoured-killer-bot-01.jpg"],
+    acquired: "",
+    notes: "Third machine on the bad side, arriving in the same batch as the second. He looks medieval and the other one looks like a droid, which says the killer bots are not one production line. Nothing written between the two, so no link. Same reading of \"killer bought\" as on his counterpart."
+  },
+
+  {
+    id: "the-gangster-financier",
+    name: "The Gangster Financier",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Financier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A gangster, and the money behind one. He finances the work rather than " +
+      "doing it.",
+    provenance:
+      "A black wide-brimmed fedora over a yellow face with a heavy black beard " +
+      "and sideburns, brows down, a scar at one eye. A black pinstriped " +
+      "double-breasted suit printed with a white shirt and tie and four " +
+      "buttons, black arms, yellow hands, black legs.",
+    tags: ["villain", "gangster", "financier", "money", "crime", "pinstripe", "fedora"],
+    images: ["images/the-gangster-financier-01.jpg"],
+    acquired: "",
+    notes: "Fourth financier here and the first on the bad side - the Royal Financier funds the Galactic Army, the City Financier funds the city, the Sculptor's Heir inherited his. Two roles crossed over in this one batch, Financier and Sniper, which puts twenty-five of the two hundred and eleven jobs in this world on both sides at once. He is also the first organised-crime figure on that side who is not a bounty hunter, an assassin or a dealer; the money end of the underworld has not been photographed before."
   },
 
 

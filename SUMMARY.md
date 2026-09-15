@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-571 characters from a custom LEGO minifigure world, in the order they were
+585 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -52,6 +52,8 @@ At least one commander has come across anyway, bringing some of his men with him
 And there was a real war: the Halo Mega Bloks wars, with the Mega Bloks as the aggressor. It ended. One of the few who pushed for ending it by talking rather than winning was a prince on their own side.
 
 This is the clearest case in the whole collection of the story and the material being the same thing: he is from a knock-off society because he is a knock-off minifigure.
+
+That commander has an opposite number now, and it is the same figure. A captain of the knock-offs, identical to him down to the sunglasses and the bandoliers, wearing an olive cap instead of a red one, standing on the side the Defector walked away from. Two casts of one mould, one on each side of the war.
 
 ### Crossing between worlds
 
@@ -463,6 +465,8 @@ It is worth putting beside the collection as a whole, where women are about seve
 
 The first woman to turn up among the enemies is a technician holding equipment, which is either the least interesting thing that could have happened or the most honest one.
 
+The second one answers it. An ancient pharaoh, who curses anybody who raids her tomb - a ruler, with a power of her own and a rule she enforces. Two women on that side now: one points a camera where she is told, and one is a queen who has been dead for a very long time and can still reach you.
+
 ### The Famous Pilot is dead
 
 He had been in this collection a long time and his card was three lines long: a famous pilot, off a long run of successful missions and the people he brought back from them, and famous enough that his daughter went and did the same.
@@ -486,6 +490,54 @@ This world has always been full of doors. A trickster god pilots an interdimensi
 The one who has been photographed is a demigod of theirs, and he came through uninvited with an army. He is not on a side. He wanted the shadow and light war stopped, and his method was to go at whichever of the two was winning and wreck it - damage to both expansions, on purpose.
 
 He is also the first ranked figure in this collection who is not one of the good. Eleven people here carry a rank - the First Man, three Demigods, three Mortals, four Cosmic Deities - and until now every single one of them belonged to the creation mythos. The ladder had only ever been climbed from one side.
+
+### The shadow room
+
+The shadow people have a religion, a chaplain who preached the invasion as its doctrine, and now a subject. What they worship are occult gods, and they worship them in a room.
+
+Two elders keep it. They guard the room itself and they hold the secrets of the dark side, and neither of them is known by a name - each carries a title, one for wrath and one for darkness. It is the first office in this world where the title has entirely replaced the man.
+
+It also puts a shape on the shadow side that it did not have. It is not just a king with an army. There is a throne, a chaplain who preaches, a pair of elders who keep what is preached about, a commander who brought a defecting unit in, a Sith from outside who opened the door, and a prince who left. Six roles, one dimension.
+
+The good side has its own expert on exactly this. The Occultist runs a school teaching dark magic and how to contact the spirits of other realms, in the open, so that people understand how evil works. Nothing is written between him and the elders and so no link is drawn - but the subject he teaches to be understood is the subject they exist to keep hidden.
+
+### The first machine on the other side
+
+Every thinking machine ever catalogued here was good. The Rebuilt, the Ninja Robot, the Defense Bot, the Replica, the Stunt Robot, the Storage Robot, the Hijacked, the Tin Robot, the Dock Robot - and eight more borrowed from Star Wars, C-3PO and R2-D2 and six astromechs. Some were built as weapons. One was hacked by villains who turned his lasers into a gun, and he is still filed good. One was built by villains on purpose, off demigod DNA, to be an evil demigod of their own - and the niceness was already in the code, so he came out good anyway. Not one of them turned.
+
+That held for the entire collection until the Missile: a sentient robot whose body cannot be broken, so he launches himself through ships and comes out the other side.
+
+He was the only one for exactly one batch. Two killer bots followed him straight in - one a white droid with lit green optics, one a grey thing in plate armour behind a gold visor. They look nothing like each other, which says the killer bots are not one production line.
+
+Worth noticing what it means about how this world was built. Machines were never the enemy in it. Every villain up to that point had been a person who chose it, and there were sixty-odd of them before a single machine came over.
+
+### The other militia
+
+For the whole of this collection there has been one militia. The Space Militia, seventeen strong, the unit with the most people in it and the most history attached - the General and his son, the Disc Thrower, the Planner, the Reckless, the TV Star who lost half his face in a shadow war, the Battalion Commander, the New Recruit.
+
+There is a second one now, and it is not human and it is not friendly. The aliens have a militia of their own, and the man photographed out of it is a captain who runs its school. The people who fight for it come up through him.
+
+That is the part worth keeping. Standing armies on the bad side have been hired or personal until now - mercenary outfits, a warlord's guard, a legion of matched chest plates. This one trains its own, which means it expects to still be there in a generation.
+
+Whether it is the same force as the alien mercenaries the Lead Alien Mercenary commands is not written down. Two alien fighting forces until somebody says otherwise.
+
+### The same job on both sides
+
+Two hundred and nine jobs are held in this world, and twenty-three of them are held on both sides at once. Not by enemies who happen to be alike - by people doing the identical work in opposite directions.
+
+Two arrived together. The Dictator has a Secretary of War now, the same office Brute holds for the Prince and Princess; Brute is loud and gruff and genuinely kind and runs all the artillery, and the other man plans the taking of an outer rim. And piracy has crossed over: eight pirates were catalogued before this batch and every one was good, which is a strange sentence about pirates and was true until an infamous one turned up working space.
+
+The pattern goes further than jobs. There are two kings at war, light and shadow, and neither is better than the other. There are two captains of the Verdauf. There is a Nexo Knight who spent his career in the shadow of a more famous Nexo Knight who turned out to be the villain. There is a knock-off commander in a red cap on this side and the same figure in an olive cap on the other.
+
+Five groups are split down the middle - the Verdauf, the Discarded, the Royal Space Academy, the Green Rangers, the Knock-offs. Nobody sat down and designed that. It is what happens when a world is built one person at a time over six years: the roles get reused, and eventually somebody fills one from the wrong end.
+
+### The tomb, and what is in it
+
+There is an Egypt here now. Nothing else in this collection is of that world - not a pyramid, not a dig, not an archaeologist - and it arrives fully formed in one figure: a pharaoh, gold-faced under a turquoise headdress, wrapped to the ankles, with a scarab at her throat.
+
+What she does is curse. Raid her tomb and you carry it out with you. That is a different kind of enemy from anything else on that side. The villains here want things - a throne, an outer rim, a payday, the world remade - and go and take them. She wants nothing. She is not going anywhere. She simply has a rule, and the rule is enforced on whoever breaks it.
+
+Which makes her the one figure filed bad whose entire recorded act is defending her own grave from people who came to rob it. She is on that side because she arrived in a run of villains, and she would be the collection's first neutral the day somebody says so.
 
 ---
 
@@ -1500,7 +1552,7 @@ A soldier commander out of one of the knock-off societies — the off-brand civi
 
 He switched sides, and brought some of his men across with him. You can already see him adapting to the new climate.
 
-*Connections:* Brought him across The Car Repairman
+*Connections:* The same man on the other side The Knock-off Captain · Brought him across The Car Repairman
 
 *Tags:* defector, knock-off, commander, switched-sides, adapting
 
@@ -6234,7 +6286,7 @@ What he wants is the rest of them. He aligned himself with Quinn specifically so
 
 *How it was got:* Brown peaked officer's cap with a broad gold band and a gold badge. A tanned face, brows down hard, mouth flat. Pale khaki tunic printed with an open collar, a rifle slung on a leather strap across the chest, camouflage rolls and buttoned pockets, and a belt hung with pouches and an axe head down one thigh.
 
-*Connections:* Aligned with Quinn
+*Connections:* His Secretary of War The War Secretary · Aligned with Quinn
 
 *Tags:* villain, dictator, fascist, planet, outer-rim, conquest, quinn, uniform
 
@@ -6516,7 +6568,165 @@ Swords, now - more than one of them was made.
 
 *Tags:* villain, knight, medieval, smith, real-death, swords, translucent
 
-### 540. The Militiaman in the Black Helm
+### 540. The Juggernaut
+
+**Alignment:** bad · **Role:** Heavy · **Figure:** custom
+
+He carries a minigun and he goes into combat with it. That is the whole of him: he walks in where the fighting is and he kills a great many people.
+
+*How it was got:* A black flight helmet with the ear covers down, over a pale grinning face heavy with freckles and stubble. Wide grey pauldrons flared out over a grey chest plate, black arms, black hands, black legs.
+
+*Tags:* villain, heavy, minigun, combat, killer
+
+### 541. The Lord of Wrath
+
+**Alignment:** bad · **Role:** Elder · **Based:** The Shadow Dimension · **Figure:** custom
+
+One of two elders who keep the secrets of the dark side, and who guard the shadow room the shadow people worship in. What they worship there are occult gods.
+
+Each elder holds a title rather than a name. His is wrath.
+
+*How it was got:* Long black hair swept back, with an enormous black beard hanging down over the whole chest. Yellow face, heavy brows, stubble under the beard line. Grey torso worked in gold and dark purple, yellow arms and hands, and grey legs printed with two instrument dials - one yellow, one red.
+
+*Connections:* Shadow Elder alongside The Lord of Darkness
+
+*Tags:* villain, shadow, elder, occult, secrets, shadow-room, wrath, beard
+
+### 542. The Lord of Darkness
+
+**Alignment:** bad · **Role:** Elder · **Based:** The Shadow Dimension · **Figure:** custom
+
+The other of the two elders who keep the secrets of the dark side and guard the shadow room. The occult gods worshipped there are theirs to protect.
+
+His title is darkness.
+
+*How it was got:* A dark brown cloth hood pulled up over a yellow bearded face, scarred across one eye. Black torso under grey chest armour and grey pauldrons, a row of grey gauges printed across the belly, black arms, grey hands, black legs with silver plating at the thighs.
+
+*Connections:* Shadow Elder alongside The Lord of Wrath
+
+*Tags:* villain, shadow, elder, occult, secrets, shadow-room, darkness, hood, scarred
+
+### 543. The Missile
+
+**Alignment:** bad · **Role:** Heavy · **Figure:** custom
+
+A sentient robot, and a heavy. He carries the big weapons like any other heavy does.
+
+He is also a weapon himself. His body cannot be broken, so he uses it: he launches and flies straight through a ship, in one side and out the other.
+
+*How it was got:* A smooth black dome helmet with an orange translucent visor lit red at the eye. A black flared collar piece over a black torso printed with silver bars and an orange checker stripe, grey hands, a red belt carried down the front of black legs.
+
+*Tags:* villain, robot, sentient, heavy, indestructible, missile, ramming
+
+### 544. The Knock-off Captain
+
+**Alignment:** bad · **Role:** Captain · **Figure:** custom
+
+A military captain out of one of the knock-off societies - the off-brand civilizations, the ones that would go to war with Lego given the chance.
+
+He is the Defector's opposite number. Same species, same rank, same uniform down to the bandoliers; the Defector came across and this one did not.
+
+*How it was got:* The identical figure to the Defector but for the cap. Olive peaked cap instead of red, over the same pale head with black sunglasses and a thin moustache; the same moulded black tactical vest hung with bandoliers and pouches, olive arms, pale hands, olive legs. Not a Lego mould.
+
+*Connections:* The same man on the other side The Defector
+
+*Tags:* villain, knock-off, captain, military, bandoliers, not-lego, counterpart
+
+### 545. The War Secretary
+
+**Alignment:** bad · **Role:** Secretary of War · **Figure:** custom
+
+Secretary of War to the Dictator - the fascist who already holds one planet and aligned with Quinn to take the rest of his outer rim.
+
+The war that man wants is this man's department.
+
+*How it was got:* A pale grey peaked officer's cap over a yellow face with a flat mouth and a metal stud at one eye. A khaki tunic printed with an open collar, buttoned breast pockets, a leather strap slung across the chest and a broad buckled belt; khaki arms, yellow hands, plain khaki legs.
+
+*Connections:* Secretary of War to The Dictator
+
+*Tags:* villain, secretary-of-war, dictator, cabinet, officer, uniform, outer-rim
+
+### 546. The Infamous Space Pirate
+
+**Alignment:** bad · **Role:** Pirate · **Figure:** custom
+
+A space pirate, and an infamous one. The name travels ahead of him.
+
+*How it was got:* A dark green knitted beanie pulled down over a pale stubbled face with a smirk and heavy brows. A lime and green torso printed with a climbing harness - carabiners, a strap across the chest and a black instrument hung at it - white arms, pale hands, white legs marked with lime and a purple band at the boot.
+
+*Tags:* villain, pirate, space-pirate, infamous, beanie, harness
+
+### 547. The Incompetent Bounty Hunter
+
+**Alignment:** bad · **Role:** Bounty Hunter · **Figure:** custom
+
+A bounty hunter, more or less incompetent at it.
+
+*How it was got:* A black domed helmet with a long antenna standing off the top, over a yellow face furious to the point of comedy - eyes screwed up, teeth bared, stubble across the scalp. Grey armour printed with white plating and a small red crest at the chest, grey arms, black hands, black legs.
+
+*Tags:* villain, bounty-hunter, incompetent, antenna, helmet, comic
+
+### 548. The Alien Militia Commander
+
+**Alignment:** bad · **Role:** School Commander · **Figure:** custom
+
+A captain of the alien militia, and the commander of its school. The people who fight for that militia come up through him.
+
+*How it was got:* A dark red knitted beanie over a white skull face - black sockets lit red at the pupil, a stitched grin, a silver plate riveted across the brow. A dark brown torso printed with a gold sash and medallion, gold buckles and a studded collar; white arms, white hands, grey legs.
+
+*Tags:* villain, alien, militia, commander, captain, school, training, skull
+
+### 549. The Pharaoh
+
+**Alignment:** bad · **Role:** Pharaoh · **Figure:** custom
+
+An ancient pharaoh. Raid her tomb and she puts the curse on you - anyone who goes in after what is hers comes out carrying it.
+
+*How it was got:* A turquoise headdress banded in red and gold over a gold face with painted eyes and a level mouth. A white torso wrapped in bandages under a broad collar of red, turquoise and gold with a dark scarab at the centre; bandaged arms with gold and turquoise cuffs, grey hands, a gold belt and skirt over white bandaged legs.
+
+*Tags:* villain, pharaoh, ancient, curse, tomb, mummy, egypt, queen, woman
+
+### 550. The White Killer Bot
+
+**Alignment:** bad · **Role:** Killer Bot · **Figure:** custom
+
+A killer bot. Built to do it, and that is the whole job.
+
+*How it was got:* A white moulded head with a hooded brow and a long blunt snout, two ringed lenses lit green where the eyes would be, and a silver crown piece behind. White body throughout - a panelled jumpsuit printed with utility boxes down the waist and pocket seams at the thighs, white arms, white hands, white legs.
+
+*Tags:* villain, killer-bot, robot, machine, green-optics, white
+
+### 551. The Jetpack Sniper
+
+**Alignment:** bad · **Role:** Sniper · **Figure:** custom
+
+A sniper who works from a jetpack. He takes the shot from wherever the pack will put him.
+
+*How it was got:* A black cloth head wrap drawn across the face, leaving a band open at the eyes - dark brows, hard stare. Black sleeveless torso printed with a pale winged shape across the chest over a studded harness and a bearded mask device below it, bare tanned arms, tan hands, black legs.
+
+*Tags:* villain, sniper, jetpack, marksman, masked, wrapped
+
+### 552. The Armoured Killer Bot
+
+**Alignment:** bad · **Role:** Killer Bot · **Figure:** custom
+
+The other killer bot. Same work, built heavier.
+
+*How it was got:* A grey helm with a spiked crest and a hinged snouted faceplate, the visor a band of transparent gold with two lit rings behind it. Grey plate armour printed with a winged crest and copper edging, one pale grey arm and one dark, grey hands, grey legs printed with pale blazons and worn patches.
+
+*Tags:* villain, killer-bot, robot, machine, armour, gold-visor, spiked-helm
+
+### 553. The Gangster Financier
+
+**Alignment:** bad · **Role:** Financier · **Figure:** custom
+
+A gangster, and the money behind one. He finances the work rather than doing it.
+
+*How it was got:* A black wide-brimmed fedora over a yellow face with a heavy black beard and sideburns, brows down, a scar at one eye. A black pinstriped double-breasted suit printed with a white shirt and tie and four buttons, black arms, yellow hands, black legs.
+
+*Tags:* villain, gangster, financier, money, crime, pinstripe, fedora
+
+### 554. The Militiaman in the Black Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -6530,7 +6740,7 @@ Photographed off an old video rather than in hand, because there is no hand to p
 
 *Tags:* space-militia, lost, deceased, helmet, sunglasses
 
-### 541. The Militiaman in the Red Helm
+### 555. The Militiaman in the Red Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -6540,7 +6750,7 @@ Space Militia. Lost, and dead.
 
 *Tags:* space-militia, lost, deceased, rifle, scarred
 
-### 542. The Ranger Patrol Captain
+### 556. The Ranger Patrol Captain
 
 **Alignment:** good · **Role:** Patrol Captain · **Figure:** custom
 
@@ -6550,7 +6760,7 @@ A patrol captain of the rangers. Lost, and dead.
 
 *Tags:* green-rangers, ranger, captain, lost, deceased, camouflage
 
-### 543. The Militiamen Out of Armour — Two of them
+### 557. The Militiamen Out of Armour — Two of them
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -6562,7 +6772,7 @@ Photographed together, on a table, years ago.
 
 *Tags:* space-militia, lost, deceased, civilian-dress, headset
 
-### 544. The Lost Miners — Two of them
+### 558. The Lost Miners — Two of them
 
 **Alignment:** good · **Role:** Power Miner · **Figure:** custom
 
@@ -6572,7 +6782,7 @@ Two of the power miners. Lost, and dead.
 
 *Tags:* power-miner, lost, deceased, overalls, helmet
 
-### 545. The Discarded in the Blue Cap
+### 559. The Discarded in the Blue Cap
 
 **Alignment:** good · **Role:** Discarded · **Figure:** custom
 
@@ -6584,7 +6794,7 @@ The badge is not a marking anyone else in this collection wears, and I could not
 
 *Tags:* discarded, refugee, lost, deceased, cap, goatee
 
-### 546. The Elf Man
+### 560. The Elf Man
 
 **Alignment:** good · **Role:** Elf · **Figure:** custom
 
@@ -6598,7 +6808,7 @@ Nothing about the moulding is elven - it is an ordinary head and an ordinary hai
 
 *Tags:* elf, lost, deceased, long-hair, vest
 
-### 547. The Long Shot Bowman
+### 561. The Long Shot Bowman
 
 **Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
 
@@ -6608,7 +6818,7 @@ An archer of the Royal Knights, and a long shot. Lost, and dead.
 
 *Tags:* knight, archer, bow, medieval, royal-knights, lost, deceased, kettle-helm
 
-### 548. The Lost Pirates — Two of them
+### 562. The Lost Pirates — Two of them
 
 **Alignment:** good · **Role:** Pirate · **Figure:** custom
 
@@ -6620,7 +6830,7 @@ The other in a blue headscarf, moustached and heavily freckled, in a red and whi
 
 *Tags:* pirate, crew, lost, deceased, tattoo, anchor, stripes
 
-### 549. The Lost Aqua Diver
+### 563. The Lost Aqua Diver
 
 **Alignment:** good · **Role:** Aqua Force · **Figure:** custom
 
@@ -6630,7 +6840,7 @@ Aqua Force - the service that handles any military necessity involving going und
 
 *Tags:* aqua-force, underwater, diver, trident, lost, deceased, scarred
 
-### 550. The Gungan Jedi
+### 564. The Gungan Jedi
 
 **Alignment:** good · **Role:** Jedi · **Figure:** custom
 
@@ -6644,7 +6854,7 @@ The robe is not a piece I could place. Photographed off an old video rather than
 
 *Tags:* star-wars, gungan, jedi, alien, cape, lost, deceased
 
-### 551. The Alien Professor
+### 565. The Alien Professor
 
 **Alignment:** good · **Role:** Professor · **Figure:** custom
 
@@ -6656,7 +6866,7 @@ The frame is too soft to make out the piece. This is as much as the video gives.
 
 *Tags:* alien, professor, academic, moulded-head, robes, lost, deceased
 
-### 552. The Lost Soccer Player
+### 566. The Lost Soccer Player
 
 **Alignment:** good · **Role:** Athlete · **Figure:** custom
 
@@ -6666,7 +6876,7 @@ A soccer player. Lost, and dead.
 
 *Tags:* soccer, football, athlete, sport, kit, lost, deceased
 
-### 553. The Astronaut Soldier
+### 567. The Astronaut Soldier
 
 **Alignment:** good · **Role:** Astronaut Soldier · **Figure:** custom
 
@@ -6676,7 +6886,7 @@ An astronaut, and a soldier. Lost, and dead.
 
 *Tags:* astronaut, soldier, space, helmet, lost, deceased
 
-### 554. The Airline Pilot
+### 568. The Airline Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** custom
 
@@ -6686,7 +6896,7 @@ An airline pilot. Lost, and dead.
 
 *Tags:* pilot, airline, civilian, uniform, cap, lost, deceased
 
-### 555. The Hooded Ranger
+### 569. The Hooded Ranger
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -6696,7 +6906,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, hood, balaclava, lost, deceased
 
-### 556. The Blue Space Captain
+### 570. The Blue Space Captain
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -6708,7 +6918,7 @@ The badge is the Galactic Republic cog, so the pieces are out of a Star Wars pil
 
 *Tags:* captain, space, pilot, goggles, headset, lost, deceased
 
-### 557. The Nude Aliens — Two of them
+### 571. The Nude Aliens — Two of them
 
 **Alignment:** good · **Figure:** custom
 
@@ -6720,7 +6930,7 @@ The other is green throughout with a moulded head - a scaled, gaping fish-like f
 
 *Tags:* alien, nude, unprinted, moulded-head, lost, deceased
 
-### 558. The Engine Technician
+### 572. The Engine Technician
 
 **Alignment:** good · **Role:** Technician · **Figure:** custom
 
@@ -6730,7 +6940,7 @@ One of the engine technicians. Lost, and dead.
 
 *Tags:* technician, engines, space-programme, helmet, lost, deceased
 
-### 559. The Ranger in the Olive Helm
+### 573. The Ranger in the Olive Helm
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -6740,7 +6950,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, helmet, field-jacket, lost, deceased
 
-### 560. The Lost Golden Rifleman
+### 574. The Lost Golden Rifleman
 
 **Alignment:** good · **Role:** Rifleman · **Figure:** branded
 
@@ -6752,7 +6962,7 @@ Too soft a frame to tell Phase 1 from Phase 2, or to read the unit markings the 
 
 *Tags:* star-wars, clone, trooper, rifleman, golden-company, rifle, lost, deceased, branded
 
-### 561. The Saxophone Player
+### 575. The Saxophone Player
 
 **Alignment:** good · **Role:** Musician · **Figure:** custom
 
@@ -6764,7 +6974,7 @@ Photographed standing on wet sand with the sea behind him and his own reflection
 
 *Tags:* musician, saxophone, music, cool, sunglasses, lost, deceased
 
-### 562. The Old Verdauf Soldier
+### 576. The Old Verdauf Soldier
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -6776,7 +6986,7 @@ He is built off white blocks below the waist rather than printed legs.
 
 *Tags:* verdauf, squadron, soldier, veteran, beard, white-armor, lost, deceased
 
-### 563. The Blue Pirate Thug
+### 577. The Blue Pirate Thug
 
 **Alignment:** good · **Role:** Thug · **Figure:** custom
 
@@ -6786,7 +6996,7 @@ A pirate thug. The uniform he is wearing is not his - he stole it. Lost, and dea
 
 *Tags:* thug, pirate, stolen-uniform, respirator, blue, lost, deceased
 
-### 564. The Space Captain Lady
+### 578. The Space Captain Lady
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -6798,7 +7008,7 @@ It is the same uniform the Blue Space Captain wears, down to the badge.
 
 *Tags:* captain, space, woman, stolen-uniform, visor, lost, deceased
 
-### 565. The Evil Space Captain
+### 579. The Evil Space Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -6810,7 +7020,7 @@ It is a rebel pilot's kit. There are nine Rebel Pilots in this collection and he
 
 *Tags:* captain, space, villain, stolen-uniform, flight-helmet, beard, lost, deceased
 
-### 566. The Space Criminal
+### 580. The Space Criminal
 
 **Alignment:** good · **Role:** Criminal · **Figure:** custom
 
@@ -6820,7 +7030,7 @@ A space criminal. Lost, and dead.
 
 *Tags:* criminal, space, crook, grin, blaster, lost, deceased
 
-### 567. The Bribed Royal Enforcer
+### 581. The Bribed Royal Enforcer
 
 **Alignment:** good · **Role:** Enforcer · **Figure:** custom
 
@@ -6830,7 +7040,7 @@ A royal enforcer who took a bribe. Lost, and dead.
 
 *Tags:* enforcer, royal, bribed, corruption, visor, lost, deceased
 
-### 568. The Bearded Spaceman
+### 582. The Bearded Spaceman
 
 **Alignment:** good · **Role:** Spaceman · **Figure:** custom
 
@@ -6840,7 +7050,7 @@ A blue spaceman. Lost, and dead.
 
 *Tags:* spaceman, classic-space, blue, beard, vintage, lost, deceased
 
-### 569. The Masked Bounty Hunter
+### 583. The Masked Bounty Hunter
 
 **Alignment:** good · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -6852,7 +7062,7 @@ The frame is badly blurred and this is as much as it gives.
 
 *Tags:* bounty-hunter, masked, red-eyes, hood, lost, deceased
 
-### 570. The Crimson Ninja
+### 584. The Crimson Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -6862,7 +7072,7 @@ An evil ninja, in crimson. The figure has not been photographed yet - this card 
 
 *Tags:* ninja, villain, crimson, masked, concept-art, no-photograph
 
-### 571. The Nightwatch Captain
+### 585. The Nightwatch Captain
 
 **Alignment:** good · **Role:** Nightwatch Captain · **Based:** Lego City · **Figure:** custom
 

@@ -927,7 +927,12 @@ window.LORE = [
       "war helmet.\n\n" +
       "The first woman to turn up among the enemies is a technician holding " +
       "equipment, which is either the least interesting thing that could have " +
-      "happened or the most honest one."
+      "happened or the most honest one.\n\n" +
+      "The second one answers it. An ancient pharaoh, who curses anybody who " +
+      "raids her tomb - a ruler, with a power of her own and a rule she " +
+      "enforces. Two women on that side now: one points a camera where she is " +
+      "told, and one is a queen who has been dead for a very long time and can " +
+      "still reach you."
   },
 
   {
@@ -1003,22 +1008,26 @@ window.LORE = [
   {
     title: "The first machine on the other side",
     text:
-      "Every thinking machine ever catalogued here was good. Fifteen of them " +
-      "belong to this world - the Rebuilt, the Defense Bot, the Ninja Robot, " +
-      "the Tin Robot, the Dock Robot, the Hijacked, the Stunt Robot, the " +
-      "Storage Robot, the Vessel, the Replica, the Voiceless, Kenjen, the " +
-      "Delta Gunner, the Sniper, the Golden Sniper - and eight more are " +
-      "borrowed droids, C-3PO and R2-D2 and six astromechs. Some were built " +
-      "as weapons, some were taken over, one was frozen for an age and woke " +
-      "up loyal. Not one of the twenty-three turned.\n\n" +
-      "That held for the entire collection until now. A sentient robot has " +
-      "arrived on the bad side, and what he does is fly through ships - his " +
-      "body cannot be broken, so he launches himself as the weapon and comes " +
-      "out the other side.\n\n" +
+      "Every thinking machine ever catalogued here was good. The Rebuilt, the " +
+      "Ninja Robot, the Defense Bot, the Replica, the Stunt Robot, the Storage " +
+      "Robot, the Hijacked, the Tin Robot, the Dock Robot - and eight more " +
+      "borrowed from Star Wars, C-3PO and R2-D2 and six astromechs. Some were " +
+      "built as weapons. One was hacked by villains who turned his lasers into " +
+      "a gun, and he is still filed good. One was built by villains on purpose, " +
+      "off demigod DNA, to be an evil demigod of their own - and the niceness " +
+      "was already in the code, so he came out good anyway. Not one of them " +
+      "turned.\n\n" +
+      "That held for the entire collection until the Missile: a sentient robot " +
+      "whose body cannot be broken, so he launches himself through ships and " +
+      "comes out the other side.\n\n" +
+      "He was the only one for exactly one batch. Two killer bots followed him " +
+      "straight in - one a white droid with lit green optics, one a grey thing " +
+      "in plate armour behind a gold visor. They look nothing like each other, " +
+      "which says the killer bots are not one production line.\n\n" +
       "Worth noticing what it means about how this world was built. Machines " +
-      "were never the enemy in it. Every villain up to this point has been a " +
-      "person who chose it, and there are now well over sixty of them. The " +
-      "robots stayed out of it."
+      "were never the enemy in it. Every villain up to that point had been a " +
+      "person who chose it, and there were sixty-odd of them before a single " +
+      "machine came over."
   },
 
   {
@@ -1066,6 +1075,25 @@ window.LORE = [
       "and designed that. It is what happens when a world is built one person " +
       "at a time over six years: the roles get reused, and eventually somebody " +
       "fills one from the wrong end."
+  },
+
+  {
+    title: "The tomb, and what is in it",
+    text:
+      "There is an Egypt here now. Nothing else in this collection is of that " +
+      "world - not a pyramid, not a dig, not an archaeologist - and it arrives " +
+      "fully formed in one figure: a pharaoh, gold-faced under a turquoise " +
+      "headdress, wrapped to the ankles, with a scarab at her throat.\n\n" +
+      "What she does is curse. Raid her tomb and you carry it out with you. " +
+      "That is a different kind of enemy from anything else on that side. The " +
+      "villains here want things - a throne, an outer rim, a payday, the world " +
+      "remade - and go and take them. She wants nothing. She is not going " +
+      "anywhere. She simply has a rule, and the rule is enforced on whoever " +
+      "breaks it.\n\n" +
+      "Which makes her the one figure filed bad whose entire recorded act is " +
+      "defending her own grave from people who came to rob it. She is on that " +
+      "side because she arrived in a run of villains, and she would be the " +
+      "collection's first neutral the day somebody says so."
   }
 
 ];
