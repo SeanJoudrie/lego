@@ -3717,7 +3717,9 @@ window.COLLECTION = [
     role: "Civilian",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "sean", label: "Father of" },
+    ],
     rating: 0,
     background:
       "Very loving. Likes to work outside.\n\n" +
@@ -3726,7 +3728,7 @@ window.COLLECTION = [
     tags: ["civilian", "father", "real-person", "outdoors", "capable"],
     images: ["images/george-joudrie-01.jpg"],
     acquired: "",
-    notes: "The first figure here named after someone real and living, and the only man in the collection with no rank, no office and no unit who is still described as able to do anything."
+    notes: "The first figure here named after someone real and living, and now standing next to his son, and the only man in the collection with no rank, no office and no unit who is still described as able to do anything."
   },
 
 
@@ -6447,6 +6449,127 @@ window.COLLECTION = [
     images: ["images/the-four-armed-alien-01.jpg"],
     acquired: "",
     notes: "Fourth alien here after the Reformed, the Alien Farmer and the Intern, and the only one who is not shaped like everybody else. No species link written - the other three look human, he does not."
+  },
+
+
+
+  {
+    id: "sean",
+    name: "Sean",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [
+      { to: "george-joudrie", label: "Son of" },
+    ],
+    rating: 0,
+    background: "A civilian named Sean.",
+    provenance: "The Lego version of me, built a few years ago to look like me.",
+    tags: ["civilian", "self-portrait", "real-person", "sean"],
+    images: ["images/sean-01.jpg"],
+    acquired: "",
+    notes: "The second figure here named after someone real and living, after my dad - and the maker of the whole collection, standing in it as a civilian with no rank, no office, no unit and no powers. Linked to George as father and son; cut it if the Lego versions are not meant to be related in world."
+  },
+
+
+  {
+    id: "aphrodite",
+    name: "Aphrodite",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Cosmic Deity",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The Greek deity Aphrodite.",
+    provenance: "",
+    tags: ["aphrodite", "greek", "deity", "goddess", "mythology", "classical"],
+    images: ["images/aphrodite-01.jpg"],
+    acquired: "",
+    notes: "Fourth Cosmic Deity, after the Space Princess, the Ferryman and the Cosmic Twins. Filed custom rather than branded, the same call as the Statue of Liberty: this is a figure cast as her, not a Lego figure of her. No link written to the Cosmic Twins, though they belong to the same idea - that entry says the European creation stories are not stories here, and she is the second piece of real-world classical myth to turn out literally true in this world."
+  },
+
+
+  {
+    id: "the-hijacked",
+    name: "The Hijacked",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A robot on legs. What he is for is connection - he carries a radar " +
+      "system - and he can also fire lasers.\n\n" +
+      "Villains hacked him and turned the lasers into a weapon. They took his " +
+      "body and not his mind, so he stayed awake through all of it: watching " +
+      "himself attack people, and unable to stop.\n\n" +
+      "He was brought back to good afterwards.",
+    provenance:
+      "A radar dish for a face with a red lens at the centre of it, and no " +
+      "arms - grey legs straight up into the machine.",
+    tags: ["robot", "radar", "lasers", "hacked", "possessed", "awake", "restored"],
+    images: ["images/the-hijacked-01.jpg"],
+    acquired: "",
+    notes: "Named for what was done to him, the way the Discarded, the Damaged, the Displaced and the Rebuilt are. Seventh robot here, and the second whose body was driven by somebody else - except the Vessel lends his out to demigods on purpose, and this one was awake for it. Only the second thing villains are recorded as actually doing, after Quinn's uprising, and it is a quieter and worse one."
+  },
+
+
+  {
+    id: "the-pirate-hobo",
+    name: "The Pirate Hobo",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A pirate hobo. He likes to party.",
+    provenance: "Blue knit cap, a huge grey beard, and a patch sewn onto the trousers.",
+    tags: ["pirate", "hobo", "party", "beard", "ragged"],
+    images: ["images/the-pirate-hobo-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. No link to the Pirate Captain - they arrived together and they are both pirates, but nobody has said they sail together. Say so and they connect."
+  },
+
+
+  {
+    id: "the-pirate-captain",
+    name: "The Pirate Captain",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A pirate captain. She runs the ship.",
+    provenance: "Red corset over a white shirt, and a holster on the belt.",
+    tags: ["pirate", "captain", "woman", "command", "ship"],
+    images: ["images/the-pirate-captain-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. First woman here who captains anything. Second pirate captain in the collection, but the Beach Bum is a former one who walked away from it, so she is the only serving one - and he has no Pirate role for exactly that reason."
   },
 
 

@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-237 characters from a custom LEGO minifigure world, in the order they were
+242 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -1746,6 +1746,8 @@ He is a civilian. He could probably do anything.
 
 *How it was got:* The Lego version of my dad.
 
+*Connections:* Father of Sean
+
 *Tags:* civilian, father, real-person, outdoors, capable
 
 ### 129. The Royal Financier
@@ -2857,6 +2859,60 @@ A four-armed alien. Also a nice guy.
 *How it was got:* Green throughout, with a second pair of arms hung off the shoulders.
 
 *Tags:* alien, four-arms, green, nice, background
+
+### 238. Sean
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+A civilian named Sean.
+
+*How it was got:* The Lego version of me, built a few years ago to look like me.
+
+*Connections:* Son of George Joudrie
+
+*Tags:* civilian, self-portrait, real-person, sean
+
+### 239. Aphrodite
+
+**Alignment:** good · **Nature:** Cosmic Deity · **Figure:** custom
+
+The Greek deity Aphrodite.
+
+*Tags:* aphrodite, greek, deity, goddess, mythology, classical
+
+### 240. The Hijacked
+
+**Alignment:** good · **Figure:** custom
+
+A robot on legs. What he is for is connection - he carries a radar system - and he can also fire lasers.
+
+Villains hacked him and turned the lasers into a weapon. They took his body and not his mind, so he stayed awake through all of it: watching himself attack people, and unable to stop.
+
+He was brought back to good afterwards.
+
+*How it was got:* A radar dish for a face with a red lens at the centre of it, and no arms - grey legs straight up into the machine.
+
+*Tags:* robot, radar, lasers, hacked, possessed, awake, restored
+
+### 241. The Pirate Hobo
+
+**Alignment:** good · **Role:** Pirate · **Figure:** custom
+
+A pirate hobo. He likes to party.
+
+*How it was got:* Blue knit cap, a huge grey beard, and a patch sewn onto the trousers.
+
+*Tags:* pirate, hobo, party, beard, ragged
+
+### 242. The Pirate Captain
+
+**Alignment:** good · **Role:** Pirate · **Figure:** custom
+
+A pirate captain. She runs the ship.
+
+*How it was got:* Red corset over a white shirt, and a holster on the belt.
+
+*Tags:* pirate, captain, woman, command, ship
 
 ---
 
