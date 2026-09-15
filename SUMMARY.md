@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-217 characters from a custom LEGO minifigure world, in the order they were
+222 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2659,6 +2659,52 @@ They look very much alike. The haircut is how you tell them apart.
 *Connections:* Impersonates The Prince · Told apart by the haircut The Prince's Cousin
 
 *Tags:* stuntman, impersonator, marketing, lookalike, elvis
+
+### 218. The Wrestler
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+A professional wrestler.
+
+*How it was got:* Luchador mask, and a championship belt printed across his middle.
+
+*Tags:* wrestler, luchador, mask, champion, athlete, background
+
+### 219. The Karate Kid
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+A karate kid.
+
+*How it was got:* White gi, headband, and a black belt printed right down onto the legs.
+
+*Tags:* karate, martial-arts, black-belt, gi, athlete, background
+
+### 220. The Basketball Player
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+A basketball player.
+
+*How it was got:* A real licensed NBA jersey print, number 3 - so the NBA exists here as itself, the same way Ferrari does.
+
+*Tags:* basketball, nba, jersey, athlete, background
+
+### 221. The Sumo Wrestler
+
+**Alignment:** good · **Role:** Athlete · **Figure:** custom
+
+A sumo wrestler.
+
+*Tags:* sumo, wrestler, athlete, background
+
+### 222. The Red Hot Chili Pepper
+
+**Alignment:** good · **Figure:** custom
+
+A red hot chili pepper.
+
+*Tags:* chili, pepper, costume, background
 
 ---
 

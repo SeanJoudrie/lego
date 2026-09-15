@@ -5981,6 +5981,119 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-wrestler",
+    name: "The Wrestler",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A professional wrestler.",
+    provenance: "Luchador mask, and a championship belt printed across his middle.",
+    tags: ["wrestler", "luchador", "mask", "champion", "athlete", "background"],
+    images: ["images/the-wrestler-01.jpg"],
+    acquired: "",
+    notes: "Background figure. Filed as an Athlete with the rest of the sportspeople rather than given a role of his own - the name says what he does."
+  },
+
+
+  {
+    id: "the-karate-kid",
+    name: "The Karate Kid",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A karate kid.",
+    provenance: "White gi, headband, and a black belt printed right down onto the legs.",
+    tags: ["karate", "martial-arts", "black-belt", "gi", "athlete", "background"],
+    images: ["images/the-karate-kid-01.jpg"],
+    acquired: "",
+    notes: "Background figure. Not put anywhere near the Ninja Lineage - a black belt is a sport, and they are something else."
+  },
+
+
+  {
+    id: "the-basketball-player",
+    name: "The Basketball Player",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A basketball player.",
+    provenance:
+      "A real licensed NBA jersey print, number 3 - so the NBA exists here as " +
+      "itself, the same way Ferrari does.",
+    tags: ["basketball", "nba", "jersey", "athlete", "background"],
+    images: ["images/the-basketball-player-01.jpg"],
+    acquired: "",
+    notes: "Background figure. Custom rather than branded, like the Ferrari Driver: he plays in the league, he is not a named player out of it."
+  },
+
+
+  {
+    id: "the-sumo-wrestler",
+    name: "The Sumo Wrestler",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A sumo wrestler.",
+    provenance: "",
+    tags: ["sumo", "wrestler", "athlete", "background"],
+    images: ["images/the-sumo-wrestler-01.jpg"],
+    acquired: "",
+    notes: "Background figure. Second wrestler in the collection, and nothing at all to do with the first."
+  },
+
+
+  {
+    id: "the-red-hot-chili-pepper",
+    name: "The Red Hot Chili Pepper",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A red hot chili pepper.",
+    provenance: "",
+    tags: ["chili", "pepper", "costume", "background"],
+    images: ["images/the-red-hot-chili-pepper-01.jpg"],
+    acquired: "",
+    notes: "Background figure, and the fourth person here inside a costume after the bunny suits, the pizza and the peas. Three of those four are food."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
