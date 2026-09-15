@@ -6934,6 +6934,112 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-cat-lover",
+    name: "The Cat Lover",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A civilian. She likes cats.",
+    provenance: "Red beanie, round glasses, orange jacket over a striped shirt.",
+    tags: ["civilian", "woman", "cats", "glasses", "background"],
+    images: ["images/the-cat-lover-01.jpg"],
+    acquired: "",
+    notes: "Background figure. Thirteenth civilian."
+  },
+
+
+  {
+    id: "the-dock-robot",
+    name: "The Dock Robot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Dockworker",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A robot put together out of scrap pieces. He works the docks.",
+    provenance:
+      "Genuinely a kitbash - mismatched greys, a red arm on one side and a " +
+      "white one on the other, nothing matching anything.",
+    tags: ["robot", "scrap", "kitbash", "docks", "worker", "mismatched"],
+    images: ["images/the-dock-robot-01.jpg"],
+    acquired: "",
+    notes: "Tenth robot here, and the second whose whole job is being useful rather than fighting, after the Storage Robot. The plastic agrees with the story again: he is described as built from scrap and he is visibly built from scrap."
+  },
+
+
+  {
+    id: "the-enemy-soldiers-in-olive",
+    name: "The Enemy Soldiers in Olive",
+    variant: "A unit of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Enemy",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Enemy soldiers. There is a whole unit of them.\n\n" +
+      "They are soldiers and nothing more particular than that - the world " +
+      "they fight for is this one's, not anybody's real history.",
+    provenance:
+      "The uniform print is modelled on twentieth-century European infantry " +
+      "kit: olive tunic, webbing and pouches, stahlhelm-shaped helmet.",
+    tags: ["enemy", "soldier", "unit", "olive", "villain"],
+    images: [
+      { src: "images/the-enemy-soldiers-in-olive-01.jpg", caption: "One of them" },
+      { src: "images/the-enemy-unit-01.jpg", caption: "The unit, both types together" }
+    ],
+    acquired: "",
+    notes: "The first figure in the collection filed bad. For 257 entries the faction filter separated nothing at all; it does now. Named Enemy on your instruction rather than by the real-world army the uniform is based on, because you said they are just soldiers here."
+  },
+
+
+  {
+    id: "the-enemy-soldiers-in-black",
+    name: "The Enemy Soldiers in Black",
+    variant: "A unit of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Enemy",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The other half of the unit. Same enemy, different kit.\n\n" +
+      "Soldiers, and nothing more particular than that.",
+    provenance:
+      "Black helmets, red collar tabs and a flag patch at the shoulder - a " +
+      "different twentieth-century European pattern from the olive lot.",
+    tags: ["enemy", "soldier", "unit", "black-helmet", "villain"],
+    images: [
+      { src: "images/the-enemy-soldiers-in-black-01.jpg", caption: "One of them" },
+      { src: "images/the-enemy-unit-01.jpg", caption: "The unit, both types together" }
+    ],
+    acquired: "",
+    notes: "Second figure filed bad, and the pair share the group photo as their second image, as you asked. Two kits, one enemy."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-257 characters from a custom LEGO minifigure world, in the order they were
+261 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3073,6 +3073,50 @@ A Porsche driver.
 *How it was got:* Worth flagging: the suit is printed with the Ferrari shield and the Italian tricolour, not a Porsche badge. Either he has changed teams and kept the overalls, or Porsche is the slip and he is the second Ferrari driver here.
 
 *Tags:* racing, driver, porsche, motorsport, white-suit
+
+### 258. The Cat Lover
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+A civilian. She likes cats.
+
+*How it was got:* Red beanie, round glasses, orange jacket over a striped shirt.
+
+*Tags:* civilian, woman, cats, glasses, background
+
+### 259. The Dock Robot
+
+**Alignment:** good · **Role:** Dockworker · **Figure:** custom
+
+A robot put together out of scrap pieces. He works the docks.
+
+*How it was got:* Genuinely a kitbash - mismatched greys, a red arm on one side and a white one on the other, nothing matching anything.
+
+*Tags:* robot, scrap, kitbash, docks, worker, mismatched
+
+### 260. The Enemy Soldiers in Olive — A unit of them
+
+**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+
+Enemy soldiers. There is a whole unit of them.
+
+They are soldiers and nothing more particular than that - the world they fight for is this one's, not anybody's real history.
+
+*How it was got:* The uniform print is modelled on twentieth-century European infantry kit: olive tunic, webbing and pouches, stahlhelm-shaped helmet.
+
+*Tags:* enemy, soldier, unit, olive, villain
+
+### 261. The Enemy Soldiers in Black — A unit of them
+
+**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+
+The other half of the unit. Same enemy, different kit.
+
+Soldiers, and nothing more particular than that.
+
+*How it was got:* Black helmets, red collar tabs and a flag patch at the shoulder - a different twentieth-century European pattern from the olive lot.
+
+*Tags:* enemy, soldier, unit, black-helmet, villain
 
 ---
 
