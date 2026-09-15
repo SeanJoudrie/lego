@@ -12,11 +12,25 @@ page through the photos inside it with the arrows, the arrow keys, or the
 thumbnails. Figures that come as a set (the twins, the orphans) are one box
 too. No character or group appears in the grid twice.
 
-Figures show in the order they were added. The search box is always there; the
-filters and sorting live behind the **Filters** button, which counts and
-highlights itself when something is active so a collapsed panel can't hide a
-filter from you. Filter by faction, custom vs. branded, rank, role, location or
-theme; sort by order added, rank, role, rating, name, theme, or newest first.
+**Two sides, two decks.** The page opens on the good, and the bad are one swipe
+to the right — drag sideways, click a tab, or press the left and right arrow
+keys. Each deck is its own scroller: where you were on the good side is still
+there when you come back, and stepping through figures with Previous/Next never
+crosses over mid-read. Both decks carry their own **Plates** strip. If a search
+empties the deck you are on while the other still has matches, the empty state
+says how many and takes you there.
+
+Side is therefore not a filter any more. Figures show in the order they were
+added. The search box is always there and searches both decks at once; the rest
+of the filters and the sorting live in the bar and behind the **Filters**
+button, which counts and highlights itself when something is active so a
+collapsed panel can't hide a filter from you. Filter by custom vs. branded,
+role, group or theme; sort by order added, role, rating, name, theme, newest
+first, or shuffled.
+
+The title row folds away once you scroll into a deck and comes back when you
+return to the top, which matters most on a phone where it is a row of figures
+you would otherwise not see.
 
 Click any figure for the full write-up.
 
@@ -230,11 +244,11 @@ software staying alive around it, and every change is backed up in git history.
 
 ## Deploying
 
-After changing `data/collection.js` or `data/lore.js`, run:
+After changing `data/collection.js`, `data/lore.js` or `data/featured.js`, run:
 
     cd tools && node make-summary.js > ../SUMMARY.md && node stamp.js
 
-`stamp.js` rewrites the two data script tags in `index.html` with the data
+`stamp.js` rewrites the three data script tags in `index.html` with the data
 files' timestamp. Github Pages serves those files with a ten-minute cache and
 phones hold them a good deal longer, so without the stamp a browser that has
 been to the site recently keeps showing the old figure count after a deploy.
@@ -249,3 +263,7 @@ straight off disk.
 exist is skipped rather than breaking the page. The strip hides itself as soon
 as you search or filter, because at that point you are looking for something
 specific rather than browsing.
+
+Plates are one flat list, but each one is drawn on the deck its figure belongs
+to, so the good side opens on its picks and the bad side on its own. A deck with
+no plates in the list simply shows none.

@@ -65,4 +65,34 @@ window.FEATURED = [
 
   { id: "the-elf-man",
     why: "The elves were referred to for hundreds of entries and never seen. This is the only face any of them has, and he is dead." },
+  /* ---- the other deck. The bad side has its own strip, and these are its
+     ---- picks: the ones who start the wars rather than fight them. ---- */
+
+  { id: "quinn",
+    why: "Made by the people he later broke. Every uprising here runs back to him." },
+
+  { id: "the-shadow-king",
+    why: "Named in the world notes for years before anyone saw him. King of a dimension at war with light." },
+
+  { id: "the-light-king",
+    why: "The other king. Turns out to be no better than the shadow one." },
+
+  { id: "johnny-plasma",
+    why: "The famous Nexo Knight, and the villain. Everyone loves him." },
+
+  { id: "the-purple-shadow",
+    why: "A Sith who reached the shadow people through the dark arts, and opened the door." },
+
+  { id: "the-traitor-captain",
+    why: "Rigged a ship with half the Verdauf on it and walked away." },
+
+  { id: "the-blue-demigod",
+    why: "Not on a side. Came through uninvited with an army to wreck whichever side was winning." },
+
+  { id: "the-missile",
+    why: "The first thinking machine here that turned. His body cannot be broken, so he is the weapon." },
+
+  { id: "the-knock-off-captain",
+    why: "The same figure as the Defector, down to the sunglasses - one red cap, one olive." },
+
 ];

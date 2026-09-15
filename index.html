@@ -34,7 +34,57 @@
     box-shadow:0 0 0 1px rgba(90,70,45,.06), 0 18px 60px rgba(60,44,26,.18);
   }
   h1, h2, h3, .info h2, .lore h2 { font-weight:600; }
-  .wrap { max-width:1400px; margin:0 auto; padding:34px 28px 90px; }
+  /* The page is a fixed sheet now: header and controls stay put, and the rail
+     underneath them holds one deck per side. Each deck scrolls on its own, so
+     where you were on the good side is still there when you swipe back. */
+  html, body { height:100%; }
+  .wrap {
+    max-width:1400px; margin:0 auto; padding:34px 28px 0;
+    height:100vh; height:100dvh; display:flex; flex-direction:column;
+  }
+  .wrap > header, .wrap > .bar, .wrap > .controls, .wrap > .sides { flex:0 0 auto; }
+
+  /* ---------- the two sides ---------- */
+  .sides {
+    display:flex; gap:0; margin:0 0 2px;
+    border-bottom:2px solid var(--line);
+  }
+  .sides button {
+    flex:1 1 0; background:none; border:0; border-bottom:2px solid transparent;
+    margin-bottom:-2px; padding:9px 10px 10px; font:inherit; font-size:12px;
+    letter-spacing:.14em; text-transform:uppercase; color:var(--faint);
+    cursor:pointer; display:flex; align-items:baseline; justify-content:center; gap:8px;
+  }
+  .sides button b { font-weight:500; letter-spacing:.04em; font-size:12px; opacity:.7;
+                    font-variant-numeric:tabular-nums; }
+  .sides button:hover { color:var(--accent); }
+  .sides button[aria-selected="true"] { color:var(--text); border-bottom-color:var(--accent); }
+  .sides button[aria-selected="true"] b { opacity:.85; }
+
+  /* The rail itself never scrolls vertically - it pages sideways, one deck at
+     a time, and each deck carries its own vertical scroll. */
+  .rail {
+    flex:1 1 auto; min-height:0;
+    display:flex; gap:26px;
+    overflow-x:auto; overflow-y:hidden;
+    scroll-snap-type:x mandatory; overscroll-behavior-x:contain;
+    scrollbar-width:none; -ms-overflow-style:none;
+  }
+  .rail::-webkit-scrollbar { display:none; }
+
+  /* Once you are actually reading a deck the title row has done its job, so it
+     folds away and gives the height back to the figures. Coming back to the top
+     of a deck brings it straight back. */
+  .wrap > header, .wrap > .bar { transition:height .16s ease, opacity .16s ease, margin .16s ease; }
+  .wrap.condensed > header {
+    height:0; margin:0; padding:0; opacity:0; overflow:hidden; border-bottom-width:0;
+  }
+  .deck {
+    flex:0 0 100%; min-width:0;
+    scroll-snap-align:start; scroll-snap-stop:always;
+    overflow-y:auto; overscroll-behavior-y:contain;
+    padding:16px 0 90px; scrollbar-width:thin;
+  }
 
   /* ---------- header ---------- */
   header {
@@ -221,6 +271,11 @@
   .stars .off { color:var(--line); }
 
   .none { color:var(--faint); text-align:center; padding:70px 20px; }
+  .none .over { display:block; margin:14px auto 0; background:var(--panel);
+                border:1px solid var(--line); color:var(--dim); border-radius:var(--radius);
+                padding:8px 14px; font:inherit; font-size:13px; cursor:pointer;
+                letter-spacing:.05em; text-transform:uppercase; }
+  .none .over:hover { border-color:var(--accent); color:var(--accent); background:var(--panel-2); }
 
   /* ---------- detail ---------- */
   dialog {
@@ -321,7 +376,26 @@
                    border-radius:2px; background:var(--line); }
     .close { margin-top:-30px; }
     .grid { grid-template-columns:repeat(3, 1fr); gap:9px; }
-    .wrap { padding:20px 16px 60px; }
+    .wrap { padding:14px 16px 0; }
+    .rail { gap:16px; }
+    .deck { padding:10px 0 60px; }
+    .sides button { font-size:11px; letter-spacing:.1em; padding:7px 6px 8px; }
+    .plates > h2 em { display:none; }   /* no room for the subtitle at this width */
+
+    /* Chrome is expensive on a phone - every row here is a row of figures you
+       cannot see. Title on one line, search on one line, everything else
+       shoulder to shoulder on a third. */
+    header { gap:9px; padding-bottom:9px; margin-bottom:10px; border-bottom-width:1px; }
+    h1 { font-size:18px; }
+    .count { font-size:11px; }
+    .lorebtn { padding:5px 9px; font-size:11px; letter-spacing:.03em; }
+    .bar { gap:6px; margin-bottom:9px; }
+    .bar .search { flex:1 1 100%; padding:8px 10px; font-size:14px; }
+    .bar select { flex:1 1 84px; max-width:none; min-width:0; padding:6px 6px; font-size:11.5px; }
+    .shuffle, .toggle { padding:6px 8px; font-size:11px; letter-spacing:.02em; }
+    .dens { flex:0 0 auto; gap:4px; padding:4px 6px; }
+    .dens input { width:44px; }
+    .dens b { font-size:11px; }
     .gallery { border-right:0; border-bottom:1px solid var(--line); }
     .plate { flex-basis:132px; }
     .plate b { font-size:13px; }
@@ -367,7 +441,6 @@
   </div>
 
   <div class="controls" id="filters" hidden>
-    <label class="fld"><span>Side</span><div class="seg" id="faction"></div></label>
     <label class="fld"><span>Made by</span><div class="seg" id="origin"></div></label>
     <label class="fld"><span>Theme</span>
       <select id="theme"><option value="all">All themes</option></select></label>
@@ -378,24 +451,26 @@
     <button class="clear" id="clearfilters" hidden>Clear filters</button>
   </div>
 
-  <section class="plates" id="plates" hidden>
-    <h2>Plates<em>a few worth stopping on</em></h2>
-    <div class="strip" id="platestrip"></div>
-  </section>
+  <nav class="sides" id="sides" aria-label="Which side"></nav>
 
-  <div class="grid" id="grid"></div>
-  <p class="none" id="none" hidden>Nothing matches that.</p>
+  <div class="rail" id="rail"></div>
 
 </div>
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789497653"></script>
-<script src="data/lore.js?v=1789497653"></script>
-<script src="data/featured.js"></script>
+<script src="data/collection.js?v=1789498358"></script>
+<script src="data/lore.js?v=1789498358"></script>
+<script src="data/featured.js?v=1789498358"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
-const state = { q:"", faction:"all", origin:"all", theme:"all", role:"all", group:"all", sort:"order" };
+const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"order" };
+
+// One deck per side, in this order, built from the sides actually in use - a
+// Neutral deck appears by itself the day somebody is neutral.
+const SIDE_ORDER = ["good", "neutral", "bad"];
+const SIDE_LABEL = { good:"The Good", bad:"The Bad", neutral:"In Between" };
+const SIDES = SIDE_ORDER.filter(k => FIGS.some(f => f.faction === k));
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
@@ -433,10 +508,10 @@ for (const [id, key] of [["theme","theme"], ["role","role"], ["group","group"]])
   });
 }
 
-// Same idea for the two segmented controls - a Neutral button is dead weight
-// while nobody is neutral, and a Bad one earns its place the moment somebody is.
+// Side used to be a filter in this panel. It is the two decks now, so what is
+// left here is the one segmented control that still has a question to answer.
 const SEG_LABEL = { good:"Good", bad:"Bad", neutral:"Neutral", branded:"Branded", custom:"Custom" };
-for (const [id, allLabel] of [["faction","All"], ["origin","Any"]]) {
+for (const [id, allLabel] of [["origin","Any"]]) {
   const ORDER = ["good", "bad", "neutral", "branded", "custom"];
   const vals = [...new Set(FIGS.map(f => f[id]).filter(Boolean))]
     .sort((a, b) => (ORDER.indexOf(a) + 1 || 99) - (ORDER.indexOf(b) + 1 || 99)
@@ -448,7 +523,6 @@ for (const [id, allLabel] of [["faction","All"], ["origin","Any"]]) {
 }
 
 function matches(f) {
-  if (state.faction !== "all" && f.faction !== state.faction) return false;
   if (state.origin  !== "all" && f.origin  !== state.origin)  return false;
   if (state.theme   !== "all" && f.theme   !== state.theme)   return false;
   if (state.role    !== "all" && f.role    !== state.role)    return false;
@@ -479,7 +553,7 @@ const SORTS = {
   shuffle: (a, b) => (deck.get(a._i) ?? 0) - (deck.get(b._i) ?? 0)
 };
 
-const FILTER_KEYS = ["faction", "origin", "role", "group", "theme"];
+const FILTER_KEYS = ["origin", "role", "group", "theme"];
 
 function syncFilterUI() {
   const n = FILTER_KEYS.filter(k => state[k] !== "all").length;
@@ -489,28 +563,113 @@ function syncFilterUI() {
   $("clearfilters").hidden = n === 0;
 }
 
-let view = [];          // what is on screen right now, in screen order
+let decks = {};         // side -> the figures on that deck, in screen order
 let curI = -1;          // _i of the figure the dialog is showing
 let mode = "figure";    // "figure" | "lore"
 
+// Built once. Each deck is its own scroller with its own plate strip, grid and
+// empty state, so nothing about one side can move the other.
+$("sides").innerHTML = SIDES.map((k, i) =>
+  `<button type="button" data-side="${k}" aria-selected="${i === 0}">${esc(SIDE_LABEL[k] || k)}<b></b></button>`
+).join("");
+$("rail").innerHTML = SIDES.map(k => `<section class="deck" data-side="${k}">
+    <section class="plates" id="plates-${k}" hidden>
+      <h2>Plates<em>a few worth stopping on</em></h2>
+      <div class="strip" id="platestrip-${k}"></div>
+    </section>
+    <div class="grid" id="grid-${k}"></div>
+    <p class="none" id="none-${k}" hidden></p>
+  </section>`).join("");
+
+const deckEls = [...$("rail").children];
+const gridEls = SIDES.map(k => $("grid-" + k));
+
 function render() {
   const list = FIGS.filter(matches).sort(SORTS[state.sort]);
-  view = list;
+  for (const k of SIDES) decks[k] = list.filter(f => f.faction === k);
+
   $("count").textContent =
     list.length === FIGS.length
       ? `${FIGS.length} figure${FIGS.length === 1 ? "" : "s"}`
       : `${list.length} of ${FIGS.length}`;
-  $("none").hidden = list.length > 0;
+
+  SIDES.forEach((k, i) => {
+    const mine = decks[k];
+    $("sides").children[i].querySelector("b").textContent = String(mine.length);
+
+    $("grid-" + k).innerHTML = sections(mine).map((run, j) =>
+      (j === 0 ? `` : `<div class="sec">${run.lost ? "Deceased or missing" : "Still here"}<b>${run.items.length}</b></div>`)
+      + run.items.map(card).join("")
+    ).join("");
+    fitShots($("grid-" + k));
+
+    // If this side came up empty but the other one didn't, say where they went
+    // rather than leaving somebody staring at "nothing matches" with a full
+    // deck one swipe away.
+    const el = $("none-" + k);
+    el.hidden = mine.length > 0;
+    if (!el.hidden) {
+      const other = SIDES.map((o, oi) => ({ o, oi, n: decks[o].length })).filter(x => x.o !== k && x.n);
+      el.innerHTML = other.length
+        ? `Nothing on this side.` + other.map(x =>
+            `<button class="over" data-go="${x.oi}">${x.n} on ${esc(SIDE_LABEL[x.o] || x.o)} &rsaquo;</button>`).join("")
+        : `Nothing matches that.`;
+    }
+  });
 
   syncFilterUI();
   renderPlates();
-
-  $("grid").innerHTML = sections(list).map((run, i) =>
-    (i === 0 ? `` : `<div class="sec">${run.lost ? "Deceased or missing" : "Still here"}<b>${run.items.length}</b></div>`)
-    + run.items.map(card).join("")
-  ).join("");
-  fitShots($("grid"));
 }
+
+/* ---- which deck is on screen ---- */
+function activeIndex() {
+  const x = $("rail").scrollLeft;
+  let best = 0, bd = Infinity;
+  deckEls.forEach((el, i) => { const d = Math.abs(el.offsetLeft - x); if (d < bd) { bd = d; best = i; } });
+  return best;
+}
+function goSide(i, behavior = "smooth") {
+  const el = deckEls[Math.max(0, Math.min(deckEls.length - 1, i))];
+  if (el) $("rail").scrollTo({ left: el.offsetLeft, behavior });
+}
+function syncSideUI() {
+  const a = activeIndex();
+  [...$("sides").children].forEach((b, i) => b.setAttribute("aria-selected", String(i === a)));
+}
+$("sides").addEventListener("click", e => {
+  const b = e.target.closest("button[data-side]");
+  if (b) goSide([...$("sides").children].indexOf(b));
+});
+(() => {
+  let queued = false;
+  $("rail").addEventListener("scroll", () => {
+    if (queued) return;
+    queued = true;
+    requestAnimationFrame(() => { queued = false; syncSideUI(); condense(); });
+  }, { passive: true });
+})();
+
+// Folding the header changes the rail's height, which nudges the scroll
+// position, which could fold it straight back. The gap between the two
+// thresholds is what stops that turning into a flicker.
+function condense() {
+  const el = deckEls[activeIndex()];
+  if (!el) return;
+  const on = document.querySelector(".wrap").classList.contains("condensed");
+  const y = el.scrollTop;
+  if (!on && y > 80) document.querySelector(".wrap").classList.add("condensed");
+  else if (on && y < 24) document.querySelector(".wrap").classList.remove("condensed");
+}
+deckEls.forEach(el => {
+  let queued = false;
+  el.addEventListener("scroll", () => {
+    if (queued) return;
+    queued = true;
+    requestAnimationFrame(() => { queued = false; condense(); });
+  }, { passive: true });
+});
+// A resize moves every deck's offsetLeft, so hold the one you were on.
+window.addEventListener("resize", () => goSide(activeIndex(), "auto"));
 
 // The lost are catalogued as a block at the end of the collection, so the grid
 // draws a rule where they start. Only when the current order actually splits
@@ -557,23 +716,28 @@ const PLATES = (window.FEATURED || [])
   .map(p => ({ ...p, fig: FIGS.find(f => f.id === p.id) }))
   .filter(p => p.fig);
 
-let platesDrawn = false;
+// Each plate sits on the deck its figure belongs to, so the good side opens on
+// its own picks and the bad side on its own.
+const platesDrawn = {};
 function renderPlates() {
   const idle = !state.q && FILTER_KEYS.every(k => state[k] === "all");
-  $("plates").hidden = !idle || PLATES.length === 0;
-  if (!idle || platesDrawn || !PLATES.length) return;
-  $("platestrip").innerHTML = PLATES.map(p => {
-    const cover = photos(p.fig)[0];
-    return `<button class="plate" data-i="${p.fig._i}">
-      <span class="frame">${cover
-        ? `<img src="${esc(cover.src)}" alt="" loading="lazy">`
-        : `<span class="minidash">—</span>`}</span>
-      <b>${esc(p.fig.name)}</b>
-      <i>${esc(p.why || "")}</i>
-    </button>`;
-  }).join("");
-  fitShots($("platestrip"));
-  platesDrawn = true;
+  for (const k of SIDES) {
+    const mine = PLATES.filter(p => p.fig.faction === k);
+    $("plates-" + k).hidden = !idle || mine.length === 0;
+    if (!idle || platesDrawn[k] || !mine.length) continue;
+    $("platestrip-" + k).innerHTML = mine.map(p => {
+      const cover = photos(p.fig)[0];
+      return `<button class="plate" data-i="${p.fig._i}">
+        <span class="frame">${cover
+          ? `<img src="${esc(cover.src)}" alt="" loading="lazy">`
+          : `<span class="minidash">—</span>`}</span>
+        <b>${esc(p.fig.name)}</b>
+        <i>${esc(p.why || "")}</i>
+      </button>`;
+    }).join("");
+    fitShots($("platestrip-" + k));
+    platesDrawn[k] = true;
+  }
 }
 
 // Short labels for the corner tag - a few franchise names are far too long to
@@ -622,11 +786,12 @@ function showImg(n) {
     .forEach((t, i) => t.dataset.on = i === gal.i ? "1" : "0");
 }
 
-// Which list do next/previous walk? The figures on screen if this one is among
-// them, otherwise the whole collection - so a figure reached from a Connections
-// tile still steps somewhere sensible.
+// Which list do next/previous walk? The deck this figure is actually on, so
+// stepping never crosses sides mid-read. A figure reached from a Connections
+// tile that is filtered out of every deck falls back to the whole collection.
 function navList() {
-  return view.some(f => f._i === curI) ? view : FIGS;
+  for (const k of SIDES) if (decks[k] && decks[k].some(f => f._i === curI)) return decks[k];
+  return FIGS;
 }
 
 function stepFigure(d) {
@@ -733,9 +898,11 @@ function openLore() {
 
 // ---- events ----
 $("lorebtn").addEventListener("click", openLore);
-$("grid").addEventListener("click", e => {
-  const card = e.target.closest(".card");
-  if (card) open(FIGS[+card.dataset.i]);
+$("rail").addEventListener("click", e => {
+  const hit = e.target.closest(".card, .plate");
+  if (hit) return open(FIGS[+hit.dataset.i]);
+  const over = e.target.closest(".none .over");
+  if (over) return goSide(Number(over.dataset.go));
 });
 
 $("detail").addEventListener("click", e => {
@@ -824,18 +991,20 @@ let cols = 6;
 // which is the column count AND the screen. Seven across is comfortable on a
 // laptop and unreadable on a phone, so measure rather than guess.
 function fitText() {
-  const grid = $("grid");
-  const gap = parseFloat(getComputedStyle(grid).gap) || 0;
-  const card = (grid.clientWidth - gap * (cols - 1)) / cols;
-  grid.classList.toggle("small", card < 100 && card >= 78);
-  grid.classList.toggle("tiny", card < 78);
+  for (const grid of gridEls) {
+    const gap = parseFloat(getComputedStyle(grid).gap) || 0;
+    const card = (grid.clientWidth - gap * (cols - 1)) / cols;
+    grid.classList.toggle("small", card < 100 && card >= 78);
+    grid.classList.toggle("tiny", card < 78);
+  }
 }
 
 function applyCols(n) {
   cols = n;
-  const grid = $("grid");
-  grid.style.gridTemplateColumns = `repeat(${n}, minmax(0, 1fr))`;
-  grid.style.gap = n >= 9 ? "5px" : n >= 6 ? "8px" : n >= 4 ? "11px" : "16px";
+  for (const grid of gridEls) {
+    grid.style.gridTemplateColumns = `repeat(${n}, minmax(0, 1fr))`;
+    grid.style.gap = n >= 9 ? "5px" : n >= 6 ? "8px" : n >= 4 ? "11px" : "16px";
+  }
   fitText();
   $("colslabel").textContent = String(n);
   try { localStorage.setItem("lego.cols", String(n)); } catch (_) {}
@@ -859,7 +1028,7 @@ $("role").addEventListener("change", e => { state.role = e.target.value; render(
 $("group").addEventListener("change", e => { state.group = e.target.value; render(); });
 $("sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
 
-["faction", "origin"].forEach(key => {
+["origin"].forEach(key => {
   $(key).addEventListener("click", e => {
     const b = e.target.closest("button");
     if (!b) return;
@@ -873,13 +1042,13 @@ $("filtertoggle").addEventListener("click", () => {
   const open = $("filters").hidden;
   $("filters").hidden = !open;
   $("filtertoggle").setAttribute("aria-expanded", String(open));
+  fitText();
 });
 
 $("clearfilters").addEventListener("click", () => {
   FILTER_KEYS.forEach(k => state[k] = "all");
   ["role", "group", "theme"].forEach(id => $(id).value = "all");
-  ["faction", "origin"].forEach(id =>
-    [...$(id).children].forEach((c, i) => c.setAttribute("aria-pressed", String(i === 0))));
+  [...$("origin").children].forEach((c, i) => c.setAttribute("aria-pressed", String(i === 0)));
   render();
 });
 
@@ -888,16 +1057,23 @@ $("shuffle").addEventListener("click", () => {
   state.sort = "shuffle";
   $("sort").value = "shuffle";
   render();
-  window.scrollTo({ top: 0, behavior: "smooth" });
+  deckEls[activeIndex()].scrollTo({ top: 0, behavior: "smooth" });
 });
 
-$("plates").addEventListener("click", e => {
-  const p = e.target.closest(".plate");
-  if (p) open(FIGS[+p.dataset.i]);
+// Left and right step between the sides while nothing is open and you are not
+// typing in the search box.
+document.addEventListener("keydown", e => {
+  if ($("detail").open) return;
+  if (e.key !== "ArrowLeft" && e.key !== "ArrowRight") return;
+  const t = document.activeElement;
+  if (t && (t.tagName === "INPUT" || t.tagName === "SELECT" || t.tagName === "TEXTAREA")) return;
+  e.preventDefault();
+  goSide(activeIndex() + (e.key === "ArrowRight" ? 1 : -1));
 });
 
 reshuffle();
 render();
+syncSideUI();
 </script>
 </body>
 </html>

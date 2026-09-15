@@ -11,17 +11,18 @@ const path = require("path");
 const root = path.join(__dirname, "..");
 const page = path.join(root, "index.html");
 
+const DATA = ["data/collection.js", "data/lore.js", "data/featured.js"];
+
 const stamp = Math.max(
-  ...["data/collection.js", "data/lore.js"].map(f =>
-    Math.floor(fs.statSync(path.join(root, f)).mtimeMs / 1000))
+  ...DATA.map(f => Math.floor(fs.statSync(path.join(root, f)).mtimeMs / 1000))
 );
 
-const TAG = /(<script src="data\/(?:collection|lore)\.js)(\?v=\d+)?("><\/script>)/g;
+const TAG = /(<script src="data\/(?:collection|lore|featured)\.js)(\?v=\d+)?("><\/script>)/g;
 
 let html = fs.readFileSync(page, "utf8");
 const found = (html.match(TAG) || []).length;
-if (found !== 2) {
-  console.error(`stamp: expected 2 data script tags in index.html, found ${found}`);
+if (found !== DATA.length) {
+  console.error(`stamp: expected ${DATA.length} data script tags in index.html, found ${found}`);
   process.exit(1);
 }
 
