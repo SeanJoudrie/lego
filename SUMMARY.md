@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-370 characters from a custom LEGO minifigure world, in the order they were
+373 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3936,13 +3936,13 @@ One of the fire service.
 
 *Tags:* firefighter, fire-service, breathing-apparatus, rescue, lego-city
 
-### 337. Luke Skywalker
+### 337. Luke Skywalker — Two eras
 
 **Alignment:** good · **Role:** Pilot · **Figure:** branded
 
-Luke Skywalker, in his flight kit.
+Luke Skywalker, in his flight kit and later in black.
 
-*How it was got:* Orange flight suit with the grey chest rig, and the white X-wing pilot's helmet with red rebel crests on both sides.
+*How it was got:* Two figures of the same man. The pilot is in an orange flight suit with the grey chest rig and the white X-wing helmet, red rebel crests on both sides. The later one is bare-headed and blond, in a grey tunic over black arms and legs, with no kit on him at all.
 
 *Tags:* star-wars, pilot, jedi, rebel, x-wing, branded
 
@@ -4224,13 +4224,13 @@ A guard of the Jedi palace.
 
 *Tags:* star-wars, jedi, guard, masked, robes, branded
 
-### 365. Anakin Skywalker — As a boy
+### 365. Anakin Skywalker — Boy and man
 
 **Alignment:** good · **Figure:** branded
 
-Anakin Skywalker, as a boy.
+Anakin Skywalker, as a boy and grown.
 
-*How it was got:* Short brown hair, a freckled face, and plain pale desert clothes with a brown belt. No armour, no weapon, nothing of what he becomes.
+*How it was got:* Two figures of the same man. The boy has short brown hair, a freckled face, and plain pale desert clothes with a brown belt - no armour, no weapon, nothing of what he becomes. The man has long swept hair, a scar down one cheek, blue eyes and black Jedi robes with a brown leather belt.
 
 *Tags:* star-wars, anakin, child, desert, branded
 
@@ -4283,6 +4283,36 @@ Captain America.
 *How it was got:* Navy blue throughout, with the A on the forehead of the cowl, a white star on the chest and red and white bands across the ribs. Red hands. No shield with him.
 
 *Tags:* marvel, captain-america, soldier, branded
+
+### 371. The Old Flash
+
+**Alignment:** good · **Figure:** branded
+
+The Flash, the older one.
+
+*How it was got:* Steel bowl helmet with a gold wing on each side, red shirt with the lightning bolt across the chest, black belt, blue trousers and red boots. Grinning, and no mask at all.
+
+*Tags:* dc, flash, speedster, winged-helmet, branded
+
+### 372. Superman
+
+**Alignment:** good · **Figure:** branded
+
+Superman.
+
+*How it was got:* Blue throughout with the crest on the chest, red panelling at the waist and knees, a real red cloth cape, and black hair with the curl. No trunks on this version.
+
+*Tags:* dc, superman, cape, kryptonian, branded
+
+### 373. Iron Fist
+
+**Alignment:** good · **Figure:** branded
+
+Iron Fist.
+
+*How it was got:* Green suit with a yellow sash at the waist and the black dragon spread across the chest. Yellow mask over the upper face, mouth and chin bare, yellow hands.
+
+*Tags:* marvel, iron-fist, dragon, martial-arts, branded
 
 ---
 

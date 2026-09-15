@@ -8909,7 +8909,7 @@ window.COLLECTION = [
   {
     id: "luke-skywalker",
     name: "Luke Skywalker",
-    variant: "",
+    variant: "Two eras",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -8919,14 +8919,19 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Luke Skywalker, in his flight kit.",
+    background: "Luke Skywalker, in his flight kit and later in black.",
     provenance:
-      "Orange flight suit with the grey chest rig, and the white X-wing " +
-      "pilot's helmet with red rebel crests on both sides.",
+      "Two figures of the same man. The pilot is in an orange flight suit with " +
+      "the grey chest rig and the white X-wing helmet, red rebel crests on both " +
+      "sides. The later one is bare-headed and blond, in a grey tunic over black " +
+      "arms and legs, with no kit on him at all.",
     tags: ["star-wars", "pilot", "jedi", "rebel", "x-wing", "branded"],
-    images: ["images/luke-skywalker-01.jpg"],
+    images: [
+      { src: "images/luke-skywalker-01.jpg", caption: "In his flight kit" },
+      { src: "images/luke-skywalker-02.jpg", caption: "Later, in black" },
+    ],
     acquired: "",
-    notes: "Opens a Star Wars theme, the eighth, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both."
+    notes: "Opened the Star Wars theme, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both. Second photo added later: the same man out of the cockpit and out of the squadron, which is the only picture of him here where he is nobody's pilot."
   },
 
 
@@ -9605,7 +9610,7 @@ window.COLLECTION = [
   {
     id: "anakin-skywalker",
     name: "Anakin Skywalker",
-    variant: "As a boy",
+    variant: "Boy and man",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9615,14 +9620,19 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Anakin Skywalker, as a boy.",
+    background: "Anakin Skywalker, as a boy and grown.",
     provenance:
-      "Short brown hair, a freckled face, and plain pale desert clothes with " +
-      "a brown belt. No armour, no weapon, nothing of what he becomes.",
+      "Two figures of the same man. The boy has short brown hair, a freckled " +
+      "face, and plain pale desert clothes with a brown belt - no armour, no " +
+      "weapon, nothing of what he becomes. The man has long swept hair, a scar " +
+      "down one cheek, blue eyes and black Jedi robes with a brown leather belt.",
     tags: ["star-wars", "anakin", "child", "desert", "branded"],
-    images: ["images/anakin-skywalker-01.jpg"],
+    images: [
+      { src: "images/anakin-skywalker-01.jpg", caption: "As a boy" },
+      { src: "images/anakin-skywalker-02.jpg", caption: "Grown, in Jedi black" },
+    ],
     acquired: "",
-    notes: "Entered under his full name with the boy as a variant rather than as Baby Anakin, so that if you ever photograph him grown he goes in this same entry - one entry per person is the rule here. Also worth saying out loud: Luke is already in this collection as an adult pilot, and his father is here as a child. Whether the world knows they are father and son is not written down."
+    notes: "He was entered under his full name last time precisely so a grown figure could join this entry instead of starting a second one, and that is what happened - the boy and the man are one card. The scar is the whole distance between the two photographs. Whether this world knows he is Luke's father is still not written down."
   },
 
 
@@ -9753,6 +9763,81 @@ window.COLLECTION = [
     images: ["images/captain-america-01.jpg"],
     acquired: "",
     notes: "Fourth Marvel figure, after Tony Stark, Cowboy Spider-Man and Deadpool. He arrives without his shield, which is the one thing everybody would name first about him."
+  },
+
+
+  {
+    id: "the-old-flash",
+    name: "The Old Flash",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "DC",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The Flash, the older one.",
+    provenance:
+      "Steel bowl helmet with a gold wing on each side, red shirt with the " +
+      "lightning bolt across the chest, black belt, blue trousers and red " +
+      "boots. Grinning, and no mask at all.",
+    tags: ["dc", "flash", "speedster", "winged-helmet", "branded"],
+    images: ["images/the-old-flash-01.jpg"],
+    acquired: "",
+    notes: "Named the way you named him. The winged helmet marks him as the Golden Age Flash, Jay Garrick, rather than the red-suited one - so if a modern Flash ever turns up he is a different man and gets his own entry rather than joining this one. Second DC figure, after Bruce Wayne."
+  },
+
+
+  {
+    id: "superman",
+    name: "Superman",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "DC",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Superman.",
+    provenance:
+      "Blue throughout with the crest on the chest, red panelling at the " +
+      "waist and knees, a real red cloth cape, and black hair with the curl. " +
+      "No trunks on this version.",
+    tags: ["dc", "superman", "cape", "kryptonian", "branded"],
+    images: ["images/superman-01.jpg"],
+    acquired: "",
+    notes: "Third DC figure. He is the first branded figure here whose power is simply being stronger than everybody - the collection\'s own strongest are the Cosmic Deities and the First Man, which makes him the first outsider who would have to be ranked against them."
+  },
+
+
+  {
+    id: "iron-fist",
+    name: "Iron Fist",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Marvel",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Iron Fist.",
+    provenance:
+      "Green suit with a yellow sash at the waist and the black dragon spread " +
+      "across the chest. Yellow mask over the upper face, mouth and chin bare, " +
+      "yellow hands.",
+    tags: ["marvel", "iron-fist", "dragon", "martial-arts", "branded"],
+    images: ["images/iron-fist-01.jpg"],
+    acquired: "",
+    notes: "Fifth Marvel figure. Marvel is now the largest branded theme here, ahead of Star Wars\' named characters, and every one of them so far is a man."
   },
 
 
