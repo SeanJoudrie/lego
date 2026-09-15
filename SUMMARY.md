@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-447 characters from a custom LEGO minifigure world, in the order they were
+448 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3936,13 +3936,13 @@ One of the fire service.
 
 *Tags:* firefighter, fire-service, breathing-apparatus, rescue, lego-city
 
-### 337. Luke Skywalker — Five outfits
+### 337. Luke Skywalker — Six figures
 
 **Alignment:** good · **Role:** Pilot · **Figure:** branded
 
 Luke Skywalker, in his flight kit and later in black.
 
-*How it was got:* Two figures of the same man. The pilot is in an orange flight suit with the grey chest rig and the white X-wing helmet, red rebel crests on both sides. The later one is bare-headed and blond, in a grey tunic over black arms and legs, with no kit on him at all. A third has him in a yellow ceremonial jacket over brown trousers, a gold medallion printed at the chest and a holster on the thigh. A fourth is the boy on Tatooine: plain white robes with a brown belt, pale hair, a yellow head. A fifth is him on the ice - a tan quilted vest over white, a brown utility belt, and a helmet with goggles pushed up on the brim.
+*How it was got:* Two figures of the same man. The pilot is in an orange flight suit with the grey chest rig and the white X-wing helmet, red rebel crests on both sides. The later one is bare-headed and blond, in a grey tunic over black arms and legs, with no kit on him at all. A third has him in a yellow ceremonial jacket over brown trousers, a gold medallion printed at the chest and a holster on the thigh. A fourth is the boy on Tatooine: plain white robes with a brown belt, pale hair, a yellow head. A fifth is him on the ice - a tan quilted vest over white, a brown utility belt, and a helmet with goggles pushed up on the brim. A sixth is the Tatooine robes again on a later mould - a flesh face instead of a yellow one, proper fair hair, and the wrappings on the legs printed in.
 
 *Tags:* star-wars, pilot, jedi, rebel, x-wing, branded
 
@@ -4338,13 +4338,13 @@ Mace Windu.
 
 *Tags:* star-wars, jedi, mace-windu, cape, branded
 
-### 376. Chewbacca
+### 376. Chewbacca — Two figures
 
 **Alignment:** good · **Figure:** branded
 
 Chewbacca.
 
-*How it was got:* One moulded brown piece from the head to the hips, fur sculpted all over it, with the ammunition bandolier picked out in silver across the chest. Brown legs and arms under it.
+*How it was got:* Two figures of him. The first is one moulded brown piece from head to hips, fur sculpted all over it, the bandolier picked out in silver. The second is the same build caught in weather - white snow flecked through the fur, drifts printed across the toes of both feet, and pale flames licking up the legs.
 
 *Tags:* star-wars, wookiee, chewbacca, bandolier, branded
 
@@ -4440,13 +4440,13 @@ Han Solo, in cold-weather gear.
 
 *Tags:* star-wars, han-solo, parka, cold-weather, branded
 
-### 386. C-3PO
+### 386. C-3PO — Two figures
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
 C-3PO.
 
-*How it was got:* Gold from head to foot, in a metallic finish rather than a printed one. Moulded droid head with the fixed open mouth and round eyes, wire and panel detail printed across the chest and waist.
+*How it was got:* Two figures of him, both gold from head to foot in a metallic finish rather than a printed one. The later one has a deeper pearl gold, a sharper moulded face, and the wiring across the midriff drawn in far more detail than the first.
 
 *Tags:* star-wars, droid, c-3po, gold, branded
 
@@ -5085,6 +5085,16 @@ A librarian.
 *How it was got:* Dark brown bobbed hair, black-framed glasses, and a wide open smile - one of the few faces here with the teeth showing. Cream jumper knitted in orange and yellow argyle over a collared shirt, mismatched white and dark grey sleeves, black legs.
 
 *Tags:* civilian, librarian, glasses, argyle, lego-city
+
+### 448. Captain Antilles
+
+**Alignment:** good · **Role:** Captain · **Figure:** branded
+
+Captain Antilles, a rebel ship's captain.
+
+*How it was got:* Open-faced rebel helmet - a brown dome in a white rim, with the chin strap drawn down both cheeks - over a lined face with a black beard. Tan officer's jacket with a rank plate at the chest, pocket flaps, and a badge pinned at the waist. Olive legs.
+
+*Tags:* star-wars, rebel, captain, officer, helmet, branded
 
 ---
 

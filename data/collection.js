@@ -8914,7 +8914,7 @@ window.COLLECTION = [
   {
     id: "luke-skywalker",
     name: "Luke Skywalker",
-    variant: "Five outfits",
+    variant: "Six figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -8934,17 +8934,21 @@ window.COLLECTION = [
       "chest and a holster on the thigh. A fourth is the boy on Tatooine: " +
       "plain white robes with a brown belt, pale hair, a yellow head. A fifth " +
       "is him on the ice - a tan quilted vest over white, a brown utility belt, " +
-      "and a helmet with goggles pushed up on the brim.",
+      "and a helmet with goggles pushed up on the brim. A sixth is the " +
+      "Tatooine robes again " +
+      "on a later mould - a flesh face instead of a yellow one, proper fair " +
+      "hair, and the wrappings on the legs printed in.",
     tags: ["star-wars", "pilot", "jedi", "rebel", "x-wing", "branded"],
     images: [
       { src: "images/luke-skywalker-01.jpg", caption: "In his flight kit" },
       { src: "images/luke-skywalker-04.jpg", caption: "On Tatooine, in white" },
+      { src: "images/luke-skywalker-06.jpg", caption: "Tatooine again, the later mould" },
       { src: "images/luke-skywalker-03.jpg", caption: "In the ceremonial jacket" },
       { src: "images/luke-skywalker-05.jpg", caption: "In cold-weather gear" },
       { src: "images/luke-skywalker-02.jpg", caption: "Later, in black" },
     ],
     acquired: "",
-    notes: "Opened the Star Wars theme, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both. Five figures of him now, more than anybody else in the collection by a clear margin - the next highest is four. The captions describe rather than sequence: the photographs are not in the order he lived them. The jacket is the one picture of him being thanked; the black is the one where he is nobody's pilot."
+    notes: "Opened the Star Wars theme, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both. Six figures of him now, more than anybody else in the collection - Obi-Wan is next at five. Two of the six are the same Tatooine robes on two mouldings, twenty-odd years apart. The captions describe rather than sequence: the photographs are not in the order he lived them. The jacket is the one picture of him being thanked; the black is the one where he is nobody's pilot."
   },
 
 
@@ -9942,7 +9946,7 @@ window.COLLECTION = [
   {
     id: "chewbacca",
     name: "Chewbacca",
-    variant: "",
+    variant: "Two figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9954,13 +9958,18 @@ window.COLLECTION = [
     rating: 0,
     background: "Chewbacca.",
     provenance:
-      "One moulded brown piece from the head to the hips, fur sculpted all " +
-      "over it, with the ammunition bandolier picked out in silver across the " +
-      "chest. Brown legs and arms under it.",
+      "Two figures of him. The first is one moulded brown piece from head to " +
+      "hips, fur sculpted all over it, the bandolier picked out in silver. The " +
+      "second is the same build caught in weather - white snow flecked through " +
+      "the fur, drifts printed across the toes of both feet, and pale flames " +
+      "licking up the legs.",
     tags: ["star-wars", "wookiee", "chewbacca", "bandolier", "branded"],
-    images: ["images/chewbacca-01.jpg"],
+    images: [
+      { src: "images/chewbacca-01.jpg", caption: "Plain" },
+      { src: "images/chewbacca-02.jpg", caption: "In snow, with flames up the legs" },
+    ],
     acquired: "",
-    notes: "Bare-faced, no cloak, and the bandolier is the only thing he carries."
+    notes: "Bare-faced, no cloak, and the bandolier is the only thing he carries. The second figure is the odd one: snow through the fur and fire up the legs at the same time, which is a combination nobody else in the collection is printed with."
   },
 
 
@@ -10202,7 +10211,7 @@ window.COLLECTION = [
   {
     id: "c-3po",
     name: "C-3PO",
-    variant: "",
+    variant: "Two figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -10214,13 +10223,17 @@ window.COLLECTION = [
     rating: 0,
     background: "C-3PO.",
     provenance:
-      "Gold from head to foot, in a metallic finish rather than a printed " +
-      "one. Moulded droid head with the fixed open mouth and round eyes, wire " +
-      "and panel detail printed across the chest and waist.",
+      "Two figures of him, both gold from head to foot in a metallic finish " +
+      "rather than a printed one. The later one has a deeper pearl gold, a " +
+      "sharper moulded face, and the wiring across the midriff drawn in far " +
+      "more detail than the first.",
     tags: ["star-wars", "droid", "c-3po", "gold", "branded"],
-    images: ["images/c-3po-01.jpg"],
+    images: [
+      { src: "images/c-3po-01.jpg", caption: "The earlier one" },
+      { src: "images/c-3po-02.jpg", caption: "The later one" },
+    ],
     acquired: "",
-    notes: "First droid from the films here. This collection already has several of its own - the radar robot who was hacked and made to watch himself attack people, the scrap-built dock robot, the Defense Bot - so he arrives into a world that has thinking machines and treats them as people. He has four astromechs beside him now, which makes a group of them."
+    notes: "First droid from the films here. This collection already has several of its own - the radar robot who was hacked and made to watch himself attack people, the scrap-built dock robot, the Defense Bot - so he arrives into a world that has thinking machines and treats them as people. He has seven astromechs beside him now, which makes a group of them. Two figures of him on one card, and they are the clearest pair here for showing how much finer the printing got between one decade and the next."
   },
 
 
@@ -11861,6 +11874,32 @@ window.COLLECTION = [
     images: ["images/the-librarian-01.jpg"],
     acquired: "",
     notes: "Second librarian in the collection, after the Dwarf Librarian - who was raised to the job and did not do it. This one appears to be actually doing it. Placeholder name; filed in Lego City by default."
+  },
+
+
+  {
+    id: "captain-antilles",
+    name: "Captain Antilles",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Captain",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Captain Antilles, a rebel ship's captain.",
+    provenance:
+      "Open-faced rebel helmet - a brown dome in a white rim, with the chin " +
+      "strap drawn down both cheeks - over a lined face with a black beard. " +
+      "Tan officer\'s jacket with a rank plate at the chest, pocket flaps, and " +
+      "a badge pinned at the waist. Olive legs.",
+    tags: ["star-wars", "rebel", "captain", "officer", "helmet", "branded"],
+    images: ["images/captain-antilles-01.jpg"],
+    acquired: "",
+    notes: "First rebel here who is not a pilot - the other nine all fly, so the group is called The Rebel Pilots and he does not fit in it. Left ungrouped rather than stretch that name; if it should widen to cover the Rebellion as a whole, say so and he goes in with them."
   },
 
 
