@@ -2696,6 +2696,8 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-generals-son", label: "Adopted father of" },
+      { to: "jimzon", label: "Commands" },
+      { to: "the-medic", label: "Commands" },
     ],
     rating: 0,
     background:
@@ -2896,6 +2898,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-prince", label: "Follows" },
       { to: "the-city-king", label: "Rules above" },
+      { to: "curtis", label: "His knight" },
     ],
     rating: 0,
     background:
@@ -2921,9 +2924,7 @@ window.COLLECTION = [
     role: "Armorer",
     group: "The Gunless Realm",
     location: "The Medieval Era",
-    relations: [
-      { to: "king-arthur", label: "From the realm of" },
-    ],
+    relations: [],
     rating: 0,
     background:
       "A knight out of the realm where guns don't work, trained on the crossbow " +
@@ -2976,6 +2977,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-fixer", label: "Father of" },
+      { to: "the-old-hand", label: "Best friend of" },
     ],
     rating: 0,
     background:
@@ -8280,7 +8282,135 @@ window.COLLECTION = [
     tags: ["construction", "worker", "sunglasses", "railway", "hi-vis"],
     images: ["images/the-worker-in-shades-01.jpg"],
     acquired: "",
-    notes: "Name is purely descriptive. He and the Site Planner both carry a railway arrow on the vest, which the other two do not - if this crew works the rails rather than buildings, say so."
+    notes: "Name is purely descriptive. He, the Site Planner and the Winking Worker all carry a railway arrow on the vest, which the rest of the crew do not - three of eight, so if this crew works the rails rather than buildings, say so."
+  },
+
+
+  {
+    id: "the-winking-worker",
+    name: "The Winking Worker",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Worker",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "A construction worker.",
+    provenance:
+      "Red hard hat, orange hi-vis vest worn over a blue collared shirt and " +
+      "tie, blue arms and legs. A railway arrow on the vest, and a wink.",
+    tags: ["construction", "worker", "hard-hat", "hi-vis", "railway"],
+    images: ["images/the-winking-worker-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. Third man in the crew with the railway arrow on his vest, after the Site Planner and the Worker in Shades - three of eight now, which is a big enough share to mean something if this crew works the rails."
+  },
+
+
+  {
+    id: "the-cheerful-worker",
+    name: "The Cheerful Worker",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Worker",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "A construction worker.",
+    provenance:
+      "Red hard hat over ginger hair, a zipped orange work jacket with " +
+      "reflective bands and chest pockets, blue legs, grey hands. Open smile.",
+    tags: ["construction", "worker", "hard-hat", "hi-vis"],
+    images: ["images/the-cheerful-worker-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. He and the Worker in Silver Shades wear the same zipped jacket, a heavier kit than the older three in their plain vests."
+  },
+
+
+  {
+    id: "the-worker-in-silver-shades",
+    name: "The Worker in Silver Shades",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Construction Worker",
+    group: "The Construction Crew",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "A construction worker.",
+    provenance:
+      "Same zipped orange jacket as the Cheerful Worker, mirrored silver " +
+      "sunglasses under the red hat, and a smirk.",
+    tags: ["construction", "worker", "sunglasses", "hard-hat", "hi-vis"],
+    images: ["images/the-worker-in-silver-shades-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, and kept clear of the Worker in Shades, who wears black ones. Two men in sunglasses on an eight-man crew."
+  },
+
+
+  {
+    id: "the-atlantis-leader",
+    name: "The Atlantis Leader",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Leader",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-atlantis-diver", label: "On his team" },
+    ],
+    rating: 0,
+    background:
+      "One of the leaders of the Atlantis dive team.\n\n" +
+      "The name is where they went once, not what they do - the team has been " +
+      "a good deal further than Atlantis.",
+    provenance:
+      "Green transparent dome helmet over a grey armoured dive suit, lime " +
+      "arms, a harpoon printed down one leg and a red trident badge on the " +
+      "other. Black eyepatch with the strap across his face.",
+    tags: ["atlantis", "dive-team", "leader", "diver", "underwater", "eyepatch", "trident"],
+    images: ["images/the-atlantis-leader-01.jpg"],
+    acquired: "",
+    notes: "You said the one with the eyepatch is one of their leaders - one of, so there are others still to come. Worth checking: the other diver may have an eyepatch too, half hidden behind the green dome, in which case tell me which of the two you meant."
+  },
+
+
+  {
+    id: "the-atlantis-diver",
+    name: "The Atlantis Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [
+      { to: "the-atlantis-leader", label: "Serves under" },
+    ],
+    rating: 0,
+    background: "One of the Atlantis dive team.",
+    provenance:
+      "Same grey armoured suit and green dome, with twin yellow thruster pods " +
+      "mounted on the back. Red trident badge on the leg.",
+    tags: ["atlantis", "dive-team", "diver", "underwater", "thrusters", "trident"],
+    images: ["images/the-atlantis-diver-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. Three separate underwater outfits now: Aqua Force in wetsuits with a blue trident, the Dive Team in yellow hi-vis rescue kit, and this lot in armoured pressure suits with a red trident. The two tridents are close enough to be worth asking about - say the word and Aqua Force and Atlantis connect."
   },
 
 

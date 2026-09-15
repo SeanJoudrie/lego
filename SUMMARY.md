@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-312 characters from a custom LEGO minifigure world, in the order they were
+317 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -1318,7 +1318,7 @@ They are loyal to the Prince but operate with far more freedom than a regular fo
 
 His adopted son died on a mission he took against his father's word. Everything about how the militia runs now comes out of that: the obsession with safety, the insistence that everyone has the best equipment there is. They live on donations and a very thin margin, and none of it goes to anybody's house. It goes to safety, equipment and training.
 
-*Connections:* Adopted father of The General's Son
+*Connections:* Adopted father of The General's Son · Commands Jimzon · Commands The Medic
 
 *Tags:* space-militia, general, founder, former-gas-man, safety, grief
 
@@ -1404,7 +1404,7 @@ King of the part of the world where guns do not work, and where everyone has the
 
 He is a king in his own right and still answers to the Prince. His sword is Excalibur, and the cape is excellent.
 
-*Connections:* Follows The Prince · Rules above The City King
+*Connections:* Follows The Prince · Rules above The City King · His knight Curtis
 
 *Tags:* king, excalibur, gunless-realm, mounted, timeless
 
@@ -1415,8 +1415,6 @@ He is a king in his own right and still answers to the Prince. His sword is Exca
 A knight out of the realm where guns don't work, trained on the crossbow because that is what there was.
 
 Then he travelled to the primary Lego dimension, picked up a firearm, and turned out to be the most skilled shot in it. He serves as the armorer, or on the battlefield as a long-range rifleman.
-
-*Connections:* From the realm of King Arthur
 
 *Tags:* knight, armorer, crossbow, marksman, gunless-realm, traveller
 
@@ -1438,7 +1436,7 @@ The Adventure Crew's pilot, out of a time when aviation had only just started �
 
 He keeps company with the likes of Indiana Jones, and has flown him somewhere before now.
 
-*Connections:* Father of The Fixer
+*Connections:* Father of The Fixer · Best friend of The Old Hand
 
 *Tags:* adventure-crew, pilot, wwi-era, time-displaced, indiana-jones
 
@@ -3661,6 +3659,62 @@ A construction worker.
 *How it was got:* Black sunglasses under the hard hat, and a railway arrow on the vest - the same marking the Site Planner wears.
 
 *Tags:* construction, worker, sunglasses, railway, hi-vis
+
+### 313. The Winking Worker
+
+**Alignment:** good · **Role:** Construction Worker · **Based:** Lego City · **Figure:** custom
+
+A construction worker.
+
+*How it was got:* Red hard hat, orange hi-vis vest worn over a blue collared shirt and tie, blue arms and legs. A railway arrow on the vest, and a wink.
+
+*Tags:* construction, worker, hard-hat, hi-vis, railway
+
+### 314. The Cheerful Worker
+
+**Alignment:** good · **Role:** Construction Worker · **Based:** Lego City · **Figure:** custom
+
+A construction worker.
+
+*How it was got:* Red hard hat over ginger hair, a zipped orange work jacket with reflective bands and chest pockets, blue legs, grey hands. Open smile.
+
+*Tags:* construction, worker, hard-hat, hi-vis
+
+### 315. The Worker in Silver Shades
+
+**Alignment:** good · **Role:** Construction Worker · **Based:** Lego City · **Figure:** custom
+
+A construction worker.
+
+*How it was got:* Same zipped orange jacket as the Cheerful Worker, mirrored silver sunglasses under the red hat, and a smirk.
+
+*Tags:* construction, worker, sunglasses, hard-hat, hi-vis
+
+### 316. The Atlantis Leader
+
+**Alignment:** good · **Role:** Leader · **Figure:** custom
+
+One of the leaders of the Atlantis dive team.
+
+The name is where they went once, not what they do - the team has been a good deal further than Atlantis.
+
+*How it was got:* Green transparent dome helmet over a grey armoured dive suit, lime arms, a harpoon printed down one leg and a red trident badge on the other. Black eyepatch with the strap across his face.
+
+*Connections:* On his team The Atlantis Diver
+
+*Tags:* atlantis, dive-team, leader, diver, underwater, eyepatch, trident
+
+### 317. The Atlantis Diver
+
+**Alignment:** good · **Role:** Diver · **Figure:** custom
+
+One of the Atlantis dive team.
+
+*How it was got:* Same grey armoured suit and green dome, with twin yellow thruster pods mounted on the back. Red trident badge on the leg.
+
+*Connections:* Serves under The Atlantis Leader
+
+*Tags:* atlantis, dive-team, diver, underwater, thrusters, trident
 
 ---
 
