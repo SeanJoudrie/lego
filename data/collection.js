@@ -15478,6 +15478,145 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-master-of-apprentices",
+    name: "The Master of Apprentices",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Master of Apprentices",
+    group: "The League of Shadows",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Master of apprentices for the League of Shadows. The people coming up " +
+      "are his discipline - whoever the League takes in passes through him " +
+      "before anything else.",
+    provenance:
+      "A black cloth hood wrapped close over a pale face marked with rust-" +
+      "coloured lines across both temples, brows down hard and the mouth pulled " +
+      "back in a grimace. Black throughout below it - a torso printed with a " +
+      "faint grey chevron and a crescent at the shoulder, black arms, pale " +
+      "hands, black legs.",
+    tags: ["villain", "league-of-shadows", "cult", "master", "apprentices", "training", "hood"],
+    images: ["images/the-master-of-apprentices-01.jpg"],
+    acquired: "",
+    notes: "Seventh discipline in the League, which is now eight people. Reading \"master of apprentice\" as the office that takes the intake - the man the new ones go through. If he is instead somebody's apprentice who became a master, say so and the card turns round. The League now has a way in, which none of the other villain organisations here does."
+  },
+
+  {
+    id: "the-current",
+    name: "The Current",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Power Source",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An entity made of electricity. He is run into weapons to power them, " +
+      "and he fights in his own right.",
+    provenance:
+      "A dark blue helmet closed over a pale blue face that is all light - a " +
+      "grid of circles for eyes and a wide bared grin, lit from inside. Heavy " +
+      "blue shoulder armour flared out on both sides with a round black vent " +
+      "at the chest and bolts at either collarbone, over a white torso; pale " +
+      "blue hands, a black belt, white legs.",
+    tags: ["villain", "electricity", "energy", "entity", "power-source", "combat", "armour"],
+    images: ["images/the-current-01.jpg"],
+    acquired: "",
+    notes: "The second enemy here who is not really a body. Phalanx is a nanobot virus given a shape by an ancient alien skull; this one is current. The nearest thing on the good side is the Vessel, and that is an empty body rather than a substance - kept for the demigods to send a soul into. He is also the first figure on either side who is equipment and a fighter at once: he goes into the weapon, and he also swings. Placeholder name."
+  },
+
+  {
+    id: "the-masked-space-pirate",
+    name: "The Masked Space Pirate",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A space pirate.",
+    provenance:
+      "A wide brown brimmed hat banded in orange over a yellow face, most of " +
+      "it hidden behind a moulded silver breathing mask strapped across the " +
+      "mouth and jaw. A brown torso printed with a gold sash and medallion and " +
+      "gold buckles - the same print the Alien Militia Commander wears - with " +
+      "one yellow arm and one olive, yellow hands, brown legs.",
+    tags: ["villain", "pirate", "space-pirate", "mask", "breathing-mask", "hat"],
+    images: ["images/the-masked-space-pirate-01.jpg"],
+    acquired: "",
+    notes: "Third pirate on the bad side, after the Infamous Space Pirate and the Ninja Assassin Pirate - all three inside four batches, following a long run of good pirates and not one bad one for the rest of the collection. Nothing is written between him and the Infamous Space Pirate, or between either of them and the Outlaw, who has a crew of space pirates behind him. The torso he shares with the Alien Militia Commander is just a shared part unless you say otherwise."
+  },
+
+  {
+    id: "zuko",
+    name: "Zuko",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Avatar: The Last Airbender",
+    rank: "",
+    role: "Prince",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Prince Zuko of the Fire Nation.",
+    provenance:
+      "A bald pale head with the burn scar worked around one eye in mottled " +
+      "red, a heavy brow over it and a flat mouth. Red and grey layered armour " +
+      "printed across the chest with a raised red collar standing up at the " +
+      "neck, black arms, pale hands, black legs.",
+    tags: ["villain", "prince", "fire-nation", "avatar", "branded", "scar", "redemption"],
+    images: ["images/zuko-01.jpg"],
+    acquired: "",
+    notes: "The second branded villain here, one batch after the first ever. He also joins Sokka, who has been filed good in this collection for a long time - the two of them are enemies and then friends in the show, and nothing between them is written here, so no link is drawn. Filed bad because he came in a run of villains, but he is the redemption arc: if this is Zuko before the turn rather than after it, the card should say so, and if it is after it he belongs on the other deck."
+  },
+
+  {
+    id: "the-second-gangster-financier",
+    name: "The Second Gangster Financier",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Financier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A gangster financier.",
+    provenance:
+      "A black wide-brimmed fedora over a yellow face with a thick black " +
+      "moustache, a small chin patch and long sideburns, brows down. The same " +
+      "black pinstriped double-breasted suit the first Gangster Financier " +
+      "wears, printed with a white shirt and tie and four buttons; black arms, " +
+      "yellow hands, black legs.",
+    tags: ["villain", "gangster", "financier", "money", "crime", "pinstripe", "fedora"],
+    images: ["images/the-second-gangster-financier-01.jpg"],
+    acquired: "",
+    notes: "Worth checking before this stands. He is the identical torso to the Gangster Financier from two batches ago, described to me in the identical words, and the only difference I can see is the head: that one has a heavy full beard and a scar at the eye, this one a moustache and a chin patch. I have taken them as two men, which is why he is a separate card. If they are one man photographed twice, say so and I will fold this photo into the other entry rather than leave him double-counted. Either way the money side of the enemy has gone from nobody to three in three batches, counting the Evil Financier."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {

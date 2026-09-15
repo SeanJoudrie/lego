@@ -1101,11 +1101,14 @@ window.LORE = [
     text:
       "A cult, named outright, and the largest thing on the bad side.\n\n" +
       "It does not run on ranks. It runs on masters of disciplines, and there " +
-      "are six of them now: combat, the dark psyche, tradition, stealing and " +
-      "looting, dark wisdom, and disguise. The body, the mind, the past, the " +
-      "taking of things, the knowing of things, and the not being yourself. A " +
-      "seventh man is its archer, and he is the only one in it with an " +
-      "ordinary job.\n\n" +
+      "are seven of them now: combat, the dark psyche, tradition, stealing and " +
+      "looting, dark wisdom, disguise, and apprentices. The body, the mind, " +
+      "the past, the taking of things, the knowing of things, the not being " +
+      "yourself - and the way in. An eighth man is its archer, and he is the " +
+      "only one in it with an ordinary job.\n\n" +
+      "The seventh is the one that changes what it is. A master of apprentices " +
+      "means the League intends to outlast the people currently in it. No " +
+      "other enemy organisation here has a door.\n\n" +
       "They dress like one body - hood up, black to the boots, with whatever " +
       "the discipline needs worked over the top in gold. The master of combat " +
       "has a gilded snarling mask, the master of stealing a gilded strap of " +
@@ -1120,7 +1123,7 @@ window.LORE = [
       "And it is the second body on that side to replace names with titles. " +
       "The Shadow Elders did it first - a Lord of Wrath and a Lord of " +
       "Darkness, who keep the secrets of the dark side and guard the room the " +
-      "shadow people worship occult gods in. Two elders holding titles, six " +
+      "shadow people worship occult gods in. Two elders holding titles, seven " +
       "masters holding titles, both of them shadow, both of them cults, and " +
       "both of them in the business of keeping what is known. Not one word " +
       "anywhere says whether they are the same organisation.\n\n" +
@@ -1143,6 +1146,12 @@ window.LORE = [
       "Savage Opress breaks it. He is the first branded figure in five hundred " +
       "and ninety to be filed against this world, and he arrives with no story " +
       "attached beyond his own name.\n\n" +
+      "Zuko followed him one batch later, which makes the streak look less " +
+      "like a rule and more like a thing nobody had got round to. And Zuko is " +
+      "the awkward case: he is the most famous change of side there is, and " +
+      "Sokka has been filed good in this collection for a long time. Two " +
+      "figures out of one show, on opposite decks, with nothing written " +
+      "between them.\n\n" +
       "It is worth saying what that streak meant. The enemy here was " +
       "hand-made, every one of them, for the entire life of the collection. " +
       "Quinn, the shadow king, the Iron League, the Verdauf traitors, the " +
