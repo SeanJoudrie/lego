@@ -1319,6 +1319,35 @@ window.LORE = [
       "when the villains were written as functions and the heroes were written " +
       "as people - and it took six hundred and thirty-five figures for one " +
       "villain to be given somebody he simply likes."
+  },
+
+  {
+    title: "A god on the other side",
+    text:
+      "Twelve figures in this collection carry a rank, and the rank is the " +
+      "cosmology: the First Man at the start of everything, then Cosmic " +
+      "Deities, Demigods and Mortals below him. For most of the collection " +
+      "every single one of them was good, because the ladder was built out of " +
+      "the creation mythos and the creation mythos is the good side's own " +
+      "story.\n\n" +
+      "The Blue Demigod broke that first - a portal master who came through " +
+      "uninvited with an army and wanted the shadow and light war stopped " +
+      "badly enough to wreck whichever side was winning. He is on no side at " +
+      "all, which is why he reads as an intrusion rather than an enemy.\n\n" +
+      "Now there is a god. Deus Pater, the old European sky father, the one " +
+      "Zeus and Jupiter come down from - and his soul is shut inside a statue. " +
+      "He is not powerless. The statue is enormously strong and he is wise. " +
+      "What he has lost is the knowledge of what a god can do: the power is " +
+      "still in there and he cannot find the door to it.\n\n" +
+      "That makes him the second figure here out of real human mythology. " +
+      "Aphrodite has been catalogued as a Cosmic Deity on the good side for a " +
+      "long time, with a card three words long. The two of them are family " +
+      "several thousand years apart, standing on opposite decks, with nothing " +
+      "written between them.\n\n" +
+      "Two questions sit on his card rather than here. Whether a trapped god " +
+      "outranks Cosmic Deity, which would mean this world needs a new top " +
+      "step. And whether he is an enemy at all: he arrived in a run of " +
+      "villains and nothing said about him is hostile."
   }
 
 ];

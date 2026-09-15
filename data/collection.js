@@ -16606,6 +16606,149 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-wolfman",
+    name: "The Wolfman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Goon",
+    group: "The Alien Goons",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Another one on small arms. What he brings on top of that is the nose - " +
+      "he can smell extremely well, and he tracks with it.",
+    provenance:
+      "A tan wolf's face with a dark muzzle, white fangs bared, yellow eyes " +
+      "and a red scar tearing down from the brow past one of them, under long " +
+      "swept brown hair with pointed ears standing through it. A dark red shirt " +
+      "printed open over a pale chest with a sash at the waist; red arms, pale " +
+      "hands, olive legs.",
+    tags: ["villain", "wolfman", "goon", "small-arms", "tracker", "scent", "scar"],
+    images: ["images/the-wolfman-01.jpg"],
+    acquired: "",
+    notes: "First werewolf in the collection - nothing has been part animal here before, and the only wolves on record are two clone troopers of the Wolfpack, who are named after one rather than being one. Put with the goons because you called him another one on small arms, which points straight at the two from last batch. That makes the group name wrong: he is not an alien. Say the word and The Alien Goons becomes The Goons. He is also the second tracker on the bad side, after the poacher who is the second most dangerous in the world."
+  },
+
+  {
+    id: "the-bionic-alien",
+    name: "The Bionic Alien",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "His legs are not his own. What they give him is durability and speed - " +
+      "he takes a great deal of punishment and he can sprint.",
+    provenance:
+      "A moulded green head, wide and finned, with a pale blue face plate and " +
+      "two large blue eyes set into it, ridged ears swept back and a crest of " +
+      "small knobs over the crown. A green torso printed with pale scaling and " +
+      "a ragged hem, green arms, green hands - and grey mechanical legs " +
+      "panelled with hatches and vents at the thigh and shin.",
+    tags: ["villain", "alien", "bionic", "prosthetic", "durability", "sprint", "mechanical-legs"],
+    images: ["images/the-bionic-alien-01.jpg"],
+    acquired: "",
+    notes: "The Bionics Team on that side build prosthetics that double as weapons - a limb that is also a gun. His legs are not weapons; they are endurance and speed, which is a different brief from the same trade. Nothing connects him to that team and it is the obvious workshop. He joins the longest-running idea in this world, body modification worn as history, which starts with the Discarded and his silver arm and runs through the Mechanic, the Rebuilt, the Modified Arms Dealer, the Ranger, the Cybernetic Ninja and the Bionic Brother."
+  },
+
+  {
+    id: "deus-pater",
+    name: "Deus Pater",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Cosmic Deity",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The physical embodiment of the old European god - the sky father, the " +
+      "one the rest of that pantheon comes down from.\n\n" +
+      "His soul is trapped in the statue. He is not powerless: the statue is " +
+      "enormously strong, and he is wise. What he has lost is the knowledge of " +
+      "what a god can actually do. The power is still in there and he no " +
+      "longer knows how to reach it.",
+    provenance:
+      "Gold from the crest down. A gold crested war helm with the cheek guards " +
+      "flared out, and behind the visor a gold face lined in dark red, the " +
+      "teeth showing. Gold shoulder pieces standing off both sides, a gold " +
+      "torso worked with a muscled cuirass and a red-banded belt, gold arms, " +
+      "gold hands, gold legs scored with red. Not one other colour on him.",
+    tags: ["villain", "god", "deity", "statue", "trapped", "sky-father", "gold", "wise"],
+    images: ["images/deus-pater-01.jpg"],
+    acquired: "",
+    notes: "Only the second ranked figure on the bad side, after the Blue Demigod, out of twelve ranked figures in the whole collection. He is also only the second figure here out of real human mythology: Aphrodite is catalogued as a Cosmic Deity on the good side, and Deus Pater is the sky father the Greek pantheon descends from, so the two of them are family several thousand years apart and nothing is written between them. Filed Cosmic Deity because it is the top rank this world already has; if a trapped god outranks that, the ladder needs a new step and you should say so. Filed bad with the run he arrived in, though nothing you said about him is hostile - a wise god who cannot remember his own powers is not obviously anybody's enemy, and he would move on one word."
+  },
+
+  {
+    id: "the-space-trucker",
+    name: "The Space Trucker",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A space trucker, and a pirate with it. He hauls, and he takes.",
+    provenance:
+      "A white and dark red baseball cap with a brown beaver printed on the " +
+      "front, over a yellow face with hard brows, a scar at one eye and a grey " +
+      "breathing mask across the mouth and jaw. A dark red torso printed with " +
+      "brown strapping, buckles and a white-studded plate at the belly; dark " +
+      "red arms, black hands, dark red legs panelled in white and grey.",
+    tags: ["villain", "pirate", "trucker", "hauler", "breathing-mask", "cap", "beaver"],
+    images: ["images/the-space-trucker-01.jpg"],
+    acquired: "",
+    notes: "Fifth pirate on the bad side and the first with a day job. The other four are pirates and nothing else - the Infamous one, the Ninja Assassin Pirate, the Masked one, and the Fleet Commander who runs their combat. This one drives a lorry between worlds and robs what he passes - the only pirate here who also has a job. The beaver on the cap is not explained."
+  },
+
+  {
+    id: "the-financier-in-the-green-tie",
+    name: "The Financier in the Green Tie",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Financier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Another financier.",
+    provenance:
+      "Swept brown hair over a pale face with one brow raised and a flat, " +
+      "unimpressed mouth. A black suit printed with a pale grey waistcoat, a " +
+      "white shirt and a dark green tie; black arms, grey hands, black legs. " +
+      "No hat, which is what separates him from the two gangsters.",
+    tags: ["villain", "financier", "money", "suit", "green-tie", "no-hat"],
+    images: ["images/the-financier-in-the-green-tie-01.jpg"],
+    acquired: "",
+    notes: "Seventh financier in the collection and the fourth on the bad side, all four inside six batches. Three of the four are near-identical men in dark suits - the Gangster Financier and the Second Gangster Financier share a torso print outright, the Evil Financier wears the same fedora - and this one is the first without a hat. Named for the tie because there is nothing else to tell him apart by. The money end of the enemy went from nobody to four in a fortnight and not one of them is written as connected to any other, or to Jabba, who is the crime lord they would all plausibly answer to."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
