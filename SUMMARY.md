@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-276 characters from a custom LEGO minifigure world, in the order they were
+281 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3287,6 +3287,56 @@ Above him is King Arthur, who is the timeless supreme ruler of the realm - the o
 *Connections:* Rules beneath King Arthur
 
 *Tags:* king, medieval, gunless-realm, ruler, city, figurehead
+
+### 277. The Crossbowman
+
+**Alignment:** good · **Role:** Crossbowman · **Based:** The Medieval Era · **Figure:** custom
+
+A Royal Knight. He is on the crossbow.
+
+*How it was got:* Pointed black helm with the neck guard, scale mail, orange moustache.
+
+*Tags:* knight, crossbow, medieval, royal-knights, scale-mail
+
+### 278. The Second Royal Archer
+
+**Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
+
+Another archer of the Royal Knights.
+
+*How it was got:* Different heraldry from the rest of them - red and white halved with a gold lion's head, rather than the blue shield everybody else wears.
+
+*Tags:* knight, archer, medieval, royal-knights, heraldry
+
+### 279. The Prince's Guards — Two of them
+
+**Alignment:** good · **Role:** Prince's Guard · **Based:** The Royal Palace · **Figure:** custom
+
+Royal guards. What they guard is the Prince.
+
+*How it was got:* Bearskin caps, red tunics and a sash apiece.
+
+*Tags:* guard, royal-household, prince, bearskin, pair
+
+### 280. The Fencer
+
+**Alignment:** good · **Role:** Fencer · **Based:** The Medieval Era · **Figure:** custom
+
+A swordsman of the Royal Knights, and a fencer.
+
+*How it was got:* Plumed black hat, fleur-de-lis tabard, and a baldric across the chest - a musketeer among knights.
+
+*Tags:* knight, fencer, swordsman, medieval, royal-knights, musketeer
+
+### 281. The Supreme Mega Knight
+
+**Alignment:** good · **Role:** Supreme Mega Knight · **Based:** The Medieval Era · **Figure:** custom
+
+The supreme mega knight.
+
+*How it was got:* Full plate - barred visor, breastplate, pauldrons, the lot. Battered, scuffed and grubby with it.
+
+*Tags:* knight, supreme, full-plate, armor, medieval, royal-knights
 
 ---
 

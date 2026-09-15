@@ -7394,6 +7394,121 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-crossbowman",
+    name: "The Crossbowman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Crossbowman",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "A Royal Knight. He is on the crossbow.",
+    provenance: "Pointed black helm with the neck guard, scale mail, orange moustache.",
+    tags: ["knight", "crossbow", "medieval", "royal-knights", "scale-mail"],
+    images: ["images/the-crossbowman-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The Armorer was trained on the crossbow because that was all the realm allowed, before he crossed over and turned out to be the finest shot with a gun in the other dimension - so this is the weapon that made him. No link written; nobody has said the two men know each other."
+  },
+
+
+  {
+    id: "the-second-royal-archer",
+    name: "The Second Royal Archer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Archer",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "Another archer of the Royal Knights.",
+    provenance:
+      "Different heraldry from the rest of them - red and white halved with a " +
+      "gold lion's head, rather than the blue shield everybody else wears.",
+    tags: ["knight", "archer", "medieval", "royal-knights", "heraldry"],
+    images: ["images/the-second-royal-archer-01.jpg"],
+    acquired: "",
+    notes: "Named by ordinal, like the Second Padawan. Worth a look: he is the only Royal Knight not wearing the blue lion shield, which either means a different house or nothing at all - tell me which."
+  },
+
+
+  {
+    id: "the-princes-guards",
+    name: "The Prince's Guards",
+    variant: "Two of them",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Prince's Guard",
+    group: "The Royal Household",
+    location: "The Royal Palace",
+    relations: [],
+    rating: 0,
+    background: "Royal guards. What they guard is the Prince.",
+    provenance: "Bearskin caps, red tunics and a sash apiece.",
+    tags: ["guard", "royal-household", "prince", "bearskin", "pair"],
+    images: ["images/the-princes-guards-01.jpg"],
+    acquired: "",
+    notes: "Filed with the Royal Household rather than the Royal Knights, even though they came in with the medieval batch: they guard the Prince, and the Guardsman already holds that exact role in that exact house. One box because they share a photo."
+  },
+
+
+  {
+    id: "the-fencer",
+    name: "The Fencer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Fencer",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "A swordsman of the Royal Knights, and a fencer.",
+    provenance: "Plumed black hat, fleur-de-lis tabard, and a baldric across the chest - a musketeer among knights.",
+    tags: ["knight", "fencer", "swordsman", "medieval", "royal-knights", "musketeer"],
+    images: ["images/the-fencer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Fifth blade in the order, and the only one who fences rather than simply swings - which is a distinction that matters in a realm where the sword fights are the part everybody takes seriously."
+  },
+
+
+  {
+    id: "the-supreme-mega-knight",
+    name: "The Supreme Mega Knight",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Supreme Mega Knight",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "The supreme mega knight.",
+    provenance:
+      "Full plate - barred visor, breastplate, pauldrons, the lot. Battered, " +
+      "scuffed and grubby with it.",
+    tags: ["knight", "supreme", "full-plate", "armor", "medieval", "royal-knights"],
+    images: ["images/the-supreme-mega-knight-01.jpg"],
+    acquired: "",
+    notes: "Named exactly as you called him. The Royal Knights are on record as not wearing much armor, and he is in full plate - which in a realm where death costs you your gear and nothing else makes him the man with the most to lose on the field. He is also the only one of the fourteen whose armor is visibly beaten up."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
