@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-433 characters from a custom LEGO minifigure world, in the order they were
+438 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4943,6 +4943,58 @@ Scorch, a clone commando.
 *How it was got:* White commando armour with yellow at the hips, thighs and boots and a yellow flash on one arm. Plain white helmet with a blue visor, no colour on it at all, and grey and black plating across the chest.
 
 *Tags:* star-wars, clone, commando, yellow, demolitions, branded
+
+### 434. Boss
+
+**Alignment:** good · **Role:** Clone Commando · **Figure:** branded
+
+Boss, who leads the clone commandos.
+
+*How it was got:* White commando armour with orange over the crown of the helmet, down the faceplate, across one shoulder and in a wedge at the collar. Blue visor, black hands, grey plating on the chest.
+
+*Tags:* star-wars, clone, commando, orange, leader, branded
+
+### 435. The Green Clone Trooper
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+A clone trooper in green.
+
+*How it was got:* A commander-pattern Phase 2 helmet - silver faceplate, flared side panels - with a green stripe over the crown and two green dots at the temple. Green chest armour with a yellow-edged pack printed on it, black shoulder straps, a row of brown ammunition pouches at the belt, and bright green boots.
+
+Looked him up as you asked, and could not pin him down. The obvious candidate is Commander Gree of the 41st Elite Corps, who wears green for Kashyyyk - but Lego's Gree, part sw0528, is printed in dark green and tan camouflage, and this armour is clean flat green with no camo on it at all. So he is 41st-adjacent rather than Gree himself, and the exact figure is still open.
+
+*Tags:* star-wars, clone, trooper, green, commander-helmet, branded
+
+### 436. The 501st Troopers — Two of them
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+Troopers of the 501st. There are two of them.
+
+*How it was got:* Phase 2 helmets with a blue stripe over the crown and blue down the cheek, blue arms, blue flashes at the knees. Identical to each other down to the last line.
+
+*Tags:* star-wars, clone, trooper, 501st, blue, unit, two, branded
+
+### 437. Commander Cody
+
+**Alignment:** good · **Role:** Clone Commander · **Figure:** branded
+
+Commander Cody, of the 212th.
+
+*How it was got:* White Phase 1 helmet with an orange stripe over the crown and a separate orange rangefinder clipped over the side, standing out from the head. Orange arms, orange chevrons and blocks across the chest, and a sunburst printed on the chin.
+
+*Tags:* star-wars, clone, commander, 212th, orange, rangefinder, branded
+
+### 438. The Golden Company Rifleman
+
+**Alignment:** good · **Role:** Rifleman · **Figure:** branded
+
+A rifleman of the Golden Company.
+
+*How it was got:* Phase 2 helmet with a yellow stripe over the crown and a yellow bar down the faceplate between the eyes. Yellow belt pouches, yellow bands at the hips and thighs, yellow hands, and black unit markings on both arms.
+
+*Tags:* star-wars, clone, trooper, rifleman, yellow, golden-company, branded
 
 ---
 

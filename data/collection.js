@@ -11482,7 +11482,142 @@ window.COLLECTION = [
     tags: ["star-wars", "clone", "commando", "yellow", "demolitions", "branded"],
     images: ["images/scorch-01.jpg"],
     acquired: "",
-    notes: "New group, The Clone Commandos - and here is the thing worth knowing. In their own source these three are Delta Squad, and this collection already has a Delta Squad: six soldiers of your own, with a leader, a medic, a gunner, an artilleryman, a sniper and a rifleman. Two Delta Squads in one world. I kept them apart rather than merge two units that only share a name, but say the word and they become one."
+    notes: "New group, The Clone Commandos - and here is the thing worth knowing. In their own source these three are Delta Squad, and this collection already has a Delta Squad: six soldiers of your own, with a leader, a medic, a gunner, an artilleryman, a sniper and a rifleman. Two Delta Squads in one world. I kept them apart rather than merge two units that only share a name, but say the word and they become one. Boss has since arrived, so the commandos are all four of them now."
+  },
+
+
+  {
+    id: "boss",
+    name: "Boss",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Commando",
+    group: "The Clone Commandos",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Boss, who leads the clone commandos.",
+    provenance:
+      "White commando armour with orange over the crown of the helmet, down " +
+      "the faceplate, across one shoulder and in a wedge at the collar. Blue " +
+      "visor, black hands, grey plating on the chest.",
+    tags: ["star-wars", "clone", "commando", "orange", "leader", "branded"],
+    images: ["images/boss-01.jpg"],
+    acquired: "",
+    notes: "He completes the set - Boss, Fixer, Scorch and Sev are the whole of the squad in their own material, and all four are here now. His orange is applied in the same clean deliberate way as Fixer\'s green, which puts the two of them on one side of that squad and Sev\'s slashed red on the other."
+  },
+
+
+  {
+    id: "the-green-clone-trooper",
+    name: "The Green Clone Trooper",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A clone trooper in green.",
+    provenance:
+      "A commander-pattern Phase 2 helmet - silver faceplate, flared side " +
+      "panels - with a green stripe over the crown and two green dots at the " +
+      "temple. Green chest armour with a yellow-edged pack printed on it, " +
+      "black shoulder straps, a row of brown ammunition pouches at the belt, " +
+      "and bright green boots.\n\n" +
+      "Looked him up as you asked, and could not pin him down. The obvious " +
+      "candidate is Commander Gree of the 41st Elite Corps, who wears green " +
+      "for Kashyyyk - but Lego\'s Gree, part sw0528, is printed in dark green " +
+      "and tan camouflage, and this armour is clean flat green with no camo " +
+      "on it at all. So he is 41st-adjacent rather than Gree himself, and the " +
+      "exact figure is still open.",
+    tags: ["star-wars", "clone", "trooper", "green", "commander-helmet", "branded"],
+    images: ["images/the-green-clone-trooper-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name until the real one turns up. New group, The Clone Army, holding the regular troopers - the commandos keep their own group, the way special forces sit inside an army rather than beside it."
+  },
+
+
+  {
+    id: "the-501st-troopers",
+    name: "The 501st Troopers",
+    variant: "Two of them",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Troopers of the 501st. There are two of them.",
+    provenance:
+      "Phase 2 helmets with a blue stripe over the crown and blue down the " +
+      "cheek, blue arms, blue flashes at the knees. Identical to each other " +
+      "down to the last line.",
+    tags: ["star-wars", "clone", "trooper", "501st", "blue", "unit", "two", "branded"],
+    images: [{ src: "images/the-501st-troopers-01.jpg", caption: "Both of them" }],
+    acquired: "",
+    notes: "One entry for the pair, the way the Enforcer Squad and the Gungan Soldiers are done. Clones are the one case where that is not a shortcut - they really are the same man twice."
+  },
+
+
+  {
+    id: "commander-cody",
+    name: "Commander Cody",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Commander",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Commander Cody, of the 212th.",
+    provenance:
+      "White Phase 1 helmet with an orange stripe over the crown and a " +
+      "separate orange rangefinder clipped over the side, standing out from " +
+      "the head. Orange arms, orange chevrons and blocks across the chest, " +
+      "and a sunburst printed on the chin.",
+    tags: ["star-wars", "clone", "commander", "212th", "orange", "rangefinder", "branded"],
+    images: ["images/commander-cody-01.jpg"],
+    acquired: "",
+    notes: "The only clone here with a piece standing off the helmet rather than printed on it, and the only Phase 1 helmet in the group - everybody else is in the later rounded pattern."
+  },
+
+
+  {
+    id: "the-golden-company-rifleman",
+    name: "The Golden Company Rifleman",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Rifleman",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A rifleman of the Golden Company.",
+    provenance:
+      "Phase 2 helmet with a yellow stripe over the crown and a yellow bar " +
+      "down the faceplate between the eyes. Yellow belt pouches, yellow " +
+      "bands at the hips and thighs, yellow hands, and black unit markings " +
+      "on both arms.",
+    tags: ["star-wars", "clone", "trooper", "rifleman", "yellow", "golden-company", "branded"],
+    images: ["images/the-golden-company-rifleman-01.jpg"],
+    acquired: "",
+    notes: "Golden Company is your name for them rather than one I found - Lego calls this yellow pattern the 327th Star Corps - so the card takes yours. If there are more of them, they can have a group of their own inside the army."
   },
 
 
