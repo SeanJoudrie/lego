@@ -17491,7 +17491,7 @@ window.COLLECTION = [
       { src: "images/darth-vader-03.jpg", caption: "Transparent blue" }
     ],
     acquired: "",
-    notes: "Eighth branded villain and the sixth out of Star Wars, which makes that franchise the enemy's main supplier of bought figures by a distance. Sixth Sith here, after Quinn, the Purple Shadow, the Sith Lord, Savage Opress and Darth Nihilus - three home-made, three off the shelf. The transparent one is the odd thing: a fair few figures in this collection have a translucent piece, a visor or a helmet or a blade, and none of them is translucent all the way through. He is the only figure here you can see the shelf through."
+    notes: "Eighth branded villain and the sixth out of Star Wars, which makes that franchise the enemy's main supplier of bought figures by a distance. Sixth Sith here, after Quinn, the Purple Shadow, the Sith Lord, Savage Opress and Darth Nihilus - three home-made, three off the shelf. The transparent one is the odd thing: a fair few figures in this collection have a translucent piece, a visor or a helmet or a blade, and none of them is translucent all the way through. He was the only figure here you can see the shelf through, until a hologram of Darth Revan arrived - transparent blue from the hood down, and a picture of a man rather than a man."
   },
 
   {
@@ -18509,6 +18509,125 @@ window.COLLECTION = [
     images: ["images/the-brainwashed-assassin-01.jpg"],
     acquired: "",
     notes: "Eleventh figure here whose job is assassin, and all eleven are on the villain side - no one good in this collection has ever held that job. He is the only one of the eleven who did not choose it.\n\nThat lands on the Evil Doctor. His card says, in his own words, that what came out of his work with the Butcher is mind control - a way of taking over a body - and it already carries a note about the Hijacked, the robot whose body villains took while leaving him his mind, so that he watched himself attack people and could not stop. His card observed that two men here have that exact stated work and no line is written between them and him. Now there is a second subject, and a killer this time. No line is written here either, because you have not said who did it. If it was those two, say so and three cards resolve at once.\n\nHe is also a cyborg, and there is a Bionics Team on that side with a leader in it. Whether he is theirs is not written anywhere and has not been guessed."
+  },
+
+  {
+    id: "the-short-orc",
+    name: "The Short Orc",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An orc. Short.",
+    provenance:
+      "A black helmet moulded with a long mane falling past the shoulders and " +
+      "a raised crest over the brow, silvered along the ridges. Under it a " +
+      "green face with red eyes and two tusks pushing up out of the lower jaw. " +
+      "A brown torso printed with a gold medallion at one shoulder, silver " +
+      "chain across the chest and a fur collar below, green arms and hands, " +
+      "brown legs.",
+    tags: ["villain", "orc", "tusks", "green", "helmet", "chain", "custom"],
+    images: ["images/the-short-orc-01.jpg"],
+    acquired: "",
+    notes: "The Orc Queen has subjects. Her card was written with the line that orcs were new - six hundred and ten figures catalogued and not one orc until her - and she has stood there since as a queen of nobody. Two of them have now arrived in the same batch. Nothing is written between them and her, and no group has been made, because a species is not an affiliation and this catalogue has never guessed at membership. But she rules orcs, she says so on her own card, and there are orcs now. Say the word and the three of them go in a group together."
+  },
+
+  {
+    id: "the-warrior-orc",
+    name: "The Warrior Orc",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An orc warrior.",
+    provenance:
+      "The same black maned helmet as the short one, silvered along the ridges " +
+      "with a stud set at the brow, and the same green face - red eyes, two " +
+      "tusks, a snarl. Over the torso a separate moulded vest, black speckled " +
+      "through with silver, cut open down the front and hanging past the waist. " +
+      "Green arms, brown hands, brown legs. No printing visible anywhere on him: " +
+      "the armour covers the lot.",
+    tags: ["villain", "orc", "tusks", "green", "helmet", "armour", "warrior", "custom"],
+    images: ["images/the-warrior-orc-01.jpg"],
+    acquired: "",
+    notes: "The second orc to arrive in the same batch, and the one wearing armour. He is a warrior and the other is not, which is the first thing this world has said about how orcs are organised beyond the fact that they have a queen. The vest is a separate moulded piece clipped over the torso, and it covers the print completely: there is nothing on him you can read except the armour itself."
+  },
+
+  {
+    id: "the-grey-alien-soldier",
+    name: "The Grey Alien Soldier",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An alien soldier.",
+    provenance:
+      "The classic grey alien head - moulded bald and tapered, two enormous " +
+      "black almond eyes with a white glint in each, no nose, and a small flat " +
+      "mouth drawn straight across. A dark grey torso printed with plate " +
+      "armour, a yellow triangle divided into three at the chest and yellow " +
+      "flashes at the ribs, over a high grey collar. Black arms, grey hands, " +
+      "black legs.",
+    tags: ["villain", "alien", "soldier", "grey", "big-eyes", "armour", "custom"],
+    images: ["images/the-grey-alien-soldier-01.jpg"],
+    acquired: "",
+    notes: "Named The Grey Alien Soldier rather than The Alien Soldier on purpose: there is already a group here called The Alien Soldiers, five of them, and this figure is not one of them. Those five are humanoid faces with hair and teeth - red, lime, snarling - and this is the flat-eyed grey kind, a different species on sight. He is filed on his own for that reason.\n\nWhich makes him a fifth alien body on that side with nothing written between him and the other four. The catalogue already holds mercenaries nobody has photographed, a militia with a school, five alien soldiers and four alien goons, all kept apart because nothing in the world joined them up. He is not being joined up either. If he is one of the five, or one of the goons, say so and he moves."
+  },
+
+  {
+    id: "darth-revan",
+    name: "Darth Revan",
+    variant: "And his hologram",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Sith",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Darth Revan, and a hologram of him.",
+    provenance:
+      "A black hood pulled forward over a moulded mask - dark grey with a red " +
+      "T of markings across the brow and down the nose, no face behind it. " +
+      "Black robes printed in fine silver over the chest, a wide belt, and a " +
+      "long grey tabard down the front with a red panel running the length of " +
+      "it. A black cloth cape. He is holding two blades at once, one purple and " +
+      "one red.\n\n" +
+      "The second figure is him again in transparent blue - hood, mask, robes, " +
+      "arms, hands and legs, the whole figure moulded in one clear colour with " +
+      "the printing laid over it in white. Even the lightsaber is a clear blue " +
+      "hilt with a clear blade. It is a hologram, not a person.",
+    tags: ["villain", "star-wars", "branded", "sith", "mask", "hood", "cape", "hologram", "translucent", "two-figures"],
+    images: [
+      { src: "images/darth-revan-01.jpg", caption: "The man, with both blades" },
+      { src: "images/darth-revan-02.jpg", caption: "The hologram" }
+    ],
+    acquired: "",
+    notes: "Fortieth branded villain and the tenth Sith, after Quinn, the Purple Shadow, the Sith Lord, Savage Opress, Darth Nihilus, Darth Vader, Count Dooku, Darth Maul and Palpatine.\n\nTwo figures in this collection carry two lit blades at once, and they are on opposite decks: this one, with a purple blade in one hand and a red one in the other, and Ahsoka Tano, catalogued a long way back with two lightsabers and nothing written between her and anybody on this side. The hologram is the stranger half of the card. Every other figure on these two decks is somebody; this one is a picture of somebody, standing on the same shelf.\n\nThat also corrects Darth Vader's card, which claimed he was the only figure here you can see the shelf through. He is not, as of this batch, and his card now says so.\n\nOne flag. Revan is the one name on this deck famous for having been on both sides of it. Nothing in this world has said which way round he is here, and he is filed as an enemy because you handed him in as Darth Revan. If the hologram is meant to be the other half of that - the man before or after - say so, and the card can carry the split the way Boba Fett does."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
