@@ -5248,13 +5248,13 @@ A clone commander.
 
 *Tags:* star-wars, clone, commander, red, rangefinder, kama, branded
 
-### 463. The Shock Troopers — Two of them
+### 463. The Shock Troopers — About twenty
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
-Shock troopers. There are two of them.
+Shock troopers. There are about twenty of them.
 
-*How it was got:* Phase 2 helmets banded with red combs over the brow and a red fin standing up from the crown, red flashes at the cheeks. Red chest plates and red ammunition blocks at the belt. Both wear mismatched legs, one red and one white, and both are scuffed and yellowed.
+*How it was got:* Phase 2 helmets banded with red combs over the brow and a red fin standing up from the crown, red flashes at the cheeks. Red chest plates and red ammunition blocks at the belt. Both wear mismatched legs, one red and one white, and both are scuffed and yellowed. Most of them are a later and busier pattern than that first pair: red shoulder pauldrons clipped on over the armour, a red comb of bars printed across the brow, red slashes at both cheeks, and red blocks worked down both legs. Ranked up together they come to roughly twenty - read off the group shot rather than tallied.
 
 *Tags:* star-wars, clone, trooper, shock-trooper, red, unit, two, worn, branded
 

@@ -12258,7 +12258,7 @@ window.COLLECTION = [
       { src: "images/the-plain-clone-trooper-04.jpg", caption: "About a dozen together" },
     ],
     acquired: "",
-    notes: "The only clone here wearing no unit colour whatsoever - every other one carries yellow, blue, green, orange, red or purple somewhere. He is what all of them looked like before they were anybody. Renamed from The Plain Clone Trooper once the group shot arrived - there are about a dozen of them, not one. That makes this the largest unit in the collection, ahead of the ten US Army Soldiers and the nine Rebel Troopers, and every man in it is unmarked. The count is an estimate off the photograph; give me a real number and it goes in."
+    notes: "The only clone here wearing no unit colour whatsoever - every other one carries yellow, blue, green, orange, red or purple somewhere. He is what all of them looked like before they were anybody. Renamed from The Plain Clone Trooper once the group shot arrived - there are about a dozen of them, not one. That made this the largest unit in the collection for exactly one batch, until about twenty Shock Troopers were photographed together; it is second now, ahead of the ten US Army Soldiers, and every man in it is unmarked. The count is an estimate off the photograph; give me a real number and it goes in."
   },
 
 
@@ -12320,7 +12320,7 @@ window.COLLECTION = [
   {
     id: "the-shock-troopers",
     name: "The Shock Troopers",
-    variant: "Two of them",
+    variant: "About twenty",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -12330,16 +12330,25 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Shock troopers. There are two of them.",
+    background: "Shock troopers. There are about twenty of them.",
     provenance:
       "Phase 2 helmets banded with red combs over the brow and a red fin " +
       "standing up from the crown, red flashes at the cheeks. Red chest " +
       "plates and red ammunition blocks at the belt. Both wear mismatched " +
-      "legs, one red and one white, and both are scuffed and yellowed.",
+      "legs, one red and one white, and both are scuffed and yellowed. " +
+      "Most of them are a later and busier pattern than that first pair: red " +
+      "shoulder pauldrons clipped on over the armour, a red comb of bars " +
+      "printed across the brow, red slashes at both cheeks, and red blocks " +
+      "worked down both legs. Ranked up together they come to roughly twenty - " +
+      "read off the group shot rather than tallied.",
     tags: ["star-wars", "clone", "trooper", "shock-trooper", "red", "unit", "two", "worn", "branded"],
-    images: [{ src: "images/the-shock-troopers-01.jpg", caption: "Both of them" }],
+    images: [
+      { src: "images/the-shock-troopers-02.jpg", caption: "One of them, in the later pattern" },
+      { src: "images/the-shock-troopers-01.jpg", caption: "The first pair, on mismatched legs" },
+      { src: "images/the-shock-troopers-03.jpg", caption: "About twenty of them" },
+    ],
     acquired: "",
-    notes: "One entry for the pair. The mismatched legs are the odd thing - one red and one white on both of them, the same way round, so it reads as how they are meant to be rather than as parts thrown together."
+    notes: "One entry for all of them. This is now the largest unit in the collection by a wide margin - about twenty, against the dozen Plain Clones and the ten US Army Soldiers - and the only one big enough to look like an army rather than a squad. The two who arrived first are the odd ones out in it: they wear mismatched legs, one red and one white, where the ranks behind them all match. The count is an estimate off the photograph; give me a real number and it goes in."
   },
 
 
