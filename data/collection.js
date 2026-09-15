@@ -9722,7 +9722,7 @@ window.COLLECTION = [
   {
     id: "ahsoka-tano",
     name: "Ahsoka Tano",
-    variant: "Two eras",
+    variant: "Three figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9738,14 +9738,17 @@ window.COLLECTION = [
       "blue and yellow tabard, greaved legs, long white and blue montrals, and " +
       "carries two lightsabers at once. The younger has short montrals, a bare " +
       "midriff under an orange top, a plain brown belt and white legs - and " +
-      "nothing in her hands.",
+      "nothing in her hands. A third is the young one again on a later " +
+      "mould - grey legs instead of white, and montrals that fall well past " +
+      "the shoulders where the other pair stop short.",
     tags: ["star-wars", "jedi", "ahsoka", "togruta", "twin-sabers", "branded"],
     images: [
       { src: "images/ahsoka-tano-01.jpg", caption: "Older, in armour" },
-      { src: "images/ahsoka-tano-02.jpg", caption: "Younger, in orange" },
+      { src: "images/ahsoka-tano-02.jpg", caption: "Younger, short montrals" },
+      { src: "images/ahsoka-tano-03.jpg", caption: "Younger, long montrals" },
     ],
     acquired: "",
-    notes: "First woman in the Star Wars corner, and still the only one. Two figures of her now, one entry: the young one is unarmed and the older one carries two sabers, which is the whole of what changed between them."
+    notes: "First woman in the Star Wars corner, and no longer the only one now Leia is here. Three figures of her on one card, which ties her with Luke, Tony Stark, Bruce Wayne and SpongeBob for the most photographed person here. The young one is unarmed and the older one carries two sabers, and that is the whole of what changed between them."
   },
 
 
@@ -10175,6 +10178,86 @@ window.COLLECTION = [
     images: ["images/c-3po-01.jpg"],
     acquired: "",
     notes: "First droid from the films here. This collection already has several of its own - the radar robot who was hacked and made to watch himself attack people, the scrap-built dock robot, the Defense Bot - so he arrives into a world that has thinking machines and treats them as people."
+  },
+
+
+  {
+    id: "rotta-the-hutt",
+    name: "Rotta the Hutt",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Rotta the Hutt, a Huttlet.",
+    provenance:
+      "One moulded pale green piece from head to tail - no legs, no torso, no " +
+      "neck. Ridged belly, heavy brow folds, two stubby arms and slit yellow " +
+      "eyes. He does not come apart into standard pieces at all.",
+    tags: ["star-wars", "hutt", "child", "alien", "one-piece", "branded"],
+    images: ["images/rotta-the-hutt-01.jpg"],
+    acquired: "",
+    notes: "The least minifigure-shaped figure in the collection - no legs and no torso, where even the Kaminoan and Chewbacca keep the standard build under their moulding. Third child in the Star Wars corner, after the boy Anakin and the boy Boba."
+  },
+
+
+  {
+    id: "yoda",
+    name: "Yoda",
+    variant: "Two moulds",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Jedi",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Yoda.",
+    provenance:
+      "Two figures of the same man. The older has a duller grey-green head " +
+      "with the eyes moulded rather than painted, and a plain cream robe with " +
+      "a brown belt and two pouches. The later one has a brighter green head " +
+      "with the eyes properly printed, and a cream robe over an orange " +
+      "undershirt. Both have pale green hands and short cream legs.",
+    tags: ["star-wars", "jedi", "yoda", "alien", "branded"],
+    images: [
+      { src: "images/yoda-01.jpg", caption: "The older mould" },
+      { src: "images/yoda-02.jpg", caption: "The later mould" },
+    ],
+    acquired: "",
+    notes: "One entry, two figures - the same man in two mouldings rather than two points in his life, which is a different reason for a second photo than Luke or Anakin had. Seventh Jedi from the films. He and Rotta are the only two here who stand on short legs by design rather than because they are children."
+  },
+
+
+  {
+    id: "princess-leia",
+    name: "Princess Leia",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Princess Leia.",
+    provenance:
+      "Long brown hair swept over one shoulder, red lipstick. Pale yellow " +
+      "jacket with dark toggle fastenings and stitched seam lines, one grey " +
+      "sleeve and one brown, white legs.",
+    tags: ["star-wars", "leia", "princess", "branded"],
+    images: ["images/princess-leia-01.jpg"],
+    acquired: "",
+    notes: "Second woman in the Star Wars corner, after Ahsoka - twenty-nine figures there and two of them are women. She is also the third royal title in the collection, alongside the Prince and the Space Princess, and the only one of the three from outside this world."
   },
 
 

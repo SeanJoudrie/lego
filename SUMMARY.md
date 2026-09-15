@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-386 characters from a custom LEGO minifigure world, in the order they were
+389 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4264,13 +4264,13 @@ Obi-Wan Kenobi.
 
 *Tags:* star-wars, jedi, obi-wan, beard, robes, branded
 
-### 369. Ahsoka Tano — Two eras
+### 369. Ahsoka Tano — Three figures
 
 **Alignment:** good · **Role:** Jedi · **Figure:** branded
 
 Ahsoka Tano.
 
-*How it was got:* Two figures of the same woman. The older has grey chest armour over a blue and yellow tabard, greaved legs, long white and blue montrals, and carries two lightsabers at once. The younger has short montrals, a bare midriff under an orange top, a plain brown belt and white legs - and nothing in her hands.
+*How it was got:* Two figures of the same woman. The older has grey chest armour over a blue and yellow tabard, greaved legs, long white and blue montrals, and carries two lightsabers at once. The younger has short montrals, a bare midriff under an orange top, a plain brown belt and white legs - and nothing in her hands. A third is the young one again on a later mould - grey legs instead of white, and montrals that fall well past the shoulders where the other pair stop short.
 
 *Tags:* star-wars, jedi, ahsoka, togruta, twin-sabers, branded
 
@@ -4445,6 +4445,36 @@ C-3PO.
 *How it was got:* Gold from head to foot, in a metallic finish rather than a printed one. Moulded droid head with the fixed open mouth and round eyes, wire and panel detail printed across the chest and waist.
 
 *Tags:* star-wars, droid, c-3po, gold, branded
+
+### 387. Rotta the Hutt
+
+**Alignment:** good · **Figure:** branded
+
+Rotta the Hutt, a Huttlet.
+
+*How it was got:* One moulded pale green piece from head to tail - no legs, no torso, no neck. Ridged belly, heavy brow folds, two stubby arms and slit yellow eyes. He does not come apart into standard pieces at all.
+
+*Tags:* star-wars, hutt, child, alien, one-piece, branded
+
+### 388. Yoda — Two moulds
+
+**Alignment:** good · **Role:** Jedi · **Figure:** branded
+
+Yoda.
+
+*How it was got:* Two figures of the same man. The older has a duller grey-green head with the eyes moulded rather than painted, and a plain cream robe with a brown belt and two pouches. The later one has a brighter green head with the eyes properly printed, and a cream robe over an orange undershirt. Both have pale green hands and short cream legs.
+
+*Tags:* star-wars, jedi, yoda, alien, branded
+
+### 389. Princess Leia
+
+**Alignment:** good · **Figure:** branded
+
+Princess Leia.
+
+*How it was got:* Long brown hair swept over one shoulder, red lipstick. Pale yellow jacket with dark toggle fastenings and stitched seam lines, one grey sleeve and one brown, white legs.
+
+*Tags:* star-wars, leia, princess, branded
 
 ---
 
