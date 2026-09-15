@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-222 characters from a custom LEGO minifigure world, in the order they were
+227 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -798,7 +798,7 @@ The best chef in the world. He was already the best chef in the world before the
 
 The knife is golden, and it was given to him. In the same way there are magic swords in this world, this is a magic knife — he can super-chop, cut anything, and work at supersonic speed. But none of that is why he's the best. It only lets him work faster.
 
-*Connections:* Trained one of The Space Cadets
+*Connections:* Trained one of The Space Cadets · Teaching The Apprentice Chef
 
 *Tags:* chef, golden-knife, magic-weapon, supersonic, the-best
 
@@ -2705,6 +2705,54 @@ A sumo wrestler.
 A red hot chili pepper.
 
 *Tags:* chili, pepper, costume, background
+
+### 223. The Clown
+
+**Alignment:** good · **Role:** Clown · **Figure:** custom
+
+A clown.
+
+*Tags:* clown, circus, entertainer, red-wig, background
+
+### 224. The Apprentice Chef
+
+**Alignment:** good · **Role:** Chef · **Figure:** custom
+
+A chef, learning under the Chef - the best in the world, the one with the golden knife.
+
+*Connections:* Apprentice to The Chef
+
+*Tags:* chef, apprentice, kitchen, student
+
+### 225. The Red Spaceman
+
+**Alignment:** good · **Role:** Spaceman · **Figure:** custom
+
+A red spaceman.
+
+*How it was got:* The classic Lego Space figure again, same planet-and-rocket badge as the blue one, red from helmet to boots.
+
+*Tags:* spaceman, classic-space, red, astronaut, vintage
+
+### 226. The Wedding Lady
+
+**Alignment:** good · **Figure:** custom
+
+A wedding lady.
+
+*How it was got:* A white gown printed with silver beading down the front.
+
+*Tags:* wedding, gown, woman, background
+
+### 227. The Winter Trooper
+
+**Alignment:** good · **Role:** Soldier · **Figure:** custom
+
+A winter trooper.
+
+*How it was got:* Hoth rebel kit - the tan cold-weather cap with the ear flaps, ammunition pouches and a satchel on the belt. The same rebel line Armstrong and the Deputy's torsos came out of.
+
+*Tags:* soldier, winter, cold-weather, trooper, hoth, background
 
 ---
 

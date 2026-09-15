@@ -1497,6 +1497,7 @@ window.COLLECTION = [
     location: "",
     relations: [
       { to: "the-space-cadets", label: "Trained one of" },
+      { to: "the-apprentice-chef", label: "Teaching" },
     ],
     rating: 0,
     background:
@@ -1510,7 +1511,7 @@ window.COLLECTION = [
     tags: ["chef", "golden-knife", "magic-weapon", "supersonic", "the-best"],
     images: ["images/the-chef-01.jpg"],
     acquired: "",
-    notes: "Placeholder name."
+    notes: "Placeholder name. He has an apprentice now."
   },
 
   {
@@ -5844,7 +5845,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Spaceman",
-    group: "",
+    group: "Classic Space",
     location: "",
     relations: [],
     rating: 0,
@@ -5855,7 +5856,7 @@ window.COLLECTION = [
     tags: ["spaceman", "classic-space", "blue", "astronaut", "vintage"],
     images: ["images/the-blue-spaceman-01.jpg"],
     acquired: "",
-    notes: "Placeholder name. The plainest space figure here, and the only one wearing the original Lego Space badge rather than a militia, police or squadron marking."
+    notes: "Placeholder name. The plainest space figure here, and the first to wear the original Lego Space badge rather than a militia, police or squadron marking - the Red Spaceman wears it too, which is why Classic Space is a group now."
   },
 
 
@@ -6091,6 +6092,126 @@ window.COLLECTION = [
     images: ["images/the-red-hot-chili-pepper-01.jpg"],
     acquired: "",
     notes: "Background figure, and the fourth person here inside a costume after the bunny suits, the pizza and the peas. Three of those four are food."
+  },
+
+
+
+  {
+    id: "the-clown",
+    name: "The Clown",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Clown",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A clown.",
+    provenance: "",
+    tags: ["clown", "circus", "entertainer", "red-wig", "background"],
+    images: ["images/the-clown-01.jpg"],
+    acquired: "",
+    notes: "Background figure. Third entertainer here, after the Comedian and the Host."
+  },
+
+
+  {
+    id: "the-apprentice-chef",
+    name: "The Apprentice Chef",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Chef",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-chef", label: "Apprentice to" },
+    ],
+    rating: 0,
+    background:
+      "A chef, learning under the Chef - the best in the world, the one with " +
+      "the golden knife.",
+    provenance: "",
+    tags: ["chef", "apprentice", "kitchen", "student"],
+    images: ["images/the-apprentice-chef-01.jpg"],
+    acquired: "",
+    notes: "Linked both ways with the Chef. The fourth person here learning a trade under somebody, after the Trickster's Apprentice, the Red Apprentice and the Gas Men's protege - and the only one whose master's whole point is that the magic is not why he is the best."
+  },
+
+
+  {
+    id: "the-red-spaceman",
+    name: "The Red Spaceman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Spaceman",
+    group: "Classic Space",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A red spaceman.",
+    provenance:
+      "The classic Lego Space figure again, same planet-and-rocket badge as the " +
+      "blue one, red from helmet to boots.",
+    tags: ["spaceman", "classic-space", "red", "astronaut", "vintage"],
+    images: ["images/the-red-spaceman-01.jpg"],
+    acquired: "",
+    notes: "Grouped with the Blue Spaceman under Classic Space. In this world a chest badge has always meant an outfit you belong to - militia, police, squadron - so two men in the same badge and different colours read as the same service."
+  },
+
+
+  {
+    id: "the-wedding-lady",
+    name: "The Wedding Lady",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A wedding lady.",
+    provenance: "A white gown printed with silver beading down the front.",
+    tags: ["wedding", "gown", "woman", "background"],
+    images: ["images/the-wedding-lady-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name, taken from your words. Whether she is the bride or somebody who works at weddings isn't settled, so no role is recorded - say which and it goes in."
+  },
+
+
+  {
+    id: "the-winter-trooper",
+    name: "The Winter Trooper",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A winter trooper.",
+    provenance:
+      "Hoth rebel kit - the tan cold-weather cap with the ear flaps, ammunition " +
+      "pouches and a satchel on the belt. The same rebel line Armstrong and the " +
+      "Deputy's torsos came out of.",
+    tags: ["soldier", "winter", "cold-weather", "trooper", "hoth", "background"],
+    images: ["images/the-winter-trooper-01.jpg"],
+    acquired: "",
+    notes: "Background figure. No unit recorded - say which army he belongs to and he joins them."
   },
 
 
