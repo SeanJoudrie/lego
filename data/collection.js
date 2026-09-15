@@ -10178,7 +10178,7 @@ window.COLLECTION = [
     theme: "Star Wars",
     rank: "",
     role: "Droid",
-    group: "",
+    group: "The Droids",
     location: "",
     relations: [],
     rating: 0,
@@ -10190,7 +10190,7 @@ window.COLLECTION = [
     tags: ["star-wars", "droid", "c-3po", "gold", "branded"],
     images: ["images/c-3po-01.jpg"],
     acquired: "",
-    notes: "First droid from the films here. This collection already has several of its own - the radar robot who was hacked and made to watch himself attack people, the scrap-built dock robot, the Defense Bot - so he arrives into a world that has thinking machines and treats them as people."
+    notes: "First droid from the films here. This collection already has several of its own - the radar robot who was hacked and made to watch himself attack people, the scrap-built dock robot, the Defense Bot - so he arrives into a world that has thinking machines and treats them as people. He has four astromechs beside him now, which makes a group of them."
   },
 
 
@@ -10487,6 +10487,131 @@ window.COLLECTION = [
     images: ["images/the-dwarf-soldier-01.jpg"],
     acquired: "",
     notes: "His arrival makes three dwarves, so they are a group now - him, the Dwarf King and the Dwarf Librarian, who were both sitting loose until today. The same thing happened to the Winter Troopers and the Enforcer Squad: two of a kind are not an organisation, three are."
+  },
+
+
+  {
+    id: "the-dwarf-archer",
+    name: "The Dwarf Archer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Archer",
+    group: "The Dwarves",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A dwarf archer.",
+    provenance:
+      "Dark green hood with pale antlers rising from the crown, a brown cloth " +
+      "cape over the shoulders. Light green tunic printed with a necklace of " +
+      "claws, a quiver strap across the chest and pouches at the waist. Dark " +
+      "green legs, stubbled chin, open grin.",
+    tags: ["dwarf", "archer", "hunter", "antlers", "small-folk"],
+    images: ["images/the-dwarf-archer-01.jpg"],
+    acquired: "",
+    notes: "Fourth dwarf, a day after they became a group at all. He is the only one of them dressed for the woods rather than for a hall - the King, the Librarian and the Soldier are all indoor or battlefield people, and he is out hunting."
+  },
+
+
+  {
+    id: "r2-d2",
+    name: "R2-D2",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droids",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "R2-D2.",
+    provenance:
+      "Domed astromech body, no minifigure parts in him at all. The white has " +
+      "yellowed right through with age - more than any other figure in the " +
+      "collection - and the blue dome markings have gone chalky.",
+    tags: ["star-wars", "droid", "astromech", "r2-d2", "aged", "branded"],
+    images: ["images/r2-d2-01.jpg"],
+    acquired: "",
+    notes: "The most visibly aged piece in the whole collection. Worth saying: he is the only named astromech here, and the other three are unnamed units - the same shape as Jar Jar standing over the Gungan soldiers."
+  },
+
+
+  {
+    id: "the-blue-astromech",
+    name: "The Blue Astromech",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droids",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An astromech droid.",
+    provenance:
+      "Same build and nearly the same livery as R2-D2 - white body, blue " +
+      "dome markings - but the plastic is clean and unyellowed, and there is " +
+      "a red lens on the dome that R2 does not have.",
+    tags: ["star-wars", "droid", "astromech", "blue", "branded"],
+    images: ["images/the-blue-astromech-01.jpg"],
+    acquired: "",
+    notes: "You said plainly that this is not R2, which is the only reason he is a separate card - side by side the two are close enough to be mistaken, and the red lens and the clean plastic are the whole difference."
+  },
+
+
+  {
+    id: "the-red-astromech",
+    name: "The Red Astromech",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droids",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An astromech droid.",
+    provenance:
+      "Flat-topped grey cone for a head rather than the usual dome, with " +
+      "three lenses across the front. White body panelled in red and grey.",
+    tags: ["star-wars", "droid", "astromech", "red", "cone-head", "branded"],
+    images: ["images/the-red-astromech-01.jpg"],
+    acquired: "",
+    notes: "The odd one of the four - a different head entirely, cone rather than dome, which is a whole different series of droid rather than a repaint."
+  },
+
+
+  {
+    id: "the-brown-astromech",
+    name: "The Brown Astromech",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droids",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An astromech droid.",
+    provenance:
+      "Brown body with white panelling, and a dome split brown and white " +
+      "with a red lens. The printing is scuffed away in patches across the " +
+      "chest and the dome.",
+    tags: ["star-wars", "droid", "astromech", "brown", "worn", "branded"],
+    images: ["images/the-brown-astromech-01.jpg"],
+    acquired: "",
+    notes: "New group, The Droids, holding these four and C-3PO - my call rather than yours, made because five droids with no connections between them was worse than one grouping you can rename. This world has thinking machines of its own besides: the radar robot who was hacked, the Dock Robot, the Defense Bot, the Tin Robot and three more."
   },
 
 

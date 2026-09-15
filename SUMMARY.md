@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-397 characters from a custom LEGO minifigure world, in the order they were
+402 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4555,6 +4555,56 @@ A dwarf soldier.
 *How it was got:* Ginger hair swept back and a full ginger beard across a brown face, one tooth showing in the grin. Red tunic with a white fur collar and two buckled belts, mismatched arms - one black, one black and cream with a pauldron - and black legs.
 
 *Tags:* dwarf, soldier, beard, small-folk
+
+### 398. The Dwarf Archer
+
+**Alignment:** good · **Role:** Archer · **Figure:** custom
+
+A dwarf archer.
+
+*How it was got:* Dark green hood with pale antlers rising from the crown, a brown cloth cape over the shoulders. Light green tunic printed with a necklace of claws, a quiver strap across the chest and pouches at the waist. Dark green legs, stubbled chin, open grin.
+
+*Tags:* dwarf, archer, hunter, antlers, small-folk
+
+### 399. R2-D2
+
+**Alignment:** good · **Role:** Droid · **Figure:** branded
+
+R2-D2.
+
+*How it was got:* Domed astromech body, no minifigure parts in him at all. The white has yellowed right through with age - more than any other figure in the collection - and the blue dome markings have gone chalky.
+
+*Tags:* star-wars, droid, astromech, r2-d2, aged, branded
+
+### 400. The Blue Astromech
+
+**Alignment:** good · **Role:** Droid · **Figure:** branded
+
+An astromech droid.
+
+*How it was got:* Same build and nearly the same livery as R2-D2 - white body, blue dome markings - but the plastic is clean and unyellowed, and there is a red lens on the dome that R2 does not have.
+
+*Tags:* star-wars, droid, astromech, blue, branded
+
+### 401. The Red Astromech
+
+**Alignment:** good · **Role:** Droid · **Figure:** branded
+
+An astromech droid.
+
+*How it was got:* Flat-topped grey cone for a head rather than the usual dome, with three lenses across the front. White body panelled in red and grey.
+
+*Tags:* star-wars, droid, astromech, red, cone-head, branded
+
+### 402. The Brown Astromech
+
+**Alignment:** good · **Role:** Droid · **Figure:** branded
+
+An astromech droid.
+
+*How it was got:* Brown body with white panelling, and a dome split brown and white with a red lens. The printing is scuffed away in patches across the chest and the dome.
+
+*Tags:* star-wars, droid, astromech, brown, worn, branded
 
 ---
 
