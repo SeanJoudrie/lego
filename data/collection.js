@@ -6335,6 +6335,121 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-woman-in-the-space-jacket",
+    name: "The Woman in the Space Jacket",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A civilian.",
+    provenance:
+      "Her red jacket carries the classic Lego Space badge - the same " +
+      "planet-and-rocket the Blue and Red Spacemen wear.",
+    tags: ["civilian", "woman", "space-badge", "jacket", "background"],
+    images: ["images/the-woman-in-the-space-jacket-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive - two civilian women arrived together and the printing is the only thing telling them apart. Left out of Classic Space on purpose: I made that a group on the reasoning that a chest badge means an outfit you belong to, and she is the test of it. Is she one of them off duty, or is it just a jacket? Say which."
+  },
+
+
+  {
+    id: "the-woman-with-the-heart-necklace",
+    name: "The Woman with the Heart Necklace",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A civilian.",
+    provenance: "Red wrap top over a starred shirt, with a heart on a chain at her throat.",
+    tags: ["civilian", "woman", "necklace", "background"],
+    images: ["images/the-woman-with-the-heart-necklace-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive, paired with the Woman in the Space Jacket."
+  },
+
+
+  {
+    id: "the-kid-in-pyjamas",
+    name: "The Kid in Pyjamas",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Civilian",
+    group: "",
+    location: "Lego City",
+    relations: [],
+    rating: 0,
+    background: "A normal Lego City kid. A resident, nothing more.",
+    provenance: "Pink pyjamas printed all over with rabbits.",
+    tags: ["kid", "civilian", "pyjamas", "lego-city", "resident", "background"],
+    images: ["images/the-kid-in-pyjamas-01.jpg"],
+    acquired: "",
+    notes: "Background figure, and the only person in the collection photographed in what they sleep in."
+  },
+
+
+  {
+    id: "the-brick-seller",
+    name: "The Brick Seller",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Shopkeeper",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He sells bricks at the Lego store. The brick he is wearing is the " +
+      "costume.",
+    provenance: "A 2x2 brick suit with a 10 on the front, studs and all.",
+    tags: ["shop", "bricks", "lego-store", "costume", "salesman", "background"],
+    images: ["images/the-brick-seller-01.jpg"],
+    acquired: "",
+    notes: "Fifth costume here after the bunny suits, the pizza, the peas and the chili - and the second where it is the uniform, after the peas. He is also the first person in the collection whose job is inside a Lego store, which means this world contains a shop that sells the material everyone in it is made of."
+  },
+
+
+  {
+    id: "the-four-armed-alien",
+    name: "The Four-Armed Alien",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A four-armed alien. Also a nice guy.",
+    provenance: "Green throughout, with a second pair of arms hung off the shoulders.",
+    tags: ["alien", "four-arms", "green", "nice", "background"],
+    images: ["images/the-four-armed-alien-01.jpg"],
+    acquired: "",
+    notes: "Fourth alien here after the Reformed, the Alien Farmer and the Intern, and the only one who is not shaped like everybody else. No species link written - the other three look human, he does not."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",

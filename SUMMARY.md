@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-232 characters from a custom LEGO minifigure world, in the order they were
+237 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -2807,6 +2807,56 @@ A boxer.
 An average Joe civilian.
 
 *Tags:* civilian, average, ordinary, background
+
+### 233. The Woman in the Space Jacket
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+A civilian.
+
+*How it was got:* Her red jacket carries the classic Lego Space badge - the same planet-and-rocket the Blue and Red Spacemen wear.
+
+*Tags:* civilian, woman, space-badge, jacket, background
+
+### 234. The Woman with the Heart Necklace
+
+**Alignment:** good · **Role:** Civilian · **Figure:** custom
+
+A civilian.
+
+*How it was got:* Red wrap top over a starred shirt, with a heart on a chain at her throat.
+
+*Tags:* civilian, woman, necklace, background
+
+### 235. The Kid in Pyjamas
+
+**Alignment:** good · **Role:** Civilian · **Based:** Lego City · **Figure:** custom
+
+A normal Lego City kid. A resident, nothing more.
+
+*How it was got:* Pink pyjamas printed all over with rabbits.
+
+*Tags:* kid, civilian, pyjamas, lego-city, resident, background
+
+### 236. The Brick Seller
+
+**Alignment:** good · **Role:** Shopkeeper · **Figure:** custom
+
+He sells bricks at the Lego store. The brick he is wearing is the costume.
+
+*How it was got:* A 2x2 brick suit with a 10 on the front, studs and all.
+
+*Tags:* shop, bricks, lego-store, costume, salesman, background
+
+### 237. The Four-Armed Alien
+
+**Alignment:** good · **Figure:** custom
+
+A four-armed alien. Also a nice guy.
+
+*How it was got:* Green throughout, with a second pair of arms hung off the shoulders.
+
+*Tags:* alien, four-arms, green, nice, background
 
 ---
 
