@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-663 characters from a custom LEGO minifigure world, in the order they were
+664 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -561,7 +561,9 @@ It is the obvious reading and it is not written down, so the catalogue keeps the
 
 A hundred and twenty-six figures in this collection came with a name already on them. Star Wars, Ninjago, Marvel, Harry Potter, Chima, Pirates of the Caribbean, SpongeBob. And every single one of them was filed good.
 
-That includes the ones who are not. Boba Fett is good here. So are the stormtroopers, the snowtroopers, the TIE pilots and the stormtrooper commander. Whatever they were in the film they came out of, in this world they were absorbed onto the side that wins.
+That includes the ones who are not. The stormtroopers are good here. So are the snowtroopers, the TIE pilots and the stormtrooper commander. Whatever they were in the film they came out of, in this world they were absorbed onto the side that wins.
+
+Boba Fett was the headline case of that for the entire life of the collection, and he is not any more. He has been split in two: the boy stays good on his own card, and the man in the armour is filed against this world. It is the first time one character here has been given two entries, and the reason is the decks - a single card can only sit on one side, and these two are not on the same one.
 
 Savage Opress breaks it. He is the first branded figure in five hundred and ninety to be filed against this world, and he arrives with no story attached beyond his own name.
 
@@ -4942,25 +4944,41 @@ Looked him up: he is Lego's Onaconda Farr, part SW0241, from set 8036, the Separ
 
 *Tags:* star-wars, rodian, senator, politician, alien, branded
 
-### 384. Boba Fett — Four figures
+### 384. Young Boba Fett
 
-**Alignment:** good · **Role:** Bounty Hunter · **Figure:** branded
+**Alignment:** good · **Figure:** branded
 
-Boba Fett. Four figures of him, one card: the boy with no armour, and the man in it three times over.
+Boba Fett as a boy, before any of it.
 
-*How it was got:* The boy: black bowl-cut hair, a plain yellow face with heavy brows and a flat mouth, a pale blue tunic with a dark belt and a laced collar, dark navy arms, pale blue legs. No armour and no helmet.
+*How it was got:* Black bowl-cut hair, a plain yellow face with heavy brows and a flat mouth. A pale blue tunic with a dark belt and a laced collar, dark navy arms, pale blue legs. No armour and no helmet.
 
-The armour, plain: a green helmet with a brown T-visor, a white and green chest plate over a brown belt, pale grey arms and legs. Clean, bright, and printed with almost nothing.
+*Connections:* The man he becomes Boba Fett
 
-The armour, in detail: the same suit done properly - the helmet green with a dark red stripe over the crown and a deep red visor, the chest plate worked in green panels and silver scoring, a braid of Wookiee scalps hung at one shoulder, a brown bandolier, a red belt, grey arms and pale grey legs.
+*Tags:* star-wars, boba-fett, child, branded, boy, unarmoured
 
-The armour, weathered: the same helmet shape gone dark, the visor worn through to silver, the body black and grey and scuffed all over, one yellow pauldron, a brown bandolier at the waist, yellow knee plates.
+### 385. Boba Fett — Three figures, in the armour
 
-Three suits of one armour, and the printing is the whole story - the same man rendered plainly, then properly, then beaten to pieces.
+**Alignment:** bad · **Role:** Bounty Hunter · **Figure:** branded
 
-*Tags:* star-wars, boba-fett, child, branded, bounty-hunter, mandalorian, armour, four-figures
+Boba Fett, in the armour. Three figures of him, and he is an enemy of this world.
 
-### 385. Han Solo — Two outfits
+The boy he used to be has a card of his own, on the other deck.
+
+*How it was got:* Three suits of one armour.
+
+Plain: a green helmet with a brown T-visor, a white and green chest plate over a brown belt, pale grey arms and legs. Clean, bright, and printed with almost nothing.
+
+In detail: the same suit done properly - the helmet green with a dark red stripe over the crown and a deep red visor, the chest plate worked in green panels and silver scoring, a braid of Wookiee scalps at one shoulder, a brown bandolier, a red belt, grey arms, pale grey legs.
+
+Weathered: the same helmet shape gone dark, the visor worn through to silver, the body black and grey and scuffed all over, one yellow pauldron, a brown bandolier at the waist, yellow knee plates.
+
+The printing is the whole story - the same man rendered plainly, then properly, then beaten to pieces.
+
+*Connections:* The boy he was Young Boba Fett
+
+*Tags:* villain, star-wars, boba-fett, branded, bounty-hunter, mandalorian, armour, three-figures
+
+### 386. Han Solo — Two outfits
 
 **Alignment:** good · **Figure:** branded
 
@@ -4970,7 +4988,7 @@ Han Solo, in cold-weather gear.
 
 *Tags:* star-wars, han-solo, parka, cold-weather, branded
 
-### 386. C-3PO — Two figures
+### 387. C-3PO — Two figures
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
@@ -4980,7 +4998,7 @@ C-3PO.
 
 *Tags:* star-wars, droid, c-3po, gold, branded
 
-### 387. Rotta the Hutt
+### 388. Rotta the Hutt
 
 **Alignment:** good · **Figure:** branded
 
@@ -4990,7 +5008,7 @@ Rotta the Hutt, a Huttlet.
 
 *Tags:* star-wars, hutt, child, alien, one-piece, branded
 
-### 388. Yoda — Two moulds
+### 389. Yoda — Two moulds
 
 **Alignment:** good · **Role:** Jedi · **Figure:** branded
 
@@ -5000,7 +5018,7 @@ Yoda.
 
 *Tags:* star-wars, jedi, yoda, alien, branded
 
-### 389. Princess Leia — Three outfits
+### 390. Princess Leia — Three outfits
 
 **Alignment:** good · **Figure:** branded
 
@@ -5010,7 +5028,7 @@ Princess Leia.
 
 *Tags:* star-wars, leia, princess, branded
 
-### 390. Greedo
+### 391. Greedo
 
 **Alignment:** good · **Figure:** branded
 
@@ -5020,7 +5038,7 @@ Greedo.
 
 *Tags:* star-wars, rodian, greedo, bounty-hunter, alien, branded
 
-### 391. Kai
+### 392. Kai
 
 **Alignment:** good · **Role:** Ninja · **Figure:** branded
 
@@ -5032,7 +5050,7 @@ Kai, the red ninja.
 
 *Tags:* ninjago, ninja, red, fire, hood, branded
 
-### 392. Jay — Two figures
+### 393. Jay — Two figures
 
 **Alignment:** good · **Role:** Ninja · **Figure:** branded
 
@@ -5042,7 +5060,7 @@ Jay, the blue ninja.
 
 *Tags:* ninjago, ninja, blue, hood, branded
 
-### 393. Zane — Three figures
+### 394. Zane — Three figures
 
 **Alignment:** good · **Role:** Ninja · **Figure:** branded
 
@@ -5052,7 +5070,7 @@ Zane, the white ninja.
 
 *Tags:* ninjago, ninja, white, ice, dragon, branded
 
-### 394. Cole
+### 395. Cole
 
 **Alignment:** good · **Role:** Ninja · **Figure:** branded
 
@@ -5062,7 +5080,7 @@ Cole, the black ninja.
 
 *Tags:* ninjago, ninja, black, unmasked, armour, branded
 
-### 395. Nya
+### 396. Nya
 
 **Alignment:** good · **Role:** Samurai · **Figure:** branded
 
@@ -5072,7 +5090,7 @@ Nya, in samurai armour.
 
 *Tags:* ninjago, samurai, armour, helmet, red, branded
 
-### 396. Sokka
+### 397. Sokka
 
 **Alignment:** good · **Figure:** branded
 
@@ -5082,7 +5100,7 @@ Sokka.
 
 *Tags:* avatar-the-last-airbender, water-tribe, branded
 
-### 397. The Dwarf Soldier
+### 398. The Dwarf Soldier
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -5092,7 +5110,7 @@ A dwarf soldier.
 
 *Tags:* dwarf, soldier, beard, small-folk
 
-### 398. The Dwarf Archer
+### 399. The Dwarf Archer
 
 **Alignment:** good · **Role:** Archer · **Figure:** custom
 
@@ -5102,7 +5120,7 @@ A dwarf archer.
 
 *Tags:* dwarf, archer, hunter, antlers, small-folk
 
-### 399. R2-D2 — Three figures
+### 400. R2-D2 — Three figures
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
@@ -5112,7 +5130,7 @@ R2-D2.
 
 *Tags:* star-wars, droid, astromech, r2-d2, aged, branded
 
-### 400. The Blue Astromech
+### 401. The Blue Astromech
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
@@ -5122,7 +5140,7 @@ An astromech droid.
 
 *Tags:* star-wars, droid, astromech, blue, branded
 
-### 401. The Cone-Headed Astromech
+### 402. The Cone-Headed Astromech
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
@@ -5132,7 +5150,7 @@ An astromech droid.
 
 *Tags:* star-wars, droid, astromech, red, cone-head, branded
 
-### 402. The Brown Astromech
+### 403. The Brown Astromech
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
@@ -5142,7 +5160,7 @@ An astromech droid.
 
 *Tags:* star-wars, droid, astromech, brown, worn, branded
 
-### 403. The Red-Domed Astromech
+### 404. The Red-Domed Astromech
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
@@ -5152,7 +5170,7 @@ An astromech droid.
 
 *Tags:* star-wars, droid, astromech, red, branded
 
-### 404. The Horned Astromech
+### 405. The Horned Astromech
 
 **Alignment:** good · **Role:** Droid · **Figure:** branded
 
@@ -5162,7 +5180,7 @@ An astromech droid.
 
 *Tags:* star-wars, droid, astromech, horn, antenna, branded
 
-### 405. The Junk Astromech
+### 406. The Junk Astromech
 
 **Alignment:** good · **Role:** Droid · **Figure:** custom
 
@@ -5172,7 +5190,7 @@ A droid built out of whatever was to hand.
 
 *Tags:* droid, astromech, scrap-built, custom, dish, improvised
 
-### 406. Lloyd — Two figures
+### 407. Lloyd — Two figures
 
 **Alignment:** good · **Role:** Ninja · **Figure:** branded
 
@@ -5182,7 +5200,7 @@ Lloyd, the green ninja.
 
 *Tags:* ninjago, ninja, green, hood, branded
 
-### 407. The Hogwarts Professor
+### 408. The Hogwarts Professor
 
 **Alignment:** good · **Role:** Professor · **Figure:** custom
 
@@ -5192,7 +5210,7 @@ A professor at Hogwarts. Yours, not the books.
 
 *Tags:* harry-potter, professor, wizard, beard, custom
 
-### 408. Professor Sprout
+### 409. Professor Sprout
 
 **Alignment:** good · **Role:** Professor · **Figure:** branded
 
@@ -5204,7 +5222,7 @@ Looked her up for you: this is the Professor Pomona Sprout figure from the Harry
 
 *Tags:* harry-potter, professor, herbology, hufflepuff, witch, branded
 
-### 409. Little Red Riding Hood
+### 410. Little Red Riding Hood
 
 **Alignment:** good · **Figure:** branded
 
@@ -5214,7 +5232,7 @@ Little Red Riding Hood.
 
 *Tags:* fairy-tales, red-riding-hood, cape, branded
 
-### 410. Laval
+### 411. Laval
 
 **Alignment:** good · **Figure:** branded
 
@@ -5226,7 +5244,7 @@ Looked him up: the blue tunic, the gold harness and the blue orb at the chest ar
 
 *Tags:* legends-of-chima, lion, beast-folk, chi, branded
 
-### 411. Minnie Mouse
+### 412. Minnie Mouse
 
 **Alignment:** good · **Figure:** branded
 
@@ -5236,7 +5254,7 @@ Minnie Mouse.
 
 *Tags:* disney, minnie-mouse, black-and-white, vintage, branded
 
-### 412. Harry Potter
+### 413. Harry Potter
 
 **Alignment:** good · **Role:** Student · **Figure:** branded
 
@@ -5246,7 +5264,7 @@ Harry Potter.
 
 *Tags:* harry-potter, student, gryffindor, glasses, scar, branded
 
-### 413. Neville Longbottom
+### 414. Neville Longbottom
 
 **Alignment:** good · **Role:** Student · **Figure:** branded
 
@@ -5256,7 +5274,7 @@ Neville Longbottom.
 
 *Tags:* harry-potter, student, gryffindor, cardigan, branded
 
-### 414. Fred Weasley
+### 415. Fred Weasley
 
 **Alignment:** good · **Role:** Student · **Figure:** branded
 
@@ -5268,7 +5286,7 @@ Looked him up: Lego catalogues this coat-and-bobble-hat design as Fred Weasley, 
 
 *Tags:* harry-potter, student, gryffindor, weasley, winter, branded
 
-### 415. Kingsley Shacklebolt
+### 416. Kingsley Shacklebolt
 
 **Alignment:** good · **Role:** Auror · **Figure:** branded
 
@@ -5280,7 +5298,7 @@ Looked him up for you: this is the Kingsley Shacklebolt figure from the Harry Po
 
 *Tags:* harry-potter, auror, ministry, cape, branded
 
-### 416. Elizabeth Swann
+### 417. Elizabeth Swann
 
 **Alignment:** good · **Figure:** branded
 
@@ -5292,7 +5310,7 @@ Looked her up: this is Elizabeth Swann from set 4181, Isla De La Muerta, 2011. T
 
 *Tags:* pirates-of-the-caribbean, elizabeth-swann, gown, cursed-gold, branded
 
-### 417. Luna Lovegood
+### 418. Luna Lovegood
 
 **Alignment:** good · **Role:** Student · **Figure:** branded
 
@@ -5302,7 +5320,7 @@ Luna Lovegood.
 
 *Tags:* harry-potter, student, ravenclaw, wand, radishes, branded
 
-### 418. Max Rebo
+### 419. Max Rebo
 
 **Alignment:** good · **Role:** Musician · **Figure:** branded
 
@@ -5312,7 +5330,7 @@ Max Rebo, a keyboard player.
 
 *Tags:* star-wars, ortolan, musician, alien, blue, branded
 
-### 419. Woody — Two figures
+### 420. Woody — Two figures
 
 **Alignment:** good · **Figure:** branded
 
@@ -5322,7 +5340,7 @@ Woody, a pull-string cowboy doll.
 
 *Tags:* toy-story, cowboy, sheriff, doll, branded
 
-### 420. Buzz Lightyear
+### 421. Buzz Lightyear
 
 **Alignment:** good · **Role:** Space Ranger · **Figure:** branded
 
@@ -5332,7 +5350,7 @@ Buzz Lightyear, a Space Ranger. Also a toy.
 
 *Tags:* toy-story, space-ranger, wings, helmet, doll, branded
 
-### 421. The Toy Alien
+### 422. The Toy Alien
 
 **Alignment:** good · **Figure:** branded
 
@@ -5342,7 +5360,7 @@ One of the three-eyed aliens.
 
 *Tags:* toy-story, alien, three-eyed, claw, branded
 
-### 422. Goku
+### 423. Goku
 
 **Alignment:** good · **Figure:** branded
 
@@ -5354,7 +5372,7 @@ Worth recording: Lego has never made a Dragon Ball figure. The printing is sharp
 
 *Tags:* dragon-ball, super-saiyan, martial-arts, third-party
 
-### 423. The Mandalorian Armorer
+### 424. The Mandalorian Armorer
 
 **Alignment:** good · **Role:** Armorer · **Figure:** branded
 
@@ -5364,7 +5382,7 @@ The Armorer, who forges beskar for the Mandalorians and keeps their creed.
 
 *Tags:* star-wars, mandalorian, armorer, beskar, fur, helmet, branded
 
-### 424. Kelleran Beq
+### 425. Kelleran Beq
 
 **Alignment:** good · **Role:** Jedi · **Figure:** branded
 
@@ -5378,7 +5396,7 @@ Looked him up for you: Kelleran Beq, from set 75378, the BARC Speeder Escape, 20
 
 *Tags:* star-wars, jedi, kelleran-beq, order-66, cape, branded
 
-### 425. Grogu
+### 426. Grogu
 
 **Alignment:** good · **Figure:** branded
 
@@ -5390,7 +5408,7 @@ Grogu, the child.
 
 *Tags:* star-wars, grogu, child, alien, branded
 
-### 426. The Umbaran Soldier
+### 427. The Umbaran Soldier
 
 **Alignment:** good · **Role:** Soldier · **Figure:** branded
 
@@ -5400,7 +5418,7 @@ An Umbaran soldier.
 
 *Tags:* star-wars, umbaran, soldier, alien, helmet, branded
 
-### 427. Widow
+### 428. Widow
 
 **Alignment:** good · **Role:** Horse · **Figure:** branded
 
@@ -5414,7 +5432,7 @@ Looked her up: she is Widow, the horse who comes with Web-Slinger in the Spider-
 
 *Tags:* marvel, horse, spider-verse, animal, mask, branded
 
-### 428. Padme Amidala
+### 429. Padme Amidala
 
 **Alignment:** good · **Figure:** branded
 
@@ -5424,7 +5442,7 @@ Padme Amidala.
 
 *Tags:* star-wars, padme, senator, branded
 
-### 429. The A-Wing Pilot
+### 430. The A-Wing Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** branded
 
@@ -5436,7 +5454,7 @@ Double-checked as you asked: you were right. This is the A-wing pilot, Lego part
 
 *Tags:* star-wars, rebel, pilot, a-wing, green, vintage, branded
 
-### 430. The Arctic Explorers — Six of them
+### 431. The Arctic Explorers — Six of them
 
 **Alignment:** good · **Role:** Explorer · **Figure:** custom
 
@@ -5446,7 +5464,7 @@ An adventure squad of arctic explorers and mountaineers. There are six of them.
 
 *Tags:* arctic, explorer, mountaineer, unit, six, cold-weather, expedition
 
-### 431. Sev
+### 432. Sev
 
 **Alignment:** good · **Role:** Clone Commando · **Figure:** branded
 
@@ -5456,7 +5474,7 @@ Sev, a clone commando.
 
 *Tags:* star-wars, clone, commando, red, sniper, branded
 
-### 432. Fixer
+### 433. Fixer
 
 **Alignment:** good · **Role:** Clone Commando · **Figure:** branded
 
@@ -5466,7 +5484,7 @@ Fixer, a clone commando.
 
 *Tags:* star-wars, clone, commando, green, branded
 
-### 433. Scorch
+### 434. Scorch
 
 **Alignment:** good · **Role:** Clone Commando · **Figure:** branded
 
@@ -5476,7 +5494,7 @@ Scorch, a clone commando.
 
 *Tags:* star-wars, clone, commando, yellow, demolitions, branded
 
-### 434. Boss
+### 435. Boss
 
 **Alignment:** good · **Role:** Clone Commando · **Figure:** branded
 
@@ -5486,7 +5504,7 @@ Boss, who leads the clone commandos.
 
 *Tags:* star-wars, clone, commando, orange, leader, branded
 
-### 435. The Green Clone Trooper
+### 436. The Green Clone Trooper
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5498,7 +5516,7 @@ Looked him up as you asked, and could not pin him down. The obvious candidate is
 
 *Tags:* star-wars, clone, trooper, green, commander-helmet, branded
 
-### 436. The 501st Troopers — Four of them
+### 437. The 501st Troopers — Four of them
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5508,7 +5526,7 @@ Troopers of the 501st. There are four of them.
 
 *Tags:* star-wars, clone, trooper, 501st, blue, unit, two, branded
 
-### 437. Commander Cody
+### 438. Commander Cody
 
 **Alignment:** good · **Role:** Clone Commander · **Figure:** branded
 
@@ -5518,7 +5536,7 @@ Commander Cody, of the 212th.
 
 *Tags:* star-wars, clone, commander, 212th, orange, rangefinder, branded
 
-### 438. The Golden Company Rifleman
+### 439. The Golden Company Rifleman
 
 **Alignment:** good · **Role:** Rifleman · **Figure:** branded
 
@@ -5528,7 +5546,7 @@ A rifleman of the Golden Company.
 
 *Tags:* star-wars, clone, trooper, rifleman, yellow, golden-company, branded
 
-### 439. The Golden Company Grenadier
+### 440. The Golden Company Grenadier
 
 **Alignment:** good · **Role:** Grenadier · **Figure:** branded
 
@@ -5538,7 +5556,7 @@ A grenadier of the Golden Company.
 
 *Tags:* star-wars, clone, trooper, grenadier, yellow, golden-company, branded
 
-### 440. The Golden Company Scout
+### 441. The Golden Company Scout
 
 **Alignment:** good · **Role:** Scout · **Figure:** branded
 
@@ -5548,7 +5566,7 @@ A scout of the Golden Company.
 
 *Tags:* star-wars, clone, scout, respirator, yellow, golden-company, branded
 
-### 441. The Golden Commander
+### 442. The Golden Commander
 
 **Alignment:** good · **Role:** Commander · **Figure:** branded
 
@@ -5558,7 +5576,7 @@ The commander of the Golden Company.
 
 *Tags:* star-wars, clone, commander, pauldron, kama, yellow, golden-company, branded
 
-### 442. The Blaze Squad Soldier
+### 443. The Blaze Squad Soldier
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5568,7 +5586,7 @@ A soldier of Blaze Squad.
 
 *Tags:* star-wars, clone, trooper, orange, blaze-squad, branded
 
-### 443. The Wolfpack Soldier
+### 444. The Wolfpack Soldier
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5578,7 +5596,7 @@ A soldier of the Wolfpack.
 
 *Tags:* star-wars, clone, trooper, grey, wolfpack, pauldron, branded
 
-### 444. The Camo Scouts — Two of them
+### 445. The Camo Scouts — Two of them
 
 **Alignment:** good · **Role:** Scout · **Figure:** branded
 
@@ -5588,7 +5606,7 @@ Two scouts in camouflage.
 
 *Tags:* star-wars, clone, scout, camouflage, respirator, unit, two, branded
 
-### 445. The Wolfpack Scout
+### 446. The Wolfpack Scout
 
 **Alignment:** good · **Role:** Scout · **Figure:** branded
 
@@ -5598,7 +5616,7 @@ A scout of the Wolfpack.
 
 *Tags:* star-wars, clone, scout, wolfpack, pauldron, kama, respirator, branded
 
-### 446. The 187th Commander
+### 447. The 187th Commander
 
 **Alignment:** good · **Role:** Commander · **Figure:** branded
 
@@ -5608,7 +5626,7 @@ The commander of the 187th Legion.
 
 *Tags:* star-wars, clone, commander, 187th, purple, pauldron, branded
 
-### 447. The Librarian
+### 448. The Librarian
 
 **Alignment:** good · **Role:** Librarian · **Based:** Lego City · **Figure:** custom
 
@@ -5618,7 +5636,7 @@ A librarian.
 
 *Tags:* civilian, librarian, glasses, argyle, lego-city
 
-### 448. Captain Antilles
+### 449. Captain Antilles
 
 **Alignment:** good · **Role:** Captain · **Figure:** branded
 
@@ -5628,7 +5646,7 @@ Captain Antilles, a rebel ship's captain.
 
 *Tags:* star-wars, rebel, captain, officer, helmet, branded
 
-### 449. The Rebel Troopers — Nine of them, two patterns
+### 450. The Rebel Troopers — Nine of them, two patterns
 
 **Alignment:** good · **Role:** Soldier · **Figure:** branded
 
@@ -5638,7 +5656,7 @@ Rebel troopers. There are nine of them.
 
 *Tags:* star-wars, rebel, soldier, unit, nine, branded
 
-### 450. The Snowtroopers — Three of them, two patterns
+### 451. The Snowtroopers — Three of them, two patterns
 
 **Alignment:** good · **Role:** Soldier · **Figure:** branded
 
@@ -5648,7 +5666,7 @@ Snowtroopers. There are three of them.
 
 *Tags:* star-wars, imperial, snowtrooper, cold-weather, unit, two, branded
 
-### 451. The Scout Trooper
+### 452. The Scout Trooper
 
 **Alignment:** good · **Role:** Scout · **Figure:** branded
 
@@ -5658,7 +5676,7 @@ A scout trooper.
 
 *Tags:* star-wars, imperial, scout-trooper, visor, worn, branded
 
-### 452. The Yellow Clone Trooper
+### 453. The Yellow Clone Trooper
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5668,7 +5686,7 @@ A clone trooper in yellow.
 
 *Tags:* star-wars, clone, trooper, yellow, golden-company, worn, branded
 
-### 453. The Clone Pilot in Grey
+### 454. The Clone Pilot in Grey
 
 **Alignment:** good · **Role:** Pilot · **Figure:** branded
 
@@ -5678,7 +5696,7 @@ A clone pilot.
 
 *Tags:* star-wars, clone, pilot, flight-rig, branded
 
-### 454. The Battered Clone Pilot
+### 455. The Battered Clone Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** branded
 
@@ -5688,7 +5706,7 @@ A clone pilot, damaged in battle.
 
 *Tags:* star-wars, clone, pilot, damaged, worn, battle-scarred, branded
 
-### 455. The Stormtrooper Commander
+### 456. The Stormtrooper Commander
 
 **Alignment:** good · **Role:** Commander · **Figure:** branded
 
@@ -5698,7 +5716,7 @@ A stormtrooper commander.
 
 *Tags:* star-wars, imperial, stormtrooper, commander, branded
 
-### 456. The Stormtrooper Pilot
+### 457. The Stormtrooper Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** branded
 
@@ -5708,7 +5726,7 @@ An Imperial pilot.
 
 *Tags:* star-wars, imperial, pilot, cog, flight-rig, branded
 
-### 457. The Clone Captain
+### 458. The Clone Captain
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -5720,7 +5738,7 @@ He came out of the Discarded - made as a throwaway in somebody else's civilizati
 
 *Tags:* star-wars, clone, captain, discarded, hand-drawn, custom
 
-### 458. The Verdauf Guards — Four of them
+### 459. The Verdauf Guards — Four of them
 
 **Alignment:** good · **Role:** Verdauf Squadron · **Figure:** custom
 
@@ -5732,7 +5750,7 @@ A fourth stands apart: a silver ribbed pauldron over one shoulder, and the arm b
 
 *Tags:* verdauf, squadron, guard, green-armor, respirator, unit, three
 
-### 459. The Clone Bombers — Two of them
+### 460. The Clone Bombers — Two of them
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5744,7 +5762,7 @@ Out of one of the early clone battle packs, by your account. A second of him has
 
 *Tags:* star-wars, clone, trooper, phase-1, republic-crest, vintage, branded
 
-### 460. The Plain Clones — About a dozen
+### 461. The Plain Clones — About a dozen
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5756,7 +5774,7 @@ A second of him is the same unmarked armour on a later print: the same Phase 1 h
 
 *Tags:* star-wars, clone, trooper, phase-1, unmarked, branded
 
-### 461. The Painted Clone Commander
+### 462. The Painted Clone Commander
 
 **Alignment:** good · **Role:** Commander · **Figure:** custom
 
@@ -5768,7 +5786,7 @@ He was a giveaway - handed to you rather than bought or built.
 
 *Tags:* star-wars, clone, commander, hand-painted, cape, giveaway, custom
 
-### 462. The Commander in Red
+### 463. The Commander in Red
 
 **Alignment:** good · **Role:** Commander · **Figure:** branded
 
@@ -5778,7 +5796,7 @@ A clone commander.
 
 *Tags:* star-wars, clone, commander, red, rangefinder, kama, branded
 
-### 463. The Shock Troopers — About twenty
+### 464. The Shock Troopers — About twenty
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5788,7 +5806,7 @@ Shock troopers. There are about twenty of them.
 
 *Tags:* star-wars, clone, trooper, shock-trooper, red, unit, two, worn, branded
 
-### 464. Commander Fox
+### 465. Commander Fox
 
 **Alignment:** good · **Role:** Commander · **Figure:** branded
 
@@ -5798,7 +5816,7 @@ Commander Fox.
 
 *Tags:* star-wars, clone, commander, maroon, fox, branded
 
-### 465. The TIE Pilots — Two of them
+### 466. The TIE Pilots — Two of them
 
 **Alignment:** good · **Role:** Pilot · **Figure:** branded
 
@@ -5808,7 +5826,7 @@ TIE pilots. There are two of them.
 
 *Tags:* star-wars, imperial, tie-pilot, black, cog, unit, two, branded
 
-### 466. The Shadow Troopers — Three of them
+### 467. The Shadow Troopers — Three of them
 
 **Alignment:** good · **Role:** Soldier · **Figure:** branded
 
@@ -5818,7 +5836,7 @@ Shadow troopers. There are three of them.
 
 *Tags:* star-wars, imperial, shadow-trooper, black, unit, three, branded
 
-### 467. The 187th Soldiers — Two of them
+### 468. The 187th Soldiers — Two of them
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5828,7 +5846,7 @@ Soldiers of the 187th. There are two of them.
 
 *Tags:* star-wars, clone, trooper, 187th, purple, unit, two, branded
 
-### 468. The Bomb Squad — Two of them
+### 469. The Bomb Squad — Two of them
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5838,7 +5856,7 @@ Clone bomb squad. There are two of them.
 
 *Tags:* star-wars, clone, trooper, bomb-squad, orange, unit, two, branded
 
-### 469. The Discarded Commander
+### 470. The Discarded Commander
 
 **Alignment:** good · **Role:** Commander · **Figure:** custom
 
@@ -5848,7 +5866,7 @@ A commander in the clone army who came out of the Discarded world, like the Clon
 
 *Tags:* star-wars, clone, commander, discarded, hand-coloured, orange, custom
 
-### 470. The Old Republic Trooper
+### 471. The Old Republic Trooper
 
 **Alignment:** good · **Role:** Soldier · **Figure:** branded
 
@@ -5858,7 +5876,7 @@ A trooper of the Old Republic.
 
 *Tags:* star-wars, old-republic, soldier, orange, worn, branded
 
-### 471. Captain Rex
+### 472. Captain Rex
 
 **Alignment:** good · **Role:** Captain · **Figure:** branded
 
@@ -5868,7 +5886,7 @@ Captain Rex, of the 501st.
 
 *Tags:* star-wars, clone, captain, 501st, blue, rex, pauldron, branded
 
-### 472. The 187th Scout
+### 473. The 187th Scout
 
 **Alignment:** good · **Role:** Scout · **Figure:** branded
 
@@ -5878,7 +5896,7 @@ A scout of the 187th.
 
 *Tags:* star-wars, clone, scout, 187th, purple, branded
 
-### 473. The Stormtroopers — Five of them, two patterns
+### 474. The Stormtroopers — Five of them, two patterns
 
 **Alignment:** good · **Role:** Soldier · **Figure:** branded
 
@@ -5888,7 +5906,7 @@ Stormtroopers. There are five of them.
 
 *Tags:* star-wars, imperial, stormtrooper, unit, five, worn, branded
 
-### 474. Ahsoka's Trooper
+### 475. Ahsoka's Trooper
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5900,7 +5918,7 @@ One of Ahsoka's troopers, out of the 501st.
 
 *Tags:* star-wars, clone, trooper, 501st, ahsoka, orange, blue, branded
 
-### 475. The 501st Scout
+### 476. The 501st Scout
 
 **Alignment:** good · **Role:** Scout · **Figure:** branded
 
@@ -5910,7 +5928,7 @@ A scout of the 501st.
 
 *Tags:* star-wars, clone, scout, 501st, blue, respirator, branded
 
-### 476. The Classic Clones — Two of them
+### 477. The Classic Clones — Two of them
 
 **Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
 
@@ -5920,7 +5938,7 @@ Clone troopers with no unit markings. There are two of them.
 
 *Tags:* star-wars, clone, trooper, phase-2, unmarked, worn, unit, two, branded
 
-### 477. Fives
+### 478. Fives
 
 **Alignment:** good · **Role:** ARC Trooper · **Figure:** branded
 
@@ -5932,7 +5950,7 @@ Read as Fives on the markings. His helmet is supposed to carry a rishi eel drawn
 
 *Tags:* star-wars, clone, arc-trooper, 501st, fives, blue, branded
 
-### 478. The 501st ARC Troopers — Three of them
+### 479. The 501st ARC Troopers — Three of them
 
 **Alignment:** good · **Role:** ARC Trooper · **Figure:** branded
 
@@ -5942,7 +5960,7 @@ ARC troopers of the 501st. There are three of them.
 
 *Tags:* star-wars, clone, arc-trooper, 501st, blue, rangefinder, unit, two, branded
 
-### 479. The 501st Commando — Two figures
+### 480. The 501st Commando — Two figures
 
 **Alignment:** good · **Role:** Commando · **Figure:** branded
 
@@ -5952,7 +5970,7 @@ A commando of the 501st.
 
 *Tags:* star-wars, clone, commando, 501st, blue, pauldron, kama, branded
 
-### 480. Quinn — Three figures, one man
+### 481. Quinn — Three figures, one man
 
 **Alignment:** bad · **Role:** Sith Master · **Figure:** custom
 
@@ -5982,7 +6000,7 @@ What he made of himself: a translucent neon green head, grinning, one eye red. B
 
 *Tags:* villain, quinn, sith, dark-arts, force, shadow-uprising, betrayal, self-healing, immortality, arms-dealer
 
-### 481. The Shadow King
+### 482. The Shadow King
 
 **Alignment:** bad · **Role:** King · **Based:** The Shadow Dimension · **Figure:** custom
 
@@ -5996,7 +6014,7 @@ Quinn reached him and put the uprising to him, and the two of them ran it togeth
 
 *Tags:* villain, shadow, king, shadow-dimension, eternal-conflict, unprinted, plume
 
-### 482. Phalanx
+### 483. Phalanx
 
 **Alignment:** bad · **Role:** Nanobot Virus · **Figure:** custom
 
@@ -6010,7 +6028,7 @@ The dangerous part is that he is intelligent. He worked out that he cannot sprea
 
 *Tags:* villain, phalanx, nanobots, virus, alien, skull, planet-eater, zombies, hive
 
-### 483. The Prince Pretender
+### 484. The Prince Pretender
 
 **Alignment:** bad · **Role:** Pretender · **Figure:** custom
 
@@ -6026,7 +6044,7 @@ He is a violent, entitled piece of work.
 
 *Tags:* villain, pretender, royal-claim, throne, entitled, quinn, royal-family
 
-### 484. The Lead Alien Mercenary
+### 485. The Lead Alien Mercenary
 
 **Alignment:** bad · **Role:** Mercenary · **Figure:** custom
 
@@ -6038,7 +6056,7 @@ He leads the alien mercenaries, and he is skilled in every single kind of combat
 
 *Tags:* villain, mercenary, alien, combat, leader, bandolier, brother
 
-### 485. The Arms Dealer
+### 486. The Arms Dealer
 
 **Alignment:** bad · **Role:** Arms Dealer · **Figure:** custom
 
@@ -6052,7 +6070,7 @@ He will do business with a target and then have that same target assassinated - 
 
 *Tags:* villain, arms-dealer, accounting, assassination, robbery, suit
 
-### 486. The Light King
+### 487. The Light King
 
 **Alignment:** bad · **Role:** King · **Figure:** custom
 
@@ -6068,7 +6086,7 @@ The two kings are not opposite sides of a good war. They are the same problem tw
 
 *Tags:* villain, light, king, eternal-war, unprinted, faceless, collateral
 
-### 487. The Modified Arms Dealer
+### 488. The Modified Arms Dealer
 
 **Alignment:** bad · **Role:** Arms Dealer · **Figure:** custom
 
@@ -6082,7 +6100,7 @@ He used to be a poacher. What he has now is a body modification: it heals him qu
 
 *Tags:* villain, arms-dealer, poacher, body-modification, self-healing, amphibious, strength
 
-### 488. The Red Baron
+### 489. The Red Baron
 
 **Alignment:** bad · **Role:** Assassin · **Figure:** custom
 
@@ -6094,7 +6112,7 @@ He enjoys taking skulls.
 
 *Tags:* villain, assassin, shadows, trophies, spikes, for-hire
 
-### 489. The Purple Shadow
+### 490. The Purple Shadow
 
 **Alignment:** bad · **Role:** Sith · **Figure:** custom
 
@@ -6108,7 +6126,7 @@ He carries a purple lightsaber. He and the Beowulf Jedi fought constantly, and h
 
 *Tags:* villain, sith, purple-shadow, dark-arts, lightsaber, portal, shadow-dimension, killer
 
-### 490. The Martian Leader
+### 491. The Martian Leader
 
 **Alignment:** bad · **Role:** Invasion Leader · **Figure:** custom
 
@@ -6118,7 +6136,7 @@ He led an army of Martian aliens in an invasion of Lego City.
 
 *Tags:* villain, martian, alien, invasion, lego-city, bionicle, not-a-minifigure
 
-### 491. The Iron League Captain
+### 492. The Iron League Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -6130,7 +6148,7 @@ They can kill just about anybody. They do have a big price.
 
 *Tags:* villain, iron-league, bounty-hunter, captain, specialist, for-hire, expensive
 
-### 492. The Iron League Assassin
+### 493. The Iron League Assassin
 
 **Alignment:** bad · **Role:** Assassin · **Figure:** custom
 
@@ -6140,7 +6158,7 @@ Iron League. An expert in combat and a first-rate assassin, trained specifically
 
 *Tags:* villain, iron-league, assassin, underwater, space, goggles, air-hose
 
-### 493. The Iron League Rifleman
+### 494. The Iron League Rifleman
 
 **Alignment:** bad · **Role:** Rifleman · **Figure:** custom
 
@@ -6150,7 +6168,7 @@ Iron League. Their rifleman.
 
 *Tags:* villain, iron-league, rifleman, fangs, visor
 
-### 494. The Charming Bounty Hunter
+### 495. The Charming Bounty Hunter
 
 **Alignment:** bad · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -6164,7 +6182,7 @@ He loves it enough that he made a career of it. A lot of his kills are very mess
 
 *Tags:* villain, bounty-hunter, charming, sociopath, cheerful, messy
 
-### 495. The Iron League Alien
+### 496. The Iron League Alien
 
 **Alignment:** bad · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -6174,7 +6192,7 @@ Iron League.
 
 *Tags:* villain, iron-league, bounty-hunter, alien, hat, orange-eyes
 
-### 496. The Traitor Captain
+### 497. The Traitor Captain
 
 **Alignment:** bad · **Role:** Captain, Verdauf Squadron · **Figure:** custom
 
@@ -6186,7 +6204,7 @@ He put half of them aboard a ship he had rigged with explosives, meant to kill t
 
 *Tags:* villain, verdauf, captain, traitor, massacre, sabotage, clone-armor, cape
 
-### 497. General Shepherd
+### 498. General Shepherd
 
 **Alignment:** bad · **Role:** General · **Figure:** custom
 
@@ -6198,7 +6216,7 @@ He put them on a battlefield on a mission they were not meant to come back from.
 
 *Tags:* villain, general, green-rangers, betrayal, suicide-mission, command
 
-### 498. The Neon Fanatic
+### 499. The Neon Fanatic
 
 **Alignment:** bad · **Role:** Fanatic · **Figure:** custom
 
@@ -6212,7 +6230,7 @@ Hyper, violent, and completely devoted.
 
 *Tags:* villain, fanatic, quinn, neon, hard-to-kill, devoted, translucent
 
-### 499. The Hitman
+### 500. The Hitman
 
 **Alignment:** bad · **Role:** Hitman · **Figure:** custom
 
@@ -6222,7 +6240,7 @@ An expert poacher who became a hitman. Same skills, different quarry.
 
 *Tags:* villain, hitman, poacher, assassin, trophies, scar, rope
 
-### 500. Quinn's Second-in-Command
+### 501. Quinn's Second-in-Command
 
 **Alignment:** bad · **Role:** Second in Command · **Figure:** custom
 
@@ -6234,7 +6252,7 @@ Quinn's second, on the technology side. He organises the killing machines and pl
 
 *Tags:* villain, quinn, second-in-command, technology, war-machines, invasions, eyepatch
 
-### 501. The Bounty Hunter Captain
+### 502. The Bounty Hunter Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -6244,7 +6262,7 @@ A bounty hunter, and a captain of them.
 
 *Tags:* villain, bounty-hunter, captain, mechanical-arm, prosthetic, scar, neckerchief
 
-### 502. The Bionic Brother
+### 503. The Bionic Brother
 
 **Alignment:** bad · **Role:** Brawler · **Figure:** custom
 
@@ -6256,7 +6274,7 @@ Brother to the mercenary who leads the aliens. He has bionic legs and super stre
 
 *Tags:* villain, bionic, prosthetic, super-strength, hand-to-hand, alien, brother
 
-### 503. The Space Outlaw
+### 504. The Space Outlaw
 
 **Alignment:** bad · **Role:** Outlaw · **Figure:** custom
 
@@ -6268,7 +6286,7 @@ He gets himself into bar fights and duels on purpose. Not over money and not ove
 
 *Tags:* villain, outlaw, cowboy, duellist, bar-fights, cape, showman
 
-### 504. The Bionics Leader
+### 505. The Bionics Leader
 
 **Alignment:** bad · **Role:** Leader, Bionics Team · **Figure:** custom
 
@@ -6278,7 +6296,7 @@ He leads the bionics team. What they build are prosthetics that double as weapon
 
 *Tags:* villain, bionics, prosthetics, weapons, engineer, leader, new-group
 
-### 505. The Narcissist
+### 506. The Narcissist
 
 **Alignment:** bad · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -6292,7 +6310,7 @@ He reads as perfectly normal at first, and charming with it.
 
 *Tags:* villain, bounty-hunter, narcissist, vanity, charming, brother, unmarked-face
 
-### 506. The Guardsman's Partner
+### 507. The Guardsman's Partner
 
 **Alignment:** bad · **Role:** Assassin · **Figure:** custom
 
@@ -6308,7 +6326,7 @@ And the reason for all of it is money. He turned because he wanted to be filthy 
 
 *Tags:* villain, assassin, efficient, relentless, reputation, greed, turned, former-partner
 
-### 507. The Infamous Traitor
+### 508. The Infamous Traitor
 
 **Alignment:** bad · **Role:** Technician Sergeant · **Figure:** custom
 
@@ -6322,7 +6340,7 @@ He sold state secrets. He got out on a ship carrying stolen technology and weapo
 
 *Tags:* villain, traitor, technician, sergeant, quinn, state-secrets, sabotage, hacker
 
-### 508. The Demon Lord
+### 509. The Demon Lord
 
 **Alignment:** bad · **Role:** Demon Lord · **Based:** The Underworld · **Figure:** custom
 
@@ -6334,7 +6352,7 @@ What he does is raise the dead around him and fight with them. Skeletons, or peo
 
 *Tags:* villain, demon, underworld, necromancy, undead, skeletons, armour
 
-### 509. The Disc Thrower's Brother
+### 510. The Disc Thrower's Brother
 
 **Alignment:** bad · **Role:** Disc Thrower · **Figure:** custom
 
@@ -6348,7 +6366,7 @@ He betrayed the entire Space Militia and went over to the other side. Then he we
 
 *Tags:* villain, traitor, space-militia, disc, brother, recruiter
 
-### 510. Johnny Plasma
+### 511. Johnny Plasma
 
 **Alignment:** bad · **Role:** Knight · **Figure:** custom
 
@@ -6364,7 +6382,7 @@ Smiling, golden, and entirely hollow.
 
 *Tags:* villain, knight, nexo, famous, narcissist, public-face, turncoat, gold
 
-### 511. The Fleet General
+### 512. The Fleet General
 
 **Alignment:** bad · **Role:** Fleet General · **Figure:** custom
 
@@ -6378,7 +6396,7 @@ The way he did it was to send a small fleet out to be surrounded and taken. Its 
 
 *Tags:* villain, general, fleet, defector, traitor, quinn, dress-uniform, cape
 
-### 512. Wen
+### 513. Wen
 
 **Alignment:** bad · **Role:** Mentor · **Figure:** custom
 
@@ -6394,7 +6412,7 @@ Then he took Quinn on.
 
 *Tags:* villain, mentor, quinn, dark-arts, crystals, life-extension, disease, explorer, old
 
-### 513. The Soldier in the Brown Helmet
+### 514. The Soldier in the Brown Helmet
 
 **Alignment:** bad · **Role:** Soldier · **Figure:** custom
 
@@ -6404,7 +6422,7 @@ No story given for him yet. He arrived in the villain batch and is filed there u
 
 *Tags:* villain, soldier, helmet, no-story-yet, needs-a-description
 
-### 514. The Commissioner's Apprentice
+### 515. The Commissioner's Apprentice
 
 **Alignment:** bad · **Role:** Apprentice · **Based:** Lego City · **Figure:** custom
 
@@ -6418,7 +6436,7 @@ When the great betrayal came he was standing beside his commander. He shot him t
 
 *Tags:* villain, traitor, apprentice, police, lego-city, great-betrayal, murder, skull
 
-### 515. Long Arm Johnson
+### 516. Long Arm Johnson
 
 **Alignment:** bad · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -6428,7 +6446,7 @@ An alien bounty hunter, and he has long arms.
 
 *Tags:* villain, bounty-hunter, alien, long-arms, fangs, snout
 
-### 516. The Butcher
+### 517. The Butcher
 
 **Alignment:** bad · **Role:** Doctor · **Figure:** custom
 
@@ -6444,7 +6462,7 @@ The rest of his work is on the living. He builds torture devices, and he uses th
 
 *Tags:* villain, doctor, butcher, reanimation, corpses, torture, interrogation, surgery
 
-### 517. The Dictator
+### 518. The Dictator
 
 **Alignment:** bad · **Role:** Dictator · **Figure:** custom
 
@@ -6458,7 +6476,7 @@ What he wants is the rest of them. He aligned himself with Quinn specifically so
 
 *Tags:* villain, dictator, fascist, planet, outer-rim, conquest, quinn, uniform
 
-### 518. The Dapper Bounty Hunter — Hat off, hat on
+### 519. The Dapper Bounty Hunter — Hat off, hat on
 
 **Alignment:** bad · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -6470,7 +6488,7 @@ He does not have an ethical bone anywhere in him. It is not that he is cruel: he
 
 *Tags:* villain, bounty-hunter, alien, well-dressed, friendly, amoral, fedora
 
-### 519. The Defector Commander
+### 520. The Defector Commander
 
 **Alignment:** bad · **Role:** Battalion Commander · **Figure:** custom
 
@@ -6484,7 +6502,7 @@ He walked his own troops into a chamber and had it gassed. Then he had one of hi
 
 *Tags:* villain, traitor, commander, battalion, gas, massacre, looting, quinn, cape
 
-### 520. The Propagandist
+### 521. The Propagandist
 
 **Alignment:** bad · **Role:** Propagandist · **Figure:** custom
 
@@ -6496,7 +6514,7 @@ He plans the shots and writes the stories. What he puts out is misleading inform
 
 *Tags:* villain, propaganda, media, misinformation, press-pass, royal-system
 
-### 521. The Propaganda Director
+### 522. The Propaganda Director
 
 **Alignment:** bad · **Role:** Propaganda Director · **Figure:** custom
 
@@ -6508,7 +6526,7 @@ What moved him was a better paycheck and a bigger audience. That is the entire r
 
 *Tags:* villain, propaganda, director, media, defector, tv-crew, greed, fame
 
-### 522. The PA
+### 523. The PA
 
 **Alignment:** bad · **Role:** Assistant · **Figure:** custom
 
@@ -6520,7 +6538,7 @@ The production assistant. He works to the Propagandist and does what the job tak
 
 *Tags:* villain, propaganda, assistant, production, media, lanyard
 
-### 523. The TV Camera Woman
+### 524. The TV Camera Woman
 
 **Alignment:** bad · **Role:** Camera Operator · **Figure:** custom
 
@@ -6530,7 +6548,7 @@ She runs the camera. She came over from the Prince's TV people with the rest of 
 
 *Tags:* villain, propaganda, camera, media, tv-crew, defector, woman
 
-### 524. The Sith Lord
+### 525. The Sith Lord
 
 **Alignment:** bad · **Role:** Sith Lord · **Figure:** custom
 
@@ -6544,7 +6562,7 @@ He aligned himself with Quinn for a specific reason: to spread the dark side as 
 
 *Tags:* villain, sith, dark-side, religion, knowledge, quinn, cape
 
-### 525. The First Man in Space
+### 526. The First Man in Space
 
 **Alignment:** bad · **Role:** Astronaut · **Figure:** custom
 
@@ -6558,7 +6576,7 @@ Quinn bought him. He is a puppet now, working with the propagandist, and the arr
 
 *Tags:* villain, astronaut, famous, first-in-space, puppet, bought, propaganda, vintage
 
-### 526. The Evil Doctor
+### 527. The Evil Doctor
 
 **Alignment:** bad · **Role:** Doctor · **Figure:** custom
 
@@ -6572,7 +6590,7 @@ What came out of that arrangement is mind control - a way of taking over a body.
 
 *Tags:* villain, doctor, experiments, mind-control, theory, planner, butcher
 
-### 527. The Pilot's Apprentice — Helmet on, helmet off
+### 528. The Pilot's Apprentice — Helmet on, helmet off
 
 **Alignment:** bad · **Role:** Pilot · **Figure:** custom
 
@@ -6586,7 +6604,7 @@ So he turned on him. He killed him in a dogfight, and he did it by shooting him 
 
 *Tags:* villain, pilot, apprentice, betrayal, murder, dogfight, adu, helmet
 
-### 528. The Rocket Saboteur
+### 529. The Rocket Saboteur
 
 **Alignment:** bad · **Role:** Space Command · **Figure:** custom
 
@@ -6600,7 +6618,7 @@ Then he switched sides and stayed exactly where he was. What he does now is sabo
 
 *Tags:* villain, saboteur, space-programme, royal-space-academy, insider, rockets, defector
 
-### 529. The Knight with the Real Sword
+### 530. The Knight with the Real Sword
 
 **Alignment:** bad · **Role:** Knight · **Based:** The Medieval Era · **Figure:** custom
 
@@ -6614,7 +6632,7 @@ Somebody granted him a sword that could kill for real. He played it as though he
 
 *Tags:* villain, knight, medieval, real-death, sword, deception, murder
 
-### 530. The Swordsmith Knight
+### 531. The Swordsmith Knight
 
 **Alignment:** bad · **Role:** Swordsman · **Based:** The Medieval Era · **Figure:** custom
 
@@ -6628,7 +6646,7 @@ Then the two of them used it. They went into fights in a place where losing cost
 
 *Tags:* villain, knight, medieval, swordsman, forge, real-death, deception
 
-### 531. The Discarded Militarist
+### 532. The Discarded Militarist
 
 **Alignment:** bad · **Role:** Discarded · **Figure:** custom
 
@@ -6640,7 +6658,7 @@ What he wants is an army of his own, and to take the Royals down with it. The po
 
 *Tags:* villain, discarded, militarist, coup, refugee, hand-painted, kitbash
 
-### 532. The Shadow Sorcerer
+### 533. The Shadow Sorcerer
 
 **Alignment:** bad · **Role:** Chaplain · **Based:** The Shadow Dimension · **Figure:** custom
 
@@ -6652,7 +6670,7 @@ He was a fanatic, and what he preached was the invasion.
 
 *Tags:* villain, shadow, chaplain, religion, fanatic, invasion, faceless, unprinted
 
-### 533. The Shadow Team Commander
+### 534. The Shadow Team Commander
 
 **Alignment:** bad · **Role:** Commander · **Figure:** custom
 
@@ -6666,7 +6684,7 @@ Under his leadership every one of them defected to Quinn.
 
 *Tags:* villain, commander, shadow-team, defector, traitor, quinn, royal-forces
 
-### 534. The Evil Grenadier
+### 535. The Evil Grenadier
 
 **Alignment:** bad · **Role:** Grenadier · **Figure:** custom
 
@@ -6676,7 +6694,7 @@ A grenadier, on the wrong side of it.
 
 *Tags:* villain, grenadier, soldier, tactical-vest, black
 
-### 535. The Famous Poacher
+### 536. The Famous Poacher
 
 **Alignment:** bad · **Role:** Smuggler · **Figure:** custom
 
@@ -6686,7 +6704,7 @@ Famous for it - a poacher and a smuggler both, and he worked with the arms deale
 
 *Tags:* villain, poacher, smuggler, famous, trophies, arms-trade
 
-### 536. The Looter
+### 537. The Looter
 
 **Alignment:** bad · **Role:** Soldier · **Figure:** custom
 
@@ -6700,7 +6718,7 @@ Then the two of them left for Quinn's super base with the lot.
 
 *Tags:* villain, looter, soldier, massacre, loyal, quinn, pauldron
 
-### 537. The French Hitman
+### 538. The French Hitman
 
 **Alignment:** bad · **Role:** Hitman · **Figure:** custom
 
@@ -6710,7 +6728,7 @@ A hitman, and he has a French accent.
 
 *Tags:* villain, hitman, french, suit, moustache, assassin
 
-### 538. The Blue Demigod
+### 539. The Blue Demigod
 
 **Alignment:** bad · **Nature:** Demigod · **Figure:** custom
 
@@ -6722,7 +6740,7 @@ He came through a portal, uninvited, and brought a blue army with him. What he w
 
 *Tags:* villain, demigod, blue-people, portal-masters, dimensions, third-party, shadow-war, unprinted, faceless
 
-### 539. The Evil Knight
+### 540. The Evil Knight
 
 **Alignment:** bad · **Role:** Knight · **Based:** The Medieval Era · **Figure:** custom
 
@@ -6736,7 +6754,7 @@ Swords, now - more than one of them was made.
 
 *Tags:* villain, knight, medieval, smith, real-death, swords, translucent
 
-### 540. The Juggernaut
+### 541. The Juggernaut
 
 **Alignment:** bad · **Role:** Heavy · **Figure:** custom
 
@@ -6746,7 +6764,7 @@ He carries a minigun and he goes into combat with it. That is the whole of him: 
 
 *Tags:* villain, heavy, minigun, combat, killer
 
-### 541. The Lord of Wrath
+### 542. The Lord of Wrath
 
 **Alignment:** bad · **Role:** Elder · **Based:** The Shadow Dimension · **Figure:** custom
 
@@ -6760,7 +6778,7 @@ Each elder holds a title rather than a name. His is wrath.
 
 *Tags:* villain, shadow, elder, occult, secrets, shadow-room, wrath, beard
 
-### 542. The Lord of Darkness
+### 543. The Lord of Darkness
 
 **Alignment:** bad · **Role:** Elder · **Based:** The Shadow Dimension · **Figure:** custom
 
@@ -6774,7 +6792,7 @@ His title is darkness.
 
 *Tags:* villain, shadow, elder, occult, secrets, shadow-room, darkness, hood, scarred
 
-### 543. The Missile
+### 544. The Missile
 
 **Alignment:** bad · **Role:** Heavy · **Figure:** custom
 
@@ -6786,7 +6804,7 @@ He is also a weapon himself. His body cannot be broken, so he uses it: he launch
 
 *Tags:* villain, robot, sentient, heavy, indestructible, missile, ramming
 
-### 544. The Knock-off Captain
+### 545. The Knock-off Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -6800,7 +6818,7 @@ He is the Defector's opposite number. Same species, same rank, same uniform down
 
 *Tags:* villain, knock-off, captain, military, bandoliers, not-lego, counterpart
 
-### 545. The War Secretary
+### 546. The War Secretary
 
 **Alignment:** bad · **Role:** Secretary of War · **Figure:** custom
 
@@ -6814,7 +6832,7 @@ The war that man wants is this man's department.
 
 *Tags:* villain, secretary-of-war, dictator, cabinet, officer, uniform, outer-rim
 
-### 546. The Infamous Space Pirate
+### 547. The Infamous Space Pirate
 
 **Alignment:** bad · **Role:** Pirate · **Figure:** custom
 
@@ -6824,7 +6842,7 @@ A space pirate, and an infamous one. The name travels ahead of him.
 
 *Tags:* villain, pirate, space-pirate, infamous, beanie, harness
 
-### 547. The Incompetent Bounty Hunter
+### 548. The Incompetent Bounty Hunter
 
 **Alignment:** bad · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -6834,7 +6852,7 @@ A bounty hunter, more or less incompetent at it.
 
 *Tags:* villain, bounty-hunter, incompetent, antenna, helmet, comic
 
-### 548. The Alien Militia Commander
+### 549. The Alien Militia Commander
 
 **Alignment:** bad · **Role:** School Commander · **Figure:** custom
 
@@ -6844,7 +6862,7 @@ A captain of the alien militia, and the commander of its school. The people who 
 
 *Tags:* villain, alien, militia, commander, captain, school, training, skull
 
-### 549. The Pharaoh
+### 550. The Pharaoh
 
 **Alignment:** bad · **Role:** Pharaoh · **Figure:** custom
 
@@ -6854,7 +6872,7 @@ An ancient pharaoh. Raid her tomb and she puts the curse on you - anyone who goe
 
 *Tags:* villain, pharaoh, ancient, curse, tomb, mummy, egypt, queen, woman
 
-### 550. The White Killer Bot
+### 551. The White Killer Bot
 
 **Alignment:** bad · **Role:** Killer Bot · **Figure:** custom
 
@@ -6864,7 +6882,7 @@ A killer bot. Built to do it, and that is the whole job.
 
 *Tags:* villain, killer-bot, robot, machine, green-optics, white
 
-### 551. The Jetpack Sniper
+### 552. The Jetpack Sniper
 
 **Alignment:** bad · **Role:** Sniper · **Figure:** custom
 
@@ -6874,7 +6892,7 @@ A sniper who works from a jetpack. He takes the shot from wherever the pack will
 
 *Tags:* villain, sniper, jetpack, marksman, masked, wrapped
 
-### 552. The Armoured Killer Bot
+### 553. The Armoured Killer Bot
 
 **Alignment:** bad · **Role:** Killer Bot · **Figure:** custom
 
@@ -6884,7 +6902,7 @@ The other killer bot. Same work, built heavier.
 
 *Tags:* villain, killer-bot, robot, machine, armour, gold-visor, spiked-helm
 
-### 553. The Gangster Financier
+### 554. The Gangster Financier
 
 **Alignment:** bad · **Role:** Financier · **Figure:** custom
 
@@ -6894,7 +6912,7 @@ A gangster, and the money behind one. He finances the work rather than doing it.
 
 *Tags:* villain, gangster, financier, money, crime, pinstripe, fedora
 
-### 554. The Shadow Archer
+### 555. The Shadow Archer
 
 **Alignment:** bad · **Role:** Archer · **Figure:** custom
 
@@ -6904,7 +6922,7 @@ The archer of the League of Shadows.
 
 *Tags:* villain, archer, league-of-shadows, cult, skull-faceplate, quiver, chainmail
 
-### 555. The Master of Tradition
+### 556. The Master of Tradition
 
 **Alignment:** bad · **Role:** Master of Tradition · **Figure:** custom
 
@@ -6914,7 +6932,7 @@ One of the masters of the League of Shadows - the cult. His discipline is tradit
 
 *Tags:* villain, league-of-shadows, cult, master, tradition, eyepatch, robe
 
-### 556. The Master of the Dark Psyche
+### 557. The Master of the Dark Psyche
 
 **Alignment:** bad · **Role:** Master of the Dark Psyche · **Figure:** custom
 
@@ -6924,7 +6942,7 @@ Master of the dark psyche. The mind is his discipline, and the part of it the Le
 
 *Tags:* villain, league-of-shadows, cult, master, psyche, mind, turban, poncho
 
-### 557. The Evil Financier
+### 558. The Evil Financier
 
 **Alignment:** bad · **Role:** Financier · **Figure:** custom
 
@@ -6934,7 +6952,7 @@ An evil financier.
 
 *Tags:* villain, financier, money, suit, fedora, moustache
 
-### 558. The Master of Combat
+### 559. The Master of Combat
 
 **Alignment:** bad · **Role:** Master of Combat · **Figure:** custom
 
@@ -6944,7 +6962,7 @@ Master of combat for the League of Shadows. The fighting is his discipline, and 
 
 *Tags:* villain, league-of-shadows, cult, master, combat, gold-mask, cape, armour
 
-### 559. The Ninja Assassin Pirate
+### 560. The Ninja Assassin Pirate
 
 **Alignment:** bad · **Role:** Assassin · **Figure:** custom
 
@@ -6954,7 +6972,7 @@ A ninja, an assassin and a pirate. All three at once.
 
 *Tags:* villain, ninja, assassin, pirate, goatee, sash
 
-### 560. Savage Opress
+### 561. Savage Opress
 
 **Alignment:** bad · **Role:** Sith · **Figure:** branded
 
@@ -6964,7 +6982,7 @@ Savage Opress.
 
 *Tags:* villain, sith, star-wars, zabrak, horns, branded, first-branded-villain
 
-### 561. The Master of Stealing and Looting
+### 562. The Master of Stealing and Looting
 
 **Alignment:** bad · **Role:** Master of Stealing and Looting · **Figure:** custom
 
@@ -6974,7 +6992,7 @@ Master of stealing and looting for the League of Shadows. Taking things is the d
 
 *Tags:* villain, league-of-shadows, cult, master, stealing, looting, hood, gilded
 
-### 562. The Master of Dark Wisdom
+### 563. The Master of Dark Wisdom
 
 **Alignment:** bad · **Role:** Master of Dark Wisdom · **Figure:** custom
 
@@ -6984,7 +7002,7 @@ Master of dark wisdom. Knowing is his discipline - what the League knows, and wh
 
 *Tags:* villain, league-of-shadows, cult, master, wisdom, knowledge, monocle, moustache
 
-### 563. The Master of Disguise
+### 564. The Master of Disguise
 
 **Alignment:** bad · **Role:** Master of Disguise · **Figure:** custom
 
@@ -6994,7 +7012,7 @@ Master of disguise. Being someone else is the discipline.
 
 *Tags:* villain, league-of-shadows, cult, master, disguise, blank-face, hood
 
-### 564. The Master of Apprentices
+### 565. The Master of Apprentices
 
 **Alignment:** bad · **Role:** Master of Apprentices · **Figure:** custom
 
@@ -7004,7 +7022,7 @@ Master of apprentices for the League of Shadows. The people coming up are his di
 
 *Tags:* villain, league-of-shadows, cult, master, apprentices, training, hood
 
-### 565. The Current
+### 566. The Current
 
 **Alignment:** bad · **Role:** Power Source · **Figure:** custom
 
@@ -7014,7 +7032,7 @@ An entity made of electricity. He is run into weapons to power them, and he figh
 
 *Tags:* villain, electricity, energy, entity, power-source, combat, armour
 
-### 566. The Masked Space Pirate
+### 567. The Masked Space Pirate
 
 **Alignment:** bad · **Role:** Pirate · **Figure:** custom
 
@@ -7024,7 +7042,7 @@ A space pirate.
 
 *Tags:* villain, pirate, space-pirate, mask, breathing-mask, hat
 
-### 567. Zuko
+### 568. Zuko
 
 **Alignment:** bad · **Role:** Prince · **Figure:** branded
 
@@ -7034,7 +7052,7 @@ Prince Zuko of the Fire Nation.
 
 *Tags:* villain, prince, fire-nation, avatar, branded, scar, redemption
 
-### 568. The Second Gangster Financier
+### 569. The Second Gangster Financier
 
 **Alignment:** bad · **Role:** Financier · **Figure:** custom
 
@@ -7044,7 +7062,7 @@ A gangster financier.
 
 *Tags:* villain, gangster, financier, money, crime, pinstripe, fedora
 
-### 569. The Black Knight
+### 570. The Black Knight
 
 **Alignment:** bad · **Role:** Knight · **Figure:** custom
 
@@ -7054,7 +7072,7 @@ The Black Knight. Super evil, and that is the whole of what is said about him so
 
 *Tags:* villain, knight, black-knight, skull, ribcage, medieval, armour
 
-### 570. The Cybernetic Ninja
+### 571. The Cybernetic Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -7064,7 +7082,7 @@ A ninja, rebuilt. Half his head is machine.
 
 *Tags:* villain, ninja, cybernetic, implant, rebuilt, armour
 
-### 571. The Maker
+### 572. The Maker
 
 **Alignment:** bad · **Role:** Inventor · **Figure:** custom
 
@@ -7074,7 +7092,7 @@ A cross between Tony Stark and Ultron - the man who builds the machines, and the
 
 *Tags:* villain, inventor, machine, cybernetic, tech, stark, ultron
 
-### 572. The Evil Infantry Captain
+### 573. The Evil Infantry Captain
 
 **Alignment:** bad · **Role:** Infantry Captain · **Figure:** custom
 
@@ -7084,7 +7102,7 @@ A captain of infantry, on the wrong side of it.
 
 *Tags:* villain, captain, infantry, skull-helmet, red-visor, armour
 
-### 573. The Insect Captain
+### 574. The Insect Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -7094,7 +7112,7 @@ Captain of the evil insects, and the one in charge of them.
 
 *Tags:* villain, insect, captain, hive, mandibles, bio-tech, green
 
-### 574. The Silent Soldier
+### 575. The Silent Soldier
 
 **Alignment:** bad · **Role:** Assassin · **Figure:** custom
 
@@ -7104,7 +7122,7 @@ They call him the Silent Soldier. An elite assassin.
 
 *Tags:* villain, assassin, elite, silent, faceless, insect-mark, visor
 
-### 575. The Brain Parasites
+### 576. The Brain Parasites
 
 **Alignment:** bad · **Role:** Parasite · **Figure:** custom
 
@@ -7114,7 +7132,7 @@ Brain-eating parasites. They fasten onto a person's head and feed on what is ins
 
 *Tags:* villain, parasite, brain-eating, creature, pair, head-mounted, green
 
-### 576. The Retired General
+### 577. The Retired General
 
 **Alignment:** bad · **Role:** General · **Figure:** custom
 
@@ -7126,7 +7144,7 @@ The quiet life is the cover. The work is still the work.
 
 *Tags:* villain, general, retired, cover, raids, planner, civilian-dress
 
-### 577. The Clone Traitor
+### 578. The Clone Traitor
 
 **Alignment:** bad · **Role:** Clone Trooper · **Figure:** branded
 
@@ -7136,7 +7154,7 @@ A clone trooper who betrayed the rest of the clones.
 
 *Tags:* villain, clone, clone-trooper, traitor, star-wars, branded, phase-1
 
-### 578. The Sith Lord's Second
+### 579. The Sith Lord's Second
 
 **Alignment:** bad · **Role:** Second in Command · **Figure:** custom
 
@@ -7150,7 +7168,7 @@ If that doctrine is the work, this is the man who runs it under him.
 
 *Tags:* villain, second-in-command, sith, dark-side, religion, elder, robes
 
-### 579. Jabba the Hutt
+### 580. Jabba the Hutt
 
 **Alignment:** bad · **Role:** Crime Lord · **Figure:** branded
 
@@ -7160,7 +7178,7 @@ Literally Jabba the Hutt.
 
 *Tags:* villain, crime-lord, hutt, star-wars, branded, not-a-minifigure, large
 
-### 580. The Pirate Fleet Commander
+### 581. The Pirate Fleet Commander
 
 **Alignment:** bad · **Role:** Pirate Fleet Commander · **Figure:** custom
 
@@ -7170,7 +7188,7 @@ Commander of the pirate fleet, and the one in charge of combat. The fighting is 
 
 *Tags:* villain, pirate, fleet-commander, combat, bandolier, holster
 
-### 581. The Orc Queen
+### 582. The Orc Queen
 
 **Alignment:** bad · **Role:** Queen · **Figure:** custom
 
@@ -7180,7 +7198,7 @@ Queen of the orcs.
 
 *Tags:* villain, orc, queen, woman, ruler, lion-headdress, cape
 
-### 582. The Atlantis Traitor
+### 583. The Atlantis Traitor
 
 **Alignment:** bad · **Role:** Diver · **Figure:** custom
 
@@ -7190,7 +7208,7 @@ An Atlantis diver who turned.
 
 *Tags:* villain, diver, atlantis, traitor, dive-rig, trident
 
-### 583. The False Kai
+### 584. The False Kai
 
 **Alignment:** bad · **Role:** Infiltrator · **Figure:** branded
 
@@ -7202,7 +7220,7 @@ Somebody else, wearing Kai. He went undercover as the Ninjago ninja and was take
 
 *Tags:* villain, infiltrator, undercover, disguise, ninjago, impostor, branded
 
-### 584. The Suit Thief
+### 585. The Suit Thief
 
 **Alignment:** bad · **Role:** Outlaw · **Figure:** custom
 
@@ -7214,7 +7232,7 @@ What he is now is a space cowboy, and what he likes is looting.
 
 *Tags:* villain, outlaw, space-cowboy, looter, classic-space, stolen-suit, murder
 
-### 585. The Second-Deadliest Poacher
+### 586. The Second-Deadliest Poacher
 
 **Alignment:** bad · **Role:** Assassin · **Figure:** custom
 
@@ -7224,7 +7242,7 @@ The second most dangerous poacher in the world, which in his case means a suprem
 
 *Tags:* villain, poacher, assassin, tracker, second-deadliest, teeth-necklace
 
-### 586. The Astronaut Miner
+### 587. The Astronaut Miner
 
 **Alignment:** bad · **Role:** Miner · **Figure:** custom
 
@@ -7234,7 +7252,7 @@ A low-ranking astronaut miner, and on the wrong side of it. Nobody important, an
 
 *Tags:* villain, miner, astronaut, low-rank, spacesuit, air-tank
 
-### 587. The Television
+### 588. The Television
 
 **Alignment:** bad · **Role:** Robot · **Figure:** custom
 
@@ -7244,7 +7262,7 @@ A portable television, and sentient. It walks about on its own.
 
 *Tags:* villain, robot, sentient, television, broadcast, aerial, no-arms
 
-### 588. The Jetpack Assassin
+### 589. The Jetpack Assassin
 
 **Alignment:** bad · **Role:** Assassin · **Figure:** custom
 
@@ -7254,7 +7272,7 @@ An assassin who works from a jetpack.
 
 *Tags:* villain, assassin, jetpack, goggles, charges, bandolier
 
-### 589. The Successful Replica
+### 590. The Successful Replica
 
 **Alignment:** bad · **Role:** Replica · **Figure:** custom
 
@@ -7268,7 +7286,7 @@ They had been copying the DNA into robot technology for a while, trying to build
 
 *Tags:* villain, replica, robot, sentient, obedient, demigod-copy, circuitry
 
-### 590. The Domestic Security Captain
+### 591. The Domestic Security Captain
 
 **Alignment:** bad · **Role:** Domestic Security Captain · **Figure:** custom
 
@@ -7278,7 +7296,7 @@ Captain of domestic security.
 
 *Tags:* villain, security, captain, domestic, goggles, circuitry, mechanical-legs
 
-### 591. The Space Biker Leader
+### 592. The Space Biker Leader
 
 **Alignment:** bad · **Role:** Leader, Space Bikers · **Figure:** custom
 
@@ -7288,7 +7306,7 @@ He leads the space bikers - a gang of them, out there on the roads between place
 
 *Tags:* villain, space-biker, gang, leader, alien, roundel
 
-### 592. The Slimed Biker
+### 593. The Slimed Biker
 
 **Alignment:** bad · **Role:** Space Biker · **Figure:** custom
 
@@ -7298,7 +7316,7 @@ One of the space bikers.
 
 *Tags:* villain, space-biker, gang, alien, slime, flaming-skull
 
-### 593. The Orange Biker
+### 594. The Orange Biker
 
 **Alignment:** bad · **Role:** Space Biker · **Figure:** custom
 
@@ -7308,7 +7326,7 @@ One of the space bikers.
 
 *Tags:* villain, space-biker, gang, alien, orange, armour-plate
 
-### 594. The Hyper-Violent Alien
+### 595. The Hyper-Violent Alien
 
 **Alignment:** bad · **Role:** Soldier · **Figure:** custom
 
@@ -7318,7 +7336,7 @@ An alien soldier, and hyper violent with it. That is what is said about him and 
 
 *Tags:* villain, alien, soldier, violent, maw, flame, green-hair
 
-### 595. The Brawling Alien
+### 596. The Brawling Alien
 
 **Alignment:** bad · **Role:** Soldier · **Figure:** custom
 
@@ -7328,7 +7346,7 @@ Dumb, and good at his job anyway. What he is good at is hand-to-hand.
 
 *Tags:* villain, alien, soldier, hand-to-hand, brawler, scales, flasks
 
-### 596. The Alien Medic
+### 597. The Alien Medic
 
 **Alignment:** bad · **Role:** Medic · **Figure:** custom
 
@@ -7338,7 +7356,7 @@ The medic of the alien soldiers, and an evil one.
 
 *Tags:* villain, alien, medic, stalked-eyes, tongue, moulded-head
 
-### 597. The Alien Gunslinger
+### 598. The Alien Gunslinger
 
 **Alignment:** bad · **Role:** Gunslinger · **Figure:** custom
 
@@ -7348,7 +7366,7 @@ The infantry gunslinger of the alien soldiers.
 
 *Tags:* villain, alien, gunslinger, infantry, leather-jacket, studs, fangs
 
-### 598. The Alien Technician
+### 599. The Alien Technician
 
 **Alignment:** bad · **Role:** Technician · **Figure:** custom
 
@@ -7360,7 +7378,7 @@ The technician of the alien soldiers.
 
 *Tags:* villain, alien, technician, snake-head, quills, unprinted
 
-### 599. The Occupier
+### 600. The Occupier
 
 **Alignment:** bad · **Role:** Soldier · **Figure:** custom
 
@@ -7374,7 +7392,7 @@ He and the alien technician grew up together, and they are friends.
 
 *Tags:* villain, alien, soldier, occupation, friendship, moulded, skull-head
 
-### 600. The Cobra Assassin
+### 601. The Cobra Assassin
 
 **Alignment:** bad · **Role:** Assassin · **Figure:** custom
 
@@ -7384,7 +7402,7 @@ A silent assassin.
 
 *Tags:* villain, alien, assassin, silent, cobra, fangs, goon
 
-### 601. The Rhino Heavy
+### 602. The Rhino Heavy
 
 **Alignment:** bad · **Role:** Heavy · **Figure:** custom
 
@@ -7394,7 +7412,7 @@ The heavy of the goons.
 
 *Tags:* villain, alien, heavy, rhino, horns, cape, goon
 
-### 602. The Goon in the Beanie
+### 603. The Goon in the Beanie
 
 **Alignment:** bad · **Role:** Goon · **Figure:** custom
 
@@ -7404,7 +7422,7 @@ One of the goons. Small arms.
 
 *Tags:* villain, alien, goon, small-arms, snake, beanie, sash
 
-### 603. The Scarred Goon
+### 604. The Scarred Goon
 
 **Alignment:** bad · **Role:** Goon · **Figure:** custom
 
@@ -7414,7 +7432,7 @@ One of the goons. Small arms.
 
 *Tags:* villain, alien, goon, small-arms, scarred, helm, chain
 
-### 604. The Wolfman
+### 605. The Wolfman
 
 **Alignment:** bad · **Role:** Goon · **Figure:** custom
 
@@ -7424,7 +7442,7 @@ Another one on small arms. What he brings on top of that is the nose - he can sm
 
 *Tags:* villain, wolfman, goon, small-arms, tracker, scent, scar
 
-### 605. The Bionic Alien
+### 606. The Bionic Alien
 
 **Alignment:** bad · **Role:** Soldier · **Figure:** custom
 
@@ -7434,7 +7452,7 @@ His legs are not his own. What they give him is durability and speed - he takes 
 
 *Tags:* villain, alien, bionic, prosthetic, durability, sprint, mechanical-legs
 
-### 606. Deus Pater
+### 607. Deus Pater
 
 **Alignment:** bad · **Nature:** Cosmic Deity · **Figure:** custom
 
@@ -7446,7 +7464,7 @@ His soul is trapped in the statue. He is not powerless: the statue is enormously
 
 *Tags:* villain, god, deity, statue, trapped, sky-father, gold, wise
 
-### 607. The Space Trucker
+### 608. The Space Trucker
 
 **Alignment:** bad · **Role:** Pirate · **Figure:** custom
 
@@ -7456,7 +7474,7 @@ A space trucker, and a pirate with it. He hauls, and he takes.
 
 *Tags:* villain, pirate, trucker, hauler, breathing-mask, cap, beaver
 
-### 608. The Financier in the Green Tie
+### 609. The Financier in the Green Tie
 
 **Alignment:** bad · **Role:** Financier · **Figure:** custom
 
@@ -7466,7 +7484,7 @@ Another financier.
 
 *Tags:* villain, financier, money, suit, green-tie, no-hat
 
-### 609. The Financier in the Cravat
+### 610. The Financier in the Cravat
 
 **Alignment:** bad · **Role:** Financier · **Figure:** custom
 
@@ -7476,7 +7494,7 @@ Another evil financier.
 
 *Tags:* villain, financier, money, cravat, watch-chain, formal
 
-### 610. The Transport Director
+### 611. The Transport Director
 
 **Alignment:** bad · **Role:** Director, Royal Transport Authority · **Figure:** custom
 
@@ -7490,7 +7508,7 @@ The Mad Ticket Man was under him, and he betrayed him.
 
 *Tags:* villain, transport, director, railway, defector, betrayal, uniform
 
-### 611. The Dark Side Enforcer
+### 612. The Dark Side Enforcer
 
 **Alignment:** bad · **Role:** Enforcer · **Figure:** custom
 
@@ -7500,7 +7518,7 @@ The enforcer of the dark side.
 
 *Tags:* villain, enforcer, dark-side, faceless, visor, badge, star
 
-### 612. The Robotic Samurai
+### 613. The Robotic Samurai
 
 **Alignment:** bad · **Role:** Samurai · **Figure:** custom
 
@@ -7510,7 +7528,7 @@ A samurai, and a machine.
 
 *Tags:* villain, samurai, robot, machine, circuitry, horned-helm
 
-### 613. The Evil Pilot
+### 614. The Evil Pilot
 
 **Alignment:** bad · **Role:** Pilot · **Figure:** custom
 
@@ -7520,7 +7538,7 @@ An evil pilot.
 
 *Tags:* villain, pilot, racing-suit, mirrored-visor, orange
 
-### 614. The Armoury Traitor
+### 615. The Armoury Traitor
 
 **Alignment:** bad · **Role:** Armorer · **Figure:** custom
 
@@ -7530,7 +7548,7 @@ The traitor of the armoury. He moved as many guns, weapons and explosives out of
 
 *Tags:* villain, armoury, armorer, traitor, weapons, explosives, theft
 
-### 615. The Robot Builder
+### 616. The Robot Builder
 
 **Alignment:** bad · **Role:** Robot Builder · **Figure:** custom
 
@@ -7540,7 +7558,7 @@ A robotic soldier who builds robots.
 
 *Tags:* villain, robot, machine, builder, manufacture, lens-eye, visor
 
-### 616. The Former Dive Captain
+### 617. The Former Dive Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -7552,7 +7570,7 @@ He was the captain of the Atlantis dive team before he switched sides.
 
 *Tags:* villain, diver, atlantis, captain, defector, trident, dome-helmet
 
-### 617. The Gladiator
+### 618. The Gladiator
 
 **Alignment:** bad · **Role:** Gladiator · **Figure:** custom
 
@@ -7562,7 +7580,7 @@ A gladiator, and a warrior.
 
 *Tags:* villain, gladiator, warrior, bronze-helm, grille, axe, arena
 
-### 618. The Infantry Captain in Grey
+### 619. The Infantry Captain in Grey
 
 **Alignment:** bad · **Role:** Infantry Captain · **Figure:** custom
 
@@ -7572,7 +7590,7 @@ An evil infantry captain.
 
 *Tags:* villain, captain, infantry, visor, plating, wiz
 
-### 619. The Evil Bowman
+### 620. The Evil Bowman
 
 **Alignment:** bad · **Role:** Archer · **Figure:** custom
 
@@ -7582,7 +7600,7 @@ The bowman of the evil knights.
 
 *Tags:* villain, knight, archer, bowman, kettle-helm, lion, medieval
 
-### 620. The Clubman
+### 621. The Clubman
 
 **Alignment:** bad · **Role:** Clubman · **Figure:** custom
 
@@ -7592,7 +7610,7 @@ The club man of the evil knights.
 
 *Tags:* villain, knight, clubman, chainmail, coif, stubble, medieval
 
-### 621. The Evil Cavalryman
+### 622. The Evil Cavalryman
 
 **Alignment:** bad · **Role:** Cavalry · **Figure:** custom
 
@@ -7602,7 +7620,7 @@ The cavalry of the evil knights.
 
 *Tags:* villain, knight, cavalry, dragon, eyepatch, scar, medieval
 
-### 622. The Evil Swordsman
+### 623. The Evil Swordsman
 
 **Alignment:** bad · **Role:** Swordsman · **Figure:** custom
 
@@ -7612,7 +7630,7 @@ The swordsman of the evil knights.
 
 *Tags:* villain, knight, swordsman, dragon, studded, moustache, medieval
 
-### 623. The Yellow Super Swordsman
+### 624. The Yellow Super Swordsman
 
 **Alignment:** bad · **Role:** Swordsman · **Figure:** custom
 
@@ -7622,7 +7640,7 @@ The best swordsman the evil knights have.
 
 *Tags:* villain, knight, swordsman, elite, great-helm, plume, quartered
 
-### 624. The Armoured Space Pirate
+### 625. The Armoured Space Pirate
 
 **Alignment:** bad · **Role:** Pirate · **Figure:** custom
 
@@ -7632,7 +7650,7 @@ A space pirate.
 
 *Tags:* villain, pirate, space-pirate, leather, scar, helm
 
-### 625. The Second Evil Bowman
+### 626. The Second Evil Bowman
 
 **Alignment:** bad · **Role:** Archer · **Figure:** custom
 
@@ -7642,7 +7660,7 @@ The second bowman of the evil knights.
 
 *Tags:* villain, knight, archer, bowman, kettle-helm, lion, moustache
 
-### 626. The Blue Bounty Hunter
+### 627. The Blue Bounty Hunter
 
 **Alignment:** bad · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -7652,7 +7670,7 @@ A bounty hunter, and she flies alone.
 
 *Tags:* villain, bounty-hunter, woman, pilot, solo, blue, chains, gauntlet
 
-### 627. The Black Ninja
+### 628. The Black Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -7664,7 +7682,7 @@ The ninja who taught the Red Ninja.
 
 *Tags:* villain, ninja, teacher, lineage, masked, all-black
 
-### 628. The Astronaut Ninja
+### 629. The Astronaut Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -7674,7 +7692,7 @@ An astronaut ninja. He is not much of a ninja. He is genuinely good with a sword
 
 *Tags:* villain, ninja, astronaut, swordsman, space-helmet, not-very-good
 
-### 629. Darth Nihilus
+### 630. Darth Nihilus
 
 **Alignment:** bad · **Role:** Sith · **Figure:** branded
 
@@ -7684,7 +7702,7 @@ Darth Nihilus.
 
 *Tags:* villain, sith, star-wars, branded, mask, hood, red-lightsaber
 
-### 630. The Alien Racer
+### 631. The Alien Racer
 
 **Alignment:** bad · **Role:** Racing Driver · **Figure:** custom
 
@@ -7694,7 +7712,7 @@ A racer. He runs transports, and he is not a man.
 
 *Tags:* villain, racer, transport, alien, robot, translucent, corroded
 
-### 631. The Speed Assassins
+### 632. The Speed Assassins
 
 **Alignment:** bad · **Role:** Assassin · **Figure:** custom
 
@@ -7704,7 +7722,7 @@ Two of them, working as a pair. They come past fast, blow the thing up and are g
 
 *Tags:* villain, assassin, pair, hit-and-run, speed, helmet, faceless
 
-### 632. The Militiaman in the Black Helm
+### 633. The Militiaman in the Black Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -7718,7 +7736,7 @@ Photographed off an old video rather than in hand, because there is no hand to p
 
 *Tags:* space-militia, lost, deceased, helmet, sunglasses
 
-### 633. The Militiaman in the Red Helm
+### 634. The Militiaman in the Red Helm
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -7728,7 +7746,7 @@ Space Militia. Lost, and dead.
 
 *Tags:* space-militia, lost, deceased, rifle, scarred
 
-### 634. The Ranger Patrol Captain
+### 635. The Ranger Patrol Captain
 
 **Alignment:** good · **Role:** Patrol Captain · **Figure:** custom
 
@@ -7738,7 +7756,7 @@ A patrol captain of the rangers. Lost, and dead.
 
 *Tags:* green-rangers, ranger, captain, lost, deceased, camouflage
 
-### 635. The Militiamen Out of Armour — Two of them
+### 636. The Militiamen Out of Armour — Two of them
 
 **Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
@@ -7750,7 +7768,7 @@ Photographed together, on a table, years ago.
 
 *Tags:* space-militia, lost, deceased, civilian-dress, headset
 
-### 636. The Lost Miners — Two of them
+### 637. The Lost Miners — Two of them
 
 **Alignment:** good · **Role:** Power Miner · **Figure:** custom
 
@@ -7760,7 +7778,7 @@ Two of the power miners. Lost, and dead.
 
 *Tags:* power-miner, lost, deceased, overalls, helmet
 
-### 637. The Discarded in the Blue Cap
+### 638. The Discarded in the Blue Cap
 
 **Alignment:** good · **Role:** Discarded · **Figure:** custom
 
@@ -7772,7 +7790,7 @@ The badge is not a marking anyone else in this collection wears, and I could not
 
 *Tags:* discarded, refugee, lost, deceased, cap, goatee
 
-### 638. The Elf Man
+### 639. The Elf Man
 
 **Alignment:** good · **Role:** Elf · **Figure:** custom
 
@@ -7786,7 +7804,7 @@ Nothing about the moulding is elven - it is an ordinary head and an ordinary hai
 
 *Tags:* elf, lost, deceased, long-hair, vest
 
-### 639. The Long Shot Bowman
+### 640. The Long Shot Bowman
 
 **Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
 
@@ -7796,7 +7814,7 @@ An archer of the Royal Knights, and a long shot. Lost, and dead.
 
 *Tags:* knight, archer, bow, medieval, royal-knights, lost, deceased, kettle-helm
 
-### 640. The Lost Pirates — Two of them
+### 641. The Lost Pirates — Two of them
 
 **Alignment:** good · **Role:** Pirate · **Figure:** custom
 
@@ -7808,7 +7826,7 @@ The other in a blue headscarf, moustached and heavily freckled, in a red and whi
 
 *Tags:* pirate, crew, lost, deceased, tattoo, anchor, stripes
 
-### 641. The Lost Aqua Diver
+### 642. The Lost Aqua Diver
 
 **Alignment:** good · **Role:** Aqua Force · **Figure:** custom
 
@@ -7818,7 +7836,7 @@ Aqua Force - the service that handles any military necessity involving going und
 
 *Tags:* aqua-force, underwater, diver, trident, lost, deceased, scarred
 
-### 642. The Gungan Jedi
+### 643. The Gungan Jedi
 
 **Alignment:** good · **Role:** Jedi · **Figure:** custom
 
@@ -7832,7 +7850,7 @@ The robe is not a piece I could place. Photographed off an old video rather than
 
 *Tags:* star-wars, gungan, jedi, alien, cape, lost, deceased
 
-### 643. The Alien Professor
+### 644. The Alien Professor
 
 **Alignment:** good · **Role:** Professor · **Figure:** custom
 
@@ -7844,7 +7862,7 @@ The frame is too soft to make out the piece. This is as much as the video gives.
 
 *Tags:* alien, professor, academic, moulded-head, robes, lost, deceased
 
-### 644. The Lost Soccer Player
+### 645. The Lost Soccer Player
 
 **Alignment:** good · **Role:** Athlete · **Figure:** custom
 
@@ -7854,7 +7872,7 @@ A soccer player. Lost, and dead.
 
 *Tags:* soccer, football, athlete, sport, kit, lost, deceased
 
-### 645. The Astronaut Soldier
+### 646. The Astronaut Soldier
 
 **Alignment:** good · **Role:** Astronaut Soldier · **Figure:** custom
 
@@ -7864,7 +7882,7 @@ An astronaut, and a soldier. Lost, and dead.
 
 *Tags:* astronaut, soldier, space, helmet, lost, deceased
 
-### 646. The Airline Pilot
+### 647. The Airline Pilot
 
 **Alignment:** good · **Role:** Pilot · **Figure:** custom
 
@@ -7874,7 +7892,7 @@ An airline pilot. Lost, and dead.
 
 *Tags:* pilot, airline, civilian, uniform, cap, lost, deceased
 
-### 647. The Hooded Ranger
+### 648. The Hooded Ranger
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -7884,7 +7902,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, hood, balaclava, lost, deceased
 
-### 648. The Blue Space Captain
+### 649. The Blue Space Captain
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -7896,7 +7914,7 @@ The badge is the Galactic Republic cog, so the pieces are out of a Star Wars pil
 
 *Tags:* captain, space, pilot, goggles, headset, lost, deceased
 
-### 649. The Nude Aliens — Two of them
+### 650. The Nude Aliens — Two of them
 
 **Alignment:** good · **Figure:** custom
 
@@ -7908,7 +7926,7 @@ The other is green throughout with a moulded head - a scaled, gaping fish-like f
 
 *Tags:* alien, nude, unprinted, moulded-head, lost, deceased
 
-### 650. The Engine Technician
+### 651. The Engine Technician
 
 **Alignment:** good · **Role:** Technician · **Figure:** custom
 
@@ -7918,7 +7936,7 @@ One of the engine technicians. Lost, and dead.
 
 *Tags:* technician, engines, space-programme, helmet, lost, deceased
 
-### 651. The Ranger in the Olive Helm
+### 652. The Ranger in the Olive Helm
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -7928,7 +7946,7 @@ A Green Ranger. Lost, and dead.
 
 *Tags:* green-rangers, soldier, helmet, field-jacket, lost, deceased
 
-### 652. The Lost Golden Rifleman
+### 653. The Lost Golden Rifleman
 
 **Alignment:** good · **Role:** Rifleman · **Figure:** branded
 
@@ -7940,7 +7958,7 @@ Too soft a frame to tell Phase 1 from Phase 2, or to read the unit markings the 
 
 *Tags:* star-wars, clone, trooper, rifleman, golden-company, rifle, lost, deceased, branded
 
-### 653. The Saxophone Player
+### 654. The Saxophone Player
 
 **Alignment:** good · **Role:** Musician · **Figure:** custom
 
@@ -7952,7 +7970,7 @@ Photographed standing on wet sand with the sea behind him and his own reflection
 
 *Tags:* musician, saxophone, music, cool, sunglasses, lost, deceased
 
-### 654. The Old Verdauf Soldier
+### 655. The Old Verdauf Soldier
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -7964,7 +7982,7 @@ He is built off white blocks below the waist rather than printed legs.
 
 *Tags:* verdauf, squadron, soldier, veteran, beard, white-armor, lost, deceased
 
-### 655. The Blue Pirate Thug
+### 656. The Blue Pirate Thug
 
 **Alignment:** good · **Role:** Thug · **Figure:** custom
 
@@ -7974,7 +7992,7 @@ A pirate thug. The uniform he is wearing is not his - he stole it. Lost, and dea
 
 *Tags:* thug, pirate, stolen-uniform, respirator, blue, lost, deceased
 
-### 656. The Space Captain Lady
+### 657. The Space Captain Lady
 
 **Alignment:** good · **Role:** Captain · **Figure:** custom
 
@@ -7986,7 +8004,7 @@ It is the same uniform the Blue Space Captain wears, down to the badge.
 
 *Tags:* captain, space, woman, stolen-uniform, visor, lost, deceased
 
-### 657. The Evil Space Captain
+### 658. The Evil Space Captain
 
 **Alignment:** bad · **Role:** Captain · **Figure:** custom
 
@@ -7998,7 +8016,7 @@ It is a rebel pilot's kit. There are nine Rebel Pilots in this collection and he
 
 *Tags:* captain, space, villain, stolen-uniform, flight-helmet, beard, lost, deceased
 
-### 658. The Space Criminal
+### 659. The Space Criminal
 
 **Alignment:** good · **Role:** Criminal · **Figure:** custom
 
@@ -8008,7 +8026,7 @@ A space criminal. Lost, and dead.
 
 *Tags:* criminal, space, crook, grin, blaster, lost, deceased
 
-### 659. The Bribed Royal Enforcer
+### 660. The Bribed Royal Enforcer
 
 **Alignment:** good · **Role:** Enforcer · **Figure:** custom
 
@@ -8018,7 +8036,7 @@ A royal enforcer who took a bribe. Lost, and dead.
 
 *Tags:* enforcer, royal, bribed, corruption, visor, lost, deceased
 
-### 660. The Bearded Spaceman
+### 661. The Bearded Spaceman
 
 **Alignment:** good · **Role:** Spaceman · **Figure:** custom
 
@@ -8028,7 +8046,7 @@ A blue spaceman. Lost, and dead.
 
 *Tags:* spaceman, classic-space, blue, beard, vintage, lost, deceased
 
-### 661. The Masked Bounty Hunter
+### 662. The Masked Bounty Hunter
 
 **Alignment:** good · **Role:** Bounty Hunter · **Figure:** custom
 
@@ -8040,7 +8058,7 @@ The frame is badly blurred and this is as much as it gives.
 
 *Tags:* bounty-hunter, masked, red-eyes, hood, lost, deceased
 
-### 662. The Crimson Ninja
+### 663. The Crimson Ninja
 
 **Alignment:** bad · **Role:** Ninja · **Figure:** custom
 
@@ -8050,7 +8068,7 @@ An evil ninja, in crimson. The figure has not been photographed yet - this card 
 
 *Tags:* ninja, villain, crimson, masked, concept-art, no-photograph
 
-### 663. The Nightwatch Captain
+### 664. The Nightwatch Captain
 
 **Alignment:** good · **Role:** Nightwatch Captain · **Based:** Lego City · **Figure:** custom
 

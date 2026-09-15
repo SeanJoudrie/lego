@@ -10193,47 +10193,72 @@ window.COLLECTION = [
 
 
   {
+    id: "young-boba-fett",
+    name: "Young Boba Fett",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "boba-fett", label: "The man he becomes" },
+    ],
+    rating: 0,
+    background:
+      "Boba Fett as a boy, before any of it.",
+    provenance:
+      "Black bowl-cut hair, a plain yellow face with heavy brows and a flat " +
+      "mouth. A pale blue tunic with a dark belt and a laced collar, dark navy " +
+      "arms, pale blue legs. No armour and no helmet.",
+    tags: ["star-wars", "boba-fett", "child", "branded", "boy", "unarmoured"],
+    images: ["images/young-boba-fett-01.jpg"],
+    acquired: "",
+    notes: "Split from the armoured Boba on your say-so, which breaks the one-entry-per-character rule on purpose and is the first time this collection has done that. The boy is good and the man is not, and a single card could not hold both once the sides differed - the faction is what the two decks are built on, so he would have had to sit on one of them and be wrong on the other. Linked to his older self, which draws a line straight across the gap between the decks. Second child in the Star Wars corner."
+  },
+
+  {
     id: "boba-fett",
     name: "Boba Fett",
-    variant: "Four figures",
-    faction: "good",
+    variant: "Three figures, in the armour",
+    faction: "bad",
     origin: "branded",
     theme: "Star Wars",
     rank: "",
     role: "Bounty Hunter",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "young-boba-fett", label: "The boy he was" },
+    ],
     rating: 0,
     background:
-      "Boba Fett. Four figures of him, one card: the boy with no armour, and " +
-      "the man in it three times over.",
+      "Boba Fett, in the armour. Three figures of him, and he is an enemy of " +
+      "this world.\n\nThe boy he used to be has a card of his own, on the other deck.",
     provenance:
-      "The boy: black bowl-cut hair, a plain yellow face with heavy brows and " +
-      "a flat mouth, a pale blue tunic with a dark belt and a laced collar, " +
-      "dark navy arms, pale blue legs. No armour and no helmet.\n\n" +
-      "The armour, plain: a green helmet with a brown T-visor, a white and " +
-      "green chest plate over a brown belt, pale grey arms and legs. Clean, " +
-      "bright, and printed with almost nothing.\n\n" +
-      "The armour, in detail: the same suit done properly - the helmet green " +
-      "with a dark red stripe over the crown and a deep red visor, the chest " +
-      "plate worked in green panels and silver scoring, a braid of Wookiee " +
-      "scalps hung at one shoulder, a brown bandolier, a red belt, grey arms " +
-      "and pale grey legs.\n\n" +
-      "The armour, weathered: the same helmet shape gone dark, the visor worn " +
-      "through to silver, the body black and grey and scuffed all over, one " +
-      "yellow pauldron, a brown bandolier at the waist, yellow knee plates.\n\n" +
-      "Three suits of one armour, and the printing is the whole story - the " +
-      "same man rendered plainly, then properly, then beaten to pieces.",
-    tags: ["star-wars", "boba-fett", "child", "branded", "bounty-hunter", "mandalorian", "armour", "four-figures"],
+      "Three suits of one armour.\n\n" +
+      "Plain: a green helmet with a brown T-visor, a white and green chest " +
+      "plate over a brown belt, pale grey arms and legs. Clean, bright, and " +
+      "printed with almost nothing.\n\n" +
+      "In detail: the same suit done properly - the helmet green with a dark " +
+      "red stripe over the crown and a deep red visor, the chest plate worked " +
+      "in green panels and silver scoring, a braid of Wookiee scalps at one " +
+      "shoulder, a brown bandolier, a red belt, grey arms, pale grey legs.\n\n" +
+      "Weathered: the same helmet shape gone dark, the visor worn through to " +
+      "silver, the body black and grey and scuffed all over, one yellow " +
+      "pauldron, a brown bandolier at the waist, yellow knee plates.\n\n" +
+      "The printing is the whole story - the same man rendered plainly, then " +
+      "properly, then beaten to pieces.",
+    tags: ["villain", "star-wars", "boba-fett", "branded", "bounty-hunter", "mandalorian", "armour", "three-figures"],
     images: [
-      { src: "images/boba-fett-01.jpg", caption: "As a boy, with no armour" },
-      { src: "images/boba-fett-02.jpg", caption: "The armour, plain" },
-      { src: "images/boba-fett-04.jpg", caption: "The armour, in detail" },
+      { src: "images/boba-fett-01.jpg", caption: "The armour, plain" },
+      { src: "images/boba-fett-02.jpg", caption: "The armour, in detail" },
       { src: "images/boba-fett-03.jpg", caption: "The armour, weathered" }
     ],
     acquired: "",
-    notes: "This card said what would happen to it. Its own note has read since it was written that a helmeted Boba would later join it rather than start a second one, following Anakin - and three have now arrived across two batches. Four figures, one man, one entry, which puts him level with Anakin and behind only Obi-Wan at five and Luke at six. He gains a role now that he has a job to show. He also stays filed good: he arrived in the middle of a long run of villains and nothing was said about moving him, and the world note on branded villains names him as one of the bought figures this world absorbed onto the winning side. Say the word and he crosses, and that note gets rewritten with him."
+    notes: "He was filed good for the whole life of this collection and the world note on branded villains named him as the proof that bought figures got absorbed onto the winning side. That note is rewritten now, because he is the counter-example instead. Seventh branded villain, fifth of them out of Star Wars. Three photographs of one man on one card still, but the boy is no longer among them - he is linked from here and filed on the other deck."
   },
 
 
@@ -15421,7 +15446,7 @@ window.COLLECTION = [
     tags: ["villain", "sith", "star-wars", "zabrak", "horns", "branded", "first-branded-villain"],
     images: ["images/savage-opress-01.jpg"],
     acquired: "",
-    notes: "The first branded villain in this collection. A hundred and twenty-six figures here come out of a box with a name already on them - Star Wars, Ninjago, Marvel, Harry Potter, Chima, the lot - and until this one every single one of them was filed good, including Boba Fett, the stormtroopers, the TIE pilots and the snowtroopers. The enemy was entirely home-made for the first five hundred and ninety figures."
+    notes: "The first branded villain in this collection. A hundred and twenty-six figures here come out of a box with a name already on them - Star Wars, Ninjago, Marvel, Harry Potter, Chima, the lot - and until this one every single one of them was filed good, the stormtroopers and the TIE pilots and the snowtroopers included. The enemy was entirely home-made for the first five hundred and ninety figures. Boba Fett used to be the headline example of that absorption and has since crossed over, so the streak now reads as something nobody had got round to rather than a rule of the world."
   },
 
   {

@@ -1143,10 +1143,16 @@ window.LORE = [
       "already on them. Star Wars, Ninjago, Marvel, Harry Potter, Chima, " +
       "Pirates of the Caribbean, SpongeBob. And every single one of them was " +
       "filed good.\n\n" +
-      "That includes the ones who are not. Boba Fett is good here. So are the " +
-      "stormtroopers, the snowtroopers, the TIE pilots and the stormtrooper " +
-      "commander. Whatever they were in the film they came out of, in this " +
-      "world they were absorbed onto the side that wins.\n\n" +
+      "That includes the ones who are not. The stormtroopers are good here. So " +
+      "are the snowtroopers, the TIE pilots and the stormtrooper commander. " +
+      "Whatever they were in the film they came out of, in this world they " +
+      "were absorbed onto the side that wins.\n\n" +
+      "Boba Fett was the headline case of that for the entire life of the " +
+      "collection, and he is not any more. He has been split in two: the boy " +
+      "stays good on his own card, and the man in the armour is filed against " +
+      "this world. It is the first time one character here has been given two " +
+      "entries, and the reason is the decks - a single card can only sit on " +
+      "one side, and these two are not on the same one.\n\n" +
       "Savage Opress breaks it. He is the first branded figure in five hundred " +
       "and ninety to be filed against this world, and he arrives with no story " +
       "attached beyond his own name.\n\n" +
