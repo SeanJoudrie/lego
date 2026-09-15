@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-289 characters from a custom LEGO minifigure world, in the order they were
+293 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -3425,6 +3425,46 @@ Also a ranger.
 *Connections:* Same ranger kit The Second Ranger
 
 *Tags:* ranger, pith-helmet, expedition, scarred
+
+### 290. The Rescue Ranger
+
+**Alignment:** good · **Role:** Ranger · **Figure:** custom
+
+A ranger. He works the snow and he works the sand, and what he does in both is get people out.
+
+*How it was got:* Tan cap with ear flaps and the same two-pocket tan coveralls the Inventory Specialist wears.
+
+*Tags:* ranger, rescue, snow, desert, search-and-rescue
+
+### 291. The Safari Master
+
+**Alignment:** good · **Role:** Safari Master · **Figure:** custom
+
+The safari master.
+
+*How it was got:* Pith helmet, buttoned safari shirt, belt pouches and a key at the hip.
+
+*Tags:* safari, master, pith-helmet, expedition, guide
+
+### 292. The Maintenance Technician
+
+**Alignment:** good · **Role:** Technician · **Figure:** custom
+
+A maintenance technician.
+
+*How it was got:* Tan coveralls printed with tool loops down the front, and a flat tan cap.
+
+*Tags:* technician, maintenance, tools, coveralls
+
+### 293. The Leprechaun
+
+**Alignment:** good · **Figure:** custom
+
+A leprechaun.
+
+*How it was got:* Green tails, buckled top hat, shamrock on the lapel, ginger beard.
+
+*Tags:* leprechaun, small-folk, green, shamrock, folklore
 
 ---
 

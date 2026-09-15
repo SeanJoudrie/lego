@@ -7710,6 +7710,99 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-rescue-ranger",
+    name: "The Rescue Ranger",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ranger",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A ranger. He works the snow and he works the sand, and what he does in " +
+      "both is get people out.",
+    provenance:
+      "Tan cap with ear flaps and the same two-pocket tan coveralls the " +
+      "Inventory Specialist wears.",
+    tags: ["ranger", "rescue", "snow", "desert", "search-and-rescue"],
+    images: ["images/the-rescue-ranger-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Third Ranger in the role filter, and the only one in the collection whose job is saving people rather than finding things - the fire service aside, almost nobody here is a rescuer."
+  },
+
+
+  {
+    id: "the-safari-master",
+    name: "The Safari Master",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Safari Master",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The safari master.",
+    provenance: "Pith helmet, buttoned safari shirt, belt pouches and a key at the hip.",
+    tags: ["safari", "master", "pith-helmet", "expedition", "guide"],
+    images: ["images/the-safari-master-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. He is in the same pith helmet as the Second and Third Rangers and he is called the master of something - if those two are his, say so and the three of them become an outfit. Nobody has said it, so nothing is written."
+  },
+
+
+  {
+    id: "the-maintenance-technician",
+    name: "The Maintenance Technician",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Technician",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A maintenance technician.",
+    provenance: "Tan coveralls printed with tool loops down the front, and a flat tan cap.",
+    tags: ["technician", "maintenance", "tools", "coveralls"],
+    images: ["images/the-maintenance-technician-01.jpg"],
+    acquired: "",
+    notes: "Third Technician here. By the Inventory Specialist's own entry, every mechanic and every technician in the civilization answers to him - which is a stated fact rather than a guess, and applies to this man, the Technician, the Ground Technician, the Mechanic, the Tall Mechanic, the Builder and the Car Repairman alike. No links written, because writing one and not the other six would be arbitrary. Say the word and all seven get wired to him."
+  },
+
+
+  {
+    id: "the-leprechaun",
+    name: "The Leprechaun",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A leprechaun.",
+    provenance: "Green tails, buckled top hat, shamrock on the lapel, ginger beard.",
+    tags: ["leprechaun", "small-folk", "green", "shamrock", "folklore"],
+    images: ["images/the-leprechaun-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Fourth small folk in the world, after the dwarves, the gnomes and the elves - and the elves still have not been photographed."
+  },
+
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
