@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-470 characters from a custom LEGO minifigure world, in the order they were
+473 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5323,6 +5323,36 @@ A trooper of the Old Republic.
 *How it was got:* A helmet shaped unlike any other here - smooth and rounded with a flat brow, a black T across the face and a grey grille at the mouth, orange bars over the crown and orange flashes at the cheeks. White armour with orange down the sternum, a black belt and orange panels at both thighs. Scuffed and grubby throughout.
 
 *Tags:* star-wars, old-republic, soldier, orange, worn, branded
+
+### 471. Captain Rex
+
+**Alignment:** good · **Role:** Captain · **Figure:** branded
+
+Captain Rex, of the 501st.
+
+*How it was got:* Phase 2 helmet painted in blue - a jaw shape up the faceplate, twin flames over the crown and tally marks scored in black at both temples. A dark blue cloth pauldron over one shoulder, blue flashes at the arm and knees, and a black pistol in each hand.
+
+*Tags:* star-wars, clone, captain, 501st, blue, rex, pauldron, branded
+
+### 472. The 187th Scout
+
+**Alignment:** good · **Role:** Scout · **Figure:** branded
+
+A scout of the 187th.
+
+*How it was got:* A stormtrooper-pattern helmet rather than a clone one - smooth, with the black visor and the moulded snout - marked purple at the cheeks. Purple shoulder panel, a tan sling across the chest, tan blocks at the belt and purple wedges on both thighs.
+
+*Tags:* star-wars, clone, scout, 187th, purple, branded
+
+### 473. The Stormtroopers — Five of them, two patterns
+
+**Alignment:** good · **Role:** Soldier · **Figure:** branded
+
+Stormtroopers. There are five of them.
+
+*How it was got:* Four are the classic pattern: white armour with a black brow band, the moustache vent, a row of grey belt blocks and plain white legs, all four gone faintly cream and scuffed. The fifth is the later moulding - the same helmet cut sharper, grey shoulder plates and a chest wedge printed in, a full black bandolier of blocks across the waist, and the legs printed with knee plates the old ones do not have.
+
+*Tags:* star-wars, imperial, stormtrooper, unit, five, worn, branded
 
 ---
 

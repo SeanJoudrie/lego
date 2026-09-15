@@ -11578,7 +11578,7 @@ window.COLLECTION = [
     theme: "Star Wars",
     rank: "",
     role: "Clone Trooper",
-    group: "The Clone Army",
+    group: "The 501st Legion",
     location: "",
     relations: [],
     rating: 0,
@@ -11590,7 +11590,7 @@ window.COLLECTION = [
     tags: ["star-wars", "clone", "trooper", "501st", "blue", "unit", "two", "branded"],
     images: [{ src: "images/the-501st-troopers-01.jpg", caption: "Both of them" }],
     acquired: "",
-    notes: "One entry for the pair, the way the Enforcer Squad and the Gungan Soldiers are done. Clones are the one case where that is not a shortcut - they really are the same man twice."
+    notes: "One entry for the pair, the way the Enforcer Squad and the Gungan Soldiers are done. Clones are the one case where that is not a shortcut - they really are the same man twice. Captain Rex has since arrived in the same blue, so the 501st is a group of its own now rather than two men filed under the whole army."
   },
 
 
@@ -12513,6 +12513,90 @@ window.COLLECTION = [
     images: ["images/the-old-republic-trooper-01.jpg"],
     acquired: "",
     notes: "He is from a different age of this world entirely - the Old Republic is thousands of years before the clones, so he is the earliest Star Wars figure here by in-world time while the clones and Imperials are all one lifetime apart. Ungrouped: he has nobody to stand with."
+  },
+
+
+  {
+    id: "captain-rex",
+    name: "Captain Rex",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Captain",
+    group: "The 501st Legion",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Captain Rex, of the 501st.",
+    provenance:
+      "Phase 2 helmet painted in blue - a jaw shape up the faceplate, twin " +
+      "flames over the crown and tally marks scored in black at both temples. " +
+      "A dark blue cloth pauldron over one shoulder, blue flashes at the arm " +
+      "and knees, and a black pistol in each hand.",
+    tags: ["star-wars", "clone", "captain", "501st", "blue", "rex", "pauldron", "branded"],
+    images: ["images/captain-rex-01.jpg"],
+    acquired: "",
+    notes: "New group, The 501st Legion, holding him and the two 501st troopers who have been sitting in the Clone Army since they arrived. The tally marks on his helmet are the thing: no other figure in this collection is printed with a count of anything."
+  },
+
+
+  {
+    id: "the-187th-scout",
+    name: "The 187th Scout",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Scout",
+    group: "The 187th Legion",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A scout of the 187th.",
+    provenance:
+      "A stormtrooper-pattern helmet rather than a clone one - smooth, with " +
+      "the black visor and the moulded snout - marked purple at the cheeks. " +
+      "Purple shoulder panel, a tan sling across the chest, tan blocks at the " +
+      "belt and purple wedges on both thighs.",
+    tags: ["star-wars", "clone", "scout", "187th", "purple", "branded"],
+    images: ["images/the-187th-scout-01.jpg"],
+    acquired: "",
+    notes: "Third in the 187th, which went from one card to three inside two batches. His helmet is the odd part - it is the stormtrooper mould, not the clone one, so he is wearing the shape that comes after the clones while everybody around him is still in the shape that came before."
+  },
+
+
+  {
+    id: "the-stormtroopers",
+    name: "The Stormtroopers",
+    variant: "Five of them, two patterns",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Stormtroopers. There are five of them.",
+    provenance:
+      "Four are the classic pattern: white armour with a black brow band, the " +
+      "moustache vent, a row of grey belt blocks and plain white legs, all " +
+      "four gone faintly cream and scuffed. The fifth is the later moulding - " +
+      "the same helmet cut sharper, grey shoulder plates and a chest wedge " +
+      "printed in, a full black bandolier of blocks across the waist, and the " +
+      "legs printed with knee plates the old ones do not have.",
+    tags: ["star-wars", "imperial", "stormtrooper", "unit", "five", "worn", "branded"],
+    images: [
+      { src: "images/the-stormtroopers-01.jpg", caption: "One of the classics" },
+      { src: "images/the-stormtroopers-02.jpg", caption: "All four classics" },
+      { src: "images/the-stormtroopers-03.jpg", caption: "The new pattern" },
+    ],
+    acquired: "",
+    notes: "One entry for all five, solo first and the group behind it, with both mouldings on the same card the way the Rebel Troopers and the Snowtroopers have theirs. Standing the old four beside the new one is the plainest before-and-after of printing in the collection - the old legs are blank white and the new ones are drawn all the way down. Seventh Imperial card, still ungrouped."
   },
 
 
