@@ -16042,6 +16042,146 @@ window.COLLECTION = [
   },
 
 
+
+  {
+    id: "the-suit-thief",
+    name: "The Suit Thief",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Outlaw",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "He killed the white astronaut and took his suit. He has been wearing it " +
+      "ever since.\n\n" +
+      "What he is now is a space cowboy, and what he likes is looting.",
+    provenance:
+      "A white cowboy hat over a yellow face with orange-tinted round glasses " +
+      "and a smirk at one corner of the mouth. The suit underneath is Classic " +
+      "Space, white throughout, with the grey planet and red rocket badge at " +
+      "the chest; white arms, white hands, white legs. Not a mark on it.",
+    tags: ["villain", "outlaw", "space-cowboy", "looter", "classic-space", "stolen-suit", "murder"],
+    images: ["images/the-suit-thief-01.jpg"],
+    acquired: "",
+    notes: "Classic Space has four men in it - blue, red, yellow and the bearded one - and white is the colour that is missing. The man who should be wearing this suit is not in the catalogue, because this one killed him. It is the first time a figure here is the evidence of a crime against a figure that does not exist. Second space cowboy on the bad side after the Space Outlaw, who picks fights because he enjoys them; nothing is written between them."
+  },
+
+  {
+    id: "the-second-deadliest-poacher",
+    name: "The Second-Deadliest Poacher",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assassin",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The second most dangerous poacher in the world, which in his case means " +
+      "a supreme assassin. What he brings to it is tracking: he finds the " +
+      "thing first, and the rest follows.",
+    provenance:
+      "Brown curled hair and a full brown beard over a pale face, brows level, " +
+      "mouth set. A white shirt printed open over a grey undershirt with a " +
+      "necklace of teeth at the throat and a coiled rope belt at the waist; " +
+      "white arms, pale hands, tan legs.",
+    tags: ["villain", "poacher", "assassin", "tracker", "second-deadliest", "teeth-necklace"],
+    images: ["images/the-second-deadliest-poacher-01.jpg"],
+    acquired: "",
+    notes: "Fourth poacher on that side and the sixth assassin. The ranking is the interesting part - calling him the second most dangerous means somebody is first, and there are three candidates already here: the Famous Poacher, who is famous for it and smuggles as well; the Hitman, an expert poacher who changed quarry; and the Modified Arms Dealer, who used to be one and now heals fast. Say which and the poachers get an order."
+  },
+
+  {
+    id: "the-astronaut-miner",
+    name: "The Astronaut Miner",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Miner",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A low-ranking astronaut miner, and on the wrong side of it. Nobody " +
+      "important, and that is the whole of him for now.",
+    provenance:
+      "Dark brown hair over a yellow face with an orange moustache and chin " +
+      "patch and a wide grin. A white spacesuit printed with a grey ring " +
+      "harness at the collar, an orange planet badge at the chest and orange " +
+      "piping looped round the waist and down the thighs; a black air tank at " +
+      "the back, white arms, white hands, white legs.",
+    tags: ["villain", "miner", "astronaut", "low-rank", "spacesuit", "air-tank"],
+    images: ["images/the-astronaut-miner-01.jpg"],
+    acquired: "",
+    notes: "The first miner in this collection on the bad side - the seven Power Miners are all good. His suit is Mars Mission livery, the same white and orange the five Mars Mission astronauts wear, and all five of those are good too. He is not put in that group: you called him an astronaut miner and did not name the unit, and putting him in would show him to every one of them. Say he is theirs and Mars Mission becomes the seventh split group."
+  },
+
+  {
+    id: "the-television",
+    name: "The Television",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Robot",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A portable television, and sentient. It walks about on its own.",
+    provenance:
+      "A white set for a body with a green screen printed across the front, " +
+      "text and a small portrait showing on it, and three coloured buttons " +
+      "down one side. A black aerial standing off the top with a ball at the " +
+      "tip, and a translucent orange wedge beside it. No arms at all. Black " +
+      "hips and plain white legs.",
+    tags: ["villain", "robot", "sentient", "television", "broadcast", "aerial", "no-arms"],
+    images: ["images/the-television-01.jpg"],
+    acquired: "",
+    notes: "Reading \"a scented robot portable TV sentient\" as a sentient portable-television robot; correct me if it was a second robot rather than a scented one. Fifth machine on the bad side. He has no arms at all, which puts him with the astromechs and nothing else here - except that they are droid bodies on a dome and he has legs and walks about. The body is a television and that is all it is. The Propaganda Unit on that side is four people who make broadcasts; this one is the broadcast. Nothing written between them."
+  },
+
+  {
+    id: "the-jetpack-assassin",
+    name: "The Jetpack Assassin",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assassin",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An assassin who works from a jetpack.",
+    provenance:
+      "A dark red helmet over a black cap, with red-lensed goggles across a " +
+      "pale face and a flat mouth below them. A dark red torso printed with a " +
+      "bandolier of green-tipped charges running across the chest, a buckled " +
+      "belt, and a circled letter D at the shoulder; dark red arms, dark red " +
+      "hands, black legs.",
+    tags: ["villain", "assassin", "jetpack", "goggles", "charges", "bandolier"],
+    images: ["images/the-jetpack-assassin-01.jpg"],
+    acquired: "",
+    notes: "Seventh assassin here, all seven on the bad side, and the second man in this world whose method is a jetpack - the Jetpack Sniper shoots from one, this one closes with it. The only other jetpacks belong to an archangel and a Nexo Knight, both good. Nothing is written between the two jetpack men, and a pair of them doing the same work from the air is close enough to be worth asking about. The circled D on his shoulder is not explained."
+  },
+
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {

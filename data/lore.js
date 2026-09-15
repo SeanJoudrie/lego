@@ -1216,6 +1216,26 @@ window.LORE = [
       "has him listed among their connections, and he has all of them. That is " +
       "either exactly right or exactly wrong depending on the story, and it is " +
       "one word either way."
+  },
+
+  {
+    title: "The missing white astronaut",
+    text:
+      "Classic Space has four men in this collection. A blue spaceman, a red " +
+      "one, a yellow one, and one with a beard. White is the colour that is " +
+      "not there.\n\n" +
+      "It is not there because somebody killed him and took the suit. That man " +
+      "is catalogued now - a space cowboy in a white cowboy hat and orange " +
+      "glasses, wearing a Classic Space suit without a mark on it, who loots " +
+      "for a living.\n\n" +
+      "This is a new thing for the catalogue. Every other absence here is an " +
+      "absence: the figures lost to time are gone from the shelf and dead in " +
+      "the world, and their cards say so. The white astronaut has no card at " +
+      "all. What stands in for him is his killer, wearing the evidence, filed " +
+      "two decks over from the four men he should be standing next to.\n\n" +
+      "Worth deciding whether he gets an entry of his own. He would be the " +
+      "first figure in this world catalogued purely because somebody else is " +
+      "wearing his clothes."
   }
 
 ];
