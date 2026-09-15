@@ -1158,8 +1158,13 @@ window.LORE = [
       "was good. The clones are the largest body of figures in this " +
       "collection and they had never once produced a traitor. Now one of them " +
       "has betrayed the rest.\n\n" +
-      "Three branded villains in three batches, after five hundred and ninety " +
-      "figures with none.\n\n" +
+      "Then Jabba the Hutt, who is not even a minifigure, and a man wearing " +
+      "Kai. That last one is the sharpest of them: he is a genuine Ninjago " +
+      "figure with nothing on him to say he is anybody else, so the catalogue " +
+      "tags him NINJAGO exactly as it tags the real Kai. The disguise works on " +
+      "the database.\n\n" +
+      "Five branded villains in four batches, across three franchises, after " +
+      "five hundred and ninety figures with none.\n\n" +
       "It is worth saying what that streak meant. The enemy here was " +
       "hand-made, every one of them, for the entire life of the collection. " +
       "Quinn, the shadow king, the Iron League, the Verdauf traitors, the " +
@@ -1187,6 +1192,30 @@ window.LORE = [
       "the only creatures of any kind were Laval, a horse called Widow, and a " +
       "Spider-Man - and all three are on the good side. This world had no " +
       "animals in it at all until something arrived to feed."
+  },
+
+  {
+    title: "The sixth split group",
+    text:
+      "Six groups in this world now have people on both sides of it: the " +
+      "Verdauf, the Discarded, the Royal Space Academy, the Green Rangers, the " +
+      "Knock-offs, and as of this batch the Atlantis Dive Team.\n\n" +
+      "Nobody designed that. It is what happens when a world gets built one " +
+      "figure at a time over six years - a unit gets named, people get added " +
+      "to it, and eventually one of them turns. The Verdauf has two captains " +
+      "and one of them rigged a ship with half the squadron on it. The Green " +
+      "Rangers were stranded by their own general. The Dive Team was ten " +
+      "divers and a leader and every one of them was good until now.\n\n" +
+      "Where a traitor gets filed is a real decision and it has been made both " +
+      "ways here. The Traitor Captain sits inside the Verdauf, because the " +
+      "unit is what he is. The Clone Traitor was kept outside the Clone Army, " +
+      "because that is an army rather than a unit and betraying it is the only " +
+      "thing known about him. The Atlantis Traitor follows the Verdauf.\n\n" +
+      "The effect on the page is worth knowing: a group shows everybody to " +
+      "everybody, so putting a traitor inside one means every loyal member now " +
+      "has him listed among their connections, and he has all of them. That is " +
+      "either exactly right or exactly wrong depending on the story, and it is " +
+      "one word either way."
   }
 
 ];

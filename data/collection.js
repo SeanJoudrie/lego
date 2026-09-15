@@ -10394,7 +10394,9 @@ window.COLLECTION = [
     role: "Ninja",
     group: "The Ninja",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-false-kai", label: "Impersonated by" },
+    ],
     rating: 0,
     background: "Kai, the red ninja.",
     provenance:
@@ -15894,6 +15896,149 @@ window.COLLECTION = [
     images: ["images/the-sith-lords-second-01.jpg"],
     acquired: "",
     notes: "You described his master as the Sith who wears the brown outfit and has the hair, and that is the Sith Lord exactly - dark brown hair, brown layered robes, orange scoring at the temples. No guessing needed. Fourth figure here whose whole identity is being somebody else's second - after The Second, the Aqua Force Second and Quinn's Second-in-Command - and the second of the four on the villain side. The doctrine now has a chain of command: a religion with two people running it."
+  },
+
+
+
+  {
+    id: "jabba-the-hutt",
+    name: "Jabba the Hutt",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Crime Lord",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Literally Jabba the Hutt.",
+    provenance:
+      "Not a minifigure at all - a single large moulded piece in pale green, " +
+      "the length of several figures, with a long tail laid out behind him. " +
+      "Two small arms, a heavy folded body, and a face of stacked creases with " +
+      "the eyes half shut and the mouth set in a wide flat line.",
+    tags: ["villain", "crime-lord", "hutt", "star-wars", "branded", "not-a-minifigure", "large"],
+    images: ["images/jabba-the-hutt-01.jpg"],
+    acquired: "",
+    notes: "Fourth branded villain, third of them out of Star Wars, and by some distance the largest thing in this collection - he does not fit the shape everything else here is. He is also the first villain who is a crime lord rather than a soldier, a cultist or a hired man: the underworld on that side has had bounty hunters, assassins, smugglers and three financiers, and now it has somebody they would all answer to. Nothing written between him and any of them."
+  },
+
+  {
+    id: "the-pirate-fleet-commander",
+    name: "The Pirate Fleet Commander",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pirate Fleet Commander",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Commander of the pirate fleet, and the one in charge of combat. The " +
+      "fighting is his part of it.",
+    provenance:
+      "Pale blond hair swept back over a dark brown face with a thin moustache " +
+      "and a hard set to the mouth. A bare brown torso printed with a pale " +
+      "bandolier of shells across the chest and a grey harness of buckles and " +
+      "pouches below it; brown arms, brown hands, tan legs printed with a " +
+      "holstered pistol at one thigh and a knife at the other.",
+    tags: ["villain", "pirate", "fleet-commander", "combat", "bandolier", "holster"],
+    images: ["images/the-pirate-fleet-commander-01.jpg"],
+    acquired: "",
+    notes: "This is the one that turns three loose pirates into a navy. The Infamous Space Pirate, the Ninja Assassin Pirate and the Masked Space Pirate have arrived over the last five batches with nothing between them; a fleet commander in charge of combat implies ships and crews and somebody over all of it. Nothing is written connecting him to any of the three, or to the Outlaw, who is filed good and has a crew of space pirates behind him. Say the word and the bad side gets its first navy."
+  },
+
+  {
+    id: "the-orc-queen",
+    name: "The Orc Queen",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Queen",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Queen of the orcs.",
+    provenance:
+      "A moulded lion's head worn as a headdress - yellow, with the mane " +
+      "spread wide and streaked in brown, the beast's own eyes and muzzle " +
+      "printed above her face. Underneath it a pale green face with dark lips " +
+      "and level brows. A gold-worked collar and shoulder piece over a brown " +
+      "torso, a dark green cloth cape behind, pale green arms and hands, brown " +
+      "legs.",
+    tags: ["villain", "orc", "queen", "woman", "ruler", "lion-headdress", "cape"],
+    images: ["images/the-orc-queen-01.jpg"],
+    acquired: "",
+    notes: "Orcs are new - six hundred and ten figures and not one until now. She is also the third woman on the villain side, after the TV Camera Woman and the Pharaoh, and the second of those three who rules something. And she makes Queen a role held on both sides: the only other one is the Space Princess, who is a cosmic deity and the Prince's wife. Two queens in this world now, and they have nothing to do with each other."
+  },
+
+  {
+    id: "the-atlantis-traitor",
+    name: "The Atlantis Traitor",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Diver",
+    group: "The Atlantis Dive Team",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An Atlantis diver who turned.",
+    provenance:
+      "Dark brown hair over a pale face with a scar drawn down from one eye " +
+      "and a metal stud at the brow. A grey diving rig printed across the " +
+      "torso - a silver breastplate with hose loops running from the collar, " +
+      "lime-green pack fittings at the waist and a lime belt; grey arms, pale " +
+      "hands, grey legs carrying a red trident badge at one thigh and a spear " +
+      "strapped to the other.",
+    tags: ["villain", "diver", "atlantis", "traitor", "dive-rig", "trident"],
+    images: ["images/the-atlantis-traitor-01.jpg"],
+    acquired: "",
+    notes: "The Atlantis Dive Team had ten people in it and all ten were good. Put inside the group rather than outside it, the same way the Traitor Captain sits inside the Verdauf - the unit is what he is, and turning on it is the story. That is the opposite call to the one made for the Clone Traitor a batch ago, who was kept out of the Clone Army; the difference is that a named dive team of eleven is a unit and the clone army is an army. Say if you would rather they matched. This makes the Dive Team the sixth group with people on both sides."
+  },
+
+  {
+    id: "the-false-kai",
+    name: "The False Kai",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "Infiltrator",
+    group: "",
+    location: "",
+    relations: [
+      { to: "kai", label: "Went undercover as" },
+    ],
+    rating: 0,
+    background:
+      "Somebody else, wearing Kai. He went undercover as the Ninjago ninja and " +
+      "was taken for him.",
+    provenance:
+      "A red ninja wrap with a gold crest set at the brow, over a yellow strip " +
+      "of face showing hard brows and white eyes. Gold clawed shoulder armour " +
+      "on both sides. A red torso printed with crossed silver blades over a " +
+      "buckled belt, red arms, red hands, red legs with a blade printed down " +
+      "one side. A later Kai than the one already catalogued, whose wrap is " +
+      "plain and whose crest is a gold flame at the chest.",
+    tags: ["villain", "infiltrator", "undercover", "disguise", "ninjago", "impostor", "branded"],
+    images: ["images/the-false-kai-01.jpg"],
+    acquired: "",
+    notes: "The catalogue is taken in too. He is filed branded, theme Ninjago, and carries a NINJAGO corner tag - exactly like the real Kai two hundred entries away - because the figure genuinely is one and there is nothing on it to say otherwise. That is the disguise working on the database. Seven Ninjago figures are catalogued here and he is the only one on the bad side. Fifth branded villain. The League of Shadows has a Master of Disguise; nothing says he trained this man, and it would be the obvious place."
   },
 
 
