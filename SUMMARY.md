@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-438 characters from a custom LEGO minifigure world, in the order they were
+443 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -4995,6 +4995,56 @@ A rifleman of the Golden Company.
 *How it was got:* Phase 2 helmet with a yellow stripe over the crown and a yellow bar down the faceplate between the eyes. Yellow belt pouches, yellow bands at the hips and thighs, yellow hands, and black unit markings on both arms.
 
 *Tags:* star-wars, clone, trooper, rifleman, yellow, golden-company, branded
+
+### 439. The Golden Company Grenadier
+
+**Alignment:** good · **Role:** Grenadier · **Figure:** branded
+
+A grenadier of the Golden Company.
+
+*How it was got:* Phase 2 helmet, yellow stripe over the crown and straight down between the eyes. A grey sash slung over one shoulder, a yellow chevron at the collar, and yellow wedges on both thighs.
+
+*Tags:* star-wars, clone, trooper, grenadier, yellow, golden-company, branded
+
+### 440. The Golden Company Scout
+
+**Alignment:** good · **Role:** Scout · **Figure:** branded
+
+A scout of the Golden Company.
+
+*How it was got:* A different helmet from the rest - flat-browed with an angular visor shelf over the eyes, and a yellow-framed respirator clamped across the mouth with a grey filter standing out from it. Yellow belt pouches, yellow bands at the hips.
+
+*Tags:* star-wars, clone, scout, respirator, yellow, golden-company, branded
+
+### 441. The Golden Commander
+
+**Alignment:** good · **Role:** Commander · **Figure:** branded
+
+The commander of the Golden Company.
+
+*How it was got:* Helmet with the whole faceplate in yellow under a white visor brim, where his men wear yellow only as a stripe. A black pauldron over one shoulder and a brown cloth kama hanging from the belt, both real pieces rather than printing. Yellow ammunition blocks at the waist.
+
+*Tags:* star-wars, clone, commander, pauldron, kama, yellow, golden-company, branded
+
+### 442. The Blaze Squad Soldier
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+A soldier of Blaze Squad.
+
+*How it was got:* Phase 2 helmet with an orange stripe over the crown and a short orange flash at the nose. Orange wedges across the chest and down both thighs, and the white scuffed grey in places where it has been handled.
+
+*Tags:* star-wars, clone, trooper, orange, blaze-squad, branded
+
+### 443. The Wolfpack Soldier
+
+**Alignment:** good · **Role:** Clone Trooper · **Figure:** branded
+
+A soldier of the Wolfpack.
+
+*How it was got:* Grey and black markings throughout - three bars over the crown of the helmet, grey teeth and claw shapes worked across the faceplate, and a grey pauldron on one shoulder. No colour on him anywhere.
+
+*Tags:* star-wars, clone, trooper, grey, wolfpack, pauldron, branded
 
 ---
 

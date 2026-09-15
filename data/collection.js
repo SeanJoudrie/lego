@@ -11604,7 +11604,7 @@ window.COLLECTION = [
     theme: "Star Wars",
     rank: "",
     role: "Rifleman",
-    group: "The Clone Army",
+    group: "The Golden Company",
     location: "",
     relations: [],
     rating: 0,
@@ -11617,7 +11617,134 @@ window.COLLECTION = [
     tags: ["star-wars", "clone", "trooper", "rifleman", "yellow", "golden-company", "branded"],
     images: ["images/the-golden-company-rifleman-01.jpg"],
     acquired: "",
-    notes: "Golden Company is your name for them rather than one I found - Lego calls this yellow pattern the 327th Star Corps - so the card takes yours. If there are more of them, they can have a group of their own inside the army."
+    notes: "Golden Company is your name for them rather than one I found - Lego calls this yellow pattern the 327th Star Corps - so the card takes yours. There were more of them, in the very next batch - a grenadier, a scout and a commander - so the Golden Company is a group of its own inside the army now, exactly as that line hoped."
+  },
+
+
+  {
+    id: "the-golden-company-grenadier",
+    name: "The Golden Company Grenadier",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Grenadier",
+    group: "The Golden Company",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A grenadier of the Golden Company.",
+    provenance:
+      "Phase 2 helmet, yellow stripe over the crown and straight down between " +
+      "the eyes. A grey sash slung over one shoulder, a yellow chevron at the " +
+      "collar, and yellow wedges on both thighs.",
+    tags: ["star-wars", "clone", "trooper", "grenadier", "yellow", "golden-company", "branded"],
+    images: ["images/the-golden-company-grenadier-01.jpg"],
+    acquired: "",
+    notes: "The sash across his chest is the only soft-looking thing on him, and none of the others in the company wear one."
+  },
+
+
+  {
+    id: "the-golden-company-scout",
+    name: "The Golden Company Scout",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Scout",
+    group: "The Golden Company",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A scout of the Golden Company.",
+    provenance:
+      "A different helmet from the rest - flat-browed with an angular visor " +
+      "shelf over the eyes, and a yellow-framed respirator clamped across the " +
+      "mouth with a grey filter standing out from it. Yellow belt pouches, " +
+      "yellow bands at the hips.",
+    tags: ["star-wars", "clone", "scout", "respirator", "yellow", "golden-company", "branded"],
+    images: ["images/the-golden-company-scout-01.jpg"],
+    acquired: "",
+    notes: "The only one of the four in a scout helmet rather than the standard pattern, and the only clone in the whole collection wearing a breathing filter - which puts him alongside Plo Koon as someone kitted to survive the air itself."
+  },
+
+
+  {
+    id: "the-golden-commander",
+    name: "The Golden Commander",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Commander",
+    group: "The Golden Company",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The commander of the Golden Company.",
+    provenance:
+      "Helmet with the whole faceplate in yellow under a white visor brim, " +
+      "where his men wear yellow only as a stripe. A black pauldron over one " +
+      "shoulder and a brown cloth kama hanging from the belt, both real " +
+      "pieces rather than printing. Yellow ammunition blocks at the waist.",
+    tags: ["star-wars", "clone", "commander", "pauldron", "kama", "yellow", "golden-company", "branded"],
+    images: ["images/the-golden-commander-01.jpg"],
+    acquired: "",
+    notes: "New group, The Golden Company, four strong - a commander, a grenadier, a scout and a rifleman, which is a whole small unit with every job covered. He is marked out the way the Troop Commander is in your own Command Staff: cloth where the rest have paint."
+  },
+
+
+  {
+    id: "the-blaze-squad-soldier",
+    name: "The Blaze Squad Soldier",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A soldier of Blaze Squad.",
+    provenance:
+      "Phase 2 helmet with an orange stripe over the crown and a short orange " +
+      "flash at the nose. Orange wedges across the chest and down both thighs, " +
+      "and the white scuffed grey in places where it has been handled.",
+    tags: ["star-wars", "clone", "trooper", "orange", "blaze-squad", "branded"],
+    images: ["images/the-blaze-squad-soldier-01.jpg"],
+    acquired: "",
+    notes: "Blaze Squad is your name for them. Only one of him so far, so he stays in the Clone Army until a second turns up and makes the squad a group - the same rule the Winter Troopers and the dwarves went by."
+  },
+
+
+  {
+    id: "the-wolfpack-soldier",
+    name: "The Wolfpack Soldier",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A soldier of the Wolfpack.",
+    provenance:
+      "Grey and black markings throughout - three bars over the crown of the " +
+      "helmet, grey teeth and claw shapes worked across the faceplate, and a " +
+      "grey pauldron on one shoulder. No colour on him anywhere.",
+    tags: ["star-wars", "clone", "trooper", "grey", "wolfpack", "pauldron", "branded"],
+    images: ["images/the-wolfpack-soldier-01.jpg"],
+    acquired: "",
+    notes: "Wolfpack is your name for them. The markings on his faceplate read as a muzzle rather than as unit stripes - he is the only clone here whose helmet has been painted into an animal. Alone for now, same as Blaze Squad."
   },
 
 
