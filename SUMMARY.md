@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-271 characters from a custom LEGO minifigure world, in the order they were
+276 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -39,7 +39,9 @@ There is a part of the world where firearms simply do not function, so everyone 
 
 It also exports. A knight trained on the crossbow because that was all his home allowed came across to the primary dimension, picked up a gun, and turned out to be the finest shot in it.
 
-The place still needs a proper name.
+The place still needs a proper name, but it now has an identity: it is the medieval realm. The Royal Knights are its knights, the villagers are its people, and the rule about dying belongs to it.
+
+Its crown runs three deep. The Prince at the top. Then King Arthur, who answers to him and is the timeless supreme ruler of the realm - the one who goes out to the battles and fights the big monsters. Then the City King, who answers to Arthur, is the face of the place and governs the city while Arthur is away fighting.
 
 ### The knock-off societies
 
@@ -1394,19 +1396,19 @@ Very modest. He would rather not be in the spotlight at all.
 
 ### 95. King Arthur — Mounted
 
-**Alignment:** good · **Role:** King · **Based:** The Gunless Realm · **Figure:** custom
+**Alignment:** good · **Role:** King · **Based:** The Medieval Era · **Figure:** custom
 
 King of the part of the world where guns do not work, and where everyone has therefore fallen back on medieval tactics.
 
 He is a king in his own right and still answers to the Prince. His sword is Excalibur, and the cape is excellent.
 
-*Connections:* Follows The Prince
+*Connections:* Follows The Prince · Rules above The City King
 
 *Tags:* king, excalibur, gunless-realm, mounted, timeless
 
 ### 96. The Armorer
 
-**Alignment:** good · **Role:** Armorer · **Figure:** custom
+**Alignment:** good · **Role:** Armorer · **Based:** The Medieval Era · **Figure:** custom
 
 A knight out of the realm where guns don't work, trained on the crossbow because that is what there was.
 
@@ -1418,7 +1420,7 @@ Then he travelled to the primary Lego dimension, picked up a firearm, and turned
 
 ### 97. Curtis
 
-**Alignment:** good · **Role:** Knight · **Based:** The Gunless Realm · **Figure:** custom
+**Alignment:** good · **Role:** Knight · **Based:** The Medieval Era · **Figure:** custom
 
 A famous knight of the gunless realm. Very brave, and a great enjoyer of jousting.
 
@@ -3231,6 +3233,60 @@ A swordsman of the Royal Knights, and a mentor to them.
 *How it was got:* Bareheaded, brown hair going grey in the beard.
 
 *Tags:* knight, swordsman, mentor, teacher, medieval, royal-knights
+
+### 272. The Bard
+
+**Alignment:** good · **Role:** Bard · **Based:** The Medieval Era · **Figure:** custom
+
+The bard of the Royal Knights.
+
+*How it was got:* Soft brown hat, ginger beard, and the lion surcoat like the rest of them.
+
+*Tags:* bard, music, medieval, royal-knights, ginger
+
+### 273. The Red-Capped Swordsman
+
+**Alignment:** good · **Role:** Swordsman · **Based:** The Medieval Era · **Figure:** custom
+
+A swordsman of the Royal Knights.
+
+*How it was got:* Flat red cap and a brown beard - no helmet on him either.
+
+*Tags:* knight, swordsman, medieval, royal-knights, red-cap
+
+### 274. The Royal Archer
+
+**Alignment:** good · **Role:** Archer · **Based:** The Medieval Era · **Figure:** custom
+
+An archer of the Royal Knights.
+
+*How it was got:* Kettle helm with the mail coif, black legs.
+
+*Tags:* knight, archer, bow, medieval, royal-knights
+
+### 275. The Jester
+
+**Alignment:** good · **Role:** Jester · **Based:** The Medieval Era · **Figure:** custom
+
+The jester.
+
+*How it was got:* Red and white motley, bells on the hat, and a grin with a tongue out.
+
+*Tags:* jester, fool, court, medieval, royal-knights, motley
+
+### 276. The City King
+
+**Alignment:** good · **Role:** King · **Based:** The Medieval Era · **Figure:** custom
+
+One of the realm's kings, and the one you actually see. He is the face of it, and he rules the city.
+
+Above him is King Arthur, who is the timeless supreme ruler of the realm - the one who goes out to the battles and fights the big monsters while this king governs.
+
+*How it was got:* Gold crown, white moustache, and a cloth cape.
+
+*Connections:* Rules beneath King Arthur
+
+*Tags:* king, medieval, gunless-realm, ruler, city, figurehead
 
 ---
 

@@ -2859,9 +2859,10 @@ window.COLLECTION = [
     rank: "",
     role: "King",
     group: "The Gunless Realm",
-    location: "The Gunless Realm",
+    location: "The Medieval Era",
     relations: [
       { to: "the-prince", label: "Follows" },
+      { to: "the-city-king", label: "Rules above" },
     ],
     rating: 0,
     background:
@@ -2886,7 +2887,7 @@ window.COLLECTION = [
     rank: "",
     role: "Armorer",
     group: "The Gunless Realm",
-    location: "",
+    location: "The Medieval Era",
     relations: [
       { to: "king-arthur", label: "From the realm of" },
     ],
@@ -2914,7 +2915,7 @@ window.COLLECTION = [
     rank: "",
     role: "Knight",
     group: "The Gunless Realm",
-    location: "The Gunless Realm",
+    location: "The Medieval Era",
     relations: [
       { to: "king-arthur", label: "Knight of" },
     ],
@@ -7272,6 +7273,124 @@ window.COLLECTION = [
     images: ["images/the-swordmaster-01.jpg"],
     acquired: "",
     notes: "Placeholder name, chosen because it holds both halves of what you said - he fights and he teaches. No link written to any particular student; the order already shows him to all of them. He joins a long line here: the Instructor, the Chef, the Rebuilt, the Blue-Haired Ninja, the Ferryman and the Occultist all teach somebody."
+  },
+
+
+
+  {
+    id: "the-bard",
+    name: "The Bard",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bard",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "The bard of the Royal Knights.",
+    provenance: "Soft brown hat, ginger beard, and the lion surcoat like the rest of them.",
+    tags: ["bard", "music", "medieval", "royal-knights", "ginger"],
+    images: ["images/the-bard-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. Second musician in the collection after the Rap Star, and the only one attached to an army - in a realm where dying costs you your gear and not your life, somebody has to be keeping the count of who did what."
+  },
+
+
+  {
+    id: "the-red-capped-swordsman",
+    name: "The Red-Capped Swordsman",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Swordsman",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "A swordsman of the Royal Knights.",
+    provenance: "Flat red cap and a brown beard - no helmet on him either.",
+    tags: ["knight", "swordsman", "medieval", "royal-knights", "red-cap"],
+    images: ["images/the-red-capped-swordsman-01.jpg"],
+    acquired: "",
+    notes: "Name is purely descriptive. Fourth swordsman in the order."
+  },
+
+
+  {
+    id: "the-royal-archer",
+    name: "The Royal Archer",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Archer",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "An archer of the Royal Knights.",
+    provenance: "Kettle helm with the mail coif, black legs.",
+    tags: ["knight", "archer", "bow", "medieval", "royal-knights"],
+    images: ["images/the-royal-archer-01.jpg"],
+    acquired: "",
+    notes: "Placeholder name. The Archer Commander finally has an archer to command."
+  },
+
+
+  {
+    id: "the-jester",
+    name: "The Jester",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Jester",
+    group: "The Royal Knights",
+    location: "The Medieval Era",
+    relations: [],
+    rating: 0,
+    background: "The jester.",
+    provenance: "Red and white motley, bells on the hat, and a grin with a tongue out.",
+    tags: ["jester", "fool", "court", "medieval", "royal-knights", "motley"],
+    images: ["images/the-jester-01.jpg"],
+    acquired: "",
+    notes: "Filed with the Royal Knights because you listed him among them, though he is the only one of the eleven who does not fight. Fourth entertainer in the collection, after the Comedian, the Host and the Clown."
+  },
+
+
+  {
+    id: "the-city-king",
+    name: "The City King",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "King",
+    group: "The Gunless Realm",
+    location: "The Medieval Era",
+    relations: [
+      { to: "king-arthur", label: "Rules beneath" },
+    ],
+    rating: 0,
+    background:
+      "One of the realm's kings, and the one you actually see. He is the face " +
+      "of it, and he rules the city.\n\n" +
+      "Above him is King Arthur, who is the timeless supreme ruler of the " +
+      "realm - the one who goes out to the battles and fights the big monsters " +
+      "while this king governs.",
+    provenance: "Gold crown, white moustache, and a cloth cape.",
+    tags: ["king", "medieval", "gunless-realm", "ruler", "city", "figurehead"],
+    images: ["images/the-city-king-01.jpg"],
+    acquired: "",
+    notes: "Fourth King in the role filter, and the second in this one realm. Not a contradiction like the First Man and the Ancient or the General and the Space Marshal - this is a stated hierarchy, and it runs three deep: the Prince, then King Arthur who answers to him, then this man who answers to Arthur."
   },
 
 

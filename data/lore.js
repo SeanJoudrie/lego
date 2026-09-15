@@ -61,7 +61,8 @@ window.LORE = [
       "It also exports. A knight trained on the crossbow because that was all " +
       "his home allowed came across to the primary dimension, picked up a gun, " +
       "and turned out to be the finest shot in it.\n\n" +
-      "The place still needs a proper name."
+      "The place still needs a proper name, but it now has an identity: it is the medieval realm. The Royal Knights are its knights, the villagers are its people, and the rule about dying belongs to it.\n\n" +
+      "Its crown runs three deep. The Prince at the top. Then King Arthur, who answers to him and is the timeless supreme ruler of the realm - the one who goes out to the battles and fights the big monsters. Then the City King, who answers to Arthur, is the face of the place and governs the city while Arthur is away fighting."
   },
 
   {
