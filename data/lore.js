@@ -1152,12 +1152,41 @@ window.LORE = [
       "Sokka has been filed good in this collection for a long time. Two " +
       "figures out of one show, on opposite decks, with nothing written " +
       "between them.\n\n" +
+      "Then a clone. Twenty-nine clone troopers were catalogued before him - " +
+      "the Clone Army, the 501st, the Commandos, the Wolfpack, the 187th, " +
+      "Commander Cody, and Claws who commands the lot - and every single one " +
+      "was good. The clones are the largest body of figures in this " +
+      "collection and they had never once produced a traitor. Now one of them " +
+      "has betrayed the rest.\n\n" +
+      "Three branded villains in three batches, after five hundred and ninety " +
+      "figures with none.\n\n" +
       "It is worth saying what that streak meant. The enemy here was " +
       "hand-made, every one of them, for the entire life of the collection. " +
       "Quinn, the shadow king, the Iron League, the Verdauf traitors, the " +
       "League of Shadows - not one of them came out of a box with a villain " +
       "already written. A bought figure could be a soldier of yours. It could " +
       "not be the thing you were fighting."
+  },
+
+  {
+    title: "Things that are not people",
+    text:
+      "For six hundred figures every enemy in this world was somebody. A man " +
+      "who wanted a throne, a captain who sold his own squadron, a cult with a " +
+      "faculty. Even the machines on that side were built by somebody and sent " +
+      "- the Missile, the killer bots, the Maker who made himself.\n\n" +
+      "Two batches have changed that. There is a captain of the evil insects " +
+      "now, in an insect helm with mandibles spread, commanding a force that " +
+      "has not been photographed. And there are brain-eating parasites: two " +
+      "lime-green things that sit over a person's head like a cap, one eye on " +
+      "a stalk, a mouth of white teeth, four legs curled under to hold on.\n\n" +
+      "The parasites are the first enemy here that does not want anything. " +
+      "Every villain in this collection has a reason - a claim, a grievance, a " +
+      "paycheque, a doctrine. These eat.\n\n" +
+      "It is worth saying how empty that category was. In six hundred figures " +
+      "the only creatures of any kind were Laval, a horse called Widow, and a " +
+      "Spider-Man - and all three are on the good side. This world had no " +
+      "animals in it at all until something arrived to feed."
   }
 
 ];

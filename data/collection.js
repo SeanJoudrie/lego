@@ -14304,6 +14304,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "the-sith-lords-second", label: "His second in command" },
       { to: "quinn", label: "Aligned with" },
     ],
     rating: 0,
@@ -15752,6 +15753,147 @@ window.COLLECTION = [
     images: ["images/the-insect-captain-01.jpg"],
     acquired: "",
     notes: "Insects are new. Six hundred figures and there has not been a single one, nor any animal enemy at all - the only creatures catalogued are Laval, a horse, and a Spider-Man. The evil insects he commands have not been photographed, so the force is real and empty for now, the same way the alien mercenaries were before their leader arrived. No group made until there is somebody to put in it."
+  },
+
+
+
+  {
+    id: "the-silent-soldier",
+    name: "The Silent Soldier",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Assassin",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "They call him the Silent Soldier. An elite assassin.",
+    provenance:
+      "A black helmet fully enclosed, with a smoked visor and no face visible " +
+      "behind it at all. A black torso printed with a silver bar at the " +
+      "collarbone and, below it, a large orange insect - long body, six legs, " +
+      "antennae. A red belt, red hands, black arms and legs.",
+    tags: ["villain", "assassin", "elite", "silent", "faceless", "insect-mark", "visor"],
+    images: ["images/the-silent-soldier-01.jpg"],
+    acquired: "",
+    notes: "Fifth assassin here, and all five are on the bad side. The thing worth a ruling is the insect printed across his chest: the Insect Captain arrived one batch ago in charge of the evil insects, and this man wears one as a device. It reads as a badge of allegiance and nothing says it is, so no link is drawn. Say he is theirs and the insects have their first soldier."
+  },
+
+  {
+    id: "the-brain-parasites",
+    name: "The Brain Parasites",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Parasite",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Brain-eating parasites. They fasten onto a person's head and feed on " +
+      "what is inside it.",
+    provenance:
+      "Two of them, identical. Lime green, moulded as a single piece that sits " +
+      "over a head like a cap - one stalked eye standing off the top, a wide " +
+      "mouth ringed with white teeth and a dark red throat behind it, and four " +
+      "curled legs hanging down to grip.",
+    tags: ["villain", "parasite", "brain-eating", "creature", "pair", "head-mounted", "green"],
+    images: ["images/the-brain-parasites-01.jpg"],
+    acquired: "",
+    notes: "One card because they came as a pair, the same call as the Nude Aliens and the Lost Pirates. They are also the first enemy in this collection that is not a person or a machine - the first thing that just eats. Insects arrived one batch ago and had nothing to show for themselves yet; this is the second non-human threat in two batches, after six hundred figures with none at all."
+  },
+
+  {
+    id: "the-retired-general",
+    name: "The Retired General",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "General",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A retired infantry general living a humble life, and none of that is " +
+      "the truth of him. He is evil, and he is hired to plan raids.\n\n" +
+      "The quiet life is the cover. The work is still the work.",
+    provenance:
+      "Black hair and a full black beard over a pale face with heavy brows and " +
+      "a flat mouth. A pale green work shirt printed with buttons, braces over " +
+      "both shoulders and a worn leather belt; one olive arm and one darker, " +
+      "pale hands, plain grey legs. Nothing military anywhere on him.",
+    tags: ["villain", "general", "retired", "cover", "raids", "planner", "civilian-dress"],
+    images: ["images/the-retired-general-01.jpg"],
+    acquired: "",
+    notes: "Fourth general in the collection and the third on the bad side, after General Shepherd who stranded the Green Rangers and the Fleet General who spent a crew to hand Quinn a fleet. Only one general here is good. He is the first villain here dressed as a civilian - no uniform, no armour, no mark of any kind - which for a man whose whole method is the cover is the costume doing the work. Nothing connects him to the Iron League or to Quinn's organisation; somebody hires him, and it is not written who."
+  },
+
+  {
+    id: "the-clone-traitor",
+    name: "The Clone Traitor",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A clone trooper who betrayed the rest of the clones.",
+    provenance:
+      "Phase 1 clone armour, white, with olive-green markings - a stripe over " +
+      "the crown of the helmet, the brow band and the visor frame picked out " +
+      "in the same green. A grey pauldron over one shoulder and a grey kama at " +
+      "the waist, olive arms, black hands, white legs.",
+    tags: ["villain", "clone", "clone-trooper", "traitor", "star-wars", "branded", "phase-1"],
+    images: ["images/the-clone-traitor-01.jpg"],
+    acquired: "",
+    notes: "The first clone on the bad side. Twenty-nine clones are catalogued here - the Clone Army, the 501st, the Commandos, the Wolfpack, the 187th, Cody, Claws who commands all of them - and every single one was good until him. He is also the third branded villain ever, after Savage Opress and Zuko, and all three have landed within three batches. Not put in the Clone Army: a group shows everybody to everybody, and betraying them is the one fact he has. Filed branded because he looks like a stock figure rather than one you worked on - say if he is painted and it changes."
+  },
+
+  {
+    id: "the-sith-lords-second",
+    name: "The Sith Lord's Second",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Second in Command",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-sith-lord", label: "Second in command to" },
+    ],
+    rating: 0,
+    background:
+      "Second in command to the Sith Lord - the minor one who wants the " +
+      "knowledge rather than the throne, and who aligned with Quinn to spread " +
+      "the dark side as a religion.\n\n" +
+      "If that doctrine is the work, this is the man who runs it under him.",
+    provenance:
+      "A brown cap banded in gold over a hood, with a yellow face beneath it - " +
+      "a full white moustache and beard, white brows, deep lines. Brown layered " +
+      "robes printed with a grey inner wrap and a belt hung with a bone-shaped " +
+      "clasp; brown arms, silver hands, black legs with pale rags printed at " +
+      "the thigh.",
+    tags: ["villain", "second-in-command", "sith", "dark-side", "religion", "elder", "robes"],
+    images: ["images/the-sith-lords-second-01.jpg"],
+    acquired: "",
+    notes: "You described his master as the Sith who wears the brown outfit and has the hair, and that is the Sith Lord exactly - dark brown hair, brown layered robes, orange scoring at the temples. No guessing needed. Fourth figure here whose whole identity is being somebody else's second - after The Second, the Aqua Force Second and Quinn's Second-in-Command - and the second of the four on the villain side. The doctrine now has a chain of command: a religion with two people running it."
   },
 
 
