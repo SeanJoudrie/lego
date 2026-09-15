@@ -1,6 +1,6 @@
 # The Collection — full character summary
 
-488 characters from a custom LEGO minifigure world, in the order they were
+490 characters from a custom LEGO minifigure world, in the order they were
 catalogued. Everything below is the owner's lore, written down as told.
 
 ---
@@ -5545,6 +5545,30 @@ Two of the crew. Lost, and dead.
 The other in a blue headscarf, moustached and heavily freckled, in a red and white striped shirt over a wide belt and pale grey legs. He was photographed lying on his side.
 
 *Tags:* pirate, crew, lost, deceased, tattoo, anchor, stripes
+
+### 489. The Lost Aqua Diver
+
+**Alignment:** good · **Role:** Aqua Force · **Figure:** custom
+
+Aqua Force - the service that handles any military necessity involving going underwater. Lost, and dead.
+
+*How it was got:* The same black wetsuit the rest of Aqua Force wear: blue trident at the sternum, yellow piping, blue flashes at the ribs and a row of white pouches across the belt. He is out of the helmet the others keep on - a bare pink head, balding, a hard flat mouth and a crease down one cheek that reads as a scar. Tan arms and tan legs instead of the grey and black the Diver wears.
+
+*Tags:* aqua-force, underwater, diver, trident, lost, deceased, scarred
+
+### 490. The Gungan Jedi
+
+**Alignment:** good · **Role:** Jedi · **Figure:** custom
+
+A Gungan who is a Jedi. Lost, and dead.
+
+There is no such thing in the films - the Gungans in this collection are Jar Jar and two soldiers, and none of them are Force users. This one is yours.
+
+*How it was got:* Moulded Gungan head in pale olive, eyes up on stalks, long earflaps. Cream robe printed with brown dotted seams, a winged crest at the collar and two silver clasps at the chest, over dark grey legs. Pale flesh arms and hands. A black cloth cape, spread out flat underneath him in the photograph.
+
+The robe is not a piece I could place. Photographed off an old video rather than in hand.
+
+*Tags:* star-wars, gungan, jedi, alien, cape, lost, deceased
 
 ---
 

@@ -12914,7 +12914,7 @@ window.COLLECTION = [
     tags: ["space-militia", "lost", "deceased", "civilian-dress", "headset"],
     images: [{ src: "images/the-militiamen-out-of-armour-01.jpg", caption: "Both of them" }],
     acquired: "",
-    notes: "Four of the twelve lost figures are Space Militia, across three cards, which is a hard thing to notice - of every unit in this collection, the militia is the one that actually lost people. The General lost his adopted son too, and that death is why the whole outfit has the safety culture it has."
+    notes: "Four of the fourteen lost figures are Space Militia, across three cards, which is a hard thing to notice - of every unit in this collection, the militia is the one that actually lost people. The General lost his adopted son too, and that death is why the whole outfit has the safety culture it has."
   },
 
 
@@ -13060,6 +13060,70 @@ window.COLLECTION = [
     ],
     acquired: "",
     notes: "One card because you sent them as a pair, but they were photographed separately and split cleanly if you want two. The first shares the anchor tattoo with the Tattooed Pirate, who is alive and in the same crew - either the same ink twice or the same man in a second photograph, and you would know which. The crew is six now and two of the six are gone."
+  },
+
+
+
+  {
+    id: "the-lost-aqua-diver",
+    name: "The Lost Aqua Diver",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Aqua Force",
+    group: "Aqua Force",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Aqua Force - the service that handles any military necessity involving " +
+      "going underwater. Lost, and dead.",
+    provenance:
+      "The same black wetsuit the rest of Aqua Force wear: blue trident at the " +
+      "sternum, yellow piping, blue flashes at the ribs and a row of white " +
+      "pouches across the belt. He is out of the helmet the others keep on - " +
+      "a bare pink head, balding, a hard flat mouth and a crease down one " +
+      "cheek that reads as a scar. Tan arms and tan legs instead of the grey " +
+      "and black the Diver wears.",
+    tags: ["aqua-force", "underwater", "diver", "trident", "lost", "deceased", "scarred"],
+    images: ["images/the-lost-aqua-diver-01.jpg"],
+    acquired: "",
+    notes: "First Aqua Force loss - the service is five now and one of the five is gone. He is also the only one of them photographed without a helmet, which means he is the only member of an underwater unit whose face anyone has seen. Filed among the lost because of how he was photographed; one word moves him back to the living."
+  },
+
+
+  {
+    id: "the-gungan-jedi",
+    name: "The Gungan Jedi",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Star Wars",
+    rank: "",
+    role: "Jedi",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A Gungan who is a Jedi. Lost, and dead.\n\n" +
+      "There is no such thing in the films - the Gungans in this collection are " +
+      "Jar Jar and two soldiers, and none of them are Force users. This one is " +
+      "yours.",
+    provenance:
+      "Moulded Gungan head in pale olive, eyes up on stalks, long earflaps. " +
+      "Cream robe printed with brown dotted seams, a winged crest at the " +
+      "collar and two silver clasps at the chest, over dark grey legs. Pale " +
+      "flesh arms and hands. A black cloth cape, spread out flat underneath " +
+      "him in the photograph.\n\n" +
+      "The robe is not a piece I could place. Photographed off an old video " +
+      "rather than in hand.",
+    tags: ["star-wars", "gungan", "jedi", "alien", "cape", "lost", "deceased"],
+    images: ["images/the-gungan-jedi-01.jpg"],
+    acquired: "",
+    notes: "Named the way you named him. The Gungans are four figures on three cards now, and this is the only one of them who is not out of a film. No group written: this world has its own Jedi - the Jedi, and the Snow Jedi's Line - and nobody has said whether he trained with any of them or stood alone. Say so and he joins them."
   },
 
 
