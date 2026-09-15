@@ -17768,7 +17768,7 @@ window.COLLECTION = [
     tags: ["villain", "star-wars", "branded", "imperial", "pilot", "walker", "goggles"],
     images: ["images/the-at-st-pilot-01.jpg"],
     acquired: "",
-    notes: "Third pilot on the bad side, after the Pilot's Apprentice who murdered the Famous Pilot for his job and the Evil Pilot. Thirty-two pilots are catalogued here and twenty-nine of them are good; this is the first one flying for an army rather than for himself."
+    notes: "Third pilot on the bad side, after the Pilot's Apprentice who murdered the Famous Pilot for his job and the Evil Pilot. Thirty-one pilots are catalogued here and twenty-eight of them are good. This is the first one flying for an army rather than for himself."
   },
 
   {
@@ -17795,7 +17795,7 @@ window.COLLECTION = [
     tags: ["villain", "star-wars", "branded", "imperial", "governor", "moff", "uniform", "rank-bar"],
     images: ["images/grand-moff-tarkin-01.jpg"],
     acquired: "",
-    notes: "The Empire arrives properly with this batch: a governor, a walker pilot, a trooper in blue and a snowtrooper, where before it was seven figures of that army all filed good. He is the one who makes it an occupation rather than a uniform - the second villain here whose power is administrative, after Nute Gunray's trade route, and only the third figure on that side with no weapon in the description at all."
+    notes: "The Empire arrives properly with this batch: a governor, a walker pilot, a trooper in blue and a snowtrooper, where before it was seven figures of that army all filed good. He is the one who makes it an occupation rather than a uniform - the second villain here whose power is administrative, after Nute Gunray and his trade route. Neither of them carries anything."
   },
 
 
