@@ -838,7 +838,7 @@ window.COLLECTION = [
   {
     id: "the-younger-brother",
     name: "The Younger Brother",
-    variant: "His father's armor, and his everyday gear",
+    variant: "Three outfits",
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
@@ -864,10 +864,11 @@ window.COLLECTION = [
     tags: ["soldier", "brother", "inherited-armor", "survivor"],
     images: [
       { src: "images/the-younger-brother-01.jpg", caption: "His father's armor" },
+      { src: "images/the-younger-brother-03.jpg", caption: "His own armour" },
       { src: "images/the-younger-brother-02.jpg", caption: "Everyday gear" }
     ],
     acquired: "",
-    notes: "Placeholder name."
+    notes: "Placeholder name.\n\nThree outfits now. His father's armour is white, black and yellow under a black cap - a dead man's kit, worn by his son. His everyday gear is a leather jacket over grey jeans. Between them is his own: white and sand-green plate in the Verdauf pattern, brown hair and stubble, a short grey blade in his hand. That is the one he actually serves in, and it is the only one of the three that is neither borrowed from his father nor off duty.\n\nWorth reading beside the Green Captain's card. His brother pushed him into the escape pod and set the bomb off himself, and everyone else lived. So the man standing in this armour is alive because somebody chose it - and two of the three things he wears belonged to men who are not here."
   },
 
   {
@@ -1539,7 +1540,7 @@ window.COLLECTION = [
     tags: ["chef", "golden-knife", "magic-weapon", "supersonic", "the-best"],
     images: ["images/the-chef-01.jpg"],
     acquired: "",
-    notes: "Placeholder name. He has an apprentice now."
+    notes: "Placeholder name. He has an apprentice now.\n\nHe also lost one. The space cadet who cooked for him - the older of the two, about twenty-eight - left this kitchen because he wanted to do something bigger with his life, went into officer training, and died. The relation on this card says he trained one of them, and that is now the only line in the collection that runs from a man who is fine to a man who is not."
   },
 
   {
@@ -1922,12 +1923,16 @@ window.COLLECTION = [
       "used to work in a restaurant, for the really good chef, and left because " +
       "he wanted to do something bigger with his life.\n\n" +
       "The one with brown hair is very nice and very studious, and sometimes a " +
-      "bit too passive.",
+      "bit too passive.\n\n" +
+      "The older one is dead.",
     provenance: "",
     tags: ["space-cadet", "officer-candidate", "trainee", "pair"],
-    images: ["images/the-space-cadets-01.jpg"],
+    images: [
+      { src: "images/the-space-cadets-01.jpg", caption: "The two of them" },
+      { src: "images/the-space-cadets-02.jpg", caption: "The older one, who died" },
+    ],
     acquired: "",
-    notes: "Brown hair on the left, dark hair and moustache on the right."
+    notes: "Brown hair on the left, dark hair and moustache on the right. The second photograph is the dark-haired one on his own.\n\nHe is dead now, and the card has to carry what that costs. He was about twenty-eight. He worked for the Chef - the best chef in the world, the man with the golden knife - and he left a good job with a great man because he wanted to do something bigger with his life. He went into officer training. He did not come out of it.\n\nThe tie to the Chef was already written, from the other end: the Chef's card says he trained one of the space cadets. It reads differently now. A man taught somebody a trade, the somebody left it for a bigger life, and the bigger life killed him.\n\nIt is also a death of the rarer kind here. Most of the dead in this catalogue are figures that went missing - the rule is that a lost figure is a dead one, and they sit in their own section at the end of the shelf. This one is still on it, photographed twice, standing next to his classmate. He died in the world and not in the room, the way the Green Captain did.\n\nAnd there is a shape in the two of them now. The card was written as an ordinary thing: a sample of a class, always a few of them about, two lads at the start of it. One of the two is gone. The other is the quiet studious one who is sometimes a bit too passive, and nothing has been said about what any of this did to him."
   },
 
   {
@@ -13021,6 +13026,7 @@ window.COLLECTION = [
       "black legs, one hand still flesh and the other gone black.",
     tags: ["villain", "quinn", "sith", "dark-arts", "force", "shadow-uprising", "betrayal", "self-healing", "immortality", "arms-dealer"],
     images: [
+      { src: "images/quinn-04.jpg", caption: "The man himself" },
       { src: "images/quinn-01.jpg", caption: "The soldier, before any of it" },
       { src: "images/quinn-02.jpg", caption: "The independent arms dealer" },
       { src: "images/quinn-03.jpg", caption: "What he made of himself" },
@@ -13093,7 +13099,10 @@ window.COLLECTION = [
       "grey torso and legs with no printing at all, one arm light grey and the " +
       "other in darker armoured plate.",
     tags: ["villain", "phalanx", "nanobots", "virus", "alien", "skull", "planet-eater", "zombies", "hive"],
-    images: ["images/phalanx-01.jpg"],
+    images: [
+      { src: "images/phalanx-01.jpg", caption: "On the shelf" },
+      { src: "images/phalanx-02.jpg", caption: "Front on - the tusks, and the one armoured arm" },
+    ],
     acquired: "",
     notes: "A different kind of threat from the other two. Quinn and the Shadow King both want something - power, a war won - and this one is an appetite that happens to be clever. He is also the first villain here who commands anything: an army of taken bodies, which makes him the only enemy in this collection with a force behind him that is not made of soldiers who chose it. Worth noting he is the second entity built out of something that was here before - the Ancient is the other - and the only one that was dug up and worn."
   },
@@ -14041,7 +14050,10 @@ window.COLLECTION = [
       "body. Black trousers with a gold-buckled belt and a gold star hanging " +
       "at the hip.",
     tags: ["villain", "mentor", "quinn", "dark-arts", "crystals", "life-extension", "disease", "explorer", "old"],
-    images: ["images/wen-01.jpg"],
+    images: [
+      { src: "images/wen-01.jpg", caption: "The explorer" },
+      { src: "images/wen-02.jpg", caption: "Armed" },
+    ],
     acquired: "",
     notes: "One of the few villains here with a proper name, and the only one who is older than Quinn in every sense. The making of Quinn has always read as a man who taught himself: he was left to die in the cold, drew a conclusion, and went and studied. There was somebody standing there. Note also what he was looking for - crystals to prolong a life and drive out a disease. Quinn ended up changing the essence of his own body so nothing could kill him, and the man who trained him spent his life chasing the same thing by gentler means. Say the word if Wen never actually got what he was after."
   },

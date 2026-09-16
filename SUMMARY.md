@@ -1122,7 +1122,7 @@ He dies aboard an exploding ship. There was a bomb about to go off and take the 
 
 *Tags:* verdauf, elite, captain, hand-to-hand, brother, deceased
 
-### 24. The Younger Brother — His father's armor, and his everyday gear
+### 24. The Younger Brother — Three outfits
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
@@ -1579,6 +1579,8 @@ Officer candidates — the ROTC of this world, the route into the military. Ther
 The one with dark hair is the older of the pair at about twenty-eight. He used to work in a restaurant, for the really good chef, and left because he wanted to do something bigger with his life.
 
 The one with brown hair is very nice and very studious, and sometimes a bit too passive.
+
+The older one is dead.
 
 *Connections:* One of them cooked for The Chef
 
