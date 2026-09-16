@@ -20983,7 +20983,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "Ultimate Leader of the Droid Armies",
     role: "Commander",
-    group: "",
+    group: "The Droid Army",
     location: "",
     relations: [],
     rating: 0,
@@ -21004,7 +21004,134 @@ window.COLLECTION = [
       "images/steel-01.jpg",
     ],
     acquired: "",
-    notes: "The top of a chain of command that has never had a top. This collection has been filling with machines on the villain side for its whole life and not one of them answered to anybody: the Missile, the two Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Tanker Droid, the Tanker Robot, Ultron, the Maker who built himself, the Robot Builder who builds more. Every one of them a single object with no superior written anywhere on its card. He is the superior, and he is the first.\n\nThat raises something, and it is not written in. The Droids are a group here - C-3PO, R2-D2 and six astromechs - and all eight are filed good, as are the Defense Bot, the Stunt Robot, the Storage Robot, the Dock Robot and the Tin Robot. If Steel is in charge of all robots then he is in charge of them too, and that is either the best thing on his card or it is not true of everybody. Nothing is drawn until you say which.\n\nTwelfth villain out of the two hundred and seven home-made ones with a name of his own rather than a description, after Quinn, Phalanx, General Shepherd, Quinn's Second-in-Command, Johnny Plasma, Wen, Long Arm Johnson, Deus Pater, Doc Ock, Matthew and Thresher. The enemy here is overwhelmingly a set of descriptions; a name is the rare thing.\n\nEleventh thing in this collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Wampa, Lotso, Gollum, the Giant Orc, Matthew, the Tanker Droid and the Yeti - and the second of those that is a built machine rather than a moulded body. The Kartians probably belong on that list as well; their card says they are not minifigure-shaped at all and never took a number.\n\nNo group made. He leads droid armies and none of them have been photographed as his, so the force is real and empty - the same shape of problem the Insect Captain had before the Evil Bug turned up, except that this time the machines are already on the shelf and the only question is whose they are."
+    notes: "The top of a chain of command that has never had a top. This collection has been filling with machines on the villain side for its whole life and not one of them answered to anybody: the Missile, the two Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Tanker Droid, the Tanker Robot, Ultron, the Maker who built himself, the Robot Builder who builds more. Every one of them a single object with no superior written anywhere on its card. He is the superior, and he is the first.\n\nThat raises something, and it is not written in. The Droids are a group here - C-3PO, R2-D2 and six astromechs - and all eight are filed good, as are the Defense Bot, the Stunt Robot, the Storage Robot, the Dock Robot and the Tin Robot. If Steel is in charge of all robots then he is in charge of them too, and that is either the best thing on his card or it is not true of everybody. Nothing is drawn until you say which.\n\nTwelfth villain out of the two hundred and seven home-made ones with a name of his own rather than a description, after Quinn, Phalanx, General Shepherd, Quinn's Second-in-Command, Johnny Plasma, Wen, Long Arm Johnson, Deus Pater, Doc Ock, Matthew and Thresher. The enemy here is overwhelmingly a set of descriptions; a name is the rare thing.\n\nEleventh thing in this collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Wampa, Lotso, Gollum, the Giant Orc, Matthew, the Tanker Droid and the Yeti - and the second of those that is a built machine rather than a moulded body. The Kartians probably belong on that list as well; their card says they are not minifigure-shaped at all and never took a number.\n\nThe group is made, and it took one batch. This card was written saying he led droid armies that had never been photographed, and the next thing off the shelf was the army: four super battle droids, one of them with a cannon where an arm should be, two droid commandos and an IG captain. The Droid Army exists now with him at the head of it. It went the way the Insect Captain's did - a card that said the force was real and empty, and then the force.\n\nWhat is still open is the wider claim. Droids are his by your word and the group reflects that. Robots in general was the bigger statement, and it has not been tested: the machines already on the villain deck - the Missile, the two Killer Bots, the Tanker Droid, the Tanker Robot, the Robotic Samurai, the Television, the Robot Builder, the Skeleton Robot - are all still filed under nobody, and the good side's eight Droids and five working robots are still filed good."
+  },
+
+  {
+    id: "the-super-battle-droids",
+    name: "The Super Battle Droids",
+    variant: "Four of them",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droid Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Super battle droids. Four of them, and they are the line.",
+    provenance:
+      "Gunmetal grey, and rubbed to a shine along the shoulders and the tops of " +
+      "the arms where they have been handled. Not a minifigure build anywhere " +
+      "in them: one heavy torso moulded in a single piece, rounded across the " +
+      "chest and ribbed down the stomach, with a small head sunk low between " +
+      "the shoulders - no face on it, only a moulded brow and a notch where the " +
+      "optics would be. The shoulders are broad and angular and the arms hang " +
+      "from them in one jointed piece each, down past the hips. Below all that " +
+      "bulk the legs are thin, jointed at the knee, standing on flat slab feet. " +
+      "Nothing is printed on any of the four.",
+    tags: ["villain", "star-wars", "branded", "droid", "battle-droid", "super-battle-droid", "squad", "unprinted"],
+    images: [
+      { src: "images/the-super-battle-droids-01.jpg", caption: "Four of them" },
+      { src: "images/the-super-battle-droids-02.jpg", caption: "One of them, close" },
+    ],
+    acquired: "",
+    notes: "The first battle droids in the collection. A hundred and thirty-two Star Wars cards were catalogued before this batch and not one of them was the thing the clones are for.\n\nThat is the size of it. Fifty-one clone cards are on the shelf - the Clone Army, the 501st, the 187th, the Wolfpack, the Commandos, the Golden Company, Commander Cody, Captain Rex, Claws who commands the lot - forty-five good and six who turned. They are the largest body of figures in this collection by a wide margin, and they have spent its entire life with no opposing army built for them. The clones here have been fighting the Shadow King and Quinn and the Iron League, because those were the enemies this world had. Now the other army is on the shelf.\n\nAnd it arrived with a commander already waiting. Steel was catalogued one batch ago as the ultimate leader of the droid armies, with a card that said the armies had never been photographed and the force was real and empty. It is not empty now. The Droid Army is made, with Steel at the head of it and these four in it.\n\nOne flag while they are here. The running list of figures that are not minifigure-shaped stands at eleven, counted one at a time with the ordinal written onto each card - and it has never included the astromechs, of which there are eight, none of them minifigure-shaped either. These droids make that omission obvious. The list has really been a list of characters with unusual bodies, and the machines were never on it. Say if it should be two lists and I will write them both."
+  },
+
+  {
+    id: "the-cannon-armed-droid",
+    name: "The Cannon-Armed Droid",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droid Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A battle droid with a cannon where an arm should be.",
+    provenance:
+      "The same gunmetal build as the other four - single moulded torso, sunken " +
+      "faceless head, angular shoulders, thin legs on slab feet - with one " +
+      "difference, and it is the whole card. The right arm is gone. In its " +
+      "place a dark brown assembly is clipped into the shoulder: a blocky " +
+      "housing running back along the upper arm and a short barrel out the " +
+      "front of it with a pale silver muzzle. The left arm is the ordinary one, " +
+      "hanging past the hip.",
+    tags: ["villain", "star-wars", "branded", "droid", "battle-droid", "cannon", "weapon-arm", "modified"],
+    images: [
+      "images/the-cannon-armed-droid-01.jpg",
+    ],
+    acquired: "",
+    notes: "Filed on its own because you said so, and it earns it. Everything else in the squad is identical and this one has had a limb taken off and a weapon put in its place.\n\nThat drops straight into the oldest running idea in this world. Body modification worn as history starts with the Discarded and his silver arm - the reason this civilization has cybernetics at all - and it runs through the Mechanic, who repaired his own arm and his own skull, and the Rebuilt, and the Hijacked, and the Bionics Team on the villain side, whose whole trade is prosthetics that double as weapons: a limb that is also a gun.\n\nThis is that, built. Every one of those cards is about a person who lost something and had it replaced. This is a machine that was made with the replacement already on it, and no person under it at all. The idea arrives at its end point and there is nobody inside to have suffered for it.\n\nNothing connects it to the Bionics Team and it would be the obvious place for it to have been made. Say the word and the line goes in."
+  },
+
+  {
+    id: "the-droid-commandos",
+    name: "The Droid Commandos",
+    variant: "Two figures",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droid Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two droid commandos.",
+    provenance:
+      "A different build entirely from the super battle droids: thin, open and " +
+      "skeletal, dark reddish brown all through. The torso is a frame rather " +
+      "than a body - a rectangular cage with the daylight straight through it, " +
+      "a small panel set in the middle and a red dot at one side of the chest. " +
+      "The arms are long and hinged and end in open claws, and a backpack plate " +
+      "sits behind each shoulder. Long thin legs, jointed at the knee, on flat " +
+      "feet. The heads are a narrow moulded skull with a snout and two ear " +
+      "cups, and they are the only place the two differ: one is printed with a " +
+      "pale grey band across the brow and grey marks either side, the other " +
+      "carries only the small grey marks with the brow left plain.",
+    tags: ["villain", "star-wars", "branded", "droid", "battle-droid", "commando", "brown", "pair"],
+    images: [
+      "images/the-droid-commandos-01.jpg",
+    ],
+    acquired: "",
+    notes: "Two figures on one card, and the printing on the heads is the only thing telling them apart - one has a band across the brow and the other does not, which everywhere else in this collection has meant rank. Nobody has said whether it means that here.\n\nThey are the opposite build to the super battle droids in every way. Those are one solid moulded mass with a head buried in it; these are a frame with the light coming through, arms like tools and a skull for a head. Same army, two bodies built on opposite principles - one to absorb fire and one to move.\n\nThat gives the enemy something it has never had: an army with unit types. Every other force on the villain deck is one kind of thing repeated - the Shadow Soldiers, the Kartians, the Sting Rays, the Martians, the Chitauri. This one already has heavies, a weapon platform, commandos and a captain, and it turned up complete in a single batch."
+  },
+
+  {
+    id: "the-ig-captain",
+    name: "The IG Captain",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "Captain",
+    role: "Captain",
+    group: "The Droid Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An IG captain. He commands droids in the field.",
+    provenance:
+      "Black, all of it, on the same open skeletal frame as the commandos - a " +
+      "caged torso with a panel set into it, long hinged arms ending in open " +
+      "claws, backpack plates behind the shoulders, thin legs on flat feet. " +
+      "The head is the difference and it is not the same kind of head at all: a " +
+      "smooth black cylinder standing straight up off the neck, tapering out to " +
+      "a flat cap at the top, with a band of clear amber running round it just " +
+      "below the crown. No face, no snout, no ear cups - a lit ring where the " +
+      "eyes would be if it had any.",
+    tags: ["villain", "star-wars", "branded", "droid", "ig", "captain", "black", "assassin-droid", "amber"],
+    images: [
+      "images/the-ig-captain-01.jpg",
+    ],
+    acquired: "",
+    notes: "The officer of the set. Everything else in this batch is a soldier or a weapon; he is the only one given a rank, and he is the only one of the four that is black rather than grey or brown.\n\nThe head is why he reads as something else. The commandos have a moulded skull with a snout and ear cups - a face, of a kind. His is a plain cylinder with a ring of amber light round it, which is not a face and is not pretending to be one. Among the enemy's machines that puts him with the Missile, which has no face at all, rather than with the Tanker Robot, which is smiling.\n\nHe is also the second machine in this collection to hold a rank, after Steel, and the two of them arrived one batch apart. Until last week no machine on either deck commanded anything.\n\nNothing is written between him and Steel beyond the group. Steel is the ultimate leader of the droid armies and this one is a captain in them, which makes the chain of command obvious, but obvious is not stated. One word and the line goes in."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */

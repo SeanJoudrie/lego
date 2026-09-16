@@ -1545,6 +1545,42 @@ window.LORE = [
       "different peoples with two different injuries. The marks look like the " +
       "second and the precedent points at the first, and until somebody says, " +
       "the group field on that card stays empty."
+  },
+
+  {
+    title: "The army the clones were waiting for",
+    text:
+      "Fifty-one clone cards are catalogued here. The Clone Army, the 501st, " +
+      "the 187th, the Wolfpack, the Commandos, the Golden Company, Commander " +
+      "Cody, Captain Rex, Claws who commands all of it. Forty-five of them " +
+      "good and six who turned. It is the largest body of figures in this " +
+      "collection by a wide margin, and for its entire life it has been an " +
+      "army with nothing built to fight.\n\n" +
+      "That is a stranger fact than it looks. A hundred and thirty-two Star " +
+      "Wars figures were on the shelf and not one of them was a battle droid. " +
+      "The single most recognisable enemy in the source material, the thing " +
+      "the clones exist in opposition to, simply was not here. So the clones " +
+      "were pointed at this world's own villains instead: the Shadow King, " +
+      "Quinn, the Iron League, the League of Shadows. The bought soldiers " +
+      "were absorbed into a home-made war.\n\n" +
+      "It has arrived now, and it arrived in the right order. Steel came " +
+      "first - a built machine, home-made, named, filed as the ultimate " +
+      "leader of the droid armies - and his card said in as many words that " +
+      "the armies had never been photographed and the force was real and " +
+      "empty. One batch later: four super battle droids, one with a cannon " +
+      "for an arm, two droid commandos and an IG captain.\n\n" +
+      "So the Droid Army is the first force on the enemy deck that was " +
+      "commanded before it existed. Everywhere else here the order runs the " +
+      "other way - the soldiers turn up and somebody works out later who " +
+      "they answer to. The alien mercenaries had a leader and no men for a " +
+      "long time. The Insect Captain commanded insects nobody had seen. This " +
+      "one was answered in a single batch.\n\n" +
+      "And it is the only enemy force here that came complete. The Shadow " +
+      "Soldiers are one kind of thing repeated, and so are the Kartians, the " +
+      "Sting Rays, the Martians and the Chitauri. This one has heavies, a " +
+      "weapon platform, commandos and an officer, built on two opposite " +
+      "principles - one body moulded solid to absorb fire, one an open frame " +
+      "built to move. The enemy has never had unit types before."
   }
 
 ];
