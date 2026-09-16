@@ -21131,7 +21131,154 @@ window.COLLECTION = [
       "images/the-ig-captain-01.jpg",
     ],
     acquired: "",
-    notes: "The officer of the set. Everything else in this batch is a soldier or a weapon; he is the only one given a rank, and he is the only one of the four that is black rather than grey or brown.\n\nThe head is why he reads as something else. The commandos have a moulded skull with a snout and ear cups - a face, of a kind. His is a plain cylinder with a ring of amber light round it, which is not a face and is not pretending to be one. Among the enemy's machines that puts him with the Missile, which has no face at all, rather than with the Tanker Robot, which is smiling.\n\nHe is also the second machine in this collection to hold a rank, after Steel, and the two of them arrived one batch apart. Until last week no machine on either deck commanded anything.\n\nNothing is written between him and Steel beyond the group. Steel is the ultimate leader of the droid armies and this one is a captain in them, which makes the chain of command obvious, but obvious is not stated. One word and the line goes in."
+    notes: "The officer of the set. Everything else in this batch is a soldier or a weapon; he is the only one given a rank, and he is the only one of the four that is black rather than grey or brown.\n\nThe head is why he reads as something else. The commandos have a moulded skull with a snout and ear cups - a face, of a kind. His is a plain cylinder with a ring of amber light round it, which is not a face and is not pretending to be one. Among the enemy's machines that puts him with the Missile, which has no face at all, rather than with the Tanker Robot, which is smiling.\n\nHe is also the second machine in this collection to hold a rank, after Steel, and the two of them arrived one batch apart. Until last week no machine on either deck commanded anything.\n\nHis men turned up in the next batch: five more of exactly this build, in bare silver. So the black is the rank. There is no printed marking anywhere on any of them and there does not need to be - he is a different colour from his squad and that is the entire insignia.\n\nNothing is written between him and Steel beyond the group. Steel is the ultimate leader of the droid armies and this one is a captain in them, which makes the chain of command obvious, but obvious is not stated. One word and the line goes in."
+  },
+
+  {
+    id: "the-ig-battle-droids",
+    name: "The IG Battle Droids",
+    variant: "Five of them",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droid Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Five IG battle droids.",
+    provenance:
+      "Five, in bare silver. The same open skeletal frame as the commandos - a " +
+      "caged torso with the daylight straight through it, long hinged arms " +
+      "ending in open claws, backpack plates behind the shoulders, thin legs on " +
+      "flat feet - and the heads are plain cylinders standing straight up off " +
+      "the neck, tapering out to a flat cap, with a band of clear amber running " +
+      "round each just below the crown. One of the bands reads closer to red " +
+      "than amber. No faces on any of them. The silver has gone dull along the " +
+      "shoulders and the mould seams show through it.",
+    tags: ["villain", "star-wars", "branded", "droid", "ig", "silver", "squad", "unprinted"],
+    images: [
+      "images/the-ig-battle-droids-01.jpg",
+    ],
+    acquired: "",
+    notes: "The IG Captain's men. He was catalogued one batch ago as the officer of the set - black, with a rank, the only one of the four - and here are five more of exactly his build in bare silver. So the colour was the insignia all along. He is black and they are not, and that is the whole of it.\n\nThis army keeps telling rank apart without printing anything. The commander wears a yellow chest, the bomber a blue one, the droid commandos have a band across the brow, and the IG captain is simply a different colour from his squad. Not one marking on any of them is printed on. The only other force here that does it that way is the Sting Rays, who use the colour of the legs - red for the ranks, brown for the squad leader, green for the chancellor.\n\nIt is worth saying what that means for the enemy. Every army on the good side is legible by its armour print: the 501st, the 187th, the Wolfpack, the Golden Company, the Shock Troopers - you read the paint. This one is legible by what it is made of."
+  },
+
+  {
+    id: "the-space-droids",
+    name: "The Space Droids",
+    variant: "Several of them",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droid Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Space droids.",
+    provenance:
+      "Battle droids in two tones, which none of the others are: a rust-orange " +
+      "head and torso frame over grey arms, grey hands and grey legs. The heads " +
+      "are the long narrow skull with the snout and the two ear cups, plain " +
+      "orange with nothing printed on them. Six are countable in the photograph " +
+      "and there are more standing behind. One carries a small yellow dot at " +
+      "the chest and another a red one; apart from that they are identical.",
+    tags: ["villain", "star-wars", "branded", "droid", "battle-droid", "space", "orange", "two-tone"],
+    images: [
+      "images/the-space-droids-01.jpg",
+    ],
+    acquired: "",
+    notes: "Space droids on your word - nothing on the plastic says so, and they are the only ones in the army that are not one colour all the way through. Orange body, grey limbs. The super battle droids are gunmetal throughout, the commandos brown throughout, the IG droids silver, the rank and file tan. These are built out of two.\n\nNo count written down. Six heads are countable in the photograph and there are more behind them, and nobody has said how many there are. That is unusual for this collection - almost every squad card here carries a number, from the Shadow Soldiers at seven to the US Army Soldiers at ten - and this one does not, because the photograph will not settle it.\n\nWorth flagging what space means here. Every other droid in this army is a ground unit, and this collection has a long-running space side of its own - the Space Militia, the Space Police, the Space Bikers, a First Man in Space. If these are the droids that go up, that is the first time the enemy has had a force built for it. Nothing is written yet."
+  },
+
+  {
+    id: "the-droid-commander",
+    name: "The Droid Commander",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "Commander",
+    role: "Commander",
+    group: "The Droid Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A droid commander.",
+    provenance:
+      "A pale tan battle droid with a yellow torso frame clipped over the " +
+      "chest - the only yellow anywhere in the army. Everything else is the " +
+      "standard build and the standard colour: the long narrow skull head with " +
+      "the snout and ear cups, an open cage under the yellow, hinged arms to " +
+      "open claws, thin legs on flat feet, all of it the same tan as the rank " +
+      "and file. A black antenna stands up behind one shoulder.",
+    tags: ["villain", "star-wars", "branded", "droid", "battle-droid", "commander", "yellow", "antenna"],
+    images: [
+      "images/the-droid-commander-01.jpg",
+    ],
+    acquired: "",
+    notes: "The yellow is the whole card. He is a standard battle droid in every other respect - same head, same frame, same legs, same colour - and somebody clipped a yellow chest on him and that made him the commander.\n\nThird kind of officer in this army in two batches, and the three of them are marked three different ways. Steel is the ultimate leader and a built machine of his own design, sharing no parts with anybody he commands. The IG Captain is black where his men are silver. This one is tan where his men are tan, and a single panel is the difference between him and a soldier.\n\nNothing is written about the order among the three. Steel is above both by his own card. Whether a droid commander outranks an IG captain, or whether the two of them run different halves of the same army, has not been said and is not guessed at here.\n\nHe is the sixteenth figure in the collection to carry anything in the rank field, and the third machine to carry anything at all - and all three of those arrived in the last two batches, into an army that did not exist a fortnight ago."
+  },
+
+  {
+    id: "the-droid-bomber",
+    name: "The Droid Bomber",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droid Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A droid bomber, in the blue.",
+    provenance:
+      "A pale tan battle droid with a blue torso frame clipped over the chest, " +
+      "the blue running round the shoulders and down both sides of the cage " +
+      "with a paler blue worked through it. Everything else is the standard " +
+      "build in pale tan - narrow skull head with the snout and ear cups, " +
+      "hinged arms, open claws, thin legs, flat feet.",
+    tags: ["villain", "star-wars", "branded", "droid", "battle-droid", "bomber", "blue", "explosives"],
+    images: [
+      "images/the-droid-bomber-01.jpg",
+    ],
+    acquired: "",
+    notes: "Blue is the second marked chest in the army, after the commander's yellow. Two coloured panels on two otherwise identical bodies, doing the work that printed armour does everywhere else in this collection.\n\nThird card here whose job is explosives, after the Clone Bombers and the Bomb Squad - and the first on the villain side. Both of the others are clones, which means that until now the only people in this world who dropped or planted anything were the ones who came out of a box on the good side. The enemy has had a Missile, which is a weapon that thinks; it has not had somebody whose trade is ordnance.\n\nHe is also the quietest example of what this army does with colour. Nobody printed a squadron marking on him. Somebody changed the colour of one piece."
+  },
+
+  {
+    id: "the-battle-droids",
+    name: "The Battle Droids",
+    variant: "Several of them",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "The Droid Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The ordinary battle droids. The line.",
+    provenance:
+      "The rank and file in plain pale tan, with nothing marked on them " +
+      "anywhere - no coloured chest, no printing, no antenna. The standard " +
+      "build: a long narrow skull for a head with a snout and two ear cups on " +
+      "a thin neck, an open cage of a torso with the light straight through it, " +
+      "long hinged arms ending in open claws, thin legs jointed at the knee on " +
+      "flat feet. Four are countable at the front of the photograph and there " +
+      "are more behind them. One carries a dark pack behind the shoulders.",
+    tags: ["villain", "star-wars", "branded", "droid", "battle-droid", "tan", "rank-and-file", "unprinted"],
+    images: [
+      "images/the-battle-droids-01.jpg",
+    ],
+    acquired: "",
+    notes: "The bottom of the army, and the thing everything else in it is measured against. The commander has a yellow chest and the bomber a blue one; these have nothing, and the nothing is what says what they are.\n\nThe force reads as a force now. Two batches ago it was a commander with no army: Steel, catalogued with a card that said the droid armies had never been photographed and the thing he led was real and empty. It is not empty. Steel at the top, an IG captain and a droid commander under him, super battle droids for the heavy line, five IG droids, two commandos, a weapon platform with a cannon where an arm should be, space droids, a bomber, and these. Ten cards in The Droid Army, built in two batches.\n\nNothing in this collection has filled out that fast. The Royal Knights took the whole life of the shelf to reach eighteen, the Space Militia seventeen, the Clone Army sixteen. This one went from nothing to ten while the paint was still wet on its commander's card.\n\nAnd it is still the only army here whose leader existed before any of it did."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
