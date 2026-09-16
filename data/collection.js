@@ -20593,7 +20593,7 @@ window.COLLECTION = [
     tags: ["indiana-jones", "branded", "turban", "field-kit", "ambiguous"],
     images: ["images/kazim-01.jpg"],
     acquired: "",
-    notes: "You said I could decide which side he is on, so here is the decision and the reasoning rather than just the answer.\\n\\nHe is filed good. In the film he attacks first and is not an enemy: he belongs to an order sworn to keep something buried, and once he understands what the other man is actually doing he stops and helps. That is a man who was in the way, not a man on the other side - and this collection already knows the difference. It holds the Blue Demigod, who came through uninvited with an army to stop a war and reads as an intrusion rather than an enemy, and the Pharaoh, whose card says cursing the people who rob your own grave is the most defensible thing anybody on that deck has done.\\n\\nThere is a third option and it has never been used. The site has a neutral faction built into it, labelled In Between, with nobody in it - a whole empty deck. He would be the first, and if you would rather have that than a decision, say so and he opens it.\\n\\nFifth figure out of Indiana Jones, from the same secondhand set as Elsa Schneider."
+    notes: "You said I could decide which side he is on, so here is the decision and the reasoning rather than just the answer.\\n\\nHe is filed good. In the film he attacks first and is not an enemy: he belongs to an order sworn to keep something buried, and once he understands what the other man is actually doing he stops and helps. That is a man who was in the way, not a man on the other side - and this collection already knows the difference. It holds the Blue Demigod, who came through uninvited with an army to stop a war and reads as an intrusion rather than an enemy, and the Pharaoh, whose card says cursing the people who rob your own grave is the most defensible thing anybody on that deck has done.\\n\\nThere is a third option and it has never been used. The site has a neutral faction built into it, labelled In Between, with nobody in it - a whole empty deck. He would be the first, and if you would rather have that than a decision, say so and he opens it.\n\nIt has been used since. Three skeletons opened that deck a few batches later, filed neutral because you introduced them that way, and they are the only figures in the collection not on a side. So the offer on this card is no longer hypothetical: In Between exists, it has residents, and he can move there on one word. He stays good until you say otherwise, because a decision was asked for and made.\\n\\nFifth figure out of Indiana Jones, from the same secondhand set as Elsa Schneider."
   },
 
   {
@@ -20971,7 +20971,7 @@ window.COLLECTION = [
       "images/the-skeleton-robot-01.jpg",
     ],
     acquired: "",
-    notes: "The first figure in this collection actually built on the skeleton mould. Four cards here already have a ribcage on them and every one of them is a picture: the Black Knight with a silver one printed on a black torso, the Hooded Skeleton with a white one, the Blue-Eyed Alien with bones drawn faintly in darker green, the Haunted Miner lit up in pale green. All of those are minifigures wearing their bones on the outside. This one has no torso at all - ribs with daylight through them and a spine you can see between them.\n\nAnd it is not a skeleton. It is a machine shaped like one: rivets across the brow, metal shading at the jaw, two lit eyes in the sockets. That is new here. Every machine on the villain side looks like a machine - the Missile has no face, the Killer Bots have visors, Ultron has a lit grille, the Tanker Droid has one red slit, the Tanker Robot is smiling. This one is wearing a body, and the body it picked is a dead one.\n\nNamed descriptively, and deliberately not called Steel, because Steel is the name of the figure that arrived with him in the same batch and the two would tangle. You called this one a steel robot and that one Steel. If the skeleton is one of his, say so and the line goes in."
+    notes: "The first figure in this collection actually built on the skeleton mould. Four cards here already have a ribcage on them and every one of them is a picture: the Black Knight with a silver one printed on a black torso, the Hooded Skeleton with a white one, the Blue-Eyed Alien with bones drawn faintly in darker green, the Haunted Miner lit up in pale green. All of those are minifigures wearing their bones on the outside. This one has no torso at all - ribs with daylight through them and a spine you can see between them.\n\nAnd it is not a skeleton. It is a machine shaped like one: rivets across the brow, metal shading at the jaw, two lit eyes in the sockets. That is new here. Every machine on the villain side looks like a machine - the Missile has no face, the Killer Bots have visors, Ultron has a lit grille, the Tanker Droid has one red slit, the Tanker Robot is smiling. This one is wearing a body, and the body it picked is a dead one.\n\nNamed descriptively, and deliberately not called Steel, because Steel is the name of the figure that arrived with him in the same batch and the two would tangle. You called this one a steel robot and that one Steel. If the skeleton is one of his, say so and the line goes in.\n\nReal skeletons turned up a batch later - two with angry faces on the bad deck and three plain-faced ones who opened the neutral deck, all of them this same mould in bone white gone cream. So this is no longer the only thing here built this way. It is still the only one of them that is a machine, and the only one whose eyes are lit."
   },
 
   {
@@ -21159,7 +21159,8 @@ window.COLLECTION = [
       "shoulders and the mould seams show through it.",
     tags: ["villain", "star-wars", "branded", "droid", "ig", "silver", "squad", "unprinted"],
     images: [
-      "images/the-ig-battle-droids-01.jpg",
+      { src: "images/the-ig-battle-droids-01.jpg", caption: "The unit" },
+      { src: "images/the-ig-battle-droids-02.jpg", caption: "The unit, with the space droids behind" },
     ],
     acquired: "",
     notes: "The IG Captain's men. He was catalogued one batch ago as the officer of the set - black, with a rank, the only one of the four - and here are five more of exactly his build in bare silver. So the colour was the insignia all along. He is black and they are not, and that is the whole of it.\n\nThis army keeps telling rank apart without printing anything. The commander wears a yellow chest, the bomber a blue one, the droid commandos have a band across the brow, and the IG captain is simply a different colour from his squad. Not one marking on any of them is printed on. The only other force here that does it that way is the Sting Rays, who use the colour of the legs - red for the ranks, brown for the squad leader, green for the chancellor.\n\nIt is worth saying what that means for the enemy. Every army on the good side is legible by its armour print: the 501st, the 187th, the Wolfpack, the Golden Company, the Shock Troopers - you read the paint. This one is legible by what it is made of."
@@ -21248,7 +21249,7 @@ window.COLLECTION = [
       "images/the-droid-bomber-01.jpg",
     ],
     acquired: "",
-    notes: "Blue is the second marked chest in the army, after the commander's yellow. Two coloured panels on two otherwise identical bodies, doing the work that printed armour does everywhere else in this collection.\n\nThird card here whose job is explosives, after the Clone Bombers and the Bomb Squad - and the first on the villain side. Both of the others are clones, which means that until now the only people in this world who dropped or planted anything were the ones who came out of a box on the good side. The enemy has had a Missile, which is a weapon that thinks; it has not had somebody whose trade is ordnance.\n\nHe is also the quietest example of what this army does with colour. Nobody printed a squadron marking on him. Somebody changed the colour of one piece."
+    notes: "Blue is the second marked chest in the army, after the commander's yellow. Two coloured panels on two otherwise identical bodies, doing the work that printed armour does everywhere else in this collection.\n\nThird card here whose job is explosives, after the Clone Bombers and the Bomb Squad - and the first on the villain side. Both of the others are clones, which means that until now the only people in this world who dropped or planted anything were the ones who came out of a box on the good side. The enemy has had a Missile, which is a weapon that thinks; it has not had somebody whose trade is ordnance.\n\nHe is also the quietest example of what this army does with colour. Nobody printed a squadron marking on him. Somebody changed the colour of one piece.\n\nOne correction to make, from the wide shot of the army that came a batch later: there are three blue chests in that line, not one. You named a bomber and the shelf holds three of him. So either this card is one of three and should say so, or blue is a squadron colour rather than a job and the card is about a unit. It stays a single man until you say which."
   },
 
   {
@@ -21275,10 +21276,75 @@ window.COLLECTION = [
       "are more behind them. One carries a dark pack behind the shoulders.",
     tags: ["villain", "star-wars", "branded", "droid", "battle-droid", "tan", "rank-and-file", "unprinted"],
     images: [
-      "images/the-battle-droids-01.jpg",
+      { src: "images/the-battle-droids-01.jpg", caption: "The line" },
+      { src: "images/the-battle-droids-02.jpg", caption: "The army together" },
     ],
     acquired: "",
-    notes: "The bottom of the army, and the thing everything else in it is measured against. The commander has a yellow chest and the bomber a blue one; these have nothing, and the nothing is what says what they are.\n\nThe force reads as a force now. Two batches ago it was a commander with no army: Steel, catalogued with a card that said the droid armies had never been photographed and the thing he led was real and empty. It is not empty. Steel at the top, an IG captain and a droid commander under him, super battle droids for the heavy line, five IG droids, two commandos, a weapon platform with a cannon where an arm should be, space droids, a bomber, and these. Ten cards in The Droid Army, built in two batches.\n\nNothing in this collection has filled out that fast. The Royal Knights took the whole life of the shelf to reach eighteen, the Space Militia seventeen, the Clone Army sixteen. This one went from nothing to ten while the paint was still wet on its commander's card.\n\nAnd it is still the only army here whose leader existed before any of it did."
+    notes: "The bottom of the army, and the thing everything else in it is measured against. The commander has a yellow chest and the bomber a blue one; these have nothing, and the nothing is what says what they are.\n\nThe force reads as a force now. Two batches ago it was a commander with no army: Steel, catalogued with a card that said the droid armies had never been photographed and the thing he led was real and empty. It is not empty. Steel at the top, an IG captain and a droid commander under him, super battle droids for the heavy line, five IG droids, two commandos, a weapon platform with a cannon where an arm should be, space droids, a bomber, and these. Ten cards in The Droid Army, built in two batches.\n\nNothing in this collection has filled out that fast. The Royal Knights took the whole life of the shelf to reach eighteen, the Space Militia seventeen, the Clone Army sixteen. This one went from nothing to ten while the paint was still wet on its commander's card.\n\nAnd it is still the only army here whose leader existed before any of it did.\n\nA wide shot of the whole force has since been added to this card - the tan line, the yellow commander, the blue chests and the orange space droids all on one baseplate. It is the only photograph in the collection of an army standing as an army."
+  },
+
+  {
+    id: "the-evil-skeletons",
+    name: "The Evil Skeletons",
+    variant: "Two of them",
+    faction: "bad",
+    origin: "branded",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two evil skeletons.",
+    provenance:
+      "Two, built on the skeleton mould in bone white gone cream with age - a " +
+      "ribcage torso with the spine standing through the middle of it, thin " +
+      "jointed arms ending in hook hands, a flat bar of a pelvis, splayed claw " +
+      "feet. The heads are the thing. A standard head piece printed with a " +
+      "skull whose eye sockets are cut as hard slanted wedges, one of them " +
+      "drawn down further than the other into a scowl, over a wide grin of " +
+      "jagged teeth with a small angular nose between. Both are chipped at the " +
+      "brow where the paint has gone.",
+    tags: ["villain", "skeleton", "bone", "skull", "angry", "pair", "mould"],
+    images: [
+      "images/the-evil-skeletons-01.jpg",
+    ],
+    acquired: "",
+    notes: "The first real skeletons in the collection. The Skeleton Robot came one batch ago on this same mould, but that is a machine wearing the shape - riveted brow, lit eyes in the sockets. These are the thing itself.\n\nThe faces are the entire difference between this card and the neutral one, and it is worth saying precisely what that difference is. Both groups are the same plastic, the same mould, the same bone white gone the same cream. On these two the sockets are cut as slanted wedges and the grin is wide and jagged. On the other three they are plain round holes over a small closed smile. Same body. Different print. That is all the evidence there is for which deck either group sits on.\n\nThis collection has run into that before, from the other direction. The False Kai is a genuine Ninjago figure with nothing on him to say he is anybody else, so the catalogue tags him NINJAGO exactly as it tags the real Kai, and the disguise works on the database. Here the print is doing the opposite job: it is the only thing keeping two identical sets of bones on opposite sides of the page."
+  },
+
+  {
+    id: "the-neutral-skeletons",
+    name: "The Neutral Skeletons",
+    variant: "Three of them",
+    faction: "neutral",
+    origin: "branded",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Three skeletons, and they are not on either side.",
+    provenance:
+      "Three, on the same mould and in the same bone white gone cream as the " +
+      "evil pair - ribcage torso with the spine standing through it, thin " +
+      "jointed arms to hook hands, a flat bar of a pelvis, splayed claw feet. " +
+      "Two of them carry rust-coloured staining worked into the plastic at the " +
+      "hips and down the shins, and one has something dark lodged up inside the " +
+      "ribs. The heads are where they part from the other two: a standard head " +
+      "printed with two plain round black eyes, a small grey wedge of a nose, " +
+      "and a simple curved mouth with a short row of teeth drawn beneath it. " +
+      "Nothing angry anywhere on them.",
+    tags: ["neutral", "skeleton", "bone", "skull", "in-between", "first-neutral", "mould"],
+    images: [
+      { src: "images/the-neutral-skeletons-01.jpg", caption: "Three of them" },
+      { src: "images/the-neutral-skeletons-02.jpg", caption: "One of them, close" },
+    ],
+    acquired: "",
+    notes: "These open the third deck.\n\nThe site has had a neutral faction built into it since the day it was written - labelled In Between, coloured purple, sitting in the code between the good and the bad with a comment saying it appears by itself the moment somebody is neutral. Nobody ever was. Seven hundred and ninety-one figures went onto two decks and the third stayed empty the whole time, a working section of the page that nothing had ever triggered. These three are the first people in it.\n\nTwo cards have been asking for it by name. Kazim's card offered it to him outright: he was filed good with the reasoning written out, and the note said there was a third option that had never been used and one word would open it. And the world note about the Pharaoh says she is on the bad deck because she arrived in a run of villains, that cursing the people who rob your own grave is the most defensible thing anybody over there has done, and that she would be the collection's first neutral the day somebody said so. Neither of them was it. Three skeletons were, because you said the word.\n\nWhat makes them neutral is a face. They are the same mould, the same colour and the same age as the two evil ones, down to the shade of cream the white has gone. The only difference anywhere on the plastic is the printing - round eyes and a small smile instead of slanted sockets and a jagged grin. Nothing else in this collection has been put on a different deck on a margin that thin. The closest is the Knock-off Captain and the Defector, who are the same figure down to the sunglasses and are told apart by the colour of a cap, and even they are on the same two sides everybody else is on.\n\nThey are also the only figures here who are not in the war. Seven hundred and ninety-two other cards and every one of them is for something or against it, including the ones who came through uninvited to stop the fighting - the Blue Demigod wanted it ended and is still filed bad, because wanting it ended was a thing he wanted. These three want nothing. They are just dead, and the page now has somewhere to put that."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */

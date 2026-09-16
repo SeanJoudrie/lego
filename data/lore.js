@@ -1103,7 +1103,12 @@ window.LORE = [
       "Which makes her the one figure filed bad whose entire recorded act is " +
       "defending her own grave from people who came to rob it. She is on that " +
       "side because she arrived in a run of villains, and she would be the " +
-      "collection's first neutral the day somebody says so."
+      "collection's first neutral the day somebody says so.\n\n" +
+      "Somebody has since said so, about somebody else. Three skeletons " +
+      "opened the neutral deck, and she is still not on it. That is left " +
+      "visible rather than quietly fixed: she is on the bad side because of " +
+      "the company she arrived in, and the alternative is no longer " +
+      "hypothetical."
   },
 
   {
@@ -1581,6 +1586,34 @@ window.LORE = [
       "weapon platform, commandos and an officer, built on two opposite " +
       "principles - one body moulded solid to absorb fire, one an open frame " +
       "built to move. The enemy has never had unit types before."
+  },
+
+  {
+    title: "The third deck",
+    text:
+      "The page was built with three sides on it. Good, In Between, Bad - the " +
+      "middle one coloured purple, sitting in the code between the other two, " +
+      "with a line above it saying it appears by itself the day somebody is " +
+      "neutral. For seven hundred and ninety-one figures nobody was. Every " +
+      "single person, machine, animal and god on this shelf was for something " +
+      "or against it, and a working third of the layout never once " +
+      "rendered.\n\n" +
+      "It was not for want of candidates. Kazim was offered it outright and " +
+      "filed good instead, because a decision had been asked for. The Pharaoh " +
+      "has a note saying she is over there because of the company she arrived " +
+      "in. The Blue Demigod came through a portal uninvited with an army to " +
+      "stop the war rather than win it, and he is filed bad, because wanting " +
+      "the war stopped is still wanting something.\n\n" +
+      "That is the rule the deck was waiting on, and it took seven hundred " +
+      "and ninety-two cards to find somebody who cleared it. Not on a side turns out not to " +
+      "mean caught between two sides, or above them, or against both. It " +
+      "means wanting nothing at all.\n\n" +
+      "Three skeletons opened it. They are the same mould, the same bone " +
+      "white gone the same cream and the same age as the two evil skeletons " +
+      "on the enemy deck, and the only difference on the plastic is the " +
+      "printed face: round eyes and a small smile against slanted sockets and " +
+      "a jagged grin. A whole third of this world's moral geography was " +
+      "opened by a difference in printing."
   }
 
 ];
