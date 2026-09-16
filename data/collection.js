@@ -21507,9 +21507,9 @@ window.COLLECTION = [
   },
 
   {
-    id: "the-brass-warriors",
-    name: "The Brass Warriors",
-    variant: "Three of them",
+    id: "the-brass-warrior-in-the-horned-cap",
+    name: "The Brass Warrior in the Horned Cap",
+    variant: "",
     faction: "bad",
     origin: "custom",
     theme: "Creation Mythos",
@@ -21519,26 +21519,84 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Two brass warriors.",
+    background: "A brass warrior.",
     provenance:
-      "Two, gold through and through, on the same moulded build as the stone " +
-      "warriors - armoured arms to claw hands, panelled legs, a belt across the " +
-      "hips. The chest is different from anything in the silver unit: two " +
-      "chains crossed over the breastplate and pinned at the middle by a round " +
-      "boss, with a small bar above it at the throat.\n\n" +
-      "The helms are not the same as each other. The first is a dark bronze " +
-      "cap, ridged across the crown, with two heavy horns curving up and " +
-      "outward. The second is gold, and horned four times over - two long horns " +
-      "sweeping up from the temples and a shorter pair curving out below them, " +
-      "with a raised band running front to back over the top.",
-    tags: ["villain", "brass-warriors", "not-lego", "armour", "brass", "gold", "chains", "horns", "pair"],
+      "Gold through and through, on the same moulded build as the stone " +
+      "warriors - armoured arms down to claw hands, panelled legs, a belt " +
+      "across the hips. The chest is the unit's: two chains crossed over the " +
+      "breastplate and pinned at the middle by a round boss, with a small bar " +
+      "above it at the throat.\n\n" +
+      "His head is the plainest of the three. A dark bronze cap, ridged across " +
+      "the crown and darker than the rest of him, with two heavy horns curving " +
+      "up and outward from the temples. The face behind it is closed.",
+    tags: ["villain", "brass-warriors", "not-lego", "armour", "brass", "gold", "chains", "horns"],
     images: [
-      { src: "images/the-brass-warriors-01.jpg", caption: "In the two-horned cap" },
-      { src: "images/the-brass-warriors-02.jpg", caption: "In the four-horned helm" },
-      { src: "images/the-brass-warriors-03.jpg", caption: "The one with a face" },
+      "images/the-brass-warrior-in-the-horned-cap-01.jpg",
     ],
     acquired: "",
-    notes: "Named by you, and named apart from the stone warriors, so they are filed as their own group rather than folded into that one. Same moulds, different metal, different name.\n\nWhat they share with the silver unit is the body. What they do not share is the chest: every stone warrior wears a riveted plate or a scaled one, and these two wear crossed chains pinned with a boss, which is the only chest design in either unit that is not armour. Chains across a breastplate are either a decoration or a record of something, and nothing has been said.\n\nThey are the first gold soldiers here. Two figures on this shelf were already gold from head to foot and neither of them fights: C-3PO, who is a protocol droid, and Deus Pater, who is a cosmic deity. Everywhere else gold is a highlight on somebody - the Golden Sniper's rifle, the Mechanic's repaired skull, the gold-visored astronaut, Gold Tooth's one tooth. It has meant precious, or divine, or a single thing worth mentioning. These are two men in armour cast in it, which is neither.\n\nThe open question is the Warrior in the Gold Helm, who arrived in the same batch. He is a silver stone warrior wearing a brass helm and one brass arm, which is the only physical link between these two units and could be salvage, rank or a crossing. Two groups exist now because you named two. If they are one army in two metals, that is one word and the groups merge.\n\nHalf of that is answered. The stone warriors and the brass fight side by side - you have said so - so they are not two sides of anything and the man wearing one arm of each is not a crossing. The two groups stay separate because the two names are yours, but they are allied and the card should not read as though they might not be.\n\nSmall thing worth flagging: the helms are all different from each other, which in this collection has usually meant rank. The stone warriors repeat a helmet; these do not.\n\nA third arrived after this card was written and he is the odd one. Where the other two wear closed helms, his head is a sculpted face - a heavy brow, a broad nose and a jaw worked like a beard - under a low domed cap, and it is bare. Standing up behind his shoulders are two dark blue pieces, each a knobbed head on a short shaft and spiked all over, and blue is very nearly the only colour this army owns - a crest on the Warrior in the Gold Helm, a visor on one of the rebuilt, and these. Three brass figures now, three different heads, and no two of them alike."
+    notes: "Split out of a combined entry. The three brass warriors were catalogued on one card because they arrived together, and you have since said that one of them is a different character and each should stand on his own. That was my error and the three cards are written now.\n\nThe chest is the thing they share and the thing that separates them from the silver unit. Every stone warrior wears a riveted plate or a scaled one; these wear crossed chains pinned with a boss, which is the only chest design in either army that is not armour. Chains across a breastplate are either a decoration or a record of something, and nothing has been said about which.\n\nHe and the other two are the first gold soldiers in the collection. Two figures here were already gold from head to foot and neither of them fights - C-3PO, who is a protocol droid, and Deus Pater, who is a cosmic deity. Everywhere else gold is a highlight on somebody: the Golden Sniper's rifle, the Mechanic's repaired skull, the gold-visored astronaut, Gold Tooth's one tooth. It has meant precious, or divine, or one thing worth mentioning. These are men in armour cast in it, which is neither.\n\nHis cap is a working helmet where the other two carry four horns and a bare face, and it is the only piece on him darker than the rest. If the brass warriors are ranked, he reads as the one at the bottom of it - and nobody has said they are ranked."
+  },
+
+  {
+    id: "the-brass-warrior-in-the-four-horned-helm",
+    name: "The Brass Warrior in the Four-Horned Helm",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "The Brass Warriors",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A brass warrior, in the four-horned helm.",
+    provenance:
+      "Gold all through, the same build and the same chest as the others - " +
+      "crossed chains over the breastplate pinned by a round boss, armoured " +
+      "arms to claw hands, panelled legs, belt at the hips.\n\n" +
+      "The helm is his. Horned four times over: two long horns sweeping up " +
+      "from the temples and curving back in at the tips, and a shorter pair " +
+      "below them curving outward, with a raised band running front to back " +
+      "over the crown between them. The face behind it is closed.",
+    tags: ["villain", "brass-warriors", "not-lego", "armour", "brass", "gold", "chains", "four-horns", "helm"],
+    images: [
+      "images/the-brass-warrior-in-the-four-horned-helm-01.jpg",
+    ],
+    acquired: "",
+    notes: "Split out of a combined entry, with the other two - they were written on one card and you have said each should have his own.\n\nFour horns is the most helmet in either army. The stone warriors' best is the one in the red pair, and the brass warrior beside this one carries two. Elsewhere in this collection more of a thing on the head has meant rank fairly reliably - the IG Captain is a different colour from his men, the droid commander wears a panel his soldiers do not - so a helm with twice everybody else's horns is worth flagging. Nothing has been said, so nothing is written: he is not filed above anyone.\n\nThat is the open question for this unit and it is sharper now the three are separate. The stone warriors repeat a helmet between them, which is what a rank and file looks like. These three do not repeat anything - a horned cap, this, and a bare face. Three figures, three heads, no two alike. Either the brass are all officers, or they are three characters rather than a unit, and either answer is one word."
+  },
+
+  {
+    id: "the-brass-warrior-in-the-blue-spikes",
+    name: "The Brass Warrior in the Blue Spikes",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "The Brass Warriors",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A brass warrior with his face showing, and two blue spiked pieces at his back.",
+    provenance:
+      "Gold all through, on the unit's build - armoured arms to claw hands, " +
+      "panelled legs, a belt at the hips - with the chest worked differently " +
+      "from the other two: crowded and sculpted rather than crossed with " +
+      "chains.\n\n" +
+      "His head is bare. Under a low domed cap there is a sculpted face - a " +
+      "heavy brow, a broad flat nose, and a jaw worked like a beard - and no " +
+      "visor over it. Standing up behind his shoulders are two dark blue " +
+      "pieces, each a knobbed head on a short shaft and spiked all over, " +
+      "angled out to either side.",
+    tags: ["villain", "brass-warriors", "not-lego", "armour", "brass", "gold", "bare-face", "blue", "spikes"],
+    images: [
+      "images/the-brass-warrior-in-the-blue-spikes-01.jpg",
+    ],
+    acquired: "",
+    notes: "This is the one that made the split necessary. He was catalogued on a card with the other two brass warriors, and you have said one of them is a different character - he is the one who was never going to sit in a squad entry.\n\nHis face is showing. Both of the others are sealed behind a helm, every stone warrior is sealed behind a visor, and the only other figure in either army with a face on view is Sigrid III, who has a name and a numeral. Two faces in two armies, and one of them belongs to a man with a dynasty behind him.\n\nThe blue is the other thing. It is very nearly the only colour these armies own - a crest on the Warrior in the Gold Helm, a visor on one of the rebuilt stone warriors, and these two spiked pieces. Everything else across both units is steel, brass, or the green the Copper was cast in. What the pieces actually are is not written: they could be weapons stowed at the back, a standard he carries, or part of him.\n\nHis chest is not the unit's chest either. The other two brass warriors wear crossed chains pinned with a boss; his is sculpted and crowded and carries no chains at all. So the thing that marks the brass warriors as brass warriors is the one thing he does not have, which is worth saying now that he has a card of his own to say it on."
   },
 
   {
@@ -21559,7 +21617,8 @@ window.COLLECTION = [
       "it, so the bodies were rebuilt with robots in them and sent back out.",
     provenance:
       "Two of them, and the bodies are the unit's own. One is brass: the " +
-      "crossed chains pinned with a boss that the Brass Warriors wear, gold " +
+      "crossed chains pinned with a boss that two of the three brass warriors " +
+      "wear, gold " +
       "arms to claw hands, panelled gold legs. The other is silver: the " +
       "riveted plate with two studs at the chest, the diagonal strap over " +
       "chainmail, the belt across the hips.\n\n" +
@@ -21645,7 +21704,7 @@ window.COLLECTION = [
       { src: "images/the-odst-spartan-03.jpg", caption: "In olive" },
     ],
     acquired: "",
-    notes: "Filed with the Yellow Spartan and for the same reason, which is the reason the Halo Grunts carry: the side rather than the man.\n\nHe is the darkest figure in the not-Lego half of this collection - black from the helmet down apart from the blue slab at the chest and the silver at the belt and the knees. That reads differently over there than it does among the minifigures. On the Lego side black has meant a whole shadow apparatus: the Shadow Soldiers, the Shadow King, the Shadow Troopers, the Purple Shadow, the black-kitted units that still have no group between them. Over here it is the first time the colour has turned up at all.\n\nThe pistol is moulded into the chest plate rather than held, which is worth recording. Almost every armed figure in this collection carries the weapon in a hand and can be disarmed by taking it off them. This one has it built into the armour.\n\nTwo more arrived after that was written and the card holds three now. They are worth keeping together rather than splitting, because what they have in common is a visor and what they do not have in common is everything else - one black, one black with the crown painted blue, one olive - and a squad that is not uniform is a thing this collection has run into before, with the Snowtroopers and the Rebel Troopers, where the variant field had to say two patterns.\n\nThe hands are the find. The first has the closed claw every not-Lego figure here has. The other two have bare flesh fists moulded on, no glove, no gauntlet - which makes them the only figures on the not-Lego half of the shelf with skin showing anywhere. Everything else out of that maker is sealed: the Grunts, the Yellow Spartan, the stone and brass warriors, the Brute Prince. These two have hands you could shake."
+    notes: "Filed with the Yellow Spartan and for the same reason, which is the reason the Halo Grunts carry: the side rather than the man.\n\nHe is the darkest figure in the not-Lego half of this collection - black from the helmet down apart from the blue slab at the chest and the silver at the belt and the knees. That reads differently over there than it does among the minifigures. On the Lego side black has meant a whole shadow apparatus: the Shadow Soldiers, the Shadow King, the Shadow Troopers, the Purple Shadow, the black-kitted units that still have no group between them. Over here it is the first time the colour has turned up at all.\n\nThe pistol is moulded into the chest plate rather than held, which is worth recording. Almost every armed figure in this collection carries the weapon in a hand and can be disarmed by taking it off them. This one has it built into the armour.\n\nTwo more arrived after that was written and the card holds three now. They are worth keeping together rather than splitting, because what they have in common is a visor and what they do not have in common is everything else - one black, one black with the crown painted blue, one olive - and a squad that is not uniform is a thing this collection has run into before, with the Snowtroopers and the Rebel Troopers, where the variant field had to say two patterns.\n\nThe hands are the find. The first has the closed claw every not-Lego figure here has. The other two have bare flesh fists moulded on, no glove, no gauntlet - which makes them the only figures on the not-Lego half of the shelf with bare hands. Everything else over there ends in a claw, a gauntlet or a hook - the Grunts, the Jackals, the Elites, the Spartans, the stone and brass warriors, every one of them. Faces do turn up on that side; Sigrid III has one and so does the brass warrior in the blue spikes. Hands do not. These two have hands you could shake."
   },
 
   {
