@@ -1111,14 +1111,14 @@ window.LORE = [
     text:
       "A cult, named outright, and the largest thing on the bad side.\n\n" +
       "It does not run on ranks. It runs on masters of disciplines, and there " +
-      "are seven of them now: combat, the dark psyche, tradition, stealing and " +
-      "looting, dark wisdom, disguise, and apprentices. The body, the mind, " +
-      "the past, the taking of things, the knowing of things, the not being " +
-      "yourself - and the way in. An eighth man is its archer, and he is the " +
+      "are eight of them now: combat, the dark psyche, tradition, stealing and " +
+      "looting, dark wisdom, disguise, apprentices, and faces. The body, the " +
+      "mind, the past, the taking of things, the knowing of things, the not " +
+      "being yourself - and the way in. A ninth man is its archer, and he is the " +
       "only one in it with an ordinary job.\n\n" +
-      "The seventh is the one that changes what it is. A master of apprentices " +
-      "means the League intends to outlast the people currently in it. No " +
-      "other enemy organisation here has a door.\n\n" +
+      "The master of apprentices is the one that changes what it is. It means " +
+      "the League intends to outlast the people currently in it. No other " +
+      "enemy organisation here has a door.\n\n" +
       "They dress like one body - hood up, black to the boots, with whatever " +
       "the discipline needs worked over the top in gold. The master of combat " +
       "has a gilded snarling mask, the master of stealing a gilded strap of " +

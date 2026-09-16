@@ -15161,7 +15161,7 @@ window.COLLECTION = [
     tags: ["villain", "pharaoh", "ancient", "curse", "tomb", "mummy", "egypt", "queen", "woman"],
     images: ["images/the-pharaoh-01.jpg"],
     acquired: "",
-    notes: "The second woman on the villain side, and the first with any power - the other is a camera operator in a work uniform. She is also the first Egypt in the collection at all; nothing else here is of that world. Filed bad with the rest of this run, though cursing the people who rob your own grave is the most defensible thing anybody on that side has done. Say the word and she moves."
+    notes: "The second woman on the villain side, and the first with any power - the other is a camera operator in a work uniform. She was also the first Egypt in the collection at all, with nothing else here of that world - a second pharaoh has since arrived, a man, unwrapped and moustached, and nothing says whether they are one dynasty or two strangers. Filed bad with the rest of this run, though cursing the people who rob your own grave is the most defensible thing anybody on that side has done. Say the word and she moves."
   },
 
   {
@@ -19735,7 +19735,149 @@ window.COLLECTION = [
     tags: ["villain", "agents", "branded", "helmet", "breathing-gear", "orange", "flame-badge", "scarred"],
     images: ["images/the-helmeted-henchman-01.jpg"],
     acquired: "",
-    notes: "Second of the two, and named descriptively because his face is behind a dome and nothing else identifies him. Gold Tooth has a name written on his; this one does not, so the helmet does the work until you supply one.\n\nThe suit is identical from the neck down - same orange, same black zip panel, same belt, same badge - which makes these two the first pair of figures on that deck wearing an actual uniform with an actual insignia on it. The Iron League have four matched chest plates and the League of Shadows all dress in black and gold, but neither of them wears a badge. This outfit does.\n\nHe is also in breathing gear and nothing says what for. The trans-yellow dome and the throat intake are diving or flight kit, which on this deck puts him near the sea creatures and the pilots without being either."
+    notes: "Second of the two, and named descriptively because his face is behind a dome and nothing else identifies him. Gold Tooth has a name written on his; this one does not, so the helmet does the work until you supply one.\n\nThe suit is identical from the neck down - same orange, same black zip panel, same belt, same badge. Two more have since arrived in it, so there are four, and they are the first figures on that deck wearing an actual uniform with an actual insignia on it. The Iron League have four matched chest plates and the League of Shadows all dress in black and gold, but neither of them wears a badge. This outfit does.\n\nHe is also in breathing gear and nothing says what for. The trans-yellow dome and the throat intake are diving or flight kit, which on this deck puts him near the sea creatures and the pilots without being either."
+  },
+
+  {
+    id: "the-henchwoman-in-sunglasses",
+    name: "The Henchwoman in Sunglasses",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Agents",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Another of the Agents' supervillains.",
+    provenance:
+      "Swept dark brown hair falling over one side of the face, and under it a " +
+      "yellow face in black wraparound sunglasses with a white glint across " +
+      "them, and a full mouth painted black. The same orange boiler suit as " +
+      "the rest of them - a black zipped panel running down one side, a grey " +
+      "belt, and the round badge at the shoulder: a black flame with a face in " +
+      "it, ringed in gold, on a torn silver patch. One grey arm and one orange, " +
+      "grey hands, orange legs.",
+    tags: ["villain", "agents", "branded", "woman", "sunglasses", "orange", "flame-badge"],
+    images: ["images/the-henchwoman-in-sunglasses-01.jpg"],
+    acquired: "",
+    notes: "Third into the orange suit and the first woman in it. She is the tenth woman on the villain side and the first who belongs to an organisation with a uniform. The Pharaoh rules, the Orc Queen rules, Ventress kills, Harley Quinn is Harley Quinn, the Viking's Wife is described by her marriage, the Woman Built in the Bin was assembled out of a lost-and-found - and not one of the nine before her wore anybody's badge.\n\nOne detail is hers alone. Her flame badge sits on a torn silver patch, as though something under the orange has been through worse than the other suits have. The other three are clean."
+  },
+
+  {
+    id: "the-henchman-with-the-diamond-eye",
+    name: "The Henchman with the Diamond Eye",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Agents",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Another of the Agents' supervillains.",
+    provenance:
+      "A dark grey knitted beanie pulled to the brow, and a yellow face under " +
+      "it with heavy stubble across the jaw, one eye narrowed and scarred - and " +
+      "a pale blue diamond set where the other eye should be, cut and faceted, " +
+      "printed straight onto the skin. A wide flat grin below. The orange " +
+      "boiler suit again with the black zip panel, a gold and grey belt, and " +
+      "the flame badge at the shoulder. Orange arms, grey hands, orange legs.",
+    tags: ["villain", "agents", "branded", "beanie", "diamond", "scarred", "orange", "flame-badge"],
+    images: ["images/the-henchman-with-the-diamond-eye-01.jpg"],
+    acquired: "",
+    notes: "Fourth in the orange suit, and named for the eye because I do not know his proper name. The figure almost certainly has one; the diamond is the identifying mark, so if you have it the card takes it.\n\nFour of them now, all in the same suit and all wearing the same flame. That badge has gone from a curiosity to the most disciplined-looking outfit on either deck - the Iron League have four matched chest plates and the League of Shadows all dress black and gold, and neither of them wears an actual insignia. This lot do, and there are four.\n\nStill no group, and it is the same reason as before: nobody has named the outfit. It is the only thing stopping a group of four with a badge from being made, and one word does it.\n\nThe beanie is worth a glance too. Two prison escapees came in wearing the same hat one batch ago, and so did the Goon in the Beanie. It is the most common thing any criminal in this collection puts on his head."
+  },
+
+  {
+    id: "the-second-pharaoh",
+    name: "The Second Pharaoh",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Pharaoh",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A pharaoh.",
+    provenance:
+      "A black nemes headdress falling square to both shoulders, with a raised " +
+      "black disc set at the brow where a cobra would sit. Under it a yellow " +
+      "face with thin arched brows, lines down both cheeks and a small black " +
+      "moustache over a flat mouth. A bare yellow torso printed with a broad " +
+      "collar in gold and dark blue and a scarab at the throat; bare yellow " +
+      "arms, yellow hands. A white kilt printed across the hips with black and " +
+      "blue banding and a gold clasp, over bare yellow legs.",
+    tags: ["villain", "pharaoh", "egypt", "ancient", "nemes", "scarab", "moustache", "custom"],
+    images: ["images/the-second-pharaoh-01.jpg"],
+    acquired: "",
+    notes: "Egypt stops being one person. The Pharaoh was catalogued with a line saying she was the first Egypt in this collection at all and that nothing else here was of that world; that line has been amended on her card, because this is the second.\n\nThey are not the same figure and not obviously the same story. She is wrapped - bandaged arms, bandaged legs, a turquoise and red headdress, and a curse she lays on anyone who robs her tomb. He is not wrapped at all: bare arms, bare legs, a black headdress and a moustache. She is dead and working from inside a grave. Nothing on this card says he is dead at all.\n\nSo there are two pharaohs and nothing says whether they are one dynasty, two, or two people who would not recognise each other. Called the Second Pharaoh because the name was taken, the way the Second Viking and the Second Serpent were."
+  },
+
+  {
+    id: "the-master-of-faces",
+    name: "The Master of Faces",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Master of Faces",
+    group: "The League of Shadows",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The master of faces.",
+    provenance:
+      "A black hood pulled forward, and inside it a pale face - heavy black " +
+      "shadow smeared round both eyes, thin orange lines scored down the brow " +
+      "and across one cheek, and a small dark mouth open on a row of even " +
+      "teeth. Over the shoulders a ragged olive and tan wrap, crossed at the " +
+      "chest, clasped with a small ring and hanging in torn points. Black " +
+      "arms, black hands, black legs, and a long black cloth cape.",
+    tags: ["villain", "league-of-shadows", "master", "hood", "cape", "scarred", "ragged", "custom"],
+    images: ["images/the-master-of-faces-01.jpg"],
+    acquired: "",
+    notes: "Eighth master and the ninth member of the League of Shadows, which is already the largest thing on the villain side. The League does not run on ranks, it runs on masters of disciplines, and the list now reads: combat, the dark psyche, tradition, stealing and looting, dark wisdom, disguise, apprentices, and faces.\n\nThat last pair is the problem this card raises. There is already a Master of Disguise here, and his figure is the joke of the group - a black hood over the old plain smiley, two dots and a curve, the right head for that job and possibly an accident. Disguise and faces are close enough to the same discipline that somebody should say whether these are two men, or one man renamed, or two halves of a job that got split.\n\nHe also breaks the League's dress. Every master so far is black to the boots with the discipline worked over the top in gold - a gilded mask, a gilded strap of pouches, gold scrollwork. His overlay is a torn olive rag. He is the first of them wearing something that looks salvaged rather than made."
+  },
+
+  {
+    id: "the-thug",
+    name: "The Thug",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Thug",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A thug. Nothing more specific than that.",
+    provenance:
+      "A dark grey knitted beanie, and a pale face under it with one brow up " +
+      "and one down, a grimace showing no teeth, a grey scar across the " +
+      "forehead and orange scoring at both cheeks and the chin. A black leather " +
+      "jacket printed open over a grey and white horizontally striped shirt, " +
+      "with a broad gold-buckled belt at the waist. Black arms, pale hands, " +
+      "plain blue legs.",
+    tags: ["villain", "thug", "beanie", "leather-jacket", "stripes", "scarred", "custom"],
+    images: ["images/the-thug-01.jpg"],
+    acquired: "",
+    notes: "The first thug on the villain side. There is one other in the collection and he is a Blue Pirate Thug on the good deck, which is one of the odder job placements in here.\n\nHe is also the third figure in two batches in a knitted beanie and a striped shirt, after the two Escapees - and the difference is the jacket and the trousers. Theirs are prison issue with a number stamped on the ribs; his are a leather jacket and blue jeans over the same stripes. Either he got out earlier and dressed himself, or the stripes are just what this world thinks a criminal wears. Nothing is written between him and them.\n\nGeneric is the word you used and the card keeps it. Five figures on that deck are now filed as goons or thugs, and only one of the five has anything else written about him - the Wolfman, who tracks by smell. The rest are muscle and the catalogue says so."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
