@@ -1771,11 +1771,19 @@ window.COLLECTION = [
       "One of the Damaged, rescued by the Activist.\n\n" +
       "He can no longer speak. A voice implant gives him a robotic one, and he " +
       "uses it to say what he thinks.",
-    provenance: "",
-    tags: ["damaged", "rescued", "voice-implant", "mute"],
+    provenance:
+      "A white head with a beard and hair drawn straight onto it in black " +
+      "marker - thick strokes round the jaw, over the crown and back from the " +
+      "temples, with two red slashes left for eyes and black dots inside them. " +
+      "A grey torso printed with a pink and silver harness, a loop running " +
+      "from the throat down to a plate at the stomach, and small yellow tabs " +
+      "along the waist. One yellow arm and one red arm, one brown hand and one " +
+      "grey. Legs painted over by hand in magenta and white with turquoise " +
+      "showing through at the knees.",
+    tags: ["damaged", "rescued", "voice-implant", "mute", "hand-marked", "mismatched"],
     images: ["images/the-voiceless-01.jpg"],
     acquired: "",
-    notes: "Placeholder name. Like the Activist, the damage on this figure is real."
+    notes: "Placeholder name. Like the Activist, the damage on this figure is real.\n\nHe went years on this card with no description on him at all, and was handed in again later with the question of whether he had already been done. He had. He is written up properly now: the face is marker, the arms do not match, and the legs were painted over by somebody. He belongs with the six hand-marked clone figures and the two people of the Bin - the marks are what was done to him, and they are how you tell."
   },
 
   {
@@ -20244,6 +20252,122 @@ window.COLLECTION = [
     images: ["images/the-underwater-commander-01.jpg"],
     acquired: "",
     notes: "The first line ever drawn into the water, and you drew it: he commands the Underwater King's military force, said in as many words, so it is on the card as a relation rather than as a guess.\\n\\nThat matters because of what is still not connected. Five creatures are catalogued down there - a shark, two squids, an anglerfish and a manta - and across four batches the catalogue has refused every time to group them, because habitat is not affiliation. There is now a king with a commander and an army, and five animals in the same water, and not one word joining the two halves. If the creatures are his force, the group exists and the Atlantis Dive Team finally has a named enemy.\\n\\nThe other thing on this card is the uniform. The Evil King's Son, in this same batch, is wearing the identical torso print and the identical spiked shoulder piece. A commander and a prince in the same kit is the closest thing to an answer about which king fathered that boy, and it is still not an answer."
+  },
+
+  {
+    id: "thresher",
+    name: "Thresher",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Thresher.",
+    provenance:
+      "A black hood or helmet closed over the whole skull, and inside it a " +
+      "yellow face drawn as a skull - black sockets with small eyes at the top " +
+      "of them, a nose hole, and a wide grid of teeth running ear to ear. A " +
+      "moulded black shoulder piece with spikes at both sides and a ribbed " +
+      "collar under it, over a black torso printed with three blue-outlined " +
+      "panels, yellow bands between them and a red mark at the throat. A wide " +
+      "yellow belt below. Black arms, black hands, black legs. He is holding a " +
+      "transparent green hook.",
+    tags: ["villain", "named", "skull-face", "spiked-armour", "hood", "hook", "custom"],
+    images: ["images/thresher-01.jpg"],
+    acquired: "",
+    notes: "He has a name, which is rare here. The home-made villains with personal names come to a handful - Quinn, Phalanx, General Shepherd, Johnny Plasma, Wen, Long Arm Johnson, Deus Pater and Matthew - and he is the ninth.\\n\\nHe is also the third figure to arrive in one particular uniform. The Underwater King's Commander wears the identical black torso print and the identical spiked shoulder piece, and so does the Evil King's Son. Three men in the same kit, one of them stated to command a king's military force, one of them a king's son, and this one with a name and a hook. That is a unit in everything but a word from you.\\n\\nThe skull face is the other link. The Underwater King has a skull drawn across his face too, behind a green helmet. So does the Underwater King's Commander have a silver grille over the mouth. Whatever this outfit is, its people do not show their faces and what they show instead is a death's head.\\n\\nThe hook is transparent green, which is the only piece of colour on him."
+  },
+
+  {
+    id: "the-tanker-robot",
+    name: "The Tanker Robot",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An evil robot.",
+    provenance:
+      "A grey head printed as a machine face: two small black dots for eyes, " +
+      "and below them an enormous red mouth curved in a smile with a row of " +
+      "silver teeth clamped under it and vent lines drawn either side. Over " +
+      "the torso a moulded grey shoulder and chest piece, thick and rounded " +
+      "with a raised collar, hiding whatever is printed underneath. A gold " +
+      "belt across the hips with two red lights set in it, grey legs printed " +
+      "with cross-hatched plating, panel vents at the thighs and armour caps " +
+      "at the shins. Black arms, grey hands.",
+    tags: ["villain", "robot", "machine", "grey", "armoured", "red-mouth", "custom"],
+    images: ["images/the-tanker-robot-01.jpg"],
+    acquired: "",
+    notes: "Not the same thing as the Tanker Droid, which is a built machine standing three times a minifigure's bulk on slab feet. This one is minifigure-shaped and wears armour, which the Droid does not - it is armour all the way through.\\n\\nThe face is the whole card. Every other machine on that deck reads as a machine: the Missile has no face, the Killer Bots have visors, Ultron has a lit grille, the Tanker Droid has one red slit, the Cyborg has a targeting lens. This one is smiling. A red mouth curved upward with the teeth showing underneath is the only cheerful expression on any enemy machine in this collection, and it is the worst thing about him.\\n\\nHe joins a villain side that now holds the Missile, two Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Robot Builder, the Tanker Droid, three Ultrons and the Cyborg."
+  },
+
+  {
+    id: "the-black-clone-trooper",
+    name: "The Black Clone Trooper",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A clone trooper, in black.",
+    provenance:
+      "The Phase 2 clone helmet moulded in black, with a dark red trace " +
+      "running along the top edge of the visor and the vents and studs picked " +
+      "out in grey at the jaw. A black torso printed in fine white line work - " +
+      "chest plates, a belt rig with pouches, panels and a keypad drawn across " +
+      "the stomach - and black legs with white outlines at the knees and the " +
+      "boot caps. Black arms, black hands.",
+    tags: ["villain", "star-wars", "branded", "clone", "trooper", "black", "helmet", "shadow"],
+    images: ["images/the-black-clone-trooper-01.jpg"],
+    acquired: "",
+    notes: "You called him a shadow soldier and that name is taken, which is why the card reads the way it does. The Shadow Soldiers here are seven blank black figures out of the shadow dimension - no face, no printing, people with everything taken out - and he is a printed clone in black armour. Two very different things cannot hold the same name, so he is filed for what he is until you give him another.\\n\\nWhat he does is complete a set. The black kit now runs across four unit types: the Shadow Troopers, who are stormtroopers in black and filed good; the Shadow ARF Trooper, a recon clone; the Shadow Commando, who arrived last batch; and now the standard trooper. Three of the four are on this side. That offer has been made four times and never taken, and it is the oldest open group in the catalogue.\\n\\nHe is also the fifth clone on the villain side, against eighteen good ones."
+  },
+
+  {
+    id: "the-kartians",
+    name: "The Kartians",
+    variant: "Four of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Kartians. Martians of some kind, four of them.",
+    provenance:
+      "Four figures, all transparent green all the way through - head, body, " +
+      "arms and legs moulded in one clear colour with nothing printed on any " +
+      "of them. They are not minifigures. Each is a single small build with a " +
+      "peaked helmet or crest swept back off the skull, a heavy brow, a round " +
+      "port set into the chest, and short arms hanging at the sides. They " +
+      "stand on a grey plate in two rows of two.",
+    tags: ["villain", "martian", "alien", "translucent", "green", "non-minifigure", "unprinted", "custom"],
+    images: ["images/the-kartians-01.jpg"],
+    acquired: "",
+    notes: "The name came in as kartians martians and the card keeps the first word, because that is the one that is not already a card here. The Martians are catalogued separately - three of them, green heads with fangs and magenta arms, in a group with the Martian Leader who took an army into Lego City. These four are not those. They are clear green and they are not minifigure-shaped at all.\\n\\nSo either Kartian is what that species is called and the Martians are something else, or these are the same people seen another way. Nothing has been said and the two cards are kept apart, which is the eighth alien body on that deck with nothing written between it and the others.\\n\\nThey also make the transparent figures a pattern rather than an oddity. Darth Vader's card once claimed he was the only figure here you could see the shelf through; a hologram of Darth Revan corrected that, and these four correct it again. Four at once is more than the rest of the collection has managed in total."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
