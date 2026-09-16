@@ -21375,7 +21375,7 @@ window.COLLECTION = [
       "images/the-halo-grunts-01.jpg",
     ],
     acquired: "",
-    notes: "The war finally has an army in it. The Halo Mega Bloks wars have been in the world notes since early on - a real war, with the Mega Bloks as the aggressor, ended by talking rather than by winning - and until now the only two figures out of it on this shelf were exceptions to their own side. The Brute Prince is a prince of that world who argued for stopping it. The Red Spartan decided to join the good guys. One dissenter and one defector, and no soldiers.\n\nThese are the soldiers. Two identical bodies with no story on them, out of the side the lore names as the aggressor, which is why they are filed here. It is a faction assigned by what the world already says rather than by anything you said about these two, so it is one word to move them.\n\nThey are also the first thing in this collection that is not Lego and not a person. Every other not-Lego figure here is somebody - the Ancient out of a Tonka set who was here before the civilization, the Defector and his opposite number, the Brute Prince, the Red Spartan, the knock-off adventurer and officer. These are a species and a rank, and there are two of them because there were two in the box.\n\nWorth recording what they do to the group. The Knock-offs held five cards, four of them good, and the whole idea of the group has been that being made by a rival company is a fact about your body rather than about your character. This card makes six, and the split moves to four and two. Two Spartans have since arrived on the bad side as well, which takes the group to eight and levels it at four each - so a group whose members were mostly good is now exactly halved."
+    notes: "The war finally has an army in it. The Halo Mega Bloks wars have been in the world notes since early on - a real war, with the Mega Bloks as the aggressor, ended by talking rather than by winning - and until now the only two figures out of it on this shelf were exceptions to their own side. The Brute Prince is a prince of that world who argued for stopping it. The Red Spartan decided to join the good guys. One dissenter and one defector, and no soldiers.\n\nThese are the soldiers. Two identical bodies with no story on them, out of the side the lore names as the aggressor, which is why they are filed here. It is a faction assigned by what the world already says rather than by anything you said about these two, so it is one word to move them.\n\nThey are also the first thing in this collection that is not Lego and not a person. Every other not-Lego figure here is somebody - the Ancient out of a Tonka set who was here before the civilization, the Defector and his opposite number, the Brute Prince, the Red Spartan, the knock-off adventurer and officer. These are a species and a rank, and there are two of them because there were two in the box.\n\nWorth recording what they do to the group. The Knock-offs held five cards, four of them good, and the whole idea of the group has been that being made by a rival company is a fact about your body rather than about your character. This card made six. More have arrived on that side since - a yellow Spartan, three ODSTs, two jackals, a second red Spartan - and the group now runs ten cards, four good against six. That is a real shift rather than a tally: a group founded on the idea that being made by a rival company says nothing about your character has ended up with most of its members on the deck their maker is named as the aggressor of."
   },
 
   {
@@ -21610,7 +21610,82 @@ window.COLLECTION = [
 
   {
     id: "the-odst-spartan",
-    name: "The ODST Spartan",
+    name: "The ODST Spartans",
+    variant: "Three of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Halo ODSTs. Three of them, and no two kitted alike.",
+    provenance:
+      "Three, on the same moulded not-Lego build - armoured shoulder caps, " +
+      "jointed arms, heavy boots.\n\n" +
+      "The first is black almost all the way down, with open claw hands. A " +
+      "black helmet with a blue visor sunk into it and a small silver vent " +
+      "under the chin; across the chest a slab of blue over silver plating " +
+      "with a pistol moulded into the middle of it, a silver belt below, and " +
+      "black plates down the legs with silver at the knee and the toe.\n\n" +
+      "The second has the crown of the helmet painted blue over the black and " +
+      "a brighter blue visor under it, a darker navy chest slab, more silver " +
+      "worked through the harness and the belt, and silver forearm plates. " +
+      "His hands are bare - moulded flesh, closed into fists, with no glove " +
+      "over them.\n\n" +
+      "The third is olive green rather than black: an olive helmet with the " +
+      "same blue visor, olive chest and belt, black shoulder caps and black " +
+      "boots, olive forearms, and bare flesh hands again.",
+    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "odst", "black", "olive", "blue-visor", "bare-hands"],
+    images: [
+      { src: "images/the-odst-spartan-01.jpg", caption: "In black, claw hands" },
+      { src: "images/the-odst-spartan-02.jpg", caption: "Blue over the crown, bare hands" },
+      { src: "images/the-odst-spartan-03.jpg", caption: "In olive" },
+    ],
+    acquired: "",
+    notes: "Filed with the Yellow Spartan and for the same reason, which is the reason the Halo Grunts carry: the side rather than the man.\n\nHe is the darkest figure in the not-Lego half of this collection - black from the helmet down apart from the blue slab at the chest and the silver at the belt and the knees. That reads differently over there than it does among the minifigures. On the Lego side black has meant a whole shadow apparatus: the Shadow Soldiers, the Shadow King, the Shadow Troopers, the Purple Shadow, the black-kitted units that still have no group between them. Over here it is the first time the colour has turned up at all.\n\nThe pistol is moulded into the chest plate rather than held, which is worth recording. Almost every armed figure in this collection carries the weapon in a hand and can be disarmed by taking it off them. This one has it built into the armour.\n\nTwo more arrived after that was written and the card holds three now. They are worth keeping together rather than splitting, because what they have in common is a visor and what they do not have in common is everything else - one black, one black with the crown painted blue, one olive - and a squad that is not uniform is a thing this collection has run into before, with the Snowtroopers and the Rebel Troopers, where the variant field had to say two patterns.\n\nThe hands are the find. The first has the closed claw every not-Lego figure here has. The other two have bare flesh fists moulded on, no glove, no gauntlet - which makes them the only figures on the not-Lego half of the shelf with skin showing anywhere. Everything else out of that maker is sealed: the Grunts, the Yellow Spartan, the stone and brass warriors, the Brute Prince. These two have hands you could shake."
+  },
+
+  {
+    id: "the-jackals",
+    name: "The Jackals",
+    variant: "Two of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two jackals.",
+    provenance:
+      "Not Lego, and not built like the Spartans either - these are hunched, " +
+      "with long jointed legs that break backwards at the knee and end in " +
+      "three-toed splayed feet. Dark navy armour over the torso, the hips and " +
+      "the legs, with a wide belt at the waist; one carries a silver plate " +
+      "worked onto the chest and the other does not. The arms are the " +
+      "strangest part: pale cream, bare, jointed twice and much longer than " +
+      "the body needs, ending in open hooks with dark bands at the wrist.\\n\\n" +
+      "The heads are beaked. A narrow reptile skull drawn out to a pale hooked " +
+      "beak with the teeth showing, a small yellow eye, and a stiff red crest " +
+      "standing straight up off the crown. One head is pale tan, the other " +
+      "olive grey.",
+    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "jackal", "beaked", "crest", "pair"],
+    images: [
+      { src: "images/the-jackals-01.jpg", caption: "Standing" },
+      { src: "images/the-jackals-02.jpg", caption: "The other one, crouched" },
+    ],
+    acquired: "",
+    notes: "The first non-human enemy out of the Mega Bloks side. The Grunts are hunched and clawed but they are infantry in armour; these are built wrong for a person - knees that bend the other way, arms twice the length they should be, a beak where a mouth goes.\n\nThat matters for a category this collection has kept badly. For six hundred figures the enemy here was entirely people, and the world note on things that are not people says so: the only creatures of any kind were Laval, a horse and a Spider-Man, until the brain parasites arrived to feed. Since then it has filled up - the Evil Bug, the sea creatures, the Yeti, the Wampa. These are the first that come with an army attached and a war already in the record.\n\nThe red crest is the only colour on either of them, and it is the same trick the army of stone warriors uses: one bright thing standing up off the head where it can be seen. On a Lego figure that would be printed. On these it is moulded and painted, and it has survived better than the paint on any Spartan here.\n\nFiled bad on the same footing as the Grunts and the Spartans - the side rather than the man, because the world notes name that side as the aggressor and nothing has been said about these two choosing otherwise."
+  },
+
+  {
+    id: "the-second-red-spartan",
+    name: "The Second Red Spartan",
     variant: "",
     faction: "bad",
     origin: "custom",
@@ -21621,21 +21696,20 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "A Halo ODST.",
+    background: "A red Spartan, and not the one who came over.",
     provenance:
-      "The same moulded not-Lego build, in black almost all the way down - " +
-      "armoured shoulder caps, jointed arms to open claw hands, heavy boots. " +
-      "The helmet is black with a blue visor sunk into it and a small silver " +
-      "vent under the chin. Across the chest a slab of blue over silver " +
-      "plating with a pistol moulded into the middle of it, a silver belt " +
-      "below, and black plates down the legs with silver at the knee and the " +
-      "toe.",
-    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "odst", "black", "blue-visor"],
+      "Red almost everywhere - helmet, shoulders, chest, arms, hips, legs and " +
+      "boots, with black worked into every crevice and a black undersuit " +
+      "showing at the thighs and the waist. The visor is gold, set into a red " +
+      "helmet with vents cut at the cheek. The hands are bare grey, one open " +
+      "and one closed. The red has been rubbed back to a darker undercoat " +
+      "along the shoulder caps, the knees and the toes.",
+    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "spartan", "red", "gold-visor", "worn"],
     images: [
-      "images/the-odst-spartan-01.jpg",
+      "images/the-second-red-spartan-01.jpg",
     ],
     acquired: "",
-    notes: "Filed with the Yellow Spartan and for the same reason, which is the reason the Halo Grunts carry: the side rather than the man.\n\nHe is the darkest figure in the not-Lego half of this collection - black from the helmet down apart from the blue slab at the chest and the silver at the belt and the knees. That reads differently over there than it does among the minifigures. On the Lego side black has meant a whole shadow apparatus: the Shadow Soldiers, the Shadow King, the Shadow Troopers, the Purple Shadow, the black-kitted units that still have no group between them. Over here it is the first time the colour has turned up at all.\n\nThe pistol is moulded into the chest plate rather than held, which is worth recording. Almost every armed figure in this collection carries the weapon in a hand and can be disarmed by taking it off them. This one has it built into the armour."
+    notes: "Checked against the Red Spartan already on the shelf, and it is not him. That one is red and black in patches with olive at the hips and forearms, black arms, black thighs, and a blue visor. This one is red nearly all over with black only in the crevices, grey hands, and the visor is gold. Two different figures in the same colour, so this card is written as the second rather than folded into the first.\n\nAnd the two of them are now on opposite decks, which this world has a precedent for and a name for. The Defector and the Knock-off Captain are two casts of one mould standing on either side of the knock-off war, told apart by the colour of a cap. The world note calls that the clearest case here of the story and the material being the same thing. This is the second pair of that kind: same maker, same soldier, same colour, one who came over and one who did not, and a gold visor instead of a blue one to tell them apart.\n\nHe is filed bad on the standing reasoning - the side rather than the man. It is worth saying plainly that the other Red Spartan's card describes his position as a decision he made, which is what puts him where he is. Nothing has been said about this one deciding anything.\n\nLeaving the ODSTs aside, the Spartans here now split two and two. The Spartan is one of the Damaged, out of the spray-painted world. The Red Spartan came over. The Yellow Spartan and this one did not."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
