@@ -21446,7 +21446,7 @@ window.COLLECTION = [
   {
     id: "the-stone-warriors",
     name: "The Stone Warriors",
-    variant: "Two of them",
+    variant: "The rank and file",
     faction: "bad",
     origin: "custom",
     theme: "Creation Mythos",
@@ -21470,9 +21470,74 @@ window.COLLECTION = [
     images: [
       { src: "images/the-stone-warriors-01.jpg", caption: "In the red horns" },
       { src: "images/the-stone-warriors-02.jpg", caption: "In the plumed helm" },
+      { src: "images/the-stone-warriors-03.jpg", caption: "More of the plumed ones" },
     ],
     acquired: "",
-    notes: "Two figures on one card, because you sent them as additional rather than as anybody in particular.\n\nThe second of them settles something about Sigrid. He wears the identical torso - the same rivets, the same chainmail skirt, the same studded strap across the chest - which means Sigrid's armour is the unit's armour and not a king's. Whatever the numeral after his name buys him, it is not a different suit. The only thing that separates Sigrid from a soldier is the head, and his is a face where these are helmets.\n\nA new group, The Stone Warriors, named by you and three cards deep on the day it was made. That is unusual here - most groups in this collection started as a name with nobody in it, the alien mercenaries and the Insect Captain's insects and the Bionics Team - and this is the second to arrive as a going concern, after the Sting Rays.\n\nThey are also the largest body of moulded not-Lego figures in the collection. Everything else out of another maker here came one or two at a time, and every one of them was somebody: the Ancient, the Defector, the Brute Prince, the Red Spartan, the Knock-off Captain. Between these two, the Copper, Sigrid and the two Halo Grunts, six not-Lego figures arrived in a single batch, which is more than the whole shelf held before it."
+    notes: "Two figures on one card, because you sent them as additional rather than as anybody in particular.\n\nThe second of them settles something about Sigrid. He wears the identical torso - the same rivets, the same chainmail skirt, the same studded strap across the chest - which means Sigrid's armour is the unit's armour and not a king's. Whatever the numeral after his name buys him, it is not a different suit. The only thing that separates Sigrid from a soldier is the head, and his is a face where these are helmets.\n\nA new group, The Stone Warriors, named by you and three cards deep on the day it was made. That is unusual here - most groups in this collection started as a name with nobody in it, the alien mercenaries and the Insect Captain's insects and the Bionics Team - and this is the second to arrive as a going concern, after the Sting Rays.\n\nThey are also the largest body of moulded not-Lego figures in the collection. Everything else out of another maker here came one or two at a time, and every one of them was somebody: the Ancient, the Defector, the Brute Prince, the Red Spartan, the Knock-off Captain. Between these two, the Copper, Sigrid and the two Halo Grunts, six not-Lego figures arrived in a single batch, which is more than the whole shelf held before it.\n\nThe card has been widened since. A third photograph shows the plumed helm is not one man - there are more of them standing together, the same build repeated, which turns this from two figures into the unit's rank and file. The variant says so now rather than giving a number, because the photograph will not settle one.\n\nThe red-horned shot was also replaced with a sharper one of the same figure. It came in as more stone warriors, and it is not: the scorch marks across his shoulders are in the same two places, the studded belly plate is the same, the horns sit at the same angle. Same man, better photograph, so the card took the picture and not a second entry."
+  },
+
+  {
+    id: "the-warrior-in-the-gold-helm",
+    name: "The Warrior in the Gold Helm",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "The Stone Warriors",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A stone warrior wearing one arm of the other metal.",
+    provenance:
+      "A silver body of the standard build - moulded torso worked with a " +
+      "sculpted relief across the chest, a strap running diagonally over it, a " +
+      "buckled belt, panelled legs - and two things on him that are not " +
+      "silver. The helm is brass: the same domed visor with the vertical slits " +
+      "the plumed soldiers wear, cast in gold, with a dark blue crest standing " +
+      "up off the crown. And the left arm is brass too, shoulder plate, forearm " +
+      "and claw hand all of it, against a silver arm on the other side.",
+    tags: ["villain", "stone-warriors", "not-lego", "armour", "brass", "silver", "mismatched", "blue-crest"],
+    images: [
+      "images/the-warrior-in-the-gold-helm-01.jpg",
+    ],
+    acquired: "",
+    notes: "He is wearing both metals, and he arrived in the same batch as the first figures made entirely of the other one.\n\nEvery stone warrior catalogued before him is bare steel from the helm down. The Brass Warriors, who came in with him, are gold all through. This one is a silver body with a brass helm and a brass arm on one side, which makes him the only figure in the collection wearing two different armies at once - if that is what the two metals are. Nobody has said they are anything.\n\nIt reads three ways and none of them is written in. Salvage, which this world does constantly - the Salvager is Lego above the waist and not Lego below it, the Mechanic repaired his own arm in gold, and a replaced limb is the oldest running idea here. Rank, which is how this collection has told officers apart before - the IG Captain is black where his men are silver, the droid commander wears a yellow chest. Or a defection, which has happened here too: the Defector and the Knock-off Captain are two casts of one mould standing on opposite sides.\n\nHe is also the only blue in the army. There is colour elsewhere in it - dark red horns on one stone warrior, red eyes under Sigrid's brow, the green the Copper was cast in - but nothing anywhere in either unit is blue except this crest, and a crest is the one part of a suit of armour that exists to be seen from a distance.\n\nSigrid is the other mixed one, and mixed differently - a not-Lego body on Lego legs, two makers rather than two metals. Between them, the two most interesting figures in this army are both the ones assembled out of more than one thing."
+  },
+
+  {
+    id: "the-brass-warriors",
+    name: "The Brass Warriors",
+    variant: "Two of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "The Brass Warriors",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two brass warriors.",
+    provenance:
+      "Two, gold through and through, on the same moulded build as the stone " +
+      "warriors - armoured arms to claw hands, panelled legs, a belt across the " +
+      "hips. The chest is different from anything in the silver unit: two " +
+      "chains crossed over the breastplate and pinned at the middle by a round " +
+      "boss, with a small bar above it at the throat.\n\n" +
+      "The helms are not the same as each other. The first is a dark bronze " +
+      "cap, ridged across the crown, with two heavy horns curving up and " +
+      "outward. The second is gold, and horned four times over - two long horns " +
+      "sweeping up from the temples and a shorter pair curving out below them, " +
+      "with a raised band running front to back over the top.",
+    tags: ["villain", "brass-warriors", "not-lego", "armour", "brass", "gold", "chains", "horns", "pair"],
+    images: [
+      { src: "images/the-brass-warriors-01.jpg", caption: "In the two-horned cap" },
+      { src: "images/the-brass-warriors-02.jpg", caption: "In the four-horned helm" },
+    ],
+    acquired: "",
+    notes: "Named by you, and named apart from the stone warriors, so they are filed as their own group rather than folded into that one. Same moulds, different metal, different name.\n\nWhat they share with the silver unit is the body. What they do not share is the chest: every stone warrior wears a riveted plate or a scaled one, and these two wear crossed chains pinned with a boss, which is the only chest design in either unit that is not armour. Chains across a breastplate are either a decoration or a record of something, and nothing has been said.\n\nThey are the first gold soldiers here. Two figures on this shelf were already gold from head to foot and neither of them fights: C-3PO, who is a protocol droid, and Deus Pater, who is a cosmic deity. Everywhere else gold is a highlight on somebody - the Golden Sniper's rifle, the Mechanic's repaired skull, the gold-visored astronaut, Gold Tooth's one tooth. It has meant precious, or divine, or a single thing worth mentioning. These are two men in armour cast in it, which is neither.\n\nThe open question is the Warrior in the Gold Helm, who arrived in the same batch. He is a silver stone warrior wearing a brass helm and one brass arm, which is the only physical link between these two units and could be salvage, rank or a crossing. Two groups exist now because you named two. If they are one army in two metals, that is one word and the groups merge.\n\nSmall thing worth flagging: the two helms are different from each other, which in this collection has usually meant rank. The stone warriors repeat a helmet; these two do not."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
