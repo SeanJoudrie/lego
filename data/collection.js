@@ -830,15 +830,18 @@ window.COLLECTION = [
       "else lived.",
     provenance: "",
     tags: ["verdauf", "elite", "captain", "hand-to-hand", "brother", "deceased"],
-    images: ["images/the-green-captain-01.jpg"],
+    images: [
+      { src: "images/the-green-captain-01.jpg", caption: "Light green armor" },
+      { src: "images/the-green-captain-02.jpg", caption: "With a blade" },
+    ],
     acquired: "",
-    notes: "Placeholder name - you called him the Green Captain in passing. Since this was written, a second Verdauf captain has been catalogued: the Traitor Captain, also in light green, who misled his troops into a massacre and rigged a ship with explosives, and whose survivors lived because a bomb failed. Either that is a different man or it is this same event told honestly. Nothing here has been changed on a guess - say which it is."
+    notes: "Placeholder name - you called him the Green Captain in passing. Since this was written, a second Verdauf captain has been catalogued: the Traitor Captain, also in light green, who misled his troops into a massacre and rigged a ship with explosives, and whose survivors lived because a bomb failed. Either that is a different man or it is this same event told honestly. Nothing here has been changed on a guess - say which it is.\n\nThe second photograph arrived on the wrong card and has been moved here. It came in described as the Verdauf soldier whose brother died, which reads as the younger brother, since he is the one who survived - so it went onto his entry as a third outfit. It is not him. It is this man, and the plastic says so plainly: the same brown swept hair, the same stubbled face with the scar across the brow, the same white and light green plate with the yellow crest at the chest and the green sash at the waist. My error, and it is recorded here rather than quietly swapped.\n\nThe blade is new. Nothing on this card has had him carrying a weapon before - he is written as skilled in hand-to-hand, which is a different thing - and this is the only photograph of him holding one."
   },
 
   {
     id: "the-younger-brother",
     name: "The Younger Brother",
-    variant: "Three outfits",
+    variant: "His father's armor, and his everyday gear",
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
@@ -864,11 +867,10 @@ window.COLLECTION = [
     tags: ["soldier", "brother", "inherited-armor", "survivor"],
     images: [
       { src: "images/the-younger-brother-01.jpg", caption: "His father's armor" },
-      { src: "images/the-younger-brother-03.jpg", caption: "His own armour" },
       { src: "images/the-younger-brother-02.jpg", caption: "Everyday gear" }
     ],
     acquired: "",
-    notes: "Placeholder name.\n\nThree outfits now. His father's armour is white, black and yellow under a black cap - a dead man's kit, worn by his son. His everyday gear is a leather jacket over grey jeans. Between them is his own: white and sand-green plate in the Verdauf pattern, brown hair and stubble, a short grey blade in his hand. That is the one he actually serves in, and it is the only one of the three that is neither borrowed from his father nor off duty.\n\nWorth reading beside the Green Captain's card. His brother pushed him into the escape pod and set the bomb off himself, and everyone else lived. So the man standing in this armour is alive because somebody chose it - and two of the three things he wears belonged to men who are not here."
+    notes: "Placeholder name.\n\nTwo outfits. His father's armour is white, black and yellow under a black cap - a dead man's kit, worn by his son. His everyday gear is a leather jacket over grey jeans. There is no photograph of him in Verdauf kit of his own, which is worth saying plainly: the only armour this card has ever shown him in belonged to somebody else.\n\nA third photograph sat on this card briefly and has been moved to the Green Captain's, where it belongs. It came in described as the Verdauf soldier whose brother died, and I read that as him, since he is the one who lived. The figure in it is his brother.\n\nWorth reading beside that card anyway. The Green Captain pushed him into the escape pod and set the bomb off himself, and everyone else lived. So the man on this card is alive because somebody chose it, and the armour he is photographed in came off his father."
   },
 
   {

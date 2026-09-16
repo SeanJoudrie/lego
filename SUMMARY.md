@@ -1122,7 +1122,7 @@ He dies aboard an exploding ship. There was a bomb about to go off and take the 
 
 *Tags:* verdauf, elite, captain, hand-to-hand, brother, deceased
 
-### 24. The Younger Brother — Three outfits
+### 24. The Younger Brother — His father's armor, and his everyday gear
 
 **Alignment:** good · **Role:** Soldier · **Figure:** custom
 
