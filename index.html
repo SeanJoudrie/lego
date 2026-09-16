@@ -212,7 +212,7 @@
   .grid.small .card .variant, .grid.small .row,
   .grid.small .custom-tag, .grid.small .theme-tag { display:none; }
   .grid.tiny .meta, .grid.tiny .custom-tag, .grid.tiny .theme-tag { display:none; }
-  .grid.tiny .flag { width:7px; height:7px; top:5px; left:5px; box-shadow:0 0 0 2px rgba(246,239,223,.85); }
+  .grid.tiny .num { font-size:9px; padding:1px 4px; top:5px; left:5px; }
 
   /* A full-width rule across the grid where the living stop and the lost
      begin, with the label sitting under the line. */
@@ -245,13 +245,16 @@
             object-fit:cover; object-position:50% 12%; display:block; }
   .shot img.wide { object-fit:contain; object-position:50% 50%; }
   .shot .empty { color:var(--faint); font-size:12px; letter-spacing:.08em; }
-  .flag {
-    position:absolute; top:8px; left:8px; width:9px; height:9px; border-radius:50%;
-    box-shadow:0 0 0 3px rgba(246,239,223,.85);
+  /* Catalogue number. The deck a card sits in already says good or bad, so the
+     corner carries the entry's number instead - the order it was catalogued in,
+     counting from the First Man at 1. */
+  .num {
+    position:absolute; top:8px; left:8px;
+    background:rgba(246,239,223,.92); border:1px solid var(--line);
+    color:var(--dim); font-size:10px; font-weight:600;
+    letter-spacing:.04em; font-variant-numeric:tabular-nums;
+    padding:2px 5px; border-radius:3px;
   }
-  .flag.good { background:var(--good); }
-  .flag.bad { background:var(--bad); }
-  .flag.neutral { background:var(--neutral); }
   .custom-tag, .theme-tag {
     position:absolute; top:8px; right:8px;
     background:rgba(246,239,223,.92); border:1px solid var(--line);
@@ -316,6 +319,10 @@
   .badge.good { color:var(--good); border-color:color-mix(in srgb, var(--good) 40%, transparent); }
   .badge.bad { color:var(--bad); border-color:color-mix(in srgb, var(--bad) 40%, transparent); }
   .badge.neutral { color:var(--neutral); border-color:color-mix(in srgb, var(--neutral) 40%, transparent); }
+  .catno {
+    font-size:11px; letter-spacing:.14em; text-transform:uppercase;
+    color:var(--faint); font-variant-numeric:tabular-nums; margin-bottom:2px;
+  }
   .badge.custom { color:var(--accent); border-color:color-mix(in srgb, var(--accent) 40%, transparent); }
   .info .stars { font-size:15px; margin-bottom:16px; }
   .bg { color:var(--text); white-space:pre-wrap; margin-bottom:18px; }
@@ -459,9 +466,9 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789536201"></script>
-<script src="data/lore.js?v=1789536201"></script>
-<script src="data/featured.js?v=1789536201"></script>
+<script src="data/collection.js?v=1789536240"></script>
+<script src="data/lore.js?v=1789536240"></script>
+<script src="data/featured.js?v=1789536240"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"order" };
@@ -528,7 +535,7 @@ function matches(f) {
   if (state.role    !== "all" && f.role    !== state.role)    return false;
   if (state.group   !== "all" && f.group   !== state.group)   return false;
   if (state.q) {
-    const hay = [f.name, f.variant, f.theme, f.rank, f.role, f.group, f.location, f.background, f.provenance, f.notes, (f.tags || []).join(" ")]
+    const hay = ["#" + (f._i + 1), f.name, f.variant, f.theme, f.rank, f.role, f.group, f.location, f.background, f.provenance, f.notes, (f.tags || []).join(" ")]
       .join(" ").toLowerCase();
     if (!hay.includes(state.q)) return false;
   }
@@ -693,7 +700,7 @@ function card(f) {
       <div class="shot">
         ${cover ? `<img src="${esc(cover.src)}" alt="${esc(f.name)}" loading="lazy">`
                 : `<span class="empty">NO PHOTO YET</span>`}
-        <span class="flag ${esc(f.faction)}" title="${esc(f.faction)}"></span>
+        <span class="num" title="Entry ${f._i + 1}">${f._i + 1}</span>
         ${f.origin === "custom"
             ? `<span class="custom-tag">CUSTOM</span>`
             : themeTag(f) ? `<span class="theme-tag">${esc(themeTag(f))}</span>` : ``}
@@ -828,6 +835,7 @@ function open(f) {
         ` : `<div class="main empty">NO PHOTO YET</div>`}
       </div>
       <div class="info">
+        <div class="catno">No. ${f._i + 1}</div>
         <h2>${esc(f.name)}</h2>
         ${f.variant ? `<div class="variant">${esc(f.variant)}</div>` : ``}
         <div class="badges">
