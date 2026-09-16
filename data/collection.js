@@ -11709,7 +11709,7 @@ window.COLLECTION = [
   {
     id: "the-501st-troopers",
     name: "The 501st Troopers",
-    variant: "Four of them",
+    variant: "Five of them",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -11719,7 +11719,7 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "Troopers of the 501st. There are four of them.",
+    background: "Troopers of the 501st. There are five of them.",
     provenance:
       "Phase 2 helmets with a blue stripe over the crown and blue down the " +
       "cheek, blue arms, blue flashes at the knees. Identical to each other " +
@@ -11727,15 +11727,19 @@ window.COLLECTION = [
       "trooper on a later print - the blue laid on heavier over the crown, a " +
       "blue wedge at the sternum the first two do not have, and the knee bands " +
       "outlined in black. " +
-      "A fourth is the same again on plain white legs, no knee bands at all.",
+      "A fourth is the same again on plain white legs, no knee bands at all. " +
+      "A fifth arrived on his own, separated from the rest: the heavier blue " +
+      "over the crown, the blue wedge at the sternum, black knee bands, one " +
+      "black hand and one grey.",
     tags: ["star-wars", "clone", "trooper", "501st", "blue", "unit", "two", "branded"],
     images: [
       { src: "images/the-501st-troopers-01.jpg", caption: "The first two" },
       { src: "images/the-501st-troopers-02.jpg", caption: "The third, a later print" },
       { src: "images/the-501st-troopers-03.jpg", caption: "The fourth, on plain legs" },
+      { src: "images/the-501st-troopers-04.jpg", caption: "The fifth, separated" },
     ],
     acquired: "",
-    notes: "One entry for the pair, the way the Enforcer Squad and the Gungan Soldiers are done. Clones are the one case where that is not a shortcut - they really are the same man twice. Captain Rex has since arrived in the same blue, so the 501st is a group of its own now rather than two men filed under the whole army."
+    notes: "One entry for the pair, the way the Enforcer Squad and the Gungan Soldiers are done. Clones are the one case where that is not a shortcut - they really are the same man twice. Captain Rex has since arrived in the same blue, so the 501st is a group of its own now rather than two men filed under the whole army.\n\nFive now. The fifth came in on his own and was handed in as a trooper that got separated, which is kept on this card rather than made into one of its own - the Lost names in this collection all mean gone from the shelf, and he is not. If being separated is a story about him rather than a note about where he was found, say so and he takes his own card."
   },
 
 
@@ -20621,6 +20625,130 @@ window.COLLECTION = [
     images: ["images/marcus-brody-01.jpg"],
     acquired: "",
     notes: "The thrift-shop set is resolved. Elsa Schneider came in last batch, and with Kazim and this man the figures line up as one Indiana Jones set from the film with the father in it - and Indiana Jones and his father were both already on this shelf, bought separately and years apart. You picked up secondhand the rest of a story the collection had two thirds of.\\n\\nSix figures out of Indiana Jones now, one of them a knock-off and one of them a villain.\\n\\nHe is also the fourth academic here and the only one who is not a professor. The Alien Professor is dead, the Hogwarts Professor and Professor Sprout are both out of a box, and this one runs a museum. Linked to Indiana Jones as his friend, which the film says outright - the two of them work together and have for years."
+  },
+
+  {
+    id: "the-bear-villager",
+    name: "The Bear Villager",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Animal Crossing",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A villager out of Animal Crossing.",
+    provenance:
+      "A moulded brown bear head that takes up half the figure - two round " +
+      "ears standing off the top, a cream muzzle with a black nose and a small " +
+      "curved smile drawn under it, a fringe of brown bangs across the brow, " +
+      "and two enormous black eyes with white glints and painted lashes. A " +
+      "cream knitted jumper printed with a teal fir tree at the chest and " +
+      "ribbing at the hem, cream arms and white hands, and short brown legs. " +
+      "She is carrying a lime green watering can.",
+    tags: ["animal-crossing", "branded", "bear", "villager", "moulded-head", "jumper", "watering-can"],
+    images: ["images/the-bear-villager-01.jpg"],
+    acquired: "",
+    notes: "Opens a twenty-first theme. Animal Crossing is the game - the animal one, with the villagers and the island - and that much is certain. Which villager she is, is not: she is a brown bear cub in a jumper with a tree on it, and I cannot put a name to her with enough confidence to write one down. Named for what she is, the way the Teal Astromech and the Blue Imperial Trooper are. If you know her, the card takes it.\\n\\nShe also arrived carrying the same lime green watering can as the Asteroid Gardener in this same batch. Two figures from two entirely different worlds holding the identical piece is the sort of thing this collection notices and does not act on.\\n\\nTwenty-one themes now, and this is the gentlest one in the building. Everything else that came out of a box arrived with a war attached."
+  },
+
+  {
+    id: "the-slime-king",
+    name: "The Slime King",
+    variant: "And his slimes",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "King",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The Slime King, and some of his friendly slimes.",
+    provenance:
+      "Lime green from the crown to the boots, with nothing printed on the " +
+      "head but two small black eyes - no mouth, no brows, no expression at " +
+      "all. An orange vest printed over the torso with a dark belt below it, " +
+      "and tan legs under that. He is holding a knight's shield: white-edged, " +
+      "quartered blue and red, with a crowned gold lion rearing across the " +
+      "middle of it.\\n\\n" +
+      "Beside him are the slimes. One is a spare lime head with the same two " +
+      "eyes on it and nothing else. The other stands on its own - a lime body " +
+      "with eyes printed straight onto it, and over the top a transparent " +
+      "green dome with two more eyes showing through, so that it reads as a " +
+      "creature inside a creature.",
+    tags: ["king", "slime", "green", "translucent", "shield", "friendly", "custom"],
+    images: ["images/the-slime-king-01.jpg"],
+    acquired: "",
+    notes: "Sixth king on the good side, after the Prince, King Arthur, the Dwarf King, the City King and the elected one. Rulers in this collection have been drifting the wrong way for a long time - the villain deck holds two kings, two pharaohs, a queen, an emperor, a dictator, a governor, a supreme chancellor and an underwater king, ten in all - so a king arriving on this deck is worth noting on its own.\\n\\nWhat he is carrying is the odd part. The shield is a proper heraldic one, quartered and charged with a crowned lion, and it does not belong to anything else on him. A faceless green man in an orange vest holding somebody's coat of arms is either a king who inherited the arms and not the clothes, or a slime that found a shield.\\n\\nThe slimes are on his card rather than their own because you handed them in as his and they have no faces beyond the eyes. If they are people rather than his, they split off."
+  },
+
+  {
+    id: "the-asteroid-gardener",
+    name: "The Asteroid Gardener",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Gardener",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "She gardens on her asteroid, and she enjoys it.",
+    provenance:
+      "A white open-faced helmet, and inside it a yellow face with the eyes " +
+      "shut in two happy curves, freckles across both cheeks, an orange mark " +
+      "at one side and a wide open smile. A silver shoulder guard clipped over " +
+      "one side, and under it an orange torso printed in fine pink and purple " +
+      "scrollwork with an hourglass at the belt. Pale blue legs printed with " +
+      "dark strapping down to lilac boots. She is carrying a lime green " +
+      "watering can in one hand and a pair of enormous silver shears in the " +
+      "other.",
+    tags: ["gardener", "asteroid", "space", "helmet", "shears", "watering-can", "happy", "custom"],
+    images: ["images/the-asteroid-gardener-01.jpg"],
+    acquired: "",
+    notes: "The first gardener in this collection, and one of very few people here whose card says they enjoy what they do. There are farmers, a fisherman, a chef and a librarian on the good deck, but the word enjoy is almost never written down - most cards say what somebody is for.\\n\\nShe is also the answer to a shape this collection keeps making. Space in here is astronauts, pilots, marshals, militia and a police force; the asteroid belt is somewhere you mine or crash. She lives on one and grows things on it.\\n\\nThe shears are as long as her arm and the watering can is the same lime green piece the bear villager out of Animal Crossing is holding, two cards away and one world over."
+  },
+
+  {
+    id: "the-knock-off-officer",
+    name: "The Knock-off Officer",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Indiana Jones",
+    rank: "",
+    role: "Officer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Out of the same rip-off set as the Knock-off Adventurer. The man on the " +
+      "other side of it.",
+    provenance:
+      "Grey almost all the way down. Swept grey hair over a pale face with " +
+      "sharp drawn brows, deep lines at both cheeks and a wide grin showing a " +
+      "full row of teeth. A pale grey officer's tunic printed with a collar " +
+      "and tie, two buttoned breast pockets and a belt with buckles at the " +
+      "waist; grey arms, flesh hands. Grey trousers printed with thigh pockets " +
+      "and creases, and dark boot caps. He is holding a long black pistol.\\n\\n" +
+      "The whole figure is one colour and the printing is line work rather " +
+      "than paint, which is what makes him look like a photograph of a man " +
+      "instead of a man.",
+    tags: ["villain", "indiana-jones", "knock-off", "third-party", "officer", "grey", "monochrome"],
+    images: ["images/the-knock-off-officer-01.jpg"],
+    acquired: "",
+    notes: "Second figure out of the rip-off set, after the Knock-off Adventurer, and the two of them are the whole point of each other: a copy of the hero and a copy of the man he fights, sold together by somebody who was not allowed to use either name.\\n\\nThat makes eight Knock-offs in this collection now - figures out of other makers rather than out of Lego, which the lore says went to war - and this is the third of the eight on the villain side, after the Knock-off Captain and the Successful Replica.\\n\\nHe is filed bad because of what he is holding and what he is wearing and who he was sold next to. Nothing was said about him, so if that is wrong it is one word."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
