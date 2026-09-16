@@ -18299,7 +18299,7 @@ window.COLLECTION = [
   {
     id: "ultron",
     name: "Ultron",
-    variant: "Two figures",
+    variant: "Three figures",
     faction: "bad",
     origin: "branded",
     theme: "Marvel",
@@ -18310,22 +18310,23 @@ window.COLLECTION = [
     relations: [],
     rating: 0,
     background:
-      "Ultron. Two of him.",
+      "Ultron. Three of him.",
     provenance:
       "A black head moulded with a plated skull, two round blue eyes and a wide " +
       "blue grille across the jaw that reads as a lit mouth. A silver torso " +
       "printed in fine white and blue circuitry over black, the same work " +
       "running down silver legs, with black arms and grey hands. Two of them, " +
-      "and the print is the same on both down to the last line. The only other " +
-      "villain card here that holds two figures is the Chitauri, and those two " +
-      "have different faces.",
+      "and the print is the same on all three of them down to the last line - " +
+      "the head, the chest plating, the blue lights, the banding at the hips, " +
+      "the silver feet. Nothing distinguishes one from another.",
     tags: ["villain", "marvel", "branded", "robot", "machine", "android", "silver", "two-figures"],
     images: [
       { src: "images/ultron-01.jpg", caption: "One" },
-      { src: "images/ultron-02.jpg", caption: "The other" }
+      { src: "images/ultron-02.jpg", caption: "The second" },
+      { src: "images/ultron-03.jpg", caption: "The third" }
     ],
     acquired: "",
-    notes: "Thirty-sixth branded villain and the fourth out of Marvel. He joins a villain side that has been filling with machines for a long time - the Missile, the White and Armoured Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Robot Builder - and he is the first of them that was bought rather than built here. The card that matters is The Maker. That figure was catalogued as a cross between Tony Stark and Ultron, the man who builds the machines and the machine that came out of it, at a point when neither half of that sentence existed in this collection as a person. Both halves are now here, on opposite decks: Tony Stark filed good, Ultron filed bad, and The Maker in between with nothing written to either of them. Two figures on one card because there are two of him and they are identical, which is the one villain here where duplication is the character rather than an accident of the shelf."
+    notes: "Thirty-sixth branded villain and the fourth out of Marvel. He joins a villain side that has been filling with machines for a long time - the Missile, the White and Armoured Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Robot Builder - and he is the first of them that was bought rather than built here. The card that matters is The Maker. That figure was catalogued as a cross between Tony Stark and Ultron, the man who builds the machines and the machine that came out of it, at a point when neither half of that sentence existed in this collection as a person. Both halves are now here, on opposite decks: Tony Stark filed good, Ultron filed bad, and The Maker in between with nothing written to either of them. Three figures on one card now, and they are identical to each other, which is the one villain here where duplication is the character rather than an accident of the shelf. A fourth figure has since arrived wearing the same body from the neck down with a different head on it, catalogued as the Cyborg - so either somebody borrowed the torso off a shelf, or the thing Ultron is made of is a chassis that gets used more than once."
   },
 
   {
@@ -19651,7 +19652,7 @@ window.COLLECTION = [
   {
     id: "the-escapees",
     name: "The Escapees",
-    variant: "Two of them",
+    variant: "Three of them",
     faction: "bad",
     origin: "custom",
     theme: "Creation Mythos",
@@ -19662,22 +19663,26 @@ window.COLLECTION = [
     relations: [],
     rating: 0,
     background:
-      "Two men who got out of prison the hard way.",
+      "Men out of the same prison, in the same shirt, wearing the same number.",
     provenance:
-      "Two of them, in the same clothes and wearing the same number. Black " +
+      "Three of them, in the same clothes and wearing the same number. Black " +
       "knitted beanies pulled to the brow, and yellow faces under them - one " +
       "with heavy stubble across the jaw, a raised brow and a broad gap-toothed " +
       "grin, the other with a pointed black goatee and moustache and the same " +
       "one-sided grin. Grey and white horizontally striped shirts printed with " +
       "a buttoned placket, an open collar with chest hair showing, and 50380 " +
-      "stamped across the ribs. White arms, yellow hands, plain grey legs.",
-    tags: ["villain", "convict", "escapee", "prison", "beanie", "stripes", "custom", "two-figures"],
+      "stamped across the ribs. White arms, yellow hands, plain grey legs.\n\n" +
+      "The third has a clean face under the same black beanie - no stubble and " +
+      "no beard, brows driven down, a flat unimpressed mouth - and the same " +
+      "shirt with the same number on it.",
+    tags: ["villain", "convict", "escapee", "prison", "beanie", "stripes", "custom", "three-figures"],
     images: [
       { src: "images/the-escapees-01.jpg", caption: "The stubbled one" },
-      { src: "images/the-escapees-02.jpg", caption: "The one with the goatee" }
+      { src: "images/the-escapees-02.jpg", caption: "The one with the goatee" },
+      { src: "images/the-escapees-03.jpg", caption: "The clean-shaven one" }
     ],
     acquired: "",
-    notes: "One card for the pair because they escaped together and the plastic agrees: identical shirt, identical trousers, and the same number printed on both - 50380. That is either a prison's stamp rather than a man's, or a thing this world has not explained.\n\nWhat they land on is the police. Lego City Law is the largest institution in this collection with eleven people in it - a Commissioner who was a sniper before he was a chief, a Watch Commander, a Nightwatch Captain who owns everything after dark, a sheriff, a sergeant, a highway patrolman, an animal control officer - and in all that time not one person has ever been catalogued for them to arrest. The Martian Leader attacked Lego City itself and has no line to any of them. These two are the first people here who are plainly the police's problem.\n\nNo line drawn, because nothing says which of the eleven lost them. Somebody had these two in a cell."
+    notes: "One card because the plastic says so: identical shirt, identical trousers, and 50380 printed on all three of them. Three men cannot share a prisoner number, so that is the prison's stamp rather than any one man's - and it settles a question the first two raised on their own.\n\nThe third came in described as another generic criminal rather than as an escapee, so the name on this card may be doing more work than it should. If he never got out, he splits off onto his own.\n\nWhat they land on is the police. Lego City Law is the largest institution in this collection with eleven people in it - a Commissioner who was a sniper before he was a chief, a Watch Commander, a Nightwatch Captain who owns everything after dark, a sheriff, a sergeant, a highway patrolman, an animal control officer - and in all that time not one person has ever been catalogued for them to arrest. The Martian Leader attacked Lego City itself and has no line to any of them. These two are the first people here who are plainly the police's problem.\n\nNo line drawn, because nothing says which of the eleven lost them. Somebody had these two in a cell."
   },
 
   {
@@ -19878,6 +19883,96 @@ window.COLLECTION = [
     images: ["images/the-thug-01.jpg"],
     acquired: "",
     notes: "The first thug on the villain side. There is one other in the collection and he is a Blue Pirate Thug on the good deck, which is one of the odder job placements in here.\n\nHe is also the third figure in two batches in a knitted beanie and a striped shirt, after the two Escapees - and the difference is the jacket and the trousers. Theirs are prison issue with a number stamped on the ribs; his are a leather jacket and blue jeans over the same stripes. Either he got out earlier and dressed himself, or the stripes are just what this world thinks a criminal wears. Nothing is written between him and them.\n\nGeneric is the word you used and the card keeps it. Five figures on that deck are now filed as goons or thugs, and only one of the five has anything else written about him - the Wolfman, who tracks by smell. The rest are muscle and the catalogue says so."
+  },
+
+  {
+    id: "the-second-boxer",
+    name: "The Second Boxer",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Athlete",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A boxer, and this one is not a sportsman.",
+    provenance:
+      "Red padded headgear closed round the skull with the ears covered and a " +
+      "band across the brow, and under it a yellow face: black brows driven " +
+      "down to a point, a thin black moustache, creases at both temples, and a " +
+      "wide open grin with the teeth showing. A bare yellow torso printed with " +
+      "muscle - pectorals, ribs and a line down the stomach - over a black " +
+      "championship belt with a gold buckle at the waist. Bare yellow arms " +
+      "into enormous red gloves. Red shorts with gold trim and yellow bands " +
+      "above red boots.",
+    tags: ["villain", "boxer", "athlete", "gloves", "champion", "bare-chested", "custom"],
+    images: ["images/the-second-boxer-01.jpg"],
+    acquired: "",
+    notes: "Called the Second Boxer because the name was taken. There is already a Boxer here, filed good. Eleven athletes are catalogued in this world - two runners, a marathon runner, a soccer player and a lost one, a basketball player, a karate kid, a bodybuilder, a wrestler, a sumo wrestler, a space boarder and that first Boxer - and every one of the eleven is on the good deck. Sport was the last ordinary job in this world with a clean record, and he is the twelfth.\n\nThe belt is the detail. He is wearing a championship title round his waist, which means he did not just fight, he won, and somebody handed it to him. That is a career and an institution behind him, and neither has been written down. Nothing says whether he took the title honestly and turned afterwards, or whether the belt is the reason he is on this side.\n\nThe gloves make him one of very few figures here who cannot hold anything. His hands are the weapon and nothing else fits in them."
+  },
+
+  {
+    id: "the-cyborg",
+    name: "The Cyborg",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A cyborg.",
+    provenance:
+      "A black head with the face half stripped to machine: a red targeting " +
+      "lens over one eye with a fin standing off it, a purple ring round the " +
+      "socket beside it holding a small red optic, and a silver grille bared " +
+      "across the mouth where a jaw should be. Black arms and silver hands.\n\n" +
+      "From the neck down he is Ultron. The torso is the same print exactly - " +
+      "silver plating over black with blue lights set into the chest - and so " +
+      "are the legs, down to the banding at the hips and the silver feet. " +
+      "Only the head is different.",
+    tags: ["villain", "cyborg", "machine", "red-eye", "silver", "custom"],
+    images: ["images/the-cyborg-01.jpg"],
+    acquired: "",
+    notes: "This is the second figure in the collection built out of another card's body. The first was the Orc-Alien Hybrid, who is the Alien Medic's head on the Short Orc's torso; this one is a different head on Ultron's, and the match runs all the way to the feet.\n\nWhat that means is not written anywhere and is not being guessed. It could be a part borrowed off a shelf and nothing more. It could be that the thing Ultron is made of gets used for other machines, which would make the three identical Ultrons less like a character and more like a production line with a spare body. You handed him in as a cyborg rather than as an Ultron, so he is his own card.\n\nHe joins a villain side thick with machines - the Missile, two Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Robot Builder, the Tanker Droid, three Ultrons - and he is the fourth cyborg specifically, after Doc Ock, the Brainwashed Assassin and the Evil Cyborg Soldier. Every one of those traces back to the Discarded's arm, which is the only origin cybernetics have in this world."
+  },
+
+  {
+    id: "the-haunted-miner",
+    name: "The Haunted Miner",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Miner",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A miner, and a skeleton. Haunted.",
+    provenance:
+      "A grey miner's helmet with a broad brim and a lamp housing set at the " +
+      "front, worn over a white skull - black sockets with small red points " +
+      "burning in them, a drawn nose hole, and a mouth stitched shut in a line " +
+      "of teeth. A white torso printed with a ribcage in pale green light and a " +
+      "black pick slung across the chest, and below that a black plate with a " +
+      "single orange eye set in the middle of it, open and slitted like a " +
+      "cat's. Black legs worked in pink and green circuitry. One white arm and " +
+      "one black, white hands.",
+    tags: ["villain", "miner", "skeleton", "haunted", "helmet", "glowing", "custom"],
+    images: ["images/the-haunted-miner-01.jpg"],
+    acquired: "",
+    notes: "Mining in this world has been almost entirely a good job. Seven miner cards sit on that deck - six Power Miners and the Lost Miners - and until now the only one over here was the Astronaut Miner. This is the second, and he is a different kind of thing from all of them: the others are men with a job and he is a man the job finished.\n\nThe orange eye on his chest is the part nobody has explained. It is not a lamp and it is not a badge - it is set into a black plate at the sternum, open, with a slit pupil, and it is looking out. Something is wearing him, or something is riding in him. The Devoured had a mouth where his face should be and was named for what took him; this one has an eye where his heart should be and has not been named for anything yet.\n\nHe is also the second skeleton on the villain side after the Hooded Skeleton, and the second dead thing in three batches after the Ghost. Whatever is happening to the dead in this world, it started recently."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
