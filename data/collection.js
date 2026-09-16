@@ -1228,9 +1228,12 @@ window.COLLECTION = [
       "He's always down to mentor a young Padawan.",
     provenance: "",
     tags: ["jedi", "lightsaber-staff", "blue-saber", "unorthodox", "mentor"],
-    images: ["images/the-jedi-01.jpg"],
+    images: [
+      { src: "images/the-jedi-01.jpg", caption: "The figure" },
+      { src: "images/the-jedi-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "Placeholder name. Described by traits rather than the Avatar comparison, same as the Space Marshal - say the word if you'd rather it were named outright."
+    notes: "Placeholder name. Described by traits rather than the Avatar comparison, same as the Space Marshal - say the word if you'd rather it were named outright.\n\nHe has concept art now, and the thing it gets right is the weapon. The staff is planted on the cobbles and taking a little of his weight, bare grey metal below his hand and blue light above it, so the piece reads as a walking stick that happens to be lit - which is the whole point of a saber that doubles in length when you switch it on. The art also settles the hair: enormous, swept back, closer to a crest than a haircut, on a man who is plainly laughing.\n\nFifth card here carrying art as well as a figure, after the Scrap Adventurer, the Ginger Adventurer, the Young Watchman and the Crimson Ninja. The Ninja is the odd one of the five: his art came first and held the card until the figure turned up. Everybody else, this one included, was plastic first and got drawn afterwards."
   },
 
   {
@@ -3308,9 +3311,12 @@ window.COLLECTION = [
       "very funny. He has some small magic. Nothing enormous.",
     provenance: "",
     tags: ["dimensions", "boat", "in-between", "magic", "traveller", "odd-dresser"],
-    images: ["images/the-in-betweener-01.jpg"],
+    images: [
+      { src: "images/the-in-betweener-01.jpg", caption: "The figure" },
+      { src: "images/the-in-betweener-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "Second man in the collection with a dimensional boat, and the link to the Ferryman records that they have never met - which seemed worth keeping rather than leaving blank."
+    notes: "Second man in the collection with a dimensional boat, and the link to the Ferryman records that they have never met - which seemed worth keeping rather than leaving blank.\n\nThe concept art puts him in that boat: a plain wooden rowboat with the oars shipped, standing rather than sitting, somewhere that is neither sky nor water - blue on one side, red on the other, a tesseract corridor folding away behind him. It also does the clothes properly, which matters on this card more than most. The mismatched sleeves, the sackcloth cloak, the scavenged helmet: in the art they read as salvage rather than costume, and the Bin's residents are the reason why. The funny clothes are the address."
   },
 
   {
