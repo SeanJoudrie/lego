@@ -20847,6 +20847,166 @@ window.COLLECTION = [
     notes: "Third snake and a third build. The first has a cobra hood spread back from the skull and spiral eyes. The second has no hood and four orange spines standing out of the crown. This one has neither - a smooth orange skull, black down the spine, and armour bolted over the shoulders. In Ninjago the snakes come in tribes, and three different heads most likely means three different tribes. None of the three cards has a proper name on it yet.\n\nHe is the first of them wearing anything. The other two are printed plastic and nothing more; this one has a piece clipped on over the figure.\n\nStill no group. Three snakes is not a tribe until somebody says which tribes they are - and if it turns out they are all one tribe, that is one word and the group gets made.\n\nThat is four Ninjago villains against seven good: an impostor and three serpents, against six ninja and a ninja who goes to sea. Outside Star Wars no branded theme here has produced more enemies than Ninjago, Marvel and the Agents, and all three are level at four."
   },
 
+  {
+    id: "the-airborne-raider",
+    name: "The Airborne Raider",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Raider",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A villain. An airborne raider - he comes down out of the air onto whatever he is taking.",
+    provenance:
+      "A dark grey knit beanie, ribbed around the brim, with a small red mark " +
+      "at the front of it. Under that a white head printed as a sealed mask: a " +
+      "yellow band across the eyes with hard black brows drawn down over them, " +
+      "a grid of small dots across the mouth for a filter, grey seams around " +
+      "the jaw and a round port at each temple. A dark navy torso printed with " +
+      "a full harness - grey webbing over both shoulders, a buckle at the " +
+      "sternum, four pouches across the chest, a black and silver belt below " +
+      "them. Black arms, yellow hands. Olive legs printed with brown straps and " +
+      "silver buckles at both thighs, a silver chain down one of them and a " +
+      "panel of teal diamonds at the hip. A brown pack sits behind his " +
+      "shoulders.",
+    tags: ["villain", "raider", "airborne", "harness", "beanie", "masked", "olive", "unidentified"],
+    images: [
+      "images/the-airborne-raider-01.jpg",
+    ],
+    acquired: "",
+    notes: "Second raider in the collection, after the Tusken Raider, and the two have nothing in common but the word - one comes out of a desert on foot and this one comes down from above.\n\nThe kit is the card. Everything on him is rigging: a harness across the chest with the buckle at the sternum, straps and buckles down both thighs, a chain on one leg, a pack on his back. Nobody else on either deck is dressed to descend. There are two jetpacks over there - the Jetpack Sniper and the Jetpack Assassin - but a jetpack is an engine and this is rope. He is the first figure here kitted to come down rather than to fly.\n\nEighth beanie in the collection and the seventh of those on the villain side, alongside the Infamous Space Pirate, the Alien Militia Commander, the Goon in the Beanie, the Escapees, the Henchman with the Diamond Eye and the Thug. The one good man in a beanie likes cats. It is quietly the most reliable piece of headgear the enemy owns.\n\nI could not place him. The printing is sharp enough to have come out of a box and the mask, the harness and the diamond panel read as one figure rather than a mixture, but I do not know which one, so he is filed custom and described from the plastic the way the Hooded Skeleton was. Tell me who he is and the card takes the name, the theme and the branded tag."
+  },
+
+  {
+    id: "the-enemy-scout-trooper",
+    name: "The Enemy Scout Trooper",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Scout",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A scout trooper, and this one is on the other side.",
+    provenance:
+      "A white scout helmet - rounded crown, a heavy brow ridge, a wide black " +
+      "visor across the eyes and a snub filter below it, small ear cups at both " +
+      "sides. A black pauldron over one shoulder with a tan edge along the top " +
+      "of it. The torso is printed dense in black, white and grey: a comms box " +
+      "high on one side of the chest, straps crossed over the middle, a belt of " +
+      "pouches and pale buckles at the waist. Black arms, black hands. Black " +
+      "hips with a tan strap, black thighs printed with white knee plates, and " +
+      "white below the knee with a tan line running across.",
+    tags: ["villain", "star-wars", "branded", "scout", "trooper", "pauldron", "helmet", "visor"],
+    images: [
+      "images/the-enemy-scout-trooper-01.jpg",
+    ],
+    acquired: "",
+    notes: "The first scout on the bad side. Six were catalogued before him - the Camo Scouts, the Golden Company Scout, the Wolfpack Scout, the Scout Trooper, the 187th Scout and the 501st Scout - and every single one is good. For the whole life of this collection, scouting has been a thing the heroes do and nobody else.\n\nHe is also the second scout trooper here and the first filed against this world. The other one is plain: white helmet, a printed chest, the white gone cream with age and scuffing across it. This one is kitted - pauldron, comms box, plates down the legs - which normally reads as rank, and nobody has said whether he outranks the other man or simply belongs to a different army.\n\nThat sharpens a question rather than answering it. The Scout Trooper's card has asked since it was written whether the Empire exists in this world, and he sits ungrouped alongside the Snowtroopers until somebody says. If the two of them are the same army, one of these cards is on the wrong deck. If they are not, then there are two armies here that scout the same way and wear nearly the same helmet."
+  },
+
+  {
+    id: "the-grey-longshot",
+    name: "The Grey Longshot",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Bounty Hunter",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A villain, a bounty hunter, and a long shot - he takes his work from a distance.",
+    provenance:
+      "A black bob hair piece cut level at the jaw. A pale grey head printed as " +
+      "something close to a skull: two huge black-ringed eyes with small white " +
+      "pupils, a shallow nose, and a mouth drawn as a row of stitches with a " +
+      "curl at either corner. A silver collar at the neck. A pale grey torso " +
+      "with fine grey linework printed over it - a V at the collar and lean " +
+      "muscle or bone running down the chest - pale grey arms, dark " +
+      "reddish-brown hands. Dark reddish-brown legs with a silver belt and grey " +
+      "plating printed across the hips. A black cloth cape hangs from the " +
+      "shoulders.",
+    tags: ["villain", "bounty-hunter", "sniper", "long-range", "grey", "cape", "skull-face", "unidentified"],
+    images: [
+      "images/the-grey-longshot-01.jpg",
+    ],
+    acquired: "",
+    notes: "Two jobs on one card. Thirteen bounty hunters were catalogued before him and three snipers, and nobody until now has been written as both. He is filed under Bounty Hunter because that is the word you used, with the shooting carried in the tags - the role field only takes one, the same problem the Ninja Assassin Pirate ran into with three.\n\nFourteenth bounty hunter in the collection and the tenth on the bad side. Sniper is written as the job on three cards - the Sniper and the Delta Sniper good, the Jetpack Sniper bad - and he would be the fourth.\n\nThe face is what makes him. Huge black-ringed eyes over a mouth stitched shut, on a grey head - that is the Haunted Miner's idea exactly, a mouth sewn closed, and it is the same idea as the four cards here with a ribcage printed on them: a person drawn as a skull without being one. This one wears a cape over it, which none of the others do.\n\nPlaceholder name, taken from what you called him. I could not place the figure, so he is filed custom and described from the plastic; tell me who he is and the card takes the name, the theme and the branded tag."
+  },
+
+  {
+    id: "the-skeleton-robot",
+    name: "The Skeleton Robot",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A skeletonized steel robot. A machine built in the shape of a set of bones.",
+    provenance:
+      "The whole build is the skeleton mould - a ribcage for a torso with the " +
+      "spine showing through the middle of it, thin jointed arms ending in hook " +
+      "hands, a skeletal pelvis, and splayed claw feet. All of it light grey. " +
+      "The head is the difference: a grey skull printed as machinery rather " +
+      "than bone, a silver brow plate riveted over the sockets, two round " +
+      "orange-red eyes lit inside them, dark metal shading across the cheeks " +
+      "and jaw, and a row of teeth clamped shut below.",
+    tags: ["villain", "robot", "skeleton", "steel", "machine", "red-eyes", "skull"],
+    images: [
+      "images/the-skeleton-robot-01.jpg",
+    ],
+    acquired: "",
+    notes: "The first figure in this collection actually built on the skeleton mould. Four cards here already have a ribcage on them and every one of them is a picture: the Black Knight with a silver one printed on a black torso, the Hooded Skeleton with a white one, the Blue-Eyed Alien with bones drawn faintly in darker green, the Haunted Miner lit up in pale green. All of those are minifigures wearing their bones on the outside. This one has no torso at all - ribs with daylight through them and a spine you can see between them.\n\nAnd it is not a skeleton. It is a machine shaped like one: rivets across the brow, metal shading at the jaw, two lit eyes in the sockets. That is new here. Every machine on the villain side looks like a machine - the Missile has no face, the Killer Bots have visors, Ultron has a lit grille, the Tanker Droid has one red slit, the Tanker Robot is smiling. This one is wearing a body, and the body it picked is a dead one.\n\nNamed descriptively, and deliberately not called Steel, because Steel is the name of the figure that arrived with him in the same batch and the two would tangle. You called this one a steel robot and that one Steel. If the skeleton is one of his, say so and the line goes in."
+  },
+
+  {
+    id: "steel",
+    name: "Steel",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "Ultimate Leader of the Droid Armies",
+    role: "Commander",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Steel. The ultimate leader of the droid armies, and the one in charge of " +
+      "all robots - the droids above all.\n\n" +
+      "Everything mechanical answers to him.",
+    provenance:
+      "Not a minifigure. A built machine standing about half again a " +
+      "minifigure's height, hung off a spine of beams. A black domed helmet " +
+      "with a dark visor across the front and a grey neck assembly under it. A " +
+      "blue beam for a chest and a second for the pelvis, with tan and white " +
+      "panels clipped either side of both. The arms are assemblies rather than " +
+      "arms - grey and tan connectors out to white shoulder housings, then dark " +
+      "grey forearms ending in open claws. Thin dark grey legs on two flat feet.",
+    tags: ["villain", "robot", "droid", "commander", "machine", "built", "named", "leader"],
+    images: [
+      "images/steel-01.jpg",
+    ],
+    acquired: "",
+    notes: "The top of a chain of command that has never had a top. This collection has been filling with machines on the villain side for its whole life and not one of them answered to anybody: the Missile, the two Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Tanker Droid, the Tanker Robot, Ultron, the Maker who built himself, the Robot Builder who builds more. Every one of them a single object with no superior written anywhere on its card. He is the superior, and he is the first.\n\nThat raises something, and it is not written in. The Droids are a group here - C-3PO, R2-D2 and six astromechs - and all eight are filed good, as are the Defense Bot, the Stunt Robot, the Storage Robot, the Dock Robot and the Tin Robot. If Steel is in charge of all robots then he is in charge of them too, and that is either the best thing on his card or it is not true of everybody. Nothing is drawn until you say which.\n\nTwelfth villain out of the two hundred and seven home-made ones with a name of his own rather than a description, after Quinn, Phalanx, General Shepherd, Quinn's Second-in-Command, Johnny Plasma, Wen, Long Arm Johnson, Deus Pater, Doc Ock, Matthew and Thresher. The enemy here is overwhelmingly a set of descriptions; a name is the rare thing.\n\nEleventh thing in this collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Wampa, Lotso, Gollum, the Giant Orc, Matthew, the Tanker Droid and the Yeti - and the second of those that is a built machine rather than a moulded body. The Kartians probably belong on that list as well; their card says they are not minifigure-shaped at all and never took a number.\n\nNo group made. He leads droid armies and none of them have been photographed as his, so the force is real and empty - the same shape of problem the Insect Captain had before the Evil Bug turned up, except that this time the machines are already on the shelf and the only question is whose they are."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
