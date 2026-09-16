@@ -5263,6 +5263,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "elsa-schneider", label: "Against her" },
       { to: "indiana-joneses-father", label: "Son of" },
     ],
     rating: 0,
@@ -9781,7 +9782,9 @@ window.COLLECTION = [
     role: "Jedi",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "r4-p17", label: "His astromech" },
+    ],
     rating: 0,
     background: "Obi-Wan Kenobi.",
     provenance:
@@ -9825,6 +9828,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "r7-a7", label: "Her astromech" },
       { to: "ahsokas-trooper", label: "Serves under her" },
     ],
     rating: 0,
@@ -20368,6 +20372,151 @@ window.COLLECTION = [
     images: ["images/the-kartians-01.jpg"],
     acquired: "",
     notes: "The name came in as kartians martians and the card keeps the first word, because that is the one that is not already a card here. The Martians are catalogued separately - three of them, green heads with fangs and magenta arms, in a group with the Martian Leader who took an army into Lego City. These four are not those. They are clear green and they are not minifigure-shaped at all.\\n\\nSo either Kartian is what that species is called and the Martians are something else, or these are the same people seen another way. Nothing has been said and the two cards are kept apart, which is the eighth alien body on that deck with nothing written between it and the others.\\n\\nThey also make the transparent figures a pattern rather than an oddity. Darth Vader's card once claimed he was the only figure here you could see the shelf through; a hologram of Darth Revan corrected that, and these four correct it again. Four at once is more than the rest of the collection has managed in total."
+  },
+
+  {
+    id: "r4-p17",
+    name: "R4-P17",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "",
+    location: "",
+    relations: [
+      { to: "obi-wan-kenobi", label: "His astromech" }
+    ],
+    rating: 0,
+    background:
+      "Obi-Wan Kenobi's astromech.",
+    provenance:
+      "A dark red dome over a white body. The dome is banded and panelled in " +
+      "dark red with a grey main eye, a second smaller lens and a silver port, " +
+      "and the white body below is printed in dark red and silver - two long " +
+      "arrow shapes down the middle, vent bars, readouts and a round socket at " +
+      "the hip. Two white legs and no arms.",
+    tags: ["star-wars", "branded", "droid", "astromech", "dark-red", "armless", "jedi"],
+    images: ["images/r4-p17-01.jpg"],
+    acquired: "",
+    notes: "Eight astromechs were catalogued here before this batch and every single one of them had an empty relations list. Nobody owned any of them. They were a shelf of droids with no people attached - R2-D2, the Blue, the Cone-Headed, the Brown, the Red-Domed, the Horned, the Junk and the Teal.\\n\\nThis is the first astromech in the collection with an owner, and the owner is already here: Obi-Wan Kenobi, who stands at six figures on one card and until now had no relation written to anybody at all. His card had been empty since it was made. A droid closed it.\\n\\nNamed R4-P17 on the strength of the colours - dark red over white is Obi-Wan's unit - and you said you thought the first one was his, which agrees. If the designation is wrong the card takes a descriptive name instead, the way the Teal Astromech has one."
+  },
+
+  {
+    id: "r7-a7",
+    name: "R7-A7",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "",
+    location: "",
+    relations: [
+      { to: "ahsoka-tano", label: "Her astromech" }
+    ],
+    rating: 0,
+    background:
+      "Ahsoka Tano's astromech.",
+    provenance:
+      "A white dome banded in lime green, with a black main eye, a second " +
+      "black lens, a red panel and a small blue light set round it. The body " +
+      "beneath is reddish brown, printed with silver panelling and two lime " +
+      "arrow shapes down the centre, vent bars and a round socket at the hip. " +
+      "Two reddish brown legs, no arms.",
+    tags: ["star-wars", "branded", "droid", "astromech", "lime", "armless", "jedi"],
+    images: ["images/r7-a7-01.jpg"],
+    acquired: "",
+    notes: "The second astromech ever to have somebody, and it arrived in the same batch as the first. Reddish brown and lime is Ahsoka Tano's unit, which makes this R7-A7.\\n\\nHer card is the better fit of the two. Ahsoka already had one relation - Ahsoka's Trooper, who serves under her - so she is one of the few figures here with people written around her rather than beside her. She now has a soldier and a droid.\\n\\nTen astromechs are catalogued now, nine of them good. Two have owners and eight do not, and those eight are still standing on the shelf belonging to nobody."
+  },
+
+  {
+    id: "the-knock-off-adventurer",
+    name: "The Knock-off Adventurer",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Indiana Jones",
+    rank: "",
+    role: "Adventurer",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A rip-off of Indiana Jones. Not him.",
+    provenance:
+      "A brown fedora with the brim turned down, and under it a pale face with " +
+      "heavy brows, a shadow of stubble across the jaw and a one-sided smirk. " +
+      "A brown leather jacket printed open over a pale shirt, with a satchel " +
+      "strap running corner to corner across the chest and a second strap over " +
+      "the shoulder. Brown arms, pale hands. Tan legs printed with a belt, a " +
+      "buckle and a holstered pistol at one thigh, and a second pistol on the " +
+      "hip in a moulded holster.",
+    tags: ["adventurer", "knock-off", "third-party", "fedora", "holster", "indiana-jones"],
+    images: ["images/the-knock-off-adventurer-01.jpg"],
+    acquired: "",
+    notes: "This world already has a word for him. The Knock-offs are figures that came out of other makers rather than out of Lego, and the lore says they went to war - and there are seven here already, five on the good side and two on the other: the Replica, the Defector, the Car Repairman, the Brute Prince, the Prince's Impersonator, the Knock-off Captain and the Successful Replica.\\n\\nWhat makes him different from all seven is who he is a copy of. Indiana Jones is catalogued here, with his father beside him, and this is a copy of a man who is on the shelf. That has only happened twice before: the Prince's Impersonator, who is a stunt double and filed good, and the False Kai, who went undercover as a ninja and is filed bad. No line is drawn to Indiana Jones, because nothing says the two have ever been in the same room.\\n\\nHe is filed good because nothing said otherwise and the last run of villains has ended. One word moves him."
+  },
+
+  {
+    id: "elsa-schneider",
+    name: "Elsa Schneider",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Indiana Jones",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [
+      { to: "indiana-jones", label: "Against him" }
+    ],
+    rating: 0,
+    background:
+      "The blonde woman from the Indiana Jones film. She is the villain of it.",
+    provenance:
+      "Swept pale blonde hair over a fair face - black lashed eyes with heavy " +
+      "shadow, one brow raised, and a small red mouth turned up at one corner. " +
+      "A white jacket printed open over a dark waistcoat and a high collar, " +
+      "with two buttons and a brown belt at the waist. White arms, flesh " +
+      "hands, black legs printed with white creases and pale boot caps.",
+    tags: ["villain", "indiana-jones", "branded", "woman", "blonde", "jacket"],
+    images: ["images/elsa-schneider-01.jpg"],
+    acquired: "",
+    notes: "First villain out of Indiana Jones, and the theme goes from two figures to four in one batch. Before this it held Indiana Jones and his father and nothing else - one of the smallest and most one-sided corners of the collection.\\n\\nThe thrift-shop set is the part worth writing down. You found this one secondhand, and the film she is the villain of is the one with the father in it - and the father has been catalogued here for a long time. So the set you picked up is the same story as two cards that were already on the shelf, bought separately and years apart.\\n\\nNamed Elsa Schneider on the strength of the film and the figure; you were not sure of the name either, so if it is wrong the card takes a descriptive one. She is the eleventh woman on the villain side."
+  },
+
+  {
+    id: "the-ninja-seaman",
+    name: "The Ninja Seaman",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "Ninja",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A ninja who goes to sea. He likes to go places, and he does it on a " +
+      "funky boat.",
+    provenance:
+      "A red wrap hood closed over everything but a yellow band across the " +
+      "eyes, the brows drawn down. A red gi printed with two black and gold " +
+      "sashes running diagonally across the chest, a small ring emblem at one " +
+      "shoulder and a silver crest at the waist over a black belt. Red arms, " +
+      "black hands, red legs patterned in fine diamonds with dark bands at the " +
+      "knees. He is standing with a brown telescope on a clear stand.",
+    tags: ["ninja", "ninjago", "branded", "sailor", "telescope", "red", "traveller"],
+    images: ["images/the-ninja-seaman-01.jpg"],
+    acquired: "",
+    notes: "He is a red ninja, and this collection already has two of those plus a man who pretended to be one. Kai is catalogued, in the older gi with the rope crossing and the gold flame crest; the Red Ninja is home-made; the False Kai went undercover as Kai and is filed bad. This figure is a different Kai print from the one on Kai's card - diagonal sashes instead of rope, patterned legs instead of plain.\\n\\nSo he is on his own card rather than merged, because you introduced him as the ninja seaman rather than as Kai, and the one-entry rule cuts both ways: putting him on Kai's card would claim he is Kai, and a world that already contains a False Kai is a world where a red ninja is not automatically that man. Say he is Kai and the two cards become one, with the boat as new lore about him.\\n\\nWhat he is doing is unusual on its own terms. Two figures here have Traveller written as their job - one who walks around the city and one who lives in the space between dimensions - and he is not filed as one, but he belongs with them. He is the only person in this collection who travels by sea, and the only ninja whose stated interest is going somewhere rather than fighting."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
