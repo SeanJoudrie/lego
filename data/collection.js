@@ -19618,6 +19618,126 @@ window.COLLECTION = [
     notes: "Ninth thing in this collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Wampa, Lotso, Gollum, the Giant Orc and Matthew - and the first of the nine that is a machine rather than a body.\n\nHe joins a villain side that has been filling with machines for a long time: the Missile, the two Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Robot Builder, Ultron. What none of those is, is armour. This one is built like a thing meant to be shot at, which is the first time that shape has turned up on either deck.\n\nOne red slit and no face. The Devoured has a mouth where a face should be and the Shadow Soldiers have nothing at all; this one has an aperture."
   },
 
+  {
+    id: "the-trooper-in-olive-and-white",
+    name: "The Trooper in Olive and White",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A soldier in jungle kit. Who he is has not been established.",
+    provenance:
+      "A white helmet with wide flared cheek plates, painted with an olive " +
+      "chevron over the crown and a broad dark green visor band across the " +
+      "front with two pale slits in it. Below that a vent drawn at the mouth " +
+      "with a small round intake either side of it. An olive green chest plate " +
+      "printed over a brown undersuit, with four brown belt pouches strapped " +
+      "round the waist and a bandolier strip above them. Dark brown arms, grey " +
+      "hands. Brown legs with a printed pouch at one thigh and an olive knee " +
+      "guard on each.",
+    tags: ["villain", "star-wars", "branded", "soldier", "jungle", "camouflage", "helmet", "unidentified"],
+    images: ["images/the-trooper-in-olive-and-white-01.jpg"],
+    acquired: "",
+    notes: "You said find out, so here is exactly how far I got and no further.\n\nThe kit is jungle field gear rather than parade armour: plate over an undersuit, a heavy belt rig with four pouches, knee guards. The mould and the printing read Star Wars to me, most likely a Clone Wars-era trooper in jungle camouflage - the 41st Elite Corps and Commander Gree wear olive and white like this. But the helmet is not the Phase 1 or Phase 2 clone shape, not a stormtrooper and not a Mandalorian T-visor: it is a wide band visor with flared cheeks and a vented mouth, and I cannot match it with enough confidence to put a name on the card.\n\nSo he is named for what is on him, the way the Teal Astromech and the Blue Imperial Trooper are. If you know the figure, the card takes the real name. If the theme is wrong too, that is a one-word fix.\n\nHe is also on the villain side only because that is the standing rule for this run. If he is a clone he would be the fourth on that deck, against eighteen good ones, and the other three all have a reason written down - the Clone Traitor turned, Jek-14 was built by the other side, the Shadow ARF Trooper is a unit. This one would have nothing."
+  },
+
+  {
+    id: "the-escapees",
+    name: "The Escapees",
+    variant: "Two of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Convict",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Two men who got out of prison the hard way.",
+    provenance:
+      "Two of them, in the same clothes and wearing the same number. Black " +
+      "knitted beanies pulled to the brow, and yellow faces under them - one " +
+      "with heavy stubble across the jaw, a raised brow and a broad gap-toothed " +
+      "grin, the other with a pointed black goatee and moustache and the same " +
+      "one-sided grin. Grey and white horizontally striped shirts printed with " +
+      "a buttoned placket, an open collar with chest hair showing, and 50380 " +
+      "stamped across the ribs. White arms, yellow hands, plain grey legs.",
+    tags: ["villain", "convict", "escapee", "prison", "beanie", "stripes", "custom", "two-figures"],
+    images: [
+      { src: "images/the-escapees-01.jpg", caption: "The stubbled one" },
+      { src: "images/the-escapees-02.jpg", caption: "The one with the goatee" }
+    ],
+    acquired: "",
+    notes: "One card for the pair because they escaped together and the plastic agrees: identical shirt, identical trousers, and the same number printed on both - 50380. That is either a prison's stamp rather than a man's, or a thing this world has not explained.\n\nWhat they land on is the police. Lego City Law is the largest institution in this collection with eleven people in it - a Commissioner who was a sniper before he was a chief, a Watch Commander, a Nightwatch Captain who owns everything after dark, a sheriff, a sergeant, a highway patrolman, an animal control officer - and in all that time not one person has ever been catalogued for them to arrest. The Martian Leader attacked Lego City itself and has no line to any of them. These two are the first people here who are plainly the police's problem.\n\nNo line drawn, because nothing says which of the eleven lost them. Somebody had these two in a cell."
+  },
+
+  {
+    id: "gold-tooth",
+    name: "Gold Tooth",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Agents",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "One of the Agents' supervillains.",
+    provenance:
+      "A black baseball cap with a small stud printed on the front, worn over " +
+      "a yellow face with a black eyepatch across one eye, a scarred brow above " +
+      "it, and a wide open grin showing a full set of teeth with one of them " +
+      "gold. An orange boiler suit printed to the ankle - a black zipped panel " +
+      "running diagonally across the chest, a grey utility belt with a silver " +
+      "buckle, and a round badge at the shoulder: a black flame with a face in " +
+      "it, ringed in gold. Orange arms, black hands, orange legs.",
+    tags: ["villain", "agents", "branded", "eyepatch", "gold-tooth", "orange", "flame-badge"],
+    images: ["images/gold-tooth-01.jpg"],
+    acquired: "",
+    notes: "Opens a twentieth theme. Lego's Agents is an in-house line rather than a licence, filed branded here the same way Ninjago and Chima are - and unlike every other theme in this collection, it arrives with no good side at all. Eighteen themes here came out of a box and sixteen of them opened with somebody good. Lord of the Rings opened with Gollum and still has nobody else in it. This one opens with two villains and no agents at all.\n\nThe name is taken straight off his face because the face is the name: an eyepatch, a scar, and one gold tooth in a grin. If the figure has a different proper name, the card takes it.\n\nThe badge on his shoulder is the thing to look at. The henchman catalogued beside him is wearing the identical one - a black flame with a face inside it - which is the clearest statement of affiliation anything on this deck has ever worn. No group made, because nobody has said what the outfit is called. Name it and there is a group."
+  },
+
+  {
+    id: "the-helmeted-henchman",
+    name: "The Helmeted Henchman",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Agents",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Another of the Agents' supervillains, in breathing gear.",
+    provenance:
+      "A transparent yellow dome clipped over the whole head on a grey ribbed " +
+      "collar, with a round intake standing out from the throat and two dark " +
+      "packs at the shoulders. Through the dome: a yellow face, black brows " +
+      "drawn hard down, a flat mouth and red scoring along one cheek. An orange " +
+      "boiler suit with a black zipped panel across the chest, a grey and gold " +
+      "belt, and the same round badge at the shoulder as Gold Tooth - a black " +
+      "flame with a face in it. Orange arms, black hands, orange legs.",
+    tags: ["villain", "agents", "branded", "helmet", "breathing-gear", "orange", "flame-badge", "scarred"],
+    images: ["images/the-helmeted-henchman-01.jpg"],
+    acquired: "",
+    notes: "Second of the two, and named descriptively because his face is behind a dome and nothing else identifies him. Gold Tooth has a name written on his; this one does not, so the helmet does the work until you supply one.\n\nThe suit is identical from the neck down - same orange, same black zip panel, same belt, same badge - which makes these two the first pair of figures on that deck wearing an actual uniform with an actual insignia on it. The Iron League have four matched chest plates and the League of Shadows all dress in black and gold, but neither of them wears a badge. This outfit does.\n\nHe is also in breathing gear and nothing says what for. The trans-yellow dome and the throat intake are diving or flight kit, which on this deck puts him near the sea creatures and the pilots without being either."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
