@@ -20079,7 +20079,9 @@ window.COLLECTION = [
     role: "King",
     group: "",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-underwater-commander", label: "Commands his military force for him" },
+    ],
     rating: 0,
     background:
       "A king, underwater.",
@@ -20097,6 +20099,151 @@ window.COLLECTION = [
     images: ["images/the-underwater-king-01.jpg"],
     acquired: "",
     notes: "This may be the card that closes the sea, and it is being flagged rather than assumed.\\n\\nFive creatures have arrived down there across four batches - a shark, two squids, an anglerfish and a manta - all built the same way, all on this deck, and every single time the catalogue has refused to group them because habitat is not affiliation and nobody had said they answered to anything. The one line that kept being written was that the squid wears the only insignia, so if there is an order down there it starts with him.\\n\\nNow there is a king. If he is their king, the group exists, the Atlantis Dive Team finally has a named enemy after twelve people and a second crew of three have been diving into nothing, and one of the oldest open questions in this catalogue closes on a word.\\n\\nWhat gives pause is that he is not a creature. He is a man in a diving rig - breathing gear, a pressure gauge, a hose - with a skull painted over his face. The five down there are animals with moulded heads. A king who has to bring his own air is not obviously the king of the things that live in the water, and that is exactly why no line has been drawn.\\n\\nHe is the tenth ruler on the villain side, after two kings, two pharaohs, a queen, an emperor, a dictator, a governor and a supreme chancellor - and the Shadow King is the only other one whose kingdom is a place rather than a people."
+  },
+
+  {
+    id: "the-shadow-commando",
+    name: "The Shadow Commando",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Commando",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A commando, in black.",
+    provenance:
+      "The commando helmet - a closed dome with a heavy brow and a wide " +
+      "faceplate - moulded in black, with a broad pale blue T drawn down the " +
+      "centre of the visor and out across the cheeks, thin silver antenna " +
+      "lines scratched over the crown, and three studs set along the jaw. A " +
+      "black torso printed in fine white line work: a ribbed collar, a plated " +
+      "chest rig, a harness across the ribs and four small lights at one " +
+      "shoulder. Black arms and hands, black legs with knee plates and boot " +
+      "caps drawn on in white. He is carrying a long black rifle.",
+    tags: ["villain", "star-wars", "branded", "clone", "commando", "black", "helmet", "shadow"],
+    images: ["images/the-shadow-commando-01.jpg"],
+    acquired: "",
+    notes: "Third black-kit unit in this collection, and the name you gave him is the one the other two already carry. The Shadow Troopers are stormtroopers moulded in black instead of white, catalogued good, with a card saying they are the exact photographic negative of the standard figure. The Shadow ARF Trooper is a recon clone issued the same way, catalogued bad. This is the commando version, and it is bad too.\\n\\nSo the black kit now runs across three different unit types, one good and two on this side, and every time one has arrived the same offer has been made and not taken: if the black means one outfit rather than three coincidences, say so and they go in a group together. It is now the oldest unclaimed group in the catalogue.\\n\\nHe is also the fourth clone on the villain side, after the Clone Traitor who turned, Jek-14 who was built by the other side, and the Shadow ARF Trooper. Four Clone Commandos are catalogued - Sev, Fixer, Scorch and Boss - and every one of them is good. This is the first commando against them."
+  },
+
+  {
+    id: "the-yeti",
+    name: "The Yeti",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A yeti.",
+    provenance:
+      "One moulded piece, off-white and worn yellow at the creases, shaped as " +
+      "a shaggy animal standing upright. The face is a heavy brow over sunk " +
+      "sockets with no eyes printed in them at all, a flat snout, and a jaw " +
+      "hanging open on two square teeth with a gap between them. Fur is cut " +
+      "into the plastic in long wavy lines down the chest and the arms, and " +
+      "the legs end in two blunt flat feet. Nothing on him is painted.",
+    tags: ["villain", "yeti", "creature", "snow", "moulded", "non-minifigure", "white", "custom"],
+    images: ["images/the-yeti-01.jpg"],
+    acquired: "",
+    notes: "There is already a Wampa here - white, shaggy, a predator, and the card that made the point that nobody sent him. A yeti and a wampa are the same idea twice, from two different worlds, and they are both on this deck. Nothing is written between them and nothing should be, but somebody should say whether this world has two of that animal or one animal with two names.\\n\\nAnother of the things on that deck that are simply animals rather than people - the Wampa, the Evil Bug, and the five in the water. And tenth thing in the collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Wampa, Lotso, Gollum, the Giant Orc, Matthew and the Tanker Droid.\\n\\nHis eyes are the detail. The sockets are moulded but nothing is printed in them, so there is nothing looking out - which on a figure this size reads as worse than a painted stare would."
+  },
+
+  {
+    id: "the-evil-kings-son",
+    name: "The Evil King's Son",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Prince",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "The son of an evil king. Which king has not been said.",
+    provenance:
+      "Swept brown hair over a yellow face with two black eyes, a red scar " +
+      "running back from one of them, and a dark strap or a beard drawn round " +
+      "the jaw. A moulded black shoulder piece with spikes standing up at both " +
+      "sides, clipped over a black torso printed with three blue-outlined " +
+      "panels, a wide yellow belt below them and a red mark at the collar. " +
+      "Yellow hands, black arms, black legs.",
+    tags: ["villain", "prince", "heir", "spiked-armour", "scar", "custom"],
+    images: ["images/the-evil-kings-son-01.jpg"],
+    acquired: "",
+    notes: "Three kings sit on the villain side - the Shadow King, the Light King and the Underwater King - and nothing on this card says which of them is his father. The plastic has an opinion though. He is wearing the same black torso print and the same spiked shoulder piece as the Underwater King's military commander, who arrived in this same batch, and a uniform shared with a king's commander is the strongest thing pointing anywhere. It is still not a word from you, so no line is drawn.\\n\\nIf it is the Shadow King, this card is much heavier than it looks. That one already has a son here: the Shadow Prince, who helped negotiate the end of the Great Shadow War, is on the good deck, and his card says you can tell just by looking at him that he is not full shadow. Two sons, one good and one not, would be the first family in this collection split across the two decks by choice rather than by betrayal.\\n\\nSecond figure on this deck whose title is Prince, after Zuko. The Prince Pretender is over here too and is not a prince at all - he claims the throne rather than being born to it - which makes this one the first heir on the villain side who actually is somebody's son."
+  },
+
+  {
+    id: "the-faceless-doctor",
+    name: "The Faceless Doctor",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Doctor",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A doctor with no face.",
+    provenance:
+      "A dark purple fedora with a wide brim, and under it no head at all - a " +
+      "plain blue cylinder standing where a face should be, unmarked on every " +
+      "side. A pale grey lab coat printed open over a dark waistcoat and a " +
+      "belt, with an identification badge clipped at the chest: a small blue " +
+      "card with a figure on it and DR. printed underneath. Grey arms, flesh " +
+      "hands, purple legs. He is carrying a green case.",
+    tags: ["villain", "doctor", "faceless", "fedora", "lab-coat", "briefcase", "custom"],
+    images: ["images/the-faceless-doctor-01.jpg"],
+    acquired: "",
+    notes: "The badge is the joke and the problem. He is wearing photo identification that says DR. and has a photograph on it, and there is no face on him to check it against. Whatever is under the hat is a blank cylinder.\\n\\nSix doctors and medics are catalogued in this world. Three are good - Dr. Oz, the Medic, the Delta Medic - and three are not: the Butcher, who does the cutting, the Evil Doctor, who does the thinking, and the Alien Medic. The two on that side who work together invented mind control between them, and their card says so outright. A seventh has now arrived carrying a case and no identity, and nothing says whether he is theirs.\\n\\nHe is also the second figure here who is dressed like a professional and has nothing behind the clothes, after the Master of Disguise, whose face is the old plain smiley. The difference is that a smiley is still a face."
+  },
+
+  {
+    id: "the-underwater-commander",
+    name: "The Underwater King's Commander",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Commander",
+    group: "",
+    location: "",
+    relations: [
+      { to: "the-underwater-king", label: "Commands his military force" }
+    ],
+    rating: 0,
+    background:
+      "Commander of the Underwater King's military force.",
+    provenance:
+      "A red helmet closed over the whole skull with a rectangular window cut " +
+      "in the front, and behind it a yellow face with black eyes and a silver " +
+      "grille drawn across the mouth. A moulded black shoulder piece with " +
+      "spikes standing at both sides and a ribbed collar beneath it, over a " +
+      "black torso printed with three blue-outlined panels, yellow bands " +
+      "between them and a red mark at the throat. Yellow hands, black arms, " +
+      "black legs.",
+    tags: ["villain", "commander", "sea", "helmet", "spiked-armour", "custom"],
+    images: ["images/the-underwater-commander-01.jpg"],
+    acquired: "",
+    notes: "The first line ever drawn into the water, and you drew it: he commands the Underwater King's military force, said in as many words, so it is on the card as a relation rather than as a guess.\\n\\nThat matters because of what is still not connected. Five creatures are catalogued down there - a shark, two squids, an anglerfish and a manta - and across four batches the catalogue has refused every time to group them, because habitat is not affiliation. There is now a king with a commander and an army, and five animals in the same water, and not one word joining the two halves. If the creatures are his force, the group exists and the Atlantis Dive Team finally has a named enemy.\\n\\nThe other thing on this card is the uniform. The Evil King's Son, in this same batch, is wearing the identical torso print and the identical spiked shoulder piece. A commander and a prince in the same kit is the closest thing to an answer about which king fathered that boy, and it is still not an answer."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
