@@ -3277,6 +3277,8 @@ window.COLLECTION = [
     group: "The Trickster's Boat",
     location: "",
     relations: [
+      { to: "the-bin-elder", label: "Probably met him" },
+      { to: "the-bin-woman", label: "Probably met her" },
       { to: "the-ferryman", label: "Has never met" },
     ],
     rating: 0,
@@ -19461,6 +19463,159 @@ window.COLLECTION = [
     images: ["images/the-creepy-elf-01.jpg"],
     acquired: "",
     notes: "The first elf on the villain side. There are two others here and both are good: the Elf Man, and the Elf Knight, who is one of the Royal Knights. So a people that had been entirely on one side is not any more.\n\nShe is the eighth woman on that deck, and the second in two batches to arrive wearing that particular brown dress - the Viking's Wife has the identical torso print. Two women on the same deck in the same clothes is a parts coincidence rather than a uniform, and it is written down here in case it is not.\n\nCreepy is the word you used and the face earns it: the lines are drawn as age or as strain, and the mouth is doing something that is not a smile. Nothing else has been said about her - no name, no job, no idea what she wants."
+  },
+
+  {
+    id: "the-bin-woman",
+    name: "The Woman Built in the Bin",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "The Bin",
+    relations: [
+      { to: "the-in-betweener", label: "He probably met her" }
+    ],
+    rating: 0,
+    background:
+      "One of the people of the Bin - the place between dimensions where lost " +
+      "pieces end up, and where people get built out of whatever is in there.\n\n" +
+      "That is why she looks the way she does.",
+    provenance:
+      "Nothing on her goes with anything else. A silver horned viking helmet " +
+      "over long pale blonde hair, and a flesh-toned face underneath with blue " +
+      "eyes, a brown scar cut down from the brow past one of them, and a flat " +
+      "closed mouth. A black torso printed as a pale apron with a red bow at " +
+      "the throat and three red crosses stitched across the hem - a servant's " +
+      "or a nurse's front. White arms and white hands from a different figure " +
+      "again. Then a grey skirt piece clipped at the waist, white-spotted, and " +
+      "grey legs underneath it.",
+    tags: ["the-bin", "in-between", "mismatched", "horned-helmet", "scar", "woman", "custom"],
+    images: ["images/the-bin-woman-01.jpg"],
+    acquired: "",
+    notes: "The Bin has had a card since very early on and never a resident. It is a real donation bin at an elementary school and, in the world, the place the non-Lego pieces come from - with its own people and its own beasts. The Salvager was rebuilt out of it after he was destroyed, Lego above the waist and not Lego below, and the people of the Bin gave him his cape for going back in to pull others out. Those people are on this card and the next one. They had never been photographed.\n\nThe mismatch is the whole point and it is not sloppiness. A viking helmet, a nurse's apron, arms from a third figure and a skirt from a fourth is exactly what being assembled out of a lost-and-found looks like.\n\nShe is filed as an enemy because the standing rule for this run is that everything coming in is one, and that is the only reason. It sits awkwardly and the card should say so: the Bin as written is the side that saves people, and its residents are the ones who dressed the Salvager. If these two are those people, they are on the wrong deck and it is a one-word fix."
+  },
+
+  {
+    id: "the-bin-elder",
+    name: "The Old Man Built in the Bin",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "The Bin",
+    relations: [
+      { to: "the-in-betweener", label: "He probably met him" }
+    ],
+    rating: 0,
+    background:
+      "Another of the people of the Bin, put together out of what was lying in " +
+      "it.",
+    provenance:
+      "The same silver horned viking helmet as hers, over the same long pale " +
+      "blonde hair - and under it an old yellow face with a thick white " +
+      "moustache, a small smile, and a black-rimmed eyepiece printed over one " +
+      "eye with a pale lens in it. A sage green torso printed as a draped " +
+      "cloak or a hanging skin, green arms, green hands. Below that, bright " +
+      "pink legs patterned in blue and turquoise with green stitching at the " +
+      "knees. The top half is a hermit and the bottom half is a carnival.",
+    tags: ["the-bin", "in-between", "mismatched", "horned-helmet", "moustache", "eyepiece", "old", "custom"],
+    images: ["images/the-bin-elder-01.jpg"],
+    acquired: "",
+    notes: "The second of the Bin's own people, and the one that explains a card written a long time ago. The In-Betweener travels between dimensions and does not cross them like the Ferryman does - he stays inside the space in between and lives there. His card ends by saying that when he comes to the mainland the way he dresses is very funny, and that has sat there as a joke about one man's taste.\n\nIt is not taste. Look at these two and look at him: a neon helmet, one red arm and one black, a studded blue chest and a brown cape. Everyone who lives in the in-between is dressed out of whatever was to hand, because that is what is there. The funny clothes are the address.\n\nYou said he probably met them, and that word is on both relations exactly as you said it rather than firmed up into something you did not claim.\n\nThe faction question on the card before this one applies here too."
+  },
+
+  {
+    id: "the-caveman",
+    name: "The Caveman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A caveman. A strong one.",
+    provenance:
+      "A single moulded piece of dark orange hair and beard swallowing the " +
+      "entire head - it comes down over the brow, round both cheeks and off " +
+      "the chin in one mass, leaving a small window with two blue eyes, ginger " +
+      "brows drawn hard down, and creases at the corners. No mouth visible at " +
+      "all. Below it a plain yellow torso and bare yellow arms with nothing " +
+      "printed on them anywhere, and plain tan legs. He owns no clothes.",
+    tags: ["villain", "caveman", "beard", "bare", "unprinted", "strong", "custom"],
+    images: ["images/the-caveman-01.jpg"],
+    acquired: "",
+    notes: "The first caveman here, and a bare torso, bare arms and plain legs with not one printed line on any of it. The only thing on him that was designed is the hair.\n\nA fair few figures here are unprinted - the Shadow King, the Light King, the Shadow Sorcerer, the Royal Guard, the Shadow Soldiers - but every one of those is unprinted because a robe or a shell or a solid colour covers them. He is unprinted because he has no clothes. The only other card that draws that distinction is the Nude Aliens, which says of one of them that he is not blank, he is undressed. This is the same thing on the villain side: nothing is missing from him, he simply has nothing.\n\nStrength is the whole description given and there is no shortage of muscle on that deck already - the Brawling Alien, the Rhino Heavy, the Juggernaut, the Giant Orc. What none of them is, is old. A caveman belongs to a time this world has not otherwise mentioned."
+  },
+
+  {
+    id: "the-werewolf",
+    name: "The Werewolf",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A werewolf.",
+    provenance:
+      "A moulded brown wolf's head over the whole skull - pointed ears " +
+      "standing up, a black snout, a heavy brow with two small white eyes " +
+      "under it, and a mouth of white teeth bared in a line. Brown arms and " +
+      "brown hands. A red plaid shirt printed open and torn across the chest " +
+      "with two red braces over the shoulders, and blue jeans printed with " +
+      "long tears down both thighs and the skin showing through.\n\n" +
+      "The clothes are the story: he was a man dressed for an ordinary evening " +
+      "and the shape underneath them changed.",
+    tags: ["villain", "werewolf", "wolf", "moulded", "torn-clothes", "plaid", "custom"],
+    images: ["images/the-werewolf-01.jpg"],
+    acquired: "",
+    notes: "Second wolf on the villain side, and not the same animal at all. The Wolfman is in the Alien Goons, works small arms and tracks by smell, and his card describes a tan wolf face with a red scar under long swept brown hair, a dark red shirt and olive legs. This one is brown, moulded, has no scar, and is wearing a torn plaid shirt and burst jeans.\n\nThe difference between them is what the clothes say. The Wolfman is a wolf who has a job. This one is a man whose clothes did not survive becoming a wolf, which is a different kind of thing entirely and makes him the first figure here where the transformation is the character.\n\nHe also lands on an open question rather than settling it: the Alien Goons hold a wolf who is not an alien and a goon in a baseball cap who is not one either. A second wolf outside the group does not help that name any."
+  },
+
+  {
+    id: "the-tanker-droid",
+    name: "The Tanker Droid",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A tanker droid.",
+    provenance:
+      "Not a minifigure - a built machine, squat and wide, standing about a " +
+      "minifigure's height but three times the bulk. A dark grey head plate " +
+      "with a single red slit for a visor, set back into silver shoulder " +
+      "housings. A silver chest with a round port in the middle of it and two " +
+      "grey vents below. Heavy silver arms hanging to the knees with blocked " +
+      "fists, and two broad gold-brown feet planted flat and forward, each one " +
+      "moulded as a slab.",
+    tags: ["villain", "droid", "robot", "machine", "silver", "non-minifigure", "custom"],
+    images: ["images/the-tanker-droid-01.jpg"],
+    acquired: "",
+    notes: "Ninth thing in this collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Wampa, Lotso, Gollum, the Giant Orc and Matthew - and the first of the nine that is a machine rather than a body.\n\nHe joins a villain side that has been filling with machines for a long time: the Missile, the two Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Robot Builder, Ultron. What none of those is, is armour. This one is built like a thing meant to be shot at, which is the first time that shape has turned up on either deck.\n\nOne red slit and no face. The Devoured has a mouth where a face should be and the Shadow Soldiers have nothing at all; this one has an aperture."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
