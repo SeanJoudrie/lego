@@ -5263,6 +5263,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [
+      { to: "marcus-brody", label: "His friend" },
       { to: "elsa-schneider", label: "Against her" },
       { to: "indiana-joneses-father", label: "Son of" },
     ],
@@ -6547,7 +6548,7 @@ window.COLLECTION = [
   {
     id: "sean",
     name: "Sean",
-    variant: "",
+    variant: "Two figures",
     faction: "good",
     origin: "custom",
     theme: "Creation Mythos",
@@ -6560,11 +6561,21 @@ window.COLLECTION = [
     ],
     rating: 0,
     background: "A civilian named Sean.",
-    provenance: "The Lego version of me, built a few years ago to look like me.",
+    provenance:
+      "The Lego version of me, built a few years ago to look like me. Brown " +
+      "hair swept over a freckled face with a small closed smile, a grey " +
+      "hooded top printed with the zip open over a navy shirt, grey legs.\n\n" +
+      "A second figure is the same man dressed for cold: a pale fur-lined " +
+      "trapper hat with the flaps down, a cream cable-knit sweater printed " +
+      "with cabling and diamonds across the chest, grey legs, and a brown " +
+      "branch held in one hand.",
     tags: ["civilian", "self-portrait", "real-person", "sean"],
-    images: ["images/sean-01.jpg"],
+    images: [
+      { src: "images/sean-01.jpg", caption: "As built, in the grey hoodie" },
+      { src: "images/sean-02.jpg", caption: "In the fur hat and the sweater" }
+    ],
     acquired: "",
-    notes: "The second figure here named after someone real and living, after my dad - and the maker of the whole collection, standing in it as a civilian with no rank, no office, no unit and no powers. Linked to George as father and son; cut it if the Lego versions are not meant to be related in world."
+    notes: "The second figure here named after someone real and living, after my dad - and the maker of the whole collection, standing in it as a civilian with no rank, no office, no unit and no powers. Linked to George as father and son; cut it if the Lego versions are not meant to be related in world.\n\nTwo figures now. The second is him in winter kit, and it arrived beside Sarah, who is wearing the identical fur hat and holding the identical branch. Nothing is written between them because nothing has been said, but the pair were plainly made and photographed together."
   },
 
 
@@ -9819,7 +9830,7 @@ window.COLLECTION = [
   {
     id: "ahsoka-tano",
     name: "Ahsoka Tano",
-    variant: "Three figures",
+    variant: "Four figures",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -9834,18 +9845,23 @@ window.COLLECTION = [
     rating: 0,
     background: "Ahsoka Tano.",
     provenance:
-      "Two figures of the same woman. The older has grey chest armour over a " +
+      "Four figures of the same woman. One has grey chest armour over a " +
       "blue and yellow tabard, greaved legs, long white and blue montrals, and " +
       "carries two lightsabers at once. The younger has short montrals, a bare " +
       "midriff under an orange top, a plain brown belt and white legs - and " +
       "nothing in her hands. A third is the young one again on a later " +
       "mould - grey legs instead of white, and montrals that fall well past " +
-      "the shoulders where the other pair stop short.",
+      "the shoulders where the other pair stop short. A fourth is her grown " +
+      "again and dressed for it: long white and blue montrals under a yellow " +
+      "diadem, a deep red tunic with a gold collar clasp, a brown belt over " +
+      "red legs with a gold panel and a pale cloth hanging at the front. She " +
+      "is holding a single green blade.",
     tags: ["star-wars", "jedi", "ahsoka", "togruta", "twin-sabers", "branded"],
     images: [
       { src: "images/ahsoka-tano-01.jpg", caption: "Older, in armour" },
       { src: "images/ahsoka-tano-02.jpg", caption: "Younger, short montrals" },
       { src: "images/ahsoka-tano-03.jpg", caption: "Younger, long montrals" },
+      { src: "images/ahsoka-tano-04.jpg", caption: "Grown, in red" },
     ],
     acquired: "",
     notes: "First woman in the Star Wars corner, and no longer the only one now Leia is here. Three figures of her on one card, which ties her with Luke, Tony Stark, Bruce Wayne and SpongeBob for the most photographed person here. The young one is unarmed and the older one carries two sabers, and that is the whole of what changed between them."
@@ -20517,6 +20533,94 @@ window.COLLECTION = [
     images: ["images/the-ninja-seaman-01.jpg"],
     acquired: "",
     notes: "He is a red ninja, and this collection already has two of those plus a man who pretended to be one. Kai is catalogued, in the older gi with the rope crossing and the gold flame crest; the Red Ninja is home-made; the False Kai went undercover as Kai and is filed bad. This figure is a different Kai print from the one on Kai's card - diagonal sashes instead of rope, patterned legs instead of plain.\\n\\nSo he is on his own card rather than merged, because you introduced him as the ninja seaman rather than as Kai, and the one-entry rule cuts both ways: putting him on Kai's card would claim he is Kai, and a world that already contains a False Kai is a world where a red ninja is not automatically that man. Say he is Kai and the two cards become one, with the boat as new lore about him.\\n\\nWhat he is doing is unusual on its own terms. Two figures here have Traveller written as their job - one who walks around the city and one who lives in the space between dimensions - and he is not filed as one, but he belongs with them. He is the only person in this collection who travels by sea, and the only ninja whose stated interest is going somewhere rather than fighting."
+  },
+
+  {
+    id: "sarah",
+    name: "Sarah",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Chef",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Sarah.",
+    provenance:
+      "A pale fur-lined trapper hat with the flaps down over both ears, and " +
+      "under it a yellow face with fine black brows, lashed eyes and an open " +
+      "smile. A white chef's jacket printed with two rows of buttons, a " +
+      "stitched seam at the waist and a red neckerchief knotted at the throat. " +
+      "Yellow arms and hands, pale blue legs. She is holding a brown branch.",
+    tags: ["civilian", "chef", "real-person", "woman", "fur-hat", "winter", "custom"],
+    images: ["images/sarah-01.jpg"],
+    acquired: "",
+    notes: "The seventh figure in this collection named after somebody real, after Kaz, Kenjen, Jimzon, Curtis, George Joudrie and Sean - and the first woman among them.\\n\\nShe and Sean arrived in the same batch and the shelf has an opinion about that. They are wearing the same pale fur-lined hat, they are holding the same brown branch, and they were photographed one after the other in the same light. Nothing has been said about who she is to him, so nothing is drawn - but the two figures were clearly put together as a pair, and that is on the card because it is a fact about the plastic rather than a guess about the people.\\n\\nThird chef here, after the Chef and the Apprentice Chef, and the only one of the three dressed for weather. A chef's whites under a trapper hat is not a kitchen outfit. She is a cook who is outdoors."
+  },
+
+  {
+    id: "kazim",
+    name: "Kazim",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Indiana Jones",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "From the Indiana Jones film. He starts as an enemy and turns out not to " +
+      "be one.",
+    provenance:
+      "A white cloth turban wound high over the crown, and under it a pale " +
+      "face with thick black brows drawn together, two brown scars or lines at " +
+      "the cheeks and a flat closed mouth. A pale green field jacket printed " +
+      "with two buttoned breast pockets, brown leather pouches strapped across " +
+      "the stomach and a bandolier running over one shoulder, with rank bars at " +
+      "both sleeves. Pale hands, and green legs printed with belts, straps and " +
+      "dark wraps at the boots.",
+    tags: ["indiana-jones", "branded", "turban", "field-kit", "ambiguous"],
+    images: ["images/kazim-01.jpg"],
+    acquired: "",
+    notes: "You said I could decide which side he is on, so here is the decision and the reasoning rather than just the answer.\\n\\nHe is filed good. In the film he attacks first and is not an enemy: he belongs to an order sworn to keep something buried, and once he understands what the other man is actually doing he stops and helps. That is a man who was in the way, not a man on the other side - and this collection already knows the difference. It holds the Blue Demigod, who came through uninvited with an army to stop a war and reads as an intrusion rather than an enemy, and the Pharaoh, whose card says cursing the people who rob your own grave is the most defensible thing anybody on that deck has done.\\n\\nThere is a third option and it has never been used. The site has a neutral faction built into it, labelled In Between, with nobody in it - a whole empty deck. He would be the first, and if you would rather have that than a decision, say so and he opens it.\\n\\nFifth figure out of Indiana Jones, from the same secondhand set as Elsa Schneider."
+  },
+
+  {
+    id: "marcus-brody",
+    name: "Marcus Brody",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Indiana Jones",
+    rank: "",
+    role: "Curator",
+    group: "",
+    location: "",
+    relations: [
+      { to: "indiana-jones", label: "His friend" }
+    ],
+    rating: 0,
+    background:
+      "Marcus Brody, out of the same Indiana Jones film. A museum man rather " +
+      "than an adventurer.",
+    provenance:
+      "A black bowler hat, and under it a pale face in round black-rimmed " +
+      "spectacles with dark sideburns and a small moustache and a faint " +
+      "smile. A tan three-piece suit printed in detail: an open jacket over a " +
+      "buttoned waistcoat, a white shirt and a dark bow tie at the collar, with " +
+      "pocket flaps at the hips. White sleeves, flesh hands, tan legs with " +
+      "brown laced shoes at the bottom.",
+    tags: ["indiana-jones", "branded", "curator", "bowler", "glasses", "suit", "academic"],
+    images: ["images/marcus-brody-01.jpg"],
+    acquired: "",
+    notes: "The thrift-shop set is resolved. Elsa Schneider came in last batch, and with Kazim and this man the figures line up as one Indiana Jones set from the film with the father in it - and Indiana Jones and his father were both already on this shelf, bought separately and years apart. You picked up secondhand the rest of a story the collection had two thirds of.\\n\\nSix figures out of Indiana Jones now, one of them a knock-off and one of them a villain.\\n\\nHe is also the fourth academic here and the only one who is not a professor. The Alien Professor is dead, the Hogwarts Professor and Professor Sprout are both out of a box, and this one runs a museum. Linked to Indiana Jones as his friend, which the film says outright - the two of them work together and have for years."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
