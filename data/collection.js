@@ -19318,6 +19318,151 @@ window.COLLECTION = [
     notes: "Fourth kind of thing in the water and the fifth figure down there: a shark, two squids, an anglerfish and now a manta. Three batches ago the sea had fifteen people in it across two dive teams and nothing else at all.\n\nThis is the point where the pattern stops being a coincidence and starts being a decision somebody has to make. They are all the same build - a moulded animal head over a standard body - they all arrived in consecutive batches, and they are all on the same deck. What they are not is joined up, because habitat is not affiliation and nothing in this world has said they know each other. The catalogue has held the same line on the four alien forces and on the orcs.\n\nOne word from you and they become a force, and the Atlantis Dive Team - twelve people on the card, ten of them still on it - finally has something on the other side of the water."
   },
 
+  {
+    id: "the-second-serpent",
+    name: "The Second Serpent",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Another snake, out of Ninjago.",
+    provenance:
+      "A moulded snake head, and a different tribe from the first one. Dark " +
+      "brown and black rather than grey and blue, scaled all over in fine " +
+      "white lines, with three stubby orange spines standing straight up out " +
+      "of the crown and a fourth laid back along the skull. Small white fangs " +
+      "at the jaw. A black torso printed with the same white scaling and a " +
+      "yellow underbelly flash at the chest, one grey arm and one black, black " +
+      "hands, black legs.",
+    tags: ["villain", "ninjago", "branded", "snake", "spines", "black", "orange"],
+    images: ["images/the-second-serpent-01.jpg"],
+    acquired: "",
+    notes: "Second snake and plainly not the same kind of snake. The first has a cobra hood and hypnotic spiral eyes; this one has no hood at all and a row of orange spines instead. In Ninjago the snakes come in tribes, so two different builds most likely means two different tribes, and neither card has the proper name on it yet.\n\nThat makes three Ninjago villains against six good, and the only one of the three who is not a snake is the False Kai, who was a man pretending to be a ninja. So Ninjago's contribution to this collection's enemy is: one impostor and two serpents.\n\nNo group made. Two snakes is not a tribe until somebody says which tribes they are."
+  },
+
+  {
+    id: "the-conquistador",
+    name: "The Conquistador",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A conquistador.",
+    provenance:
+      "A gold morion helmet with the brim swept up to a point front and back " +
+      "and a comb running over the crown. Under it a yellow face with a brown " +
+      "moustache and a short beard, and a scar or a strap drawn down one " +
+      "cheek. A gold breastplate moulded as a separate piece over the torso, " +
+      "silver-banded at the collar and the waist, with tassets hanging over " +
+      "the hips and a gold fauld printed onto the legs below. Dark red arms, " +
+      "grey hands, and white lower legs.",
+    tags: ["villain", "conquistador", "soldier", "gold", "armour", "helmet", "moustache", "custom"],
+    images: ["images/the-conquistador-01.jpg"],
+    acquired: "",
+    notes: "He is the first conquistador here, and he lands in a world that already has a lot to say about people arriving somewhere that is not theirs. The Discarded and the Damaged came here as refugees and were taken in. The Martian Leader came with an army and attacked Lego City. The Blue Demigod came through uninvited with troops and wanted a war stopped badly enough to wreck whichever side was winning. This one is filed as an enemy and nothing has been said about what he did, which leaves the word itself doing all the work.\n\nHe is also, physically, one of the most armoured things on that deck - gold breastplate, tassets, a fauld printed straight onto the legs - and one of the few enemies here dressed for a period rather than for a genre."
+  },
+
+  {
+    id: "the-at-at-driver",
+    name: "The AT-AT Driver",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Pilot",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A driver for the walkers.",
+    provenance:
+      "A dark grey helmet with a low dome and flared panels dropping over both " +
+      "ears, and under it a pale face taken up almost entirely by printed " +
+      "goggles - a wide black band with two white lenses in it and a strap " +
+      "running back, with a small breathing piece at the mouth. A pale grey " +
+      "tunic printed with a black seam down the front, faint quilting either " +
+      "side, and a black belt with a silver buckle. Grey arms, black hands, " +
+      "pale grey legs.",
+    tags: ["villain", "star-wars", "branded", "imperial", "pilot", "walker", "goggles", "grey"],
+    images: ["images/the-at-at-driver-01.jpg"],
+    acquired: "",
+    notes: "Second of the Empire's walker crews here, after the AT-ST Pilot. Between them this collection now has the two-legged walker and the four-legged one crewed, plus a general to command them, all three on the villain side.\n\nOne note on the labelling. This figure came in named as General Veers and the one beside him came in described as the general of the camel-looking walker. Read straight, both labels point at the same man, and the faces settle which is which: this one is goggled and anonymous, a crewman, and the other has a face and an officer's print. So the name went on that card and this one is filed as the driver. Say the word and they swap."
+  },
+
+  {
+    id: "general-veers",
+    name: "General Veers",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "General",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "General Veers, who commands the walkers.",
+    provenance:
+      "The same grey walker helmet as the driver, low-domed with panels over " +
+      "both ears - and no goggles. A pale face underneath with brown brows, a " +
+      "small dark moustache, a line at each cheek and a flat set mouth. The " +
+      "same pale grey tunic with the black seam and the quilting, the same " +
+      "black belt and silver buckle. Grey arms, black hands, pale grey legs.",
+    tags: ["villain", "star-wars", "branded", "imperial", "general", "officer", "moustache", "grey"],
+    images: ["images/general-veers-01.jpg"],
+    acquired: "",
+    notes: "Forty-fourth branded villain, and the first general anywhere in this collection who came out of a box. The four already here are all home-made: the General on the good deck, and General Shepherd - who stranded the Green Rangers - the Fleet General and the Retired General on this one.\n\nThe kit is identical to the AT-AT Driver's from the neck down. Same helmet, same tunic, same belt. The only thing that separates a general from a crewman here is that one of them has a face and the other has goggles, which is as clean a statement about rank as anything on the shelf - and it is the exact opposite of the Sting Rays, where the ranks show their faces to nobody and the insignia is the colour of the trousers.\n\nYou handed the name in on the other card. Both labels described the same man and the faces decided it; one word and the two cards swap names."
+  },
+
+  {
+    id: "the-creepy-elf",
+    name: "The Creepy Elf",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "An elf, and not a friendly one.",
+    provenance:
+      "Long pointed ears standing out either side of a swept brown hairpiece, " +
+      "and a pale face lined in brown - creases fanning from both eyes and " +
+      "curving round the mouth, thin arched brows, and a wide red mouth closed " +
+      "over it. A brown dress printed from collar to hem: a yellow panel at " +
+      "the throat, two gold brooches at the shoulders, a beaded blue necklace " +
+      "under them and a broad gold-worked belt across the waist.\n\n" +
+      "The dress is the same print the Viking's Wife wears, one deck over in " +
+      "the same batch of arrivals - brown, brooches, beads, gold belt. One pale " +
+      "tan arm, one brown, yellow hands, brown legs.",
+    tags: ["villain", "elf", "woman", "pointed-ears", "dress", "lined-face", "custom"],
+    images: ["images/the-creepy-elf-01.jpg"],
+    acquired: "",
+    notes: "The first elf on the villain side. There are two others here and both are good: the Elf Man, and the Elf Knight, who is one of the Royal Knights. So a people that had been entirely on one side is not any more.\n\nShe is the eighth woman on that deck, and the second in two batches to arrive wearing that particular brown dress - the Viking's Wife has the identical torso print. Two women on the same deck in the same clothes is a parts coincidence rather than a uniform, and it is written down here in case it is not.\n\nCreepy is the word you used and the face earns it: the lines are drawn as age or as strain, and the mouth is doing something that is not a smile. Nothing else has been said about her - no name, no job, no idea what she wants."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
