@@ -1660,6 +1660,42 @@ window.LORE = [
       "is a not-Lego body on Lego legs. These have had a Lego head fitted to " +
       "a not-Lego corpse, in a collection where the face is the one thing " +
       "that decides which side of the page a figure lives on."
+  },
+
+  {
+    title: "Covenant and Spartan, side by side",
+    text:
+      "A ruling, and it settles the shape of the whole not-Lego half of the " +
+      "enemy. All of the Mega Bloks figures here are associated with each " +
+      "other and fight together - Covenant and Spartan in the same line - and " +
+      "the stone warriors do the same, silver and brass beside each " +
+      "other.\n\n" +
+      "In the games those two are the war. Spartans exist to fight the " +
+      "Covenant and the Covenant exist to fight Spartans, and every figure of " +
+      "either was made to stand opposite the other. In this world they are one " +
+      "force. The Grunts, the Jackals and the Elites are not what the Spartans " +
+      "are for; whatever they were made to fight is on the other deck.\n\n" +
+      "This collection has done that once before, in the opposite direction. " +
+      "The stormtroopers are good here. So are the snowtroopers, the TIE " +
+      "pilots and the stormtrooper commander - whatever they were in the film " +
+      "they came out of, they were absorbed onto the side that wins. A child " +
+      "with a box of figures does not inherit the war that came with them; he " +
+      "sorts them again. That happened to the Empire on the good deck and it " +
+      "has now happened to Halo on the bad one.\n\n" +
+      "It also closes a question that had been open on two cards. The Warrior " +
+      "in the Gold Helm is a silver stone warrior wearing a brass helm and one " +
+      "brass arm, and his card offered three readings: salvage, rank, or a " +
+      "defection between two units. Defection is out. There is nothing to " +
+      "cross between - he is wearing an ally's kit, not an enemy's.\n\n" +
+      "One thing is deliberately not written in. Four cards in the Knock-offs " +
+      "group are filed good, and three of those are there because of something " +
+      "they chose: the Defector, a knock-off commander who came across; the " +
+      "Brute Prince, who argued for ending the Mega Bloks war from inside the " +
+      "side that started it; and the Red Spartan, who decided to join the good " +
+      "guys. If all of the Mega Bloks figures are associated with each other, " +
+      "that sentence reaches them too, and it would undo three of the best " +
+      "stories on that side of the shelf. So it has not been applied to them. " +
+      "Say the word and it is."
   }
 
 ];
