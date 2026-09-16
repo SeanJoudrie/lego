@@ -192,7 +192,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-first-man", label: "Best friend and second to" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "The second in command, and he truly holds that status. He dual-wields " +
       "green lightsabers, he can use the Force, and he's so agile that when he " +
@@ -242,7 +242,7 @@ window.COLLECTION = [
       { to: "the-palace-chief", label: "Pushed into the Senate by" },
       { to: "the-prince-pretender", label: "His throne is claimed by" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "He is known as the King right now, but he still refers to himself as a " +
       "Prince.\n\n" +
@@ -374,7 +374,7 @@ window.COLLECTION = [
       { to: "the-prince", label: "Brother of" },
       { to: "kaz", label: "Father of" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "The Prince's brother. He was always a bit of an outcast, but never in a " +
       "way that got him bullied — he simply decided to live off the rails.\n\n" +
@@ -438,7 +438,7 @@ window.COLLECTION = [
       { to: "heavy", label: "Trained" },
       { to: "the-royal-sons", label: "Idolised by" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "Despite the rugged demeanor, he's actually a very nice guy. Very loud, " +
       "very gruff, and very nice.\n\n" +
@@ -586,7 +586,7 @@ window.COLLECTION = [
     group: "",
     location: "Off-world",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "Known for going loud, and known for completing just about any mission " +
       "anyway. He's one of the louder, cockier ones.\n\n" +
@@ -811,7 +811,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-younger-brother", label: "Brother of" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "He leads the Verdauf Squadron, the most elite unit there is — and an " +
       "actual unit, not a handful of specific individuals each handed their own " +
@@ -1217,7 +1217,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "Very outgoing, and completely unorthodox about all of it. Playful, " +
       "free-spirited, quick to laugh, and not remotely interested in doing " +
@@ -1492,7 +1492,7 @@ window.COLLECTION = [
     group: "The First Circle",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "One of the Archangels — the demigod sort, the ones higher up — created " +
       "and then sent here. He is a robot, and despite having superhuman " +
@@ -2168,7 +2168,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-aviators-father", label: "Son of" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "Adventure squad. He flies anything that isn't a spacecraft — planes, " +
       "ships, whatever there is — and he works on them too.\n\n" +
@@ -2253,7 +2253,7 @@ window.COLLECTION = [
       { to: "the-second-padawan", label: "Friendly rival of" },
       { to: "the-purple-shadow", label: "Constantly fought" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "He carries the soul of a legendary ancient fighter, reborn and given the " +
       "Force. That is what the Snow Jedi sensed in him, and why he came looking " +
@@ -2539,7 +2539,7 @@ window.COLLECTION = [
       { to: "the-ginger-adventurer", label: "Adventures with" },
       { to: "the-young-watchman", label: "Adventures with" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "Made up of scrap pieces, and an adventurer. He comes from the same land " +
       "as the Ginger Adventurer, and the two of them are good friends who have " +
@@ -2596,7 +2596,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "A mercenary outlaw with a crew of space pirates behind him, and a long " +
       "career spent in the ethically grey. He would rob any of the good guys " +
@@ -3027,7 +3027,7 @@ window.COLLECTION = [
       { to: "the-fixer", label: "Father of" },
       { to: "the-old-hand", label: "Best friend of" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "The Adventure Crew's pilot, out of a time when aviation had only just " +
       "started — he fought in what amounts to the First World War.\n\n" +
@@ -3294,7 +3294,7 @@ window.COLLECTION = [
       { to: "the-bin-woman", label: "Probably met her" },
       { to: "the-ferryman", label: "Has never met" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "He travels between dimensions and has seen most of what there is — " +
       "fifth-dimensional tesseract places, topsy-turvy incoherent ones — and he " +
@@ -12983,7 +12983,7 @@ window.COLLECTION = [
       { to: "claws", label: "Captured" },
       { to: "the-knighted-civilian", label: "Brought down by" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "He started as nothing. A low-ranking soldier for a neutral third party " +
       "in somebody else\'s conflict, and they left him to die in the cold.\n\n" +
@@ -13082,7 +13082,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "Phalanx is a nanobot virus. What gave him a shape was the skull of an " +
       "ancient alien entity - something that had been transhumanist in its own " +
@@ -13162,7 +13162,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-bionic-brother", label: "Brother of" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "He leads the alien mercenaries, and he is skilled in every single kind " +
       "of combat there is.",
@@ -13292,7 +13292,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "A professional assassin who can use shadows, and who leaves a streak of " +
       "violence behind him wherever he has been.\n\n" +
@@ -13384,7 +13384,7 @@ window.COLLECTION = [
     group: "The Iron League",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "Captain of the Iron League - a set of specialists who can take out any " +
       "target, and some of the highest-rated bounty hunters in the galaxy.\n\n" +
@@ -13414,7 +13414,7 @@ window.COLLECTION = [
     group: "The Iron League",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "Iron League. An expert in combat and a first-rate assassin, trained " +
       "specifically for fighting underwater and in space - and he still does " +
@@ -13444,7 +13444,7 @@ window.COLLECTION = [
     group: "The Iron League",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background: "Iron League. Their rifleman.",
     provenance:
       "Pale blond hair swept up hard, a black visor band with blue lenses " +
@@ -13652,7 +13652,7 @@ window.COLLECTION = [
     relations: [
       { to: "quinn", label: "Second-in-command to" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "Quinn\'s second, on the technology side. He organises the killing " +
       "machines and plans the invasions.",
@@ -13711,7 +13711,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-lead-alien-mercenary", label: "Brother of" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "Brother to the mercenary who leads the aliens. He has bionic legs and " +
       "super strength, which makes him made for close work - hand to hand is " +
@@ -13832,7 +13832,7 @@ window.COLLECTION = [
     relations: [
       { to: "the-guardsman", label: "Was his partner" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "He and the Guardsman were a duo, before.\n\n" +
       "What he is now is the most efficient killer in this world. Quiet, " +
@@ -14198,7 +14198,7 @@ window.COLLECTION = [
       { to: "the-war-secretary", label: "His Secretary of War" },
       { to: "quinn", label: "Aligned with" },
     ],
-    rating: 0,
+    rating: 5,
     background:
       "A fascist dictator, and he already runs a planet of his own.\n\n" +
       "What he wants is the rest of them. He aligned himself with Quinn " +
@@ -14228,7 +14228,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "An alien bounty hunter with a much better wardrobe than his face " +
       "suggests, and - genuinely - pretty friendly.\n\n" +
@@ -15637,7 +15637,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "An entity made of electricity. He is run into weapons to power them, " +
       "and he fights in his own right.",
@@ -16082,7 +16082,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "Queen of the orcs.",
     provenance:
@@ -16345,7 +16345,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "Captain of domestic security.",
     provenance:
@@ -20680,7 +20680,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "The Slime King, and some of his friendly slimes.",
     provenance:
@@ -20998,7 +20998,7 @@ window.COLLECTION = [
     group: "The Droid Army",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "Steel. The ultimate leader of the droid armies, and the one in charge of " +
       "all robots - the droids above all.\n\n" +
@@ -22834,7 +22834,7 @@ window.COLLECTION = [
     group: "",
     location: "",
     relations: [],
-    rating: 0,
+    rating: 5,
     background:
       "An evil ninja, in crimson, with a baby dragon for a compatriot. The " +
       "dragon rides on the crown of his hat.",
