@@ -21712,6 +21712,130 @@ window.COLLECTION = [
     notes: "Checked against the Red Spartan already on the shelf, and it is not him. That one is red and black in patches with olive at the hips and forearms, black arms, black thighs, and a blue visor. This one is red nearly all over with black only in the crevices, grey hands, and the visor is gold. Two different figures in the same colour, so this card is written as the second rather than folded into the first.\n\nAnd the two of them are now on opposite decks, which this world has a precedent for and a name for. The Defector and the Knock-off Captain are two casts of one mould standing on either side of the knock-off war, told apart by the colour of a cap. The world note calls that the clearest case here of the story and the material being the same thing. This is the second pair of that kind: same maker, same soldier, same colour, one who came over and one who did not, and a gold visor instead of a blue one to tell them apart.\n\nHe is filed bad on the standing reasoning - the side rather than the man. It is worth saying plainly that the other Red Spartan's card describes his position as a decision he made, which is what puts him where he is. Nothing has been said about this one deciding anything.\n\nLeaving the ODSTs aside, the Spartans here now split two and two. The Spartan is one of the Damaged, out of the spray-painted world. The Red Spartan came over. The Yellow Spartan and this one did not."
   },
 
+  {
+    id: "the-purple-spartan",
+    name: "The Purple Spartan",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Spartan in purple.",
+    provenance:
+      "Purple over the whole figure - helmet, shoulder caps, chest, arms, " +
+      "hips, legs and boots - with black worked into every seam and a black " +
+      "undersuit showing at the thighs, the waist and the throat. The visor is " +
+      "gold, set low in a purple helmet. Black hands, one open and one closed. " +
+      "The purple has taken a shine along the shoulders and the tops of the " +
+      "thighs where it has been handled.",
+    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "spartan", "purple", "gold-visor"],
+    images: [
+      "images/the-purple-spartan-01.jpg",
+    ],
+    acquired: "",
+    notes: "Purple is not a neutral colour in this collection. On the Lego side it belongs almost entirely to the enemy's upper end - the Purple Shadow, a Sith who reached the shadow people through the dark arts and opened the door - and to the Prince, who wears a purple t-shirt and is the most senior good figure on the shelf. It has meant either the top of the hierarchy or the worst thing in it, and never a rank and file soldier. This one is an ordinary trooper painted in it.\n\nHe is also the colour the empty deck was given. In Between is drawn in purple on this page, and it stayed empty for seven hundred and ninety-one figures before three skeletons opened it. So the site now has a purple third faction and a purple soldier filed with the enemy, and those two facts have nothing to do with each other - worth saying out loud so nobody reads a connection into it later.\n\nFiled bad on the standing reasoning for this maker: the side rather than the man."
+  },
+
+  {
+    id: "the-standard-spartans",
+    name: "The Standard Spartans",
+    variant: "Three of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Three Spartans in the standard green.",
+    provenance:
+      "Three of them, and as near identical as anything in this half of the " +
+      "collection gets. Olive green over the whole build, blacked into the " +
+      "seams and across the inner thigh, with gold visors set into green " +
+      "helmets and grey hands. The armour is busier than the painted ones - " +
+      "moulded plates, a chest pack, cabling worked across the collar - and " +
+      "the green has gone shiny at the shoulders and knees. One of the three " +
+      "has a grey boot where the others are green.",
+    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "spartan", "green", "gold-visor", "squad"],
+    images: [
+      "images/the-standard-spartans-01.jpg",
+    ],
+    acquired: "",
+    notes: "Standard is your word and it is the right one - these are the baseline the painted ones are variations on, and the only Spartans here that arrived as a squad rather than one at a time.\n\nThat gives this maker's soldiers the same organising principle the Droid Army has, reached from the opposite direction. The droids are one mould in one colour, told apart by a coloured chest panel clipped over the top. These are one mould in many colours, told apart by the paint itself: green for the line, and red, yellow and purple for the rest. Two armies on the same deck, both refusing to print anything, both using colour as the entire insignia.\n\nSeven Spartan cards now and eleven Spartan figures between them. Everything else out of that world has come two at a time - two Grunts, two Jackals, two Elites - so the Spartans are the only part of it that has arrived as a force rather than as a sample.\n\nFiled bad on the standing reasoning. Worth noting what that has produced: of the Spartans here, one is one of the Damaged and one came over, and every other one arrived with no story and went to the side his maker is named as the aggressor of."
+  },
+
+  {
+    id: "the-elites",
+    name: "The Elites",
+    variant: "Two of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two elites.",
+    provenance:
+      "Two, and built heavier than anything else out of this maker. Dark navy " +
+      "armour over the whole body, with enormous curved shoulder plates " +
+      "standing out past the arms and ridged gauntlets below them ending in " +
+      "grey claw hands. A pale grey plate at the hips and grey bands at both " +
+      "knees, and hooked armoured boots.\\n\\n" +
+      "The heads are not human and not hidden. A helmet swept back into a " +
+      "point at the crown, and under it a jaw that juts forward and splits - " +
+      "the mouth opening downward and outward rather than across. One of the " +
+      "two carries a small emblem on the chest that the other does not.",
+    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "elite", "navy", "mandibles", "pair"],
+    images: [
+      "images/the-elites-01.jpg",
+    ],
+    acquired: "",
+    notes: "Third species out of this side, after the Grunts and the Jackals, and the first of the three that reads as senior. The Grunts are squat and hunched and there were two identical ones. The Jackals are built wrong for a person and have almost nothing on them. These have the bulk, the shoulder plates and the one thing this maker's figures almost never carry - a chest emblem on one of the two and not the other, which everywhere else in this collection has meant rank.\n\nThat completes something. The enemy's not-Lego half now has a species in three tiers, a line of Spartans in four colours and an ODST squad, all arrived inside a handful of batches. It is the second force in this collection to turn up complete rather than accumulate, after the Droid Army - and the two of them are now the only enemies here with more than one kind of body in them.\n\nThe jaw is worth recording on its own. Nothing else on either deck has a mouth that opens the wrong way. The Devoured has a mouth where a face should be, the Anglerfish has teeth, the Jackals have a beak - but a jaw that splits outward is a different idea, and it is the clearest signal in this collection that something is not built from a person's plan.\n\nFiled bad on the standing reasoning for this maker."
+  },
+
+  {
+    id: "the-damaged-battle-droid",
+    name: "The Damaged Battle Droid",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A B1 battle droid, burned and short an arm. He is a good guy.",
+    provenance:
+      "The standard B1 build in pale tan - the long narrow skull head with the " +
+      "snout and ear cups, the open cage of a torso with the light through it, " +
+      "thin legs jointed at the knee on flat feet - and burned nearly black in " +
+      "patches over most of it. The scorching runs across the crown of the " +
+      "head and down one side of the skull, over both shoulders, across the " +
+      "front of the chest frame, round the hips, at both knees and over the " +
+      "toes of both feet.\\n\\n" +
+      "One arm is whole: hinged at the shoulder and the elbow, hanging down to " +
+      "an open claw, burned along its length. The other is gone. What is left " +
+      "is a short pale stub at the shoulder with nothing on the end of it.",
+    tags: ["droid", "battle-droid", "star-wars", "branded", "damaged", "burned", "missing-arm", "defector"],
+    images: [
+      "images/the-damaged-battle-droid-01.jpg",
+    ],
+    acquired: "",
+    notes: "The first battle droid in this collection on the good side, and you said so outright, so nothing here is guessed.\n\nThe Droid Army runs ten cards and every one of them is filed against this world - Steel at the top, an IG captain and a droid commander under him, super battle droids, commandos, space droids, a bomber, a weapon platform and the line. It arrived complete, with its commander catalogued before any of it. This is one of those, on the other deck.\n\nWhich makes him a defection, and this collection has a lopsided record on those. Seven cards here have betrayal or changing sides in the name and six of them sit on the bad deck: the Traitor Captain who rigged a ship with half the Verdauf on it, the Clone Traitor, the Armoury Traitor, the Atlantis Traitor, the Infamous Traitor, the Defector Commander. Exactly one goes the other way - the Defector, a knock-off commander who came across and is visibly adapting. This droid is the second, and the first machine to do it.\n\nThe damage is the other half of the card, and it is the saddest thing on the shelf. This world does not read a missing piece as a missing piece - that sentence is on the Rebuilt's plate and it holds everywhere. The Discarded arrived with a silver arm and gave the civilization cybernetics. The Mechanic repaired his own arm and his own skull and the gold is his own work. The Space Militia lost exactly one man to injury, and the card says they saved him and the arm he got back is stronger than the one he lost. One of the Verdauf Guards lost an arm and wears a pauldron the others do not.\n\nNobody has done that for this one. He is burned from the crown to the toes and the arm is simply not there - no prosthetic, no plate, no gold. In a world whose entire instinct is to rebuild the damaged, he is the figure that has not been rebuilt yet.\n\nAnd he is the exact inverse of what the Stone Warriors do. They keep the armour when the soldier inside dies and put a machine in it. This is a machine nobody replaced, still walking around in a body that was wrecked.\n\nNo group written, and two reasons why. He is not filed in the Droid Army because a good figure sitting inside Steel's group would be listed alongside his own army, and nothing has been said about whether he left it, was left behind, or was never in it. And he is not put in the Damaged or the Discarded, because you used damaged as a description of the plastic and those are the names of two peoples - the ones destroyed and abused, and the ones made as throwaways. If he belongs to either, that is one word."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
