@@ -19975,6 +19975,130 @@ window.COLLECTION = [
     notes: "Mining in this world has been almost entirely a good job. Seven miner cards sit on that deck - six Power Miners and the Lost Miners - and until now the only one over here was the Astronaut Miner. This is the second, and he is a different kind of thing from all of them: the others are men with a job and he is a man the job finished.\n\nThe orange eye on his chest is the part nobody has explained. It is not a lamp and it is not a badge - it is set into a black plate at the sternum, open, with a slit pupil, and it is looking out. Something is wearing him, or something is riding in him. The Devoured had a mouth where his face should be and was named for what took him; this one has an eye where his heart should be and has not been named for anything yet.\n\nHe is also the second skeleton on the villain side after the Hooded Skeleton, and the second dead thing in three batches after the Ghost. Whatever is happening to the dead in this world, it started recently."
   },
 
+  {
+    id: "the-man-in-the-astromech-head",
+    name: "The Man in the Astromech Head",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A man wearing an astromech's head.",
+    provenance:
+      "An astromech dome clipped down over a minifigure's head like a helmet - " +
+      "white, banded in dark green round the crown and the rim, with a black " +
+      "and green main eye, an orange light, a silver port and a small panel " +
+      "printed across the front. The white neck stud of the figure underneath " +
+      "shows in the gap.\\n\\n" +
+      "Below it he is a soldier out of a different world entirely: a moulded " +
+      "pale blue tactical vest over a grey undersuit, stitched panels and " +
+      "pouches across the chest, with ACU printed in a box in the middle of " +
+      "it. Dark grey arms, grey hands, plain white legs.",
+    tags: ["villain", "astromech", "dome", "helmet", "tactical-vest", "acu", "mixed-parts", "custom"],
+    images: ["images/the-man-in-the-astromech-head-01.jpg"],
+    acquired: "",
+    notes: "Eight astromechs are catalogued here and every one of them is a droid. This is the ninth dome in the collection and the first with a person underneath it.\\n\\nWhat he is wearing below the neck comes from somewhere else again - an ACU vest, an asset containment unit, which is not from the same world as the dome or from this one. So he is three things at once: a soldier's body, a security unit's kit, and a droid's head worn as a mask.\\n\\nThat lands next to a card already here. The Man in the Astromech Head is doing on purpose what the people of the Bin do by necessity - wearing whatever came to hand - except the Bin's residents are built that way and this one chose a droid's face. Nothing says which, so nothing is written between them.\\n\\nHe is also the second figure on that deck to hide behind another thing's head, after the Devoured, whose face is a mouth. The difference is that the Devoured did not choose it."
+  },
+
+  {
+    id: "the-second-cyborg-soldier",
+    name: "The Second Cyborg Soldier",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Another cyborg soldier, and this one is old-world.",
+    provenance:
+      "A silver conical helmet with a long neck flap hanging either side, the " +
+      "kind a foot soldier wears in a castle. Under it a yellow face split in " +
+      "two: the left side machine, a silver plate bolted over the temple with " +
+      "a red lens burning in the middle of it, and the right side a man - one " +
+      "eye, a black lip, and teeth bared in a strip of silver.\\n\\n" +
+      "A grey breastplate printed over the torso with straps, a red shield " +
+      "crest at the heart and a belt of pouches beneath. Bare yellow arms, one " +
+      "black hand and one yellow. Legs in dark green and blue tartan going " +
+      "down to brown boots.",
+    tags: ["villain", "cyborg", "soldier", "medieval", "helmet", "tartan", "red-eye", "custom"],
+    images: ["images/the-second-cyborg-soldier-01.jpg"],
+    acquired: "",
+    notes: "Called the Second Cyborg Soldier because the name was taken one batch ago. The first wears a racing vest with flames on it and has the right side of his head replaced; this one wears a conical helm and tartan and has the left side of his.\\n\\nThat is the interesting part. Cybernetics in this world come from one place - the Discarded's arm, studied and built from - and everything machine-limbed on the villain side has so far been modern: bikers, assassins, robots, a man in racing kit. This one is in castle armour with a tartan on, which means the technology has reached somewhere that does not otherwise have it. Either the timeline is not what it looks like, or somebody carried it back.\\n\\nFifth cyborg on that deck, after Doc Ock, the Brainwashed Assassin, the Evil Cyborg Soldier and the Cyborg."
+  },
+
+  {
+    id: "the-primitive-alien",
+    name: "The Primitive Alien",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A primitive alien.",
+    provenance:
+      "Pale lavender from the crown to the boots, with no hair and no helmet. " +
+      "The face is scarred over in short white slashes - across the brow, down " +
+      "one cheek, along the jaw - with two yellow eyes under heavy drawn brows " +
+      "and a wide mouth pulled back off uneven cream teeth.\\n\\n" +
+      "The armour is made rather than manufactured: tan hide panels lashed on " +
+      "with cord and crossed sticks, knotted at the shoulders and again at the " +
+      "waist, with pale blue crystals set into it - one large at the chest, " +
+      "smaller ones down the ribs and a pair strapped to each thigh. Lavender " +
+      "arms and hands.",
+    tags: ["villain", "alien", "primitive", "crystals", "scarred", "lavender", "hide-armour", "custom"],
+    images: ["images/the-primitive-alien-01.jpg"],
+    acquired: "",
+    notes: "Seventh alien body on that deck with nothing written between it and any of the others. The catalogue holds mercenaries nobody has photographed, a militia with a school, five Alien Soldiers, four Alien Goons, a Grey Alien Soldier and a Blue-Eyed Alien, all kept apart because nothing in the world joined them up. He makes seven doors.\\n\\nWhat separates him from the other six is that he is not equipped, he is dressed. Every alien on that side so far wears printed armour or a uniform of some kind; his is hide and cord and sticks, tied on by hand, with crystals wedged into it. Nothing here is manufactured.\\n\\nThe crystals are the open question. They are set at the chest, the ribs and both thighs, which is where you would put armour plates - so either they are the armour, or they are what he is carrying, or they are what he is. The Rock Monsters waiting in the pending file are crystal too, and nobody has said whether that means anything."
+  },
+
+  {
+    id: "the-underwater-king",
+    name: "The Underwater King",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "King",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A king, underwater.",
+    provenance:
+      "A transparent neon green helmet closed over the whole head, ridged and " +
+      "faceted, clipped onto a dark silver collar rig with a round intake " +
+      "standing out from the throat and a hose running back over one shoulder. " +
+      "Through the green: a face that is not a face - a white skull mask drawn " +
+      "across it with black sockets, a fanged jaw, and two yellow wings " +
+      "sweeping back from the eyes.\\n\\n" +
+      "A blue torso printed with the silver rig over it, a pressure gauge at " +
+      "one side and a readout at the other. One black arm and one blue, grey " +
+      "and black hands, black legs with a blue seam at the hips.",
+    tags: ["villain", "king", "sea", "diver", "helmet", "skull-mask", "breathing-gear", "custom"],
+    images: ["images/the-underwater-king-01.jpg"],
+    acquired: "",
+    notes: "This may be the card that closes the sea, and it is being flagged rather than assumed.\\n\\nFive creatures have arrived down there across four batches - a shark, two squids, an anglerfish and a manta - all built the same way, all on this deck, and every single time the catalogue has refused to group them because habitat is not affiliation and nobody had said they answered to anything. The one line that kept being written was that the squid wears the only insignia, so if there is an order down there it starts with him.\\n\\nNow there is a king. If he is their king, the group exists, the Atlantis Dive Team finally has a named enemy after twelve people and a second crew of three have been diving into nothing, and one of the oldest open questions in this catalogue closes on a word.\\n\\nWhat gives pause is that he is not a creature. He is a man in a diving rig - breathing gear, a pressure gauge, a hose - with a skull painted over his face. The five down there are animals with moulded heads. A king who has to bring his own air is not obviously the king of the things that live in the water, and that is exactly why no line has been drawn.\\n\\nHe is the tenth ruler on the villain side, after two kings, two pharaohs, a queen, an emperor, a dictator, a governor and a supreme chancellor - and the Shadow King is the only other one whose kingdom is a place rather than a people."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
