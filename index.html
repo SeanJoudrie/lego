@@ -466,9 +466,9 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789538068"></script>
-<script src="data/lore.js?v=1789538068"></script>
-<script src="data/featured.js?v=1789538068"></script>
+<script src="data/collection.js?v=1789538146"></script>
+<script src="data/lore.js?v=1789538146"></script>
+<script src="data/featured.js?v=1789538146"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"order" };
@@ -809,10 +809,23 @@ function showImg(n) {
     .forEach((t, i) => t.dataset.on = i === gal.i ? "1" : "0");
 }
 
-// Which list do next/previous walk? The deck this figure is actually on, so
-// stepping never crosses sides mid-read. A figure reached from a Connections
-// tile that is filtered out of every deck falls back to the whole collection.
+// Which list do next/previous walk? Normally the deck this figure is actually
+// on, so stepping never crosses sides mid-read. But a figure opened from a
+// plate walks the plates instead: the run you picked it out of is the run you
+// keep reading, rather than dropping into whatever happens to sit beside it in
+// the full catalogue. Clicking a Connections tile leaves that run, because you
+// have followed a link out of it.
+//
+// A figure reached from a Connections tile that is filtered out of every deck
+// falls back to the whole collection.
+let navScope = null;    // "plates" while reading the plate run, else null
+
 function navList() {
+  if (navScope === "plates") {
+    const side = (FIGS[curI] || {}).faction;
+    const mine = PLATES.filter(p => p.fig.faction === side).map(p => p.fig);
+    if (mine.length) return mine;
+  }
   for (const k of SIDES) if (decks[k] && decks[k].some(f => f._i === curI)) return decks[k];
   return FIGS;
 }
@@ -924,7 +937,10 @@ function openLore() {
 $("lorebtn").addEventListener("click", openLore);
 $("rail").addEventListener("click", e => {
   const hit = e.target.closest(".card, .plate");
-  if (hit) return open(FIGS[+hit.dataset.i]);
+  if (hit) {
+    navScope = hit.classList.contains("plate") ? "plates" : null;
+    return open(FIGS[+hit.dataset.i]);
+  }
   const over = e.target.closest(".none .over");
   if (over) return goSide(Number(over.dataset.go));
 });
@@ -932,7 +948,7 @@ $("rail").addEventListener("click", e => {
 $("detail").addEventListener("click", e => {
   if (e.target.id === "x") return $("detail").close();
   const mini = e.target.closest(".mini");
-  if (mini) return open(FIGS[+mini.dataset.i]);
+  if (mini) { navScope = null; return open(FIGS[+mini.dataset.i]); }
   const nav = e.target.closest(".nav");
   if (nav) return showImg(gal.i + Number(nav.dataset.step));
   const t = e.target.closest(".thumbs img");
