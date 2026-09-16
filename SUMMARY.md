@@ -8750,15 +8750,15 @@ The son of an evil king. Which king has not been said.
 
 *Tags:* villain, prince, heir, spiked-armour, scar, custom
 
-### 725. The Faceless Doctor
+### 725. The Pimp
 
-**Alignment:** bad · **Role:** Doctor · **Figure:** custom
+**Alignment:** bad · **Role:** Pimp · **Figure:** custom
 
-A doctor with no face.
+A pimp. He has no face.
 
 *How it was got:* A dark purple fedora with a wide brim, and under it no head at all - a plain blue cylinder standing where a face should be, unmarked on every side. A pale grey lab coat printed open over a dark waistcoat and a belt, with an identification badge clipped at the chest: a small blue card with a figure on it and DR. printed underneath. Grey arms, flesh hands, purple legs. He is carrying a green case.
 
-*Tags:* villain, doctor, faceless, fedora, lab-coat, briefcase, custom
+*Tags:* villain, pimp, faceless, fedora, lab-coat, briefcase, custom
 
 ### 726. The Underwater King's Commander
 

@@ -20196,20 +20196,20 @@ window.COLLECTION = [
   },
 
   {
-    id: "the-faceless-doctor",
-    name: "The Faceless Doctor",
+    id: "the-pimp",
+    name: "The Pimp",
     variant: "",
     faction: "bad",
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Doctor",
+    role: "Pimp",
     group: "",
     location: "",
     relations: [],
     rating: 0,
     background:
-      "A doctor with no face.",
+      "A pimp. He has no face.",
     provenance:
       "A dark purple fedora with a wide brim, and under it no head at all - a " +
       "plain blue cylinder standing where a face should be, unmarked on every " +
@@ -20217,10 +20217,10 @@ window.COLLECTION = [
       "belt, with an identification badge clipped at the chest: a small blue " +
       "card with a figure on it and DR. printed underneath. Grey arms, flesh " +
       "hands, purple legs. He is carrying a green case.",
-    tags: ["villain", "doctor", "faceless", "fedora", "lab-coat", "briefcase", "custom"],
-    images: ["images/the-faceless-doctor-01.jpg"],
+    tags: ["villain", "pimp", "faceless", "fedora", "lab-coat", "briefcase", "custom"],
+    images: ["images/the-pimp-01.jpg"],
     acquired: "",
-    notes: "The badge is the joke and the problem. He is wearing photo identification that says DR. and has a photograph on it, and there is no face on him to check it against. Whatever is under the hat is a blank cylinder.\\n\\nSix doctors and medics are catalogued in this world. Three are good - Dr. Oz, the Medic, the Delta Medic - and three are not: the Butcher, who does the cutting, the Evil Doctor, who does the thinking, and the Alien Medic. The two on that side who work together invented mind control between them, and their card says so outright. A seventh has now arrived carrying a case and no identity, and nothing says whether he is theirs.\\n\\nHe is also the second figure here who is dressed like a professional and has nothing behind the clothes, after the Master of Disguise, whose face is the old plain smiley. The difference is that a smiley is still a face."
+    notes: "He is a pimp. This card said doctor at first because of the badge, and that was my error rather than yours - you said pimp and I read the plastic over the words.\n\nWhich leaves the clothes as the real question. He is wearing a lab coat, and clipped to it is photo identification with a picture on it and DR. printed underneath, and there is no face on him to check the photograph against. Whatever is under that hat is a blank blue cylinder. So this is a man in a stolen profession: the coat and the badge belong to somebody, and the fedora and the case are his.\n\nSix doctors and medics are catalogued in this world - Dr. Oz, the Medic and the Delta Medic on one side, the Butcher, the Evil Doctor and the Alien Medic on the other - and the two who work together invented mind control between them. Somebody is missing a coat and a badge, and nothing is written between him and any of them.\n\nHe is the first pimp in this collection, and the second figure here dressed like a professional with nothing behind the clothes, after the Master of Disguise, whose face is the old plain smiley. The difference is that a smiley is still a face."
   },
 
   {
