@@ -21375,7 +21375,7 @@ window.COLLECTION = [
       "images/the-halo-grunts-01.jpg",
     ],
     acquired: "",
-    notes: "The war finally has an army in it. The Halo Mega Bloks wars have been in the world notes since early on - a real war, with the Mega Bloks as the aggressor, ended by talking rather than by winning - and until now the only two figures out of it on this shelf were exceptions to their own side. The Brute Prince is a prince of that world who argued for stopping it. The Red Spartan decided to join the good guys. One dissenter and one defector, and no soldiers.\n\nThese are the soldiers. Two identical bodies with no story on them, out of the side the lore names as the aggressor, which is why they are filed here. It is a faction assigned by what the world already says rather than by anything you said about these two, so it is one word to move them.\n\nThey are also the first thing in this collection that is not Lego and not a person. Every other not-Lego figure here is somebody - the Ancient out of a Tonka set who was here before the civilization, the Defector and his opposite number, the Brute Prince, the Red Spartan, the knock-off adventurer and officer. These are a species and a rank, and there are two of them because there were two in the box.\n\nWorth recording what they do to the group. The Knock-offs held five cards, four of them good, and the whole idea of the group has been that being made by a rival company is a fact about your body rather than about your character. This card makes six, and the split moves to four and two."
+    notes: "The war finally has an army in it. The Halo Mega Bloks wars have been in the world notes since early on - a real war, with the Mega Bloks as the aggressor, ended by talking rather than by winning - and until now the only two figures out of it on this shelf were exceptions to their own side. The Brute Prince is a prince of that world who argued for stopping it. The Red Spartan decided to join the good guys. One dissenter and one defector, and no soldiers.\n\nThese are the soldiers. Two identical bodies with no story on them, out of the side the lore names as the aggressor, which is why they are filed here. It is a faction assigned by what the world already says rather than by anything you said about these two, so it is one word to move them.\n\nThey are also the first thing in this collection that is not Lego and not a person. Every other not-Lego figure here is somebody - the Ancient out of a Tonka set who was here before the civilization, the Defector and his opposite number, the Brute Prince, the Red Spartan, the knock-off adventurer and officer. These are a species and a rank, and there are two of them because there were two in the box.\n\nWorth recording what they do to the group. The Knock-offs held five cards, four of them good, and the whole idea of the group has been that being made by a rival company is a fact about your body rather than about your character. This card makes six, and the split moves to four and two. Two Spartans have since arrived on the bad side as well, which takes the group to eight and levels it at four each - so a group whose members were mostly good is now exactly halved."
   },
 
   {
@@ -21509,7 +21509,7 @@ window.COLLECTION = [
   {
     id: "the-brass-warriors",
     name: "The Brass Warriors",
-    variant: "Two of them",
+    variant: "Three of them",
     faction: "bad",
     origin: "custom",
     theme: "Creation Mythos",
@@ -21535,9 +21535,107 @@ window.COLLECTION = [
     images: [
       { src: "images/the-brass-warriors-01.jpg", caption: "In the two-horned cap" },
       { src: "images/the-brass-warriors-02.jpg", caption: "In the four-horned helm" },
+      { src: "images/the-brass-warriors-03.jpg", caption: "The one with a face" },
     ],
     acquired: "",
-    notes: "Named by you, and named apart from the stone warriors, so they are filed as their own group rather than folded into that one. Same moulds, different metal, different name.\n\nWhat they share with the silver unit is the body. What they do not share is the chest: every stone warrior wears a riveted plate or a scaled one, and these two wear crossed chains pinned with a boss, which is the only chest design in either unit that is not armour. Chains across a breastplate are either a decoration or a record of something, and nothing has been said.\n\nThey are the first gold soldiers here. Two figures on this shelf were already gold from head to foot and neither of them fights: C-3PO, who is a protocol droid, and Deus Pater, who is a cosmic deity. Everywhere else gold is a highlight on somebody - the Golden Sniper's rifle, the Mechanic's repaired skull, the gold-visored astronaut, Gold Tooth's one tooth. It has meant precious, or divine, or a single thing worth mentioning. These are two men in armour cast in it, which is neither.\n\nThe open question is the Warrior in the Gold Helm, who arrived in the same batch. He is a silver stone warrior wearing a brass helm and one brass arm, which is the only physical link between these two units and could be salvage, rank or a crossing. Two groups exist now because you named two. If they are one army in two metals, that is one word and the groups merge.\n\nSmall thing worth flagging: the two helms are different from each other, which in this collection has usually meant rank. The stone warriors repeat a helmet; these two do not."
+    notes: "Named by you, and named apart from the stone warriors, so they are filed as their own group rather than folded into that one. Same moulds, different metal, different name.\n\nWhat they share with the silver unit is the body. What they do not share is the chest: every stone warrior wears a riveted plate or a scaled one, and these two wear crossed chains pinned with a boss, which is the only chest design in either unit that is not armour. Chains across a breastplate are either a decoration or a record of something, and nothing has been said.\n\nThey are the first gold soldiers here. Two figures on this shelf were already gold from head to foot and neither of them fights: C-3PO, who is a protocol droid, and Deus Pater, who is a cosmic deity. Everywhere else gold is a highlight on somebody - the Golden Sniper's rifle, the Mechanic's repaired skull, the gold-visored astronaut, Gold Tooth's one tooth. It has meant precious, or divine, or a single thing worth mentioning. These are two men in armour cast in it, which is neither.\n\nThe open question is the Warrior in the Gold Helm, who arrived in the same batch. He is a silver stone warrior wearing a brass helm and one brass arm, which is the only physical link between these two units and could be salvage, rank or a crossing. Two groups exist now because you named two. If they are one army in two metals, that is one word and the groups merge.\n\nSmall thing worth flagging: the helms are all different from each other, which in this collection has usually meant rank. The stone warriors repeat a helmet; these do not.\n\nA third arrived after this card was written and he is the odd one. Where the other two wear closed helms, his head is a sculpted face - a heavy brow, a broad nose and a jaw worked like a beard - under a low domed cap, and it is bare. Standing up behind his shoulders are two dark blue pieces, each a knobbed head on a short shaft and spiked all over, and blue is very nearly the only colour this army owns - a crest on the Warrior in the Gold Helm, a visor on one of the rebuilt, and these. Three brass figures now, three different heads, and no two of them alike."
+  },
+
+  {
+    id: "the-rebuilt-stone-warriors",
+    name: "The Rebuilt Stone Warriors",
+    variant: "Two of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "The Stone Warriors",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "Stone warriors whose soldiers died. The armour outlived the men inside " +
+      "it, so the bodies were rebuilt with robots in them and sent back out.",
+    provenance:
+      "Two of them, and the bodies are the unit's own. One is brass: the " +
+      "crossed chains pinned with a boss that the Brass Warriors wear, gold " +
+      "arms to claw hands, panelled gold legs. The other is silver: the " +
+      "riveted plate with two studs at the chest, the diagonal strap over " +
+      "chainmail, the belt across the hips.\n\n" +
+      "The heads are the difference, and they are Lego. Both wear the same " +
+      "black helmet - a smooth dome with a flared neck guard and a cheek plate " +
+      "swept forward on each side - and under it a printed metal face. On the " +
+      "brass one, two round eyes lit yellow-green over a grid of gritted steel " +
+      "teeth. On the silver one, a blue visor band across the eyes and nothing " +
+      "of a mouth showing at all.",
+    tags: ["villain", "stone-warriors", "rebuilt", "robot", "not-lego", "hybrid", "brass", "silver", "pair"],
+    images: [
+      { src: "images/the-rebuilt-stone-warriors-01.jpg", caption: "The brass body, lit eyes and steel teeth" },
+      { src: "images/the-rebuilt-stone-warriors-02.jpg", caption: "The silver body, blue visor" },
+    ],
+    acquired: "",
+    notes: "The suit is the unit and the man in it is replaceable. That is what you have just said about this army, and it is the first time anything here has worked that way.\n\nThis collection is full of people who were put back together. The Salvager was discarded after an attack on civilians and rebuilt out of the Bin - Lego above the waist, not Lego below it - and he goes back in to pull others out. The Rebuilt is an archangel reassembled. The Mechanic repaired his own arm and his own skull. The Discarded's silver arm is the reason this world has cybernetics at all. Every one of those is a person who survived and carries the repair.\n\nThese did not survive. The soldiers died and the armour was kept, and what went back inside is a machine. That is the difference and it is the whole card: everywhere else here a rebuild saves somebody, and here it replaces them.\n\nThe nearest thing to it is the Vessel, an empty body kept on hand for the demigods to enter when they cannot be somewhere themselves - and even that is a body waiting for a soul. These are bodies that were given a machine instead. The other near miss is the Hijacked, who had his body taken and kept his mind. These kept the body and lost the mind, which is the same crime read backwards.\n\nAnd the plastic says it too. Both bodies are moulded and not Lego; both heads are Lego, helmet and printed face. Sigrid III is the inverse - a not-Lego body on Lego legs - but legs are legs. This is the head. In a collection where the face is the only thing that decides which deck a figure sits on, these two have had a Lego head fitted onto a not-Lego corpse, and the head is the part that is new.\n\nOne of the two bodies is brass and one is silver, so whatever was done was done to both units. Apart from the Warrior in the Gold Helm, that is the only thing so far that crosses them."
+  },
+
+  {
+    id: "the-yellow-spartan",
+    name: "The Yellow Spartan",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Halo Spartan in yellow.",
+    provenance:
+      "Not Lego - a moulded figure with articulated elbows and knees and " +
+      "sculpted boots no minifigure has. Yellow armour worn down to the " +
+      "undercoat along every raised edge, over dark grey underlayers at the " +
+      "thighs, the shins and the insides of the arms. A silver chestplate " +
+      "strapped on over the yellow with a harness across it, a grey belt, " +
+      "armoured shoulder caps. The helmet is yellow with a gold visor band " +
+      "across a black faceplate, and the paint has gone off the crown of it.",
+    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "spartan", "yellow", "worn"],
+    images: [
+      "images/the-yellow-spartan-01.jpg",
+    ],
+    acquired: "",
+    notes: "Third Spartan in the collection and the first filed against this world. The other two are both good and both got there for a stated reason: the Spartan is one of the Damaged, out of the spray-painted world, and the Red Spartan decided to join the good guys. Deciding is the operative word on that card - it is written as a choice, which means the side he came from was the other one.\n\nSo this one is filed on the same reasoning as the Halo Grunts: he belongs to the side the world notes name as the aggressor, and nothing has been said about him choosing otherwise. It is a faction assigned by what the world already says rather than by anything you told me about him, and it is one word to move.\n\nThe wear is the best thing on him. Yellow has gone off every raised edge and off the crown of the helmet, down to a darker undercoat, which is exactly the pattern armour wears in - the parts that stick out and get hit. Nothing here was printed to look worn; it got that way."
+  },
+
+  {
+    id: "the-odst-spartan",
+    name: "The ODST Spartan",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Halo ODST.",
+    provenance:
+      "The same moulded not-Lego build, in black almost all the way down - " +
+      "armoured shoulder caps, jointed arms to open claw hands, heavy boots. " +
+      "The helmet is black with a blue visor sunk into it and a small silver " +
+      "vent under the chin. Across the chest a slab of blue over silver " +
+      "plating with a pistol moulded into the middle of it, a silver belt " +
+      "below, and black plates down the legs with silver at the knee and the " +
+      "toe.",
+    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "odst", "black", "blue-visor"],
+    images: [
+      "images/the-odst-spartan-01.jpg",
+    ],
+    acquired: "",
+    notes: "Filed with the Yellow Spartan and for the same reason, which is the reason the Halo Grunts carry: the side rather than the man.\n\nHe is the darkest figure in the not-Lego half of this collection - black from the helmet down apart from the blue slab at the chest and the silver at the belt and the knees. That reads differently over there than it does among the minifigures. On the Lego side black has meant a whole shadow apparatus: the Shadow Soldiers, the Shadow King, the Shadow Troopers, the Purple Shadow, the black-kitted units that still have no group between them. Over here it is the first time the colour has turned up at all.\n\nThe pistol is moulded into the chest plate rather than held, which is worth recording. Almost every armed figure in this collection carries the weapon in a hand and can be disarmed by taking it off them. This one has it built into the armour."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */

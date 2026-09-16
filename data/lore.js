@@ -1627,6 +1627,39 @@ window.LORE = [
       "printed face: round eyes and a small smile against slanted sockets and " +
       "a jagged grin. A whole third of this world's moral geography was " +
       "opened by a difference in printing."
+  },
+
+  {
+    title: "The bodies outlived the soldiers",
+    text:
+      "The Stone Warriors have a practice, and it is new here. When a soldier " +
+      "inside one of those suits dies, the suit is kept and a robot is put " +
+      "into it, and the thing walks back out. Two of them are on the shelf: " +
+      "one brass body, one silver, both wearing the unit's own armour with a " +
+      "printed machine face under a black helmet.\n\n" +
+      "Putting people back together is the oldest running idea in this " +
+      "collection. The Discarded arrived with a silver arm and is the reason " +
+      "the civilization has cybernetics at all. The Salvager was thrown away " +
+      "after an attack on civilians and rebuilt out of the Bin - Lego above " +
+      "the waist, not Lego below it - and he goes back in to pull others out. " +
+      "The Mechanic repaired his own arm and his own skull. The Rebuilt is an " +
+      "archangel reassembled. Every single one of those is a person who " +
+      "survived, wearing the repair as history.\n\n" +
+      "This is the first time the repair has gone the other way. Nobody " +
+      "survived. The armour survived, and something else was put in it.\n\n" +
+      "The closest this world had to that idea was the Vessel - an empty body " +
+      "kept on hand so a demigod can act through it when they cannot be " +
+      "somewhere in person - and that body is waiting for a soul. These were " +
+      "given a machine instead. The other near miss is the Hijacked, who had " +
+      "villains take his body and leave his mind, so he watched himself " +
+      "attack people and could not stop. He kept the mind and lost the body. " +
+      "These kept the body and lost the mind.\n\n" +
+      "The plastic argues it as well. Both rebuilt figures are moulded " +
+      "not-Lego bodies with Lego heads on them - helmet and printed face - " +
+      "which is Sigrid III inverted, and inverted at the end that matters. He " +
+      "is a not-Lego body on Lego legs. These have had a Lego head fitted to " +
+      "a not-Lego corpse, in a collection where the face is the one thing " +
+      "that decides which side of the page a figure lives on."
   }
 
 ];
