@@ -95,4 +95,10 @@ window.FEATURED = [
   { id: "the-knock-off-captain",
     why: "The same figure as the Defector, down to the sunglasses - one red cap, one olive." },
 
+  { id: "the-crimson-ninja",
+    why: "The one card here written before the figure existed - a story holding a piece of concept art. He has since turned up, with a dragon on his hat." },
+
+  { id: "the-retired-senate-guard",
+    why: "Took the helmet off after a career of having no face, and the face underneath had worn away to two eyes and a smear." },
+
 ];

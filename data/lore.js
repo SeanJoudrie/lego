@@ -1181,6 +1181,14 @@ window.LORE = [
       "the database.\n\n" +
       "Five branded villains in four batches, across three franchises, after " +
       "five hundred and ninety figures with none.\n\n" +
+      "It did not stop there. There are fifty-four of them now, out of a " +
+      "hundred and eighty-nine bought figures: thirty-four from Star Wars, " +
+      "then Marvel, Ninjago and the Agents with four apiece, DC and Indiana " +
+      "Jones with two, and one each from Toy Story, Dragon Ball, Avatar and " +
+      "The Lord of the Rings. Ten franchises. The Agents are the sharpest " +
+      "case - four of them were bought and all four were filed against this " +
+      "world, which makes them the only theme in the collection with no good " +
+      "side at all.\n\n" +
       "It is worth saying what that streak meant. The enemy here was " +
       "hand-made, every one of them, for the entire life of the collection. " +
       "Quinn, the shadow king, the Iron League, the Verdauf traitors, the " +

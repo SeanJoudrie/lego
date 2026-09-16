@@ -20751,6 +20751,102 @@ window.COLLECTION = [
     notes: "Second figure out of the rip-off set, after the Knock-off Adventurer, and the two of them are the whole point of each other: a copy of the hero and a copy of the man he fights, sold together by somebody who was not allowed to use either name.\\n\\nThat makes eight Knock-offs in this collection now - figures out of other makers rather than out of Lego, which the lore says went to war - and this is the third of the eight on the villain side, after the Knock-off Captain and the Successful Replica.\\n\\nHe is filed bad because of what he is holding and what he is wearing and who he was sold next to. Nothing was said about him, so if that is wrong it is one word."
   },
 
+  {
+    id: "the-senate-guards",
+    name: "The Senate Guards",
+    variant: "Two figures",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Guard",
+    group: "The Senate Guard",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Guards of the Senate.",
+    provenance:
+      "Two of them, and not the same build. Both wear the blue Senate helmet - " +
+      "a smooth dome rising to a short crest at the top, with a black visor cut " +
+      "in a wide V across the eyes and nothing of the face showing. The first is " +
+      "the plainer: a torso printed with light armour panels over a belt of " +
+      "pouches, blue arms, a white hand, and plain blue legs with nothing on them " +
+      "at all. The second is fully kitted - the same panels drawn heavier and " +
+      "darker, a black belt across the waist, two black hands, and blue legs " +
+      "printed with dark chevrons down the thighs and plates at the knees.",
+    tags: ["star-wars", "branded", "senate", "guard", "blue", "helmet", "visor", "pair"],
+    images: [
+      "images/the-senate-guards-01.jpg",
+    ],
+    acquired: "",
+    notes: "One card, two figures, the way the Shadow Troopers and the Prince's Guards are done - and the two of them are not the same kit, one plain and one fully printed, which normally means a rank difference and nobody has said whether it is one here.\n\nThey guard a building rather than a person, and that is new. Every other guard in this collection stands in front of somebody: Heavy and the Guardsman and the Prince's Guards at the Royal Household, the Ninja Golem in front of a golden sword, the Jedi Palace Guard at a palace, the Royal Guard in front of an emperor, the Gamorrean Guard at Jabba's door. These stand in front of a parliament.\n\nGuard is written as the job on three cards so far - the Jedi Palace Guard good, the Royal Guard and the Gamorrean Guard bad. This card and the retired one turn that over: five now, three good against two.\n\nWorth flagging and not written in. The Imperial Royal Guard is catalogued here, filed bad, standing in front of Palpatine, who is also catalogued. In the films the red guard is what the blue guard turned into once the Senate stopped mattering. That is a real line between two cards sitting on opposite decks, and I have not drawn it, because you have not said it. One word and it goes in.\n\nSmaller thing, and it is only a coincidence of names: this collection already has a Supreme Chancellor. He is a sting ray in all green, and he is filed with the villains."
+  },
+
+  {
+    id: "the-retired-senate-guard",
+    name: "The Retired Senate Guard",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Guard",
+    group: "The Senate Guard",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A Senate guard, retired. He has the helmet off.",
+    provenance:
+      "The same blue kit as the fully printed one of the pair - armour panels " +
+      "drawn heavy in black, a black belt at the waist, black hands, blue legs " +
+      "with dark chevrons down them - and no helmet at all. Under it is a plain " +
+      "tan head with the face very nearly gone: two small dark eyes still hold, " +
+      "there is a ghost of brows above them and a long smear where the mouth " +
+      "was, and everything else has rubbed back to bare plastic. The front of " +
+      "the torso is scratched through in two places.\n\n" +
+      "Same build as the second figure on the Senate Guards card, so this may be " +
+      "that figure with the helmet lifted off rather than a third body. Say " +
+      "which and the two cards adjust.",
+    tags: ["star-wars", "branded", "senate", "guard", "retired", "helmetless", "worn", "faded-face"],
+    images: [
+      "images/the-retired-senate-guard-01.jpg",
+    ],
+    acquired: "",
+    notes: "The helmet is the whole of the Senate Guard - a blue dome, a black visor, and no face anywhere. This one took it off, and what is underneath is a face worn away to almost nothing.\n\nWear reads as history in this collection rather than as damage. The Retired Clone has the camouflage scuffed off his armour and can still do the parades, the Battered Clone Pilot is scraped down to the plastic, the Stormtroopers and the Classic Clones are catalogued with the rubbing recorded as part of what they are. Those are all worn armour. This is a worn face, and no other card here has one.\n\nThird man in the collection whose name is built on being retired, after the Retired Clone and the Retired General. The General's retirement is a cover and he is filed bad. This one is filed good, and nothing has been said about what he does now."
+  },
+
+  {
+    id: "the-third-serpent",
+    name: "The Third Serpent",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Ninjago",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Another snake, out of Ninjago.",
+    provenance:
+      "A moulded snake head in bright orange, long and wedge-shaped with the jaw " +
+      "drawn back into something close to a smile, black over the top of the " +
+      "skull and down the back of the neck, one visible eye black with an orange " +
+      "slit through it. Orange torso, arms, hands and legs. Black shoulder " +
+      "armour clipped over the top, a piece to each shoulder, each carrying a " +
+      "pair of grey spikes that stand straight out sideways. The torso is " +
+      "printed with an ornate panel - a horned mask worked in brown and copper " +
+      "over a field of blue and olive, a studded olive belt under it - and the " +
+      "pattern carries down onto the legs with orange flame shapes at the thighs.",
+    tags: ["villain", "ninjago", "branded", "snake", "orange", "shoulder-armour", "spikes"],
+    images: [
+      "images/the-third-serpent-01.jpg",
+    ],
+    acquired: "",
+    notes: "Third snake and a third build. The first has a cobra hood spread back from the skull and spiral eyes. The second has no hood and four orange spines standing out of the crown. This one has neither - a smooth orange skull, black down the spine, and armour bolted over the shoulders. In Ninjago the snakes come in tribes, and three different heads most likely means three different tribes. None of the three cards has a proper name on it yet.\n\nHe is the first of them wearing anything. The other two are printed plastic and nothing more; this one has a piece clipped on over the figure.\n\nStill no group. Three snakes is not a tribe until somebody says which tribes they are - and if it turns out they are all one tribe, that is one word and the group gets made.\n\nThat is four Ninjago villains against seven good: an impostor and three serpents, against six ninja and a ninja who goes to sea. Outside Star Wars no branded theme here has produced more enemies than Ninjago, Marvel and the Agents, and all three are level at four."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
@@ -21614,20 +21710,31 @@ window.COLLECTION = [
     relations: [],
     rating: 0,
     background:
-      "An evil ninja, in crimson. The figure has not been photographed yet - " +
-      "this card is holding his concept art until he turns up.",
+      "An evil ninja, in crimson, with a baby dragon for a compatriot. The " +
+      "dragon rides on the crown of his hat.",
     provenance:
       "From the art: a wide woven straw hat with a long red feather through " +
       "the crown, a pale mask with a red domino worked across the eyes, and no " +
       "face behind it. White and crimson lamellar over full sleeves, a red sash " +
       "at the waist, white gloves, and a red cloak streaming off one shoulder. " +
-      "A katana held level in both hands.",
-    tags: ["ninja", "villain", "crimson", "masked", "concept-art", "no-photograph"],
+      "A katana held level in both hands.\n\n" +
+      "From the figure, photographed at last: a wide conical hat panelled in " +
+      "red and white with a blue stripe over the crown. A yellow head printed " +
+      "with a black and red mask spread across the eyes and the bridge of the " +
+      "nose, the mouth showing underneath it. A red torso with a silver-white " +
+      "lamellar plate across the chest, scuffed back to bare plastic through " +
+      "the middle of it, white sleeves, and a black and red sash at the waist. " +
+      "One pale grey hand and one red. Red legs printed with black bars and a " +
+      "small crest at the hip, and a gold scimitar in the right hand. Standing " +
+      "upright on the crown of the hat, a dark green dragon no taller than his " +
+      "head.",
+    tags: ["ninja", "villain", "crimson", "masked", "dragon", "straw-hat", "scimitar", "concept-art"],
     images: [
-      { src: "images/the-crimson-ninja-01.jpg", caption: "Concept art - no photograph of the figure yet" },
+      { src: "images/the-crimson-ninja-02.jpg", caption: "The figure, with the dragon on his hat" },
+      { src: "images/the-crimson-ninja-01.jpg", caption: "Concept art" },
     ],
     acquired: "",
-    notes: "The first card in five hundred and ten with no photograph of the figure on it. Everyone else here is a thing on a shelf first and a story second; he is the other way round for now. Fourth bad figure, and the second villain who is a person rather than a nameless squad. No group written: this world has a Ninja Lineage six strong and nobody has said whether he came out of it or came for it."
+    notes: "He has turned up. This was the one card in the collection written the wrong way round - a story with no figure under it, holding a piece of AI art while everybody else here was a thing on a shelf first and a story second. Now there is a photograph, and the art can be read against the plastic.\n\nWhat the art got right is the hat and the armour. A wide conical hat, and a white lamellar plate worn over red with white sleeves - that is the figure exactly, sleeves included.\n\nWhat it invented is the feather through the crown, the red cloak, the katana held level in both hands, and the face. The art gives him a blank mask with nothing behind it. The figure has a yellow head with a mouth, and the mask is painted across the eyes, which makes him a man in warpaint rather than a thing with no face. The sash is black where the art has it red, only one of the two gloves is white, and the sword is a gold scimitar.\n\nThree other cards here carry art and a figure both - the Scrap Adventurer, the Ginger Adventurer and the Young Watchman. He is the fourth, and the only one where the art came first.\n\nThe dragon is new. Dragons have been in this collection five times and every one of them was a picture: the Dragon Knight's gold helm and the white dragon on his shield, the Evil Cavalryman's gold one, the Evil Swordsman's red one, the gold dragon breathing ice across Zane's gi, the black one on Iron Fist's chest. Heraldry, print, a badge worn by somebody. This is the first dragon here that is a thing rather than a device, and it is standing on a villain's hat.\n\nIt is also only the third animal to share a card with a person - the Explorer has his monkey, the Slime King has his slimes, and Widow the horse is the one animal with a card of her own. All of those are on the good side. This is the first animal that belongs to somebody on the bad one, and you called it his compatriot rather than his pet, which is not the same relationship.\n\nStill open, from the day this card was written: this world has a Ninja Lineage and nobody has said whether he came out of it or came for it."
   },
 
 
