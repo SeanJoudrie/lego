@@ -83,7 +83,20 @@ window.LORE = [
       "figure. A captain of the knock-offs, identical to him down to the " +
       "sunglasses and the bandoliers, wearing an olive cap instead of a red " +
       "one, standing on the side the Defector walked away from. Two casts of " +
-      "one mould, one on each side of the war."
+      "one mould, one on each side of the war.\n\n" +
+      "The Mega Bloks war has an army in it now. For a long time the only two " +
+      "figures out of it here were exceptions to their own side - the prince " +
+      "who argued for stopping it, and a Spartan who decided to join the good " +
+      "guys. One dissenter and one defector, and not a single soldier. Two " +
+      "grunts have since arrived: identical bodies, no story on either, " +
+      "infantry of the side the war was started by.\n\n" +
+      "And the material argument has gone one step further than the Brute " +
+      "Prince took it. Sigrid III of the Stone Warriors is a moulded " +
+      "not-Lego body from the chest up and a printed Lego minifigure from the " +
+      "waist down. Not a knock-off figure standing for a knock-off society - " +
+      "a figure made out of both sides of the war at once, on one pair of " +
+      "legs. Nobody has said what that means about him, so nothing is claimed " +
+      "from it; it is recorded because the plastic says it."
   },
 
   {

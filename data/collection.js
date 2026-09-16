@@ -21347,6 +21347,134 @@ window.COLLECTION = [
     notes: "These open the third deck.\n\nThe site has had a neutral faction built into it since the day it was written - labelled In Between, coloured purple, sitting in the code between the good and the bad with a comment saying it appears by itself the moment somebody is neutral. Nobody ever was. Seven hundred and ninety-one figures went onto two decks and the third stayed empty the whole time, a working section of the page that nothing had ever triggered. These three are the first people in it.\n\nTwo cards have been asking for it by name. Kazim's card offered it to him outright: he was filed good with the reasoning written out, and the note said there was a third option that had never been used and one word would open it. And the world note about the Pharaoh says she is on the bad deck because she arrived in a run of villains, that cursing the people who rob your own grave is the most defensible thing anybody over there has done, and that she would be the collection's first neutral the day somebody said so. Neither of them was it. Three skeletons were, because you said the word.\n\nWhat makes them neutral is a face. They are the same mould, the same colour and the same age as the two evil ones, down to the shade of cream the white has gone. The only difference anywhere on the plastic is the printing - round eyes and a small smile instead of slanted sockets and a jagged grin. Nothing else in this collection has been put on a different deck on a margin that thin. The closest is the Knock-off Captain and the Defector, who are the same figure down to the sunglasses and are told apart by the colour of a cap, and even they are on the same two sides everybody else is on.\n\nThey are also the only figures here who are not in the war. Seven hundred and ninety-two other cards and every one of them is for something or against it, including the ones who came through uninvited to stop the fighting - the Blue Demigod wanted it ended and is still filed bad, because wanting it ended was a thing he wanted. These three want nothing. They are just dead, and the page now has somewhere to put that."
   },
 
+  {
+    id: "the-halo-grunts",
+    name: "The Halo Grunts",
+    variant: "Two of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Two Halo grunts - the infantry of the Mega Bloks side.",
+    provenance:
+      "Two of them, and not Lego at all: moulded figures with articulated " +
+      "joints, hunched forward on wide splayed feet no minifigure has. Dark " +
+      "grey bodies sculpted with plating down the limbs and arms too long for " +
+      "the torso, ending in three-clawed hands. A dark red armoured chestplate " +
+      "on each, pale spikes standing out at the shoulders, and a small knot of " +
+      "red and silver at the throat. The head is a squat hooded mass set low " +
+      "between the shoulders with a breathing pack humped behind it. Both are " +
+      "the same figure.",
+    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "grunt", "soldier", "pair"],
+    images: [
+      "images/the-halo-grunts-01.jpg",
+    ],
+    acquired: "",
+    notes: "The war finally has an army in it. The Halo Mega Bloks wars have been in the world notes since early on - a real war, with the Mega Bloks as the aggressor, ended by talking rather than by winning - and until now the only two figures out of it on this shelf were exceptions to their own side. The Brute Prince is a prince of that world who argued for stopping it. The Red Spartan decided to join the good guys. One dissenter and one defector, and no soldiers.\n\nThese are the soldiers. Two identical bodies with no story on them, out of the side the lore names as the aggressor, which is why they are filed here. It is a faction assigned by what the world already says rather than by anything you said about these two, so it is one word to move them.\n\nThey are also the first thing in this collection that is not Lego and not a person. Every other not-Lego figure here is somebody - the Ancient out of a Tonka set who was here before the civilization, the Defector and his opposite number, the Brute Prince, the Red Spartan, the knock-off adventurer and officer. These are a species and a rank, and there are two of them because there were two in the box.\n\nWorth recording what they do to the group. The Knock-offs held five cards, four of them good, and the whole idea of the group has been that being made by a rival company is a fact about your body rather than about your character. This card makes six, and the split moves to four and two."
+  },
+
+  {
+    id: "sigrid-iii",
+    name: "Sigrid III",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "The Stone Warriors",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Sigrid III, of the Stone Warriors.",
+    provenance:
+      "Not one thing. The head and the whole upper body are moulded and not " +
+      "Lego: a pale sculpted face with a heavy brow and two red slashes for " +
+      "eyes, an olive hood falling round it like a beard, a dark steel torso " +
+      "worked with rivets over a chainmail skirt and a studded strap across " +
+      "the chest, big segmented shoulder plates and armoured arms ending in " +
+      "claw hands.\n\n" +
+      "Below the waist he is a Lego minifigure. Standard grey legs, printed " +
+      "with a lime belt of studs at the hip, a red disc carrying a black " +
+      "trident on one thigh, pale yellow panels under that and white shapes at " +
+      "the shins.",
+    tags: ["villain", "stone-warriors", "not-lego", "hybrid", "armour", "named", "red-eyes", "claw-hands"],
+    images: [
+      "images/sigrid-iii-01.jpg",
+    ],
+    acquired: "",
+    notes: "He is built out of both sides of a war this world has actually had.\n\nThe world note on the knock-off societies calls the Brute Prince the clearest case in the collection of the story and the material being the same thing - he is from a knock-off society because he is a knock-off minifigure. This one goes a step past that. He is a moulded not-Lego body from the chest up and a printed Lego minifigure from the waist down, in one figure, standing on one pair of legs. The two kinds of plastic that went to war are what he is made of.\n\nNobody has said anything about that, so nothing is claimed from it. It is on the card because it is a fact about the plastic rather than a guess about the man, which is how the Sarah and Sean pairing was handled.\n\nThe numeral is the other thing. He is the only figure in this collection with a regnal number - Sigrid the third, which means there were two before him and there is a line - and the only other figures here carrying an ordinal in the name are seconds and thirds of a type, the Second Serpent and the Third Serpent, which is the catalogue counting rather than the world doing it. A third of a name is a dynasty. Nothing has been said about the first two.\n\nFiled bad, and the reasoning is thin enough to be worth stating. He arrived in the same message as the Halo Grunts and no side was given for anybody in it. The only evidence on the plastic is red eyes under an angry brow and a body armoured head to foot, and the tie-break used was the company he arrived in - which is exactly the tie-break the Pharaoh's world note complains about. One word turns it over, and the neutral deck is open now too."
+  },
+
+  {
+    id: "the-copper",
+    name: "The Copper",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "The Stone Warriors",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "The copper one.",
+    provenance:
+      "The same moulded build as the others, in oxidised green - the colour " +
+      "copper goes after it has been out in the weather, and it runs right " +
+      "through the plastic rather than sitting on top of it. A sculpted head " +
+      "under a ridged cap with two long pale antlers standing off the crown, " +
+      "chipped white at the tips. The torso is crowded: a strap across the " +
+      "chest, a round-eyed creature worked into the plate at one shoulder, a " +
+      "ring and a gourd hung at the belt. Armoured arms to claw hands, " +
+      "armoured legs panelled at the thigh and the shin. Not one printed mark " +
+      "anywhere - all of it is moulded.",
+    tags: ["villain", "stone-warriors", "not-lego", "copper", "verdigris", "antlers", "armour", "unprinted"],
+    images: [
+      "images/the-copper-01.jpg",
+    ],
+    acquired: "",
+    notes: "Named for his metal, which is what you called him. Green because copper goes green, and the green is in the plastic rather than painted on, so he was made oxidised - he did not age into it.\n\nThat makes him the only figure in the collection whose colour is a process. Wear is everywhere here and it always happened to somebody: the Retired Clone's camouflage scuffed off, the Retired Senate Guard's face rubbed to two eyes and a smear, the skeletons gone cream. Those are figures that got old. This one was manufactured already old, which is a different idea, and it is the same idea as a statue.\n\nThe antlers are unique here too. This collection has horns - the Demon Lord, the horned astromech, the stone warrior in the red horns standing beside him - and horns curve out of a skull. These branch. Nothing else on either deck has antlers.\n\nFiled with the Stone Warriors on the strength of how you listed them: Sigrid the third of the Stone Warriors, then the copper, then additional stone warriors. Additional says the ones before were the same thing. If he is not one of them, it is one word."
+  },
+
+  {
+    id: "the-stone-warriors",
+    name: "The Stone Warriors",
+    variant: "Two of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "The Stone Warriors",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "More of the Stone Warriors.",
+    provenance:
+      "Two more of the same moulded build, both in bare steel. The first wears " +
+      "a horned helm - a sculpted snarling face set behind a crested visor, " +
+      "with two dark red horns curving up and out of the crown - over a chest " +
+      "of overlapping scales and buckled pouches, heavy shoulder plates and " +
+      "panelled legs. The second is helmed differently: a closed visor cut " +
+      "with vertical slits and a small plume standing off the top, over the " +
+      "same riveted chest, chainmail skirt and studded strap that Sigrid " +
+      "wears. Claw hands on both, and not a printed marking on either.",
+    tags: ["villain", "stone-warriors", "not-lego", "armour", "horns", "helm", "steel", "pair"],
+    images: [
+      { src: "images/the-stone-warriors-01.jpg", caption: "In the red horns" },
+      { src: "images/the-stone-warriors-02.jpg", caption: "In the plumed helm" },
+    ],
+    acquired: "",
+    notes: "Two figures on one card, because you sent them as additional rather than as anybody in particular.\n\nThe second of them settles something about Sigrid. He wears the identical torso - the same rivets, the same chainmail skirt, the same studded strap across the chest - which means Sigrid's armour is the unit's armour and not a king's. Whatever the numeral after his name buys him, it is not a different suit. The only thing that separates Sigrid from a soldier is the head, and his is a face where these are helmets.\n\nA new group, The Stone Warriors, named by you and three cards deep on the day it was made. That is unusual here - most groups in this collection started as a name with nobody in it, the alien mercenaries and the Insect Captain's insects and the Bionics Team - and this is the second to arrive as a going concern, after the Sting Rays.\n\nThey are also the largest body of moulded not-Lego figures in the collection. Everything else out of another maker here came one or two at a time, and every one of them was somebody: the Ancient, the Defector, the Brute Prince, the Red Spartan, the Knock-off Captain. Between these two, the Copper, Sigrid and the two Halo Grunts, six not-Lego figures arrived in a single batch, which is more than the whole shelf held before it."
+  },
+
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
 
   {
