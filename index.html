@@ -466,9 +466,9 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789537617"></script>
-<script src="data/lore.js?v=1789537617"></script>
-<script src="data/featured.js?v=1789537617"></script>
+<script src="data/collection.js?v=1789538068"></script>
+<script src="data/lore.js?v=1789538068"></script>
+<script src="data/featured.js?v=1789538068"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"order" };
@@ -548,6 +548,7 @@ function matches(f) {
 let deck = new Map();
 function reshuffle() {
   deck = new Map(FIGS.map(f => [f._i, Math.random()]));
+  dealPlates();
 }
 
 const SORTS = {
@@ -581,7 +582,7 @@ $("sides").innerHTML = SIDES.map((k, i) =>
 ).join("");
 $("rail").innerHTML = SIDES.map(k => `<section class="deck" data-side="${k}">
     <section class="plates" id="plates-${k}" hidden>
-      <h2>Plates<em>a few worth stopping on</em></h2>
+      <h2>Plates<em>rated highest, shuffled</em></h2>
       <div class="strip" id="platestrip-${k}"></div>
     </section>
     <div class="grid" id="grid-${k}"></div>
@@ -716,16 +717,31 @@ function card(f) {
     </button>`;
 }
 
-// The plate strip is a landing feature: it shows the hand-picked run while you
-// are looking at the whole catalogue, and gets out of the way the moment you
-// search or filter, because then you are looking for something specific.
-const PLATES = (window.FEATURED || [])
-  .map(p => ({ ...p, fig: FIGS.find(f => f.id === p.id) }))
-  .filter(p => p.fig);
+// The plate strip is a landing feature: it shows the figures rated highest,
+// and gets out of the way the moment you search or filter, because then you are
+// looking for something specific. featured.js is no longer the guest list - it
+// is the copy: the line printed under a plate, looked up by id. A rated figure
+// with no line written yet still gets a plate, just a quieter one.
+//
+// The order is dealt fresh on load and again whenever Shuffle is pressed, so
+// the same few are not always the ones on top.
+// Drawn-once guard for each deck's strip; cleared whenever the plates are
+// re-dealt. Declared before dealPlates() because that runs on load.
+const platesDrawn = {};
+const PLATE_WHY = new Map((window.FEATURED || []).map(p => [p.id, p.why]));
+const TOP_RATING = Math.max(0, ...FIGS.map(f => f.rating || 0));
+let PLATES = [];
+function dealPlates() {
+  PLATES = FIGS
+    .filter(f => TOP_RATING > 0 && (f.rating || 0) === TOP_RATING)
+    .map(fig => ({ fig, why: PLATE_WHY.get(fig.id) || "", k: Math.random() }))
+    .sort((a, b) => a.k - b.k);
+  for (const k in platesDrawn) delete platesDrawn[k];
+}
+dealPlates();
 
 // Each plate sits on the deck its figure belongs to, so the good side opens on
 // its own picks and the bad side on its own.
-const platesDrawn = {};
 function renderPlates() {
   const idle = !state.q && FILTER_KEYS.every(k => state[k] === "all");
   for (const k of SIDES) {

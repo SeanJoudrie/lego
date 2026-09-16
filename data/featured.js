@@ -101,4 +101,85 @@ window.FEATURED = [
   { id: "the-retired-senate-guard",
     why: "Took the helmet off after a career of having no face, and the face underneath had worn away to two eyes and a smear." },
 
+  /* ---- Added when the plate strip became rating-driven. Every figure rated
+     five stars gets a plate; these are the lines for the ones that had none. ---- */
+
+  { id: "the-second",
+    why: "Dual green sabers and a trail of neon behind him. The helmet is real salvage - found behind a microwave in an empty house." },
+
+  { id: "the-outcast-prince",
+    why: "The Prince's brother, who went off the rails on purpose. A smuggler on a sand planet, and he never killed anybody." },
+
+  { id: "brute",
+    why: "Secretary of War. Loud, gruff, and by every account a very nice guy." },
+
+  { id: "drake",
+    why: "Known for going loud, and for finishing the mission anyway." },
+
+  { id: "the-jedi",
+    why: "A blue saber that extends to a staff, wielded by somebody with no interest in doing any of it properly." },
+
+  { id: "the-aviator",
+    why: "Flies anything that is not a spacecraft, and fixes it afterwards. Very serious about maps." },
+
+  { id: "the-beowulf-jedi",
+    why: "Carries the soul of a legendary ancient fighter, reborn with the Force. Not the sharpest, and it has never mattered." },
+
+  { id: "the-scrap-adventurer",
+    why: "Built out of scrap and sent into the jungle. Blue mirrored aviators and a sword on the back." },
+
+  { id: "the-ace",
+    why: "The Adventure Crew's pilot, out of the age when flying had only just been invented. He has flown Indiana Jones somewhere." },
+
+  { id: "the-in-betweener",
+    why: "Has sat and spoken with the gods of several worlds. Dresses out of whatever the in-between had lying around." },
+
+  { id: "phalanx",
+    why: "A nanobot virus that found an ancient alien skull and built a body out of it. He eats planets, and he is clever about it." },
+
+  { id: "the-lead-alien-mercenary",
+    why: "Leads the alien mercenaries and is skilled in every kind of combat there is. The moustache does a lot of work." },
+
+  { id: "the-red-baron",
+    why: "An assassin who moves through shadow and takes skulls. Red spiked pauldrons, and a streak of violence behind him." },
+
+  { id: "the-iron-league-captain",
+    why: "Captain of the highest-rated bounty hunters in the galaxy. They can kill anybody, and the price says so." },
+
+  { id: "the-iron-league-assassin",
+    why: "Trained for killing underwater and in vacuum. Goggles pushed up, air hose at the throat, grinning." },
+
+  { id: "the-iron-league-rifleman",
+    why: "Blue lenses, black cheek flashes and a fanged grin. The League's long gun." },
+
+  { id: "quinns-second-in-command",
+    why: "Runs Quinn's machines and plans the invasions. White beard, teal eyepatch, targeting scope on the shoulder." },
+
+  { id: "the-bionic-brother",
+    why: "Bionic legs and super strength, built for getting close. Brother to the man who leads the aliens." },
+
+  { id: "the-guardsmans-partner",
+    why: "The most efficient killer in this world, and he was somebody's partner first. He does not threaten anybody; he arrives." },
+
+  { id: "the-dictator",
+    why: "Already runs a planet. Aligned with Quinn to get the rest of the outer rim." },
+
+  { id: "the-dapper-bounty-hunter",
+    why: "Enormous black eyes behind a gold beak, and a better wardrobe than the face suggests. Does not enjoy killing, is simply excellent at it." },
+
+  { id: "the-current",
+    why: "An entity made of electricity, run into weapons to power them. Lit from the inside, grinning." },
+
+  { id: "the-orc-queen",
+    why: "Wears a lion's head as a crown, the beast's own eyes printed above her own." },
+
+  { id: "the-domestic-security-captain",
+    why: "A gold circuit board across the chest and goggles pushed up on the brow." },
+
+  { id: "the-slime-king",
+    why: "Lime from crown to boots, two black dots for eyes and no mouth at all. His slimes are friendly." },
+
+  { id: "steel",
+    why: "The ultimate leader of the droid armies. His card was written before his army existed; it arrived one batch later." },
+
 ];
