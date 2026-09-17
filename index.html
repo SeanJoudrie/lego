@@ -494,10 +494,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789679420"></script>
-<script src="data/scenes.js?v=1789679420"></script>
-<script src="data/lore.js?v=1789679420"></script>
-<script src="data/featured.js?v=1789679420"></script>
+<script src="data/collection.js?v=1789680662"></script>
+<script src="data/scenes.js?v=1789680662"></script>
+<script src="data/lore.js?v=1789680662"></script>
+<script src="data/featured.js?v=1789680662"></script>
+<script src="data/order.js?v=1789680662"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -598,137 +599,196 @@ function reshuffle() {
   dealPlates();
 }
 
-// How senior somebody is, read off the words already on their card. This is a
-// browsing aid, not a claim: the catalogue does not store a rank number for
-// anybody, so the order inside a unit is worked out from the job title. Lower
-// score sorts first, so a commander comes before his troopers.
-const RANKS = [
-  [/\b(first man|ultimate|supreme|cosmic deity|demigod|archangel)\b/i, 0],
-  [/\b(king|queen|emperor|empress|pharaoh|chancellor|dictator|governor|prince|princess)\b/i, 5],
-  [/\b(commander of|marshal|admiral|general|warlord)\b/i, 10],
-  [/\b(commander|second in command|chief|head of)\b/i, 15],
-  [/\b(captain|master|lord|leader|boss)\b/i, 20],
-  [/\b(lieutenant|sergeant|squad leader|foreman|mentor|instructor)\b/i, 25],
-  [/\b(commando|arc|elite|guard|honor guard)\b/i, 30],
-  [/\b(sniper|pilot|medic|engineer|technician|scout|gunner|armorer|bomber|specialist)\b/i, 35],
-  [/\b(trooper|soldier|rifleman|infantry|militia|warrior|knight|ninja|droid|crew)\b/i, 45],
-  [/\b(recruit|cadet|apprentice|padawan|trainee|child|orphan)\b/i, 60],
-];
-const seniority = f => {
-  const words = `${f.rank || ""} ${f.role || ""} ${f.name || ""}`;
-  for (const [re, score] of RANKS) if (re.test(words)) return score;
-  return 50;                                   // no title at all: with the ranks
-};
+/* ---- the order things come in -------------------------------------------
 
-// The lost are catalogued as a block at the end of the collection and stay one,
-// whatever else moves. Declared here because the orders below all read it.
-const isLost = f => (f.tags || []).includes("lost");
+   The order they were added in is the importance order. That is the whole
+   rule. The first cards are the people this world is about - the First Man,
+   the Prince, the royal household - the villains were added as a run starting
+   with Quinn, the firefighters sit above the civilians, the civilians are the
+   last thing before the Star Wars figures. Nothing here reads a rank off a job
+   title and reorders anybody by it. That was tried and it was wrong.
 
-/* ---- the shape ----------------------------------------------------------
+   Three things happen on top of the added order, and only three.
 
-   The order these were added in is not arbitrary and nothing here is allowed
-   to overwrite it: the first couple of dozen cards are the people this world
-   is about - the First Man, the Prince, the royal household - the firefighters
-   sit above the civilians, the civilians are the last thing before the Star
-   Wars figures, and the branded figures were deliberately added last. That is
-   the backbone.
-
-   Two things are done on top of it, and only two. Branded figures are held
-   below the customs even when one of them was added early. And anybody who
-   belongs to a named unit is moved next to the rest of that unit, wherever
-   they happened to be added - Commander Gree arrived seven hundred cards after
-   the other clone commanders and now stands with them. The unit itself does
-   not move: it sits where its earliest member put it.
+   1. Branded figures go last. All of them, on every deck, with no exception
+      made for units - a custom clone commander is a custom figure.
+   2. Anybody in a named unit moves next to the rest of that unit, wherever
+      they were added. The unit itself does not move: it sits where its
+      earliest member put it, and inside it everybody stays in added order.
+   3. Anything you have said out loud, in data/order.js, beats all of that.
 */
 
-// A unit's position is its earliest member's - counted per side, because seven
-// units here have somebody on the other one. The Traitor Captain is filed
-// inside the Verdauf and the Verdauf start at card twenty-three, but he should
-// not therefore open the enemy deck: over there his unit begins with him.
-// A unit is custom or branded by what most of it is, so three custom clones are
-// not pulled out of a branded legion and one custom droid does not drag the
-// droids up with him.
+// The lost are catalogued as a block at the end and stay one, whatever moves.
+const isLost = f => (f.tags || []).includes("lost");
+
+// A unit's position is its earliest member's - counted per side and per kind of
+// figure, because seven units here have somebody on the other side and four
+// have both custom and branded members. The Traitor Captain is filed with the
+// Verdauf and the Verdauf start at card twenty-three, but over on the enemy
+// deck his unit begins with him.
 const UNIT = {};
 for (const f of FIGS) {
   if (!f.group) continue;
-  const u = UNIT[f.group] || (UNIT[f.group] = { anchor: {}, custom: 0, branded: 0, members: [] });
-  u.anchor[f.faction] = Math.min(u.anchor[f.faction] ?? f._i, f._i);
-  u[f.origin === "branded" ? "branded" : "custom"]++;
+  const u = UNIT[f.group] || (UNIT[f.group] = { anchor: {}, members: [] });
+  const scope = f.faction + "|" + f.origin;
+  u.anchor[scope] = Math.min(u.anchor[scope] ?? f._i, f._i);
   u.members.push(f);
 }
-for (const g in UNIT) UNIT[g].members.sort((a, b) => seniority(a) - seniority(b) || a._i - b._i);
+for (const g in UNIT) UNIT[g].members.sort((a, b) => a._i - b._i);
 
-const anchorOf  = f => (f.group && UNIT[f.group] ? (UNIT[f.group].anchor[f.faction] ?? f._i) : f._i);
-const brandedOf = f => (f.group && UNIT[f.group]
-  ? (UNIT[f.group].branded > UNIT[f.group].custom ? 1 : 0)
-  : (f.origin === "branded" ? 1 : 0));
+const anchorOf = f => (f.group && UNIT[f.group]
+  ? (UNIT[f.group].anchor[f.faction + "|" + f.origin] ?? f._i)
+  : f._i);
 
 const shapeSort = (a, b) =>
-     (isLost(a) ? 1 : 0) - (isLost(b) ? 1 : 0)   // the lost stay a block at the end
-  || brandedOf(a) - brandedOf(b)                 // customs first, branded below them
-  || anchorOf(a)  - anchorOf(b)                  // then where you put them
-  || seniority(a) - seniority(b)                 // inside a unit, rank first
-  || a._i - b._i;
+     (isLost(a) ? 1 : 0) - (isLost(b) ? 1 : 0)                            // the lost stay last
+  || (a.origin === "branded" ? 1 : 0) - (b.origin === "branded" ? 1 : 0)  // customs, then branded
+  || anchorOf(a) - anchorOf(b)                                           // units where they started
+  || a._i - b._i;                                                        // inside them, added order
+
+// What you have said out loud, applied after the sort so it lives in one file
+// you can read rather than buried inside a comparator.
+const STATED = window.ORDER || {};
+const BY_ID  = new Map(FIGS.map(f => [f.id, f]));
+
+function applyStated(arr) {
+  let out = arr.slice();
+  const pinned = [];
+  for (const id of (STATED.first || [])) {
+    const i = out.findIndex(f => f.id === id);
+    if (i >= 0) pinned.push(out.splice(i, 1)[0]);
+  }
+  out = pinned.concat(out);
+  for (const id of Object.keys(STATED.after || {})) {
+    const i = out.findIndex(f => f.id === id);
+    if (i < 0) continue;
+    const [f] = out.splice(i, 1);
+    const at = out.findIndex(x => x.id === STATED.after[id]);
+    if (at < 0) out.splice(i, 0, f);                  // target filtered out: leave it be
+    else out.splice(at + 1, 0, f);
+  }
+  return out;
+}
+
+const shapeOrder = arr => applyStated(arr.slice().sort(shapeSort));
 
 /* ---- the combined deck --------------------------------------------------
 
-   The point of putting both sides on one deck is adjacency. Most of the
-   relationships here cross the line: the Commissioner and the apprentice who
-   left him for dead, the Green Rangers and General Shepherd, the Verdauf and
-   the brother who sold them, the dive team and the two men who turned on it.
-   On the side decks those people are a swipe apart. Here they stand together.
+   Both sides on one deck, and the point of it is adjacency. The good side and
+   the bad side are each in their own order, then dealt out in turn - a block
+   of the good, a block of the bad, a block of the good - sized so the two run
+   out together, with the good always going first. That gives the deck its
+   shape: the First Man and the people around him, then Quinn and the people
+   around him, then the next of each, and down.
 
-   Two passes. First everybody is put in an order of standing - the ranked gods,
-   then the figures rated highest, then the officers, then the rest - and inside
-   each of those bands the good side is laid out before the bad. That is what
-   gives the deck its shape: the First Man, then the leading good characters,
-   then the leading villains, then the next rank of each, and so on down.
-
-   Then each of those is walked in turn and brings their own people with them:
-   their unit, in unit order, and anybody their card names a tie to. Nobody is
-   placed twice and nothing is inferred - the only links used are the ones
-   already written on the cards, which is why the betrayers land where they do.
+   Then the pairs that cross the line are drawn together. Only the pairs: a
+   unit with somebody filed on the other side, or a tie written on a card
+   between a good figure and a bad one. Nothing is inferred, and nobody is ever
+   moved down the deck to make a pairing - the later one moves up to the
+   earlier. The Traitor Captain lands behind the Verdauf guards he put on the
+   ship, General Shepherd behind the rangers he sold, the Commissioner's
+   apprentice directly behind the man he left for dead.
 */
-const COSMIC = /first man|cosmic deity|demigod|archangel|ultimate/i;
-const standing = f =>
-    COSMIC.test(f.rank || "") ? 0
-  : (f.rating || 0) >= 5      ? 1
-  : (f.rating || 0) === 4     ? 2
-  : seniority(f) <= 20        ? 3
-  : seniority(f) <= 35        ? 4
-  :                             5;
+const GOOD_BLOCK = 12;
 
-// Inside a band, good before bad, and inside that the order they were added -
-// so the First Man opens the deck rather than whoever happens to have the most
-// relations written on them.
-const SIDE_RANK = { good: 0, bad: 1 };
-const seedOrder = (a, b) =>
-     (isLost(a) ? 1 : 0) - (isLost(b) ? 1 : 0)
-  || standing(a) - standing(b)
-  || ((SIDE_RANK[a.faction] ?? 2) - (SIDE_RANK[b.faction] ?? 2))
-  || a._i - b._i;
-
-const BY_ID = new Map(FIGS.map(f => [f.id, f]));
-
-function totalOrder(list) {
-  const allowed = new Set(list.map(f => f._i));   // whatever survived the filters
-  const out = [], placed = new Set();
-  // A seed places itself wherever it falls. Anybody dragged in behind one is
-  // refused if they are lost, so the closing block stays whole.
-  const put = (f, dragged) => {
-    if (!f || !allowed.has(f._i) || placed.has(f._i)) return;
-    if (dragged && isLost(f)) return;
-    placed.add(f._i);
-    out.push(f);
-  };
-  for (const seed of list.slice().sort(seedOrder)) {
-    if (placed.has(seed._i)) continue;
-    put(seed, false);
-    // Named ties first, so the Commissioner and the apprentice who left him for
-    // dead are touching rather than a unit apart; then the unit itself, whole.
-    for (const r of (seed.relations || [])) put(BY_ID.get(r.to), true);
-    if (seed.group && UNIT[seed.group]) for (const m of UNIT[seed.group].members) put(m, true);
+// Deal two piles into one, a block at a time, sized so they run out together
+// and the good always goes first.
+function deal(G, B) {
+  const block = Math.max(1, Math.round(GOOD_BLOCK * B.length / Math.max(1, G.length)));
+  const out = [];
+  let gi = 0, bi = 0;
+  while (gi < G.length || bi < B.length) {
+    for (let n = 0; n < GOOD_BLOCK && gi < G.length; n++) out.push(G[gi++]);
+    for (let n = 0; n < block && bi < B.length; n++) out.push(B[bi++]);
   }
+  return out;
+}
+
+function totalOrder(G, B) {
+  // The customs are dealt out first and the branded after them, each deal
+  // alternating good and bad on its own. Interleaving one pile would have let
+  // the good side run out of customs first and put Star Wars figures on screen
+  // while the villains were still home-made.
+  const pile = (arr, branded) =>
+    arr.filter(f => !isLost(f) && (f.origin === "branded") === branded);
+  const dealt = deal(pile(G, false), pile(B, false))
+        .concat(deal(pile(G, true),  pile(B, true)));
+  return drawTogether(dealt).concat(G.filter(isLost), B.filter(isLost));
+}
+
+function drawTogether(arr) {
+  const pos = new Map(arr.map((f, i) => [f.id, i]));
+
+  /* Units ride together, in added order, at the place their own side put them.
+     Where a unit has people on both sides - seven of them do - the unit sits
+     with whichever side most of it is on, and the odd ones out join it there.
+     The Verdauf are five good men and one traitor, so they stay where the
+     Verdauf have always been and the Traitor Captain falls in at the end,
+     behind the guards he put on the ship. This also stops the block deal from
+     cutting a unit in half. */
+  const unitBlock = new Map();     // head id -> its members, in order
+  const unitHeadOf = new Map();    // member id -> head id
+  const riding = new Set();        // members who are not the head
+  // A unit is clustered per kind of figure, never across: branded figures go
+  // last and no unit is allowed to carry them up the deck. The Clone Army is
+  // three custom clones among the customs and fourteen branded ones among the
+  // branded, and Steel stands with the villains while his droids do not.
+  const clusters = {};
+  for (const f of arr) if (f.group) (clusters[f.group + "|" + f.origin] ||= []).push(f);
+  for (const key in clusters) {
+    const here = clusters[key];
+    if (here.length < 2) continue;
+    const tally = {};
+    for (const f of here) tally[f.faction] = (tally[f.faction] || 0) + 1;
+    const main = Object.keys(tally).reduce((a, b) => tally[a] >= tally[b] ? a : b);
+    const byPos = (x, y) => pos.get(x.id) - pos.get(y.id);
+    // the unit's own side first, in the order it already has, then the odd ones
+    const ordered = here.filter(f => f.faction === main).sort(byPos)
+             .concat(here.filter(f => f.faction !== main).sort(byPos));
+    const head = ordered[0];
+    unitBlock.set(head.id, ordered);
+    for (const f of ordered) {
+      unitHeadOf.set(f.id, head.id);
+      if (f.id !== head.id) riding.add(f.id);
+    }
+  }
+
+  /* A tie written between a good figure and a bad one draws the two together:
+     the later of the pair falls in behind the earlier, after that figure's unit
+     rather than inside it, so nothing gets split to make a pairing. Anybody
+     already riding with a unit is left alone - their unit comes first. */
+  const trailing = new Map();      // mover id -> host id
+  for (const f of arr) for (const r of (f.relations || [])) {
+    const t = BY_ID.get(r.to);
+    if (!t || t.faction === f.faction || !pos.has(t.id)) continue;
+    if (t.origin !== f.origin) continue;          // never draw a branded figure up
+    const [mover, anchor] = pos.get(f.id) > pos.get(t.id) ? [f, t] : [t, f];
+    if (unitHeadOf.has(mover.id)) continue;
+    const host = unitHeadOf.get(anchor.id) || anchor.id;
+    if (host === mover.id) continue;
+    const cur = trailing.get(mover.id);
+    if (cur !== undefined && pos.get(cur) <= pos.get(host)) continue;
+    trailing.set(mover.id, host);
+  }
+  const trailers = new Map();
+  for (const [m, h] of trailing) {
+    if (!trailers.has(h)) trailers.set(h, []);
+    trailers.get(h).push(BY_ID.get(m));
+  }
+  for (const list of trailers.values()) list.sort((a, b) => pos.get(a.id) - pos.get(b.id));
+
+  const done = new Set(), out = [];
+  const emit = f => {
+    if (!f || done.has(f.id)) return;
+    for (const m of (unitBlock.get(f.id) || [f])) {
+      if (done.has(m.id)) continue;
+      done.add(m.id);
+      out.push(m);
+    }
+    for (const tr of (trailers.get(f.id) || [])) emit(tr);
+  };
+  for (const f of arr) if (!riding.has(f.id) && !trailing.has(f.id)) emit(f);
+  for (const f of arr) emit(f);                  // anybody whose host got filtered out
   return out;
 }
 
@@ -781,9 +841,11 @@ function render() {
   // follow it, so Name A-Z means the same thing everywhere.
   for (const k of SIDES) {
     const mine = list.filter(SIDE_HAS[k]);
-    decks[k] = state.sort === "shape"
-      ? (k === "total" ? totalOrder(mine) : mine.sort(shapeSort))
-      : mine.sort(SORTS[state.sort]);
+    if (state.sort !== "shape") { decks[k] = mine.sort(SORTS[state.sort]); continue; }
+    decks[k] = k === "total"
+      ? totalOrder(shapeOrder(list.filter(f => f.faction === "good")),
+                   shapeOrder(list.filter(f => f.faction !== "good")))
+      : shapeOrder(mine);
   }
 
   $("count").textContent =

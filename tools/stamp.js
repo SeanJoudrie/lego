@@ -11,13 +11,13 @@ const path = require("path");
 const root = path.join(__dirname, "..");
 const page = path.join(root, "index.html");
 
-const DATA = ["data/collection.js", "data/scenes.js", "data/lore.js", "data/featured.js"];
+const DATA = ["data/collection.js", "data/scenes.js", "data/lore.js", "data/featured.js", "data/order.js"];
 
 const stamp = Math.max(
   ...DATA.map(f => Math.floor(fs.statSync(path.join(root, f)).mtimeMs / 1000))
 );
 
-const TAG = /(<script src="data\/(?:collection|scenes|lore|featured)\.js)(\?v=\d+)?("><\/script>)/g;
+const TAG = /(<script src="data\/(?:collection|scenes|lore|featured|order)\.js)(\?v=\d+)?("><\/script>)/g;
 
 let html = fs.readFileSync(page, "utf8");
 const found = (html.match(TAG) || []).length;

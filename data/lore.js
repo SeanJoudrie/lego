@@ -1670,12 +1670,19 @@ window.LORE = [
       "their own entry. Nothing is inferred, no relationship is invented to " +
       "make a pairing land. The betrayers turn up beside the people they " +
       "betrayed because somebody wrote it down at the time.\n\n" +
-      "The order runs by standing rather than by side. The First Man opens " +
-      "it, then the rest of the ranked, then the figures rated highest on the " +
-      "good side, then the ones rated highest on the bad, then the officers " +
-      "of each, and down. Which means the deck reads as the war does: a " +
-      "line of the most important people in this world, alternating, with " +
-      "their own people standing behind them."
+      "The order is the order things were added in, because that is the " +
+      "importance order and always was. The good side and the bad side each " +
+      "keep their own, and the deck deals them out in turn - a block of the " +
+      "good, a block of the bad, sized so the two run out together. The First " +
+      "Man and the people around him, then Quinn and the people around him, " +
+      "then the next of each, and down.\n\n" +
+      "There was a version of this that tried to be clever about it. It read " +
+      "words like commander and captain off the cards, scored everybody on " +
+      "them, and sorted the collection by the result. It put the Aqua Force " +
+      "in front of the First Man, buried the number one villain four hundred " +
+      "cards deep, and stood a traitor next to a robot instead of next to the " +
+      "men he betrayed. The order these were added in already knew all of " +
+      "that. Nothing here guesses at rank any more."
   },
 
   {
