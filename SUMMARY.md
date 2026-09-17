@@ -6124,7 +6124,7 @@ The dangerous part is that he is intelligent. He worked out that he cannot sprea
 
 *Tags:* villain, phalanx, nanobots, virus, alien, skull, planet-eater, zombies, hive
 
-### 484. The Prince Pretender — Two figures
+### 484. The Prince Pretender
 
 **Alignment:** bad · **Role:** Pretender · **Figure:** custom
 

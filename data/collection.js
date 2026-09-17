@@ -397,10 +397,11 @@ window.COLLECTION = [
     tags: ["royal-family", "outcast", "smuggler", "pirate", "beast-hunter", "off-grid"],
     images: [
       { src: "images/the-outcast-prince-01.jpg", caption: "The figure" },
+      { src: "images/the-outcast-prince-03.jpg", caption: "In gear, out on the sand" },
       { src: "images/the-outcast-prince-02.jpg", caption: "Concept art" },
     ],
     acquired: "",
-    notes: "\n\nConcept art added, and it contradicts this card in one place worth recording. He is written as having settled on a sandy planet, somewhere like Mad Max, living as a smuggler and a pirate. The art puts him in snow, in a pine forest, beside a burnt-down fire with his helmet in his hand. Nothing says he stayed on that planet - a man who decided to live off the rails is allowed to move - but the picture and the entry describe two different places, and only one of them is written down."
+    notes: "\n\nConcept art added, and it contradicts this card in one place worth recording. He is written as having settled on a sandy planet, somewhere like Mad Max, living as a smuggler and a pirate. The art puts him in snow, in a pine forest, beside a burnt-down fire with his helmet in his hand. Nothing says he stayed on that planet - a man who decided to live off the rails is allowed to move - but the picture and the entry describe two different places, and only one of them is written down.\n\nA second photograph of him, and it is the life his card describes rather than the man who left to find it. A hooded grey helm with a face guard leaving only the eyes, a dark mantle over the shoulders, a rifle up in one hand and a sword hilt at the hip. This is the smuggler and the pirate on the sandy planet, kitted for it.\n\nIt also answers the flag on the concept art. That piece put him in snow in a pine forest and this card said the picture and the entry were describing two different places. This photograph is the entry: sand, gear, a weapon in each hand's reach. Whatever the snow is, it is not where he settled.\n\nHe came onto this card by correction. It went first to the Prince Pretender, who is also an uncle to the royal children - and the difference is the whole point of both men. The Pretender is the Queen's brother with a blood claim he never got to use. This one is the King's brother, who had a place at court and left it on purpose."
   },
 
   {
@@ -13145,7 +13146,7 @@ window.COLLECTION = [
   {
     id: "the-prince-pretender",
     name: "The Prince Pretender",
-    variant: "Two figures",
+    variant: "",
     faction: "bad",
     origin: "custom",
     theme: "Creation Mythos",
@@ -13175,12 +13176,9 @@ window.COLLECTION = [
       "red medallion, and a gold-trimmed black belt with a crest at the buckle. " +
       "Pale grey legs with plain pocket flaps - the only ordinary thing on him.",
     tags: ["villain", "pretender", "royal-claim", "throne", "entitled", "quinn", "royal-family"],
-    images: [
-      { src: "images/the-prince-pretender-01.jpg", caption: "At court" },
-      { src: "images/the-prince-pretender-02.jpg", caption: "In gear" },
-    ],
+    images: ["images/the-prince-pretender-01.jpg"],
     acquired: "",
-    notes: "He sharpens something the Prince\'s own card has said from the beginning - that the man is king \"de facto, never by claim\". Now there is somebody for whom that is a grievance. Kept out of the Royal Household: he is the Queen\'s brother and the royal children\'s uncle, but a group shows everybody to everybody and he is not one of them by choice. Say the word and he goes in. Second villain here who is somebody\'s family, after the Shadow King.\n\nA second figure, and it is a different man to look at. At court he is blue and gold with stars on the tunic and a crown printed at the belt - the claim worn as clothing. In gear he is grey and black: a hooded helm with a face guard leaving only the eyes, a dark mantle over the shoulders, a rifle in one hand and a sword hilt at the hip. Nothing of the blood claim is visible on him at all.\n\nFiled as him on your word - you sent it as the royal uncle in gear, and he is the royal children's uncle. Worth saying that nothing in the photograph identifies him: the face is covered. If the man under that helm is somebody else, it is one word and he gets his own card."
+    notes: "He sharpens something the Prince\'s own card has said from the beginning - that the man is king \"de facto, never by claim\". Now there is somebody for whom that is a grievance. Kept out of the Royal Household: he is the Queen\'s brother and the royal children\'s uncle, but a group shows everybody to everybody and he is not one of them by choice. Say the word and he goes in. Second villain here who is somebody\'s family, after the Shadow King.\n\nA kitted-up figure was briefly put on this card as a second photograph of him and it was not him at all - it is the Outcast Prince, and it has been moved there. My error: you said the royal uncle, and I reached for the uncle whose card was in front of me instead of the one who fits. He is still the only man here with a blood claim to a throne he does not hold."
   },
 
 
