@@ -265,10 +265,11 @@ window.COLLECTION = [
     tags: ["royal-family", "king", "senator", "married", "good-heart"],
     images: [
       { src: "images/the-prince-king-01.jpg",    caption: "As King" },
-      { src: "images/the-prince-senator-01.jpg", caption: "Senate era — before the title" }
+      { src: "images/the-prince-senator-01.jpg", caption: "Senate era — before the title" },
+      { src: "images/the-prince-03.jpg", caption: "Concept art" }
     ],
     acquired: "",
-    notes: "Two separate figures for one man, kept as one entry with two photos. Connections here are deliberately only his close ties - almost everyone in the collection reports to him eventually, and listing that would bury the people who actually matter to him. The Prince Pretender is on the list because a rival claimant to your throne is a close tie whether you like him or not. Those who are loyal to him still say so on their own pages."
+    notes: "Two separate figures for one man, kept as one entry with two photos. Connections here are deliberately only his close ties - almost everyone in the collection reports to him eventually, and listing that would bury the people who actually matter to him. The Prince Pretender is on the list because a rival claimant to your throne is a close tie whether you like him or not. Those who are loyal to him still say so on their own pages.\n\nConcept art added, and what it leaves out is the point. No crown on his head, no sword, nothing in his hands, and he is standing beside the throne rather than on it - the only royal object anywhere on him is the chain somebody else hung there. That is this card in a picture: he became king de facto and never by claim, and he has never updated the title he uses for himself."
   },
 
   {
