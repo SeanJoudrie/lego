@@ -212,9 +212,13 @@ window.COLLECTION = [
       "is a racing helmet. Which is not a contradiction — that is what the piece " +
       "is, and behind the microwave is where it came from. Fuller sourcing to come.",
     tags: ["mortal", "lightsaber", "green-saber", "force", "cybernetic", "found"],
-    images: ["images/the-second-01.jpg", "images/the-second-02.jpg"],
+    images: [
+      { src: "images/the-second-01.jpg", caption: "The figure" },
+      { src: "images/the-second-02.jpg", caption: "The figure" },
+      { src: "images/the-second-03.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: ""
+    notes: "\n\nHe has concept art now, and the green in it is his. The card has said since it was written that he is so fast he leaves a trail of neon green behind him, and the piece takes that literally in the smallest possible way: pinpricks of green at the joints, and the last segment of every finger lit, on a suit that is otherwise entirely black. Nothing else on him glows. The helmet is the biker helmet you found behind the microwave, and the art keeps the visor blank."
   },
 
   {
@@ -594,9 +598,12 @@ window.COLLECTION = [
       "direct soldier.",
     provenance: "",
     tags: ["soldier", "off-world", "loud", "cocky"],
-    images: ["images/drake-01.jpg"],
+    images: [
+      { src: "images/drake-01.jpg", caption: "The figure" },
+      { src: "images/drake-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: ""
+    notes: "\n\nConcept art added. It puts him off-world, which is where his card says he spends his service - a red desert under a low sun, armour scuffed to the undercoat, goggles up, gun already out. Loud, and finishing the job anyway."
   },
 
   {
@@ -833,9 +840,10 @@ window.COLLECTION = [
     images: [
       { src: "images/the-green-captain-01.jpg", caption: "Light green armor" },
       { src: "images/the-green-captain-02.jpg", caption: "With a blade" },
+      { src: "images/the-green-captain-03.jpg", caption: "Concept art" },
     ],
     acquired: "",
-    notes: "Placeholder name - you called him the Green Captain in passing. Since this was written, a second Verdauf captain has been catalogued: the Traitor Captain, also in light green, who misled his troops into a massacre and rigged a ship with explosives, and whose survivors lived because a bomb failed. Either that is a different man or it is this same event told honestly. Nothing here has been changed on a guess - say which it is.\n\nThe second photograph arrived on the wrong card and has been moved here. It came in described as the Verdauf soldier whose brother died, which reads as the younger brother, since he is the one who survived - so it went onto his entry as a third outfit. It is not him. It is this man, and the plastic says so plainly: the same brown swept hair, the same stubbled face with the scar across the brow, the same white and light green plate with the yellow crest at the chest and the green sash at the waist. My error, and it is recorded here rather than quietly swapped.\n\nThe blade is new. Nothing on this card has had him carrying a weapon before - he is written as skilled in hand-to-hand, which is a different thing - and this is the only photograph of him holding one."
+    notes: "Placeholder name - you called him the Green Captain in passing. Since this was written, a second Verdauf captain has been catalogued: the Traitor Captain, also in light green, who misled his troops into a massacre and rigged a ship with explosives, and whose survivors lived because a bomb failed. Either that is a different man or it is this same event told honestly. Nothing here has been changed on a guess - say which it is.\n\nThe second photograph arrived on the wrong card and has been moved here. It came in described as the Verdauf soldier whose brother died, which reads as the younger brother, since he is the one who survived - so it went onto his entry as a third outfit. It is not him. It is this man, and the plastic says so plainly: the same brown swept hair, the same stubbled face with the scar across the brow, the same white and light green plate with the yellow crest at the chest and the green sash at the waist. My error, and it is recorded here rather than quietly swapped.\n\nThe blade is new. Nothing on this card has had him carrying a weapon before - he is written as skilled in hand-to-hand, which is a different thing - and this is the only photograph of him holding one.\n\nConcept art added as a third image. It puts him on open ground with a rifle, which is a choice worth flagging: this card has him written as skilled in hand-to-hand, and now two of his three images have him armed. The soldier the entry describes is not the one the pictures show."
   },
 
   {
@@ -2270,9 +2278,12 @@ window.COLLECTION = [
       "rivals, and in the end they were friends. His death hit him hard.",
     provenance: "",
     tags: ["jedi", "ancient-soul", "reborn", "brave", "monster-slayer", "willpower"],
-    images: ["images/the-beowulf-jedi-01.jpg"],
+    images: [
+      { src: "images/the-beowulf-jedi-01.jpg", caption: "The figure" },
+      { src: "images/the-beowulf-jedi-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "Named for the Beowulf and Skyrim energy you described."
+    notes: "Named for the Beowulf and Skyrim energy you described.\n\nConcept art added, and it answers something his card only implies. He fights monsters, so the piece puts him underground - a dripping cave with the light coming from a long way up - and it gives him two sabers, one blue and one green. Nothing here has ever said he carries two. Say whether that is right and the card takes it."
   },
 
   {

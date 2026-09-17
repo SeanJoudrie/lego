@@ -466,9 +466,9 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789567318"></script>
-<script src="data/lore.js?v=1789567318"></script>
-<script src="data/featured.js?v=1789567318"></script>
+<script src="data/collection.js?v=1789616390"></script>
+<script src="data/lore.js?v=1789616390"></script>
+<script src="data/featured.js?v=1789616390"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"order" };
@@ -484,6 +484,15 @@ const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt
 // images may be a plain path or {src, caption} — normalise both to objects
 const photos = f => (f.images || []).map(x =>
   typeof x === "string" ? { src: x, caption: "" } : x);
+
+// A plate prefers the figure's concept art if it has any, because a painted
+// portrait carries a strip better than a photograph of plastic on a desk. Every
+// other surface - the grid, the connection tiles, the dialog - still opens on
+// the figure itself. Falls back to the first photo when there is no art.
+const plateShot = f => {
+  const all = photos(f);
+  return all.find(p => /concept art/i.test(p.caption || "")) || all[0];
+};
 
 // small clickable tile: photo, relation label, name
 const miniCard = (g, label) => {
@@ -749,7 +758,7 @@ function renderPlates() {
     $("plates-" + k).hidden = !idle || mine.length === 0;
     if (!idle || platesDrawn[k] || !mine.length) continue;
     $("platestrip-" + k).innerHTML = mine.map(p => {
-      const cover = photos(p.fig)[0];
+      const cover = plateShot(p.fig);
       return `<button class="plate" data-i="${p.fig._i}">
         <span class="frame">${cover
           ? `<img src="${esc(cover.src)}" alt="" loading="lazy">`
