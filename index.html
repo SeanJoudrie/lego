@@ -253,8 +253,11 @@
   }
   /* Fill the tile. Landscape photos - the group shots - would lose people to
      the crop, so they get .wide and go back to fitting inside. */
+  /* Crop toward the upper middle rather than the very top: most of these
+     photographs have the figure standing centrally with headroom above it, and
+     a 12% crop was cutting heads off while leaving empty table below. */
   .shot img { position:absolute; inset:0; width:100%; height:100%;
-            object-fit:cover; object-position:50% 12%; display:block; }
+            object-fit:cover; object-position:50% 28%; display:block; }
   .shot img.wide { object-fit:contain; object-position:50% 50%; }
   .shot .empty { color:var(--faint); font-size:12px; letter-spacing:.08em; }
   /* Catalogue number. The deck a card sits in already says good or bad, so the
@@ -368,7 +371,7 @@
               background:var(--panel-2); border:1px solid var(--line);
               border-radius:var(--radius); overflow:hidden; }
   .minishot img { position:absolute; inset:0; width:100%; height:100%;
-                  object-fit:cover; object-position:50% 12%; }
+                  object-fit:cover; object-position:50% 28%; }
   .minishot img.wide { object-fit:contain; object-position:50% 50%; }
   .minidash { position:absolute; inset:0; display:flex; align-items:center;
               justify-content:center; color:var(--faint); font-size:15px; }
@@ -382,7 +385,9 @@
   .facts { border-top:1px solid var(--line); padding-top:14px; font-size:13px; color:var(--dim); }
   .facts div { margin-bottom:5px; }
   .facts b { color:var(--text); font-weight:500; }
-  .close { position:sticky; top:10px; float:right; margin:10px 10px 0 0; z-index:2;
+  /* Above the sticky grab handle (z-index 3), or the phone layout hides half of
+     the close button behind it. */
+  .close { position:sticky; top:10px; float:right; margin:10px 10px 0 0; z-index:4;
            background:var(--panel); border:1px solid var(--line); color:var(--dim);
            width:30px; height:30px; border-radius:50%; cursor:pointer; font-size:16px; line-height:1; }
   .close:hover { color:var(--accent); border-color:var(--accent); }
@@ -415,7 +420,16 @@
     .dens { flex:0 0 auto; gap:4px; padding:4px 6px; }
     .dens input { width:44px; }
     .dens b { font-size:11px; }
-    .gallery { border-right:0; border-bottom:1px solid var(--line); }
+    /* Single column on a phone means the photograph runs the full width of the
+       screen, which pushed the thumbnails and the whole entry below the fold.
+       Cap it so the picture, its caption and the other photos all sit in one
+       view, and switch to contain so capping never crops the figure. */
+    .gallery { border-right:0; border-bottom:1px solid var(--line); padding:12px; }
+    .gallery .main { max-height:46vh; object-fit:contain; margin:0 auto; }
+    .gallery .main.empty { aspect-ratio:auto; height:120px; }
+    .thumbs { margin-top:10px; justify-content:center; }
+    .thumbs img { width:40px; height:40px; }
+    .info { padding:16px 18px 22px; }
     .plate { flex-basis:132px; }
     .plate b { font-size:13px; }
     .plate i { font-size:11.5px; }
@@ -445,6 +459,7 @@
   <div class="bar">
     <input class="search" id="q" type="search" placeholder="Search name, background, tags…">
     <select id="sort" aria-label="Order">
+      <option value="unit">Unit and rank</option>
       <option value="order">Order I added them</option>
       <option value="added">Newest first</option>
       <option value="name">Name A–Z</option>
@@ -480,13 +495,13 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789672915"></script>
-<script src="data/scenes.js?v=1789672915"></script>
-<script src="data/lore.js?v=1789672915"></script>
-<script src="data/featured.js?v=1789672915"></script>
+<script src="data/collection.js?v=1789672952"></script>
+<script src="data/scenes.js?v=1789672952"></script>
+<script src="data/lore.js?v=1789672952"></script>
+<script src="data/featured.js?v=1789672952"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
-const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"order" };
+const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"unit" };
 
 // One deck per side, in this order, built from the sides actually in use - a
 // Neutral deck appears by itself the day somebody is neutral.
@@ -575,10 +590,44 @@ function reshuffle() {
   dealPlates();
 }
 
+// How senior somebody is, read off the words already on their card. This is a
+// browsing aid, not a claim: the catalogue does not store a rank number for
+// anybody, so the order inside a unit is worked out from the job title. Lower
+// score sorts first, so a commander comes before his troopers.
+const RANKS = [
+  [/\b(first man|ultimate|supreme|cosmic deity|demigod|archangel)\b/i, 0],
+  [/\b(king|queen|emperor|empress|pharaoh|chancellor|dictator|governor|prince|princess)\b/i, 5],
+  [/\b(commander of|marshal|admiral|general|warlord)\b/i, 10],
+  [/\b(commander|second in command|chief|head of)\b/i, 15],
+  [/\b(captain|master|lord|leader|boss)\b/i, 20],
+  [/\b(lieutenant|sergeant|squad leader|foreman|mentor|instructor)\b/i, 25],
+  [/\b(commando|arc|elite|guard|honor guard)\b/i, 30],
+  [/\b(sniper|pilot|medic|engineer|technician|scout|gunner|armorer|bomber|specialist)\b/i, 35],
+  [/\b(trooper|soldier|rifleman|infantry|militia|warrior|knight|ninja|droid|crew)\b/i, 45],
+  [/\b(recruit|cadet|apprentice|padawan|trainee|child|orphan)\b/i, 60],
+];
+const seniority = f => {
+  const words = `${f.rank || ""} ${f.role || ""} ${f.name || ""}`;
+  for (const [re, score] of RANKS) if (re.test(words)) return score;
+  return 50;                                   // no title at all: with the ranks
+};
+
+// Grouped figures cluster under their unit; everyone else clusters by job, and
+// the named units come first. The two are kept apart by an explicit flag rather
+// than by prefixing a character - localeCompare ignores punctuation, so a tilde
+// does not sort where you would expect it to.
+const unitRank = f => (f.group ? 0 : 1);
+const unitKey  = f => f.group || f.role || f.theme || "";
+
 const SORTS = {
   rating:  (a, b) => (b.rating || 0) - (a.rating || 0) || a.name.localeCompare(b.name),
   name:    (a, b) => a.name.localeCompare(b.name),
   order:   (a, b) => a._i - b._i,
+  unit:    (a, b) => unitRank(a) - unitRank(b)
+                  || unitKey(a).localeCompare(unitKey(b))
+                  || seniority(a) - seniority(b)
+                  || (b.rating || 0) - (a.rating || 0)
+                  || a._i - b._i,
   role:    (a, b) => (a.role || "~").localeCompare(b.role || "~") || a.name.localeCompare(b.name),
   theme:   (a, b) => (a.theme || "~").localeCompare(b.theme || "~") || a.name.localeCompare(b.name),
   added:   (a, b) => b._i - a._i,
