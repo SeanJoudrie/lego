@@ -454,9 +454,12 @@ window.COLLECTION = [
       "shoot a rifle, or a cannon.",
     provenance: "",
     tags: ["veteran", "artillery", "council", "gruff", "good-with-kids"],
-    images: ["images/brute-01.jpg"],
+    images: [
+      { src: "images/brute-01.jpg", caption: "The figure" },
+      { src: "images/brute-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: ""
+    notes: "Concept art added, and the thing it gets right is the face. Everything about the build says otherwise - the plating, the knee pads, the launcher tube on his back, the belt-fed gun with the ammo box hanging off it - and the man holding all of that is smiling, warmly, straight at you. His card opens by saying the rugged demeanour is not the truth of him: very loud, very gruff, and very nice. The piece puts both halves in one frame.\n\nThe artillery is there as well, which matters on a card whose job title is in charge of all of it, ground and space. And the B on his chest is the only piece of lettering in any of the art so far.\n\nIt does leave out the part of him that is easiest to like. The Prince's two sons think he is the coolest man alive because he lets them fire a rifle or a cannon out in the field. Nothing in the picture has a child in it, and that is the version of Brute this world actually runs on."
   },
 
   {
