@@ -549,6 +549,8 @@ Which makes her the one figure filed bad whose entire recorded act is defending 
 
 Somebody has since said so, about somebody else. Three skeletons opened the neutral deck, and she is still not on it. That is left visible rather than quietly fixed: she is on the bad side because of the company she arrived in, and the alternative is no longer hypothetical.
 
+The alternative has since been removed. The neutral deck is closed and the skeletons are filed bad, so the question this note has been asking for a hundred cards no longer has a third answer available. She is on the bad deck and that is now the only place she could be. The reasoning against it stands exactly as written - it just has nowhere to go.
+
 ### The League of Shadows
 
 A cult, named outright, and the largest thing on the bad side.
@@ -760,6 +762,20 @@ It was not for want of candidates. Kazim was offered it outright and filed good 
 That is the rule the deck was waiting on, and it took seven hundred and ninety-two cards to find somebody who cleared it. Not on a side turns out not to mean caught between two sides, or above them, or against both. It means wanting nothing at all.
 
 Three skeletons opened it. They are the same mould, the same bone white gone the same cream and the same age as the two evil skeletons on the enemy deck, and the only difference on the plastic is the printed face: round eyes and a small smile against slanted sockets and a jagged grin. A whole third of this world's moral geography was opened by a difference in printing.
+
+And it lasted a few batches. A section of a page holding one card is not a section, it is an argument with itself, and that is what this one had become: a whole tab carrying three skeletons and several hundred words about why they were there. It has been taken off. The skeletons are on the bad deck now, renamed for their faces rather than for a tab, and the card says plainly that nothing was found out about them - the filing changed, they did not.
+
+What went in its place is the opposite idea, and a better one. Instead of a third side for the people who are on neither, there is a deck that carries both sides at once. The empty middle was built on the assumption that the interesting cases are the ones between good and bad. Seven hundred and ninety-one figures said otherwise. The interesting cases are the ones that cross it.
+
+### Both sides on one deck
+
+The good and the bad were on separate decks for eight hundred and fifteen cards, and that was always slightly wrong, because this world's best stories are the ones where somebody changed sides.
+
+The Commissioner was left for dead by his own apprentice. The Green Rangers were sold out by General Shepherd, who is still filed inside their unit because that is where he belongs. The Verdauf have a captain among them who put half his own men on a ship he had rigged, and the ones who lived only lived because the second bomb failed. The Atlantis dive team has two men who went over, one of them the captain who used to run it. The Shadow Team Commander took his whole team to Quinn, and his card still names the Prince they used to serve. Seven units in this collection have somebody filed on the other side, and every one of those pairs was one swipe apart, on opposite sides of a page, which is the correct place for them and the wrong place to read them.
+
+The combined deck puts them together. It works off what the cards already say and nothing else: a figure's unit and the ties written on their own entry. Nothing is inferred, no relationship is invented to make a pairing land. The betrayers turn up beside the people they betrayed because somebody wrote it down at the time.
+
+The order runs by standing rather than by side. The First Man opens it, then the rest of the ranked, then the figures rated highest on the good side, then the ones rated highest on the bad, then the officers of each, and down. Which means the deck reads as the war does: a line of the most important people in this world, alternating, with their own people standing behind them.
 
 ### The bodies outlived the soldiers
 
@@ -9186,15 +9202,15 @@ Two evil skeletons.
 
 *Tags:* villain, skeleton, bone, skull, angry, pair, mould
 
-### 761. The Neutral Skeletons — Three of them
+### 761. The Plain-Faced Skeletons — Three of them
 
-**Alignment:** neutral · **Figure:** branded
+**Alignment:** bad · **Figure:** branded
 
-Three skeletons, and they are not on either side.
+Three skeletons who wanted nothing, filed with the enemy because there is nowhere else.
 
 *How it was got:* Three, on the same mould and in the same bone white gone cream as the evil pair - ribcage torso with the spine standing through it, thin jointed arms to hook hands, a flat bar of a pelvis, splayed claw feet. Two of them carry rust-coloured staining worked into the plastic at the hips and down the shins, and one has something dark lodged up inside the ribs. The heads are where they part from the other two: a standard head printed with two plain round black eyes, a small grey wedge of a nose, and a simple curved mouth with a short row of teeth drawn beneath it. Nothing angry anywhere on them.
 
-*Tags:* neutral, skeleton, bone, skull, in-between, first-neutral, mould
+*Tags:* skeleton, bone, skull, mould, closed-deck, correction
 
 ### 762. The Halo Grunts — Two of them
 

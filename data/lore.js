@@ -1121,7 +1121,12 @@ window.LORE = [
       "opened the neutral deck, and she is still not on it. That is left " +
       "visible rather than quietly fixed: she is on the bad side because of " +
       "the company she arrived in, and the alternative is no longer " +
-      "hypothetical."
+      "hypothetical.\n\n" +
+      "The alternative has since been removed. The neutral deck is closed and " +
+      "the skeletons are filed bad, so the question this note has been asking " +
+      "for a hundred cards no longer has a third answer available. She is on " +
+      "the bad deck and that is now the only place she could be. The reasoning " +
+      "against it stands exactly as written - it just has nowhere to go."
   },
 
   {
@@ -1626,7 +1631,51 @@ window.LORE = [
       "on the enemy deck, and the only difference on the plastic is the " +
       "printed face: round eyes and a small smile against slanted sockets and " +
       "a jagged grin. A whole third of this world's moral geography was " +
-      "opened by a difference in printing."
+      "opened by a difference in printing.\n\n" +
+      "And it lasted a few batches. A section of a page holding one card is " +
+      "not a section, it is an argument with itself, and that is what this " +
+      "one had become: a whole tab carrying three skeletons and several " +
+      "hundred words about why they were there. It has been taken off. The " +
+      "skeletons are on the bad deck now, renamed for their faces rather " +
+      "than for a tab, and the card says plainly that nothing was found out " +
+      "about them - the filing changed, they did not.\n\n" +
+      "What went in its place is the opposite idea, and a better one. Instead " +
+      "of a third side for the people who are on neither, there is a deck " +
+      "that carries both sides at once. The empty middle was built on the " +
+      "assumption that the interesting cases are the ones between good and " +
+      "bad. Seven hundred and ninety-one figures said otherwise. The " +
+      "interesting cases are the ones that cross it."
+  },
+
+  {
+    title: "Both sides on one deck",
+    text:
+      "The good and the bad were on separate decks for eight hundred and " +
+      "fifteen cards, and that was always slightly wrong, because this " +
+      "world's best stories are the ones where somebody changed sides.\n\n" +
+      "The Commissioner was left for dead by his own apprentice. The Green " +
+      "Rangers were sold out by General Shepherd, who is still filed inside " +
+      "their unit because that is where he belongs. The Verdauf have a " +
+      "captain among them who put half his own men on a ship he had rigged, " +
+      "and the ones who lived only lived because the second bomb failed. The " +
+      "Atlantis dive team has two men who went over, one of them the captain " +
+      "who used to run it. The Shadow Team Commander took his whole team to " +
+      "Quinn, and his card still names the Prince they used to serve. Seven " +
+      "units in this collection have somebody filed on the other side, and " +
+      "every one of those pairs was one swipe apart, on opposite sides of a " +
+      "page, which is the correct place for them and the wrong place to read " +
+      "them.\n\n" +
+      "The combined deck puts them together. It works off what the cards " +
+      "already say and nothing else: a figure's unit and the ties written on " +
+      "their own entry. Nothing is inferred, no relationship is invented to " +
+      "make a pairing land. The betrayers turn up beside the people they " +
+      "betrayed because somebody wrote it down at the time.\n\n" +
+      "The order runs by standing rather than by side. The First Man opens " +
+      "it, then the rest of the ranked, then the figures rated highest on the " +
+      "good side, then the ones rated highest on the bad, then the officers " +
+      "of each, and down. Which means the deck reads as the war does: a " +
+      "line of the most important people in this world, alternating, with " +
+      "their own people standing behind them."
   },
 
   {

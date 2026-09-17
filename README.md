@@ -82,7 +82,7 @@ has no figure to attach to at all, it belongs here.
   id: "luke-skywalker",         // unique slug, lowercase-with-dashes
   name: "Luke Skywalker",       // character name
   variant: "Hoth Pilot",        // which version — optional
-  faction: "good",              // "good" | "bad" | "neutral"
+  faction: "good",              // "good" | "bad"
   origin: "branded",            // "branded" | "custom"
   theme: "Star Wars",           // franchise, or your own custom line
   rank: "Demigod",              // what they ARE — see RANKS
