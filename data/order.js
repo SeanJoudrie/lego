@@ -96,8 +96,8 @@ window.ORDER = {
     "Mandalorian": 4, "Ninja": 4, "Samurai": 6, "Knight": 6, "Mace Knight": 6,
     "Swordsman": 6, "Fencer": 6, "Mercenary": 4, "Enforcer": 4, "Outlaw": 4,
     "Vigilante": 4, "Auror": 4, "Infiltrator": 4, "Disc Thrower": 4,
-    "Brawler": 4, "Heavy": 4, "Guardian": 4, "Honor Guard": 4, "Agent": 4,
-    "Royal Intelligence Agent": 4, "Smuggler": 4, "Fanatic": 4, "Shaman": 4,
+    "Brawler": 4, "Heavy": 4, "Guardian": 4, "Honor Guard": 4, "Agent": 5,
+    "Royal Intelligence Agent": 5, "Smuggler": 4, "Fanatic": 4, "Shaman": 4,
     "Vessel": 4, "Parasite": 4, "Leader, Bionics Team": [4, 0],
 
     // 5 - soldiers
@@ -164,7 +164,7 @@ window.ORDER = {
     // behind it: leading a dive team or a pirate crew is not commanding an army.
     "Pharaoh": 4, "Supreme Mega Knight": [6, 0], "Swordmaster": [6, 1],
     "Archer Commander": [6, 1], "Ambassador": 4, "Combat Instructor": 4,
-    "Forensic Agent": 4, "Power Source": 4,
+    "Forensic Agent": 5, "Power Source": 4,
     "Pirate Captain": [6, 0], "First Mate": [6, 1],
     "Space Police Gunner": 5, "Space Engineer": 5, "Space Cadet": [5, 9],
     "Occult Instructor": 9, "Launch Director": 9,
@@ -238,6 +238,8 @@ window.ORDER = {
     "the-commissioner": [3, 4],    // the man in charge of the law
     "the-space-marshal": [3, 5],   // runs the entire space militia
     "the-grey-beanie": [3, 6],     // an extremely strong mercenary on the good side
+    "the-verdauf-guards": [3, 7],  // ranked above green berets, so above elite
+    "the-nightwatch-captain": [3, 8],  // a senior post, on the level of running royal intelligence
 
     // Fighters you named as belonging above elite.
     "the-jedi": [3, 10],
@@ -273,9 +275,20 @@ window.ORDER = {
     // legs rip into his torso. He trains soldiers; he does not outfight them.
     "the-instructor": 5,
     "the-bounty-hunter-captain": 4,
-    "the-nightwatch-captain": 4,   // bumped up two rungs
     "the-giant-orc": 4,
     "the-current": 4,              // an evil alien made of electricity
+
+    // Background filler officers. Not combat soldiers and not people who
+    // matter - so they go to the back of the soldiers rather than standing
+    // among the champions on the strength of a title.
+    "the-winter-trooper-leader": [5, 60],
+    "the-engineer-commander": [5, 60],
+    "the-hangar-commander": [5, 60],
+    "the-range-commander": [5, 60],
+    "the-enforcer-commander": [5, 60],
+    "the-clone-captain": [5, 60],
+    "the-painted-clone-commander": [5, 60],
+    "the-discarded-commander": [5, 60],
 
     // --- 5. soldiers
     "the-spartan": 5,              // a Spartan soldier
@@ -301,7 +314,6 @@ window.ORDER = {
     "the-atlantis-leader": 9,
 
     // Leads soldiers, not a civilian outfit.
-    "the-winter-trooper-leader": 3,
   },
 
   /* ------------------------------------------------- stated placements
