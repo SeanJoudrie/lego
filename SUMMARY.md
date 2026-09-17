@@ -775,9 +775,13 @@ The Commissioner was left for dead by his own apprentice. The Green Rangers were
 
 The combined deck puts them together. It works off what the cards already say and nothing else: a figure's unit and the ties written on their own entry. Nothing is inferred, no relationship is invented to make a pairing land. The betrayers turn up beside the people they betrayed because somebody wrote it down at the time.
 
-The order is the order things were added in, because that is the importance order and always was. The good side and the bad side each keep their own, and the deck deals them out in turn - a block of the good, a block of the bad, sized so the two run out together. The First Man and the people around him, then Quinn and the people around him, then the next of each, and down.
+The order is a power scale. Every figure stands on one of nine rungs - gods, demigods, principals, command, elite, soldiers, police, fire service, civilians - and the rule behind it is that anybody should beat anybody two or three rungs under them. A god beats the Prince. The Prince beats a mercenary. A mercenary beats a cop, a cop beats a fireman, a fireman beats a civilian.
 
-There was a version of this that tried to be clever about it. It read words like commander and captain off the cards, scored everybody on them, and sorted the collection by the result. It put the Aqua Force in front of the First Man, buried the number one villain four hundred cards deep, and stood a traitor next to a robot instead of next to the men he betrayed. The order these were added in already knew all of that. Nothing here guesses at rank any more.
+It is not strictly physical, and that is the interesting part. It counts the power somebody leads as well as the power they personally have, which is why the Prince stands at the top of the good side without being a superhero: he is in charge of the entire civilisation. Quinn stands opposite him for the same reason. And it cuts the other way - Deus Pater and Aphrodite are ranked cosmic deities in this catalogue and neither is on the god rung, because a statue and a beautiful woman cannot make anything. Four figures clear that bar: the First Man, the Cosmic Twins, the Shadow King and the Light King.
+
+The combined deck reads rung by rung - the gods of both sides, then the demigods of both, then the principals of both, and down, with the good first on every rung. The First Man opens it, the Shadow King and the Light King stand two cards behind him, and the Prince and Quinn are fifteen apart instead of four hundred.
+
+Two earlier attempts are worth recording, because the failures are what produced the rule. The first scored everybody off words like commander and captain and sorted on the result: it put the Aqua Force in front of the First Man. The second threw that out and used the order the cards were added in as the importance order: that buried the number one villain four hundred cards deep and stood an unnamed surfer above armed enemy soldiers. Neither was reading what the cards actually say. The ladder is written down now, in one file, with every job title in the catalogue on it and a named exception list underneath - so when somebody is on the wrong rung it is one line to move them, and the reason is written next to them.
 
 ### The bodies outlived the soldiers
 
@@ -1814,7 +1818,7 @@ Both of them have a southern accent and both of them are very friendly. They are
 
 ### 77. The Defector
 
-**Alignment:** good · **Role:** Commander · **Figure:** custom
+**Alignment:** good · **Role:** Commander · **Figure:** branded
 
 A soldier commander out of one of the knock-off societies — the off-brand civilizations, plenty of whom would happily declare war on Lego.
 
@@ -2010,7 +2014,7 @@ He is the one who saved the man whose arm turned to rock.
 
 ### 93. The Brute Prince
 
-**Alignment:** good · **Role:** Prince · **Figure:** custom
+**Alignment:** good · **Role:** Prince · **Figure:** branded
 
 A prince of the Mega Bloks world — a prince, not a king — during the Halo Mega Bloks wars.
 
@@ -3204,7 +3208,7 @@ A beach surfer.
 
 ### 208. The Car Repairman
 
-**Alignment:** good · **Role:** Mechanic · **Figure:** custom
+**Alignment:** good · **Role:** Mechanic · **Figure:** branded
 
 One of the men who came across with the Defector when he switched sides.
 
@@ -3236,7 +3240,7 @@ One of the Space Police pilots.
 
 ### 211. The Red Spartan
 
-**Alignment:** good · **Role:** Soldier · **Figure:** custom
+**Alignment:** good · **Role:** Soldier · **Figure:** branded
 
 A Mega Bloks Halo Spartan, out of the same world the Brute Prince is a prince of.
 
@@ -6922,7 +6926,7 @@ He is also a weapon himself. His body cannot be broken, so he uses it: he launch
 
 ### 545. The Knock-off Captain
 
-**Alignment:** bad · **Role:** Captain · **Figure:** custom
+**Alignment:** bad · **Role:** Captain · **Figure:** branded
 
 A military captain out of one of the knock-off societies - the off-brand civilizations, the ones that would go to war with Lego given the chance.
 
@@ -9216,7 +9220,7 @@ Three skeletons who wanted nothing, filed with the enemy because there is nowher
 
 ### 762. The Halo Grunts — Two of them
 
-**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+**Alignment:** bad · **Role:** Soldier · **Figure:** branded
 
 Two Halo grunts - the infantry of the Mega Bloks side.
 
@@ -9226,7 +9230,7 @@ Two Halo grunts - the infantry of the Mega Bloks side.
 
 ### 763. Sigrid III
 
-**Alignment:** bad · **Role:** Warrior · **Figure:** custom
+**Alignment:** bad · **Role:** Warrior · **Figure:** branded
 
 Sigrid III, of the Stone Warriors.
 
@@ -9238,7 +9242,7 @@ Below the waist he is a Lego minifigure. Standard grey legs, printed with a lime
 
 ### 764. The Copper
 
-**Alignment:** bad · **Role:** Warrior · **Figure:** custom
+**Alignment:** bad · **Role:** Warrior · **Figure:** branded
 
 The copper one.
 
@@ -9248,7 +9252,7 @@ The copper one.
 
 ### 765. The Stone Warriors — The rank and file
 
-**Alignment:** bad · **Role:** Warrior · **Figure:** custom
+**Alignment:** bad · **Role:** Warrior · **Figure:** branded
 
 More of the Stone Warriors.
 
@@ -9258,7 +9262,7 @@ More of the Stone Warriors.
 
 ### 766. The Warrior in the Gold Helm
 
-**Alignment:** bad · **Role:** Warrior · **Figure:** custom
+**Alignment:** bad · **Role:** Warrior · **Figure:** branded
 
 A stone warrior wearing one arm of the other metal.
 
@@ -9268,7 +9272,7 @@ A stone warrior wearing one arm of the other metal.
 
 ### 767. The Brass Warrior in the Horned Cap
 
-**Alignment:** bad · **Role:** Warrior · **Figure:** custom
+**Alignment:** bad · **Role:** Warrior · **Figure:** branded
 
 A brass warrior.
 
@@ -9280,7 +9284,7 @@ His head is the plainest of the three. A dark bronze cap, ridged across the crow
 
 ### 768. The Brass Warrior in the Four-Horned Helm
 
-**Alignment:** bad · **Role:** Warrior · **Figure:** custom
+**Alignment:** bad · **Role:** Warrior · **Figure:** branded
 
 A brass warrior, in the four-horned helm.
 
@@ -9292,7 +9296,7 @@ The helm is his. Horned four times over: two long horns sweeping up from the tem
 
 ### 769. The Brass Warrior in the Blue Spikes
 
-**Alignment:** bad · **Role:** Warrior · **Figure:** custom
+**Alignment:** bad · **Role:** Warrior · **Figure:** branded
 
 A brass warrior with his face showing, and two blue spiked pieces at his back.
 
@@ -9304,7 +9308,7 @@ His head is bare. Under a low domed cap there is a sculpted face - a heavy brow,
 
 ### 770. The Rebuilt Stone Warriors — Two of them
 
-**Alignment:** bad · **Role:** Warrior · **Figure:** custom
+**Alignment:** bad · **Role:** Warrior · **Figure:** branded
 
 Stone warriors whose soldiers died. The armour outlived the men inside it, so the bodies were rebuilt with robots in them and sent back out.
 
@@ -9316,7 +9320,7 @@ The heads are the difference, and they are Lego. Both wear the same black helmet
 
 ### 771. The Yellow Spartan
 
-**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+**Alignment:** bad · **Role:** Soldier · **Figure:** branded
 
 A Halo Spartan in yellow.
 
@@ -9326,7 +9330,7 @@ A Halo Spartan in yellow.
 
 ### 772. The ODST Spartans — Three of them
 
-**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+**Alignment:** bad · **Role:** Soldier · **Figure:** branded
 
 Halo ODSTs. Three of them, and no two kitted alike.
 
@@ -9342,7 +9346,7 @@ The third is olive green rather than black: an olive helmet with the same blue v
 
 ### 773. The Jackals — Two of them
 
-**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+**Alignment:** bad · **Role:** Soldier · **Figure:** branded
 
 Two jackals.
 
@@ -9352,7 +9356,7 @@ Two jackals.
 
 ### 774. The Second Red Spartan
 
-**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+**Alignment:** bad · **Role:** Soldier · **Figure:** branded
 
 A red Spartan, and not the one who came over.
 
@@ -9362,7 +9366,7 @@ A red Spartan, and not the one who came over.
 
 ### 775. The Purple Spartan
 
-**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+**Alignment:** bad · **Role:** Soldier · **Figure:** branded
 
 A Spartan in purple.
 
@@ -9372,7 +9376,7 @@ A Spartan in purple.
 
 ### 776. The Standard Spartans — Three of them
 
-**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+**Alignment:** bad · **Role:** Soldier · **Figure:** branded
 
 Three Spartans in the standard green.
 
@@ -9382,7 +9386,7 @@ Three Spartans in the standard green.
 
 ### 777. The Elites — Two of them
 
-**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+**Alignment:** bad · **Role:** Soldier · **Figure:** branded
 
 Two elites.
 
@@ -9412,7 +9416,7 @@ Clone Commander Gree. He is one of the good ones.
 
 ### 780. The Hayabusa
 
-**Alignment:** bad · **Role:** Soldier · **Figure:** custom
+**Alignment:** bad · **Role:** Soldier · **Figure:** branded
 
 A Halo Hayabusa. He is evil.
 

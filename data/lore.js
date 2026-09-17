@@ -1670,19 +1670,37 @@ window.LORE = [
       "their own entry. Nothing is inferred, no relationship is invented to " +
       "make a pairing land. The betrayers turn up beside the people they " +
       "betrayed because somebody wrote it down at the time.\n\n" +
-      "The order is the order things were added in, because that is the " +
-      "importance order and always was. The good side and the bad side each " +
-      "keep their own, and the deck deals them out in turn - a block of the " +
-      "good, a block of the bad, sized so the two run out together. The First " +
-      "Man and the people around him, then Quinn and the people around him, " +
-      "then the next of each, and down.\n\n" +
-      "There was a version of this that tried to be clever about it. It read " +
-      "words like commander and captain off the cards, scored everybody on " +
-      "them, and sorted the collection by the result. It put the Aqua Force " +
-      "in front of the First Man, buried the number one villain four hundred " +
-      "cards deep, and stood a traitor next to a robot instead of next to the " +
-      "men he betrayed. The order these were added in already knew all of " +
-      "that. Nothing here guesses at rank any more."
+      "The order is a power scale. Every figure stands on one of nine rungs - " +
+      "gods, demigods, principals, command, elite, soldiers, police, fire " +
+      "service, civilians - and the rule behind it is that anybody should beat " +
+      "anybody two or three rungs under them. A god beats the Prince. The " +
+      "Prince beats a mercenary. A mercenary beats a cop, a cop beats a " +
+      "fireman, a fireman beats a civilian.\n\n" +
+      "It is not strictly physical, and that is the interesting part. It " +
+      "counts the power somebody leads as well as the power they personally " +
+      "have, which is why the Prince stands at the top of the good side " +
+      "without being a superhero: he is in charge of the entire civilisation. " +
+      "Quinn stands opposite him for the same reason. And it cuts the other " +
+      "way - Deus Pater and Aphrodite are ranked cosmic deities in this " +
+      "catalogue and neither is on the god rung, because a statue and a " +
+      "beautiful woman cannot make anything. Four figures clear that bar: the " +
+      "First Man, the Cosmic Twins, the Shadow King and the Light King.\n\n" +
+      "The combined deck reads rung by rung - the gods of both sides, then the " +
+      "demigods of both, then the principals of both, and down, with the good " +
+      "first on every rung. The First Man opens it, the Shadow King and the " +
+      "Light King stand two cards behind him, and the Prince and Quinn are " +
+      "fifteen apart instead of four hundred.\n\n" +
+      "Two earlier attempts are worth recording, because the failures are what " +
+      "produced the rule. The first scored everybody off words like commander " +
+      "and captain and sorted on the result: it put the Aqua Force in front of " +
+      "the First Man. The second threw that out and used the order the cards " +
+      "were added in as the importance order: that buried the number one " +
+      "villain four hundred cards deep and stood an unnamed surfer above armed " +
+      "enemy soldiers. Neither was reading what the cards actually say. The " +
+      "ladder is written down now, in one file, with every job title in the " +
+      "catalogue on it and a named exception list underneath - so when " +
+      "somebody is on the wrong rung it is one line to move them, and the " +
+      "reason is written next to them."
   },
 
   {
