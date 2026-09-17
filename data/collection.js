@@ -13129,10 +13129,11 @@ window.COLLECTION = [
     tags: ["villain", "phalanx", "nanobots", "virus", "alien", "skull", "planet-eater", "zombies", "hive"],
     images: [
       { src: "images/phalanx-01.jpg", caption: "On the shelf" },
-      { src: "images/phalanx-02.jpg", caption: "Front on - the tusks, and the one armoured arm" },
+      { src: "images/phalanx-02.jpg", caption: "Front on - the tusks, and the heavy arm" },
+      { src: "images/phalanx-03.jpg", caption: "Concept art" },
     ],
     acquired: "",
-    notes: "A different kind of threat from the other two. Quinn and the Shadow King both want something - power, a war won - and this one is an appetite that happens to be clever. He is also the first villain here who commands anything: an army of taken bodies, which makes him the only enemy in this collection with a force behind him that is not made of soldiers who chose it. Worth noting he is the second entity built out of something that was here before - the Ancient is the other - and the only one that was dug up and worn."
+    notes: "A different kind of threat from the other two. Quinn and the Shadow King both want something - power, a war won - and this one is an appetite that happens to be clever. He is also the first villain here who commands anything: an army of taken bodies, which makes him the only enemy in this collection with a force behind him that is not made of soldiers who chose it. Worth noting he is the second entity built out of something that was here before - the Ancient is the other - and the only one that was dug up and worn.\n\nConcept art added, and it settles what he is made of. The second photograph's caption used to say armoured arm and that was wrong - there is no armour anywhere on him. The plating is his own skin: hard faceted mineral hide, slate-grey, dry rather than wet, and the huge arm is that same skin grown thick enough to break things with. Only the skull is a different material, older-looking than the body, which is exactly what this card says happened - a nanobot virus found an ancient skull and built a body onto it.\n\nThe art also gives him the single spear-tipped tentacle over the shoulder, tracking where he looks. Nothing else in the collection has a limb that aims itself."
   },
 
 
