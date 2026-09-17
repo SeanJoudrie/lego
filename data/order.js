@@ -31,12 +31,16 @@ window.ORDER = {
     "Gods",            // 0  creative power. Not a title - the ability to make things.
     "Demigods",        // 1
     "Principals",      // 2  the main heroes and the main villains. Who calls the shots.
-    "Champions",       // 3  the best fighters and the officers who really command
-    "Elite",           // 4  Jedi, Sith, assassins, commandos, bounty hunters, knights
-    "Soldiers",        // 5  troopers, pilots, gunners, guards, warriors, droids, militia
-    "Police",          // 6
-    "Fire service",    // 7
-    "Civilians",       // 8
+    "Champions",       // 3  the best fighters, and the officers who really command
+    "Elite",           // 4  elite units and the people who beat ordinary soldiers
+    "Soldiers",        // 5  line troops, pilots, gunners, guards, droids
+    "Warriors",        // 6  fighters carrying swords, axes and bows. A bronze
+                       //    blade does not beat a minigun, however well trained
+                       //    the man holding it - so they sit under the guns and
+                       //    above the people who are not fighting at all.
+    "Police",          // 7
+    "Fire service",    // 8
+    "Civilians",       // 9
   ],
 
   /* --------------------------------------------------------- what they ARE
@@ -56,7 +60,7 @@ window.ORDER = {
      A villain with nothing written down is a threat rather than a bystander -
      the orcs, the werewolf, the skeletons - so the enemy side falls back to
      Soldiers and everybody else to Civilians. */
-  fallback: { good: 8, bad: 5 },
+  fallback: { good: 9, bad: 5 },
 
   /* ------------------------------------------------------------ job titles */
   roles: {
@@ -89,8 +93,8 @@ window.ORDER = {
     // 4 - elite
     "Jedi": 4, "Sith": 4, "Assassin": 4, "Bounty Hunter": 4, "Hitman": 4,
     "Commando": 4, "Clone Commando": 4, "ARC Trooper": 4, "Sniper": 4,
-    "Mandalorian": 4, "Ninja": 4, "Samurai": 4, "Knight": 4, "Mace Knight": 4,
-    "Swordsman": 4, "Fencer": 4, "Mercenary": 4, "Enforcer": 4, "Outlaw": 4,
+    "Mandalorian": 4, "Ninja": 4, "Samurai": 6, "Knight": 6, "Mace Knight": 6,
+    "Swordsman": 6, "Fencer": 6, "Mercenary": 4, "Enforcer": 4, "Outlaw": 4,
     "Vigilante": 4, "Auror": 4, "Infiltrator": 4, "Disc Thrower": 4,
     "Brawler": 4, "Heavy": 4, "Guardian": 4, "Honor Guard": 4, "Agent": 4,
     "Royal Intelligence Agent": 4, "Smuggler": 4, "Fanatic": 4, "Shaman": 4,
@@ -104,43 +108,43 @@ window.ORDER = {
     "Machine Gunner": 5, "Artillery": 5, "Defense Gunner": 5, "Medic": 5,
     "Armorer": 5, "Technician Sergeant": 5, "Sergeant": [5, 1],
     "Ranger": 5, "Space Ranger": 5,
-    "Warrior": 5, "Pirate": 5, "Viking": 5, "Archer": 5, "Crossbowman": 5,
+    "Warrior": 6, "Pirate": 6, "Viking": 6, "Archer": 6, "Crossbowman": 6,
     "Goon": 5, "Thug": 5, "Raider": 5, "Quartermaster": 5, "Space Command": 5,
     "Propagandist": 5, "Space Biker": 5, "Discarded": 5, "Horse": 5,
     "Replica": 5,
 
     // 6 - police
-    "Police": 6, "Chief of Police": [6, 0], "Watch Command": [6, 0],
-    "Domestic Police Commander": [6, 0], "Space Police": 6,
-    "Chief of Space Police": [6, 0], 
-    "Sheriff": [6, 1], "Detective": 6, "SWAT": 6, "Animal Control": 6,
-    "Highway Patrol": 6, 
+    "Police": 7, "Chief of Police": [7, 0], "Watch Command": [7, 0],
+    "Domestic Police Commander": [7, 0], "Space Police": 7,
+    "Chief of Space Police": [7, 0], 
+    "Sheriff": [7, 1], "Detective": 7, "SWAT": 7, "Animal Control": 7,
+    "Highway Patrol": 7, 
 
     // 7 - fire service
-    "Fire Chief": [7, 0], "Firefighter": 7,
+    "Fire Chief": [8, 0], "Firefighter": 8,
 
     // 8 - civilians. Everything with a job that is not fighting, policing or
     // putting fires out. Leaders of civilian outfits lead their own people and
     // go no higher - a dive team captain does not outrank a soldier.
-    "Leader": [8, 0], "Explorer": 8,
-    "Safari Master": [8, 0], "Diver": [8, 2], "Dive Team": [8, 2], "Aqua Force": [8, 2],
-    "Astronaut": [8, 2], "Spaceman": [8, 1], 
-    "Aircraft Engineer": 8, "Aircraft Mechanic": 8, "Mechanic": 8,
-    "Mechanic Supervisor": [8, 0], "Engineer": 8, "Technician": 8,
-    "Construction Chief": [8, 0], "Construction Worker": 8, "Site Planner": 8,
-    "Power Miner": [8, 2], "Miner": [8, 2], "Blacksmith": 8, "Dockworker": 8,
-    "Farmer": 8, "Fisherman": 8, "Greengrocer": 8, "Shopkeeper": 8,
-    "Chef": 8, "Tea Seller": 8, "Gas Attendant": 8, "Courier": 8,
-    "Doctor": 8, "Professor": 8, "Librarian": 8, "Student": [8, 9],
-    "Law Student": [8, 9], "Graduate": [8, 9], "Intern": [8, 9],
-    "Bank Teller": 8, "Financier": 8, "Inventory Specialist": 8,
-    "Secretary": 8, "Assistant": 8, "Rights Activist": 8, 
-    "Traveller": 8, "Backpacker": 8, "Surfer": 8, "Athlete": 8,
-    "Racing Driver": 8, "Stunt Driver": 8, "Stuntman": 8, "Stunt Double": 8,
-    "Musician": 8, "Rapper": 8, "Bard": 8, "Jester": 8, "Clown": 8,
-    "Stand-up Comedian": 8, "Camera Operator": 8, "Peasant": 8,
-    "Civilian": 8, "Orphan": [8, 9], "Royal Child": [8, 9], "Child": [8, 9],
-    "Apprentice": [8, 9], "Gatekeeper": 8, "Easter Bunny": 8, "Inventor": 8,
+    "Leader": [9, 0], "Explorer": 9,
+    "Safari Master": [9, 0], "Diver": [9, 2], "Dive Team": [9, 2], "Aqua Force": [9, 2],
+    "Astronaut": [9, 2], "Spaceman": [9, 1], 
+    "Aircraft Engineer": 9, "Aircraft Mechanic": 9, "Mechanic": 9,
+    "Mechanic Supervisor": [9, 0], "Engineer": 9, "Technician": 9,
+    "Construction Chief": [9, 0], "Construction Worker": 9, "Site Planner": 9,
+    "Power Miner": [9, 2], "Miner": [9, 2], "Blacksmith": 9, "Dockworker": 9,
+    "Farmer": 9, "Fisherman": 9, "Greengrocer": 9, "Shopkeeper": 9,
+    "Chef": 9, "Tea Seller": 9, "Gas Attendant": 9, "Courier": 9,
+    "Doctor": 9, "Professor": 9, "Librarian": 9, "Student": [9, 9],
+    "Law Student": [9, 9], "Graduate": [9, 9], "Intern": [9, 9],
+    "Bank Teller": 9, "Financier": 9, "Inventory Specialist": 9,
+    "Secretary": 9, "Assistant": 9, "Rights Activist": 9, 
+    "Traveller": 9, "Backpacker": 9, "Surfer": 9, "Athlete": 9,
+    "Racing Driver": 9, "Stunt Driver": 9, "Stuntman": 9, "Stunt Double": 9,
+    "Musician": 9, "Rapper": 9, "Bard": 9, "Jester": 9, "Clown": 9,
+    "Stand-up Comedian": 9, "Camera Operator": 9, "Peasant": 9,
+    "Civilian": 9, "Orphan": [9, 9], "Royal Child": [9, 9], "Child": [9, 9],
+    "Apprentice": [9, 9], "Gatekeeper": 9, "Easter Bunny": 9, "Inventor": 9,
 
     // 2 - principals (second pass)
     "Emperor": 2, "Supreme Chancellor": 2, "Viceroy": 2, "Governor": 2,
@@ -148,33 +152,33 @@ window.ORDER = {
 
     // 3 - command (second pass)
     "Leader, Space Bikers": [3, 0], "Patrol Captain": [3, 0],
-    "Nightwatch Captain": [6, 0], "Officer": 5,
+    "Nightwatch Captain": [7, 0], "Officer": 5,
 
     // 4 - elite (second pass)
-    "Arms Dealer": 4, "Gunslinger": 4, "Gladiator": 4, "Pimp": 4,
+    "Arms Dealer": 4, "Gunslinger": 4, "Gladiator": 6, "Pimp": 4,
 
     // 5 - soldiers (second pass)
-    "Cavalry": 5, "Clubman": 5, "Astronaut Soldier": 5, "Beast": 5, "Elf": 5,
+    "Cavalry": 6, "Clubman": 6, "Astronaut Soldier": 5, "Beast": 5, "Elf": 6,
 
     // Third pass - corrections. A title only counts for as much as the force
     // behind it: leading a dive team or a pirate crew is not commanding an army.
-    "Pharaoh": 4, "Supreme Mega Knight": [4, 0], "Swordmaster": [4, 1],
-    "Archer Commander": [4, 1], "Ambassador": 4, "Combat Instructor": 4,
+    "Pharaoh": 4, "Supreme Mega Knight": [6, 0], "Swordmaster": [6, 1],
+    "Archer Commander": [6, 1], "Ambassador": 4, "Combat Instructor": 4,
     "Forensic Agent": 4, "Power Source": 4,
-    "Pirate Captain": [5, 0], "First Mate": [5, 1],
+    "Pirate Captain": [6, 0], "First Mate": [6, 1],
     "Space Police Gunner": 5, "Space Engineer": 5, "Space Cadet": [5, 9],
-    "Occult Instructor": 8, "Launch Director": 8,
+    "Occult Instructor": 9, "Launch Director": 9,
 
     // The space militia are not ordinary soldiers - they carry plasma weapons
     // and the Verdauf squadron is an elite guard. The adventure crew are not
     // soldiers at all but every one of them is armed, and so are the woodsman
     // and the jungle adventurers, who fight with swords.
     "Space Militia": 4, "Verdauf Squadron": 4,
-    "Adventure Crew": 5, "Adventurer": 5, "Woodsman": 5,
+    "Adventure Crew": 5, "Adventurer": 5, "Woodsman": 6,
 
     // 8 - civilians (second pass)
-    "Director, Royal Transport Authority": [8, 0], "Robot Builder": 8,
-    "Curator": 8, "Gardener": 8, "Convict": 8, "Criminal": 8,
+    "Director, Royal Transport Authority": [9, 0], "Robot Builder": 9,
+    "Curator": 9, "Gardener": 9, "Convict": 9, "Criminal": 9,
   },
 
   /* ------------------------------------------------------- named exceptions
@@ -219,7 +223,7 @@ window.ORDER = {
     // Ranked cosmic deities who are not gods, and one who is not a principal
     // either: "Aphrodite is no more powerful than a civilian."
     "deus-pater": 2,
-    "aphrodite": 8,
+    "aphrodite": 9,
 
     // Down a rung. The dwarves do as they please, so their king commands less
     // than the title suggests; the Evil King's Son is not a major villain.
@@ -260,8 +264,14 @@ window.ORDER = {
     "magneto": [3, 2],
 
     // --- 4. elite
-    "the-discarded": 4,            // an ambassador, not a field commander
-    "the-instructor": 4,
+    // "He is literally just a guy with a robot arm." His card calls him an
+    // ambassador because he is a bridge between civilisations, not because he
+    // commands anything - he is a kind, well-travelled explorer with no combat
+    // experience and one arm missing. He does not beat trained soldiers.
+    "the-discarded": [9, 0],
+    // Real combat experience and he teaches it, but he is badly worn - the new
+    // legs rip into his torso. He trains soldiers; he does not outfight them.
+    "the-instructor": 5,
     "the-bounty-hunter-captain": 4,
     "the-nightwatch-captain": 4,   // bumped up two rungs
     "the-giant-orc": 4,
@@ -272,23 +282,23 @@ window.ORDER = {
     "the-chaosborn": 5,            // carries a sword
     "the-commissioners-apprentice": 5,   // he nearly killed the Commissioner
     "the-repair-crew": 5,          // armed and trained for combat
-    "the-green-officer": [6, 0],
+    "the-green-officer": [7, 0],
 
     // --- 8. civilians
-    "the-occultist": 8,            // a professor
-    "the-dive-captain": 8,
-    "the-aqua-force-leader": 8,     // leads a dive crew, not a fighting force
-    "the-aqua-force-second": 8,
-    "the-flight-director": 8,       // runs a launch pad    // a civilian diver with a boat
-    "the-former-dive-captain": 8,
-    "the-knighted-civilian": [8, 0],
-    "matthew": 8,                  // a civilian child
-    "elizabeth-swann": 8,
-    "spongebob": 8,
+    "the-occultist": 9,            // a professor
+    "the-dive-captain": 9,
+    "the-aqua-force-leader": 9,     // leads a dive crew, not a fighting force
+    "the-aqua-force-second": 9,
+    "the-flight-director": 9,       // runs a launch pad    // a civilian diver with a boat
+    "the-former-dive-captain": 9,
+    "the-knighted-civilian": [9, 0],
+    "matthew": 9,                  // a civilian child
+    "elizabeth-swann": 9,
+    "spongebob": 9,
 
     // The Atlantis dive team's actual leader. He was last; he leads it.
-    "the-young-leader": 8,
-    "the-atlantis-leader": 8,
+    "the-young-leader": 9,
+    "the-atlantis-leader": 9,
 
     // Leads soldiers, not a civilian outfit.
     "the-winter-trooper-leader": 3,

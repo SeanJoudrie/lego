@@ -1670,12 +1670,20 @@ window.LORE = [
       "their own entry. Nothing is inferred, no relationship is invented to " +
       "make a pairing land. The betrayers turn up beside the people they " +
       "betrayed because somebody wrote it down at the time.\n\n" +
-      "The order is a power scale. Every figure stands on one of nine rungs - " +
-      "gods, demigods, principals, command, elite, soldiers, police, fire " +
-      "service, civilians - and the rule behind it is that anybody should beat " +
-      "anybody two or three rungs under them. A god beats the Prince. The " +
-      "Prince beats a mercenary. A mercenary beats a cop, a cop beats a " +
-      "fireman, a fireman beats a civilian.\n\n" +
+      "The order is a power scale. Every figure stands on one of ten rungs - " +
+      "gods, demigods, principals, champions, elite, soldiers, warriors, " +
+      "police, fire service, civilians - and the rule behind it is that " +
+      "anybody should beat anybody two or three rungs under them. A god beats " +
+      "the Prince. The Prince beats a mercenary. A mercenary beats a cop, a " +
+      "cop beats a fireman, a fireman beats a civilian.\n\n" +
+      "The warriors rung is the one that took longest to find, and it is the " +
+      "most telling thing on the ladder. The Royal Knights were filed above " +
+      "the elite soldiers for a while, because a knight sounds more important " +
+      "than a trooper. A bronze sword does not beat a minigun. However well " +
+      "trained the man holding it, this world has plasma weapons in it, and " +
+      "the knights, the archers, the swordsmen, the vikings, the pirates and " +
+      "the stone warriors all sit under the guns - and above everybody who is " +
+      "not fighting at all.\n\n" +
       "It is not strictly physical, and that is the interesting part. It " +
       "counts the power somebody leads as well as the power they personally " +
       "have, which is why the Prince stands at the top of the good side " +
