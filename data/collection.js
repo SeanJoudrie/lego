@@ -426,7 +426,10 @@ window.COLLECTION = [
       "He's basically Star-Lord, before Star-Lord ever came out.",
     provenance: "",
     tags: ["royal-family", "bounty-hunter", "takes-them-alive", "charismatic"],
-    images: ["images/kaz-01.jpg"],
+    images: [
+      { src: "images/kaz-01.jpg", caption: "The figure" },
+      { src: "images/kaz-02.jpg", caption: "Hat, coat and cape" },
+    ],
     acquired: "",
     notes: ""
   },
@@ -13142,7 +13145,7 @@ window.COLLECTION = [
   {
     id: "the-prince-pretender",
     name: "The Prince Pretender",
-    variant: "",
+    variant: "Two figures",
     faction: "bad",
     origin: "custom",
     theme: "Creation Mythos",
@@ -13172,9 +13175,12 @@ window.COLLECTION = [
       "red medallion, and a gold-trimmed black belt with a crest at the buckle. " +
       "Pale grey legs with plain pocket flaps - the only ordinary thing on him.",
     tags: ["villain", "pretender", "royal-claim", "throne", "entitled", "quinn", "royal-family"],
-    images: ["images/the-prince-pretender-01.jpg"],
+    images: [
+      { src: "images/the-prince-pretender-01.jpg", caption: "At court" },
+      { src: "images/the-prince-pretender-02.jpg", caption: "In gear" },
+    ],
     acquired: "",
-    notes: "He sharpens something the Prince\'s own card has said from the beginning - that the man is king \"de facto, never by claim\". Now there is somebody for whom that is a grievance. Kept out of the Royal Household: he is the Queen\'s brother and the royal children\'s uncle, but a group shows everybody to everybody and he is not one of them by choice. Say the word and he goes in. Second villain here who is somebody\'s family, after the Shadow King."
+    notes: "He sharpens something the Prince\'s own card has said from the beginning - that the man is king \"de facto, never by claim\". Now there is somebody for whom that is a grievance. Kept out of the Royal Household: he is the Queen\'s brother and the royal children\'s uncle, but a group shows everybody to everybody and he is not one of them by choice. Say the word and he goes in. Second villain here who is somebody\'s family, after the Shadow King.\n\nA second figure, and it is a different man to look at. At court he is blue and gold with stars on the tunic and a crown printed at the belt - the claim worn as clothing. In gear he is grey and black: a hooded helm with a face guard leaving only the eyes, a dark mantle over the shoulders, a rifle in one hand and a sword hilt at the hip. Nothing of the blood claim is visible on him at all.\n\nFiled as him on your word - you sent it as the royal uncle in gear, and he is the royal children's uncle. Worth saying that nothing in the photograph identifies him: the face is covered. If the man under that helm is somebody else, it is one word and he gets his own card."
   },
 
 
@@ -22008,6 +22014,106 @@ window.COLLECTION = [
     ],
     acquired: "",
     notes: "Filed bad because you said so. That is worth marking: every other Spartan-shaped figure out of this maker was filed on the standing reasoning - the side rather than the man, because the world notes name that side as the aggressor and nothing had been said about any of them. This is the first one where the word came with the figure, and it went the same way the reasoning did.\n\nHe is the third red Spartan-type here and the three of them now cover the whole spread. The Red Spartan came over to the good guys. The Second Red Spartan did not, and was filed on the default. This one is evil on your word. Same maker, same colour, three different routes onto the page.\n\nThe armour over the armour is what makes him. A separate white shell fitted over the helmet, horned and flared like a samurai hood - which on this shelf puts him with the small number of figures wearing a second head over the first: the Crimson Ninja under his straw hat, the Astronaut Ninja, the stone warriors under their visors. On all of those the outer piece hides a face. On this one it hides a helmet that was already hiding one.\n\nNo photograph of the figure yet. He and Commander Gree are the only two cards here in that state."
+  },
+
+  {
+    id: "the-old-man-with-one-arm",
+    name: "The Old Man with One Arm",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An old man, and a villain.",
+    provenance:
+      "White hair swept back in a heavy sweep, and under it a yellow face gone " +
+      "hard: brows down, mouth set, a long grey moustache falling either side " +
+      "of it into a short beard, and orange scoring worked across both cheeks " +
+      "and down the jaw. A deep red neckerchief tied at the throat with the " +
+      "ends hanging loose over the chest.\\n\\n" +
+      "A dark blue torso printed with rigging - ropes, a crossed strap, a coil " +
+      "worked over the chest - above plain reddish-brown legs.\\n\\n" +
+      "The arms do not match. One is a dark grey limb of stacked segments, " +
+      "ribbed along its whole length and much heavier than it should be, " +
+      "ending in an ordinary yellow hand. The other is red cloth with a yellow " +
+      "hand at the end of it.",
+    tags: ["villain", "old", "prosthetic", "one-arm", "scarred", "neckerchief", "rigging", "white-hair"],
+    images: [
+      "images/the-old-man-with-one-arm-01.jpg",
+    ],
+    acquired: "",
+    notes: "Named for what you called him, and the name is worth a note. You sent him as the old man villain with one arm; the figure has two, and one of them is a heavy segmented grey limb that is plainly not flesh. Either the grey one is the replacement and the arm he was born with is gone - which is what the name says - or he is missing one entirely and the card should say so. Written as the first because that is what the plastic shows.\\n\\nIf it is a prosthetic, he lands in the middle of this world's oldest idea, and on the wrong side of it. Losing a limb and getting a better one back is what happens to good people here: the Discarded's silver arm is why the civilization has cybernetics, the Mechanic repaired his own, the Space Militia's one casualty came back with an arm stronger than the one he lost. The villains who carry replacements carry them differently - the Bionics Team builds limbs that double as weapons, and the Damaged Battle Droid is simply short an arm with nothing put back. This one is an old man with a machine where an arm used to be and no story attached yet.\\n\\nThe rigging on his chest is the other thread. Ropes, a crossed strap and a coil is sailor's kit, and this collection has a sea: pirates, an underwater king, a ninja who goes places on a boat. Nothing says he is one of them."
+  },
+
+  {
+    id: "the-evil-space-militia",
+    name: "The Evil Space Militia",
+    variant: "Some of them",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Soldier",
+    group: "The Alien Militia",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Some of the evil space militia.",
+    provenance:
+      "A crowd, packed shoulder to shoulder and mostly not human. Green faces " +
+      "with heavy brows and red eyes, reptile snouts and tusks, one white skull " +
+      "with black sockets lit red at the pupil, one blue-skinned with red hair, " +
+      "one split red and black down the middle of the face. Orange, red and " +
+      "blond hairpieces, a black helm, a leopard-print collar, a knitted cap " +
+      "with an aerial standing off it.\\n\\n" +
+      "The kit is as mixed as the faces: studded black torsos, gold sashes, " +
+      "bone necklaces, chest rigs, one in blue and green panels. Fourteen " +
+      "figures are countable in the photograph and there are more behind them.",
+    tags: ["villain", "militia", "alien", "crowd", "soldiers", "mixed", "school"],
+    images: [
+      "images/the-evil-space-militia-01.jpg",
+    ],
+    acquired: "",
+    notes: "This may close a card that has been open since it was written. The Alien Militia Commander is catalogued as a captain of the alien militia and the commander of its school - his card says the people who fight for that militia come up through him - and until now the group had exactly one member in it: him. A crowd of alien soldiers arriving is the thing that card was waiting for, so they are filed there.\\n\\nThe flag is the name. You called them the evil space militia, and this collection already has a Space Militia - seventeen strong, on the good side, whose whole identity is that they have never lost anyone. If these are meant as that unit's opposite number rather than the alien militia's rank and file, it is one word and they move to a group of their own. Both readings are live: they are unmistakably alien, which points one way, and you used the word space, which points the other.\\n\\nEither way they are the largest body of enemy figures in one photograph in the collection. No count written down beyond what can be seen - fourteen faces are countable and the back of the crowd is not.\\n\\nWorth recording what they are not. Every other force on that deck is one kind of thing repeated: the Shadow Soldiers, the Kartians, the Sting Rays, the Martians, the droids. This is a militia in the proper sense - a dozen different species, a dozen different kits, nobody issued the same thing twice. It looks less like an army than like everyone who turned up."
+  },
+
+  {
+    id: "the-smiling-hitman",
+    name: "The Smiling Hitman",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Hitman",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "A hitman. Charismatic, charming, and a psychopath - he smiles the whole " +
+      "way through it.",
+    provenance:
+      "A black helmet closed over the whole head, with a broad silver faceplate " +
+      "across the front cut by a single dark horizontal slot at the eyes. " +
+      "Nothing of the face shows.\\n\\n" +
+      "A pale cream torso printed with an open collar over a dark undershirt, " +
+      "two double magazine pouches high on the left of the chest, a small white " +
+      "card or badge at the right with a red mark on it, a white belt with a " +
+      "round silver buckle and a tan pouch hanging at the hip. Cream arms, " +
+      "black hands, plain black legs. He is holding a black rifle with a white " +
+      "cylinder fitted under the barrel.",
+    tags: ["villain", "hitman", "assassin", "helmet", "visor", "faceless", "charismatic", "psychopath"],
+    images: [
+      "images/the-smiling-hitman-01.jpg",
+    ],
+    acquired: "",
+    notes: "Third hitman here, after the Hitman - a poacher who changed quarry - and the French Hitman. The three of them have nothing in common as figures, which is the interesting part: one is a man in a white jacket with a necklace of teeth, one is in a double-breasted suit with a red tie, and this one is sealed inside a helmet.\\n\\nThe smile is the problem and it is worth stating plainly. You described him as charismatic, charming and a psychopath who smiles through the work, and not one bit of that is visible: the faceplate covers everything. This collection has faces doing enormous work everywhere - three skeletons were sorted onto different decks on the strength of a printed grin - and here is a man whose entire character is an expression nobody can see.\\n\\nThat makes him the opposite of the Pimp, whose card is built on a badge that says one thing while the man is another. This one's badge says nothing at all. If he has a second figure with the helmet off, that is the photograph this card actually wants."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
