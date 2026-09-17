@@ -394,9 +394,12 @@ window.COLLECTION = [
       "taxes anyone could enforce. Mostly he makes sure human rights are upheld.",
     provenance: "",
     tags: ["royal-family", "outcast", "smuggler", "pirate", "beast-hunter", "off-grid"],
-    images: ["images/the-outcast-prince-01.jpg"],
+    images: [
+      { src: "images/the-outcast-prince-01.jpg", caption: "The figure" },
+      { src: "images/the-outcast-prince-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: ""
+    notes: "\n\nConcept art added, and it contradicts this card in one place worth recording. He is written as having settled on a sandy planet, somewhere like Mad Max, living as a smuggler and a pirate. The art puts him in snow, in a pine forest, beside a burnt-down fire with his helmet in his hand. Nothing says he stayed on that planet - a man who decided to live off the rails is allowed to move - but the picture and the entry describe two different places, and only one of them is written down."
   },
 
   {
@@ -2627,9 +2630,12 @@ window.COLLECTION = [
       "he should have.",
     provenance: "",
     tags: ["outlaw", "space-pirate", "mercenary", "reformed", "great-shadow-war", "cowboy"],
-    images: ["images/the-outlaw-01.jpg"],
+    images: [
+      { src: "images/the-outlaw-01.jpg", caption: "The figure" },
+      { src: "images/the-outlaw-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "Written as traits rather than naming the Red Dead comparison, same as the Anakin and Avatar ones - say if you'd rather it were named outright."
+    notes: "Written as traits rather than naming the Red Dead comparison, same as the Anakin and Avatar ones - say if you'd rather it were named outright.\n\nConcept art added. A frontier street at golden hour, the long revolver held down at his side, and both cloths in frame - maroon at the throat and shoulders, sand-tan hanging down his back. The face does what his card asks for: weary, dry, unimpressed, and not unkind."
   },
 
   {
@@ -13190,14 +13196,21 @@ window.COLLECTION = [
       "of combat there is.",
     provenance:
       "A green face, deeply scored, with dark markings running from the eyes " +
-      "down past a heavy drooping moustache, under a swept brown-gold hairpiece. " +
+      "down past the mouth, under a swept brown-gold hairpiece. " +
       "Grey and gold armour with a bandolier of shells over one shoulder and a " +
       "cog badge at the chest, a yellow-striped belt, black legs with silver " +
-      "chevrons at the knees and boots.",
+      "chevrons at the knees and boots.\n\n" +
+      "This card said moustache for a long time and it was wrong. The dark shape " +
+      "under his nose is not hair - it is the mouth itself, wide and lipless, the " +
+      "heavy upper lip overhanging and drooping at both corners into two short " +
+      "fleshy points. He has no facial hair anywhere on him.",
     tags: ["villain", "mercenary", "alien", "combat", "leader", "bandolier", "brother"],
-    images: ["images/the-lead-alien-mercenary-01.jpg"],
+    images: [
+      { src: "images/the-lead-alien-mercenary-01.jpg", caption: "The figure" },
+      { src: "images/the-lead-alien-mercenary-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "Leads mercenaries who have not been photographed yet, so the group is real and empty for now. He arrived in the same batch as two arms dealers and nobody has said whether they work together - it would be the obvious arrangement, and it is not written down. Say so and they connect."
+    notes: "Leads mercenaries who have not been photographed yet, so the group is real and empty for now. He arrived in the same batch as two arms dealers and nobody has said whether they work together - it would be the obvious arrangement, and it is not written down. Say so and they connect.\n\nConcept art added, and it is the first picture of him in which nothing reads as human: no facial hair, a lipless mouth drooping at both corners, and hair that is literal metal gold rather than any colour a living thing grows. For the man who leads an army nobody has ever photographed, that is a better face than a moustache was."
   },
 
 

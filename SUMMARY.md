@@ -6146,7 +6146,9 @@ He is a violent, entitled piece of work.
 
 He leads the alien mercenaries, and he is skilled in every single kind of combat there is.
 
-*How it was got:* A green face, deeply scored, with dark markings running from the eyes down past a heavy drooping moustache, under a swept brown-gold hairpiece. Grey and gold armour with a bandolier of shells over one shoulder and a cog badge at the chest, a yellow-striped belt, black legs with silver chevrons at the knees and boots.
+*How it was got:* A green face, deeply scored, with dark markings running from the eyes down past the mouth, under a swept brown-gold hairpiece. Grey and gold armour with a bandolier of shells over one shoulder and a cog badge at the chest, a yellow-striped belt, black legs with silver chevrons at the knees and boots.
+
+This card said moustache for a long time and it was wrong. The dark shape under his nose is not hair - it is the mouth itself, wide and lipless, the heavy upper lip overhanging and drooping at both corners into two short fleshy points. He has no facial hair anywhere on him.
 
 *Connections:* Brother of The Bionic Brother
 
