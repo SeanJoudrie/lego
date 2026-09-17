@@ -2450,8 +2450,8 @@ window.COLLECTION = [
     name: "The Defector",
     variant: "",
     faction: "good",
-    origin: "branded",
-    theme: "Mega Bloks",
+    origin: "custom",
+    theme: "Creation Mythos",
     rank: "",
     role: "Commander",
     group: "The Knock-offs",
@@ -2470,7 +2470,7 @@ window.COLLECTION = [
     tags: ["defector", "knock-off", "commander", "switched-sides", "adapting"],
     images: ["images/the-defector-01.jpg"],
     acquired: "",
-    notes: "The figure is itself a knock-off brick minifigure, so his origin is literally what he's made of - the most direct case of the lore and the plastic agreeing yet.\n\nCorrection to the filing, across the whole knock-off society. Every one of these was catalogued as a custom figure, which is wrong and had them sorting above genuine home-made builds. They are not customs - they are Mega Bloks, a rival company's product bought in a box, exactly the way a Star Wars minifigure is Lego's. They are filed branded now, with Mega Bloks as the theme, and they sort below the customs with the rest of the branded figures.\n\nThe Brute Prince is the one real question in that. He is a moulded Mega Bloks body from the chest up and a printed Lego minifigure from the waist down, so he is the one figure here that was genuinely assembled rather than bought. He is filed branded with the others for now. Say the word and he moves back."
+    notes: "The figure is itself a knock-off brick minifigure, so his origin is literally what he's made of - the most direct case of the lore and the plastic agreeing yet.\n\nCorrection to the filing, across the whole knock-off society. Every one of these was catalogued as a custom figure, which is wrong and had them sorting above genuine home-made builds. They are not customs - they are Mega Bloks, a rival company's product bought in a box, exactly the way a Star Wars minifigure is Lego's. They are filed branded now, with Mega Bloks as the theme, and they sort below the customs with the rest of the branded figures.\n\nThe Brute Prince is the one real question in that. He is a moulded Mega Bloks body from the chest up and a printed Lego minifigure from the waist down, so he is the one figure here that was genuinely assembled rather than bought. He is filed branded with the others for now. Say the word and he moves back.\n\nAnd back again, for two of them. You said the Knock-off Captain and the Defector are not actually branded figures, so those two are filed custom and the rest of the society stays Mega Bloks. That splits a group down the middle on the page, which is worth knowing: the two of them now sort with the home-made figures and their own people sort below the customs."
   },
 
   {
@@ -15078,8 +15078,8 @@ window.COLLECTION = [
     name: "The Knock-off Captain",
     variant: "",
     faction: "bad",
-    origin: "branded",
-    theme: "Mega Bloks",
+    origin: "custom",
+    theme: "Creation Mythos",
     rank: "",
     role: "Captain",
     group: "The Knock-offs",

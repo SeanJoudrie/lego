@@ -229,6 +229,8 @@
   /* A full-width rule across the grid where the living stop and the lost
      begin, with the label sitting under the line. */
   .sec {
+    position:sticky; top:0; z-index:2;
+    background:var(--bg); box-shadow:0 6px 10px -8px rgba(0,0,0,.25);
     grid-column:1 / -1;
     margin:22px 0 2px; padding-top:10px;
     border-top:1px solid var(--line);
@@ -494,11 +496,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789682646"></script>
-<script src="data/scenes.js?v=1789682646"></script>
-<script src="data/lore.js?v=1789682646"></script>
-<script src="data/featured.js?v=1789682646"></script>
-<script src="data/order.js?v=1789682646"></script>
+<script src="data/collection.js?v=1789684334"></script>
+<script src="data/scenes.js?v=1789684334"></script>
+<script src="data/lore.js?v=1789684334"></script>
+<script src="data/featured.js?v=1789684334"></script>
+<script src="data/order.js?v=1789684334"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -546,7 +548,7 @@ const miniCard = (g, label) => {
 };
 
 const stars = n => {
-  if (!n) return `<span class="off">unrated</span>`;   // don't fake a rating
+  if (!n) return ``;                                   // don't fake a rating, don't say so either
   const r = Math.max(0, Math.min(5, Math.round(n)));
   return "★".repeat(r) + `<span class="off">${"★".repeat(5 - r)}</span>`;
 };
@@ -628,24 +630,35 @@ const TIERS   = RANKS.tiers || [];
 const NTIERS  = Math.max(1, TIERS.length);
 const CIVILIAN = NTIERS - 1;
 
-// A role or a named figure carries either a tier on its own, or a pair of
-// [tier, standing], where standing only ever orders people already on the same
-// rung in the same cluster.
-const pair = v => Array.isArray(v) ? v : (typeof v === "number" ? [v, 5] : null);
+/* Three numbers per figure, and they do different jobs.
+
+   tier   which rung they stand on.
+   stand  where they stand along that rung, against everybody else on it. Only
+          a named figure in `figures` gets one; everybody else waits at 50 and
+          is placed by their unit instead. This is how the Prince opens the
+          principals and Quinn opens the enemy's.
+   lead   where they stand inside their own unit. Comes off the job title, so a
+          fire chief leads the fire service without outranking a soldier.  */
+const NOSTAND = 50;
+const pick = v => Array.isArray(v) ? v : (typeof v === "number" ? [v] : null);
 
 function ranking(f) {
-  const named = pair((RANKS.figures || {})[f.id]);
-  if (named) return named;
-  const byRole = pair((RANKS.roles || {})[f.role]);
-  if (byRole) return byRole;
-  const byRank = pair((RANKS.ranks || {})[f.rank]);
-  if (byRank) return byRank;
+  const named = pick((RANKS.figures || {})[f.id]);
+  const byRole = pick((RANKS.roles || {})[f.role]);
+  const byRank = pick((RANKS.ranks || {})[f.rank]);
   const fb = (RANKS.fallback || {})[f.faction];
-  return [typeof fb === "number" ? fb : CIVILIAN, 5];
+  const base = named || byRole || byRank || [typeof fb === "number" ? fb : CIVILIAN];
+  return {
+    tier:  base[0],
+    stand: named && named.length > 1 ? named[1] : NOSTAND,
+    lead:  byRole && byRole.length > 1 ? byRole[1] : 5,
+  };
 }
 const RANK = new Map(FIGS.map(f => [f.id, ranking(f)]));
-const tierOf  = f => (RANK.get(f.id) || [CIVILIAN, 5])[0];
-const standOf = f => (RANK.get(f.id) || [CIVILIAN, 5])[1];
+const of = f => RANK.get(f.id) || { tier: CIVILIAN, stand: NOSTAND, lead: 5 };
+const tierOf  = f => of(f).tier;
+const standOf = f => of(f).stand;
+const leadOf  = f => of(f).lead;
 const tierName = f => TIERS[tierOf(f)] || "";
 
 // The lost are catalogued as a block at the end and stay one, whatever moves.
@@ -666,7 +679,7 @@ for (const f of FIGS) {
   c.members.push(f);
 }
 for (const k in CLUSTER) {
-  CLUSTER[k].members.sort((a, b) => standOf(a) - standOf(b) || a._i - b._i);
+  CLUSTER[k].members.sort((a, b) => leadOf(a) - leadOf(b) || a._i - b._i);
 }
 const clusterAt = f => CLUSTER[clusterKey(f)].at;
 
@@ -674,8 +687,9 @@ const shapeSort = (a, b) =>
      (isLost(a) ? 1 : 0) - (isLost(b) ? 1 : 0)                            // the lost, last
   || (a.origin === "branded" ? 1 : 0) - (b.origin === "branded" ? 1 : 0)  // customs, then branded
   || tierOf(a) - tierOf(b)                                               // then the ladder
-  || clusterAt(a) - clusterAt(b)                                         // units together
-  || standOf(a) - standOf(b)                                             // leaders in front
+  || standOf(a) - standOf(b)                                             // named placings first
+  || clusterAt(a) - clusterAt(b)                                         // then units together
+  || leadOf(a) - leadOf(b)                                               // leaders inside a unit
   || a._i - b._i;
 
 // Straight instructions, applied after the sort: put this one behind that one.

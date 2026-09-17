@@ -1818,7 +1818,7 @@ Both of them have a southern accent and both of them are very friendly. They are
 
 ### 77. The Defector
 
-**Alignment:** good · **Role:** Commander · **Figure:** branded
+**Alignment:** good · **Role:** Commander · **Figure:** custom
 
 A soldier commander out of one of the knock-off societies — the off-brand civilizations, plenty of whom would happily declare war on Lego.
 
@@ -6926,7 +6926,7 @@ He is also a weapon himself. His body cannot be broken, so he uses it: he launch
 
 ### 545. The Knock-off Captain
 
-**Alignment:** bad · **Role:** Captain · **Figure:** branded
+**Alignment:** bad · **Role:** Captain · **Figure:** custom
 
 A military captain out of one of the knock-off societies - the off-brand civilizations, the ones that would go to war with Lego given the chance.
 
