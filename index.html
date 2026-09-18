@@ -44,6 +44,36 @@
   }
   .wrap > header, .wrap > .bar, .wrap > .controls, .wrap > .sides { flex:0 0 auto; }
 
+  /* ---------- arranging by hand ---------- */
+  .arrangebar {
+    display:flex; align-items:center; gap:8px; flex-wrap:wrap;
+    margin:0 0 6px; padding:8px 10px;
+    border:1px solid var(--line); border-radius:4px;
+    background:color-mix(in srgb, var(--accent) 7%, var(--bg));
+    font-size:12px; color:var(--dim);
+  }
+  .arrangebar .grow { flex:1 1 auto; }
+  .arrangebar b { font-weight:600; color:var(--text); font-variant-numeric:tabular-nums; }
+  .arrangebar button {
+    font:inherit; font-size:12px; padding:5px 10px; cursor:pointer;
+    background:var(--bg); color:var(--text);
+    border:1px solid var(--line); border-radius:3px;
+  }
+  .arrangebar button:hover { border-color:var(--accent); color:var(--accent); }
+  .arrangebar button.primary { background:var(--accent); border-color:var(--accent); color:#fff; }
+  .arrangebar button[disabled] { opacity:.4; cursor:default; }
+
+  .arranging .card { cursor:grab; }
+  .arranging .card:hover { outline:1px solid color-mix(in srgb, var(--accent) 50%, transparent); }
+  .card.lifted {
+    outline:2px solid var(--accent); outline-offset:1px;
+    box-shadow:0 8px 20px -8px rgba(0,0,0,.45);
+    transform:translateY(-3px); z-index:3;
+  }
+  .card.dropzone { outline:2px dashed var(--accent); outline-offset:1px; }
+  /* A swapped figure keeps a quiet mark, so you can see what you moved. */
+  .card.moved .num { background:var(--accent); color:#fff; border-color:var(--accent); }
+
   /* ---------- the two sides ---------- */
   .sides {
     display:flex; gap:0; margin:0 0 2px;
@@ -476,6 +506,7 @@
       <option value="shuffle">Shuffled</option>
     </select>
     <button class="shuffle" id="shuffle" title="Deal them out in a new order">Shuffle</button>
+    <button class="shuffle" id="arrangebtn" aria-pressed="false" title="Swap figures around by hand">Arrange</button>
     <button class="toggle" id="filtertoggle" aria-expanded="false" aria-controls="filters">Filters</button>
     <div class="dens">
       <input id="cols" type="range" min="2" max="12" step="1" aria-label="Figures per row">
@@ -494,6 +525,15 @@
     <button class="clear" id="clearfilters" hidden>Clear filters</button>
   </div>
 
+  <div class="arrangebar" id="arrangebar" hidden>
+    <span id="arrangehint">Tap a figure to lift it, then tap another to swap the two. Drag works too.</span>
+    <span class="grow"></span>
+    <b id="swapcount">0 swaps</b>
+    <button id="undoswap">Undo</button>
+    <button id="resetswap">Reset</button>
+    <button id="copyswap" class="primary">Copy for Claude</button>
+  </div>
+
   <nav class="sides" id="sides" aria-label="Which side"></nav>
 
   <div class="rail" id="rail"></div>
@@ -502,11 +542,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789701847"></script>
-<script src="data/scenes.js?v=1789701847"></script>
-<script src="data/lore.js?v=1789701847"></script>
-<script src="data/featured.js?v=1789701847"></script>
-<script src="data/order.js?v=1789701847"></script>
+<script src="data/collection.js?v=1789701874"></script>
+<script src="data/scenes.js?v=1789701874"></script>
+<script src="data/lore.js?v=1789701874"></script>
+<script src="data/featured.js?v=1789701874"></script>
+<script src="data/order.js?v=1789701874"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -731,6 +771,38 @@ function applyStated(arr) {
   return out;
 }
 
+/* ---- arranging by hand -------------------------------------------------
+
+   A deck's arrangement is kept as a list of pairs that were swapped, not as a
+   list of positions, so it survives everything underneath it: add a figure,
+   move somebody up a rung, rewrite the whole ladder, and the swaps still mean
+   what they meant. Each pair is replayed in turn against the computed order -
+   find both, exchange them - and a pair whose figures are filtered out or gone
+   is skipped rather than breaking the rest.
+
+   It lives in this browser only. The Copy button prints it in a form that can
+   be pasted back to me and made the default for everybody.  */
+const SWAP_KEY = "lego.swaps.v1";
+let SWAPS = {};
+try { SWAPS = JSON.parse(localStorage.getItem(SWAP_KEY) || "{}") || {}; } catch (e) { SWAPS = {}; }
+const swapsFor = k => (SWAPS[k] || (SWAPS[k] = []));
+function saveSwaps() {
+  try { localStorage.setItem(SWAP_KEY, JSON.stringify(SWAPS)); } catch (e) {}
+}
+
+function applySwaps(list, pairs) {
+  if (!pairs || !pairs.length) return list;
+  const out = list.slice();
+  for (const [a, b] of pairs) {
+    const i = out.findIndex(f => f.id === a), j = out.findIndex(f => f.id === b);
+    if (i < 0 || j < 0 || i === j) continue;
+    const t = out[i]; out[i] = out[j]; out[j] = t;
+  }
+  return out;
+}
+// Everybody who ended up somewhere other than where the ladder put them.
+const movedIds = () => new Set(Object.values(SWAPS).flat(2));
+
 const shapeOrder = arr => applyStated(arr.slice().sort(shapeSort));
 
 /* ---- the combined deck --------------------------------------------------
@@ -866,7 +938,9 @@ $("rail").innerHTML = SIDES.map(k => `<section class="deck" data-side="${k}">
 const deckEls = [...$("rail").children];
 const gridEls = SIDES.map(k => $("grid-" + k));
 
+let MOVED = new Set();
 function render() {
+  MOVED = movedIds();
   const list = FIGS.filter(matches);
   // Every deck answers to the same control. On the default the two side decks
   // take the shape and the combined deck takes its own order, because the
@@ -879,6 +953,7 @@ function render() {
       ? totalOrder(shapeOrder(list.filter(f => f.faction === "good")),
                    shapeOrder(list.filter(f => f.faction !== "good")))
       : shapeOrder(mine);
+    decks[k] = applySwaps(decks[k], SWAPS[k]);
   }
 
   $("count").textContent =
@@ -912,6 +987,10 @@ function render() {
 
   syncFilterUI();
   renderPlates();
+  if (arranging) {
+    $("rail").querySelectorAll(".card").forEach(el => el.draggable = true);
+    paintLift();
+  }
 }
 
 /* ---- which deck is on screen ---- */
@@ -989,7 +1068,7 @@ function sections(list) {
 
 function card(f) {
     const cover = photos(f)[0];
-    return `<button class="card" data-i="${f._i}">
+    return `<button class="card${MOVED.has(f.id) ? " moved" : ""}" data-i="${f._i}" data-id="${esc(f.id)}">
       <div class="shot">
         ${cover ? `<img src="${esc(cover.src)}" alt="${esc(f.name)}" loading="lazy">`
                 : `<span class="empty">NO PHOTO YET</span>`}
@@ -1258,6 +1337,7 @@ $("scenesbtn").addEventListener("click", openScenes);
 $("lorebtn").addEventListener("click", openLore);
 $("rail").addEventListener("click", e => {
   const hit = e.target.closest(".card, .plate");
+  if (arranging && hit && hit.classList.contains("card")) return liftOrSwap(hit);
   if (hit) {
     const deck = hit.closest(".deck");
     navDeck = deck ? deck.dataset.side : null;
@@ -1421,6 +1501,136 @@ $("shuffle").addEventListener("click", () => {
   $("sort").value = "shuffle";
   render();
   deckEls[activeIndex()].scrollTo({ top: 0, behavior: "smooth" });
+});
+
+/* ---- arrange mode ----
+
+   Two ways to move somebody, and both do the same thing: exchange two figures
+   and leave everybody else exactly where they are. Tap one to lift it and tap
+   another to put it there, which is the way that works on a phone without
+   fighting the scroll; or drag one onto another, which is the way that feels
+   right with a mouse. Nothing here ever shifts a row along. */
+let arranging = false;
+let lifted = null;                       // id of the figure currently in hand
+
+function deckOf(el) {
+  const d = el.closest(".deck");
+  return d ? d.dataset.side : SIDES[0];
+}
+
+function swap(deck, a, b) {
+  if (!a || !b || a === b) return;
+  swapsFor(deck).push([a, b]);
+  saveSwaps();
+  render();
+  syncArrangeUI();
+}
+
+function liftOrSwap(cardEl) {
+  const id = cardEl.dataset.id;
+  if (lifted === id) { lifted = null; return paintLift(); }
+  if (lifted) {
+    const a = lifted; lifted = null;
+    return swap(deckOf(cardEl), a, id);
+  }
+  lifted = id;
+  paintLift();
+}
+
+function paintLift() {
+  $("rail").querySelectorAll(".card.lifted").forEach(el => el.classList.remove("lifted"));
+  if (!lifted) return;
+  const el = $("rail").querySelector(`.card[data-id="${CSS.escape(lifted)}"]`);
+  if (el) el.classList.add("lifted");
+}
+
+function syncArrangeUI() {
+  const n = Object.values(SWAPS).reduce((t, a) => t + a.length, 0);
+  $("swapcount").textContent = `${n} swap${n === 1 ? "" : "s"}`;
+  $("undoswap").disabled = n === 0;
+  $("resetswap").disabled = n === 0;
+  $("copyswap").disabled = n === 0;
+}
+
+$("arrangebtn").addEventListener("click", () => {
+  arranging = !arranging;
+  if (arranging && state.sort !== "shape") {      // only the ranked order is worth arranging
+    state.sort = "shape"; $("sort").value = "shape"; render();
+  }
+  lifted = null;
+  $("arrangebtn").setAttribute("aria-pressed", String(arranging));
+  $("arrangebtn").textContent = arranging ? "Done" : "Arrange";
+  $("arrangebar").hidden = !arranging;
+  document.querySelector(".wrap").classList.toggle("arranging", arranging);
+  $("rail").querySelectorAll(".card").forEach(el => el.draggable = arranging);
+  paintLift();
+  syncArrangeUI();
+  fitText();
+});
+
+$("undoswap").addEventListener("click", () => {
+  for (const k of SIDES.slice().reverse()) {
+    if (SWAPS[k] && SWAPS[k].length) { SWAPS[k].pop(); break; }
+  }
+  saveSwaps(); lifted = null; render(); syncArrangeUI();
+});
+
+$("resetswap").addEventListener("click", () => {
+  SWAPS = {}; saveSwaps(); lifted = null; render(); syncArrangeUI();
+});
+
+$("copyswap").addEventListener("click", async () => {
+  const name = id => (FIGS.find(f => f.id === id) || {}).name || id;
+  const num  = id => { const f = FIGS.find(x => x.id === id); return f ? "#" + (f._i + 1) : "?"; };
+  const lines = [];
+  for (const k of SIDES) {
+    const pairs = SWAPS[k] || [];
+    if (!pairs.length) continue;
+    lines.push(`${SIDE_LABEL[k] || k} - ${pairs.length} swap${pairs.length === 1 ? "" : "s"}`);
+    for (const [a, b] of pairs) lines.push(`  ${num(a)} ${name(a)}  <->  ${num(b)} ${name(b)}`);
+  }
+  lines.push("", "swaps: " + JSON.stringify(SWAPS));
+  const text = lines.join("\n");
+  try {
+    await navigator.clipboard.writeText(text);
+    $("copyswap").textContent = "Copied";
+    setTimeout(() => { $("copyswap").textContent = "Copy for Claude"; }, 1400);
+  } catch (e) {
+    // Clipboard refused - show it instead so it can be copied by hand.
+    window.prompt("Copy this and send it to Claude:", text);
+  }
+});
+
+// Dragging, for a mouse. Touch uses tap-lift-tap above, which never argues
+// with the scroll.
+let dragId = null;
+$("rail").addEventListener("dragstart", e => {
+  const c = arranging && e.target.closest(".card");
+  if (!c) return;
+  dragId = c.dataset.id;
+  e.dataTransfer.effectAllowed = "move";
+  try { e.dataTransfer.setData("text/plain", dragId); } catch (err) {}
+});
+$("rail").addEventListener("dragover", e => {
+  if (!arranging || !dragId) return;
+  const c = e.target.closest(".card");
+  if (!c || c.dataset.id === dragId) return;
+  e.preventDefault();
+  e.dataTransfer.dropEffect = "move";
+  $("rail").querySelectorAll(".card.dropzone").forEach(el => el.classList.remove("dropzone"));
+  c.classList.add("dropzone");
+});
+$("rail").addEventListener("drop", e => {
+  if (!arranging || !dragId) return;
+  const c = e.target.closest(".card");
+  e.preventDefault();
+  $("rail").querySelectorAll(".card.dropzone").forEach(el => el.classList.remove("dropzone"));
+  if (c && c.dataset.id !== dragId) { const a = dragId; dragId = null; lifted = null; return swap(deckOf(c), a, c.dataset.id); }
+  dragId = null;
+});
+$("rail").addEventListener("dragend", () => {
+  dragId = null;
+  $("rail").querySelectorAll(".card.dropzone").forEach(el => el.classList.remove("dropzone"));
 });
 
 // Left and right step between the sides while nothing is open and you are not
