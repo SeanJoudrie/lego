@@ -303,6 +303,7 @@ window.ORDER = {
     // The Younger Brother is Verdauf, and the Verdauf are not line infantry.
     "the-gunner": 4,
     "the-younger-brother": 4,
+    "kenjen": 4,                   // filed Warrior on the job title; he is elite
 
     // --- 5. soldiers
     "the-spartan": 5,              // a Spartan soldier
