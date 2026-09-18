@@ -506,7 +506,7 @@
       <option value="shuffle">Shuffled</option>
     </select>
     <button class="shuffle" id="shuffle" title="Deal them out in a new order">Shuffle</button>
-    <button class="shuffle" id="arrangebtn" aria-pressed="false" title="Swap figures around by hand">Arrange</button>
+    <button class="shuffle" id="arrangebtn" aria-pressed="false" title="Move figures around by hand">Arrange</button>
     <button class="toggle" id="filtertoggle" aria-expanded="false" aria-controls="filters">Filters</button>
     <div class="dens">
       <input id="cols" type="range" min="2" max="12" step="1" aria-label="Figures per row">
@@ -526,7 +526,7 @@
   </div>
 
   <div class="arrangebar" id="arrangebar" hidden>
-    <span id="arrangehint">Tap a figure to lift it, then tap another to swap the two. Drag works too.</span>
+    <span id="arrangehint">Tap a figure to lift it. Scroll anywhere you like, then tap whoever it should stand in front of.</span>
     <span class="grow"></span>
     <b id="swapcount">0 swaps</b>
     <button id="undoswap">Undo</button>
@@ -542,11 +542,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789701874"></script>
-<script src="data/scenes.js?v=1789701874"></script>
-<script src="data/lore.js?v=1789701874"></script>
-<script src="data/featured.js?v=1789701874"></script>
-<script src="data/order.js?v=1789701874"></script>
+<script src="data/collection.js?v=1789704785"></script>
+<script src="data/scenes.js?v=1789704785"></script>
+<script src="data/lore.js?v=1789704785"></script>
+<script src="data/featured.js?v=1789704785"></script>
+<script src="data/order.js?v=1789704785"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -773,35 +773,44 @@ function applyStated(arr) {
 
 /* ---- arranging by hand -------------------------------------------------
 
-   A deck's arrangement is kept as a list of pairs that were swapped, not as a
-   list of positions, so it survives everything underneath it: add a figure,
-   move somebody up a rung, rewrite the whole ladder, and the swaps still mean
-   what they meant. Each pair is replayed in turn against the computed order -
-   find both, exchange them - and a pair whose figures are filtered out or gone
-   is skipped rather than breaking the rest.
+   An arrangement is a list of pairs, and each pair reads "put the first one
+   directly in front of the second". Everybody between them closes up and
+   shifts along by one; nobody else moves. It is stored that way rather than as
+   a list of positions so it survives everything underneath it - add a figure,
+   move somebody up a rung, rewrite the whole ladder, and each pair still means
+   what it meant. Pairs are replayed in turn against the computed order, and
+   one whose figures are filtered out or gone is skipped rather than breaking
+   the rest.
 
-   It lives in this browser only. The Copy button prints it in a form that can
-   be pasted back to me and made the default for everybody.  */
-const SWAP_KEY = "lego.swaps.v1";
+   The defaults come out of data/order.js and are the same for everybody. On
+   top of those sit whatever has been moved in this browser, which nobody else
+   sees until Copy hands it back to me to make default.  */
+const MOVE_KEY = "lego.moves.v2";
 let SWAPS = {};
-try { SWAPS = JSON.parse(localStorage.getItem(SWAP_KEY) || "{}") || {}; } catch (e) { SWAPS = {}; }
+try { SWAPS = JSON.parse(localStorage.getItem(MOVE_KEY) || "{}") || {}; } catch (e) { SWAPS = {}; }
 const swapsFor = k => (SWAPS[k] || (SWAPS[k] = []));
 function saveSwaps() {
-  try { localStorage.setItem(SWAP_KEY, JSON.stringify(SWAPS)); } catch (e) {}
+  try { localStorage.setItem(MOVE_KEY, JSON.stringify(SWAPS)); } catch (e) {}
 }
+
+const DEFAULT_MOVES = (RANKS.moves || {});
+const movesFor = k => (DEFAULT_MOVES[k] || []).concat(SWAPS[k] || []);
 
 function applySwaps(list, pairs) {
   if (!pairs || !pairs.length) return list;
   const out = list.slice();
   for (const [a, b] of pairs) {
-    const i = out.findIndex(f => f.id === a), j = out.findIndex(f => f.id === b);
-    if (i < 0 || j < 0 || i === j) continue;
-    const t = out[i]; out[i] = out[j]; out[j] = t;
+    const i = out.findIndex(f => f.id === a);
+    if (i < 0) continue;
+    const [fig] = out.splice(i, 1);
+    const j = out.findIndex(f => f.id === b);
+    if (j < 0) out.splice(i, 0, fig);          // target gone: leave it be
+    else out.splice(j, 0, fig);
   }
   return out;
 }
-// Everybody who ended up somewhere other than where the ladder put them.
-const movedIds = () => new Set(Object.values(SWAPS).flat(2));
+// Everybody standing somewhere other than where the ladder put them.
+const movedIds = () => new Set(Object.values(SWAPS).concat(Object.values(DEFAULT_MOVES)).flat(2));
 
 const shapeOrder = arr => applyStated(arr.slice().sort(shapeSort));
 
@@ -953,7 +962,7 @@ function render() {
       ? totalOrder(shapeOrder(list.filter(f => f.faction === "good")),
                    shapeOrder(list.filter(f => f.faction !== "good")))
       : shapeOrder(mine);
-    decks[k] = applySwaps(decks[k], SWAPS[k]);
+    decks[k] = applySwaps(decks[k], movesFor(k));
   }
 
   $("count").textContent =
@@ -1518,7 +1527,7 @@ function deckOf(el) {
   return d ? d.dataset.side : SIDES[0];
 }
 
-function swap(deck, a, b) {
+function moveInFront(deck, a, b) {
   if (!a || !b || a === b) return;
   swapsFor(deck).push([a, b]);
   saveSwaps();
@@ -1531,7 +1540,7 @@ function liftOrSwap(cardEl) {
   if (lifted === id) { lifted = null; return paintLift(); }
   if (lifted) {
     const a = lifted; lifted = null;
-    return swap(deckOf(cardEl), a, id);
+    return moveInFront(deckOf(cardEl), a, id);   // a lands in front of this one
   }
   lifted = id;
   paintLift();
@@ -1546,7 +1555,7 @@ function paintLift() {
 
 function syncArrangeUI() {
   const n = Object.values(SWAPS).reduce((t, a) => t + a.length, 0);
-  $("swapcount").textContent = `${n} swap${n === 1 ? "" : "s"}`;
+  $("swapcount").textContent = `${n} move${n === 1 ? "" : "s"}`;
   $("undoswap").disabled = n === 0;
   $("resetswap").disabled = n === 0;
   $("copyswap").disabled = n === 0;
@@ -1586,10 +1595,10 @@ $("copyswap").addEventListener("click", async () => {
   for (const k of SIDES) {
     const pairs = SWAPS[k] || [];
     if (!pairs.length) continue;
-    lines.push(`${SIDE_LABEL[k] || k} - ${pairs.length} swap${pairs.length === 1 ? "" : "s"}`);
-    for (const [a, b] of pairs) lines.push(`  ${num(a)} ${name(a)}  <->  ${num(b)} ${name(b)}`);
+    lines.push(`${SIDE_LABEL[k] || k} - ${pairs.length} move${pairs.length === 1 ? "" : "s"}`);
+    for (const [a, b] of pairs) lines.push(`  ${num(a)} ${name(a)}  in front of  ${num(b)} ${name(b)}`);
   }
-  lines.push("", "swaps: " + JSON.stringify(SWAPS));
+  lines.push("", "moves: " + JSON.stringify(SWAPS));
   const text = lines.join("\n");
   try {
     await navigator.clipboard.writeText(text);
@@ -1625,7 +1634,7 @@ $("rail").addEventListener("drop", e => {
   const c = e.target.closest(".card");
   e.preventDefault();
   $("rail").querySelectorAll(".card.dropzone").forEach(el => el.classList.remove("dropzone"));
-  if (c && c.dataset.id !== dragId) { const a = dragId; dragId = null; lifted = null; return swap(deckOf(c), a, c.dataset.id); }
+  if (c && c.dataset.id !== dragId) { const a = dragId; dragId = null; lifted = null; return moveInFront(deckOf(c), a, c.dataset.id); }
   dragId = null;
 });
 $("rail").addEventListener("dragend", () => {
