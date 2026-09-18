@@ -102,8 +102,12 @@ window.ORDER = {
 
     // 5 - soldiers
     "Soldier": 5, "Clone Trooper": 5, "Rifleman": 5, "Grenadier": 5,
-    "Pilot": 5, "Fighter Pilot": 5, "Cargo Pilot": 5, "Test Pilot": 5,
-    "Pilot Officer": 5, "Scout": 5, "Guard": 5, "Prince's Guard": 5,
+    // Every soldier stands in front of every pilot. A pilot is not in the
+    // fight the way a man with a rifle is, and a test pilot never flies combat
+    // at all - so the third number here holds them at the back of the rung.
+    "Fighter Pilot": [5, 5, 80], "Pilot": [5, 5, 82], "Pilot Officer": [5, 5, 82],
+    "Cargo Pilot": [5, 5, 84], "Test Pilot": [5, 5, 86],
+    "Scout": 5, "Guard": 5, "Prince's Guard": 5,
     "Droid": 5, "Killer Bot": 5, "Defense Bot": 5, "Robot": 5,
     "Machine Gunner": 5, "Artillery": 5, "Defense Gunner": 5, "Medic": 5,
     "Armorer": 5, "Technician Sergeant": 5, "Sergeant": [5, 1],
@@ -239,6 +243,10 @@ window.ORDER = {
     "the-space-marshal": [3, 5],   // runs the entire space militia
     "the-grey-beanie": [3, 6],     // an extremely strong mercenary on the good side
     "the-verdauf-guards": [3, 7],  // ranked above green berets, so above elite
+    // "One of the elite protection forces around the Prince - the top of that
+    // ladder, and he climbed the whole thing. He started as a soldier, became
+    // an agent, and made it all the way up." That is not a guard.
+    "the-guardsman": [3, 9],
     "the-nightwatch-captain": [3, 8],  // a senior post, on the level of running royal intelligence
 
     // Fighters you named as belonging above elite.
@@ -289,6 +297,12 @@ window.ORDER = {
     "the-clone-captain": [5, 60],
     "the-painted-clone-commander": [5, 60],
     "the-discarded-commander": [5, 60],
+
+    // Elite, both of them. The Gunner fought a great many missions and still
+    // fights, with an arm the Goo turned to rock and left superhumanly strong.
+    // The Younger Brother is Verdauf, and the Verdauf are not line infantry.
+    "the-gunner": 4,
+    "the-younger-brother": 4,
 
     // --- 5. soldiers
     "the-spartan": 5,              // a Spartan soldier

@@ -496,11 +496,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789687567"></script>
-<script src="data/scenes.js?v=1789687567"></script>
-<script src="data/lore.js?v=1789687567"></script>
-<script src="data/featured.js?v=1789687567"></script>
-<script src="data/order.js?v=1789687567"></script>
+<script src="data/collection.js?v=1789692108"></script>
+<script src="data/scenes.js?v=1789692108"></script>
+<script src="data/lore.js?v=1789692108"></script>
+<script src="data/featured.js?v=1789692108"></script>
+<script src="data/order.js?v=1789692108"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -633,10 +633,10 @@ const CIVILIAN = NTIERS - 1;
 /* Three numbers per figure, and they do different jobs.
 
    tier   which rung they stand on.
-   stand  where they stand along that rung, against everybody else on it. Only
-          a named figure in `figures` gets one; everybody else waits at 50 and
-          is placed by their unit instead. This is how the Prince opens the
-          principals and Quinn opens the enemy's.
+   stand  where they stand along that rung, against everybody else on it. A
+          named figure in `figures` gets one; a job title can carry one too, as
+          a third number, which is how every pilot sits behind every soldier.
+          Everybody else waits at 50 and is placed by their unit instead.
    lead   where they stand inside their own unit. Comes off the job title, so a
           fire chief leads the fire service without outranking a soldier.  */
 const NOSTAND = 50;
@@ -650,7 +650,8 @@ function ranking(f) {
   const base = named || byRole || byRank || [typeof fb === "number" ? fb : CIVILIAN];
   return {
     tier:  base[0],
-    stand: named && named.length > 1 ? named[1] : NOSTAND,
+    stand: named && named.length > 1 ? named[1]
+         : byRole && byRole.length > 2 ? byRole[2] : NOSTAND,
     lead:  byRole && byRole.length > 1 ? byRole[1] : 5,
   };
 }
