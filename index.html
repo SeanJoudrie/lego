@@ -542,11 +542,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789704785"></script>
-<script src="data/scenes.js?v=1789704785"></script>
-<script src="data/lore.js?v=1789704785"></script>
-<script src="data/featured.js?v=1789704785"></script>
-<script src="data/order.js?v=1789704785"></script>
+<script src="data/collection.js?v=1789705112"></script>
+<script src="data/scenes.js?v=1789705112"></script>
+<script src="data/lore.js?v=1789705112"></script>
+<script src="data/featured.js?v=1789705112"></script>
+<script src="data/order.js?v=1789705112"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -793,10 +793,24 @@ function saveSwaps() {
   try { localStorage.setItem(MOVE_KEY, JSON.stringify(SWAPS)); } catch (e) {}
 }
 
-const DEFAULT_MOVES = (RANKS.moves || {});
-const movesFor = k => (DEFAULT_MOVES[k] || []).concat(SWAPS[k] || []);
+const OLD_SWAPS    = (RANKS.swaps || {});   // exchange, the way Arrange used to work
+const DEFAULT_MOVES = (RANKS.moves || {});  // insert in front of, the way it works now
 
-function applySwaps(list, pairs) {
+// Exchange two figures: each takes the other's place, nobody else moves.
+function applyExchanges(list, pairs) {
+  if (!pairs || !pairs.length) return list;
+  const out = list.slice();
+  for (const [a, b] of pairs) {
+    const i = out.findIndex(f => f.id === a), j = out.findIndex(f => f.id === b);
+    if (i < 0 || j < 0 || i === j) continue;
+    const t = out[i]; out[i] = out[j]; out[j] = t;
+  }
+  return out;
+}
+
+// Lift one out and put it back directly in front of another. Everybody between
+// closes up and shifts along by one.
+function applyInserts(list, pairs) {
   if (!pairs || !pairs.length) return list;
   const out = list.slice();
   for (const [a, b] of pairs) {
@@ -809,8 +823,13 @@ function applySwaps(list, pairs) {
   }
   return out;
 }
+
+const arrangeDeck = (list, k) =>
+  applyInserts(applyExchanges(list, OLD_SWAPS[k]), (DEFAULT_MOVES[k] || []).concat(SWAPS[k] || []));
+
 // Everybody standing somewhere other than where the ladder put them.
-const movedIds = () => new Set(Object.values(SWAPS).concat(Object.values(DEFAULT_MOVES)).flat(2));
+const movedIds = () => new Set(
+  Object.values(SWAPS).concat(Object.values(DEFAULT_MOVES), Object.values(OLD_SWAPS)).flat(2));
 
 const shapeOrder = arr => applyStated(arr.slice().sort(shapeSort));
 
@@ -962,7 +981,7 @@ function render() {
       ? totalOrder(shapeOrder(list.filter(f => f.faction === "good")),
                    shapeOrder(list.filter(f => f.faction !== "good")))
       : shapeOrder(mine);
-    decks[k] = applySwaps(decks[k], movesFor(k));
+    decks[k] = arrangeDeck(decks[k], k);
   }
 
   $("count").textContent =

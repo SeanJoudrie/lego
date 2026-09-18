@@ -428,16 +428,20 @@ window.ORDER = {
   },
 
 
-  /* ------------------------------------------------------------------ moves
-     Placements made by hand on the page, in Arrange mode, and sent back here.
-     Each pair reads "put the first one directly in front of the second", and
-     they are replayed in order against whatever the ladder computes - so they
-     survive a new figure, a changed rung, a rewritten table. A pair whose
-     figures are filtered out or gone is skipped rather than breaking the rest.
+  /* ----------------------------------------------------------------- swaps
+     The first arrangement made by hand on the page, back when Arrange
+     exchanged two figures rather than inserting one in front of the other.
+     These are replayed the way they were made - as exchanges - because that is
+     the deck that was on screen while it was being built, and every move after
+     the first was decided against the state the one before it produced.
+     Reading them any other way rebuilds a deck that nobody ever arranged.
 
-     Keyed by deck, because an arrangement of the combined deck is not an
-     arrangement of either side on its own. */
-  moves: {
+     `moves` below is the list made since, where a pair means "put the first
+     one directly in front of the second". Swaps replay first, then moves.
+
+     Both are keyed by deck, because an arrangement of the combined deck is not
+     an arrangement of either side on its own. */
+  swaps: {
     total: [
     ["the-twins", "the-green-demigod"],
     ["the-green-demigod", "the-engineer"],
@@ -595,6 +599,10 @@ window.ORDER = {
     ["the-mad-ticket-man", "the-princes-guards"],
     ],
   },
+
+  /* Arrangements made since, where a pair reads "put the first one directly in
+     front of the second". */
+  moves: {},
 
   /* ------------------------------------------------- stated placements
      Straight instructions that beat everything above. `after` puts one figure
