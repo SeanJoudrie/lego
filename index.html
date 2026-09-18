@@ -241,7 +241,13 @@
   .sec b { font-weight:500; letter-spacing:.06em; opacity:.75; }
   .grid.small .sec { margin:16px 0 0; }
   .grid.tiny .sec { margin:12px 0 0; font-size:10px; letter-spacing:.08em; }
+  /* Eight hundred cards in one scroller is a lot of layout and a lot of
+     decoded image. Cards off screen are skipped entirely and given a size to
+     stand in for them, so scrolling costs what is on screen rather than what
+     is in the deck. */
   .card {
+    content-visibility:auto;
+    contain-intrinsic-size:auto 280px;
     background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
     overflow:hidden; cursor:pointer; text-align:left; padding:0; color:inherit; font:inherit;
     display:flex; flex-direction:column; transition:border-color .12s, transform .12s;
@@ -496,11 +502,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789696999"></script>
-<script src="data/scenes.js?v=1789696999"></script>
-<script src="data/lore.js?v=1789696999"></script>
-<script src="data/featured.js?v=1789696999"></script>
-<script src="data/order.js?v=1789696999"></script>
+<script src="data/collection.js?v=1789701847"></script>
+<script src="data/scenes.js?v=1789701847"></script>
+<script src="data/lore.js?v=1789701847"></script>
+<script src="data/featured.js?v=1789701847"></script>
+<script src="data/order.js?v=1789701847"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -557,10 +563,17 @@ const stars = n => {
 // location used to have filters of their own and no longer do: rank is set on
 // ten figures out of five hundred and is cosmological rather than military,
 // and location mostly repeats what group and theme already say.
+// Ordered by how many figures carry them rather than alphabetically, because
+// the useful end of these lists is the crowded end - Star Wars opens the themes
+// because a hundred and thirty-odd figures are in it, and the one-offs sink to
+// the bottom where they belong. The count is printed so the order reads as
+// deliberate rather than arbitrary.
 for (const [id, key] of [["theme","theme"], ["role","role"], ["group","group"]]) {
-  [...new Set(FIGS.map(f => f[key]).filter(Boolean))].sort().forEach(v => {
+  const n = {};
+  for (const f of FIGS) if (f[key]) n[f[key]] = (n[f[key]] || 0) + 1;
+  Object.keys(n).sort((a, b) => n[b] - n[a] || a.localeCompare(b)).forEach(v => {
     const o = document.createElement("option");
-    o.value = v; o.textContent = v;
+    o.value = v; o.textContent = `${v} (${n[v]})`;
     $(id).append(o);
   });
 }

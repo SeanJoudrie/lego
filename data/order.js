@@ -150,11 +150,14 @@ window.ORDER = {
     "Replica": 5,
 
     // 6 - police
-    "Police": 7, "Chief of Police": [7, 0], "Watch Command": [7, 0],
-    "Domestic Police Commander": [7, 0], "Space Police": 7,
-    "Chief of Space Police": [7, 0], 
-    "Sheriff": [7, 1], "Detective": 7, "SWAT": 7, "Animal Control": 7,
-    "Highway Patrol": 7, 
+    // Inside the police the third number orders the whole rung: the chiefs,
+    // then the door-kickers, then the beat, then traffic and animal control.
+    "Chief of Police": [7, 0, 5], "Chief of Space Police": [7, 0, 5],
+    "Watch Command": [7, 0, 5], "Domestic Police Commander": [7, 0, 5],
+    "SWAT": [7, 0, 10],
+    "Detective": [7, 5, 20], "Sheriff": [7, 1, 20], "Police": [7, 5, 22],
+    "Space Police": [7, 5, 24],
+    "Highway Patrol": [7, 5, 30], "Animal Control": [7, 5, 40],
 
     // 7 - fire service
     "Fire Chief": [8, 0], "Firefighter": 8,
@@ -176,8 +179,9 @@ window.ORDER = {
     // 10 - rugged
     "Astronaut": [9, 5, 10], "Power Miner": [9, 5, 10], "Miner": [9, 5, 10],
     "Explorer": [9, 5, 10], "Safari Master": [9, 0, 10], "Spaceman": [9, 5, 10],
-    "Diver": [9, 5, 12], "Dive Team": [9, 5, 12], "Aqua Force": [9, 5, 12],
-    "Leader": [9, 0, 12],
+    "Aqua Force": [9, 5, 12], "Atlantis Diver": [9, 5, 13],
+    "Diver": [9, 5, 14], "Dive Team": [9, 5, 14],
+    "Leader": [9, 0, 13],
 
     // 30 - athletes and trades that take a body (the fighters among the
     // athletes are named further down, at 20)
@@ -248,166 +252,179 @@ window.ORDER = {
 
   /* ------------------------------------------------------- named exceptions
      People who do not sit where their job title puts them, each with why.
-     The second number is standing inside the rung: 0 leads it, 9 brings up the
-     rear, 5 if not given - and it now beats unit clustering, so somebody can be
-     placed against the whole rung rather than only against their own unit. */
+     Second number is standing along the whole rung: 0 leads it, and anybody
+     without one waits at 50 and is placed by their unit. */
   figures: {
-    // --- 0. gods. Creative power, not a title.
+    // --- 0. gods. Only two clear it now.
     "the-first-man": [0, 0],
     "the-cosmic-twins": [0, 1],
-    "the-shadow-king": [0, 2],
-    "the-light-king": [0, 3],
 
-    // --- 1. demigods
-    "the-green-demigod": [1, 0],
-    "the-second": [1, 1],
+    // --- 1. demigods. The Second goes in front of the Green Demigod. The
+    // single-colour figures are demigods rather than gods, on your call: the
+    // Shadow King, the Light King, the Blue Demigod and the yellow man.
+    "the-second": [1, 0],
+    "the-green-demigod": [1, 1],
     "the-engineer": [1, 2],
     "the-twins": [1, 3],
     "the-rebuilt": [1, 4],
     "the-manifestation-of-life": [1, 5],
-    "the-blue-demigod": [1, 6],
+    "the-vessel": [1, 6],              // it is literally a demigod's vessel
+    "the-man-from-the-yellow-dimension": [1, 7],
+    "the-shadow-king": [1, 20],
+    "the-light-king": [1, 21],
+    "the-blue-demigod": [1, 22],
 
-    // --- 2. principals. The good side first, then the enemy's, in the order
-    // you ranked them: Quinn, then Steel, then Phalanx.
-    "the-prince": [2, 0],          // runs the entire good civilisation
+    // --- 2. principals
+    "the-prince": [2, 0],
     "the-space-princess": [2, 1],
-    "the-outcast-prince": [2, 2],  // the Prince's brother
-    "kaz": [2, 3],                 // his son
+    "the-outcast-prince": [2, 2],
+    "kaz": [2, 3],
     "brute": [2, 4],
     "the-samurai": [2, 5],
-    "the-red-ninja": [2, 6],       // the king ninja - stands beside the Samurai
+    "the-red-ninja": [2, 6],
     "the-ferryman": [2, 7],
-    // Next to the trickster, where you want him. He is not a traveller in the
-    // civilian sense: he crosses dimensions and has sat with the gods and
-    // demigods of several worlds, and the one thing his card and the
-    // Ferryman's agree on is that the two of them have never met.
     "the-in-betweener": [2, 8],
-
-    // The third of that boat. Up out of the civilians, where he was filed on
-    // the word apprentice - he is a trickster god's protege and does the magic
-    // with him - but not up with the other two, who are gods.
-    "the-tricksters-apprentice": 4,
-    "quinn": [2, 0],              // number one villain of this world
-    "steel": [2, 1],              // ultimate leader of the droid armies
-    "phalanx": [2, 2],
-    "the-martian-leader": [2, 3], // leads the entire Martian invasion
-    "goku": [2, 0],
-    "perfect-cell": [2, 1],
-    "superman": [2, 0],
-
-    // Ranked cosmic deities who are not gods, and one who is not a principal
-    // either: "Aphrodite is no more powerful than a civilian."
+    "the-green-captain": [2, 9],
+    "quinn": [2, 20],
+    "steel": [2, 21],
+    "phalanx": [2, 22],
+    "the-martian-leader": [2, 23],
+    "goku": [2, 0], "perfect-cell": [2, 1], "superman": [2, 0],
     "deus-pater": 2,
-    "aphrodite": [9, 44],
-
-    // Down a rung. The dwarves do as they please, so their king commands less
-    // than the title suggests; the Evil King's Son is not a major villain.
+    "aphrodite": [9, 44],              // no more powerful than a civilian
     "the-dwarf-king": 3,
     "the-evil-kings-son": 4,
 
-    // --- 3. champions. Real commanders and the best fighters, in your order.
+    // --- 3. champions, good side
     "the-palace-chief": [3, 0],
-    "claws": [3, 1],
-    "the-traitor-captain": [3, 2],
-    "the-snow-jedi": [3, 3],
-    "the-commissioner": [3, 4],    // the man in charge of the law
-    "the-space-marshal": [3, 5],   // runs the entire space militia
-    "the-grey-beanie": [3, 6],     // an extremely strong mercenary on the good side
-    "the-verdauf-guards": [3, 7],  // ranked above green berets, so above elite
-    // "One of the elite protection forces around the Prince - the top of that
-    // ladder, and he climbed the whole thing. He started as a soldier, became
-    // an agent, and made it all the way up." That is not a guard.
-    "the-guardsman": [3, 9],
-    "the-nightwatch-captain": [3, 8],  // a senior post, on the level of running royal intelligence
+    "armstrong": [3, 1],               // ahead of his deputy
+    "claws": [3, 2],
+    "the-deputy": [3, 3],
+    "the-snow-jedi": [3, 4],
+    "the-commissioner": [3, 5],
+    "the-space-marshal": [3, 6],
+    "the-grey-beanie": [3, 7],
+    "the-verdauf-guards": [3, 8],
+    "the-nightwatch-captain": [3, 9],
+    "the-guardsman": [3, 10],
+    "the-jedi": [3, 11],
+    "the-beowulf-jedi": [3, 12],
+    "the-second-padawan": [3, 13],
+    "the-blue-haired-ninja": [3, 14],
+    "the-street-ninja": [3, 15],
+    "drake": [3, 16],
+    "the-sniper": [3, 17],
+    "heavy": [3, 18],
+    // Up out of elite, all of them named by you
+    "the-younger-brother": [3, 19],
+    "the-golden-sniper": [3, 20],
+    "the-ninja-robot": [3, 21],
+    "the-disc-thrower": [3, 22],
+    "the-reckless": [3, 23],
+    "the-planner": [3, 24],
+    "the-gunner": [3, 25],
+    "kenjen": [3, 26],
+    "the-outlaw": [3, 27],
+    "the-flight-director": [3, 45],    // he decides where the rockets go
 
-    // Fighters you named as belonging above elite.
-    "the-jedi": [3, 10],
-    "the-beowulf-jedi": [3, 11],
-    "the-second-padawan": [3, 12],
-    "the-blue-haired-ninja": [3, 13],
-    "the-street-ninja": [3, 14],
-    "drake": [3, 15],
-    "the-sniper": [3, 16],
-    "heavy": [3, 17],
-    "the-purple-shadow": [3, 10],  // super evil - above elite
-    "johnny-plasma": [3, 11],
-    "the-lead-alien-mercenary": [3, 12],
-    "the-modified-arms-dealer": [3, 13],
-    "the-guardsmans-partner": [3, 14],   // literally John Wick
-    "the-charming-bounty-hunter": [3, 15],
-    "the-dapper-bounty-hunter": [3, 16],
-    "the-grey-longshot": [3, 17],
-    "the-smiling-hitman": [3, 18],
-    "the-crimson-ninja": [3, 19],
-    "the-black-ninja": [3, 20],
-    "darth-revan": [3, 0],
-    "ultron": [3, 1],
-    "magneto": [3, 2],
+    // --- 3. champions, enemy side
+    "wen": [3, 0],                     // Quinn's second, and he ranks like it
+    "the-iron-league-captain": [3, 1], // super deadly
+    "the-crimson-ninja": [3, 2],
+    "the-red-baron": [3, 3],           // incredibly dangerous
+    "the-purple-shadow": [3, 4],
+    "johnny-plasma": [3, 5],
+    "the-traitor-captain": [3, 6],
+    "the-lead-alien-mercenary": [3, 7],
+    "the-modified-arms-dealer": [3, 8],
+    "the-guardsmans-partner": [3, 9],  // literally John Wick
+    "the-charming-bounty-hunter": [3, 10],
+    "the-dapper-bounty-hunter": [3, 11],
+    "the-grey-longshot": [3, 12],
+    "the-smiling-hitman": [3, 13],
+    "the-black-ninja": [3, 14],
+    "the-disc-throwers-brother": [3, 15],
+    "the-iron-league-assassin": [3, 16],
+    "the-iron-league-alien": [3, 17],
+    "the-bounty-hunter-captain": [3, 18],
+    "the-bionic-brother": [3, 19],
+    "the-bionics-leader": [3, 20],
+    "the-narcissist": [3, 21],
+    "long-arm-johnson": [3, 22],
+    "the-current": [3, 23],            // an evil alien made of electricity
+    "darth-revan": [3, 0], "ultron": [3, 1], "magneto": [3, 2],
 
     // --- 4. elite
-    // "He is literally just a guy with a robot arm." His card calls him an
-    // ambassador because he is a bridge between civilisations, not because he
-    // commands anything - he is a kind, well-travelled explorer with no combat
-    // experience and one arm missing. He does not beat trained soldiers.
-    "the-discarded": [9, 1],
-    // Real combat experience and he teaches it, but he is badly worn - the new
-    // legs rip into his torso. He trains soldiers; he does not outfight them.
+    "the-discarded": [9, 1],           // no combat experience and one arm short
     "the-instructor": 5,
-    "the-bounty-hunter-captain": 4,
-    "the-giant-orc": 4,
-    "the-current": 4,              // an evil alien made of electricity
+    "the-defector": 4,                 // down out of the champions
+    "the-shadow-team-commander": 4,    // down a rank
+    "the-retired-general": 4,          // down a rank
+    "the-shadow-soldiers": 4,          // dangerous enough to leave the line
+    "the-commissioners-apprentice": 4, // he nearly killed the Commissioner
+    "the-iron-league-rifleman": 4,
+    "the-occultist": 4,                // he can throw a spell at you
+    "the-tricksters-apprentice": 4,    // a trickster god's protege, and does the magic
+    "the-scrap-adventurer": 4,
+    "the-ranger": 4,
+    "the-armorer": 4,
+    "the-chaosborn": 4,
+    "the-displaced": 4,
+    "the-senate-guards": 4,
+    "the-retired-senate-guard": 4,
+    "the-giant-orc": [5, 0],           // the strongest thing in the enemy's line
 
-    // Background filler officers. Not combat soldiers and not people who
-    // matter - so they go to the back of the soldiers rather than standing
-    // among the champions on the strength of a title.
+    // --- 5. soldiers. Background officers with a title and nothing behind it.
     "the-winter-trooper-leader": [5, 60],
     "the-engineer-commander": [5, 60],
     "the-hangar-commander": [5, 60],
     "the-range-commander": [5, 60],
     "the-enforcer-commander": [5, 60],
+    "the-enforcer-squad": [5, 60],
+    "the-pilot-officer": [5, 60],
     "the-clone-captain": [5, 60],
     "the-painted-clone-commander": [5, 60],
     "the-discarded-commander": [5, 60],
+    // Forest rangers rather than soldiers, on your call
+    "the-second-ranger": [5, 75],
+    "the-third-ranger": [5, 75],
+    "the-rescue-ranger": [5, 75],
+    // Armed men, but not soldiers: gangsters and the man on the gate
+    "the-gangster-financier": [5, 70],
+    "the-second-gangster-financier": [5, 70],
+    "the-mad-ticket-man": [5, 70],
+    // He does not beat a killer bot or a grenadier in a fight
+    "the-propagandist": [5, 72],
+    "the-spartan": 5,
+    "the-repair-crew": 5,
+    "the-us-army-soldiers": [5, 30],   // behind Delta Squad
+    "the-delta-leader": 5,             // back with his own squad
+    "the-delta-sniper": 5,
+    "the-head-agent": 5,               // back with his own team
 
-    // Elite, both of them. The Gunner fought a great many missions and still
-    // fights, with an arm the Goo turned to rock and left superhumanly strong.
-    // The Younger Brother is Verdauf, and the Verdauf are not line infantry.
-    "the-gunner": 4,
-    "the-younger-brother": 4,
-    "kenjen": 4,                   // filed Warrior on the job title; he is elite
+    // --- 6. warriors
+    "the-ninja-fan": 6,                // good with a sword
 
-    // --- 5. soldiers
-    "the-spartan": 5,              // a Spartan soldier
-    "the-chaosborn": 5,            // carries a sword
-    "the-commissioners-apprentice": 5,   // he nearly killed the Commissioner
-    "the-repair-crew": 5,          // armed and trained for combat
-    "the-green-officer": [7, 0],
+    // --- 7. police
+    "the-vigilante": [7, 15],          // he belongs next to the cops
 
-    // --- 8. civilians
-    // Their titles say captain and commander; they run dive crews, so they
-    // belong with the rugged civilians rather than with fighting forces.
-    "the-dive-captain": [9, 12],
-    "the-former-dive-captain": [9, 12],
+    // --- 9. civilians
+    "the-knighted-civilian": [9, 0],
+    "the-boxer": [9, 20], "the-second-boxer": [9, 20],
+    "the-wrestler": [9, 21], "the-sumo-wrestler": [9, 21],
+    "the-karate-kid": [9, 22], "the-bodybuilder": [9, 23],
+    "the-mechanic": [9, 10],           // he repaired his own arm and his own skull
+    "the-hijacked": [9, 16],
+    "the-dive-captain": [9, 14],
+    "the-former-dive-captain": [9, 14],
     "the-aqua-force-leader": [9, 12],
     "the-aqua-force-second": [9, 12],
-    "the-knighted-civilian": [9, 0],   // first of the civilians
-
-    // Civilians who can actually fight. A boxer beats a shopkeeper, and this
-    // rung has been ordered so that shows: these six sit above the athletes
-    // who only run and kick, and well above anybody unarmed.
-    "the-boxer": [9, 20],
-    "the-second-boxer": [9, 20],
-    "the-wrestler": [9, 21],
-    "the-sumo-wrestler": [9, 21],
-    "the-karate-kid": [9, 22],
-    "the-bodybuilder": [9, 23],
-    "matthew": [9, 62],            // a civilian child
+    "matthew": [9, 62],
     "elizabeth-swann": 9,
     "spongebob": 9,
-
-    // The Atlantis dive team's actual leader. He was last; he leads it.
-
-    // Leads soldiers, not a civilian outfit.
+    "the-maiden": [9, 52],             // behind the cop and the man with a sword
+    "little-red-riding-hood": [9, 60],
+    "the-neutral-skeletons": [9, 58],  // they are bones. They cannot move.
   },
 
   /* ------------------------------------------------- stated placements

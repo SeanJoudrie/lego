@@ -1870,8 +1870,8 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Space Police Gunner",
-    group: "The Space Police",
+    role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Best friend of" },
@@ -3268,8 +3268,8 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Space Police",
-    group: "The Space Police",
+    role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -3281,7 +3281,7 @@ window.COLLECTION = [
     tags: ["space-police", "support", "green"],
     images: ["images/the-green-officer-01.jpg"],
     acquired: "",
-    notes: "Placeholder name."
+    notes: "Placeholder name.\n\nCorrection: he was filed with the Space Police. He is space militia, and so is the Gunner, who was filed the same way. Neither of them is a cop."
   },
 
   {
@@ -3292,7 +3292,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "",
+    role: "Space Police",
     group: "The Space Police",
     location: "",
     relations: [
@@ -3305,7 +3305,7 @@ window.COLLECTION = [
     tags: ["love-interest", "space-police"],
     images: ["images/the-marshals-love-01.jpg"],
     acquired: "",
-    notes: "Fourth woman in a collection of 107, and the only character here defined solely by her relationship to someone else - she has no role, no name and no story of her own yet. The placeholder name is deliberately awkward so it nags. She wears the same torso as the General's Son."
+    notes: "Fourth woman in a collection of 107, and the only character here defined solely by her relationship to someone else - she has no role, no name and no story of her own yet. The placeholder name is deliberately awkward so it nags. She wears the same torso as the General's Son.\n\nGiven a role at last. She had none, which put her among the civilians when she is in the Space Police - it is in her group and it always was."
   },
 
   {
@@ -8496,7 +8496,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Diver",
+    role: "Atlantis Diver",
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
@@ -8522,7 +8522,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Diver",
+    role: "Atlantis Diver",
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
@@ -8548,7 +8548,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Diver",
+    role: "Atlantis Diver",
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
@@ -8574,7 +8574,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Diver",
+    role: "Atlantis Diver",
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
@@ -8598,7 +8598,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Diver",
+    role: "Atlantis Diver",
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
@@ -8624,7 +8624,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Diver",
+    role: "Atlantis Diver",
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
@@ -8648,7 +8648,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Diver",
+    role: "Atlantis Diver",
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
@@ -8674,7 +8674,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Diver",
+    role: "Atlantis Diver",
     group: "The Atlantis Dive Team",
     location: "",
     relations: [
@@ -13731,9 +13731,12 @@ window.COLLECTION = [
       "bedroll. A heavy ribbed grey mechanical arm on one side, an ordinary " +
       "yellow hand on the other, and brown legs.",
     tags: ["villain", "bounty-hunter", "captain", "mechanical-arm", "prosthetic", "scar", "neckerchief"],
-    images: ["images/the-bounty-hunter-captain-01.jpg"],
+    images: [
+      "images/the-bounty-hunter-captain-01.jpg",
+      { src: "images/the-old-man-with-one-arm-01.jpg", caption: "Out of the helmet" },
+    ],
     acquired: "",
-    notes: "Not filed with the Iron League, whose four members all wear the same chest plate and who already have a captain; this man is in nothing like it. If he captains them too, or captains somebody else, say so. Sixth bounty hunter here and the second on the villain side. The mechanical arm is the fifth body modification worn as history in this collection, after the Discarded, the Mechanic, the Rebuilt and the Modified Arms Dealer - and the third of the five to be on this side."
+    notes: "Not filed with the Iron League, whose four members all wear the same chest plate and who already have a captain; this man is in nothing like it. If he captains them too, or captains somebody else, say so. Sixth bounty hunter here and the second on the villain side. The mechanical arm is the fifth body modification worn as history in this collection, after the Discarded, the Mechanic, the Rebuilt and the Modified Arms Dealer - and the third of the five to be on this side.\n\nThe second photograph here was catalogued as its own figure for a while - The Old Man with One Arm, filed with the lost. It is him. That card is gone and the photograph is on this one."
   },
 
 
@@ -14124,7 +14127,7 @@ window.COLLECTION = [
     tags: ["villain", "soldier", "helmet", "no-story-yet", "needs-a-description"],
     images: ["images/the-soldier-in-the-brown-helmet-01.jpg"],
     acquired: "",
-    notes: "This is the honest version of a guess. Five figures came in that batch and four descriptions came with them - Wen, the Commissioner\'s apprentice, Long Arm Johnson and the Butcher - and the apprentice one was not numbered. I put it on the third figure, who is scarred, armed, wears a badge on the shirt and a death\'s head on the leg, over this one, who is smiling in a flight helmet. If I have them the wrong way round, say so and the two cards swap. Either way this man has no story yet and should get one."
+    notes: "This is the honest version of a guess. Five figures came in that batch and four descriptions came with them - Wen, the Commissioner\'s apprentice, Long Arm Johnson and the Butcher - and the apprentice one was not numbered. I put it on the third figure, who is scarred, armed, wears a badge on the shirt and a death\'s head on the leg, over this one, who is smiling in a flight helmet. If I have them the wrong way round, say so and the two cards swap. Either way this man has no story yet and should get one.\n\nWorth recording: this is the figure that actually stood in for the Commissioner. The character was swapped onto another figure later, purely so the description had somewhere to live, and this is the one that played the part first."
   },
 
 
@@ -16147,7 +16150,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Diver",
+    role: "Atlantis Diver",
     group: "The Atlantis Dive Team",
     location: "",
     relations: [],
@@ -17915,7 +17918,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "custom",
-    theme: "Creation Mythos",
+    theme: "Ninjago",
     rank: "",
     role: "",
     group: "",
@@ -17933,7 +17936,7 @@ window.COLLECTION = [
     tags: ["villain", "hooded", "skeleton", "ribcage", "cape", "smirk", "green-s"],
     images: ["images/the-hooded-skeleton-01.jpg"],
     acquired: "",
-    notes: "The one in this batch I could not put a name to. He came in a run of branded villains but I cannot place the character, and the parts read as a mixture rather than one figure out of one box - a hood and cape over a skeleton torso with a lime-green S on it. Filed custom and described from the plastic rather than guessed at; tell me who he is and the card takes the name, the theme and the branded tag."
+    notes: "The one in this batch I could not put a name to. He came in a run of branded villains but I cannot place the character, and the parts read as a mixture rather than one figure out of one box - a hood and cape over a skeleton torso with a lime-green S on it. Filed custom and described from the plastic rather than guessed at; tell me who he is and the card takes the name, the theme and the branded tag.\n\nIdentified. This is Lloyd out of Ninjago - the decayed version of him, not a skeleton character in his own right. The name stays descriptive because that is how he was catalogued and the collection already holds a Lloyd, but the theme says Ninjago now and the card says who he is."
   },
 
   {
@@ -21437,7 +21440,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
     group: "The Stone Warriors",
@@ -21470,7 +21473,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
     group: "The Stone Warriors",
@@ -21502,7 +21505,7 @@ window.COLLECTION = [
     variant: "The rank and file",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
     group: "The Stone Warriors",
@@ -21526,7 +21529,7 @@ window.COLLECTION = [
       { src: "images/the-stone-warriors-03.jpg", caption: "More of the plumed ones" },
     ],
     acquired: "",
-    notes: "Two figures on one card, because you sent them as additional rather than as anybody in particular.\n\nThe second of them settles something about Sigrid. He wears the identical torso - the same rivets, the same chainmail skirt, the same studded strap across the chest - which means Sigrid's armour is the unit's armour and not a king's. Whatever the numeral after his name buys him, it is not a different suit. The only thing that separates Sigrid from a soldier is the head, and his is a face where these are helmets.\n\nA new group, The Stone Warriors, named by you and three cards deep on the day it was made. That is unusual here - most groups in this collection started as a name with nobody in it, the alien mercenaries and the Insect Captain's insects and the Bionics Team - and this is the second to arrive as a going concern, after the Sting Rays.\n\nThey are also the largest body of moulded not-Lego figures in the collection. Everything else out of another maker here came one or two at a time, and every one of them was somebody: the Ancient, the Defector, the Brute Prince, the Red Spartan, the Knock-off Captain. Between these two, the Copper, Sigrid and the two Halo Grunts, six not-Lego figures arrived in a single batch, which is more than the whole shelf held before it.\n\nThe card has been widened since. A third photograph shows the plumed helm is not one man - there are more of them standing together, the same build repeated, which turns this from two figures into the unit's rank and file. The variant says so now rather than giving a number, because the photograph will not settle one.\n\nThe red-horned shot was also replaced with a sharper one of the same figure. It came in as more stone warriors, and it is not: the scorch marks across his shoulders are in the same two places, the studded belly plate is the same, the horns sit at the same angle. Same man, better photograph, so the card took the picture and not a second entry.\n\nFiled branded, not custom - the same correction as the knock-off society. These are a rival company's moulded figures out of a box, not home-made ones, and they were sorting above real customs because of it. The brass ones move with them."
+    notes: "Two figures on one card, because you sent them as additional rather than as anybody in particular.\n\nThe second of them settles something about Sigrid. He wears the identical torso - the same rivets, the same chainmail skirt, the same studded strap across the chest - which means Sigrid's armour is the unit's armour and not a king's. Whatever the numeral after his name buys him, it is not a different suit. The only thing that separates Sigrid from a soldier is the head, and his is a face where these are helmets.\n\nA new group, The Stone Warriors, named by you and three cards deep on the day it was made. That is unusual here - most groups in this collection started as a name with nobody in it, the alien mercenaries and the Insect Captain's insects and the Bionics Team - and this is the second to arrive as a going concern, after the Sting Rays.\n\nThey are also the largest body of moulded not-Lego figures in the collection. Everything else out of another maker here came one or two at a time, and every one of them was somebody: the Ancient, the Defector, the Brute Prince, the Red Spartan, the Knock-off Captain. Between these two, the Copper, Sigrid and the two Halo Grunts, six not-Lego figures arrived in a single batch, which is more than the whole shelf held before it.\n\nThe card has been widened since. A third photograph shows the plumed helm is not one man - there are more of them standing together, the same build repeated, which turns this from two figures into the unit's rank and file. The variant says so now rather than giving a number, because the photograph will not settle one.\n\nThe red-horned shot was also replaced with a sharper one of the same figure. It came in as more stone warriors, and it is not: the scorch marks across his shoulders are in the same two places, the studded belly plate is the same, the horns sit at the same angle. Same man, better photograph, so the card took the picture and not a second entry.\n\nFiled branded, not custom - the same correction as the knock-off society. These are a rival company's moulded figures out of a box, not home-made ones, and they were sorting above real customs because of it. The brass ones move with them.\n\nStop calling them Mega Bloks, you said, and that is right: the theme field said Mega Bloks on all eight of these, which is a company rather than anything about them. They are the stone warriors of this world and the theme says so now."
   },
 
   {
@@ -21535,7 +21538,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
     group: "The Stone Warriors",
@@ -21565,7 +21568,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
     group: "The Brass Warriors",
@@ -21596,7 +21599,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
     group: "The Brass Warriors",
@@ -21626,7 +21629,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
     group: "The Brass Warriors",
@@ -21658,7 +21661,7 @@ window.COLLECTION = [
     variant: "Two of them",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
     group: "The Stone Warriors",
@@ -22014,39 +22017,6 @@ window.COLLECTION = [
     notes: "Filed bad because you said so. That is worth marking: every other Spartan-shaped figure out of this maker was filed on the standing reasoning - the side rather than the man, because the world notes name that side as the aggressor and nothing had been said about any of them. This is the first one where the word came with the figure, and it went the same way the reasoning did.\n\nHe is the third red Spartan-type here and the three of them now cover the whole spread. The Red Spartan came over to the good guys. The Second Red Spartan did not, and was filed on the default. This one is evil on your word. Same maker, same colour, three different routes onto the page.\n\nThe armour over the armour is what makes him. A separate white shell fitted over the helmet, horned and flared like a samurai hood - which on this shelf puts him with the small number of figures wearing a second head over the first: the Crimson Ninja under his straw hat, the Astronaut Ninja, the stone warriors under their visors. On all of those the outer piece hides a face. On this one it hides a helmet that was already hiding one.\n\nNo photograph of the figure yet. He and Commander Gree are the only two cards here in that state."
   },
 
-  {
-    id: "the-old-man-with-one-arm",
-    name: "The Old Man with One Arm",
-    variant: "",
-    faction: "bad",
-    origin: "custom",
-    theme: "Creation Mythos",
-    rank: "",
-    role: "",
-    group: "",
-    location: "",
-    relations: [],
-    rating: 0,
-    background: "An old man, and a villain.",
-    provenance:
-      "White hair swept back in a heavy sweep, and under it a yellow face gone " +
-      "hard: brows down, mouth set, a long grey moustache falling either side " +
-      "of it into a short beard, and orange scoring worked across both cheeks " +
-      "and down the jaw. A deep red neckerchief tied at the throat with the " +
-      "ends hanging loose over the chest.\\n\\n" +
-      "A dark blue torso printed with rigging - ropes, a crossed strap, a coil " +
-      "worked over the chest - above plain reddish-brown legs.\\n\\n" +
-      "The arms do not match. One is a dark grey limb of stacked segments, " +
-      "ribbed along its whole length and much heavier than it should be, " +
-      "ending in an ordinary yellow hand. The other is red cloth with a yellow " +
-      "hand at the end of it.",
-    tags: ["villain", "old", "prosthetic", "one-arm", "scarred", "neckerchief", "rigging", "white-hair"],
-    images: [
-      "images/the-old-man-with-one-arm-01.jpg",
-    ],
-    acquired: "",
-    notes: "Named for what you called him, and the name is worth a note. You sent him as the old man villain with one arm; the figure has two, and one of them is a heavy segmented grey limb that is plainly not flesh. Either the grey one is the replacement and the arm he was born with is gone - which is what the name says - or he is missing one entirely and the card should say so. Written as the first because that is what the plastic shows.\\n\\nIf it is a prosthetic, he lands in the middle of this world's oldest idea, and on the wrong side of it. Losing a limb and getting a better one back is what happens to good people here: the Discarded's silver arm is why the civilization has cybernetics, the Mechanic repaired his own, the Space Militia's one casualty came back with an arm stronger than the one he lost. The villains who carry replacements carry them differently - the Bionics Team builds limbs that double as weapons, and the Damaged Battle Droid is simply short an arm with nothing put back. This one is an old man with a machine where an arm used to be and no story attached yet.\\n\\nThe rigging on his chest is the other thread. Ropes, a crossed strap and a coil is sailor's kit, and this collection has a sea: pirates, an underwater king, a ninja who goes places on a boat. Nothing says he is one of them."
-  },
 
   {
     id: "the-evil-space-militia",
