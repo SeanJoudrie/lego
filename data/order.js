@@ -245,6 +245,11 @@ window.ORDER = {
     "the-samurai": [2, 5],
     "the-red-ninja": [2, 6],       // the king ninja - stands beside the Samurai
     "the-ferryman": [2, 7],
+    // Next to the trickster, where you want him. He is not a traveller in the
+    // civilian sense: he crosses dimensions and has sat with the gods and
+    // demigods of several worlds, and the one thing his card and the
+    // Ferryman's agree on is that the two of them have never met.
+    "the-in-betweener": [2, 8],
     "quinn": [2, 0],              // number one villain of this world
     "steel": [2, 1],              // ultimate leader of the droid armies
     "phalanx": [2, 2],
