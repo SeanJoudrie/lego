@@ -140,35 +140,34 @@ window.ORDER = {
        "the-purple-shadow", "the-neon-fanatic", "quinns-second-in-command",
        "the-infamous-traitor", "the-fleet-general", "wen", "the-dictator",
        "the-defector-commander", "the-sith-lord", "the-first-man-in-space",
-       "the-shadow-team-commander",
+       "the-shadow-team-commander", "the-martian-leader",
     ],
     "The rebuilt and the bionic": [
        "the-discarded", "the-rebuilt", "the-salvager", "the-mechanic",
-       "the-reformed", "the-hijacked", "claws", "the-repair-crew",
+       "the-reformed", "the-hijacked", "claws",
        "the-verdauf-guards", "the-bionic-brother", "the-bionics-leader",
        "the-bionic-alien", "the-cybernetic-ninja", "the-cyborg",
        "the-second-cyborg-soldier", "the-evil-cyborg-soldier",
        "the-bin-woman", "the-bin-elder", "the-gunner", "the-voiceless",
        "the-damaged-battle-droid", "the-rebuilt-stone-warriors",
-       "the-martian-leader", "the-modified-arms-dealer",
+       "the-modified-arms-dealer",
        "the-brainwashed-assassin", "ultron", "doc-ock",
     ],
+    // Everybody on the top two rungs, which is what it should always have been.
     "Gods and demigods": [
-       "the-first-man", "the-green-demigod", "the-space-princess",
-       "the-ferryman", "the-manifestation-of-life", "the-vessel",
-       "the-man-from-the-yellow-dimension", "the-cosmic-twins", "aphrodite",
+       "the-first-man", "the-cosmic-twins", "the-second", "the-twins",
+       "the-green-demigod", "the-rebuilt", "the-engineer", "the-vessel",
        "the-shadow-king", "the-light-king", "the-blue-demigod",
-       "deus-pater", "loki",
+       "the-man-from-the-yellow-dimension", "the-manifestation-of-life",
+       "loki",
     ],
-    // The shadow dimension and everybody out of it, on both sides - the Shadow
-    // King runs it, the Shadow Prince is his son and is not a villain.
+    // The shadow dimension itself - king, priest, prince, then its soldiers.
+    // Not the Shadow Team, which is a company of this world with the word in
+    // its name, and not the two lords, who are masters of the League.
     "The shadow line": [
-       "the-shadow-prince", "the-shadow-troopers", "the-shadow-king",
-       "the-purple-shadow", "the-shadow-sorcerer",
-       "the-shadow-team-commander", "the-lord-of-wrath",
-       "the-lord-of-darkness", "the-shadow-archer",
-       "the-shadow-arf-trooper", "the-shadow-soldiers",
-       "the-shadow-commando",
+       "the-shadow-king", "the-shadow-sorcerer", "the-shadow-prince",
+       "the-purple-shadow", "the-shadow-soldiers", "the-shadow-troopers",
+       "the-shadow-archer", "the-shadow-arf-trooper", "the-shadow-commando",
     ],
 
     // The ones who turned, and only them. Being in a betrayal does not put you
@@ -180,6 +179,41 @@ window.ORDER = {
        "the-infamous-traitor", "the-clone-traitor", "the-atlantis-traitor",
        "the-armoury-traitor", "the-discarded-militarist", "the-black-ninja",
        "the-rocket-saboteur", "general-shepherd", "the-former-dive-captain",
+    ],
+
+    // And the people it was done to, which is not the same list.
+    "The betrayed": [
+       "the-prince", "the-green-captain", "the-red-ninja", "the-samurai",
+       "the-commissioner", "the-verdauf-guards", "the-blue-haired-ninja",
+       "the-street-ninja", "the-younger-brother", "the-flight-director",
+       "the-knock-off-captain", "the-ninja-golem", "the-red-apprentice",
+       "the-mad-ticket-man", "the-defense-bot", "the-delta-leader",
+       "the-delta-medic", "the-delta-sniper", "the-delta-gunner",
+       "the-delta-artilleryman", "the-delta-rifleman", "the-daredevils",
+       "the-test-pilot", "the-discarded", "the-young-leader",
+       "the-atlantis-leader", "the-atlantis-diver", "the-moustached-diver",
+       "the-bearded-diver", "the-grinning-diver", "the-scowling-diver",
+       "the-woman-in-the-dive-suit", "the-beaming-diver",
+       "the-diver-with-the-crooked-smile", "the-salvager", "the-technician",
+       "the-ground-technician", "the-wanderer", "the-halo-grunts",
+       "the-yellow-spartan", "the-odst-spartan", "the-jackals",
+       "the-second-red-spartan", "the-purple-spartan",
+       "the-standard-spartans", "the-elites", "the-hayabusa",
+       "the-discarded-in-the-blue-cap", "the-old-verdauf-soldier",
+       "the-engine-technician",
+    ],
+
+    // Steel commands every machine on that side, not only the figures filed as
+    // droids - the killer bots, the tankers, the robots that are minifigures.
+    "Steel's machines": [
+       "phalanx", "steel", "the-tanker-robot", "the-armoured-killer-bot",
+       "the-white-killer-bot", "the-tanker-droid", "the-television",
+       "the-skeleton-robot", "the-robotic-samurai", "the-robot-builder",
+       "the-droid-commander", "the-death-star-droid", "r-3po",
+       "the-teal-astromech", "the-super-battle-droids",
+       "the-cannon-armed-droid", "the-droid-commandos",
+       "the-ig-battle-droids", "the-space-droids", "the-droid-bomber",
+       "the-battle-droids",
     ],
     "The Bin": [
        "the-voiceless", "the-salvager", "the-in-betweener",

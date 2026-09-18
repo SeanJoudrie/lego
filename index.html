@@ -561,11 +561,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789747281"></script>
-<script src="data/scenes.js?v=1789747281"></script>
-<script src="data/lore.js?v=1789747281"></script>
-<script src="data/featured.js?v=1789747281"></script>
-<script src="data/order.js?v=1789747281"></script>
+<script src="data/collection.js?v=1789750459"></script>
+<script src="data/scenes.js?v=1789750459"></script>
+<script src="data/lore.js?v=1789750459"></script>
+<script src="data/featured.js?v=1789750459"></script>
+<script src="data/order.js?v=1789750459"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -848,15 +848,20 @@ function buildSections() {
   // 4. a trade or a type for everybody with a job title
   const fams = {}, pats = (RANKS.families || []).map(([p, n]) => [new RegExp(p, "i"), n]);
   const names = (RANKS.namedFamilies || []).map(([p, n]) => [new RegExp(p, "i"), n]);
-  const licensed = new Set(out.filter(sc => props[sc.name]).flatMap(sc => sc.figs.map(f => f.id)));
+  // A trade section is for people whose own unit was too small to draw and who
+  // are not already standing under the property they came out of. Otherwise
+  // half a squad ends up in soldiers of every army and the other half in its
+  // own unit, which is how the Delta medic got separated from Delta Squad.
+  const housed = new Set(out.flatMap(sc => sc.figs.map(f => f.id)));
   for (const f of FIGS) {
+    if (housed.has(f.id)) continue;
     let name = null;
     if (f.role) { for (const [re, n] of pats) if (re.test(f.role)) { name = n; break; } }
-    else if (!licensed.has(f.id)) { for (const [re, n] of names) if (re.test(f.name)) { name = n; break; } }
-    if (!name) continue;                   // already in a property's own section
+    else        { for (const [re, n] of names) if (re.test(f.name)) { name = n; break; } }
+    if (!name) continue;
     (fams[name] || (fams[name] = [])).push(f);
   }
-  bucket(fams, MIN_SECTION, "Odd ones out");
+  bucket(fams, MIN_SECTION, "One of a kind");   // the last few, and they are
 
   // 5. whatever the four passes above could not place. Should be nobody, and
   //    the section only appears if it is not.
@@ -864,7 +869,23 @@ function buildSections() {
   for (const sc of out) for (const f of sc.figs) placed.add(f.id);
   const missed = pool.filter(f => !placed.has(f.id));
   if (missed.length) out.push({ name: "Not in any section yet", figs: missed });
-  return out;
+
+  /* Order. The hand-made sets lead, because they are the ones worth finding.
+     After them every section made of this world's own figures, then the
+     licensed properties - a section is licensed if most of it is, so the clone
+     legions stay with the customs where they belong. Inside each of those two
+     runs, sections sort by their strongest member, so the ranking of the
+     combined deck decides which unit comes first rather than how many people
+     happen to be in it. */
+  const setNames = new Set(Object.keys(RANKS.sets || {}));
+  const rank = new Map((decks.total || FIGS).map((f, n) => [f._i, n]));
+  const best = sc => Math.min(...sc.figs.map(f => rank.get(f._i) ?? 1e9));
+  const kind = sc => setNames.has(sc.name) ? 0
+    : (sc.figs.filter(isBranded).length * 2 > sc.figs.length ? 2 : 1);
+  const setAt = sc => Object.keys(RANKS.sets || {}).indexOf(sc.name);
+  return out.sort((a, b) =>
+    kind(a) - kind(b)
+    || (kind(a) === 0 ? setAt(a) - setAt(b) : best(a) - best(b)));
 }
 
 let SECTIONS = null;

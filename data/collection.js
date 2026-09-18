@@ -784,8 +784,8 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Chief of Space Police",
-    group: "The Space Police",
+    role: "Space Militia Commander",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "crispus", label: "Commands" },
@@ -812,7 +812,7 @@ window.COLLECTION = [
     tags: ["space-police", "bold", "daring", "optimist", "leads-a-team"],
     images: ["images/the-space-marshal-01.jpg"],
     acquired: "",
-    notes: "Placeholder name. His team is still to come."
+    notes: "Placeholder name. His team is still to come.\n\nCorrection: he was filed with the Space Police. He is in charge of the space militia, and the Minigunner is militia too - both were sitting under the police on the strength of the word marshal."
   },
 
   {
@@ -941,7 +941,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Gatekeeper",
+    role: "Head of Border Security",
     group: "The Discarded",
     location: "The Royal Palace",
     relations: [
@@ -963,7 +963,7 @@ window.COLLECTION = [
     tags: ["discarded", "gatekeeper", "grumpy", "loyal", "great-lego-war", "pistol"],
     images: ["images/the-mad-ticket-man-01.jpg"],
     acquired: "",
-    notes: ""
+    notes: "\n\nHe runs border security for the entire civilisation. He was catalogued as a gatekeeper and ranked like one, which had him sitting among the armed civilians. The gate he keeps is the whole border."
   },
 
   {
@@ -2162,8 +2162,8 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Space Police",
-    group: "The Space Police",
+    role: "Space Militia",
+    group: "The Space Militia",
     location: "",
     relations: [
       { to: "the-space-marshal", label: "Serves under" },
@@ -14993,7 +14993,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Elder",
-    group: "The Shadow Elders",
+    group: "The League of Shadows",
     location: "The Shadow Dimension",
     relations: [
       { to: "the-lord-of-darkness", label: "Shadow Elder alongside" },
@@ -15012,7 +15012,7 @@ window.COLLECTION = [
     tags: ["villain", "shadow", "elder", "occult", "secrets", "shadow-room", "wrath", "beard"],
     images: ["images/the-lord-of-wrath-01.jpg"],
     acquired: "",
-    notes: "Which elder is which is my call, not yours - you said one is the Lord of Wrath and the other the Lord of Darkness without saying which. I gave the hood to Darkness and the beard to Wrath. One word swaps them if I have it backwards. New group: The Shadow Elders."
+    notes: "Which elder is which is my call, not yours - you said one is the Lord of Wrath and the other the Lord of Darkness without saying which. I gave the hood to Darkness and the beard to Wrath. One word swaps them if I have it backwards. New group: The Shadow Elders.\n\nFiled with the League of Shadows. He and the Lord of Darkness were in a group of their own called The Shadow Elders, which made a squad out of two men - they are masters of the League, the same as the Master of Combat or the Master of Disguise, and they belong with them."
   },
 
   {
@@ -15024,7 +15024,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Elder",
-    group: "The Shadow Elders",
+    group: "The League of Shadows",
     location: "The Shadow Dimension",
     relations: [
       { to: "the-lord-of-wrath", label: "Shadow Elder alongside" },
@@ -21571,7 +21571,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
-    group: "The Brass Warriors",
+    group: "The Stone Warriors",
     location: "",
     relations: [],
     rating: 0,
@@ -21590,7 +21590,7 @@ window.COLLECTION = [
       "images/the-brass-warrior-in-the-horned-cap-01.jpg",
     ],
     acquired: "",
-    notes: "Split out of a combined entry. The three brass warriors were catalogued on one card because they arrived together, and you have since said that one of them is a different character and each should stand on his own. That was my error and the three cards are written now.\n\nThe chest is the thing they share and the thing that separates them from the silver unit. Every stone warrior wears a riveted plate or a scaled one; these wear crossed chains pinned with a boss, which is the only chest design in either army that is not armour. Chains across a breastplate are either a decoration or a record of something, and nothing has been said about which.\n\nHe and the other two are the first gold soldiers in the collection. Two figures here were already gold from head to foot and neither of them fights - C-3PO, who is a protocol droid, and Deus Pater, who is a cosmic deity. Everywhere else gold is a highlight on somebody: the Golden Sniper's rifle, the Mechanic's repaired skull, the gold-visored astronaut, Gold Tooth's one tooth. It has meant precious, or divine, or one thing worth mentioning. These are men in armour cast in it, which is neither.\n\nHis cap is a working helmet where the other two carry four horns and a bare face, and it is the only piece on him darker than the rest. If the brass warriors are ranked, he reads as the one at the bottom of it - and nobody has said they are ranked."
+    notes: "Split out of a combined entry. The three brass warriors were catalogued on one card because they arrived together, and you have since said that one of them is a different character and each should stand on his own. That was my error and the three cards are written now.\n\nThe chest is the thing they share and the thing that separates them from the silver unit. Every stone warrior wears a riveted plate or a scaled one; these wear crossed chains pinned with a boss, which is the only chest design in either army that is not armour. Chains across a breastplate are either a decoration or a record of something, and nothing has been said about which.\n\nHe and the other two are the first gold soldiers in the collection. Two figures here were already gold from head to foot and neither of them fights - C-3PO, who is a protocol droid, and Deus Pater, who is a cosmic deity. Everywhere else gold is a highlight on somebody: the Golden Sniper's rifle, the Mechanic's repaired skull, the gold-visored astronaut, Gold Tooth's one tooth. It has meant precious, or divine, or one thing worth mentioning. These are men in armour cast in it, which is neither.\n\nHis cap is a working helmet where the other two carry four horns and a bare face, and it is the only piece on him darker than the rest. If the brass warriors are ranked, he reads as the one at the bottom of it - and nobody has said they are ranked.\n\nFiled with the Stone Warriors. The brass ones had a group of their own, which put a wall between them and the rest - they are all on the same side and it is one force."
   },
 
   {
@@ -21602,7 +21602,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
-    group: "The Brass Warriors",
+    group: "The Stone Warriors",
     location: "",
     relations: [],
     rating: 0,
@@ -21632,7 +21632,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Warrior",
-    group: "The Brass Warriors",
+    group: "The Stone Warriors",
     location: "",
     relations: [],
     rating: 0,

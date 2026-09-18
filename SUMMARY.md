@@ -1122,7 +1122,7 @@ He's an alien, as you can tell from the green skin, but he wears the Royal Intel
 
 ### 22. The Space Marshal
 
-**Alignment:** good · **Role:** Chief of Space Police · **Figure:** custom
+**Alignment:** good · **Role:** Space Militia Commander · **Figure:** custom
 
 The man in charge of the space police. He has a team of his own, who you'll meet later.
 
@@ -1182,7 +1182,7 @@ The silver arm is still unaccounted for — and it is the piece the whole cybern
 
 ### 26. The Mad Ticket Man
 
-**Alignment:** good · **Role:** Gatekeeper · **Based:** The Royal Palace · **Figure:** custom
+**Alignment:** good · **Role:** Head of Border Security · **Based:** The Royal Palace · **Figure:** custom
 
 Very grumpy, very grouchy, and widely considered an asshole. He would also be the first person to fight if anything happened.
 
@@ -1694,7 +1694,7 @@ He also works at supersonic speed, and he trained as a Jedi.
 
 ### 67. The Minigunner
 
-**Alignment:** good · **Role:** Space Police · **Figure:** custom
+**Alignment:** good · **Role:** Space Militia · **Figure:** custom
 
 Space police, carrying a minigun. Tough, rugged, and considerable swag.
 
