@@ -561,11 +561,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789743172"></script>
-<script src="data/scenes.js?v=1789743172"></script>
-<script src="data/lore.js?v=1789743172"></script>
-<script src="data/featured.js?v=1789743172"></script>
-<script src="data/order.js?v=1789743172"></script>
+<script src="data/collection.js?v=1789747049"></script>
+<script src="data/scenes.js?v=1789747049"></script>
+<script src="data/lore.js?v=1789747049"></script>
+<script src="data/featured.js?v=1789747049"></script>
+<script src="data/order.js?v=1789747049"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -1080,7 +1080,11 @@ function render() {
     $("grid-" + k).innerHTML = SIDE_MODE[k] === "sections"
       ? (SECTIONS || (SECTIONS = buildSections()))
           .map(sc => {
-            const inside = sc.figs.filter(f => mine.some(m => m._i === f._i));
+            // Inside a section, the order of the combined deck - which puts the
+            // customs in front of the licensed figures and keeps the ladder.
+            const rank = new Map((decks.total || FIGS).map((f, n) => [f._i, n]));
+            const inside = sc.figs.filter(f => mine.some(m => m._i === f._i))
+              .sort((a, b) => (rank.get(a._i) ?? 1e9) - (rank.get(b._i) ?? 1e9));
             if (!inside.length) return ``;
             return `<div class="sec">${esc(sc.name)}<b>${inside.length}</b></div>`
                  + inside.map(card).join("");

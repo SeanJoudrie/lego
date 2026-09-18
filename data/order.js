@@ -81,6 +81,36 @@ window.ORDER = {
     "the-smiling-pilot", "the-stern-pilot", "the-pilot-in-glasses",
     "the-a-wing-pilot",
     "the-senate-guards", "the-retired-senate-guard",
+
+    // The clones and the faceless troopers. They came out of Star Wars boxes
+    // and in this world they are the royal military - that is the one standing
+    // exception to the rule above, and it is not a small one: sixty figures,
+    // the whole Clone Army, the legions, the commandos, the stormtroopers and
+    // the snowtroopers. A named clone commander comes with his own men rather
+    // than being split off from them.
+     "sev", "fixer", "scorch", "boss", "the-green-clone-trooper",
+     "the-501st-troopers", "commander-cody", "the-golden-company-rifleman",
+     "the-golden-company-grenadier", "the-golden-company-scout",
+     "the-golden-commander", "the-blaze-squad-soldier",
+     "the-wolfpack-soldier", "the-camo-scouts", "the-wolfpack-scout",
+     "the-187th-commander", "captain-antilles", "the-rebel-troopers",
+     "the-snowtroopers", "the-scout-trooper", "the-yellow-clone-trooper",
+     "the-clone-pilot-in-grey", "the-battered-clone-pilot",
+     "the-stormtrooper-commander", "the-stormtrooper-pilot",
+     "the-clone-captain", "the-battle-pack-clone",
+     "the-plain-clone-trooper", "the-painted-clone-commander",
+     "the-commander-in-red", "the-shock-troopers", "commander-fox",
+     "the-shadow-troopers", "the-187th-soldiers", "the-bomb-squad",
+     "the-discarded-commander", "the-old-republic-trooper", "captain-rex",
+     "the-187th-scout", "the-stormtroopers", "ahsokas-trooper",
+     "the-501st-scout", "the-classic-clones", "fives",
+     "the-501st-arc-troopers", "the-501st-commando", "the-clone-traitor",
+     "the-first-order-snowtrooper", "the-blue-imperial-trooper", "jek-14",
+     "the-shadow-arf-trooper", "the-trooper-in-olive-and-white",
+     "the-shadow-commando", "the-black-clone-trooper",
+     "the-enemy-scout-trooper", "commander-gree",
+     "the-lost-golden-rifleman", "the-tie-pilots", "the-at-st-pilot",
+     "the-umbaran-soldier",
   ],
 
   /* ------------------------------------------------------------- sections
@@ -95,18 +125,21 @@ window.ORDER = {
      that a figure with no unit is still somewhere. Anybody with no job title
      at all falls into a last pair of sections by side. */
   sets: {
+    // Family, not the household - the staff, the guards and the orphans are in
+    // The Royal Household instead. The impersonator is a stuntman doing an
+    // Elvis act and the Pretender is a pretender; neither is a relation.
     "The Royal Family": [
-       "the-prince", "the-space-princess", "the-outcast-prince", "kaz",
-       "brute", "the-royal-sons", "the-royal-daughter",
-       "the-palace-orphans", "the-princes-cousin", "the-shadow-prince",
-       "the-princes-impersonator", "the-prince-pretender",
+      "the-prince", "the-space-princess", "the-royal-sons", "the-royal-daughter",
+      "the-outcast-prince", "kaz", "the-princes-cousin",
     ],
+    // The people who answer to him or stand with him. Being tied to Quinn is
+    // not the test - Claws was captured by him and the Knighted Civilian
+    // brought him down, and neither of them belongs in his circle.
     "Quinn and his circle": [
-       "quinn", "claws", "the-knighted-civilian", "the-shadow-king",
-       "the-prince-pretender", "the-purple-shadow", "the-neon-fanatic",
-       "quinns-second-in-command", "the-infamous-traitor",
-       "the-fleet-general", "wen", "the-dictator", "the-defector-commander",
-       "the-sith-lord", "the-first-man-in-space",
+       "quinn", "the-shadow-king", "the-prince-pretender",
+       "the-purple-shadow", "the-neon-fanatic", "quinns-second-in-command",
+       "the-infamous-traitor", "the-fleet-general", "wen", "the-dictator",
+       "the-defector-commander", "the-sith-lord", "the-first-man-in-space",
        "the-shadow-team-commander",
     ],
     "The rebuilt and the bionic": [
@@ -127,16 +160,26 @@ window.ORDER = {
        "the-shadow-king", "the-light-king", "the-blue-demigod",
        "deus-pater", "loki",
     ],
+    // The shadow dimension and everybody out of it, on both sides - the Shadow
+    // King runs it, the Shadow Prince is his son and is not a villain.
+    "The shadow line": [
+       "the-shadow-prince", "the-shadow-troopers", "the-shadow-king",
+       "the-purple-shadow", "the-shadow-sorcerer",
+       "the-shadow-team-commander", "the-lord-of-wrath",
+       "the-lord-of-darkness", "the-shadow-archer",
+       "the-shadow-arf-trooper", "the-shadow-soldiers",
+       "the-shadow-commando",
+    ],
+
+    // The ones who turned, and only them. Being in a betrayal does not put you
+    // here: the Commissioner and the Prince were on the receiving end of one.
     "The betrayers": [
-       "the-prince", "the-shadow-team-commander", "the-commissioner",
-       "the-commissioners-apprentice", "the-mad-ticket-man",
-       "the-transport-director", "the-defector", "the-car-repairman",
-       "the-princes-impersonator", "quinn", "the-defector-commander",
+       "the-shadow-team-commander", "the-commissioners-apprentice",
+       "the-transport-director", "quinn", "the-defector-commander",
        "the-prince-pretender", "the-traitor-captain",
        "the-infamous-traitor", "the-clone-traitor", "the-atlantis-traitor",
        "the-armoury-traitor", "the-discarded-militarist", "the-black-ninja",
-       "the-rocket-saboteur", "the-brute-prince", "the-red-spartan",
-       "general-shepherd", "the-former-dive-captain",
+       "the-rocket-saboteur", "general-shepherd", "the-former-dive-captain",
     ],
     "The Bin": [
        "the-voiceless", "the-salvager", "the-in-betweener",
