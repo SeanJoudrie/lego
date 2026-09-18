@@ -1628,7 +1628,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Camera Operator",
-    group: "",
+    group: "The TV Unit",
     location: "Lego City",
     relations: [],
     rating: 0,
@@ -1641,7 +1641,7 @@ window.COLLECTION = [
     tags: ["tv", "camera", "editor", "scarred", "cheerful"],
     images: ["images/the-cameraman-01.jpg"],
     acquired: "",
-    notes: "The scarring is on the figure - it's scuffed and marked all over. Placeholder name."
+    notes: "The scarring is on the figure - it's scuffed and marked all over. Placeholder name.\n\nFiled with the TV unit. The rest of that crew went over and are on the enemy deck, and he did not - he is the one who stayed. His card already said he does the camera work and editing for the TV unit; he just had no group on him, so the unit looked like it was entirely made of people who turned."
   },
 
   {
@@ -14339,7 +14339,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Propagandist",
-    group: "The Propaganda Unit",
+    group: "The TV Unit",
     location: "",
     relations: [
       { to: "the-first-man-in-space", label: "Fronted by" },
@@ -14371,7 +14371,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Propaganda Director",
-    group: "The Propaganda Unit",
+    group: "The TV Unit",
     location: "",
     relations: [],
     rating: 0,
@@ -14401,7 +14401,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Assistant",
-    group: "The Propaganda Unit",
+    group: "The TV Unit",
     location: "",
     relations: [
       { to: "the-propagandist", label: "Assistant to" },
@@ -14431,7 +14431,7 @@ window.COLLECTION = [
     theme: "Creation Mythos",
     rank: "",
     role: "Camera Operator",
-    group: "The Propaganda Unit",
+    group: "The TV Unit",
     location: "",
     relations: [],
     rating: 0,
@@ -20740,9 +20740,12 @@ window.COLLECTION = [
       "green dome with two more eyes showing through, so that it reads as a " +
       "creature inside a creature.",
     tags: ["king", "slime", "green", "translucent", "shield", "friendly", "custom"],
-    images: ["images/the-slime-king-01.jpg"],
+    images: [
+      { src: "images/the-slime-king-02.jpg", caption: "Concept art" },
+      { src: "images/the-slime-king-01.jpg", caption: "The figure, and the slimes" },
+    ],
     acquired: "",
-    notes: "Sixth king on the good side, after the Prince, King Arthur, the Dwarf King, the City King and the elected one. Rulers in this collection have been drifting the wrong way for a long time - the villain deck holds two kings, two pharaohs, a queen, an emperor, a dictator, a governor, a supreme chancellor and an underwater king, ten in all - so a king arriving on this deck is worth noting on its own.\\n\\nWhat he is carrying is the odd part. The shield is a proper heraldic one, quartered and charged with a crowned lion, and it does not belong to anything else on him. A faceless green man in an orange vest holding somebody's coat of arms is either a king who inherited the arms and not the clothes, or a slime that found a shield.\\n\\nThe slimes are on his card rather than their own because you handed them in as his and they have no faces beyond the eyes. If they are people rather than his, they split off."
+    notes: "Sixth king on the good side, after the Prince, King Arthur, the Dwarf King, the City King and the elected one. Rulers in this collection have been drifting the wrong way for a long time - the villain deck holds two kings, two pharaohs, a queen, an emperor, a dictator, a governor, a supreme chancellor and an underwater king, ten in all - so a king arriving on this deck is worth noting on its own.\\n\\nWhat he is carrying is the odd part. The shield is a proper heraldic one, quartered and charged with a crowned lion, and it does not belong to anything else on him. A faceless green man in an orange vest holding somebody's coat of arms is either a king who inherited the arms and not the clothes, or a slime that found a shield.\\n\\nThe slimes are on his card rather than their own because you handed them in as his and they have no faces beyond the eyes. If they are people rather than his, they split off.\n\nThe painting is his. Everything the card describes is in it and nothing was invented for it: one continuous green from crown to boot, two black eyes and no mouth at all, the marigold vest over the wide belt, the tan rags below, and the shield quartered blue and red with the crowned gold lion rearing across the middle. The slimes came out right too - one plain lump with the same two eyes, and one that is a creature inside a creature, its own eyes under a glass dome with another pair showing through."
   },
 
   {
@@ -21500,9 +21503,9 @@ window.COLLECTION = [
   },
 
   {
-    id: "the-stone-warriors",
-    name: "The Stone Warriors",
-    variant: "The rank and file",
+    id: "the-stone-warrior-in-the-red-horns",
+    name: "The Stone Warrior in the Red Horns",
+    variant: "Bare steel",
     faction: "bad",
     origin: "branded",
     theme: "Creation Mythos",
@@ -21512,24 +21515,61 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "More of the Stone Warriors.",
+    background: "One of the Stone Warriors, rank and file.",
     provenance:
-      "Two more of the same moulded build, both in bare steel. The first wears " +
-      "a horned helm - a sculpted snarling face set behind a crested visor, " +
-      "with two dark red horns curving up and out of the crown - over a chest " +
-      "of overlapping scales and buckled pouches, heavy shoulder plates and " +
-      "panelled legs. The second is helmed differently: a closed visor cut " +
-      "with vertical slits and a small plume standing off the top, over the " +
-      "same riveted chest, chainmail skirt and studded strap that Sigrid " +
-      "wears. Claw hands on both, and not a printed marking on either.",
-    tags: ["villain", "stone-warriors", "not-lego", "armour", "horns", "helm", "steel", "pair"],
+      "A moulded build in bare steel. A horned helm - a sculpted snarling face set behind a crested visor, with two dark red horns curving up and out of the crown - over a chest of overlapping scales and buckled pouches, heavy shoulder plates and panelled legs.",
+    tags: ["villain", "stone-warriors", "not-lego", "armour", "horns", "steel", "split"],
     images: [
       { src: "images/the-stone-warriors-01.jpg", caption: "In the red horns" },
-      { src: "images/the-stone-warriors-02.jpg", caption: "In the plumed helm" },
-      { src: "images/the-stone-warriors-03.jpg", caption: "More of the plumed ones" },
     ],
     acquired: "",
-    notes: "Two figures on one card, because you sent them as additional rather than as anybody in particular.\n\nThe second of them settles something about Sigrid. He wears the identical torso - the same rivets, the same chainmail skirt, the same studded strap across the chest - which means Sigrid's armour is the unit's armour and not a king's. Whatever the numeral after his name buys him, it is not a different suit. The only thing that separates Sigrid from a soldier is the head, and his is a face where these are helmets.\n\nA new group, The Stone Warriors, named by you and three cards deep on the day it was made. That is unusual here - most groups in this collection started as a name with nobody in it, the alien mercenaries and the Insect Captain's insects and the Bionics Team - and this is the second to arrive as a going concern, after the Sting Rays.\n\nThey are also the largest body of moulded not-Lego figures in the collection. Everything else out of another maker here came one or two at a time, and every one of them was somebody: the Ancient, the Defector, the Brute Prince, the Red Spartan, the Knock-off Captain. Between these two, the Copper, Sigrid and the two Halo Grunts, six not-Lego figures arrived in a single batch, which is more than the whole shelf held before it.\n\nThe card has been widened since. A third photograph shows the plumed helm is not one man - there are more of them standing together, the same build repeated, which turns this from two figures into the unit's rank and file. The variant says so now rather than giving a number, because the photograph will not settle one.\n\nThe red-horned shot was also replaced with a sharper one of the same figure. It came in as more stone warriors, and it is not: the scorch marks across his shoulders are in the same two places, the studded belly plate is the same, the horns sit at the same angle. Same man, better photograph, so the card took the picture and not a second entry.\n\nFiled branded, not custom - the same correction as the knock-off society. These are a rival company's moulded figures out of a box, not home-made ones, and they were sorting above real customs because of it. The brass ones move with them.\n\nStop calling them Mega Bloks, you said, and that is right: the theme field said Mega Bloks on all eight of these, which is a company rather than anything about them. They are the stone warriors of this world and the theme says so now."
+    notes: "They were one card. #765 held three separate warriors under a single entry called The Stone Warriors, with three photographs on it, and the section came up short because of it. Split now, one card each, the way the rest of the collection works. The names are descriptive and nothing more - these are rank and file, told apart by what is on their heads."
+  },
+  {
+    id: "the-stone-warrior-in-the-plumed-helm",
+    name: "The Stone Warrior in the Plumed Helm",
+    variant: "Bare steel",
+    faction: "bad",
+    origin: "branded",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "The Stone Warriors",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "One of the Stone Warriors, rank and file.",
+    provenance:
+      "The same moulded build in bare steel, helmed differently: a closed visor cut with vertical slits and a small plume standing off the crown. The same scaled chest, shoulder plates and panelled legs as the rest of the unit.",
+    tags: ["villain", "stone-warriors", "not-lego", "armour", "helm", "steel", "split"],
+    images: [
+      { src: "images/the-stone-warriors-02.jpg", caption: "In the plumed helm" },
+    ],
+    acquired: "",
+    notes: "They were one card. #765 held three separate warriors under a single entry called The Stone Warriors, with three photographs on it, and the section came up short because of it. Split now, one card each, the way the rest of the collection works. The names are descriptive and nothing more - these are rank and file, told apart by what is on their heads."
+  },
+  {
+    id: "the-second-stone-warrior-in-the-plumed-helm",
+    name: "The Second Stone Warrior in the Plumed Helm",
+    variant: "Two of them, side by side",
+    faction: "bad",
+    origin: "branded",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Warrior",
+    group: "The Stone Warriors",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "More of the Stone Warriors, rank and file.",
+    provenance:
+      "Two more in bare steel, identical to each other and to the plumed one - closed slitted visors under a small standing plume, scaled chests, heavy shoulder plates, panelled legs. Nothing tells them apart.",
+    tags: ["villain", "stone-warriors", "not-lego", "armour", "helm", "steel", "pair", "split"],
+    images: [
+      { src: "images/the-stone-warriors-03.jpg", caption: "Two of them, side by side" },
+    ],
+    acquired: "",
+    notes: "They were one card. #765 held three separate warriors under a single entry called The Stone Warriors, with three photographs on it, and the section came up short because of it. Split now, one card each, the way the rest of the collection works. The names are descriptive and nothing more - these are rank and file, told apart by what is on their heads."
   },
 
   {
