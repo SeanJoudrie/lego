@@ -127,28 +127,62 @@ window.ORDER = {
     // 7 - fire service
     "Fire Chief": [8, 0], "Firefighter": 8,
 
-    // 8 - civilians. Everything with a job that is not fighting, policing or
-    // putting fires out. Leaders of civilian outfits lead their own people and
-    // go no higher - a dive team captain does not outrank a soldier.
-    "Leader": [9, 0], "Explorer": 9,
-    "Safari Master": [9, 0], "Diver": [9, 2], "Dive Team": [9, 2], "Aqua Force": [9, 2],
-    "Astronaut": [9, 2], "Spaceman": [9, 1], 
-    "Aircraft Engineer": 9, "Aircraft Mechanic": 9, "Mechanic": 9,
-    "Mechanic Supervisor": [9, 0], "Engineer": 9, "Technician": 9,
-    "Construction Chief": [9, 0], "Construction Worker": 9, "Site Planner": 9,
-    "Power Miner": [9, 2], "Miner": [9, 2], "Blacksmith": 9, "Dockworker": 9,
-    "Farmer": 9, "Fisherman": 9, "Greengrocer": 9, "Shopkeeper": 9,
-    "Chef": 9, "Tea Seller": 9, "Gas Attendant": 9, "Courier": 9,
-    "Doctor": 9, "Professor": 9, "Librarian": 9, "Student": [9, 9],
-    "Law Student": [9, 9], "Graduate": [9, 9], "Intern": [9, 9],
-    "Bank Teller": 9, "Financier": 9, "Inventory Specialist": 9,
-    "Secretary": 9, "Assistant": 9, "Rights Activist": 9, 
-    "Traveller": 9, "Backpacker": 9, "Surfer": 9, "Athlete": 9,
-    "Racing Driver": 9, "Stunt Driver": 9, "Stuntman": 9, "Stunt Double": 9,
-    "Musician": 9, "Rapper": 9, "Bard": 9, "Jester": 9, "Clown": 9,
-    "Stand-up Comedian": 9, "Camera Operator": 9, "Peasant": 9,
-    "Civilian": 9, "Orphan": [9, 9], "Royal Child": [9, 9], "Child": [9, 9],
-    "Apprentice": [9, 9], "Gatekeeper": 9, "Easter Bunny": 9, "Inventor": 9,
+    /* 9 - civilians, and they are not all the same. The third number orders
+       the whole rung, top to bottom:
+
+         10  rugged work that meets trouble - astronauts, power miners,
+             divers, explorers. These people see combat.
+         20  civilians who can fight: boxers, wrestlers, the karate kid
+         30  athletes, and trades that take a body to do
+         40  desk work, shops, stages and studios
+         50  a plain unarmed civilian, which is where the word ends up
+         60  children, students and apprentices
+
+       Leaders of civilian outfits lead their own people and go no higher -
+       a dive team captain does not outrank a soldier. */
+
+    // 10 - rugged
+    "Astronaut": [9, 5, 10], "Power Miner": [9, 5, 10], "Miner": [9, 5, 10],
+    "Explorer": [9, 5, 10], "Safari Master": [9, 0, 10], "Spaceman": [9, 5, 10],
+    "Diver": [9, 5, 12], "Dive Team": [9, 5, 12], "Aqua Force": [9, 5, 12],
+    "Leader": [9, 0, 12],
+
+    // 30 - athletes and trades that take a body (the fighters among the
+    // athletes are named further down, at 20)
+    "Athlete": [9, 5, 30],
+    "Blacksmith": [9, 5, 30], "Dockworker": [9, 5, 30], "Farmer": [9, 5, 30],
+    "Fisherman": [9, 5, 30], "Gardener": [9, 5, 30], "Courier": [9, 5, 30],
+    "Mechanic": [9, 5, 32], "Mechanic Supervisor": [9, 0, 32],
+    "Aircraft Mechanic": [9, 5, 32], "Aircraft Engineer": [9, 5, 32],
+    "Engineer": [9, 5, 32], "Technician": [9, 5, 32], "Robot Builder": [9, 5, 32],
+    "Construction Chief": [9, 0, 34], "Construction Worker": [9, 5, 34],
+    "Site Planner": [9, 5, 34],
+    "Racing Driver": [9, 5, 36], "Stunt Driver": [9, 5, 36],
+    "Stuntman": [9, 5, 36], "Stunt Double": [9, 5, 36],
+    "Chef": [9, 5, 36], "Gas Attendant": [9, 5, 36],
+
+    // 40 - desks, shops, stages
+    "Doctor": [9, 5, 40], "Professor": [9, 5, 40], "Librarian": [9, 5, 40],
+    "Inventor": [9, 5, 40], "Curator": [9, 5, 40], "Occult Instructor": [9, 5, 40],
+    "Launch Director": [9, 0, 40], "Director, Royal Transport Authority": [9, 0, 40],
+    "Financier": [9, 5, 42], "Bank Teller": [9, 5, 42],
+    "Inventory Specialist": [9, 5, 42], "Secretary": [9, 5, 42],
+    "Assistant": [9, 5, 42], "Rights Activist": [9, 5, 42],
+    "Shopkeeper": [9, 5, 44], "Greengrocer": [9, 5, 44], "Tea Seller": [9, 5, 44],
+    "Musician": [9, 5, 46], "Rapper": [9, 5, 46], "Bard": [9, 5, 46],
+    "Jester": [9, 5, 46], "Clown": [9, 5, 46], "Stand-up Comedian": [9, 5, 46],
+    "Camera Operator": [9, 5, 46],
+    "Traveller": [9, 5, 48], "Backpacker": [9, 5, 48], "Surfer": [9, 5, 48],
+    "Gatekeeper": [9, 5, 48], "Easter Bunny": [9, 5, 48],
+    "Convict": [9, 5, 48], "Criminal": [9, 5, 48], "Peasant": [9, 5, 48],
+
+    // 50 - unarmed, and nothing else written down
+    "Civilian": [9, 5, 50],
+
+    // 60 - children, students, apprentices
+    "Student": [9, 9, 60], "Law Student": [9, 9, 60], "Graduate": [9, 9, 60],
+    "Intern": [9, 9, 60], "Apprentice": [9, 9, 60],
+    "Orphan": [9, 9, 62], "Royal Child": [9, 9, 62], "Child": [9, 9, 62],
 
     // 2 - principals (second pass)
     "Emperor": 2, "Supreme Chancellor": 2, "Viceroy": 2, "Governor": 2,
@@ -171,7 +205,6 @@ window.ORDER = {
     "Forensic Agent": 5, "Power Source": 4,
     "Pirate Captain": [6, 0], "First Mate": [6, 1],
     "Space Police Gunner": 5, "Space Engineer": 5, "Space Cadet": [5, 9],
-    "Occult Instructor": 9, "Launch Director": 9,
 
     // The space militia are not ordinary soldiers - they carry plasma weapons
     // and the Verdauf squadron is an elite guard. The adventure crew are not
@@ -179,10 +212,6 @@ window.ORDER = {
     // and the jungle adventurers, who fight with swords.
     "Space Militia": 4, "Verdauf Squadron": 4,
     "Adventure Crew": 5, "Adventurer": 5, "Woodsman": 6,
-
-    // 8 - civilians (second pass)
-    "Director, Royal Transport Authority": [9, 0], "Robot Builder": 9,
-    "Curator": 9, "Gardener": 9, "Convict": 9, "Criminal": 9,
   },
 
   /* ------------------------------------------------------- named exceptions
@@ -227,7 +256,7 @@ window.ORDER = {
     // Ranked cosmic deities who are not gods, and one who is not a principal
     // either: "Aphrodite is no more powerful than a civilian."
     "deus-pater": 2,
-    "aphrodite": 9,
+    "aphrodite": [9, 44],
 
     // Down a rung. The dwarves do as they please, so their king commands less
     // than the title suggests; the Evil King's Son is not a major villain.
@@ -278,7 +307,7 @@ window.ORDER = {
     // ambassador because he is a bridge between civilisations, not because he
     // commands anything - he is a kind, well-travelled explorer with no combat
     // experience and one arm missing. He does not beat trained soldiers.
-    "the-discarded": [9, 0],
+    "the-discarded": [9, 1],
     // Real combat experience and he teaches it, but he is badly worn - the new
     // legs rip into his torso. He trains soldiers; he does not outfight them.
     "the-instructor": 5,
@@ -313,20 +342,28 @@ window.ORDER = {
     "the-green-officer": [7, 0],
 
     // --- 8. civilians
-    "the-occultist": 9,            // a professor
-    "the-dive-captain": 9,
-    "the-aqua-force-leader": 9,     // leads a dive crew, not a fighting force
-    "the-aqua-force-second": 9,
-    "the-flight-director": 9,       // runs a launch pad    // a civilian diver with a boat
-    "the-former-dive-captain": 9,
-    "the-knighted-civilian": [9, 0],
-    "matthew": 9,                  // a civilian child
+    // Their titles say captain and commander; they run dive crews, so they
+    // belong with the rugged civilians rather than with fighting forces.
+    "the-dive-captain": [9, 12],
+    "the-former-dive-captain": [9, 12],
+    "the-aqua-force-leader": [9, 12],
+    "the-aqua-force-second": [9, 12],
+    "the-knighted-civilian": [9, 0],   // first of the civilians
+
+    // Civilians who can actually fight. A boxer beats a shopkeeper, and this
+    // rung has been ordered so that shows: these six sit above the athletes
+    // who only run and kick, and well above anybody unarmed.
+    "the-boxer": [9, 20],
+    "the-second-boxer": [9, 20],
+    "the-wrestler": [9, 21],
+    "the-sumo-wrestler": [9, 21],
+    "the-karate-kid": [9, 22],
+    "the-bodybuilder": [9, 23],
+    "matthew": [9, 62],            // a civilian child
     "elizabeth-swann": 9,
     "spongebob": 9,
 
     // The Atlantis dive team's actual leader. He was last; he leads it.
-    "the-young-leader": 9,
-    "the-atlantis-leader": 9,
 
     // Leads soldiers, not a civilian outfit.
   },
