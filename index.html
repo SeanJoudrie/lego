@@ -542,11 +542,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789706609"></script>
-<script src="data/scenes.js?v=1789706609"></script>
-<script src="data/lore.js?v=1789706609"></script>
-<script src="data/featured.js?v=1789706609"></script>
-<script src="data/order.js?v=1789706609"></script>
+<script src="data/collection.js?v=1789742905"></script>
+<script src="data/scenes.js?v=1789742905"></script>
+<script src="data/lore.js?v=1789742905"></script>
+<script src="data/featured.js?v=1789742905"></script>
+<script src="data/order.js?v=1789742905"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -695,14 +695,19 @@ const CIVILIAN = NTIERS - 1;
 const NOSTAND = 50;
 const pick = v => Array.isArray(v) ? v : (typeof v === "number" ? [v] : null);
 
+const WORKERS = new Set(RANKS.workers || []);
+const WORKER_TIER = Math.max(0, (RANKS.tiers || []).indexOf("Working people"));
+
 function ranking(f) {
   const named = pick((RANKS.figures || {})[f.id]);
   const byRole = pick((RANKS.roles || {})[f.role]);
   const byRank = pick((RANKS.ranks || {})[f.rank]);
   const fb = (RANKS.fallback || {})[f.faction];
   const base = named || byRole || byRank || [typeof fb === "number" ? fb : CIVILIAN];
+  // The working people are named as a list, which sets the rung and nothing
+  // else - anybody in it keeps whatever standing they were already given.
   return {
-    tier:  base[0],
+    tier:  WORKERS.has(f.id) ? WORKER_TIER : base[0],
     stand: named && named.length > 1 ? named[1]
          : byRole && byRole.length > 2 ? byRole[2] : NOSTAND,
     lead:  byRole && byRole.length > 1 ? byRole[1] : 5,
@@ -785,7 +790,7 @@ function applyStated(arr) {
    The defaults come out of data/order.js and are the same for everybody. On
    top of those sit whatever has been moved in this browser, which nobody else
    sees until Copy hands it back to me to make default.  */
-const MOVE_KEY = "lego.moves.v2";
+const MOVE_KEY = "lego.moves.v3";
 let SWAPS = {};
 try { SWAPS = JSON.parse(localStorage.getItem(MOVE_KEY) || "{}") || {}; } catch (e) { SWAPS = {}; }
 const swapsFor = k => (SWAPS[k] || (SWAPS[k] = []));
@@ -824,8 +829,23 @@ function applyInserts(list, pairs) {
   return out;
 }
 
+/* The ladder decides which band somebody is in; the arrangement decides where
+   they stand inside it. A hand move made while two bands were still one block
+   can otherwise leave a figure stranded in the wrong band, and the page draws a
+   heading for every band it reaches - so one stray civilian among the working
+   people would print a CIVILIANS 1 rule in the middle of them. This gathers
+   each band back together without touching the order within it. */
+function regroup(list) {
+  const band = f => (isLost(f) ? 1000 : 0) + (isBranded(f) ? 100 : 0) + tierOf(f);
+  return list
+    .map((f, i) => [band(f), i, f])
+    .sort((a, b) => a[0] - b[0] || a[1] - b[1])
+    .map(x => x[2]);
+}
+
 const arrangeDeck = (list, k) =>
-  applyInserts(applyExchanges(list, OLD_SWAPS[k]), (DEFAULT_MOVES[k] || []).concat(SWAPS[k] || []));
+  regroup(applyInserts(applyExchanges(list, OLD_SWAPS[k]),
+                       (DEFAULT_MOVES[k] || []).concat(SWAPS[k] || [])));
 
 // Everybody standing somewhere other than where the ladder put them.
 const movedIds = () => new Set(
