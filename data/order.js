@@ -83,6 +83,115 @@ window.ORDER = {
     "the-senate-guards", "the-retired-senate-guard",
   ],
 
+  /* ------------------------------------------------------------- sections
+     The fourth deck. Every figure belongs to at least one section and may
+     belong to a few; nobody is meant to belong to a dozen.
+
+     Three kinds, drawn in this order. `sets` are made by hand, for the things
+     the data does not say on its own - who is family, who answers to Quinn,
+     who was put back together out of parts. Then every named unit in the
+     collection, straight off the group field. Then a trade or a type for
+     everybody, matched on the job title by the first pattern that fits, so
+     that a figure with no unit is still somewhere. Anybody with no job title
+     at all falls into a last pair of sections by side. */
+  sets: {
+    "The Royal Family": [
+       "the-prince", "the-space-princess", "the-outcast-prince", "kaz",
+       "brute", "the-royal-sons", "the-royal-daughter",
+       "the-palace-orphans", "the-princes-cousin", "the-shadow-prince",
+       "the-princes-impersonator", "the-prince-pretender",
+    ],
+    "Quinn and his circle": [
+       "quinn", "claws", "the-knighted-civilian", "the-shadow-king",
+       "the-prince-pretender", "the-purple-shadow", "the-neon-fanatic",
+       "quinns-second-in-command", "the-infamous-traitor",
+       "the-fleet-general", "wen", "the-dictator", "the-defector-commander",
+       "the-sith-lord", "the-first-man-in-space",
+       "the-shadow-team-commander",
+    ],
+    "The rebuilt and the bionic": [
+       "the-discarded", "the-rebuilt", "the-salvager", "the-mechanic",
+       "the-reformed", "the-hijacked", "claws", "the-repair-crew",
+       "the-verdauf-guards", "the-bionic-brother", "the-bionics-leader",
+       "the-bionic-alien", "the-cybernetic-ninja", "the-cyborg",
+       "the-second-cyborg-soldier", "the-evil-cyborg-soldier",
+       "the-bin-woman", "the-bin-elder", "the-gunner", "the-voiceless",
+       "the-damaged-battle-droid", "the-rebuilt-stone-warriors",
+       "the-martian-leader", "the-modified-arms-dealer",
+       "the-brainwashed-assassin", "ultron", "doc-ock",
+    ],
+    "Gods and demigods": [
+       "the-first-man", "the-green-demigod", "the-space-princess",
+       "the-ferryman", "the-manifestation-of-life", "the-vessel",
+       "the-man-from-the-yellow-dimension", "the-cosmic-twins", "aphrodite",
+       "the-shadow-king", "the-light-king", "the-blue-demigod",
+       "deus-pater", "loki",
+    ],
+    "The betrayers": [
+       "the-prince", "the-shadow-team-commander", "the-commissioner",
+       "the-commissioners-apprentice", "the-mad-ticket-man",
+       "the-transport-director", "the-defector", "the-car-repairman",
+       "the-princes-impersonator", "quinn", "the-defector-commander",
+       "the-prince-pretender", "the-traitor-captain",
+       "the-infamous-traitor", "the-clone-traitor", "the-atlantis-traitor",
+       "the-armoury-traitor", "the-discarded-militarist", "the-black-ninja",
+       "the-rocket-saboteur", "the-brute-prince", "the-red-spartan",
+       "general-shepherd", "the-former-dive-captain",
+    ],
+    "The Bin": [
+       "the-voiceless", "the-salvager", "the-in-betweener",
+       "the-demon-lord", "the-discarded-militarist", "the-bin-woman",
+       "the-bin-elder", "the-henchwoman-in-sunglasses",
+       "the-man-in-the-astromech-head", "the-rebuilt-stone-warriors",
+    ],
+    "The lost": [
+       "the-militiaman-in-the-black-helm", "the-militiaman-in-the-red-helm",
+       "the-ranger-patrol-captain", "the-militiamen-out-of-armour",
+       "the-lost-miners", "the-discarded-in-the-blue-cap", "the-elf-man",
+       "the-long-shot-bowman", "the-lost-pirates", "the-lost-aqua-diver",
+       "the-gungan-jedi", "the-alien-professor", "the-lost-soccer-player",
+       "the-astronaut-soldier", "the-airline-pilot", "the-hooded-ranger",
+       "the-blue-space-captain", "the-nude-aliens", "the-engine-technician",
+       "the-ranger-in-the-olive-helm", "the-lost-golden-rifleman",
+       "the-saxophone-player", "the-old-verdauf-soldier",
+       "the-blue-pirate-thug", "the-space-captain-lady",
+       "the-evil-space-captain", "the-space-criminal",
+       "the-bribed-royal-enforcer", "the-bearded-spaceman",
+       "the-masked-bounty-hunter",
+    ],
+  },
+
+  families: [
+    ["^(King|Queen|Prince|Elected King|Emperor|Viceroy|Governor|Supreme Chancellor|Pharaoh|Shogun|Dictator|Crime Lord|Demon Lord|Elder|Senator|Ambassador|Pretender)$", "Crowns, thrones and titles"],
+    ["Sith|Jedi|Padawan|Force", "The Force, both ends of it"],
+    ["Ninja|Samurai", "Ninja and samurai"],
+    ["Knight|Swordsman|Swordmaster|Fencer|Gladiator|Cavalry|Clubman|Elf$", "Blades and armour"],
+    ["Archer|Crossbow|Bowman", "Bows"],
+    ["Pirate|Viking|Raider|Smuggler|Outlaw|Gunslinger|Criminal|Convict|Thug|Goon|Pimp", "Outlaws, pirates and thugs"],
+    ["Assassin|Hitman|Bounty Hunter|Mercenary|Infiltrator|Brawler|Enforcer|Vigilante|Fanatic|Disc Thrower|Arms Dealer|Heavy$", "Guns for hire"],
+    ["Sniper|Commando|ARC|Machine Gunner|Artillery|Grenadier|Rifleman|Gunner|Astronaut Soldier", "Marksmen and heavy weapons"],
+    ["Clone", "The clones"],
+    ["Police|Sheriff|Detective|SWAT|Animal Control|Highway Patrol|Watch|Patrol Captain|Forensic|Nightwatch", "The law"],
+    ["Fire", "The fire service"],
+    ["Droid|Killer Bot|Defense Bot|Robot$|Replica|Horse|Beast|Parasite|Power Source|Nanobot|Vessel", "Machines, beasts and things"],
+    ["Pilot|Squadron Leader|Hangar", "Pilots and aircrew"],
+    ["Diver|Aqua|Dive Team", "Under the water"],
+    ["Astronaut|Spaceman|Space Ranger|Space Cadet|Space Command|Space Biker|Space Engineer|Launch Director", "The space programme"],
+    ["Militia|Verdauf", "The space militia"],
+    ["Agent|Royal Intelligence|Master of|Occult|Shaman|Chaplain|Guardian|Auror", "Secrets, spies and sorcery"],
+    ["General|Commander|Captain|Marshal|Squad Leader|Second in Command|Head of|Fleet|Secretary of War|Mentor|Instructor|Director|Officer|Sergeant|Invasion Leader|Leader", "Officers and commanders"],
+    ["Soldier|Trooper|Guard|Scout|Warrior|Infantry|Ranger|Medic|Armorer|Quartermaster|Propagand|Mandalorian|Discarded", "Soldiers of every army"],
+    ["Miner|Dockworker|Blacksmith|Construction|Site Planner|Builder|Gardener|Safari", "Mines, sites and open ground"],
+    ["Mechanic|Technician|Engineer|Inventor|Maker", "Mechanics and technicians"],
+    ["Doctor|Professor|Librarian|Student|Graduate|Intern|Curator", "Learning and medicine"],
+    ["Financier|Bank|Inventory|Secretary|Assistant|Shopkeeper|Greengrocer|Tea Seller|Courier|Gas Attendant", "Money, shops and desks"],
+    ["Athlete|Racing|Stunt|Driver|Surfer|Backpacker|Traveller|Explorer|Adventure", "Sport, speed and going places"],
+    ["Chef|Farmer|Fisherman|Peasant|Woodsman", "Food, farms and water"],
+    ["Musician|Rapper|Bard|Jester|Clown|Comedian|Camera|Rights Activist|Easter Bunny", "Stage, screen and street"],
+    ["Orphan|Royal Child|Child|Apprentice", "Children and apprentices"],
+    ["Civilian|Gatekeeper", "Ordinary people"],
+  ],
+
   /* ------------------------------------------------------- working people
      The rung between the fire service and the civilians, and it is defined by
      where you drew the line rather than by any job title: everybody standing

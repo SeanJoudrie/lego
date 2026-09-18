@@ -90,6 +90,16 @@
   .sides button:hover { color:var(--accent); }
   .sides button[aria-selected="true"] { color:var(--text); border-bottom-color:var(--accent); }
   .sides button[aria-selected="true"] b { opacity:.85; }
+  /* Four tabs have to fit one line on a phone, so the letter-spacing goes
+     first - it is the most expensive thing about them. */
+  @media (max-width:640px) {
+    .sides button { padding:9px 4px 10px; font-size:11px; letter-spacing:.06em; gap:5px;
+                    white-space:nowrap; min-width:0; }
+    .sides button b { font-size:11px; }
+  }
+  @media (max-width:380px) {
+    .sides button { font-size:10px; letter-spacing:.02em; gap:4px; }
+  }
 
   /* The rail itself never scrolls vertically - it pages sideways, one deck at
      a time, and each deck carries its own vertical scroll. */
@@ -294,6 +304,15 @@
   /* Crop toward the upper middle rather than the very top: most of these
      photographs have the figure standing centrally with headroom above it, and
      a 12% crop was cutting heads off while leaving empty table below. */
+  /* Which side somebody is on, quietly: a thin bar under the photograph. On
+     the two side decks it is redundant; on the combined deck and the sections
+     deck it is the whole point. */
+  .shot::after {
+    content:""; position:absolute; left:0; right:0; bottom:0; height:3px; z-index:2;
+    background:var(--dim); opacity:.55;
+  }
+  .shot.side-good::after { background:var(--good); }
+  .shot.side-bad::after  { background:var(--bad); }
   .shot img { position:absolute; inset:0; width:100%; height:100%;
             object-fit:cover; object-position:50% 28%; display:block; }
   .shot img.wide { object-fit:contain; object-position:50% 50%; }
@@ -542,11 +561,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789742905"></script>
-<script src="data/scenes.js?v=1789742905"></script>
-<script src="data/lore.js?v=1789742905"></script>
-<script src="data/featured.js?v=1789742905"></script>
-<script src="data/order.js?v=1789742905"></script>
+<script src="data/collection.js?v=1789743172"></script>
+<script src="data/scenes.js?v=1789743172"></script>
+<script src="data/lore.js?v=1789743172"></script>
+<script src="data/featured.js?v=1789743172"></script>
+<script src="data/order.js?v=1789743172"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -561,10 +580,12 @@ const DECKS = [
   { key:"good",  label:"The Good", has: f => f.faction === "good" },
   { key:"bad",   label:"The Bad",  has: f => f.faction === "bad"  },
   { key:"total", label:"Total",    has: () => true },
+  { key:"groups", label:"Groups",  has: () => true, mode:"sections" },
 ];
 const SIDES      = DECKS.filter(d => d.key === "total" || FIGS.some(d.has)).map(d => d.key);
 const SIDE_LABEL = Object.fromEntries(DECKS.map(d => [d.key, d.label]));
 const SIDE_HAS   = Object.fromEntries(DECKS.map(d => [d.key, d.has]));
+const SIDE_MODE  = Object.fromEntries(DECKS.map(d => [d.key, d.mode || "rank"]));
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
@@ -775,6 +796,48 @@ function applyStated(arr) {
   }
   return out;
 }
+
+/* ---- the sections deck -------------------------------------------------
+
+   Everybody is in at least one section and most people are in two - their
+   unit and their trade - with a handful of hand-made sets on top for the
+   things the data does not say by itself. Sections are drawn biggest first
+   inside each kind, and the hand-made ones lead because they are the ones
+   worth finding. A figure with no job title at all still lands somewhere: the
+   last two sections take whoever is left, by side.  */
+function buildSections() {
+  const out = [], seen = new Set();
+  const push = (name, note, figs) => {
+    if (!figs.length) return;
+    out.push({ name, note, figs });
+    for (const f of figs) seen.add(f.id);
+  };
+  const byId = new Map(FIGS.map(f => [f.id, f]));
+
+  for (const [name, ids] of Object.entries(RANKS.sets || {}))
+    push(name, "by hand", ids.map(i => byId.get(i)).filter(Boolean));
+
+  const units = {};
+  for (const f of FIGS) if (f.group) (units[f.group] || (units[f.group] = [])).push(f);
+  Object.entries(units).sort((a, b) => b[1].length - a[1].length)
+    .forEach(([n, a]) => push(n, "a named unit", a));
+
+  const fams = {}, pats = (RANKS.families || []).map(([p, n]) => [new RegExp(p, "i"), n]);
+  for (const f of FIGS) {
+    let name = null;
+    if (f.role) for (const [re, n] of pats) if (re.test(f.role)) { name = n; break; }
+    if (!name) name = f.faction === "bad" ? "Creatures and oddities of the enemy"
+                                          : "Everybody else on this side";
+    (fams[name] || (fams[name] = [])).push(f);
+  }
+  Object.entries(fams).sort((a, b) => b[1].length - a[1].length)
+    .forEach(([n, a]) => push(n, "a trade or a type", a));
+
+  const missed = FIGS.filter(f => !seen.has(f.id));
+  push("Not in any section yet", "nobody should be here", missed);
+  return out;
+}
+let SECTIONS = null;
 
 /* ---- arranging by hand -------------------------------------------------
 
@@ -996,6 +1059,7 @@ function render() {
   // follow it, so Name A-Z means the same thing everywhere.
   for (const k of SIDES) {
     const mine = list.filter(SIDE_HAS[k]);
+    if (SIDE_MODE[k] === "sections") { decks[k] = mine; continue; }
     if (state.sort !== "shape") { decks[k] = mine.sort(SORTS[state.sort]); continue; }
     decks[k] = k === "total"
       ? totalOrder(shapeOrder(list.filter(f => f.faction === "good")),
@@ -1013,10 +1077,18 @@ function render() {
     const mine = decks[k];
     $("sides").children[i].querySelector("b").textContent = String(mine.length);
 
-    $("grid-" + k).innerHTML = sections(mine).map(run =>
-      (run.label ? `<div class="sec">${run.label}<b>${run.items.length}</b></div>` : ``)
-      + run.items.map(card).join("")
-    ).join("");
+    $("grid-" + k).innerHTML = SIDE_MODE[k] === "sections"
+      ? (SECTIONS || (SECTIONS = buildSections()))
+          .map(sc => {
+            const inside = sc.figs.filter(f => mine.some(m => m._i === f._i));
+            if (!inside.length) return ``;
+            return `<div class="sec">${esc(sc.name)}<b>${inside.length}</b></div>`
+                 + inside.map(card).join("");
+          }).join("")
+      : sections(mine).map(run =>
+          (run.label ? `<div class="sec">${run.label}<b>${run.items.length}</b></div>` : ``)
+          + run.items.map(card).join("")
+        ).join("");
     fitShots($("grid-" + k));
 
     // If this side came up empty but the other one didn't, say where they went
@@ -1117,7 +1189,7 @@ function sections(list) {
 function card(f) {
     const cover = photos(f)[0];
     return `<button class="card${MOVED.has(f.id) ? " moved" : ""}" data-i="${f._i}" data-id="${esc(f.id)}">
-      <div class="shot">
+      <div class="shot side-${esc(f.faction)}">
         ${cover ? `<img src="${esc(cover.src)}" alt="${esc(f.name)}" loading="lazy">`
                 : `<span class="empty">NO PHOTO YET</span>`}
         <span class="num" title="Entry ${f._i + 1}">${f._i + 1}</span>
