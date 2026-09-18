@@ -5942,7 +5942,7 @@ window.COLLECTION = [
     variant: "",
     faction: "good",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Halo",
     rank: "",
     role: "Soldier",
     group: "The Knock-offs",
@@ -9046,7 +9046,7 @@ window.COLLECTION = [
       { src: "images/luke-skywalker-02.jpg", caption: "Later, in black" },
     ],
     acquired: "",
-    notes: "Opened the Star Wars theme, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both. Six figures of him now, more than anybody else in the collection - Obi-Wan is next at five. Two of the six are the same Tatooine robes on two mouldings, twenty-odd years apart. The captions describe rather than sequence: the photographs are not in the order he lived them. The jacket is the one picture of him being thanked; the black is the one where he is nobody's pilot."
+    notes: "Opened the Star Wars theme, and has a squadron round him. Settled: the rebels exist within this world, not as visitors from another - so Luke stands alongside the Snow Jedi's line and the clone troopers rather than apart from them, and this world simply has both. Six figures of him now, more than anybody else in the collection - Obi-Wan is next at five. Two of the six are the same Tatooine robes on two mouldings, twenty-odd years apart. The captions describe rather than sequence: the photographs are not in the order he lived them. The jacket is the one picture of him being thanked; the black is the one where he is nobody's pilot.\n\nThe squadron is not filed branded any more, and he is in it. You drew a line round all nine of them and said these are not a property - a man in an orange flight suit with no name on him is a pilot, not Star Wars, and in this world these are this world's pilots. He is the one real question in that, because he is a named character out of the films, and he stays with his eight because splitting the squadron to make a point about licensing would be the worse mistake. One word moves him back.\n\nNothing about the plastic changed. His card still says branded under origin, because that is what he is: a figure out of a box. What changed is what the order counts as a property."
   },
 
 
@@ -19796,7 +19796,7 @@ window.COLLECTION = [
     tags: ["villain", "agents", "branded", "eyepatch", "gold-tooth", "orange", "flame-badge"],
     images: ["images/gold-tooth-01.jpg"],
     acquired: "",
-    notes: "Opens a twentieth theme. Lego's Agents is an in-house line rather than a licence, filed branded here the same way Ninjago and Chima are - and unlike every other theme in this collection, it arrives with no good side at all. Eighteen themes here came out of a box and sixteen of them opened with somebody good. Lord of the Rings opened with Gollum and still has nobody else in it. This one opens with two villains and no agents at all.\n\nThe name is taken straight off his face because the face is the name: an eyepatch, a scar, and one gold tooth in a grin. If the figure has a different proper name, the card takes it.\n\nThe badge on his shoulder is the thing to look at. The henchman catalogued beside him is wearing the identical one - a black flame with a face inside it - which is the clearest statement of affiliation anything on this deck has ever worn. No group made, because nobody has said what the outfit is called. Name it and there is a group."
+    notes: "Opens a twentieth theme. Lego's Agents is an in-house line rather than a licence, filed branded here the same way Ninjago and Chima are - and unlike every other theme in this collection, it arrives with no good side at all. Eighteen themes here came out of a box and sixteen of them opened with somebody good. Lord of the Rings opened with Gollum and still has nobody else in it. This one opens with two villains and no agents at all.\n\nThe name is taken straight off his face because the face is the name: an eyepatch, a scar, and one gold tooth in a grin. If the figure has a different proper name, the card takes it.\n\nThe badge on his shoulder is the thing to look at. The henchman catalogued beside him is wearing the identical one - a black flame with a face inside it - which is the clearest statement of affiliation anything on this deck has ever worn. No group made, because nobody has said what the outfit is called. Name it and there is a group.\n\nNo longer sorted with the licensed figures. Agents is a Lego theme with no property behind it - no film, no book, nobody else's characters - so these four are this world's people and sort with them."
   },
 
   {
@@ -21406,7 +21406,7 @@ window.COLLECTION = [
     variant: "Two of them",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Halo",
     rank: "",
     role: "Soldier",
     group: "The Knock-offs",
@@ -21461,7 +21461,7 @@ window.COLLECTION = [
       "images/sigrid-iii-01.jpg",
     ],
     acquired: "",
-    notes: "He is built out of both sides of a war this world has actually had.\n\nThe world note on the knock-off societies calls the Brute Prince the clearest case in the collection of the story and the material being the same thing - he is from a knock-off society because he is a knock-off minifigure. This one goes a step past that. He is a moulded not-Lego body from the chest up and a printed Lego minifigure from the waist down, in one figure, standing on one pair of legs. The two kinds of plastic that went to war are what he is made of.\n\nNobody has said anything about that, so nothing is claimed from it. It is on the card because it is a fact about the plastic rather than a guess about the man, which is how the Sarah and Sean pairing was handled.\n\nThe numeral is the other thing. He is the only figure in this collection with a regnal number - Sigrid the third, which means there were two before him and there is a line - and the only other figures here carrying an ordinal in the name are seconds and thirds of a type, the Second Serpent and the Third Serpent, which is the catalogue counting rather than the world doing it. A third of a name is a dynasty. Nothing has been said about the first two.\n\nFiled bad, and the reasoning is thin enough to be worth stating. He arrived in the same message as the Halo Grunts and no side was given for anybody in it. The only evidence on the plastic is red eyes under an angry brow and a body armoured head to foot, and the tie-break used was the company he arrived in - which is exactly the tie-break the Pharaoh's world note complains about. One word turns it over. The neutral deck used to be the other way out of that and is not there any more, so the only options on him are the two sides."
+    notes: "He is built out of both sides of a war this world has actually had.\n\nThe world note on the knock-off societies calls the Brute Prince the clearest case in the collection of the story and the material being the same thing - he is from a knock-off society because he is a knock-off minifigure. This one goes a step past that. He is a moulded not-Lego body from the chest up and a printed Lego minifigure from the waist down, in one figure, standing on one pair of legs. The two kinds of plastic that went to war are what he is made of.\n\nNobody has said anything about that, so nothing is claimed from it. It is on the card because it is a fact about the plastic rather than a guess about the man, which is how the Sarah and Sean pairing was handled.\n\nThe numeral is the other thing. He is the only figure in this collection with a regnal number - Sigrid the third, which means there were two before him and there is a line - and the only other figures here carrying an ordinal in the name are seconds and thirds of a type, the Second Serpent and the Third Serpent, which is the catalogue counting rather than the world doing it. A third of a name is a dynasty. Nothing has been said about the first two.\n\nFiled bad, and the reasoning is thin enough to be worth stating. He arrived in the same message as the Halo Grunts and no side was given for anybody in it. The only evidence on the plastic is red eyes under an angry brow and a body armoured head to foot, and the tie-break used was the company he arrived in - which is exactly the tie-break the Pharaoh's world note complains about. One word turns it over. The neutral deck used to be the other way out of that and is not there any more, so the only options on him are the two sides.\n\nNo longer sorted with the licensed figures either. Mega Bloks is a company, not a property: these are generic moulded warriors with nothing licensed about them. The Halo figures in the same batch are a different matter and stay where they are, because Halo is somebody's property."
   },
 
   {
@@ -21696,7 +21696,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Halo",
     rank: "",
     role: "Soldier",
     group: "The Knock-offs",
@@ -21726,7 +21726,7 @@ window.COLLECTION = [
     variant: "Three of them",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Halo",
     rank: "",
     role: "Soldier",
     group: "The Knock-offs",
@@ -21766,7 +21766,7 @@ window.COLLECTION = [
     variant: "Two of them",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Halo",
     rank: "",
     role: "Soldier",
     group: "The Knock-offs",
@@ -21801,7 +21801,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Halo",
     rank: "",
     role: "Soldier",
     group: "The Knock-offs",
@@ -21830,7 +21830,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Halo",
     rank: "",
     role: "Soldier",
     group: "The Knock-offs",
@@ -21859,7 +21859,7 @@ window.COLLECTION = [
     variant: "Three of them",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Halo",
     rank: "",
     role: "Soldier",
     group: "The Knock-offs",
@@ -21889,7 +21889,7 @@ window.COLLECTION = [
     variant: "Two of them",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Halo",
     rank: "",
     role: "Soldier",
     group: "The Knock-offs",
@@ -21986,7 +21986,7 @@ window.COLLECTION = [
     variant: "",
     faction: "bad",
     origin: "branded",
-    theme: "Mega Bloks",
+    theme: "Halo",
     rank: "",
     role: "Soldier",
     group: "The Knock-offs",

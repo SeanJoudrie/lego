@@ -43,6 +43,38 @@ window.ORDER = {
     "Civilians",       // 9
   ],
 
+  /* -------------------------------------------------------------- branded
+     Branded means a specific outside property - Star Wars, Marvel, Halo. It is
+     not about how the figure was made: a Lego play theme with no characters in
+     it, like Agents or Space Police, is a line of generic people, and in this
+     world they are this world's people. Those sort with the customs. Only a
+     real property sorts last.
+
+     The `origin` field on a card still records the plastic - bought in a box
+     or built at home - and is what the corner tag shows. This is a separate
+     question and only the order reads it. */
+  ip: [
+    "Star Wars", "Marvel", "DC", "Halo", "Ninjago", "Legends of Chima",
+    "Indiana Jones", "Harry Potter", "Toy Story", "Disney",
+    "Pirates of the Caribbean", "SpongeBob SquarePants",
+    "Avatar: The Last Airbender", "Dragon Ball", "Lord of the Rings",
+    "The Nightmare Before Christmas", "Animal Crossing", "Minecraft",
+    "Adventure Time",
+  ],
+
+  /* Figures inside one of those themes who are not the property. A man in an
+     orange flight suit with no name on him is a pilot, not Star Wars, and the
+     blue senate guards are guards. Luke is in this list because he is in the
+     rebel pilot squadron with the other eight and you circled the whole unit -
+     one word puts him back. */
+  notIp: [
+    "luke-skywalker", "the-smirking-pilot", "the-bearded-pilot",
+    "the-pilot-in-the-striped-helmet", "the-pilot-in-the-grid-helmet",
+    "the-smiling-pilot", "the-stern-pilot", "the-pilot-in-glasses",
+    "the-a-wing-pilot",
+    "the-senate-guards", "the-retired-senate-guard",
+  ],
+
   /* --------------------------------------------------------- what they ARE
      Read only when a figure has no job title and is not named below. */
   ranks: {
@@ -250,6 +282,11 @@ window.ORDER = {
     // demigods of several worlds, and the one thing his card and the
     // Ferryman's agree on is that the two of them have never met.
     "the-in-betweener": [2, 8],
+
+    // The third of that boat. Up out of the civilians, where he was filed on
+    // the word apprentice - he is a trickster god's protege and does the magic
+    // with him - but not up with the other two, who are gods.
+    "the-tricksters-apprentice": 4,
     "quinn": [2, 0],              // number one villain of this world
     "steel": [2, 1],              // ultimate leader of the droid armies
     "phalanx": [2, 2],

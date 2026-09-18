@@ -496,11 +496,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789696620"></script>
-<script src="data/scenes.js?v=1789696620"></script>
-<script src="data/lore.js?v=1789696620"></script>
-<script src="data/featured.js?v=1789696620"></script>
-<script src="data/order.js?v=1789696620"></script>
+<script src="data/collection.js?v=1789696999"></script>
+<script src="data/scenes.js?v=1789696999"></script>
+<script src="data/lore.js?v=1789696999"></script>
+<script src="data/featured.js?v=1789696999"></script>
+<script src="data/order.js?v=1789696999"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -665,6 +665,15 @@ const tierName = f => TIERS[tierOf(f)] || "";
 // The lost are catalogued as a block at the end and stay one, whatever moves.
 const isLost = f => (f.tags || []).includes("lost");
 
+// Branded is a question about the property, not about the plastic - see the
+// note in data/order.js. A generic figure out of a licensed set is not the
+// property, and a Lego play theme with no characters in it never was one. The
+// origin field still records how the figure was made; only the corner tag
+// reads that now.
+const IP     = new Set(RANKS.ip || []);
+const NOT_IP = new Set(RANKS.notIp || []);
+const isBranded = f => IP.has(f.theme) && !NOT_IP.has(f.id);
+
 /* A cluster is a unit standing together on one rung: same group, same rung,
    same side, same kind of figure. Anybody with no unit clusters by job title
    instead, so the eight financiers are not scattered through the civilians.
@@ -672,7 +681,7 @@ const isLost = f => (f.tags || []).includes("lost");
    stand by standing and then by the order they were added. */
 const CLUSTER = {};
 const clusterKey = f =>
-  [f.faction, f.origin, tierOf(f), f.group || ("job:" + (f.role || "-"))].join("|");
+  [f.faction, isBranded(f), tierOf(f), f.group || ("job:" + (f.role || "-"))].join("|");
 for (const f of FIGS) {
   const k = clusterKey(f);
   const c = CLUSTER[k] || (CLUSTER[k] = { at: f._i, members: [] });
@@ -686,7 +695,7 @@ const clusterAt = f => CLUSTER[clusterKey(f)].at;
 
 const shapeSort = (a, b) =>
      (isLost(a) ? 1 : 0) - (isLost(b) ? 1 : 0)                            // the lost, last
-  || (a.origin === "branded" ? 1 : 0) - (b.origin === "branded" ? 1 : 0)  // customs, then branded
+  || (isBranded(a) ? 1 : 0) - (isBranded(b) ? 1 : 0)                      // ours, then licensed
   || tierOf(a) - tierOf(b)                                               // then the ladder
   || standOf(a) - standOf(b)                                             // named placings first
   || clusterAt(a) - clusterAt(b)                                         // then units together
@@ -725,7 +734,7 @@ const shapeOrder = arr => applyStated(arr.slice().sort(shapeSort));
 */
 function totalOrder(G, B) {
   const live = arr => arr.filter(f => !isLost(f));
-  const key = f => (f.origin === "branded" ? 1 : 0) * NTIERS + tierOf(f);
+  const key = f => (isBranded(f) ? 1 : 0) * NTIERS + tierOf(f);
   const g = live(G), b = live(B);
   const dealt = [];
   for (let k = 0; k < NTIERS * 2; k++) {
@@ -746,7 +755,7 @@ function drawTogether(arr) {
   const across = {};
   for (const f of arr) {
     if (!f.group) continue;
-    const k = [f.group, f.origin, tierOf(f)].join("|");
+    const k = [f.group, isBranded(f), tierOf(f)].join("|");
     (across[k] || (across[k] = [])).push(f);
   }
   for (const k in across) {
@@ -772,7 +781,7 @@ function drawTogether(arr) {
   for (const f of arr) for (const r of (f.relations || [])) {
     const t = BY_ID.get(r.to);
     if (!t || t.faction === f.faction || !pos.has(t.id)) continue;
-    if (t.origin !== f.origin || tierOf(t) !== tierOf(f)) continue;
+    if (isBranded(t) !== isBranded(f) || tierOf(t) !== tierOf(f)) continue;
     const [mover, anchor] = pos.get(f.id) > pos.get(t.id) ? [f, t] : [t, f];
     if (unitHeadOf.has(mover.id)) continue;
     const host = unitHeadOf.get(anchor.id) || anchor.id;
@@ -951,7 +960,7 @@ window.addEventListener("resize", () => goSide(activeIndex(), "auto"));
 function bandOf(f) {
   if (isLost(f)) return "Deceased or missing";
   if (state.sort !== "shape") return "";
-  return (f.origin === "branded" ? "Branded &middot; " : "") + (tierName(f) || "Unranked");
+  return (isBranded(f) ? "Branded &middot; " : "") + (tierName(f) || "Unranked");
 }
 
 function sections(list) {
