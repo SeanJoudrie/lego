@@ -204,6 +204,22 @@ window.ORDER = {
     ],
   },
 
+  /* For a figure with no job title at all. Matched on the name, first pattern
+     that fits, after the franchise sections have already taken the licensed
+     ones. The last line catches anybody the others miss. */
+  /* For a figure with no job title at all, matched on the name. Only reaches
+     the home-made ones - anybody out of a licensed property is already in that
+     property's own section and does not need a second home. */
+  namedFamilies: [
+    ["Demigod|Cosmic|First Man|Manifestation|Deus|Aphrodite|Yellow Dimension", "Gods and cosmic beings"],
+    ["Robot|Droid|Bot\\b|Cyborg|Television|Astromech|Thresher|Machine|Tin ", "Machines and robots"],
+    ["Skeleton|Ghost|Werewolf|Wolfman|Yeti|Orc|Dwarf|Elf|Gnome|Leprechaun|Caveman|Devoured|Anglerfish|Bug|Insect|Hybrid|Primitive|Alien|Gorilla", "Monsters, aliens and folk of other kinds"],
+    ["Costume|Pepper|Bunny|Pizza|Lederhosen|Liberty|Santa|Peas", "People in costume"],
+    ["Bin|Salvager|Replica|Hijacked|Voiceless|Wanderer|Chaosborn|Spartan|Grey Beanie", "Survivors and salvage"],
+    [".", "Ordinary people"],
+  ],
+
+
   families: [
     ["^(King|Queen|Prince|Elected King|Emperor|Viceroy|Governor|Supreme Chancellor|Pharaoh|Shogun|Dictator|Crime Lord|Demon Lord|Elder|Senator|Ambassador|Pretender)$", "Crowns, thrones and titles"],
     ["Sith|Jedi|Padawan|Force", "The Force, both ends of it"],

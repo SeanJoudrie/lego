@@ -561,11 +561,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789747049"></script>
-<script src="data/scenes.js?v=1789747049"></script>
-<script src="data/lore.js?v=1789747049"></script>
-<script src="data/featured.js?v=1789747049"></script>
-<script src="data/order.js?v=1789747049"></script>
+<script src="data/collection.js?v=1789747281"></script>
+<script src="data/scenes.js?v=1789747281"></script>
+<script src="data/lore.js?v=1789747281"></script>
+<script src="data/featured.js?v=1789747281"></script>
+<script src="data/order.js?v=1789747281"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -805,38 +805,68 @@ function applyStated(arr) {
    inside each kind, and the hand-made ones lead because they are the ones
    worth finding. A figure with no job title at all still lands somewhere: the
    last two sections take whoever is left, by side.  */
+const MIN_SECTION = 3;
+
 function buildSections() {
-  const out = [], seen = new Set();
-  const push = (name, note, figs) => {
-    if (!figs.length) return;
-    out.push({ name, note, figs });
-    for (const f of figs) seen.add(f.id);
-  };
+  const out = [];
   const byId = new Map(FIGS.map(f => [f.id, f]));
 
-  for (const [name, ids] of Object.entries(RANKS.sets || {}))
-    push(name, "by hand", ids.map(i => byId.get(i)).filter(Boolean));
+  // Nothing stands alone. A section under three people is not a section - the
+  // SWAT team is one man and belongs under the law, the Royal Galactic Army is
+  // one financier and belongs with the other financiers. Anything that small is
+  // dropped here, and its people are still found under their trade, their
+  // property, or one of the sets.
+  const pool = [];
+  const push = (name, figs) => {
+    if (figs.length >= MIN_SECTION) out.push({ name, figs });
+    else pool.push(...figs);
+  };
+  const bucket = (map, min, rest) => {
+    const big = Object.entries(map).filter(([, a]) => a.length >= min)
+      .sort((a, b) => b[1].length - a[1].length);
+    const small = Object.entries(map).filter(([, a]) => a.length < min).flatMap(([, a]) => a);
+    for (const [n, a] of big) out.push({ name: n, figs: a });
+    if (rest && small.length) push(rest, small);
+    else pool.push(...small);
+  };
 
+  // 1. the sets made by hand
+  for (const [name, ids] of Object.entries(RANKS.sets || {}))
+    push(name, ids.map(i => byId.get(i)).filter(Boolean));
+
+  // 2. every named unit with enough people in it to be one
   const units = {};
   for (const f of FIGS) if (f.group) (units[f.group] || (units[f.group] = [])).push(f);
-  Object.entries(units).sort((a, b) => b[1].length - a[1].length)
-    .forEach(([n, a]) => push(n, "a named unit", a));
+  bucket(units, MIN_SECTION, null);   // a unit of one or two is not a section
 
+  // 3. the licensed figures by what they came out of
+  const props = {};
+  for (const f of FIGS) if (isBranded(f) || (f.theme && f.theme !== "Creation Mythos"))
+    (props[f.theme] || (props[f.theme] = [])).push(f);
+  bucket(props, MIN_SECTION, "One-offs from other properties");
+
+  // 4. a trade or a type for everybody with a job title
   const fams = {}, pats = (RANKS.families || []).map(([p, n]) => [new RegExp(p, "i"), n]);
+  const names = (RANKS.namedFamilies || []).map(([p, n]) => [new RegExp(p, "i"), n]);
+  const licensed = new Set(out.filter(sc => props[sc.name]).flatMap(sc => sc.figs.map(f => f.id)));
   for (const f of FIGS) {
     let name = null;
-    if (f.role) for (const [re, n] of pats) if (re.test(f.role)) { name = n; break; }
-    if (!name) name = f.faction === "bad" ? "Creatures and oddities of the enemy"
-                                          : "Everybody else on this side";
+    if (f.role) { for (const [re, n] of pats) if (re.test(f.role)) { name = n; break; } }
+    else if (!licensed.has(f.id)) { for (const [re, n] of names) if (re.test(f.name)) { name = n; break; } }
+    if (!name) continue;                   // already in a property's own section
     (fams[name] || (fams[name] = [])).push(f);
   }
-  Object.entries(fams).sort((a, b) => b[1].length - a[1].length)
-    .forEach(([n, a]) => push(n, "a trade or a type", a));
+  bucket(fams, MIN_SECTION, "Odd ones out");
 
-  const missed = FIGS.filter(f => !seen.has(f.id));
-  push("Not in any section yet", "nobody should be here", missed);
+  // 5. whatever the four passes above could not place. Should be nobody, and
+  //    the section only appears if it is not.
+  const placed = new Set();
+  for (const sc of out) for (const f of sc.figs) placed.add(f.id);
+  const missed = pool.filter(f => !placed.has(f.id));
+  if (missed.length) out.push({ name: "Not in any section yet", figs: missed });
   return out;
 }
+
 let SECTIONS = null;
 
 /* ---- arranging by hand -------------------------------------------------
