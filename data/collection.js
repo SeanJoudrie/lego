@@ -108,7 +108,10 @@ window.COLLECTION = [
       "He still fights in whatever conflicts need him.",
     provenance: "One of the second figures I ever got.",
     tags: ["lightsaber", "green-saber", "former-agent", "wealth"],
-    images: ["images/the-green-demigod-01.jpg"],
+    images: [
+      { src: "images/the-green-demigod-01.jpg", caption: "The figure" },
+      { src: "images/the-green-demigod-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: ""
   },
@@ -895,7 +898,8 @@ window.COLLECTION = [
     tags: ["soldier", "brother", "inherited-armor", "survivor"],
     images: [
       { src: "images/the-younger-brother-01.jpg", caption: "His father's armor" },
-      { src: "images/the-younger-brother-02.jpg", caption: "Everyday gear" }
+      { src: "images/the-younger-brother-02.jpg", caption: "Everyday gear" },
+      { src: "images/the-younger-brother-03.jpg", caption: "Concept art" }
     ],
     acquired: "",
     notes: "Placeholder name.\n\nTwo outfits. His father's armour is white, black and yellow under a black cap - a dead man's kit, worn by his son. His everyday gear is a leather jacket over grey jeans. There is no photograph of him in Verdauf kit of his own, which is worth saying plainly: the only armour this card has ever shown him in belonged to somebody else.\n\nA third photograph sat on this card briefly and has been moved to the Green Captain's, where it belongs. It came in described as the Verdauf soldier whose brother died, and I read that as him, since he is the one who lived. The figure in it is his brother.\n\nWorth reading beside that card anyway. The Green Captain pushed him into the escape pod and set the bomb off himself, and everyone else lived. So the man on this card is alive because somebody chose it, and the armour he is photographed in came off his father."
@@ -1084,7 +1088,10 @@ window.COLLECTION = [
       "not much time at home.",
     provenance: "",
     tags: ["ninja", "golden-sword", "silent", "prodigy", "rival"],
-    images: ["images/the-blue-haired-ninja-01.jpg"],
+    images: [
+      { src: "images/the-blue-haired-ninja-01.jpg", caption: "The figure" },
+      { src: "images/the-blue-haired-ninja-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "Placeholder name. You called him the red ninja with the blue hair - he wears red robes, but he is not The Red Ninja, who is his teacher."
   },
@@ -1940,7 +1947,10 @@ window.COLLECTION = [
       "fun with it.",
     provenance: "",
     tags: ["space-militia", "discs", "modular-weapons", "jolly", "off-world-trained"],
-    images: ["images/the-disc-thrower-01.jpg"],
+    images: [
+      { src: "images/the-disc-thrower-01.jpg", caption: "The figure" },
+      { src: "images/the-disc-thrower-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "His brother has been photographed now, and he is on the other side - he betrayed the whole militia and then came back for this man, who said no. The link is live. It is not Crispus, and it is not the Planner, which this card and the Planner's both used to wonder about."
   },
@@ -2552,7 +2562,10 @@ window.COLLECTION = [
     background: "",
     provenance: "",
     tags: ["undescribed"],
-    images: ["images/the-grey-beanie-01.jpg"],
+    images: [
+      { src: "images/the-grey-beanie-01.jpg", caption: "The figure" },
+      { src: "images/the-grey-beanie-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "NOT YET DESCRIBED. He was the second photo in a batch where the description jumped from the first to the third, so he has no story and no name - the name here is pure physical description so he isn't mistaken for a character I invented. Tell me who he is."
   },
