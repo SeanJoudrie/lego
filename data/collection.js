@@ -1005,7 +1005,8 @@ window.COLLECTION = [
     tags: ["honor-guard", "young", "heavy-weapons", "marksman", "trained-by-brute", "armstrong-nephew"],
     images: [
       { src: "images/heavy-01.jpg", caption: "Masked" },
-      { src: "images/heavy-02.jpg", caption: "Unmasked — he's nineteen" }
+      { src: "images/heavy-02.jpg", caption: "Unmasked — he's nineteen" },
+      { src: "images/heavy-03.jpg", caption: "Concept art" }
     ],
     acquired: "",
     notes: ""
@@ -2093,7 +2094,10 @@ window.COLLECTION = [
       "got back is stronger than the one he lost.",
     provenance: "",
     tags: ["space-militia", "tech", "intelligence", "planner", "gadgets", "upgraded"],
-    images: ["images/the-planner-01.jpg"],
+    images: [
+      { src: "images/the-planner-01.jpg", caption: "The figure" },
+      { src: "images/the-planner-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "This card used to wonder whether he was the Disc Thrower's brother. He is not - that man has turned up, on the other side, catalogued with the villains. Whoever the brother in this description was, it is somebody else."
   },
