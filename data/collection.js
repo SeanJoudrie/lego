@@ -1776,7 +1776,10 @@ window.COLLECTION = [
       "large enough battle, they would still fight.",
     provenance: "",
     tags: ["alien", "biker-gang", "reformed", "pacifist", "ambassador"],
-    images: ["images/the-reformed-01.jpg"],
+    images: [
+      { src: "images/the-reformed-02.jpg", caption: "Concept art" },
+      { src: "images/the-reformed-01.jpg", caption: "The figure" }
+    ],
     acquired: "",
     notes: "Placeholder name, in the pattern of the Discarded and the Rebuilt."
   },
