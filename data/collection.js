@@ -944,7 +944,10 @@ window.COLLECTION = [
       "The silver arm is still unaccounted for — and it is the piece the whole " +
       "cybernetics story hangs on.",
     tags: ["discarded", "ambassador", "explorer", "cybernetics", "poetry", "sports", "refugee"],
-    images: ["images/the-discarded-01.jpg"],
+    images: [
+      { src: "images/the-discarded-01.jpg", caption: "The figure" },
+      { src: "images/the-discarded-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "\"The Discarded\" is what his people are called, not his own name - he may want one of his own."
   },
@@ -2660,7 +2663,7 @@ window.COLLECTION = [
       { src: "images/the-ginger-adventurer-02.jpg", caption: "Concept art" },
     ],
     acquired: "",
-    notes: "The concept art, finally. Pith helmet, a full ginger beard, a blue neckerchief and a notebook open in both hands - and a six-pointed star pinned to the vest, which is the first time anything has suggested this man holds an office as well as going on expeditions. Nobody has said what the badge is."
+    notes: "The concept art, finally. Pith helmet, a full ginger beard, a blue neckerchief and a notebook open in both hands - and a six-pointed star pinned to the vest, which is the first time anything has suggested this man holds an office as well as going on expeditions. Nobody has said what the badge is.\n\nRepainted. The first version was accurate but drawn in a harder line than the rest of the paintings and cropped at the chest. This one is full length in the house style and keeps every detail of it, the unexplained badge included."
   },
 
   {
