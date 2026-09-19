@@ -2600,7 +2600,7 @@ window.COLLECTION = [
       { src: "images/the-scrap-adventurer-02.jpg", caption: "Concept art" },
     ],
     acquired: "",
-    notes: "Placeholder name. The concept art is here at last - this card and the Ginger Adventurer's have both been promising it since the day they were catalogued. Blue mirrored aviators, a sword on the back and scale armour buckled over a dozen straps: the scrap reads as salvaged plate rather than as spare parts, which is a different thing from what the name suggests."
+    notes: "Placeholder name. The concept art is here at last - this card and the Ginger Adventurer's have both been promising it since the day they were catalogued. Blue mirrored sunglasses, a greatsword slung down his back and armour buckled together out of salvage: the scrap reads as plate taken off something else rather than as spare parts, which is a different thing from what the name suggests.\n\nRepainted. The first version cropped him at the thigh and gave him a full beard - the figure has a moustache and an open grin and nothing else on the chin. This one is full length, the sleeves are rolled back off the forearms, and the cartridge belt is his."
   },
 
   {
