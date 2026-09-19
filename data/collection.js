@@ -1378,7 +1378,8 @@ window.COLLECTION = [
     tags: ["engineer", "space", "repair", "crew", "mech", "upgrades", "group"],
     images: [
       { src: "images/the-repair-crew-01.jpg", caption: "The crew" },
-      { src: "images/the-repair-crew-02.jpg", caption: "The chief, who built the mech" }
+      { src: "images/the-repair-crew-02.jpg", caption: "The chief, who built the mech" },
+      { src: "images/the-repair-crew-03.jpg", caption: "Concept art" }
     ],
     acquired: "",
     notes: "One box because the chief is in both photos. Say so if you'd rather he had his own entry - he's done enough to deserve one."
@@ -2278,7 +2279,10 @@ window.COLLECTION = [
       "He trained two Padawans. One of them is dead.",
     provenance: "",
     tags: ["jedi", "master", "green-saber", "ancient-pieces", "instinctual", "teacher"],
-    images: ["images/the-snow-jedi-01.jpg"],
+    images: [
+      { src: "images/the-snow-jedi-01.jpg", caption: "The figure" },
+      { src: "images/the-snow-jedi-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "\"Formed from ancient pieces\" is the first time the piece-based biology has been said to carry knowledge - see the world notes."
   },
@@ -3246,7 +3250,10 @@ window.COLLECTION = [
       "and he will not hand any of it over. They're his.",
     provenance: "",
     tags: ["woodsman", "unaffiliated", "hermit", "hospitable", "treasure", "stubborn"],
-    images: ["images/the-woodsman-01.jpg"],
+    images: [
+      { src: "images/the-woodsman-01.jpg", caption: "The figure" },
+      { src: "images/the-woodsman-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "The only figure in the collection who has actively refused to belong to anything - no relations drawn, which is the point."
   },
