@@ -593,7 +593,10 @@ window.COLLECTION = [
       "Hair from a Lego surfer. Face from Lego Power Miners. Torso from the Hoth " +
       "rebels. The golden arm is from a Lego gladiator. Legs not yet identified.",
     tags: ["engineer", "aircraft", "prosthetic", "crash-survivor", "self-repaired", "kitbash"],
-    images: ["images/the-mechanic-01.jpg"],
+    images: [
+      { src: "images/the-mechanic-01.jpg", caption: "The figure" },
+      { src: "images/the-mechanic-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "Placeholder name - 'The Engineer' was already taken by the Archangel."
   },
