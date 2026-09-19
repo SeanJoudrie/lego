@@ -2349,7 +2349,10 @@ window.COLLECTION = [
       "good friends — the loss hurt him badly.",
     provenance: "",
     tags: ["jedi", "force-sensitive", "mind-tricks", "poverty", "redeemed", "deceased"],
-    images: ["images/the-second-padawan-01.jpg"],
+    images: [
+      { src: "images/the-second-padawan-01.jpg", caption: "The figure" },
+      { src: "images/the-second-padawan-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "Second death in the collection, after the Green Captain. His link to the Purple Shadow was written against an id that did not exist for a long time. It is live now."
   },
