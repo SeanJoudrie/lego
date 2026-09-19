@@ -2213,7 +2213,10 @@ window.COLLECTION = [
       "Space police, carrying a minigun. Tough, rugged, and considerable swag.",
     provenance: "",
     tags: ["space-police", "minigun", "tough", "rugged", "swag"],
-    images: ["images/the-minigunner-01.jpg"],
+    images: [
+      { src: "images/the-minigunner-01.jpg", caption: "The figure" },
+      { src: "images/the-minigunner-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "Placeholder name, kept distinct from The Gunner."
   },
@@ -2728,7 +2731,7 @@ window.COLLECTION = [
       { src: "images/the-young-watchman-02.jpg", caption: "Concept art" },
     ],
     acquired: "",
-    notes: "Placeholder name. The concept art bears his card out exactly - young, open-faced, warm rather than brooding - and dresses him for the cold: a fur-lined parka over a white tactical vest, snow behind him. The figure is a white spacesuit with air tanks, so the art is the first thing to say where he actually works."
+    notes: "Placeholder name. The concept art bears his card out exactly - young, open-faced, warm rather than brooding - and dresses him for the cold: a fur-lined parka over a white tactical vest. The figure is a white spacesuit with air tanks, so the art is the first thing to say where he actually works.\n\nRepainted. The first version was accurate but drawn in a harder line than the rest of the paintings and cropped at the chest. This one is full length in the house style and keeps the kit exactly - the fur-trimmed hood down, the rust scarf, the white vest with its four black pouches and its instrument panel. The snow that stood behind him in the first version is gone, along with every other background in the set."
   },
 
   {
