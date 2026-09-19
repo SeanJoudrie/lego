@@ -2592,7 +2592,10 @@ window.COLLECTION = [
       "He and the Golden Sniper are best friends.",
     provenance: "A gift from my friend Zach.",
     tags: ["scrap-world", "chaos", "monster-fighter", "gift"],
-    images: ["images/the-chaosborn-01.jpg"],
+    images: [
+      { src: "images/the-chaosborn-01.jpg", caption: "The figure" },
+      { src: "images/the-chaosborn-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "Placeholder name."
   },
