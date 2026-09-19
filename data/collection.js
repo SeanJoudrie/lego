@@ -494,23 +494,46 @@ window.COLLECTION = [
     background:
       "He's based in Lego City — the giant, expensive city that exists in this " +
       "universe — and he's in charge of all the police there.\n\n" +
-      "A former sniper, and still a great shot. He's got a little old, so he " +
-      "has a protege, a Padawan. In this world Padawan just means apprentice; " +
-      "it doesn't have anything to do with the Force.\n\n" +
+      "He is thirty-eight to forty-two. Not old: a positive man, well into his " +
+      "prime, with brown hair under the helmet. He is above a colonel, and he " +
+      "is extremely important. He spends most of his time in the palace, " +
+      "consulting with the Prince, and he is the kind of officer who gives " +
+      "press conferences on television in this outfit. He is not in combat.\n\n" +
+      "A former sniper, and still a great shot. He has a protege, a Padawan. " +
+      "In this world Padawan just means apprentice; it doesn't have anything " +
+      "to do with the Force.\n\n" +
       "He's in charge of anti-terrorism, fortifications, and overall planning, " +
-      "and he regularly volunteers to go fight whatever bad thing is on its way.",
+      "and he regularly volunteers to go fight whatever bad thing is on its way.\n\n" +
+      "He is immaculate. In this world clothes are always clean and pressed, " +
+      "and he is the cleanest of them: a brown formal button-up with a black " +
+      "tie hidden underneath, a heavier coat over that — not a suit jacket, " +
+      "something with weight to it, cut to keep the heat off and still finely " +
+      "pressed — and the thick grey vest and the gear on top of that, all of " +
+      "it neat. He is senior enough that no uniform is prescribed for him at " +
+      "all. He only has to dress respectfully, so the coat can be whatever " +
+      "colour he likes.\n\n" +
+      "The helmet is an officer's helmet: an actual one you could wear into " +
+      "combat, bulletproof, and mostly decorative — the sort a tourist stops " +
+      "to photograph. Every guard under him wears one in brown. His carries a " +
+      "band of solid gold, standing a little off the shell, and the gold is " +
+      "the rank. It means he is the one in charge. It is not goggles.\n\n" +
+      "He wears a gold sash for the same reason. The man who betrayed him " +
+      "wore a black one.",
     provenance:
       "Brown headpiece from a Lego Indiana Jones pilot. The gold visor is from Lego " +
       "Mars Mission. Face from Lego Space Police. Torso possibly Naboo. One further " +
       "piece from a Star Wars Rebel battle pack.\n\n" +
-      "The gold visor I could not see in the photo is real — it is in there.",
-    tags: ["veteran", "sniper", "police", "anti-terrorism", "has-apprentice", "kitbash"],
+      "The gold visor I could not see in the photo is real — it is in there. " +
+      "In-world it is not a visor at all: it sits as the solid gold rank band " +
+      "on the helmet, and it is the thing that says he is in charge.",
+    tags: ["veteran", "sniper", "police", "anti-terrorism", "has-apprentice", "kitbash",
+           "high-command", "palace", "gold-sash", "officer"],
     images: [
       { src: "images/the-commissioner-01.jpg", caption: "The figure" },
       { src: "images/the-commissioner-02.jpg", caption: "Concept art" }
     ],
     acquired: "",
-    notes: "Needs a real name. You mentioned a gold visor - I can't see one in this shot, so check I photographed the right figure. The protege this card mentions has been catalogued, and it did not go well: he shot the Commissioner through the thigh during the great betrayal, stabbed him in the chest and left him slumped over a command board. Left for dead rather than dead - nothing here has been changed - but say whether he lived."
+    notes: "Corrected from what you said while we were painting him. This card used to read \"He's got a little old, so he has a protege\" - you said he is thirty-eight to forty-two, positive, brown-haired, and not old at all, so that clause is gone and the age is written in. Also added from the same correction: the palace posting and the consulting with the Prince, the rank above a colonel, the press conferences, the helmet and its guards' brown version, the gold band as rank rather than goggles, the gold sash against the traitor's black one, and the dress down to the black tie. Nothing else was touched. He still needs a real name, and the role, group and location fields still say Chief of Police in Lego City from the first pass - say whether the palace is in Lego City or whether those want changing. The protege has been catalogued, and it did not go well: he shot the Commissioner through the thigh during the great betrayal, stabbed him in the chest and left him slumped over a command board. Left for dead rather than dead - say whether he lived."
   },
 
   {
@@ -2568,15 +2591,19 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "",
+    background:
+      "Everything known about him, in full: he has a funny jetpack, and the " +
+      "arms of it are thin but they extend, and that is where the energy " +
+      "comes from. He fights with akimbo pistols in light grey.\n\n" +
+      "That is all there is. No name, no story, nothing else said.",
     provenance: "",
-    tags: ["undescribed"],
+    tags: ["undescribed", "jetpack", "akimbo-pistols"],
     images: [
       { src: "images/the-grey-beanie-01.jpg", caption: "The figure" },
       { src: "images/the-grey-beanie-02.jpg", caption: "Concept art" }
     ],
     acquired: "",
-    notes: "NOT YET DESCRIBED. He was the second photo in a batch where the description jumped from the first to the third, so he has no story and no name - the name here is pure physical description so he isn't mistaken for a character I invented. Tell me who he is."
+    notes: "STILL NOT DESCRIBED. He was the second photo in a batch where the description jumped from the first to the third, so he has no story and no name - the name here is pure physical description so he isn't mistaken for a character I invented. The jetpack and the pistols now in the background are the only two things you have ever said about him; you said them while we were writing his painting, and they are recorded here so they stop living only inside a prompt. Everything the painting shows beyond those two - the beard, the coat, the bearing - I read off the plastic or made up to fill the frame, and none of it is on this card. Tell me who he is."
   },
 
   {
@@ -14222,7 +14249,7 @@ window.COLLECTION = [
     tags: ["villain", "traitor", "apprentice", "police", "lego-city", "great-betrayal", "murder", "skull"],
     images: ["images/the-commissioners-apprentice-01.jpg"],
     acquired: "",
-    notes: "The Commissioner\'s card has said from the day it was written that he has got a little old and so he has a protege, a Padawan - and that in this world Padawan just means apprentice, nothing to do with the Force. This is that man. The world note on the day of betrayals says Quinn arranged every turning to land inside the same minute of the same day, and that students turned on their masters and masters on their students. That has been an abstraction until now. This is one of them, with a name for the victim. The Commissioner is left for dead rather than dead: you said left him to die, and his card has not been touched. Say whether he lived."
+    notes: "The Commissioner\'s card has said from the day it was written that he has a protege, a Padawan - and that in this world Padawan just means apprentice, nothing to do with the Force. (It also used to say he had got a little old; you have since corrected his age and that clause is gone.) This is that man. The world note on the day of betrayals says Quinn arranged every turning to land inside the same minute of the same day, and that students turned on their masters and masters on their students. That has been an abstraction until now. This is one of them, with a name for the victim. The Commissioner is left for dead rather than dead: you said left him to die, and nothing on his card says otherwise. Say whether he lived."
   },
 
 
