@@ -142,7 +142,10 @@ window.COLLECTION = [
     provenance:
       "Not a kitbash. They come as a matched pair, as-is, from the same set.",
     tags: ["twin", "archangel", "jetpack", "status-quo", "pair"],
-    images: ["images/the-twins-01.jpg"],
+    images: [
+      { src: "images/the-twins-02.jpg", caption: "Concept art" },
+      { src: "images/the-twins-01.jpg", caption: "The figures" }
+    ],
     acquired: "",
     notes: "Blue on the left, black on the right."
   },
@@ -1530,6 +1533,7 @@ window.COLLECTION = [
     provenance: "",
     tags: ["archangel", "robot", "mortal", "rebuilt", "upgraded", "teacher"],
     images: [
+      { src: "images/the-rebuilt-03.jpg", caption: "Concept art" },
       { src: "images/the-rebuilt-01.jpg", caption: "After the rebuild" },
       { src: "images/the-rebuilt-02.jpg", caption: "Before — the original build" }
     ],
@@ -2199,7 +2203,10 @@ window.COLLECTION = [
       "He is very, very into maps and finding treasure.",
     provenance: "",
     tags: ["adventure-squad", "pilot", "mechanic", "maps", "treasure"],
-    images: ["images/the-aviator-01.jpg"],
+    images: [
+      { src: "images/the-aviator-02.jpg", caption: "Concept art" },
+      { src: "images/the-aviator-01.jpg", caption: "The figure" }
+    ],
     acquired: "",
     notes: "Sixth member of the Adventure Crew. Placeholder name - and the crew needs a better one than \"the khaki adventurers\" too."
   },
