@@ -138,6 +138,7 @@
              font:inherit; font-size:13px; cursor:pointer;
              letter-spacing:.05em; text-transform:uppercase; }
   .lorebtn:hover { border-color:var(--accent); color:var(--accent); background:var(--panel-2); }
+  a.lorebtn { text-decoration:none; display:inline-block; }
   .lore { padding:26px 30px 30px; max-width:640px; }
   .lore h2 { margin:0 0 20px; font-size:22px; letter-spacing:-.01em; }
   .lore section { margin-bottom:22px; }
@@ -508,6 +509,7 @@
     <h1>The Collection</h1>
     <span class="count" id="count"></span>
     <span style="margin-left:auto"></span>
+    <a class="lorebtn" href="art.html">Paintings</a>
     <button class="lorebtn" id="scenesbtn">Lore shots</button>
     <button class="lorebtn" id="lorebtn">World notes</button>
   </header>
@@ -561,11 +563,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789796662"></script>
-<script src="data/scenes.js?v=1789796662"></script>
-<script src="data/lore.js?v=1789796662"></script>
-<script src="data/featured.js?v=1789796662"></script>
-<script src="data/order.js?v=1789796662"></script>
+<script src="data/collection.js?v=1789797108"></script>
+<script src="data/scenes.js?v=1789797108"></script>
+<script src="data/lore.js?v=1789797108"></script>
+<script src="data/featured.js?v=1789797108"></script>
+<script src="data/order.js?v=1789797108"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };

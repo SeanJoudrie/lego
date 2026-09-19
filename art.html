@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Paintings</title>
+<style>
+  :root {
+    /* The same codex the catalogue is bound in: aged paper, brown ink, gilt. */
+    --bg:#ddceb0; --page:#f0e7d3; --panel:#f6efdf; --panel-2:#e6dac1;
+    --line:#c3ad86; --line-soft:#d8c8a8;
+    --text:#2f2417; --dim:#6d5c43; --faint:#95805e;
+    --gold:#9a7320; --accent:#8a4527;
+    --radius:4px;
+  }
+  * { box-sizing:border-box; }
+  [hidden] { display:none !important; }
+  body {
+    margin:0; color:var(--text); background:var(--bg);
+    font:16px/1.6 "Iowan Old Style", "Palatino Linotype", Palatino, Georgia,
+         "Times New Roman", serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap {
+    max-width:1500px; margin:0 auto; padding:22px 26px 80px;
+    background:
+      repeating-linear-gradient(94deg, rgba(120,95,60,.030) 0 2px, transparent 2px 5px),
+      repeating-linear-gradient(6deg, rgba(120,95,60,.022) 0 3px, transparent 3px 7px),
+      var(--page);
+    border-left:1px solid var(--line-soft); border-right:1px solid var(--line-soft);
+    box-shadow:0 0 0 1px rgba(90,70,45,.06), 0 18px 60px rgba(60,44,26,.18);
+    min-height:100%;
+  }
+
+  header {
+    display:flex; align-items:baseline; gap:16px; flex-wrap:wrap;
+    border-bottom:2px solid var(--line); padding-bottom:14px; margin-bottom:10px;
+  }
+  h1 { font-size:30px; margin:0; letter-spacing:.01em; }
+  .count { color:var(--faint); font-size:13px; font-variant-numeric:tabular-nums; }
+  .backbtn {
+    margin-left:auto; background:var(--panel); border:1px solid var(--line);
+    color:var(--dim); border-radius:var(--radius); padding:8px 14px;
+    font:inherit; font-size:13px; letter-spacing:.05em; text-transform:uppercase;
+    text-decoration:none; display:inline-block;
+  }
+  .backbtn:hover { border-color:var(--accent); color:var(--accent); background:var(--panel-2); }
+  .standfirst {
+    margin:0 0 26px; color:var(--dim); font-size:15px; max-width:56ch;
+  }
+
+  /* One painting per cell. They are all 2:3, so a plain grid sits flush with no
+     masonry maths - and the point of the page is that they are big. */
+  .gallery {
+    display:grid; gap:34px 26px;
+    grid-template-columns:repeat(auto-fill, minmax(300px, 1fr));
+  }
+  @media (max-width:640px) {
+    .wrap { padding:18px 14px 60px; }
+    .gallery { gap:28px 0; grid-template-columns:1fr; }
+  }
+
+  /* 25 paintings at a megabyte a piece: keep the ones off-screen cheap. The
+     placeholder size is set on the block axis only - the two-value shorthand
+     also hands the skipped element an intrinsic WIDTH, which a 1fr column then
+     sizes itself to, and the whole page scrolls sideways on a phone. */
+  .piece {
+    margin:0; content-visibility:auto; contain-intrinsic-block-size:auto 560px;
+  }
+  .frame {
+    display:block; width:100%; padding:0; border:1px solid var(--line);
+    background:var(--panel); border-radius:var(--radius);
+    box-shadow:0 2px 10px rgba(60,44,26,.14);
+    cursor:zoom-in; overflow:hidden; line-height:0;
+    transition:border-color .12s, box-shadow .12s, transform .12s;
+  }
+  .frame:hover { border-color:var(--accent); box-shadow:0 6px 20px rgba(60,44,26,.26);
+                 transform:translateY(-2px); }
+  .frame img { display:block; width:100%; height:auto; }
+
+  figcaption { display:flex; align-items:flex-start; gap:10px; padding:10px 2px 0; }
+  .num {
+    flex:0 0 auto; font-size:11px; font-variant-numeric:tabular-nums;
+    color:var(--faint); border:1px solid var(--line-soft); border-radius:3px;
+    padding:1px 5px; background:var(--panel); margin-top:3px;
+  }
+  .who { min-width:0; }
+  .who h2 { margin:0; font-size:17px; font-weight:600; letter-spacing:-.01em; }
+  .who p { margin:1px 0 0; font-size:13px; color:var(--faint); }
+  .thumb {
+    flex:0 0 auto; margin-left:auto; width:40px; height:40px; border-radius:3px;
+    border:1px solid var(--line-soft); object-fit:cover; object-position:center 30%;
+    background:var(--panel-2);
+  }
+
+  /* The lightbox: the painting large, with the plastic it came from beside it. */
+  dialog {
+    border:1px solid var(--line); border-radius:var(--radius); padding:0;
+    background:var(--panel); color:var(--text); max-width:min(1200px, 94vw);
+    max-height:94vh; box-shadow:0 24px 70px rgba(40,28,14,.5);
+  }
+  dialog::backdrop { background:rgba(38,28,16,.72); }
+  .sheet { display:flex; gap:0; max-height:94vh; }
+  .sheet .big { flex:1 1 auto; min-width:0; background:#1d1710; line-height:0; }
+  .sheet .big img { display:block; width:100%; height:auto; max-height:94vh;
+                    object-fit:contain; margin:0 auto; }
+  .sheet aside {
+    flex:0 0 280px; padding:20px 22px; overflow:auto; border-left:1px solid var(--line);
+  }
+  .sheet aside h2 { margin:0 0 2px; font-size:21px; letter-spacing:-.01em; }
+  .sheet aside .sub { margin:0 0 14px; font-size:13px; color:var(--faint); }
+  .sheet aside figure { margin:0 0 14px; }
+  .sheet aside figure img { display:block; width:100%; height:auto;
+                            border:1px solid var(--line-soft); border-radius:3px; }
+  .sheet aside figure figcaption { display:block; padding:5px 0 0; font-size:12px;
+                                   color:var(--faint); }
+  .sheet aside .bg { font-size:14px; color:var(--text); white-space:pre-wrap; margin:0; }
+  .closex {
+    position:absolute; top:10px; right:12px; z-index:3;
+    background:rgba(38,28,16,.62); color:#f0e7d3; border:1px solid rgba(240,231,211,.35);
+    border-radius:3px; padding:4px 10px; font:inherit; font-size:13px; cursor:pointer;
+  }
+  .closex:hover { background:rgba(38,28,16,.85); }
+  @media (max-width:860px) {
+    .sheet { flex-direction:column; overflow:auto; }
+    .sheet .big img { max-height:70vh; }
+    .sheet aside { flex:1 1 auto; border-left:0; border-top:1px solid var(--line); }
+  }
+
+  .empty { color:var(--faint); padding:40px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>The Paintings</h1>
+    <span class="count" id="count"></span>
+    <a class="backbtn" href="index.html">The Collection</a>
+  </header>
+
+  <p class="standfirst">
+    Every figure here was photographed on a desk first. These are the ones that
+    have since been painted — the same character, the same kit, read off the
+    plastic and put somewhere it could stand. Tap one to see it large, with the
+    figure it came from.
+  </p>
+
+  <div class="gallery" id="gallery"></div>
+
+</div>
+
+<dialog id="viewer"></dialog>
+
+<script src="data/collection.js?v=1789797108"></script>
+<script>
+/* ---- the gallery ---------------------------------------------------------
+
+   One page, one job: show every painting in the collection, big, in the order
+   the figures are catalogued. A painting is any image on a figure whose caption
+   says "Concept art" - the same test the plates use, so a piece appears here
+   the moment it is filed there.
+*/
+const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c =>
+  ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+
+const photos = f => (f.images || []).map(x =>
+  typeof x === "string" ? { src: x, caption: "" } : x);
+const isArt  = p => /concept art/i.test(p.caption || "");
+
+// Each entry is one painting, carrying the figure it belongs to. A figure with
+// two paintings gets two entries rather than one, which is what you want on a
+// page whose whole purpose is looking at them.
+const PIECES = [];
+for (const f of FIGS) {
+  const all = photos(f);
+  const art = all.filter(isArt);
+  if (!art.length) continue;
+  const shot = all.find(p => !isArt(p));            // the plastic, for the thumbnail
+  for (const a of art) PIECES.push({ fig: f, art: a, shot });
+}
+
+// A quiet second line: whatever the figure is, in as few words as the card has.
+const subtitle = f =>
+  [f.role, f.group].filter(Boolean).filter((v, i, a) => a.indexOf(v) === i).join(" · ")
+  || f.theme || "";
+
+document.getElementById("count").textContent =
+  PIECES.length + (PIECES.length === 1 ? " painting" : " paintings");
+
+document.getElementById("gallery").innerHTML = PIECES.length
+  ? PIECES.map((p, i) => `
+      <figure class="piece">
+        <button class="frame" data-i="${i}" aria-label="${esc(p.fig.name)}, larger">
+          <img src="${esc(p.art.src)}" alt="${esc(p.fig.name)}" loading="lazy" decoding="async">
+        </button>
+        <figcaption>
+          <span class="num">${p.fig._i + 1}</span>
+          <span class="who">
+            <h2>${esc(p.fig.name)}</h2>
+            ${subtitle(p.fig) ? `<p>${esc(subtitle(p.fig))}</p>` : ``}
+          </span>
+          ${p.shot ? `<img class="thumb" src="${esc(p.shot.src)}" alt="" loading="lazy">` : ``}
+        </figcaption>
+      </figure>`).join("")
+  : `<p class="empty">No paintings yet.</p>`;
+
+/* ---- the lightbox ------------------------------------------------------ */
+const viewer = document.getElementById("viewer");
+
+function openPiece(i) {
+  const p = PIECES[i];
+  if (!p) return;
+  viewer.innerHTML = `
+    <button class="closex" id="closex">Close</button>
+    <div class="sheet">
+      <div class="big"><img src="${esc(p.art.src)}" alt="${esc(p.fig.name)}"></div>
+      <aside>
+        <h2>${esc(p.fig.name)}</h2>
+        <p class="sub">#${p.fig._i + 1}${subtitle(p.fig) ? " · " + esc(subtitle(p.fig)) : ""}</p>
+        ${p.shot ? `<figure>
+          <img src="${esc(p.shot.src)}" alt="">
+          <figcaption>${esc(p.shot.caption || "The figure")}</figcaption>
+        </figure>` : ``}
+        <p class="bg">${esc(p.fig.background || "")}</p>
+      </aside>
+    </div>`;
+  viewer.showModal();
+  viewer.querySelector("#closex").onclick = () => viewer.close();
+}
+
+document.getElementById("gallery").addEventListener("click", e => {
+  const b = e.target.closest(".frame");
+  if (b) openPiece(+b.dataset.i);
+});
+
+// Clicking the backdrop closes it, the same as anywhere else on the site.
+viewer.addEventListener("click", e => { if (e.target === viewer) viewer.close(); });
+</script>
+</body>
+</html>

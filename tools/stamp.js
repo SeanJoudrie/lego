@@ -9,9 +9,13 @@ const fs = require("fs");
 const path = require("path");
 
 const root = path.join(__dirname, "..");
-const page = path.join(root, "index.html");
 
 const DATA = ["data/collection.js", "data/scenes.js", "data/lore.js", "data/featured.js", "data/order.js"];
+
+// Each page and the number of data scripts it is expected to carry, so a
+// dropped script tag fails the stamp rather than shipping a page that quietly
+// renders nothing. art.html only needs the figures.
+const PAGES = [["index.html", 5], ["art.html", 1]];
 
 const stamp = Math.max(
   ...DATA.map(f => Math.floor(fs.statSync(path.join(root, f)).mtimeMs / 1000))
@@ -19,18 +23,23 @@ const stamp = Math.max(
 
 const TAG = /(<script src="data\/(?:collection|scenes|lore|featured|order)\.js)(\?v=\d+)?("><\/script>)/g;
 
-let html = fs.readFileSync(page, "utf8");
-const found = (html.match(TAG) || []).length;
-if (found !== DATA.length) {
-  console.error(`stamp: expected ${DATA.length} data script tags in index.html, found ${found}`);
-  process.exit(1);
+let wrote = 0;
+for (const [page, expected] of PAGES) {
+  const file = path.join(root, page);
+  const html = fs.readFileSync(file, "utf8");
+  const found = (html.match(TAG) || []).length;
+  if (found !== expected) {
+    console.error(`stamp: expected ${expected} data script tags in ${page}, found ${found}`);
+    process.exit(1);
+  }
+  const stamped = html.replace(TAG, `$1?v=${stamp}$3`);
+  if (stamped !== html) {
+    fs.writeFileSync(file, stamped);
+    wrote++;
+  }
 }
 
-const stamped = html.replace(TAG, `$1?v=${stamp}$3`);
-if (stamped === html) {
-  // The data has not changed since the last stamp, so neither should the URL.
-  console.log("stamp: already at v=" + stamp);
-} else {
-  fs.writeFileSync(page, stamped);
-  console.log("stamped data scripts with v=" + stamp);
-}
+// The data has not changed since the last stamp, so neither should the URLs.
+console.log(wrote
+  ? `stamped ${wrote} page(s) with v=${stamp}`
+  : "stamp: already at v=" + stamp);

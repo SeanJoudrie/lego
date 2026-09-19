@@ -502,7 +502,10 @@ window.COLLECTION = [
       "piece from a Star Wars Rebel battle pack.\n\n" +
       "The gold visor I could not see in the photo is real — it is in there.",
     tags: ["veteran", "sniper", "police", "anti-terrorism", "has-apprentice", "kitbash"],
-    images: ["images/the-commissioner-01.jpg"],
+    images: [
+      { src: "images/the-commissioner-01.jpg", caption: "The figure" },
+      { src: "images/the-commissioner-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "Needs a real name. You mentioned a gold visor - I can't see one in this shot, so check I photographed the right figure. The protege this card mentions has been catalogued, and it did not go well: he shot the Commissioner through the thigh during the great betrayal, stabbed him in the chest and left him slumped over a command board. Left for dead rather than dead - nothing here has been changed - but say whether he lived."
   },
@@ -1342,7 +1345,10 @@ window.COLLECTION = [
       "hospitable.",
     provenance: "",
     tags: ["ninja", "pineapple", "hospitable", "mountain", "dojo", "no-mouth"],
-    images: ["images/the-pineapple-ninja-01.jpg"],
+    images: [
+      { src: "images/the-pineapple-ninja-01.jpg", caption: "The figure" },
+      { src: "images/the-pineapple-ninja-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: ""
   },
