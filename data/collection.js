@@ -143,8 +143,8 @@ window.COLLECTION = [
       "Not a kitbash. They come as a matched pair, as-is, from the same set.",
     tags: ["twin", "archangel", "jetpack", "status-quo", "pair"],
     images: [
-      { src: "images/the-twins-02.jpg", caption: "Concept art" },
-      { src: "images/the-twins-01.jpg", caption: "The figures" }
+      { src: "images/the-twins-01.jpg", caption: "The figures" },
+      { src: "images/the-twins-02.jpg", caption: "Concept art" }
     ],
     acquired: "",
     notes: "Blue on the left, black on the right."
@@ -646,7 +646,10 @@ window.COLLECTION = [
       "capable of.",
     provenance: "",
     tags: ["sniper", "elite", "quiet", "loyal", "anti-horde"],
-    images: ["images/the-sniper-01.jpg"],
+    images: [
+      { src: "images/the-sniper-01.jpg", caption: "The figure" },
+      { src: "images/the-sniper-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: ""
   },
@@ -1533,9 +1536,9 @@ window.COLLECTION = [
     provenance: "",
     tags: ["archangel", "robot", "mortal", "rebuilt", "upgraded", "teacher"],
     images: [
-      { src: "images/the-rebuilt-03.jpg", caption: "Concept art" },
       { src: "images/the-rebuilt-01.jpg", caption: "After the rebuild" },
-      { src: "images/the-rebuilt-02.jpg", caption: "Before — the original build" }
+      { src: "images/the-rebuilt-02.jpg", caption: "Before — the original build" },
+      { src: "images/the-rebuilt-03.jpg", caption: "Concept art" }
     ],
     acquired: "",
     notes: "Placeholder name, taken from what happened to him - the same way the Discarded and the Damaged are named. Two figures, one character, one entry."
@@ -1777,8 +1780,8 @@ window.COLLECTION = [
     provenance: "",
     tags: ["alien", "biker-gang", "reformed", "pacifist", "ambassador"],
     images: [
-      { src: "images/the-reformed-02.jpg", caption: "Concept art" },
-      { src: "images/the-reformed-01.jpg", caption: "The figure" }
+      { src: "images/the-reformed-01.jpg", caption: "The figure" },
+      { src: "images/the-reformed-02.jpg", caption: "Concept art" }
     ],
     acquired: "",
     notes: "Placeholder name, in the pattern of the Discarded and the Rebuilt."
@@ -1896,7 +1899,10 @@ window.COLLECTION = [
       "He still fights. The arm has superhuman strength in it now.",
     provenance: "",
     tags: ["space-police", "gunner", "the-goo", "infected", "super-strength", "veteran"],
-    images: ["images/the-gunner-01.jpg"],
+    images: [
+      { src: "images/the-gunner-01.jpg", caption: "The figure" },
+      { src: "images/the-gunner-02.jpg", caption: "Concept art" }
+    ],
     acquired: "",
     notes: "The black arm on the figure is the infected one - the lore and the plastic agree again."
   },
@@ -2207,8 +2213,8 @@ window.COLLECTION = [
     provenance: "",
     tags: ["adventure-squad", "pilot", "mechanic", "maps", "treasure"],
     images: [
-      { src: "images/the-aviator-02.jpg", caption: "Concept art" },
-      { src: "images/the-aviator-01.jpg", caption: "The figure" }
+      { src: "images/the-aviator-01.jpg", caption: "The figure" },
+      { src: "images/the-aviator-02.jpg", caption: "Concept art" }
     ],
     acquired: "",
     notes: "Sixth member of the Adventure Crew. Placeholder name - and the crew needs a better one than \"the khaki adventurers\" too."
@@ -20751,8 +20757,8 @@ window.COLLECTION = [
       "creature inside a creature.",
     tags: ["king", "slime", "green", "translucent", "shield", "friendly", "custom"],
     images: [
-      { src: "images/the-slime-king-02.jpg", caption: "Concept art" },
       { src: "images/the-slime-king-01.jpg", caption: "The figure, and the slimes" },
+      { src: "images/the-slime-king-02.jpg", caption: "Concept art" },
     ],
     acquired: "",
     notes: "Sixth king on the good side, after the Prince, King Arthur, the Dwarf King, the City King and the elected one. Rulers in this collection have been drifting the wrong way for a long time - the villain deck holds two kings, two pharaohs, a queen, an emperor, a dictator, a governor, a supreme chancellor and an underwater king, ten in all - so a king arriving on this deck is worth noting on its own.\\n\\nWhat he is carrying is the odd part. The shield is a proper heraldic one, quartered and charged with a crowned lion, and it does not belong to anything else on him. A faceless green man in an orange vest holding somebody's coat of arms is either a king who inherited the arms and not the clothes, or a slime that found a shield.\\n\\nThe slimes are on his card rather than their own because you handed them in as his and they have no faces beyond the eyes. If they are people rather than his, they split off.\n\nThe painting is his. Everything the card describes is in it and nothing was invented for it: one continuous green from crown to boot, two black eyes and no mouth at all, the marigold vest over the wide belt, the tan rags below, and the shield quartered blue and red with the crowned gold lion rearing across the middle. The slimes came out right too - one plain lump with the same two eyes, and one that is a creature inside a creature, its own eyes under a glass dome with another pair showing through."
