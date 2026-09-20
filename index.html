@@ -145,6 +145,21 @@
   .lore h3 { margin:0 0 6px; font-size:15px; color:var(--accent); font-weight:600; }
   .lore p { margin:0; color:var(--text); white-space:pre-wrap; font-size:15px; }
 
+  /* A note can carry pictures. They scroll sideways rather than stacking,
+     because these are several versions of one thing - you compare them by
+     dragging along the row, not by scrolling past them one at a time. */
+  .lore .reel {
+    display:flex; gap:12px; overflow-x:auto; margin:12px 0 0; padding:2px 0 10px;
+    scroll-snap-type:x proximity; scrollbar-width:thin; overscroll-behavior-x:contain;
+  }
+  .lore .reel figure { flex:0 0 228px; margin:0; scroll-snap-align:start; }
+  .lore .reel img {
+    display:block; width:100%; height:auto; background:var(--panel-2);
+    border:1px solid var(--line); border-radius:var(--radius);
+  }
+  .lore .reel figcaption { padding:6px 2px 0; font-size:12px; color:var(--faint); }
+  @media (max-width:640px) { .lore .reel figure { flex-basis:186px; } }
+
   /* Lore shots: photographs of things happening, rather than portraits. Wider
      than the world notes because the picture is the point. */
   .shots { padding:26px 30px 30px; max-width:760px; }
@@ -563,11 +578,11 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789875364"></script>
-<script src="data/scenes.js?v=1789875364"></script>
-<script src="data/lore.js?v=1789875364"></script>
-<script src="data/featured.js?v=1789875364"></script>
-<script src="data/order.js?v=1789875364"></script>
+<script src="data/collection.js?v=1789909280"></script>
+<script src="data/scenes.js?v=1789909280"></script>
+<script src="data/lore.js?v=1789909280"></script>
+<script src="data/featured.js?v=1789909280"></script>
+<script src="data/order.js?v=1789909280"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -1478,6 +1493,12 @@ function openLore() {
         <section>
           <h3>${esc(n.title)}</h3>
           <p>${esc(n.text)}</p>
+          ${(n.images || []).length ? `<div class="reel">${n.images.map(im => `
+            <figure>
+              <img src="${esc(im.src)}" alt="${esc(im.caption || n.title)}"
+                   loading="lazy" decoding="async">
+              ${im.caption ? `<figcaption>${esc(im.caption)}</figcaption>` : ``}
+            </figure>`).join("")}</div>` : ``}
         </section>`).join("")}
     </div>`;
   if (!$("detail").open) $("detail").showModal();
