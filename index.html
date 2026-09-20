@@ -303,7 +303,12 @@
      is in the deck. */
   .card {
     content-visibility:auto;
-    contain-intrinsic-size:auto 280px;
+    /* Block axis only. The two-value shorthand also hands a skipped card an
+       intrinsic WIDTH, and a grid item's automatic minimum size is its
+       min-content width - so every off-screen card demanded 280px, every
+       column widened to suit, and the deck ran off the side of an iPad. */
+    contain-intrinsic-block-size:auto 280px;
+    min-width:0;
     background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
     overflow:hidden; cursor:pointer; text-align:left; padding:0; color:inherit; font:inherit;
     display:flex; flex-direction:column; transition:border-color .12s, transform .12s;
@@ -311,9 +316,18 @@
   .card:hover { border-color:var(--accent); transform:translateY(-2px);
                 box-shadow:0 4px 10px rgba(90,70,45,.16); }
   .card:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+  /* The photo tile is sized by percentage padding rather than aspect-ratio.
+     Safari on iPad does not resolve aspect-ratio on a box that takes its width
+     by stretching inside a column flex container - which is exactly what this
+     is - so the tile collapsed to nothing: the photograph, absolutely
+     positioned, had no height to fill, and the catalogue number fell out of
+     the tile onto the figure's name. Percentage padding resolves against the
+     containing block's width, which is always definite, so the tile stands up
+     in every browser. .minishot and .plate .frame keep aspect-ratio because
+     both have a width in pixels, and both render correctly on the iPad. */
   .shot {
-    aspect-ratio:4/5; background:var(--panel-2); position:relative;
-    display:flex; align-items:center; justify-content:center;
+    padding-top:125%;                 /* 4:5, the shape of every photograph */
+    flex:none; background:var(--panel-2); position:relative;
   }
   /* Fill the tile. Landscape photos - the group shots - would lose people to
      the crop, so they get .wide and go back to fitting inside. */
@@ -332,7 +346,12 @@
   .shot img { position:absolute; inset:0; width:100%; height:100%;
             object-fit:cover; object-position:50% 28%; display:block; }
   .shot img.wide { object-fit:contain; object-position:50% 50%; }
-  .shot .empty { color:var(--faint); font-size:12px; letter-spacing:.08em; }
+  /* Centred by hand now that the tile is no longer a flex container. */
+  .shot .empty {
+    position:absolute; top:0; right:0; bottom:0; left:0;
+    display:flex; align-items:center; justify-content:center;
+    color:var(--faint); font-size:12px; letter-spacing:.08em; text-align:center;
+  }
   /* Catalogue number. The deck a card sits in already says good or bad, so the
      corner carries the entry's number instead - the order it was catalogued in,
      counting from the First Man at 1. */
@@ -579,12 +598,12 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789935820"></script>
-<script src="data/scenes.js?v=1789935820"></script>
-<script src="data/lore.js?v=1789935820"></script>
-<script src="data/featured.js?v=1789935820"></script>
-<script src="data/order.js?v=1789935820"></script>
-<script src="data/wide.js?v=1789935820"></script>
+<script src="data/collection.js?v=1789936532"></script>
+<script src="data/scenes.js?v=1789936532"></script>
+<script src="data/lore.js?v=1789936532"></script>
+<script src="data/featured.js?v=1789936532"></script>
+<script src="data/order.js?v=1789936532"></script>
+<script src="data/wide.js?v=1789936532"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
