@@ -13427,14 +13427,21 @@ window.COLLECTION = [
       "violence behind him wherever he has been.\n\n" +
       "He enjoys taking skulls.",
     provenance:
-      "Brown hair over a silver visor band across the eyes, stubble, a flat " +
-      "hard mouth. Black armour printed in grey and red plate with red spiked " +
-      "pauldrons standing off both shoulders, red arms into black hands, a belt " +
-      "of white crosses, and black legs with red knee plates.",
+      "The head is black but for the face: the ears, the back of the head and " +
+      "the neck are all covered, and only an oval from brow to chin is skin. A " +
+      "pale silver band lies across the brow just above the eyes, brown hair " +
+      "over the top of it, stubble, a flat hard mouth. Black armour printed in " +
+      "grey and red plate, two red spikes standing off each shoulder - one " +
+      "raking up and out, one down and forward across the chest - red arms into " +
+      "black hands, a belt of white crosses, and black legs with red knee " +
+      "plates.",
     tags: ["villain", "assassin", "shadows", "trophies", "spikes", "for-hire"],
-    images: ["images/the-red-baron-01.jpg"],
+    images: [
+      { src: "images/the-red-baron-01.jpg", caption: "The figure" },
+      { src: "images/the-red-baron-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "He uses shadows, which puts him near the shadow dimension without anybody having said he is of it or works for it - the Shadow King, the Purple Shadow and Quinn are all in that part of the world and none of them is written to him. Say the word and he connects. Also the first figure here who collects trophies off the people he kills; this world has had killers before and none of them kept anything."
+    notes: "He uses shadows, which puts him near the shadow dimension without anybody having said he is of it or works for it - the Shadow King, the Purple Shadow and Quinn are all in that part of the world and none of them is written to him. Say the word and he connects. Also the first figure here who collects trophies off the people he kills; this world has had killers before and none of them kept anything.\n\nHe has a painting, and it corrects the first line of this card. The head piece is black everywhere but the face, so the painting hoods him: ears, the back of the head and the whole neck covered, an oval of face from brow to chin, the silver band across the brow just above the eyes rather than over them, and the hair medium and swept over the top of it. The spikes are two to a shoulder, one raking up and one carried forward down the front of the arm, which is how the plastic wears them. His hands are empty. The first version of the painting hung a skull at his hip, off the line above about trophies; you took it out, so the skulls stay in the text where they were."
   },
 
 
@@ -13468,9 +13475,12 @@ window.COLLECTION = [
       "pale discs where the eyes should be. A black cloth cape, a torso lined " +
       "in grey with a buckled belt, black legs, silver hands.",
     tags: ["villain", "sith", "purple-shadow", "dark-arts", "lightsaber", "portal", "shadow-dimension", "killer"],
-    images: ["images/the-purple-shadow-01.jpg"],
+    images: [
+      { src: "images/the-purple-shadow-01.jpg", caption: "The figure" },
+      { src: "images/the-purple-shadow-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "The last name to come off the not-yet-photographed list, and the last dangling link in the collection: the Second Padawan has carried \"Killed by\" against this exact id since he was catalogued. You called him the purple shadow Prince this time - the card uses the Purple Shadow, which is what the world notes and that link have always called him, and because this world already has a Shadow Prince who is the Shadow King\'s son and is good. If Prince is a title he actually holds, say so. He also settles an old question: he is a Sith who talked to the shadow people, not one of them, so he and the Shadow King are not the same power after all."
+    notes: "The last name to come off the not-yet-photographed list, and the last dangling link in the collection: the Second Padawan has carried \"Killed by\" against this exact id since he was catalogued. You called him the purple shadow Prince this time - the card uses the Purple Shadow, which is what the world notes and that link have always called him, and because this world already has a Shadow Prince who is the Shadow King\'s son and is good. If Prince is a title he actually holds, say so. He also settles an old question: he is a Sith who talked to the shadow people, not one of them, so he and the Shadow King are not the same power after all.\n\nHe has a painting now, and it is this card in one picture: black from crown to boot, the red band across the brow with its clasp at the centre, the two pale discs, the grey lines on the torso, the studded buckle, the silver hands. The blade is his - this card has said since it was written that he carries a purple lightsaber - and it is the only colour in the painting, which is the right call for a man who is black everywhere else. Two things in it are not on the plastic, both asked for: the hilt curves, and the cape, a short square of cloth on the figure, falls to the boots."
   },
 
 
@@ -13854,9 +13864,12 @@ window.COLLECTION = [
       "with a gold X harness and a gold disc at the chest, green arms and a " +
       "green hand. White armoured legs plated in silver.",
     tags: ["villain", "bionic", "prosthetic", "super-strength", "hand-to-hand", "alien", "brother"],
-    images: ["images/the-bionic-brother-01.jpg"],
+    images: [
+      { src: "images/the-bionic-brother-01.jpg", caption: "The figure" },
+      { src: "images/the-bionic-brother-02.jpg", caption: "Concept art" },
+    ],
     acquired: "",
-    notes: "Linked to the Lead Alien Mercenary as his brother on the strength of the description - green skin and golden hair is that man exactly, and nothing else here matches both. If you meant somebody else, one word moves it. His legs are the sixth body modification worn as history in this collection, and they arrive in the same batch as the man whose team makes them; no line is written between those two, because you have not drawn one."
+    notes: "Linked to the Lead Alien Mercenary as his brother on the strength of the description - green skin and golden hair is that man exactly, and nothing else here matches both. If you meant somebody else, one word moves it. His legs are the sixth body modification worn as history in this collection, and they arrive in the same batch as the man whose team makes them; no line is written between those two, because you have not drawn one.\n\nHis painting leads with the legs, which is what this card is about: white and chrome from the hip down, polished bright, and the only shine in a picture that is otherwise matte. Everything above them is the plastic - the swept ginger hair, the red eyes, the two lower fangs, the hooked scar, the gold X harness with its disc and triangle, the gold clasp at the waist, and the four barbed sprays tattooed into the green skin either side of the straps. It adds gold cuffs at both wrists, which the figure does not have.\n\nStill open: there is no left arm in the photograph. It may be off rather than gone, and the painting assumes off and gives him both. If it is gone, say so - a one-armed brawler on two bionic legs is a different man, and this card would want a line about it."
   },
 
 
@@ -15777,8 +15790,8 @@ window.COLLECTION = [
       "A dark blue helmet closed over a pale blue face that is all light - a " +
       "grid of circles for eyes and a wide bared grin, lit from inside. Heavy " +
       "blue shoulder armour flared out on both sides with a round black vent " +
-      "at the chest and bolts at either collarbone, over a white torso; pale " +
-      "blue hands, a black belt, white legs.",
+      "at the chest and bolts at either collarbone, over a white torso; white " +
+      "arms, pale blue hands, a black belt, white legs.",
     tags: ["villain", "electricity", "energy", "entity", "power-source", "combat", "armour"],
     images: ["images/the-current-01.jpg"],
     acquired: "",
@@ -23089,17 +23102,19 @@ window.COLLECTION = [
       "nose, the mouth showing underneath it. A red torso with a silver-white " +
       "lamellar plate across the chest, scuffed back to bare plastic through " +
       "the middle of it, white sleeves, and a black and red sash at the waist. " +
-      "One pale grey hand and one red. Red legs printed with black bars and a " +
+      "A red hand on the sword, and what is in the other hand is not a hand " +
+      "at all but a dark grey sheath. Red legs printed with black bars and a " +
       "small crest at the hip, and a gold scimitar in the right hand. Standing " +
       "upright on the crown of the hat, a dark green dragon no taller than his " +
       "head.",
     tags: ["ninja", "villain", "crimson", "masked", "dragon", "straw-hat", "scimitar", "concept-art"],
     images: [
       { src: "images/the-crimson-ninja-02.jpg", caption: "The figure, with the dragon on his hat" },
-      { src: "images/the-crimson-ninja-01.jpg", caption: "Concept art" },
+      { src: "images/the-crimson-ninja-03.jpg", caption: "Concept art" },
+      { src: "images/the-crimson-ninja-01.jpg", caption: "The first art, drawn before the figure turned up" },
     ],
     acquired: "",
-    notes: "He has turned up. This was the one card in the collection written the wrong way round - a story with no figure under it, holding a piece of AI art while everybody else here was a thing on a shelf first and a story second. Now there is a photograph, and the art can be read against the plastic.\n\nWhat the art got right is the hat and the armour. A wide conical hat, and a white lamellar plate worn over red with white sleeves - that is the figure exactly, sleeves included.\n\nWhat it invented is the feather through the crown, the red cloak, the katana held level in both hands, and the face. The art gives him a blank mask with nothing behind it. The figure has a yellow head with a mouth, and the mask is painted across the eyes, which makes him a man in warpaint rather than a thing with no face. The sash is black where the art has it red, only one of the two gloves is white, and the sword is a gold scimitar.\n\nThree other cards here carry art and a figure both - the Scrap Adventurer, the Ginger Adventurer and the Young Watchman. He is the fourth, and the only one where the art came first.\n\nThe dragon is new. Dragons have been in this collection five times and every one of them was a picture: the Dragon Knight's gold helm and the white dragon on his shield, the Evil Cavalryman's gold one, the Evil Swordsman's red one, the gold dragon breathing ice across Zane's gi, the black one on Iron Fist's chest. Heraldry, print, a badge worn by somebody. This is the first dragon here that is a thing rather than a device, and it is standing on a villain's hat.\n\nIt is also only the third animal to share a card with a person - the Explorer has his monkey, the Slime King has his slimes, and Widow the horse is the one animal with a card of her own. All of those are on the good side. This is the first animal that belongs to somebody on the bad one, and you called it his compatriot rather than his pet, which is not the same relationship.\n\nStill open, from the day this card was written: this world has a Ninja Lineage and nobody has said whether he came out of it or came for it."
+    notes: "He has turned up. This was the one card in the collection written the wrong way round - a story with no figure under it, holding a piece of AI art while everybody else here was a thing on a shelf first and a story second. Now there is a photograph, and the art can be read against the plastic.\n\nWhat the art got right is the hat and the armour. A wide conical hat, and a white lamellar plate worn over red with white sleeves - that is the figure exactly, sleeves included.\n\nWhat it invented is the feather through the crown, the red cloak, the katana held level in both hands, and the face. The art gives him a blank mask with nothing behind it. The figure has a yellow head with a mouth, and the mask is painted across the eyes, which makes him a man in warpaint rather than a thing with no face. The sash is black where the art has it red, only one of the two gloves is white, and the sword is a gold scimitar.\n\nThree other cards here carry art and a figure both - the Scrap Adventurer, the Ginger Adventurer and the Young Watchman. He is the fourth, and the only one where the art came first.\n\nThe dragon is new. Dragons have been in this collection five times and every one of them was a picture: the Dragon Knight's gold helm and the white dragon on his shield, the Evil Cavalryman's gold one, the Evil Swordsman's red one, the gold dragon breathing ice across Zane's gi, the black one on Iron Fist's chest. Heraldry, print, a badge worn by somebody. This is the first dragon here that is a thing rather than a device, and it is standing on a villain's hat.\n\nIt is also only the third animal to share a card with a person - the Explorer has his monkey, the Slime King has his slimes, and Widow the horse is the one animal with a card of her own. All of those are on the good side. This is the first animal that belongs to somebody on the bad one, and you called it his compatriot rather than his pet, which is not the same relationship.\n\nStill open, from the day this card was written: this world has a Ninja Lineage and nobody has said whether he came out of it or came for it.\n\nRepainted, and the new one is read off the figure instead of off the story. The first art stays on the card, because everything above is written against it, but it no longer hangs in the gallery - only the new painting is captioned as the concept art now. What changed: the mask is a mask, hard and cord-tied across the eyes, with the warpaint carrying on underneath it where it ends, so he is neither the blank face the first art gave him nor bare paint; the dragon is up on the crown of the hat where the figure has it; and the long red cloth is the one thing kept out of the first art on purpose. Two departures from the plastic, both asked for: the sword is straight where the figure holds a curved gold scimitar, and it is drawn with its sheath. The sheath is the correction this card owed - what was catalogued here as a pale grey hand is a dark grey scabbard he is carrying."
   },
 
 

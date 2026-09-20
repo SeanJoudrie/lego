@@ -6230,7 +6230,7 @@ A professional assassin who can use shadows, and who leaves a streak of violence
 
 He enjoys taking skulls.
 
-*How it was got:* Brown hair over a silver visor band across the eyes, stubble, a flat hard mouth. Black armour printed in grey and red plate with red spiked pauldrons standing off both shoulders, red arms into black hands, a belt of white crosses, and black legs with red knee plates.
+*How it was got:* The head is black but for the face: the ears, the back of the head and the neck are all covered, and only an oval from brow to chin is skin. A pale silver band lies across the brow just above the eyes, brown hair over the top of it, stubble, a flat hard mouth. Black armour printed in grey and red plate, two red spikes standing off each shoulder - one raking up and out, one down and forward across the chest - red arms into black hands, a belt of white crosses, and black legs with red knee plates.
 
 *Tags:* villain, assassin, shadows, trophies, spikes, for-hire
 
@@ -7152,7 +7152,7 @@ Master of apprentices for the League of Shadows. The people coming up are his di
 
 An entity made of electricity. He is run into weapons to power them, and he fights in his own right.
 
-*How it was got:* A dark blue helmet closed over a pale blue face that is all light - a grid of circles for eyes and a wide bared grin, lit from inside. Heavy blue shoulder armour flared out on both sides with a round black vent at the chest and bolts at either collarbone, over a white torso; pale blue hands, a black belt, white legs.
+*How it was got:* A dark blue helmet closed over a pale blue face that is all light - a grid of circles for eyes and a wide bared grin, lit from inside. Heavy blue shoulder armour flared out on both sides with a round black vent at the chest and bolts at either collarbone, over a white torso; white arms, pale blue hands, a black belt, white legs.
 
 *Tags:* villain, electricity, energy, entity, power-source, combat, armour
 
@@ -9812,7 +9812,7 @@ An evil ninja, in crimson, with a baby dragon for a compatriot. The dragon rides
 
 *How it was got:* From the art: a wide woven straw hat with a long red feather through the crown, a pale mask with a red domino worked across the eyes, and no face behind it. White and crimson lamellar over full sleeves, a red sash at the waist, white gloves, and a red cloak streaming off one shoulder. A katana held level in both hands.
 
-From the figure, photographed at last: a wide conical hat panelled in red and white with a blue stripe over the crown. A yellow head printed with a black and red mask spread across the eyes and the bridge of the nose, the mouth showing underneath it. A red torso with a silver-white lamellar plate across the chest, scuffed back to bare plastic through the middle of it, white sleeves, and a black and red sash at the waist. One pale grey hand and one red. Red legs printed with black bars and a small crest at the hip, and a gold scimitar in the right hand. Standing upright on the crown of the hat, a dark green dragon no taller than his head.
+From the figure, photographed at last: a wide conical hat panelled in red and white with a blue stripe over the crown. A yellow head printed with a black and red mask spread across the eyes and the bridge of the nose, the mouth showing underneath it. A red torso with a silver-white lamellar plate across the chest, scuffed back to bare plastic through the middle of it, white sleeves, and a black and red sash at the waist. A red hand on the sword, and what is in the other hand is not a hand at all but a dark grey sheath. Red legs printed with black bars and a small crest at the hip, and a gold scimitar in the right hand. Standing upright on the crown of the hat, a dark green dragon no taller than his head.
 
 *Tags:* ninja, villain, crimson, masked, dragon, straw-hat, scimitar, concept-art
 
