@@ -42,6 +42,31 @@ window.LORE = [
   },
 
   {
+    title: "The one painting of the Second Padawan\'s killing",
+    text:
+      "The great betrayal has four painters arguing with each other. This has " +
+      "one picture and nobody disputing it, and the reason is in the picture: " +
+      "the only other man in the room is standing in the doorway, and he " +
+      "lived.\n\n" +
+      "The Purple Shadow killed the Snow Jedi\'s second Padawan. The Beowulf " +
+      "Jedi - trained beside him, a friendly rival first and a friend by the " +
+      "end - arrived a beat too late, and everything in the painting is " +
+      "arranged around that beat. It is seen from the floor, at the height of " +
+      "the hilt the dead man has dropped out of his own hand. The Shadow " +
+      "stands over him with the violet blade lit and held down, done. In the " +
+      "doorway the Beowulf Jedi has stopped, both of his sabers still on his " +
+      "belt and neither drawn, and his shadow reaches the whole length of the " +
+      "hall and lies across the body.\n\n" +
+      "Two sources of light in the whole thing, and the man who could describe " +
+      "them both is the one in the door. What the painting will not say is " +
+      "where it happened: nothing written down names the hall.",
+    images: [
+      { src: "images/scenes/the-killing-of-the-second-padawan.jpg",
+        caption: "The killing of the Second Padawan, and the friend in the doorway" },
+    ]
+  },
+
+  {
     title: "Before any of it",
     text:
       "Something was here before the Lego civilization, and it was not Lego. " +
