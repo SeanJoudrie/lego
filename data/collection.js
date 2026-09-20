@@ -14210,8 +14210,8 @@ window.COLLECTION = [
 
 
   {
-    id: "the-soldier-in-the-brown-helmet",
-    name: "The Soldier in the Brown Helmet",
+    id: "the-soldier-with-the-skull",
+    name: "The Soldier with the Skull",
     variant: "",
     faction: "bad",
     origin: "custom",
@@ -14226,14 +14226,14 @@ window.COLLECTION = [
       "No story given for him yet. He arrived in the villain batch and is " +
       "filed there until you say otherwise.",
     provenance:
-      "Brown padded flight helmet with the ear flaps down over a plain yellow " +
-      "face and an easy smile. Cream jacket printed with a grey harness, two " +
-      "buckled straps and an equipment belt, brown arms into brown hands, " +
-      "brown legs with a grey hip.",
-    tags: ["villain", "soldier", "helmet", "no-story-yet", "needs-a-description"],
-    images: ["images/the-soldier-in-the-brown-helmet-01.jpg"],
+      "Tousled brown hair over a yellow face with a scar through one brow and " +
+      "a hard, level mouth. Cream shirt printed with two buttoned pockets, a " +
+      "small gold badge at the breast, a brown belt and a holster. Black legs " +
+      "carrying a white skull, a length of chain and orange banding.",
+    tags: ["villain", "soldier", "skull", "no-story-yet", "needs-a-description"],
+    images: ["images/the-soldier-with-the-skull-01.jpg"],
     acquired: "",
-    notes: "This is the honest version of a guess. Five figures came in that batch and four descriptions came with them - Wen, the Commissioner\'s apprentice, Long Arm Johnson and the Butcher - and the apprentice one was not numbered. I put it on the third figure, who is scarred, armed, wears a badge on the shirt and a death\'s head on the leg, over this one, who is smiling in a flight helmet. If I have them the wrong way round, say so and the two cards swap. Either way this man has no story yet and should get one.\n\nWorth recording: this is the figure that actually stood in for the Commissioner. The character was swapped onto another figure later, purely so the description had somewhere to live, and this is the one that played the part first."
+    notes: "This is the honest version of a guess. Five figures came in that batch and four descriptions came with them - Wen, the Commissioner\'s apprentice, Long Arm Johnson and the Butcher - and the apprentice one was not numbered. I put it on the third figure, who is scarred, armed, wears a badge on the shirt and a death\'s head on the leg, over this one, who is smiling in a flight helmet. If I have them the wrong way round, say so and the two cards swap. Either way this man has no story yet and should get one.\n\nWorth recording: this is the figure that actually stood in for the Commissioner. The character was swapped onto another figure later, purely so the description had somewhere to live, and this is the one that played the part first.\n\nRenamed and re-photographed out of the same correction. He is not the Commissioner's apprentice after all, and he has no brown helmet either, so the old name did not survive the swap. This one is purely descriptive, off the skull on his leg. He still has no story."
   },
 
 
@@ -14260,14 +14260,14 @@ window.COLLECTION = [
       "out and stole a ship, and he took the information on the mothership " +
       "with him.",
     provenance:
-      "Tousled brown hair over a yellow face with a scar through one brow and " +
-      "a hard, level mouth. Cream shirt printed with two buttoned pockets, a " +
-      "small gold badge at the breast, a brown belt and a holster. Black legs " +
-      "carrying a white skull, a length of chain and orange banding.",
-    tags: ["villain", "traitor", "apprentice", "police", "lego-city", "great-betrayal", "murder", "skull"],
+      "Brown padded flight helmet with the ear flaps down over a plain yellow " +
+      "face and an easy smile. Cream jacket printed with a grey harness, two " +
+      "buckled straps and an equipment belt, brown arms into brown hands, " +
+      "brown legs with a grey hip.",
+    tags: ["villain", "traitor", "apprentice", "police", "lego-city", "great-betrayal", "murder", "helmet"],
     images: ["images/the-commissioners-apprentice-01.jpg"],
     acquired: "",
-    notes: "The Commissioner\'s card has said from the day it was written that he has a protege, a Padawan - and that in this world Padawan just means apprentice, nothing to do with the Force. (It also used to say he had got a little old; you have since corrected his age and that clause is gone.) This is that man. The world note on the day of betrayals says Quinn arranged every turning to land inside the same minute of the same day, and that students turned on their masters and masters on their students. That has been an abstraction until now. This is one of them, with a name for the victim. The Commissioner is left for dead rather than dead: you said left him to die, and nothing on his card says otherwise. Say whether he lived."
+    notes: "The Commissioner\'s card has said from the day it was written that he has a protege, a Padawan - and that in this world Padawan just means apprentice, nothing to do with the Force. (It also used to say he had got a little old; you have since corrected his age and that clause is gone.) This is that man. The world note on the day of betrayals says Quinn arranged every turning to land inside the same minute of the same day, and that students turned on their masters and masters on their students. That has been an abstraction until now. This is one of them, with a name for the victim. The Commissioner is left for dead rather than dead: you said left him to die, and nothing on his card says otherwise. Say whether he lived.\n\nCorrected: the two cards have swapped photographs, which is exactly the swap the other card offered when it was written. The apprentice is the man in the brown flight helmet with the easy smile - the figure that first stood in for the Commissioner himself - and not the scarred man with the skull on his leg. The scarred one goes back to having no story, under a descriptive name. It changes how this card reads: the man who shot his commander through the thigh is smiling in his photograph, and was promising at the time."
   },
 
 

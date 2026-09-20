@@ -6546,15 +6546,15 @@ Then he took Quinn on.
 
 *Tags:* villain, mentor, quinn, dark-arts, crystals, life-extension, disease, explorer, old
 
-### 514. The Soldier in the Brown Helmet
+### 514. The Soldier with the Skull
 
 **Alignment:** bad · **Role:** Soldier · **Figure:** custom
 
 No story given for him yet. He arrived in the villain batch and is filed there until you say otherwise.
 
-*How it was got:* Brown padded flight helmet with the ear flaps down over a plain yellow face and an easy smile. Cream jacket printed with a grey harness, two buckled straps and an equipment belt, brown arms into brown hands, brown legs with a grey hip.
+*How it was got:* Tousled brown hair over a yellow face with a scar through one brow and a hard, level mouth. Cream shirt printed with two buttoned pockets, a small gold badge at the breast, a brown belt and a holster. Black legs carrying a white skull, a length of chain and orange banding.
 
-*Tags:* villain, soldier, helmet, no-story-yet, needs-a-description
+*Tags:* villain, soldier, skull, no-story-yet, needs-a-description
 
 ### 515. The Commissioner's Apprentice
 
@@ -6564,11 +6564,11 @@ The Commissioner's protege, and very promising at first.
 
 When the great betrayal came he was standing beside his commander. He shot him through the thigh, stabbed him in the chest, and left him slumped over a command board to die. He killed two guards on the way out and stole a ship, and he took the information on the mothership with him.
 
-*How it was got:* Tousled brown hair over a yellow face with a scar through one brow and a hard, level mouth. Cream shirt printed with two buttoned pockets, a small gold badge at the breast, a brown belt and a holster. Black legs carrying a white skull, a length of chain and orange banding.
+*How it was got:* Brown padded flight helmet with the ear flaps down over a plain yellow face and an easy smile. Cream jacket printed with a grey harness, two buckled straps and an equipment belt, brown arms into brown hands, brown legs with a grey hip.
 
 *Connections:* Left him for dead The Commissioner
 
-*Tags:* villain, traitor, apprentice, police, lego-city, great-betrayal, murder, skull
+*Tags:* villain, traitor, apprentice, police, lego-city, great-betrayal, murder, helmet
 
 ### 516. Long Arm Johnson
 
