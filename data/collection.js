@@ -2364,9 +2364,10 @@ window.COLLECTION = [
     images: [
       { src: "images/the-beowulf-jedi-01.jpg", caption: "The figure" },
       { src: "images/the-beowulf-jedi-02.jpg", caption: "Concept art" },
+      { src: "images/scenes/the-killing-of-the-second-padawan.jpg", caption: "The night the Second Padawan was killed" },
     ],
     acquired: "",
-    notes: "Named for the Beowulf and Skyrim energy you described.\n\nConcept art added, and it answers something his card only implies. He fights monsters, so the piece puts him underground - a dripping cave with the light coming from a long way up - and it gives him two sabers, one blue and one green. Nothing here has ever said he carries two. Say whether that is right and the card takes it."
+    notes: "Named for the Beowulf and Skyrim energy you described.\n\nConcept art added, and it answers something his card only implies. He fights monsters, so the piece puts him underground - a dripping cave with the light coming from a long way up - and it gives him two sabers, one blue and one green. Nothing here has ever said he carries two. Say whether that is right and the card takes it.\n\nHe is in the painting of the Second Padawan's killing, on that card - the silhouette in the doorway, arrived a beat too late, both hilts still on his belt. His card says the loss hit him hard, and that is the moment it happened."
   },
 
   {
@@ -2397,10 +2398,11 @@ window.COLLECTION = [
     tags: ["jedi", "force-sensitive", "mind-tricks", "poverty", "redeemed", "deceased"],
     images: [
       { src: "images/the-second-padawan-01.jpg", caption: "The figure" },
-      { src: "images/the-second-padawan-02.jpg", caption: "Concept art" }
+      { src: "images/the-second-padawan-02.jpg", caption: "Concept art" },
+      { src: "images/scenes/the-killing-of-the-second-padawan.jpg", caption: "Concept art: the night he was killed" }
     ],
     acquired: "",
-    notes: "Second death in the collection, after the Green Captain. His link to the Purple Shadow was written against an id that did not exist for a long time. It is live now."
+    notes: "Second death in the collection, after the Green Captain. His link to the Purple Shadow was written against an id that did not exist for a long time. It is live now.\n\nThe killing is painted. The camera is on the floor beside him: his own hand open in the foreground with his hilt fallen out of it, his body across the stone, and the Purple Shadow standing over him with the violet blade lit and held down. In the doorway behind, small and black against the light, the Beowulf Jedi has just run in and stopped - both sabers still on his belt, undrawn - and his shadow reaches all the way down the hall and lies across the body. Two lights in the whole picture and nothing else. The link on this card was written long before there was an id to point it at; now there is a picture of it as well."
   },
 
   {
@@ -13478,9 +13480,10 @@ window.COLLECTION = [
     images: [
       { src: "images/the-purple-shadow-01.jpg", caption: "The figure" },
       { src: "images/the-purple-shadow-02.jpg", caption: "Concept art" },
+      { src: "images/scenes/the-killing-of-the-second-padawan.jpg", caption: "The night he killed the Second Padawan" },
     ],
     acquired: "",
-    notes: "The last name to come off the not-yet-photographed list, and the last dangling link in the collection: the Second Padawan has carried \"Killed by\" against this exact id since he was catalogued. You called him the purple shadow Prince this time - the card uses the Purple Shadow, which is what the world notes and that link have always called him, and because this world already has a Shadow Prince who is the Shadow King\'s son and is good. If Prince is a title he actually holds, say so. He also settles an old question: he is a Sith who talked to the shadow people, not one of them, so he and the Shadow King are not the same power after all.\n\nHe has a painting now, and it is this card in one picture: black from crown to boot, the red band across the brow with its clasp at the centre, the two pale discs, the grey lines on the torso, the studded buckle, the silver hands. The blade is his - this card has said since it was written that he carries a purple lightsaber - and it is the only colour in the painting, which is the right call for a man who is black everywhere else. Two things in it are not on the plastic, both asked for: the hilt curves, and the cape, a short square of cloth on the figure, falls to the boots."
+    notes: "The last name to come off the not-yet-photographed list, and the last dangling link in the collection: the Second Padawan has carried \"Killed by\" against this exact id since he was catalogued. You called him the purple shadow Prince this time - the card uses the Purple Shadow, which is what the world notes and that link have always called him, and because this world already has a Shadow Prince who is the Shadow King\'s son and is good. If Prince is a title he actually holds, say so. He also settles an old question: he is a Sith who talked to the shadow people, not one of them, so he and the Shadow King are not the same power after all.\n\nHe has a painting now, and it is this card in one picture: black from crown to boot, the red band across the brow with its clasp at the centre, the two pale discs, the grey lines on the torso, the studded buckle, the silver hands. The blade is his - this card has said since it was written that he carries a purple lightsaber - and it is the only colour in the painting, which is the right call for a man who is black everywhere else. Two things in it are not on the plastic, both asked for: the hilt curves, and the cape, a short square of cloth on the figure, falls to the boots.\n\nHe is also in the painting of the killing, which hangs on the Second Padawan's card: standing astride the body with the blade down, seen from the floor so he goes up out of the top of the frame. It is the only picture in this collection of something he has actually done."
   },
 
 
