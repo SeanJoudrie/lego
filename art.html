@@ -46,8 +46,35 @@
   }
   .backbtn:hover { border-color:var(--accent); color:var(--accent); background:var(--panel-2); }
   .standfirst {
-    margin:0 0 26px; color:var(--dim); font-size:15px; max-width:56ch;
+    margin:0 0 18px; color:var(--dim); font-size:15px; max-width:56ch;
   }
+
+  /* ---------- the bar: how many across, and in what order ---------- */
+  .bar { display:flex; gap:9px; align-items:center; flex-wrap:wrap; margin:0 0 24px; }
+  .bar .lbl { font-size:10.5px; letter-spacing:.11em; text-transform:uppercase;
+              color:var(--faint); font-weight:600; }
+  .seg { display:flex; border:1px solid var(--line); border-radius:var(--radius);
+         overflow:hidden; }
+  .seg button {
+    background:var(--panel-2); border:0; border-right:1px solid var(--line);
+    color:var(--dim); padding:9px 13px; font:inherit; font-size:13px;
+    letter-spacing:.04em; cursor:pointer;
+  }
+  .seg button:last-child { border-right:0; }
+  .seg button:hover { color:var(--accent); }
+  .seg button[aria-pressed="true"] { background:var(--accent); color:var(--panel);
+                                     font-weight:600; }
+  .shuffle {
+    background:var(--panel); border:1px solid var(--line); color:var(--dim);
+    border-radius:var(--radius); padding:9px 14px; font:inherit; font-size:13px;
+    letter-spacing:.04em; white-space:nowrap; cursor:pointer;
+  }
+  .shuffle:hover { color:var(--accent); border-color:var(--accent);
+                   background:var(--panel-2); }
+  .inorder { background:none; border:0; color:var(--faint); font:inherit;
+             font-size:12.5px; text-decoration:underline; padding:8px 4px;
+             cursor:pointer; }
+  .inorder:hover { color:var(--accent); }
 
   /* One painting per cell. They are all 2:3, so a plain grid sits flush with no
      masonry maths - and the point of the page is that they are big. */
@@ -55,9 +82,13 @@
     display:grid; gap:34px 26px;
     grid-template-columns:repeat(auto-fill, minmax(300px, 1fr));
   }
+  /* A phone gets one across unless the reader has asked for a number, which
+     is set inline and beats this. */
   @media (max-width:640px) {
     .wrap { padding:18px 14px 60px; }
     .gallery { gap:28px 0; grid-template-columns:1fr; }
+    .bar { gap:6px; }
+    .seg button, .shuffle { padding:7px 10px; font-size:12px; letter-spacing:.02em; }
   }
 
   /* 25 paintings at a megabyte a piece: keep the ones off-screen cheap. The
@@ -65,8 +96,12 @@
      also hands the skipped element an intrinsic WIDTH, which a 1fr column then
      sizes itself to, and the whole page scrolls sideways on a phone. */
   .piece {
-    margin:0; content-visibility:auto; contain-intrinsic-block-size:auto 560px;
+    margin:0; content-visibility:auto;
+    contain-intrinsic-block-size:auto var(--piece-h, 560px);
   }
+  /* One across is for looking at one painting at a time, not for filling a
+     wide screen with a single canvas: cap it and stand it in the middle. */
+  .gallery.one .piece { max-width:760px; margin-inline:auto; }
   .frame {
     display:block; width:100%; padding:0; border:1px solid var(--line);
     background:var(--panel); border-radius:var(--radius);
@@ -143,8 +178,21 @@
     Every figure here was photographed on a desk first. These are the ones that
     have since been painted — the same character, the same kit, read off the
     plastic and put somewhere it could stand. Tap one to see it large, with the
-    figure it came from.
+    figure it came from, or set how many share a row and scroll the whole run.
   </p>
+
+  <div class="bar">
+    <span class="lbl">Across</span>
+    <div class="seg" id="across">
+      <button type="button" data-n="0" aria-pressed="true">Fit</button>
+      <button type="button" data-n="1" aria-pressed="false">1</button>
+      <button type="button" data-n="2" aria-pressed="false">2</button>
+      <button type="button" data-n="3" aria-pressed="false">3</button>
+    </div>
+    <button class="shuffle" type="button" id="shuffle"
+            title="Deal them out in a new order">Shuffle</button>
+    <button class="inorder" type="button" id="inorder" hidden>Back in order</button>
+  </div>
 
   <div class="gallery" id="gallery"></div>
 
@@ -189,8 +237,15 @@ const subtitle = f =>
 document.getElementById("count").textContent =
   PIECES.length + (PIECES.length === 1 ? " painting" : " paintings");
 
-document.getElementById("gallery").innerHTML = PIECES.length
-  ? PIECES.map((p, i) => `
+/* PIECES is the catalogue order and never moves. VIEW is what gets drawn, so
+   Shuffle can deal a new order without losing the real one - and the number on
+   each card stays the figure's own number whichever order they are standing in. */
+const gallery = document.getElementById("gallery");
+let view = PIECES.slice();
+
+function draw() {
+  gallery.innerHTML = view.length
+    ? view.map((p, i) => `
       <figure class="piece">
         <button class="frame" data-i="${i}" aria-label="${esc(p.fig.name)}, larger">
           <img src="${esc(p.art.src)}" alt="${esc(p.fig.name)}" loading="lazy" decoding="async">
@@ -204,13 +259,71 @@ document.getElementById("gallery").innerHTML = PIECES.length
           ${p.shot ? `<img class="thumb" src="${esc(p.shot.src)}" alt="" loading="lazy">` : ``}
         </figcaption>
       </figure>`).join("")
-  : `<p class="empty">No paintings yet.</p>`;
+    : `<p class="empty">No paintings yet.</p>`;
+}
+draw();
+
+/* ---- how many across ------------------------------------------------------
+
+   The page still opens with as many across as fit. The Across buttons pin it
+   to one, two or three instead, which is the point of a painting: to be looked
+   at big. A fixed count is written inline so it also wins over the phone rule
+   in the stylesheet - somebody who asks for two on a phone means two - and Fit
+   clears it again and hands the width back to the grid. The choice is kept.
+*/
+const across = document.getElementById("across");
+const PLACEHOLDER = { 1: "1200px", 2: "840px", 3: "640px" };
+
+function applyAcross(n) {
+  if (n) {
+    gallery.style.gridTemplateColumns = `repeat(${n}, minmax(0, 1fr))`;
+    gallery.style.setProperty("--piece-h", PLACEHOLDER[n]);
+  } else {
+    gallery.style.gridTemplateColumns = "";
+    gallery.style.removeProperty("--piece-h");
+  }
+  gallery.classList.toggle("one", n === 1);
+  for (const b of [...across.children])
+    b.setAttribute("aria-pressed", String(Number(b.dataset.n) === n));
+  try { localStorage.setItem("lego.art.across", String(n)); } catch (_) {}
+}
+
+across.addEventListener("click", e => {
+  const b = e.target.closest("button");
+  if (b) applyAcross(Number(b.dataset.n));
+});
+
+(() => {
+  let n = 0;
+  try { n = Number(localStorage.getItem("lego.art.across")) || 0; } catch (_) {}
+  applyAcross([1, 2, 3].includes(n) ? n : 0);
+})();
+
+/* ---- shuffle ---- */
+const inorder = document.getElementById("inorder");
+
+document.getElementById("shuffle").addEventListener("click", () => {
+  for (let i = view.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [view[i], view[j]] = [view[j], view[i]];
+  }
+  inorder.hidden = false;
+  draw();
+  window.scrollTo(0, 0);
+});
+
+inorder.addEventListener("click", () => {
+  view = PIECES.slice();
+  inorder.hidden = true;
+  draw();
+  window.scrollTo(0, 0);
+});
 
 /* ---- the lightbox ------------------------------------------------------ */
 const viewer = document.getElementById("viewer");
 
 function openPiece(i) {
-  const p = PIECES[i];
+  const p = view[i];
   if (!p) return;
   viewer.innerHTML = `
     <button class="closex" id="closex">Close</button>
