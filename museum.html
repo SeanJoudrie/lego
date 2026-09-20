@@ -138,8 +138,8 @@
 
 <dialog id="viewer"></dialog>
 
-<script src="data/collection.js?v=1789915166"></script>
-<script src="data/museum.js?v=1789915166"></script>
+<script src="data/collection.js?v=1789935820"></script>
+<script src="data/museum.js?v=1789935820"></script>
 <script>
 /* ---- the museum ----------------------------------------------------------
 
@@ -151,6 +151,19 @@ const EVENTS = (window.MUSEUM || []).filter(e => e && (e.paintings || []).length
 const FIGS   = window.COLLECTION || [];
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c =>
   ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+
+/* Small copies for the frames, the full file only when a frame is actually
+   big. tools/thumbs.py writes images/thumbs/. */
+const thumb = s => String(s ?? "").replace(/^images\//, "images/thumbs/")
+                                  .replace(/\.(png|jpeg)$/i, ".jpg");
+let curSizes = "(max-width:640px) 100vw, 320px";
+const applySizes = root =>
+  root.querySelectorAll("img[srcset]").forEach(i => { i.sizes = curSizes; });
+const framed = (src, alt) =>
+  `<img src="${esc(thumb(src))}" srcset="${esc(thumb(src))} 320w, ${esc(src)} 1024w"
+        sizes="${esc(curSizes)}" alt="${esc(alt || "")}" loading="lazy" decoding="async"
+        onerror="this.onerror=null;this.removeAttribute('srcset');this.src='${esc(src)}'">`;
+
 
 // Every painting in the building, flattened, so the lightbox can hold one
 // index and the header can count them.
@@ -178,8 +191,7 @@ document.getElementById("rooms").innerHTML = EVENTS.length
             n++;
             return `<figure>
               <button class="frame" data-i="${n}" aria-label="${esc(p.caption || e.title)}, larger">
-                <img src="${esc(p.src)}" alt="${esc(p.caption || e.title)}"
-                     loading="lazy" decoding="async">
+                ${framed(p.src, p.caption || e.title)}
               </button>
               ${p.caption ? `<figcaption>${esc(p.caption)}</figcaption>` : ``}
             </figure>`;

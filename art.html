@@ -200,7 +200,7 @@
 
 <dialog id="viewer"></dialog>
 
-<script src="data/collection.js?v=1789915166"></script>
+<script src="data/collection.js?v=1789935820"></script>
 <script>
 /* ---- the gallery ---------------------------------------------------------
 
@@ -212,6 +212,19 @@
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c =>
   ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
+
+
+/* Small copies for the frames, the full file only when a frame is actually
+   big. tools/thumbs.py writes images/thumbs/. */
+const thumb = s => String(s ?? "").replace(/^images\//, "images/thumbs/")
+                                  .replace(/\.(png|jpeg)$/i, ".jpg");
+let curSizes = "(max-width:640px) 100vw, 320px";
+const applySizes = root =>
+  root.querySelectorAll("img[srcset]").forEach(i => { i.sizes = curSizes; });
+const framed = (src, alt) =>
+  `<img src="${esc(thumb(src))}" srcset="${esc(thumb(src))} 320w, ${esc(src)} 1024w"
+        sizes="${esc(curSizes)}" alt="${esc(alt || "")}" loading="lazy" decoding="async"
+        onerror="this.onerror=null;this.removeAttribute('srcset');this.src='${esc(src)}'">`;
 
 const photos = f => (f.images || []).map(x =>
   typeof x === "string" ? { src: x, caption: "" } : x);
@@ -248,7 +261,7 @@ function draw() {
     ? view.map((p, i) => `
       <figure class="piece">
         <button class="frame" data-i="${i}" aria-label="${esc(p.fig.name)}, larger">
-          <img src="${esc(p.art.src)}" alt="${esc(p.fig.name)}" loading="lazy" decoding="async">
+          ${framed(p.art.src, p.fig.name)}
         </button>
         <figcaption>
           <span class="num">${p.fig._i + 1}</span>
@@ -256,10 +269,11 @@ function draw() {
             <h2>${esc(p.fig.name)}</h2>
             ${subtitle(p.fig) ? `<p>${esc(subtitle(p.fig))}</p>` : ``}
           </span>
-          ${p.shot ? `<img class="thumb" src="${esc(p.shot.src)}" alt="" loading="lazy">` : ``}
+          ${p.shot ? `<img class="thumb" src="${esc(thumb(p.shot.src))}" alt="" loading="lazy" decoding="async">` : ``}
         </figcaption>
       </figure>`).join("")
     : `<p class="empty">No paintings yet.</p>`;
+  applySizes(gallery);
 }
 draw();
 
@@ -282,6 +296,11 @@ function applyAcross(n) {
     gallery.style.gridTemplateColumns = "";
     gallery.style.removeProperty("--piece-h");
   }
+  // A one-across frame is 760px wide and wants the real file; anything
+  // narrower is served fine by the thumb.
+  curSizes = n === 1 ? "760px" : n === 2 ? "50vw" : n === 3 ? "33vw"
+                                                 : "(max-width:640px) 100vw, 320px";
+  applySizes(gallery);
   gallery.classList.toggle("one", n === 1);
   for (const b of [...across.children])
     b.setAttribute("aria-pressed", String(Number(b.dataset.n) === n));

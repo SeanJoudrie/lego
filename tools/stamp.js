@@ -11,18 +11,18 @@ const path = require("path");
 const root = path.join(__dirname, "..");
 
 const DATA = ["data/collection.js", "data/scenes.js", "data/lore.js", "data/featured.js",
-              "data/order.js", "data/museum.js"];
+              "data/order.js", "data/museum.js", "data/wide.js"];
 
 // Each page and the number of data scripts it is expected to carry, so a
 // dropped script tag fails the stamp rather than shipping a page that quietly
 // renders nothing. art.html only needs the figures.
-const PAGES = [["index.html", 5], ["art.html", 1], ["museum.html", 2]];
+const PAGES = [["index.html", 6], ["art.html", 1], ["museum.html", 2]];
 
 const stamp = Math.max(
   ...DATA.map(f => Math.floor(fs.statSync(path.join(root, f)).mtimeMs / 1000))
 );
 
-const TAG = /(<script src="data\/(?:collection|scenes|lore|featured|order|museum)\.js)(\?v=\d+)?("><\/script>)/g;
+const TAG = /(<script src="data\/(?:collection|scenes|lore|featured|order|museum|wide)\.js)(\?v=\d+)?("><\/script>)/g;
 
 let wrote = 0;
 for (const [page, expected] of PAGES) {

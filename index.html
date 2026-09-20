@@ -579,11 +579,12 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789915166"></script>
-<script src="data/scenes.js?v=1789915166"></script>
-<script src="data/lore.js?v=1789915166"></script>
-<script src="data/featured.js?v=1789915166"></script>
-<script src="data/order.js?v=1789915166"></script>
+<script src="data/collection.js?v=1789935820"></script>
+<script src="data/scenes.js?v=1789935820"></script>
+<script src="data/lore.js?v=1789935820"></script>
+<script src="data/featured.js?v=1789935820"></script>
+<script src="data/order.js?v=1789935820"></script>
+<script src="data/wide.js?v=1789935820"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -607,6 +608,27 @@ const SIDE_MODE  = Object.fromEntries(DECKS.map(d => [d.key, d.mode || "rank"]))
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c]));
+
+/* Every photograph here is 901x1600. A card is about 110 pixels wide on a
+   phone, so handing the grid the full file meant downloading a quarter of a
+   megabyte and decoding 1.4 megapixels per tile, hundreds of times over as you
+   scrolled - which is what made this unusable on a phone. tools/thumbs.py
+   writes a 480-tall copy of everything into images/thumbs/; the grid, the
+   plates and the connection chips load those. Tapping a figure still opens the
+   full photograph. If a thumb is ever missing the browser falls back to the
+   original rather than showing a hole. */
+const thumb = s => String(s ?? "").replace(/^images\//, "images/thumbs/")
+                                  .replace(/\.(png|jpeg)$/i, ".jpg");
+/* Which of these are landscape is a fact about the files, worked out once by
+   tools/thumbs.py and read from data/wide.js. The grid used to hang a load
+   handler on all eight hundred images and toggle the class when each one
+   arrived - a thousand style invalidations in the middle of a scroll, to catch
+   the seventeen group shots. */
+const WIDE = new Set(window.WIDE || []);
+const small = (src, alt) =>
+  `<img src="${esc(thumb(src))}" alt="${esc(alt || "")}"${WIDE.has(src) ? ' class="wide"' : ""}
+        loading="lazy" decoding="async"
+        onerror="this.onerror=null;this.src='${esc(src)}'">`;
 // images may be a plain path or {src, caption} — normalise both to objects
 const photos = f => (f.images || []).map(x =>
   typeof x === "string" ? { src: x, caption: "" } : x);
@@ -625,7 +647,7 @@ const miniCard = (g, label) => {
   const cover = photos(g)[0];
   return `<button class="mini" data-i="${g._i}">
     <span class="minishot">${cover
-      ? `<img src="${esc(cover.src)}" alt="" loading="lazy">`
+      ? small(cover.src)
       : `<span class="minidash">—</span>`}</span>
     ${label ? `<em>${esc(label)}</em>` : ``}
     <b>${esc(g.name)}</b>
@@ -1145,24 +1167,7 @@ function render() {
   SIDES.forEach((k, i) => {
     const mine = decks[k];
     $("sides").children[i].querySelector("b").textContent = String(mine.length);
-
-    $("grid-" + k).innerHTML = SIDE_MODE[k] === "sections"
-      ? (SECTIONS || (SECTIONS = buildSections()))
-          .map(sc => {
-            // Inside a section, the order of the combined deck - which puts the
-            // customs in front of the licensed figures and keeps the ladder.
-            const rank = new Map((decks.total || FIGS).map((f, n) => [f._i, n]));
-            const inside = sc.figs.filter(f => mine.some(m => m._i === f._i))
-              .sort((a, b) => (rank.get(a._i) ?? 1e9) - (rank.get(b._i) ?? 1e9));
-            if (!inside.length) return ``;
-            return `<div class="sec">${esc(sc.name)}<b>${inside.length}</b></div>`
-                 + inside.map(card).join("");
-          }).join("")
-      : sections(mine).map(run =>
-          (run.label ? `<div class="sec">${run.label}<b>${run.items.length}</b></div>` : ``)
-          + run.items.map(card).join("")
-        ).join("");
-    fitShots($("grid-" + k));
+    delete gridDrawn[k];                    // its contents are stale now
 
     // If this side came up empty but the other one didn't, say where they went
     // rather than leaving somebody staring at "nothing matches" with a full
@@ -1178,12 +1183,60 @@ function render() {
     }
   });
 
+  drawNear();                               // only the deck you are looking at
+
   syncFilterUI();
   renderPlates();
   if (arranging) {
     $("rail").querySelectorAll(".card").forEach(el => el.draggable = true);
     paintLift();
   }
+}
+
+/* There are four decks - good, bad, the combined one and the groups - and you
+   can only ever see one of them. Building all four up front put two and a half
+   thousand cards and twenty-eight thousand nodes into the document to show
+   about twenty, and that is what made a phone crawl: measured on a throttled
+   phone, scrolling cost 1.8 seconds of blocked main thread with all four built
+   and 50 milliseconds with one. So a deck builds its cards the first time it is
+   needed, and drawNear() builds the one you are swiping towards the moment the
+   rail moves, which is well before it is on screen. At rest the document holds
+   one deck. */
+const gridDrawn = {};
+
+function drawGrid(k) {
+  if (!k || gridDrawn[k] || !decks[k]) return;
+  const mine = decks[k];
+  gridDrawn[k] = true;
+
+  $("grid-" + k).innerHTML = SIDE_MODE[k] === "sections"
+      ? (SECTIONS || (SECTIONS = buildSections()))
+          .map(sc => {
+            // Inside a section, the order of the combined deck - which puts the
+            // customs in front of the licensed figures and keeps the ladder.
+            const rank = new Map((decks.total || FIGS).map((f, n) => [f._i, n]));
+            const inside = sc.figs.filter(f => mine.some(m => m._i === f._i))
+              .sort((a, b) => (rank.get(a._i) ?? 1e9) - (rank.get(b._i) ?? 1e9));
+            if (!inside.length) return ``;
+            return `<div class="sec">${esc(sc.name)}<b>${inside.length}</b></div>`
+                 + inside.map(card).join("");
+          }).join("")
+      : sections(mine).map(run =>
+          (run.label ? `<div class="sec">${run.label}<b>${run.items.length}</b></div>` : ``)
+          + run.items.map(card).join("")
+        ).join("");
+
+  if (arranging) $("grid-" + k).querySelectorAll(".card").forEach(el => el.draggable = true);
+}
+
+// The deck on screen, and - once a swipe has started - the one it is heading
+// for. Standing still these are the same deck, so nothing extra is built.
+function drawNear() {
+  const r = $("rail");
+  const w = r.clientWidth || 1;
+  const f = r.scrollLeft / w;
+  drawGrid(SIDES[Math.floor(f)]);
+  drawGrid(SIDES[Math.ceil(f)]);
 }
 
 /* ---- which deck is on screen ---- */
@@ -1210,7 +1263,7 @@ $("sides").addEventListener("click", e => {
   $("rail").addEventListener("scroll", () => {
     if (queued) return;
     queued = true;
-    requestAnimationFrame(() => { queued = false; syncSideUI(); condense(); });
+    requestAnimationFrame(() => { queued = false; drawNear(); syncSideUI(); condense(); });
   }, { passive: true });
 })();
 
@@ -1263,7 +1316,7 @@ function card(f) {
     const cover = photos(f)[0];
     return `<button class="card${MOVED.has(f.id) ? " moved" : ""}" data-i="${f._i}" data-id="${esc(f.id)}">
       <div class="shot side-${esc(f.faction)}">
-        ${cover ? `<img src="${esc(cover.src)}" alt="${esc(f.name)}" loading="lazy">`
+        ${cover ? small(cover.src, f.name)
                 : `<span class="empty">NO PHOTO YET</span>`}
         <span class="num" title="Entry ${f._i + 1}">${f._i + 1}</span>
         ${f.origin === "custom"
@@ -1317,13 +1370,12 @@ function renderPlates() {
       const cover = plateShot(p.fig);
       return `<button class="plate" data-i="${p.fig._i}">
         <span class="frame">${cover
-          ? `<img src="${esc(cover.src)}" alt="" loading="lazy">`
+          ? small(cover.src)
           : `<span class="minidash">—</span>`}</span>
         <b>${esc(p.fig.name)}</b>
         <i>${esc(p.why || "")}</i>
       </button>`;
     }).join("");
-    fitShots($("platestrip-" + k));
     platesDrawn[k] = true;
   }
 }
@@ -1352,6 +1404,8 @@ function markWide(img) {
     img.classList.toggle("wide", img.naturalWidth > img.naturalHeight);
   }
 }
+// Only the open figure's own photographs go through this now - a handful at a
+// time. The grids take their answer from data/wide.js instead.
 function fitShots(root) {
   if (!root) return;
   root.querySelectorAll(".shot img, .minishot img, .plate .frame img").forEach(img => {
@@ -1496,8 +1550,7 @@ function openLore() {
           <p>${esc(n.text)}</p>
           ${(n.images || []).length ? `<div class="reel">${n.images.map(im => `
             <figure>
-              <img src="${esc(im.src)}" alt="${esc(im.caption || n.title)}"
-                   loading="lazy" decoding="async">
+              ${small(im.src, im.caption || n.title)}
               ${im.caption ? `<figcaption>${esc(im.caption)}</figcaption>` : ``}
             </figure>`).join("")}</div>` : ``}
         </section>`).join("")}

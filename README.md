@@ -244,7 +244,21 @@ software staying alive around it, and every change is backed up in git history.
 
 ## Deploying
 
-After changing `data/collection.js`, `data/lore.js` or `data/featured.js`, run:
+After adding or replacing any image, run:
+
+    python3 tools/thumbs.py
+
+Every photograph here is about 901x1600 and a card in the grid is roughly a
+hundred pixels wide on a phone, so the grids load 480-pixel copies out of
+`images/thumbs/` instead of the originals - the full file is still what opens
+when you tap a figure. That script writes any thumbnail that is missing or out
+of date, and also writes `data/wide.js`, the list of landscape images, which is
+how the grid knows to fit those inside their tile rather than filling it. A
+figure whose thumbnail is missing still shows, falling back to the full image,
+so forgetting this makes the site slow rather than broken.
+
+After changing `data/collection.js`, `data/lore.js`, `data/museum.js` or
+`data/featured.js`, run:
 
     cd tools && node make-summary.js > ../SUMMARY.md && node stamp.js
 
