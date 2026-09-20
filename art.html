@@ -200,7 +200,7 @@
 
 <dialog id="viewer"></dialog>
 
-<script src="data/collection.js?v=1789936532"></script>
+<script src="data/collection.js?v=1789936658"></script>
 <script>
 /* ---- the gallery ---------------------------------------------------------
 
@@ -220,11 +220,48 @@ const thumb = s => String(s ?? "").replace(/^images\//, "images/thumbs/")
                                   .replace(/\.(png|jpeg)$/i, ".jpg");
 let curSizes = "(max-width:640px) 100vw, 320px";
 const applySizes = root =>
-  root.querySelectorAll("img[srcset]").forEach(i => { i.sizes = curSizes; });
+  root.querySelectorAll("img[srcset], img[data-srcset]")
+      .forEach(i => { i.sizes = curSizes; });
 const framed = (src, alt) =>
-  `<img src="${esc(thumb(src))}" srcset="${esc(thumb(src))} 320w, ${esc(src)} 1024w"
-        sizes="${esc(curSizes)}" alt="${esc(alt || "")}" loading="lazy" decoding="async"
+  `<img data-src="${esc(thumb(src))}" data-srcset="${esc(thumb(src))} 320w, ${esc(src)} 1024w"
+        sizes="${esc(curSizes)}" alt="${esc(alt || "")}" decoding="async"
         onerror="this.onerror=null;this.removeAttribute('srcset');this.src='${esc(src)}'">`;
+
+/* Why the src is withheld above and handed over by hand below.
+
+   Safari on iPad never loads a lazily-loaded image that sits inside a
+   content-visibility:auto subtree. While a piece is skipped nothing inside it
+   is laid out, so the painting has no box, so the browser's own lazy-loading
+   has nothing to measure and the request is never made: the frame stays empty
+   however far you scroll. The piece itself has a box, because
+   contain-intrinsic-block-size gives it one, so watch that and hand the
+   painting its src as the piece comes near the screen. The catalogue page has
+   the same problem with its photographs and the same answer. */
+const give = el => {
+  const imgs = el.tagName === "IMG" ? [el] : el.querySelectorAll("img[data-src]");
+  for (const img of imgs) {
+    if (!img.dataset.src) continue;
+    if (img.dataset.srcset) { img.srcset = img.dataset.srcset; delete img.dataset.srcset; }
+    img.src = img.dataset.src;
+    delete img.dataset.src;
+  }
+};
+const LAZY = "IntersectionObserver" in window
+  ? new IntersectionObserver((rows, obs) => {
+      for (const r of rows) if (r.isIntersecting) { obs.unobserve(r.target); give(r.target); }
+    }, { rootMargin: "1200px 0px" })
+  : null;
+function watchLazy(root) {
+  if (!root) return;
+  if (!LAZY) return give(root);
+  const seen = new Set();
+  for (const img of root.querySelectorAll("img[data-src]")) {
+    const holder = img.closest(".piece") || img;
+    if (seen.has(holder)) continue;
+    seen.add(holder);
+    LAZY.observe(holder);
+  }
+}
 
 const photos = f => (f.images || []).map(x =>
   typeof x === "string" ? { src: x, caption: "" } : x);
@@ -269,11 +306,12 @@ function draw() {
             <h2>${esc(p.fig.name)}</h2>
             ${subtitle(p.fig) ? `<p>${esc(subtitle(p.fig))}</p>` : ``}
           </span>
-          ${p.shot ? `<img class="thumb" src="${esc(thumb(p.shot.src))}" alt="" loading="lazy" decoding="async">` : ``}
+          ${p.shot ? `<img class="thumb" data-src="${esc(thumb(p.shot.src))}" alt="" decoding="async">` : ``}
         </figcaption>
       </figure>`).join("")
     : `<p class="empty">No paintings yet.</p>`;
   applySizes(gallery);
+  watchLazy(gallery);
 }
 draw();
 

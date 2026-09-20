@@ -598,12 +598,12 @@
 
 <dialog id="detail"></dialog>
 
-<script src="data/collection.js?v=1789936532"></script>
-<script src="data/scenes.js?v=1789936532"></script>
-<script src="data/lore.js?v=1789936532"></script>
-<script src="data/featured.js?v=1789936532"></script>
-<script src="data/order.js?v=1789936532"></script>
-<script src="data/wide.js?v=1789936532"></script>
+<script src="data/collection.js?v=1789936658"></script>
+<script src="data/scenes.js?v=1789936658"></script>
+<script src="data/lore.js?v=1789936658"></script>
+<script src="data/featured.js?v=1789936658"></script>
+<script src="data/order.js?v=1789936658"></script>
+<script src="data/wide.js?v=1789936658"></script>
 <script>
 const FIGS = (window.COLLECTION || []).map((f, i) => ({ ...f, _i: i }));
 const state = { q:"", origin:"all", theme:"all", role:"all", group:"all", sort:"shape" };
@@ -645,9 +645,50 @@ const thumb = s => String(s ?? "").replace(/^images\//, "images/thumbs/")
    the seventeen group shots. */
 const WIDE = new Set(window.WIDE || []);
 const small = (src, alt) =>
-  `<img src="${esc(thumb(src))}" alt="${esc(alt || "")}"${WIDE.has(src) ? ' class="wide"' : ""}
-        loading="lazy" decoding="async"
-        onerror="this.onerror=null;this.src='${esc(src)}'">`;
+  `<img data-src="${esc(thumb(src))}" data-full="${esc(src)}" alt="${esc(alt || "")}"${WIDE.has(src) ? ' class="wide"' : ""}
+        decoding="async"
+        onerror="this.onerror=null;this.src=this.dataset.full">`;
+
+/* Why the src is withheld above and handed over by hand below.
+
+   Safari on iPad never loads a lazily-loaded image that sits inside a
+   content-visibility:auto subtree. While a card is skipped nothing inside it is
+   laid out, so the photograph has no box, so the browser's own lazy-loading has
+   nothing to measure and the request is simply never made - the tile stands
+   there empty however far you scroll, which is what a whole deck of blank cards
+   on an iPad turned out to be. The card itself does have a box, because
+   contain-intrinsic-block-size gives it one, so watch the card rather than the
+   photograph and hand the photograph its src as the card comes near the screen.
+   The same saving loading="lazy" was there for, without the part of it that
+   only works in Chromium. */
+const give = el => {
+  const imgs = el.tagName === "IMG" ? [el] : el.querySelectorAll("img[data-src]");
+  for (const img of imgs) {
+    if (!img.dataset.src) continue;
+    img.src = img.dataset.src;
+    delete img.dataset.src;
+  }
+};
+const LAZY = "IntersectionObserver" in window
+  ? new IntersectionObserver((rows, obs) => {
+      for (const r of rows) if (r.isIntersecting) { obs.unobserve(r.target); give(r.target); }
+    }, { rootMargin: "900px 600px" })
+  : null;
+// Watch every photograph under root. A card is watched whole, because while it
+// is off screen its contents are not laid out at all; anything else - a plate, a
+// connection chip - has a box of its own and is watched directly. With no
+// observer to be had, everything is simply fetched.
+function watchLazy(root) {
+  if (!root) return;
+  if (!LAZY) return give(root);
+  const seen = new Set();
+  for (const img of root.querySelectorAll("img[data-src]")) {
+    const holder = img.closest(".card") || img;
+    if (seen.has(holder)) continue;
+    seen.add(holder);
+    LAZY.observe(holder);
+  }
+}
 // images may be a plain path or {src, caption} — normalise both to objects
 const photos = f => (f.images || []).map(x =>
   typeof x === "string" ? { src: x, caption: "" } : x);
@@ -1245,6 +1286,7 @@ function drawGrid(k) {
           + run.items.map(card).join("")
         ).join("");
 
+  watchLazy($("grid-" + k));
   if (arranging) $("grid-" + k).querySelectorAll(".card").forEach(el => el.draggable = true);
 }
 
@@ -1395,6 +1437,7 @@ function renderPlates() {
         <i>${esc(p.why || "")}</i>
       </button>`;
     }).join("");
+    watchLazy($("platestrip-" + k));
     platesDrawn[k] = true;
   }
 }
@@ -1428,7 +1471,9 @@ function markWide(img) {
 function fitShots(root) {
   if (!root) return;
   root.querySelectorAll(".shot img, .minishot img, .plate .frame img").forEach(img => {
-    if (img.complete) markWide(img);
+    // An image still waiting for its src reports complete - an <img> with no
+    // source is complete by definition - so measure only one that has arrived.
+    if (img.complete && img.currentSrc) markWide(img);
     else img.addEventListener("load", () => markWide(img), { once: true });
   });
 }
@@ -1551,6 +1596,7 @@ function open(f) {
     </div>`;
   if (!$("detail").open) $("detail").showModal();
   $("detail").scrollTop = 0;
+  watchLazy($("detail"));
   fitShots($("detail"));
   showImg(0);
 }
@@ -1576,6 +1622,7 @@ function openLore() {
     </div>`;
   if (!$("detail").open) $("detail").showModal();
   $("detail").scrollTop = 0;
+  watchLazy($("detail"));
 }
 
 function openScenes() {
@@ -1600,6 +1647,7 @@ function openScenes() {
     </div>`;
   if (!$("detail").open) $("detail").showModal();
   $("detail").scrollTop = 0;
+  watchLazy($("detail"));
   fitShots($("detail"));
 }
 
