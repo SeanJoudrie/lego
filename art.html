@@ -91,14 +91,11 @@
     .seg button, .shuffle { padding:7px 10px; font-size:12px; letter-spacing:.02em; }
   }
 
-  /* 25 paintings at a megabyte a piece: keep the ones off-screen cheap. The
-     placeholder size is set on the block axis only - the two-value shorthand
-     also hands the skipped element an intrinsic WIDTH, which a 1fr column then
-     sizes itself to, and the whole page scrolls sideways on a phone. */
-  .piece {
-    margin:0; content-visibility:auto;
-    contain-intrinsic-block-size:auto var(--piece-h, 560px);
-  }
+  /* This used to carry content-visibility:auto so the paintings off screen
+     cost nothing. Gone, for the same reason the catalogue's cards lost it: on
+     an iPad no picture inside a skipped subtree ever appeared. The thumbnails
+     in images/thumbs/ are what made this page cheap, not the skipping. */
+  .piece { margin:0; }
   /* One across is for looking at one painting at a time, not for filling a
      wide screen with a single canvas: cap it and stand it in the middle. */
   .gallery.one .piece { max-width:760px; margin-inline:auto; }
@@ -220,48 +217,11 @@ const thumb = s => String(s ?? "").replace(/^images\//, "images/thumbs/")
                                   .replace(/\.(png|jpeg)$/i, ".jpg");
 let curSizes = "(max-width:640px) 100vw, 320px";
 const applySizes = root =>
-  root.querySelectorAll("img[srcset], img[data-srcset]")
-      .forEach(i => { i.sizes = curSizes; });
+  root.querySelectorAll("img[srcset]").forEach(i => { i.sizes = curSizes; });
 const framed = (src, alt) =>
-  `<img data-src="${esc(thumb(src))}" data-srcset="${esc(thumb(src))} 320w, ${esc(src)} 1024w"
-        sizes="${esc(curSizes)}" alt="${esc(alt || "")}" decoding="async"
+  `<img src="${esc(thumb(src))}" srcset="${esc(thumb(src))} 320w, ${esc(src)} 1024w"
+        sizes="${esc(curSizes)}" alt="${esc(alt || "")}" loading="lazy" decoding="async"
         onerror="this.onerror=null;this.removeAttribute('srcset');this.src='${esc(src)}'">`;
-
-/* Why the src is withheld above and handed over by hand below.
-
-   Safari on iPad never loads a lazily-loaded image that sits inside a
-   content-visibility:auto subtree. While a piece is skipped nothing inside it
-   is laid out, so the painting has no box, so the browser's own lazy-loading
-   has nothing to measure and the request is never made: the frame stays empty
-   however far you scroll. The piece itself has a box, because
-   contain-intrinsic-block-size gives it one, so watch that and hand the
-   painting its src as the piece comes near the screen. The catalogue page has
-   the same problem with its photographs and the same answer. */
-const give = el => {
-  const imgs = el.tagName === "IMG" ? [el] : el.querySelectorAll("img[data-src]");
-  for (const img of imgs) {
-    if (!img.dataset.src) continue;
-    if (img.dataset.srcset) { img.srcset = img.dataset.srcset; delete img.dataset.srcset; }
-    img.src = img.dataset.src;
-    delete img.dataset.src;
-  }
-};
-const LAZY = "IntersectionObserver" in window
-  ? new IntersectionObserver((rows, obs) => {
-      for (const r of rows) if (r.isIntersecting) { obs.unobserve(r.target); give(r.target); }
-    }, { rootMargin: "1200px 0px" })
-  : null;
-function watchLazy(root) {
-  if (!root) return;
-  if (!LAZY) return give(root);
-  const seen = new Set();
-  for (const img of root.querySelectorAll("img[data-src]")) {
-    const holder = img.closest(".piece") || img;
-    if (seen.has(holder)) continue;
-    seen.add(holder);
-    LAZY.observe(holder);
-  }
-}
 
 const photos = f => (f.images || []).map(x =>
   typeof x === "string" ? { src: x, caption: "" } : x);
@@ -306,12 +266,11 @@ function draw() {
             <h2>${esc(p.fig.name)}</h2>
             ${subtitle(p.fig) ? `<p>${esc(subtitle(p.fig))}</p>` : ``}
           </span>
-          ${p.shot ? `<img class="thumb" data-src="${esc(thumb(p.shot.src))}" alt="" decoding="async">` : ``}
+          ${p.shot ? `<img class="thumb" src="${esc(thumb(p.shot.src))}" alt="" loading="lazy" decoding="async">` : ``}
         </figcaption>
       </figure>`).join("")
     : `<p class="empty">No paintings yet.</p>`;
   applySizes(gallery);
-  watchLazy(gallery);
 }
 draw();
 
@@ -324,16 +283,10 @@ draw();
    clears it again and hands the width back to the grid. The choice is kept.
 */
 const across = document.getElementById("across");
-const PLACEHOLDER = { 1: "1200px", 2: "840px", 3: "640px" };
 
 function applyAcross(n) {
-  if (n) {
-    gallery.style.gridTemplateColumns = `repeat(${n}, minmax(0, 1fr))`;
-    gallery.style.setProperty("--piece-h", PLACEHOLDER[n]);
-  } else {
-    gallery.style.gridTemplateColumns = "";
-    gallery.style.removeProperty("--piece-h");
-  }
+  if (n) gallery.style.gridTemplateColumns = `repeat(${n}, minmax(0, 1fr))`;
+  else   gallery.style.gridTemplateColumns = "";
   // A one-across frame is 760px wide and wants the real file; anything
   // narrower is served fine by the thumb.
   curSizes = n === 1 ? "760px" : n === 2 ? "50vw" : n === 3 ? "33vw"

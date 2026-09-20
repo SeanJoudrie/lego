@@ -24,7 +24,24 @@ const stamp = Math.max(
 
 const TAG = /(<script src="data\/(?:collection|scenes|lore|featured|order|museum|wide)\.js)(\?v=\d+)?("><\/script>)/g;
 
+// check.html carries no data at all - it is the diagnostic page - but it prints
+// the stamp so a screenshot of it says which deploy is being looked at.
+const BUILT = /const BUILT = "v=(?:STAMP|\d+)";/;
+
 let wrote = 0;
+{
+  const file = path.join(root, "check.html");
+  if (fs.existsSync(file)) {
+    const html = fs.readFileSync(file, "utf8");
+    if (!BUILT.test(html)) {
+      console.error("stamp: check.html has lost its BUILT line");
+      process.exit(1);
+    }
+    const out = html.replace(BUILT, `const BUILT = "v=${stamp}";`);
+    if (out !== html) { fs.writeFileSync(file, out); wrote++; }
+  }
+}
+
 for (const [page, expected] of PAGES) {
   const file = path.join(root, page);
   const html = fs.readFileSync(file, "utf8");

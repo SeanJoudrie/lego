@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Picture check</title>
+<style>
+  /* Built to be read off a photograph of a screen taken in a dark room: black
+     on white, big, short lines, and a verdict word you can read at a glance. */
+  * { box-sizing:border-box; }
+  body {
+    margin:0; padding:16px 16px 60px; background:#fff; color:#000;
+    font:17px/1.45 -apple-system, "Helvetica Neue", Arial, sans-serif;
+    -webkit-text-size-adjust:100%;
+  }
+  h1 { font-size:24px; margin:0 0 2px; }
+  .sub { color:#555; font-size:14px; margin:0 0 16px; }
+  h2 { font-size:15px; letter-spacing:.08em; text-transform:uppercase;
+       margin:22px 0 8px; padding-bottom:4px; border-bottom:2px solid #000; }
+  .row { display:flex; gap:10px; align-items:baseline; padding:5px 0;
+         border-bottom:1px solid #ddd; }
+  .row .what { flex:1 1 auto; min-width:0; }
+  .row .verdict { flex:0 0 auto; font-weight:700; font-size:17px; }
+  .yes { color:#0a7d2b; }
+  .no  { color:#c00; }
+  .note { color:#555; font-size:13px; }
+  code, .mono { font-family:ui-monospace, Menlo, Consolas, monospace; font-size:13px;
+                word-break:break-all; }
+  .big { font-size:20px; font-weight:700; }
+  .pics { display:flex; gap:10px; flex-wrap:wrap; margin-top:10px; }
+  .pics figure { margin:0; width:110px; }
+  .pics img { display:block; width:110px; height:auto; border:2px solid #000;
+              background:#eee; min-height:40px; }
+  .pics figcaption { font-size:12px; margin-top:3px; }
+  .tile { width:110px; }
+  /* deliberately the shape the catalogue's tiles are, sized the same way */
+  .flexbox { display:flex; flex-direction:column; width:110px; }
+  .ratio { aspect-ratio:4/5; background:#eee; position:relative; }
+  .ratio img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .pad { padding-top:125%; background:#eee; position:relative; }
+  .pad img { position:absolute; top:0; left:0; right:0; bottom:0;
+             width:100%; height:100%; object-fit:cover; }
+  .cv { content-visibility:auto; contain-intrinsic-block-size:auto 140px; }
+  #ua { font-size:12px; color:#333; }
+</style>
+</head>
+<body>
+
+<h1>Picture check</h1>
+<p class="sub">Nothing here changes the catalogue. It only reports what this
+browser does. Screenshot the whole page and send it.</p>
+
+<h2>Which build this is</h2>
+<div class="row"><span class="what">Page built</span>
+  <span class="verdict mono" id="built">—</span></div>
+<div class="row"><span class="what">Loaded at</span>
+  <span class="verdict mono" id="now">—</span></div>
+
+<h2>Can it fetch a picture at all</h2>
+<div id="loads"></div>
+
+<h2>What the browser supports</h2>
+<div id="feats"></div>
+
+<h2>Tile shapes</h2>
+<div class="pics" id="tiles"></div>
+
+<h2>Pictures, actual size</h2>
+<div class="pics" id="pics"></div>
+
+<h2>This browser</h2>
+<p id="ua" class="mono">—</p>
+<p id="net" class="mono">—</p>
+
+<script>
+/* The build stamp: the query string the catalogue puts on its data files is
+   written here too, so a screenshot says which deploy is being looked at. */
+const BUILT = "v=1789936658";
+document.getElementById("built").textContent = BUILT;
+document.getElementById("now").textContent =
+  new Date().toTimeString().slice(0, 8);
+
+const row = (host, what, verdict, good, note) => {
+  const d = document.createElement("div");
+  d.className = "row";
+  d.innerHTML = '<span class="what"></span><span class="verdict"></span>';
+  d.children[0].textContent = what;
+  if (note) {
+    const n = document.createElement("div");
+    n.className = "note mono";
+    n.textContent = note;
+    d.children[0].appendChild(n);
+  }
+  d.children[1].textContent = verdict;
+  d.children[1].className = "verdict " + (good ? "yes" : "no");
+  document.getElementById(host).appendChild(d);
+  return d;
+};
+
+/* ---- can it fetch a picture --------------------------------------------- */
+
+const THUMB = "images/thumbs/the-first-man-01.jpg";
+const FULL  = "images/the-first-man-01.jpg";
+
+// Each of these is a different way of asking for the same photograph. Whichever
+// ones say NO are the ones that are broken on this browser.
+const trials = [
+  ["the full photograph, plain",        FULL,  {}],
+  ["a thumbnail, plain",                THUMB, {}],
+  ["a thumbnail, loading=lazy",         THUMB, { loading: "lazy" }],
+  ["a thumbnail, fetched as bytes",     THUMB, { byFetch: true }],
+  ["a thumbnail inside content-visibility", THUMB, { loading: "lazy", cv: true }],
+  ["a thumbnail, src set by an observer",   THUMB, { byObserver: true }],
+];
+
+let pending = trials.length;
+const settle = (d, ok, why) => {
+  d.children[1].textContent = ok ? "YES" : "NO";
+  d.children[1].className = "verdict " + (ok ? "yes" : "no");
+  const n = d.children[0].querySelector(".note");
+  if (n) n.textContent = why;
+  if (--pending === 0) {
+    const bad = [...document.querySelectorAll("#loads .verdict")]
+      .filter(v => v.textContent === "NO").length;
+    const h = document.createElement("p");
+    h.className = "big";
+    h.textContent = bad ? bad + " of " + trials.length + " ways failed"
+                        : "all " + trials.length + " ways worked";
+    h.style.color = bad ? "#c00" : "#0a7d2b";
+    document.getElementById("loads").appendChild(h);
+  }
+};
+
+for (const [label, src, how] of trials) {
+  const d = row("loads", label, "…", true, "waiting");
+  const box = document.createElement("div");
+  if (how.cv) box.className = "cv";
+  box.style.cssText += ";width:1px;height:1px;overflow:hidden;position:absolute;left:-9999px";
+  const img = new Image();
+  if (how.loading) img.loading = how.loading;
+  img.onload  = () => settle(d, img.naturalWidth > 0,
+                   img.naturalWidth + "x" + img.naturalHeight);
+  img.onerror = () => settle(d, false, "the request failed");
+  box.appendChild(img);
+  document.body.appendChild(box);
+  if (how.byFetch) {
+    // Straight to the network, no <img> involved: this separates "the device
+    // cannot get the file" from "the device gets it but will not show it".
+    fetch(src, { cache: "no-store" })
+      .then(r => r.ok ? r.blob() : Promise.reject(new Error("HTTP " + r.status)))
+      .then(b => settle(d, b.size > 0, b.size + " bytes, " + (b.type || "no type")))
+      .catch(e => settle(d, false, String(e.message || e)));
+  } else if (how.byObserver) {
+    if (!("IntersectionObserver" in window)) settle(d, false, "no IntersectionObserver");
+    else {
+      let fired = false;
+      new IntersectionObserver((rows, obs) => {
+        fired = true;
+        for (const r of rows) { obs.unobserve(r.target); img.src = src; }
+      }, { rootMargin: "2000px" }).observe(box);
+      setTimeout(() => { if (!fired) settle(d, false, "the observer never fired"); }, 4000);
+    }
+  } else {
+    img.src = src;
+  }
+}
+// Anything still waiting after eight seconds is a failure in itself.
+setTimeout(() => {
+  for (const d of document.querySelectorAll("#loads .row"))
+    if (d.children[1].textContent === "…") settle(d, false, "never answered");
+}, 8000);
+
+/* ---- feature support ----------------------------------------------------- */
+
+const sup = (prop, val) => { try { return CSS.supports(prop, val); } catch (_) { return false; } };
+const feats = [
+  ["aspect-ratio",              sup("aspect-ratio", "4/5")],
+  ["content-visibility: auto",  sup("content-visibility", "auto")],
+  ["contain-intrinsic-block-size", sup("contain-intrinsic-block-size", "auto 100px")],
+  ["inset: 0",                  sup("inset", "0")],
+  ["color-mix()",               sup("color", "color-mix(in srgb, red 50%, blue)")],
+  ["loading=\"lazy\" on images", "loading" in HTMLImageElement.prototype],
+  ["IntersectionObserver",      "IntersectionObserver" in window],
+  ["<dialog>",                  typeof HTMLDialogElement === "function"],
+];
+for (const [what, ok] of feats) row("feats", what, ok ? "YES" : "NO", ok);
+
+/* ---- tile shapes: does a tile stand up, and how tall ---------------------- */
+
+const tiles = document.getElementById("tiles");
+tiles.innerHTML = `
+  <figure><div class="flexbox"><div class="ratio" id="t1"><img src="${THUMB}" alt=""></div></div>
+    <figcaption>aspect-ratio<br><b id="h1">—</b></figcaption></figure>
+  <figure><div class="flexbox"><div class="pad" id="t2"><img src="${THUMB}" alt=""></div></div>
+    <figcaption>padding 125%<br><b id="h2">—</b></figcaption></figure>`;
+setTimeout(() => {
+  for (const [box, out] of [["t1","h1"],["t2","h2"]]) {
+    const h = Math.round(document.getElementById(box).getBoundingClientRect().height);
+    const el = document.getElementById(out);
+    el.textContent = h + "px tall";
+    el.className = h > 100 ? "yes" : "no";
+  }
+}, 600);
+
+/* ---- something to look at ------------------------------------------------ */
+
+document.getElementById("pics").innerHTML = `
+  <figure><img src="${FULL}" alt=""><figcaption>full file</figcaption></figure>
+  <figure><img src="${THUMB}" alt=""><figcaption>thumbnail</figcaption></figure>
+  <figure><img src="images/thumbs/the-green-demigod-01.jpg" alt=""><figcaption>another thumbnail</figcaption></figure>`;
+
+document.getElementById("ua").textContent = navigator.userAgent;
+const c = navigator.connection || {};
+document.getElementById("net").textContent =
+  "saveData=" + (c.saveData === undefined ? "?" : c.saveData) +
+  "  type=" + (c.effectiveType || "?") +
+  "  dpr=" + (window.devicePixelRatio || "?") +
+  "  window=" + innerWidth + "x" + innerHeight;
+</script>
+</body>
+</html>
