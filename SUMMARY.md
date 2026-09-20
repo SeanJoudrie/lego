@@ -1758,6 +1758,8 @@ He fights monsters, and anything else put in front of him. Extremely brave, and 
 
 He trained alongside the Snow Jedi's other Padawan. They were friendly rivals, and in the end they were friends. His death hit him hard.
 
+He fights with two sabers, one blue and one green.
+
 *Connections:* Trained by The Snow Jedi · Friendly rival of The Second Padawan · Constantly fought The Purple Shadow
 
 *Tags:* jedi, ancient-soul, reborn, brave, monster-slayer, willpower
@@ -6400,7 +6402,7 @@ A bounty hunter, and a captain of them.
 
 Brother to the mercenary who leads the aliens. He has bionic legs and super strength, which makes him made for close work - hand to hand is where he is at his best.
 
-*How it was got:* A pale green face with red eyes, two lower fangs and a scar hooked down one cheek, under a swept ginger hairpiece. Pale green torso printed with a gold X harness and a gold disc at the chest, green arms and a green hand. White armoured legs plated in silver.
+*How it was got:* A pale green face with red eyes, two lower fangs and a scar hooked down one cheek, under a swept ginger hairpiece. Pale green torso printed with a gold X harness and a gold disc at the chest, green arms and green hands - the left arm is off the figure in this photograph rather than missing from the man. White armoured legs plated in silver.
 
 *Connections:* Brother of The Lead Alien Mercenary
 

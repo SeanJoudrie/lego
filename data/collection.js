@@ -2358,7 +2358,8 @@ window.COLLECTION = [
       "brave, and enormously strong in both the Force and in plain willpower. " +
       "Not the sharpest — but the bravery covers a lot of ground.\n\n" +
       "He trained alongside the Snow Jedi's other Padawan. They were friendly " +
-      "rivals, and in the end they were friends. His death hit him hard.",
+      "rivals, and in the end they were friends. His death hit him hard.\n\n" +
+      "He fights with two sabers, one blue and one green.",
     provenance: "",
     tags: ["jedi", "ancient-soul", "reborn", "brave", "monster-slayer", "willpower"],
     images: [
@@ -2367,7 +2368,7 @@ window.COLLECTION = [
       { src: "images/scenes/the-killing-of-the-second-padawan.jpg", caption: "The night the Second Padawan was killed" },
     ],
     acquired: "",
-    notes: "Named for the Beowulf and Skyrim energy you described.\n\nConcept art added, and it answers something his card only implies. He fights monsters, so the piece puts him underground - a dripping cave with the light coming from a long way up - and it gives him two sabers, one blue and one green. Nothing here has ever said he carries two. Say whether that is right and the card takes it.\n\nHe is in the painting of the Second Padawan's killing, on that card - the silhouette in the doorway, arrived a beat too late, both hilts still on his belt. His card says the loss hit him hard, and that is the moment it happened."
+    notes: "Named for the Beowulf and Skyrim energy you described.\n\nConcept art added, and it answers something his card only implies. He fights monsters, so the piece puts him underground - a dripping cave with the light coming from a long way up - and it gives him two sabers, one blue and one green. Nothing had ever said he carries two, and it is right: he does, and the card has taken it. Both are on his belt and undrawn in the painting of the Second Padawan's killing, which is the one night he did not get to use them.\n\nHe is in the painting of the Second Padawan's killing, on that card - the silhouette in the doorway, arrived a beat too late, both hilts still on his belt. His card says the loss hit him hard, and that is the moment it happened."
   },
 
   {
@@ -13864,15 +13865,16 @@ window.COLLECTION = [
     provenance:
       "A pale green face with red eyes, two lower fangs and a scar hooked down " +
       "one cheek, under a swept ginger hairpiece. Pale green torso printed " +
-      "with a gold X harness and a gold disc at the chest, green arms and a " +
-      "green hand. White armoured legs plated in silver.",
+      "with a gold X harness and a gold disc at the chest, green arms and green " +
+      "hands - the left arm is off the figure in this photograph rather than " +
+      "missing from the man. White armoured legs plated in silver.",
     tags: ["villain", "bionic", "prosthetic", "super-strength", "hand-to-hand", "alien", "brother"],
     images: [
       { src: "images/the-bionic-brother-01.jpg", caption: "The figure" },
       { src: "images/the-bionic-brother-02.jpg", caption: "Concept art" },
     ],
     acquired: "",
-    notes: "Linked to the Lead Alien Mercenary as his brother on the strength of the description - green skin and golden hair is that man exactly, and nothing else here matches both. If you meant somebody else, one word moves it. His legs are the sixth body modification worn as history in this collection, and they arrive in the same batch as the man whose team makes them; no line is written between those two, because you have not drawn one.\n\nHis painting leads with the legs, which is what this card is about: white and chrome from the hip down, polished bright, and the only shine in a picture that is otherwise matte. Everything above them is the plastic - the swept ginger hair, the red eyes, the two lower fangs, the hooked scar, the gold X harness with its disc and triangle, the gold clasp at the waist, and the four barbed sprays tattooed into the green skin either side of the straps. It adds gold cuffs at both wrists, which the figure does not have.\n\nStill open: there is no left arm in the photograph. It may be off rather than gone, and the painting assumes off and gives him both. If it is gone, say so - a one-armed brawler on two bionic legs is a different man, and this card would want a line about it."
+    notes: "Linked to the Lead Alien Mercenary as his brother on the strength of the description - green skin and golden hair is that man exactly, and nothing else here matches both. If you meant somebody else, one word moves it. His legs are the sixth body modification worn as history in this collection, and they arrive in the same batch as the man whose team makes them; no line is written between those two, because you have not drawn one.\n\nHis painting leads with the legs, which is what this card is about: white and chrome from the hip down, polished bright, and the only shine in a picture that is otherwise matte. Everything above them is the plastic - the swept ginger hair, the red eyes, the two lower fangs, the hooked scar, the gold X harness with its disc and triangle, the gold clasp at the waist, and the four barbed sprays tattooed into the green skin either side of the straps. It adds gold cuffs at both wrists, which the figure does not have.\n\nSettled: he has both arms. The left one is simply off the figure in that photograph, and the painting is right to give him two."
   },
 
 
