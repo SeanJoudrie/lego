@@ -991,17 +991,25 @@ The Prince's two sons have taken a real shining to him and think he's the cooles
 
 He's based in Lego City — the giant, expensive city that exists in this universe — and he's in charge of all the police there.
 
-A former sniper, and still a great shot. He's got a little old, so he has a protege, a Padawan. In this world Padawan just means apprentice; it doesn't have anything to do with the Force.
+He is thirty-eight to forty-two. Not old: a positive man, well into his prime, with brown hair under the helmet. He is above a colonel, and he is extremely important. He spends most of his time in the palace, consulting with the Prince, and he is the kind of officer who gives press conferences on television in this outfit. He is not in combat.
+
+A former sniper, and still a great shot. He has a protege, a Padawan. In this world Padawan just means apprentice; it doesn't have anything to do with the Force.
 
 He's in charge of anti-terrorism, fortifications, and overall planning, and he regularly volunteers to go fight whatever bad thing is on its way.
 
+He is immaculate. In this world clothes are always clean and pressed, and he is the cleanest of them: a brown formal button-up with a black tie hidden underneath, a heavier coat over that — not a suit jacket, something with weight to it, cut to keep the heat off and still finely pressed — and the thick grey vest and the gear on top of that, all of it neat. He is senior enough that no uniform is prescribed for him at all. He only has to dress respectfully, so the coat can be whatever colour he likes.
+
+The helmet is an officer's helmet: an actual one you could wear into combat, bulletproof, and mostly decorative — the sort a tourist stops to photograph. Every guard under him wears one in brown. His carries a band of solid gold, standing a little off the shell, and the gold is the rank. It means he is the one in charge. It is not goggles.
+
+He wears a gold sash for the same reason. The man who betrayed him wore a black one.
+
 *How it was got:* Brown headpiece from a Lego Indiana Jones pilot. The gold visor is from Lego Mars Mission. Face from Lego Space Police. Torso possibly Naboo. One further piece from a Star Wars Rebel battle pack.
 
-The gold visor I could not see in the photo is real — it is in there.
+The gold visor I could not see in the photo is real — it is in there. In-world it is not a visor at all: it sits as the solid gold rank band on the helmet, and it is the thing that says he is in charge.
 
 *Connections:* Left for dead by The Commissioner's Apprentice
 
-*Tags:* veteran, sniper, police, anti-terrorism, has-apprentice, kitbash
+*Tags:* veteran, sniper, police, anti-terrorism, has-apprentice, kitbash, high-command, palace, gold-sash, officer
 
 ### 14. Claws
 
@@ -1848,9 +1856,11 @@ The cape was given to him by the people of the Bin, for the number of them he ha
 
 **Alignment:** good · **Figure:** custom
 
+Everything known about him, in full: he has a funny jetpack, and the arms of it are thin but they extend, and that is where the energy comes from. He fights with akimbo pistols in light grey.
 
+That is all there is. No name, no story, nothing else said.
 
-*Tags:* undescribed
+*Tags:* undescribed, jetpack, akimbo-pistols
 
 ### 80. The Chaosborn
 
