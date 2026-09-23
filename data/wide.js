@@ -2,6 +2,7 @@
    The landscape images: group shots and the like, which fit inside
    their tile instead of filling it. */
 window.WIDE = [
+  "images/bravo-team-01.jpg",
   "images/scenes/the-verdauf-brothers-reunite.jpg",
   "images/the-arctic-explorers-01.jpg",
   "images/the-battle-droids-02.jpg",
