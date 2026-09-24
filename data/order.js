@@ -400,7 +400,7 @@ window.ORDER = {
     "Droid": 5, "Killer Bot": 5, "Defense Bot": 5, "Robot": 5,
     "Machine Gunner": 5, "Artillery": 5, "Defense Gunner": 5, "Medic": 5,
     "Armorer": 5, "Technician Sergeant": 5, "Sergeant": [5, 1],
-    "Ranger": 5, "Space Ranger": 5,
+    "Ranger": 5, "Space Ranger": 5, "Space Explorer": 5,
     "Warrior": 6, "Pirate": 6, "Viking": 6, "Archer": 6, "Crossbowman": 6,
     "Goon": 5, "Thug": 5, "Raider": 5, "Quartermaster": 5, "Space Command": 5,
     "Propagandist": 5, "Space Biker": 5, "Discarded": 5, "Horse": 5,
@@ -682,6 +682,17 @@ window.ORDER = {
     "the-maiden": [10, 52],             // behind the cop and the man with a sword
     "little-red-riding-hood": [10, 60],
     "the-neutral-skeletons": [10, 58],  // they are bones. They cannot move.
+
+    // --- Bravo Team, kept together on one rung. The job titles would have
+    // scattered them - Explorer and Apprentice both read as civilian trades -
+    // and all four went in at Civilians, which was wrong. They hold rank, they
+    // answer for military work, they go armed, and they kill hostile alien
+    // life. The pilot was already at Soldiers by his trade; the other three
+    // are here by name so the team stands together whatever their titles say.
+    "pringles": [5, 40],
+    "the-old-apprentice": [5, 41],
+    "the-night-watch-apprentice": [5, 42],
+    "the-bravo-pilot": [5, 43],
   },
 
 

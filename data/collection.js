@@ -23161,7 +23161,7 @@ window.COLLECTION = [
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
-    role: "Explorer",
+    role: "Space Explorer",
     group: "Bravo Team",
     location: "",
     relations: [
@@ -23183,10 +23183,11 @@ window.COLLECTION = [
       "exists because there is always more of it to know.\n\n" +
       "Bravo Team are independent explorers - a team of apprentices, put " +
       "together so that all of them keep learning: other planets, resources, " +
-      "maps. They are good at the quiet work rather than the loud kind. If " +
-      "something out there turns out to be an evil alien creature they can face " +
-      "it, but they do not do war. The adventures are small and action-packed. " +
-      "All of them are good.",
+      "maps. They hold rank. They answer for military work, every one of them " +
+      "goes armed, and they kill aliens - that is the job out there, and they " +
+      "do it. What they do not do is war: no fronts, no campaigns, and a lot " +
+      "of the work is the quiet kind. Not one of them is a civilian. The " +
+      "adventures are small and action-packed, and all of them are good.",
     provenance:
       "Copper hair swept across the forehead, copper brows, and a full copper " +
       "handlebar moustache over a small closed mouth. A yellow collar wrapped " +
@@ -23196,15 +23197,15 @@ window.COLLECTION = [
       "at the collar. A dark grey blaster with a ribbed barrel in his hand.\n\n" +
       "Photographed as part of the group and cropped out of it, which is why " +
       "a neighbour shows at the edge.",
-    tags: ["bravo-team", "explorer", "space", "apprentice", "moustache",
-           "soil", "atmosphere", "first-off-the-ship"],
+    tags: ["bravo-team", "space-explorer", "space", "apprentice", "armed",
+           "moustache", "soil", "atmosphere", "first-off-the-ship"],
     images: [
       { src: "images/pringles-01.jpg", caption: "The figure" },
       { src: "images/bravo-team-01.jpg", caption: "Bravo Team" },
       { src: "images/bravo-team-02.jpg", caption: "Bravo Team, on the dashboard" }
     ],
     acquired: "2026-09-23",
-    notes: "Pringles is not a placeholder - it is what you said everyone calls him - but it is a nickname, so the name on his papers is still open.\n\nOne judgement call went into this group and it is here. You said the one on the far right is Pringles, and then that the one on the right is the pilot; both cannot be the same man. Of the four only two wear a moustache, and the other one is the old man in red you described separately - so Pringles is the one with the moustache and the copper hair, who is also the one with brown hair whose assistant the red man is. That makes him the team's lead explorer and puts the pilot on the far right. If those two are the wrong way round, say swap them and they swap."
+    notes: "Pringles is not a placeholder - it is what you said everyone calls him - but it is a nickname, so the name on his papers is still open.\n\nOne judgement call went into this group and it is here. You said the one on the far right is Pringles, and then that the one on the right is the pilot; both cannot be the same man. Of the four only two wear a moustache, and the other one is the old man in red you described separately - so Pringles is the one with the moustache and the copper hair, who is also the one with brown hair whose assistant the red man is. That makes him the team's lead explorer and puts the pilot on the far right. If those two are the wrong way round, say swap them and they swap.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian."
   },
 
   {
@@ -23228,10 +23229,11 @@ window.COLLECTION = [
       "He is the Night Watch's apprentice.\n\n" +
       "Bravo Team are independent explorers - a team of apprentices, put " +
       "together so that all of them keep learning: other planets, resources, " +
-      "maps. They are good at the quiet work rather than the loud kind. If " +
-      "something out there turns out to be an evil alien creature they can face " +
-      "it, but they do not do war. The adventures are small and action-packed. " +
-      "All of them are good.",
+      "maps. They hold rank. They answer for military work, every one of them " +
+      "goes armed, and they kill aliens - that is the job out there, and they " +
+      "do it. What they do not do is war: no fronts, no campaigns, and a lot " +
+      "of the work is the quiet kind. Not one of them is a civilian. The " +
+      "adventures are small and action-packed, and all of them are good.",
     provenance:
       "Pale blonde hair, tousled. Heavy dark brows, one of them raised, stubble " +
       "across the jaw and the lip, and a wry closed half-smile. A black torso " +
@@ -23240,14 +23242,15 @@ window.COLLECTION = [
       "low down. One blue arm and one black one. Black legs.\n\n" +
       "Photographed as part of the group and cropped out of it, which is why " +
       "a neighbour shows at the edge.",
-    tags: ["bravo-team", "apprentice", "night-watch", "space", "undescribed"],
+    tags: ["bravo-team", "apprentice", "night-watch", "space", "armed",
+           "military", "undescribed"],
     images: [
       { src: "images/the-night-watch-apprentice-01.jpg", caption: "The figure" },
       { src: "images/bravo-team-01.jpg", caption: "Bravo Team" },
       { src: "images/bravo-team-02.jpg", caption: "Bravo Team, on the dashboard" }
     ],
     acquired: "2026-09-23",
-    notes: "Placeholder name, taken from the only thing said about him: he is the Night Watch apprentice. No name, no history, no age, nothing else - his is the thin card of the four.\n\nThe catalogue already holds a Nightwatch Captain, who has everything in Lego City that happens after dark, and a Young Watchman in Watch Command. I have not linked him to either, because a Night Watch out here among space explorers may be a different thing wearing the same words. Say which it is and they connect."
+    notes: "Placeholder name, taken from the only thing said about him: he is the Night Watch apprentice. No name, no history, no age, nothing else - his is the thin card of the four.\n\nThe catalogue already holds a Nightwatch Captain, who has everything in Lego City that happens after dark, and a Young Watchman in Watch Command. I have not linked him to either, because a Night Watch out here among space explorers may be a different thing wearing the same words. Say which it is and they connect.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian.\n\nHe is holding something black - a broad ring at the grip and a long shaft running down past his knees - and I cannot tell from the photograph what it is. Say the word and it goes in the provenance."
   },
 
   {
@@ -23278,29 +23281,31 @@ window.COLLECTION = [
       "apprentice and nobody really treats him as one. Technically he is one.\n\n" +
       "Bravo Team are independent explorers - a team of apprentices, put " +
       "together so that all of them keep learning: other planets, resources, " +
-      "maps. They are good at the quiet work rather than the loud kind. If " +
-      "something out there turns out to be an evil alien creature they can face " +
-      "it, but they do not do war. The adventures are small and action-packed. " +
-      "All of them are good.",
+      "maps. They hold rank. They answer for military work, every one of them " +
+      "goes armed, and they kill aliens - that is the job out there, and they " +
+      "do it. What they do not do is war: no fronts, no campaigns, and a lot " +
+      "of the work is the quiet kind. Not one of them is a civilian. The " +
+      "adventures are small and action-packed, and all of them are good.",
     provenance:
       "White hair swept back off a side part, heavy grey brows, lines at the " +
       "eyes, and a thick grey walrus moustache over a downturned mouth. A red " +
       "flight suit: a white and red open collar over a yellow undershirt, a " +
       "double white stripe across the chest, a round badge at one breast - a " +
       "white shuttle on blue inside a pale ring - and a printed pen pocket with " +
-      "two pens at the other. Red arms, yellow hands, red legs, a yellow rod " +
-      "held at his side.\n\n" +
+      "two pens at the other. Red arms, yellow hands, red legs. A yellow " +
+      "blaster in his fist - grip, trigger guard, and a long barrel angled " +
+      "down his leg.\n\n" +
       "Photographed as part of the group and cropped out of it, which is why " +
       "a neighbour shows at the edge.",
     tags: ["bravo-team", "apprentice", "mentor", "old", "space", "second",
-           "old-school"],
+           "armed", "old-school"],
     images: [
       { src: "images/the-old-apprentice-01.jpg", caption: "The figure" },
       { src: "images/bravo-team-01.jpg", caption: "Bravo Team" },
       { src: "images/bravo-team-02.jpg", caption: "Bravo Team, on the dashboard" }
     ],
     acquired: "2026-09-23",
-    notes: "Placeholder name, and it is his own paradox rather than a description: technically an apprentice, treated as a mentor. Give me what he is actually called and it goes.\n\nThe ladder files him at Apprentice, next to the Night Watch one, which is correct by the rules and wrong in the room - he is the most experienced person standing there. If the ranking should say so he needs a line of his own under figures in order.js. Say the word."
+    notes: "Placeholder name, and it is his own paradox rather than a description: technically an apprentice, treated as a mentor. Give me what he is actually called and it goes.\n\nThe ladder files him at Apprentice, next to the Night Watch one, which is correct by the rules and wrong in the room - he is the most experienced person standing there. He now has a line of his own under figures in order.js, at Soldiers with the rest of the team; if he should stand in front of Pringles rather than behind him, say so and he moves.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian.\n\nHis provenance called the yellow piece a rod. It is a blaster - grip, trigger guard, a long barrel angled down his leg. Fixed."
   },
 
   {
@@ -23327,10 +23332,11 @@ window.COLLECTION = [
       "pilot - and he is the one they took.\n\n" +
       "Bravo Team are independent explorers - a team of apprentices, put " +
       "together so that all of them keep learning: other planets, resources, " +
-      "maps. They are good at the quiet work rather than the loud kind. If " +
-      "something out there turns out to be an evil alien creature they can face " +
-      "it, but they do not do war. The adventures are small and action-packed. " +
-      "All of them are good.",
+      "maps. They hold rank. They answer for military work, every one of them " +
+      "goes armed, and they kill aliens - that is the job out there, and they " +
+      "do it. What they do not do is war: no fronts, no campaigns, and a lot " +
+      "of the work is the quiet kind. Not one of them is a civilian. The " +
+      "adventures are small and action-packed, and all of them are good.",
     provenance:
       "Cream hair, tousled and swept up. Thick black angled brows, a broad open " +
       "grin, stubble stippled across the jaw. A yellow collar round the neck. An " +
@@ -23340,14 +23346,14 @@ window.COLLECTION = [
       "watch - at the other. Black legs. A blue brick in his hand.\n\n" +
       "Photographed as part of the group and cropped out of it, which is why " +
       "a neighbour shows at the edge.",
-    tags: ["bravo-team", "pilot", "space", "parka", "apprentice-team"],
+    tags: ["bravo-team", "pilot", "space", "parka", "armed", "apprentice-team"],
     images: [
       { src: "images/the-bravo-pilot-01.jpg", caption: "The figure" },
       { src: "images/bravo-team-01.jpg", caption: "Bravo Team" },
       { src: "images/bravo-team-02.jpg", caption: "Bravo Team, on the dashboard" }
     ],
     acquired: "2026-09-23",
-    notes: "Placeholder name - he is the pilot of this team and nothing else is written down, so that is what the card calls him.\n\nThe one judgement call in this group is explained on Pringles' card: you named the far right figure Pringles and then named the one on the right the pilot, so the moustache went to Pringles and the flying went to this one, the far right, in the orange parka. Say swap them and they swap.\n\nThe ladder puts a Pilot two rungs above an Apprentice, so as written he outranks the rest of his own team. That is the scale doing what it says rather than a claim about him - tell me if Bravo Team should sit together instead."
+    notes: "Placeholder name - he is the pilot of this team and nothing else is written down, so that is what the card calls him.\n\nThe one judgement call in this group is explained on Pringles' card: you named the far right figure Pringles and then named the one on the right the pilot, so the moustache went to Pringles and the flying went to this one, the far right, in the orange parka. Say swap them and they swap.\n\nThe ladder used to put a Pilot two rungs above an Apprentice, so he outranked the rest of his own team. He does not any more: the whole team is at Soldiers and he stands last of the four, which is where being the one they picked to fly puts him.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
