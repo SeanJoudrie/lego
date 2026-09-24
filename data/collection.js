@@ -23239,7 +23239,10 @@ window.COLLECTION = [
       "across the jaw and the lip, and a wry closed half-smile. A black torso " +
       "with a pale gold line hooked over at the top running the length of it, a " +
       "red X inside a gold ellipse at the chest, and two sets of three gold bars " +
-      "low down. One blue arm and one black one. Black legs.\n\n" +
+      "low down. One blue arm and one black one. Black legs. A black gun in his " +
+      "fist - the receiver under his hand, a heavy ring at the trigger, and a " +
+      "long straight barrel running down past his knee, carried muzzle-down at " +
+      "his side the way the old man carries his.\n\n" +
       "Photographed as part of the group and cropped out of it, which is why " +
       "a neighbour shows at the edge.",
     tags: ["bravo-team", "apprentice", "night-watch", "space", "armed",
@@ -23250,7 +23253,7 @@ window.COLLECTION = [
       { src: "images/bravo-team-02.jpg", caption: "Bravo Team, on the dashboard" }
     ],
     acquired: "2026-09-23",
-    notes: "Placeholder name, taken from the only thing said about him: he is the Night Watch apprentice. No name, no history, no age, nothing else - his is the thin card of the four.\n\nThe catalogue already holds a Nightwatch Captain, who has everything in Lego City that happens after dark, and a Young Watchman in Watch Command. I have not linked him to either, because a Night Watch out here among space explorers may be a different thing wearing the same words. Say which it is and they connect.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian.\n\nHe is holding something black - a broad ring at the grip and a long shaft running down past his knees - and I cannot tell from the photograph what it is. Say the word and it goes in the provenance."
+    notes: "Placeholder name, taken from the only thing said about him: he is the Night Watch apprentice. No name, no history, no age, nothing else - his is the thin card of the four.\n\nThe catalogue already holds a Nightwatch Captain, who has everything in Lego City that happens after dark, and a Young Watchman in Watch Command. I have not linked him to either, because a Night Watch out here among space explorers may be a different thing wearing the same words. Say which it is and they connect.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian.\n\nThe black thing running past his knees is a gun, and his provenance says so. You had already told me every one of them is armed, and I wrote that I could not tell what it was instead of taking you at your word - which is the same mistake as filing him at Civilians, made twice on the same card."
   },
 
   {
