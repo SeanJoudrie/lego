@@ -22112,21 +22112,24 @@ window.COLLECTION = [
     rating: 0,
     background: "Clone Commander Gree. He is one of the good ones.",
     provenance:
-      "Not photographed. The figure is missing from the shelf and you expect " +
-      "it to turn up, so this card holds a reference picture of the same " +
-      "figure until it does.\\n\\n" +
-      "From that picture: a white clone helmet marked in dark green - a broad " +
+      "Photographed at last. He was missing from the shelf when this card was " +
+      "written, and it held somebody else's product shot until he turned up. " +
+      "That picture is still here, second, because what follows was first " +
+      "written off it and it holds.\\n\\n" +
+      "A white clone helmet marked in dark green - a broad " +
       "band up the crown, wings sweeping back from the visor, green round the " +
       "breathing grille - over white armour with a black bandolier crossing " +
       "the chest and a heavy belt of white pouches at the waist. Dark green " +
       "printed through the neck seal, the shoulders and the thighs, black " +
-      "hands, white boots.",
-    tags: ["clone", "commander", "star-wars", "branded", "green", "missing", "no-photograph"],
+      "hands, white boots. And, which the picture did not show, a pale fin " +
+      "standing up off the crown of the helmet.",
+    tags: ["clone", "commander", "star-wars", "branded", "green", "found"],
     images: [
-      { src: "images/commander-gree-01.jpg", caption: "Reference picture - the figure is missing" },
+      { src: "images/commander-gree-02.jpg", caption: "The figure" },
+      { src: "images/commander-gree-01.jpg", caption: "Reference picture, from before he turned up" },
     ],
     acquired: "",
-    notes: "Fourth clone commander here with a name of his own, after Claws who commands all the armies, Commander Cody and Commander Fox - and fifth if Captain Rex counts. Fifty-one clone cards are catalogued and only a handful of them are anybody in particular; the rest are units.\n\nGreen is what is unusual about him. The clone legions on this shelf are told apart by the colour on the armour - blue for the 501st, red for the Shock Troopers and the Commander in Red, gold for the Golden Company, grey for the pilots, camouflage for the scouts - and green has not been one of them. He opens a colour.\n\nFiled with the Clone Army rather than a legion of his own, which is where Cody and Fox sit. If he leads a unit of his own that is one word and a group gets made.\n\nHe is also one of two cards in the collection right now with no photograph of the figure on them. The other is the Hayabusa, who arrived in the same message. The Crimson Ninja held that position on his own for a long time, holding a piece of concept art until he turned up - and he did turn up, with a dragon on his hat. These two have taken the slot over."
+    notes: "Fourth clone commander here with a name of his own, after Claws who commands all the armies, Commander Cody and Commander Fox - and fifth if Captain Rex counts. Fifty-one clone cards are catalogued and only a handful of them are anybody in particular; the rest are units.\n\nGreen is what is unusual about him. The clone legions on this shelf are told apart by the colour on the armour - blue for the 501st, red for the Shock Troopers and the Commander in Red, gold for the Golden Company, grey for the pilots, camouflage for the scouts - and green has not been one of them. He opens a colour.\n\nFiled with the Clone Army rather than a legion of his own, which is where Cody and Fox sit. If he leads a unit of his own that is one word and a group gets made.\n\nHe is also one of two cards in the collection right now with no photograph of the figure on them. The other is the Hayabusa, who arrived in the same message. The Crimson Ninja held that position on his own for a long time, holding a piece of concept art until he turned up - and he did turn up, with a dragon on his hat. These two took the slot over.\n\nNow Gree has turned up as well. You found him, and the card leads with the figure instead of somebody else's product shot. Everything the provenance had said off that picture holds: the green band up the crown with the wings sweeping back from the visor, the green round the breathing grille, the black bandolier across the chest, the belt of white pouches, green through the neck seal and the shoulders and the thighs, black hands, white boots. The one thing the picture did not show is the pale fin standing up off the crown, and that is in the provenance now.\n\nThat leaves the Hayabusa alone as the only card here still holding a picture of somebody else's figure instead of one of yours."
   },
 
   {
@@ -23114,12 +23117,13 @@ window.COLLECTION = [
       "head.",
     tags: ["ninja", "villain", "crimson", "masked", "dragon", "straw-hat", "scimitar", "concept-art"],
     images: [
+      { src: "images/the-crimson-ninja-04.jpg", caption: "The figure, close" },
       { src: "images/the-crimson-ninja-02.jpg", caption: "The figure, with the dragon on his hat" },
       { src: "images/the-crimson-ninja-03.jpg", caption: "Concept art" },
       { src: "images/the-crimson-ninja-01.jpg", caption: "The first art, drawn before the figure turned up" },
     ],
     acquired: "",
-    notes: "He has turned up. This was the one card in the collection written the wrong way round - a story with no figure under it, holding a piece of AI art while everybody else here was a thing on a shelf first and a story second. Now there is a photograph, and the art can be read against the plastic.\n\nWhat the art got right is the hat and the armour. A wide conical hat, and a white lamellar plate worn over red with white sleeves - that is the figure exactly, sleeves included.\n\nWhat it invented is the feather through the crown, the red cloak, the katana held level in both hands, and the face. The art gives him a blank mask with nothing behind it. The figure has a yellow head with a mouth, and the mask is painted across the eyes, which makes him a man in warpaint rather than a thing with no face. The sash is black where the art has it red, only one of the two gloves is white, and the sword is a gold scimitar.\n\nThree other cards here carry art and a figure both - the Scrap Adventurer, the Ginger Adventurer and the Young Watchman. He is the fourth, and the only one where the art came first.\n\nThe dragon is new. Dragons have been in this collection five times and every one of them was a picture: the Dragon Knight's gold helm and the white dragon on his shield, the Evil Cavalryman's gold one, the Evil Swordsman's red one, the gold dragon breathing ice across Zane's gi, the black one on Iron Fist's chest. Heraldry, print, a badge worn by somebody. This is the first dragon here that is a thing rather than a device, and it is standing on a villain's hat.\n\nIt is also only the third animal to share a card with a person - the Explorer has his monkey, the Slime King has his slimes, and Widow the horse is the one animal with a card of her own. All of those are on the good side. This is the first animal that belongs to somebody on the bad one, and you called it his compatriot rather than his pet, which is not the same relationship.\n\nStill open, from the day this card was written: this world has a Ninja Lineage and nobody has said whether he came out of it or came for it.\n\nRepainted, and the new one is read off the figure instead of off the story. The first art stays on the card, because everything above is written against it, but it no longer hangs in the gallery - only the new painting is captioned as the concept art now. What changed: the mask is a mask, hard and cord-tied across the eyes, with the warpaint carrying on underneath it where it ends, so he is neither the blank face the first art gave him nor bare paint; the dragon is up on the crown of the hat where the figure has it; and the long red cloth is the one thing kept out of the first art on purpose. Two departures from the plastic, both asked for: the sword is straight where the figure holds a curved gold scimitar, and it is drawn with its sheath. The sheath is the correction this card owed - what was catalogued here as a pale grey hand is a dark grey scabbard he is carrying."
+    notes: "He has turned up. This was the one card in the collection written the wrong way round - a story with no figure under it, holding a piece of AI art while everybody else here was a thing on a shelf first and a story second. Now there is a photograph, and the art can be read against the plastic.\n\nWhat the art got right is the hat and the armour. A wide conical hat, and a white lamellar plate worn over red with white sleeves - that is the figure exactly, sleeves included.\n\nWhat it invented is the feather through the crown, the red cloak, the katana held level in both hands, and the face. The art gives him a blank mask with nothing behind it. The figure has a yellow head with a mouth, and the mask is painted across the eyes, which makes him a man in warpaint rather than a thing with no face. The sash is black where the art has it red, only one of the two gloves is white, and the sword is a gold scimitar.\n\nThree other cards here carry art and a figure both - the Scrap Adventurer, the Ginger Adventurer and the Young Watchman. He is the fourth, and the only one where the art came first.\n\nThe dragon is new. Dragons have been in this collection five times and every one of them was a picture: the Dragon Knight's gold helm and the white dragon on his shield, the Evil Cavalryman's gold one, the Evil Swordsman's red one, the gold dragon breathing ice across Zane's gi, the black one on Iron Fist's chest. Heraldry, print, a badge worn by somebody. This is the first dragon here that is a thing rather than a device, and it is standing on a villain's hat.\n\nIt is also only the third animal to share a card with a person - the Explorer has his monkey, the Slime King has his slimes, and Widow the horse is the one animal with a card of her own. All of those are on the good side. This is the first animal that belongs to somebody on the bad one, and you called it his compatriot rather than his pet, which is not the same relationship.\n\nStill open, from the day this card was written: this world has a Ninja Lineage and nobody has said whether he came out of it or came for it.\n\nRepainted, and the new one is read off the figure instead of off the story. The first art stays on the card, because everything above is written against it, but it no longer hangs in the gallery - only the new painting is captioned as the concept art now. What changed: the mask is a mask, hard and cord-tied across the eyes, with the warpaint carrying on underneath it where it ends, so he is neither the blank face the first art gave him nor bare paint; the dragon is up on the crown of the hat where the figure has it; and the long red cloth is the one thing kept out of the first art on purpose. Two departures from the plastic, both asked for: the sword is straight where the figure holds a curved gold scimitar, and it is drawn with its sheath. The sheath is the correction this card owed - what was catalogued here as a pale grey hand is a dark grey scabbard he is carrying.\n\nA closer photograph, and it leads the card now - the first one was taken from across the desk. Everything this card already said off the plastic holds up in it: the panelled hat with the blue stripe over the crown, the mask painted across the eyes with the mouth showing underneath, the lamellar plate scuffed back to bare plastic, the black and red sash, the scabbard in the off hand, the gold scimitar, and the dragon standing on the crown no taller than his head.\n\nYou called him the red ninja when you sent it. The Red Ninja is a different man - card 32, the teacher, on the good side - and every printed detail in the new photograph is this one's, so it went here. Say the word if you meant the other and it moves."
   },
 
 
@@ -23145,9 +23149,12 @@ window.COLLECTION = [
       "the breast and two gold rank bars at the waist, blue arms, black hands " +
       "and black legs.",
     tags: ["police", "nightwatch", "captain", "night", "lego-city", "gold-braid"],
-    images: ["images/the-nightwatch-captain-01.jpg"],
+    images: [
+      { src: "images/the-nightwatch-captain-02.jpg", caption: "The figure" },
+      { src: "images/the-nightwatch-captain-01.jpg", caption: "The first photograph" }
+    ],
     acquired: "",
-    notes: "Read as one who was missing from the catalogue rather than one lost to time - he is stood up and in focus the way the living are photographed, not laid flat or pulled off an old video, and you put him in the present tense. One word moves him to the lost. Eleventh in Lego City Law and the only one of them with a shift: everybody else polices the city, he polices the dark. No link to the Watch Commander, who runs the day-to-day ground units and would be the obvious other half of that arrangement - say so and they connect."
+    notes: "Read as one who was missing from the catalogue rather than one lost to time - he is stood up and in focus the way the living are photographed, not laid flat or pulled off an old video, and you put him in the present tense. One word moves him to the lost. Eleventh in Lego City Law and the only one of them with a shift: everybody else polices the city, he polices the dark. No link to the Watch Commander, who runs the day-to-day ground units and would be the obvious other half of that arrangement - say so and they connect.\n\nA better photograph, and it leads the card now. The first was dark and soft and had him half in shadow; this one is lit, and everything the provenance was written off is legible in it. The old shot stays on the card behind it.\n\nYou called him the Nightwatch Commander. There is a Watch Commander in the catalogue as well - card 47, a different man in a grey helmet - and this figure is the Captain's, piece for piece, so it went here."
   },
 
 
@@ -23357,6 +23364,71 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-23",
     notes: "Placeholder name - he is the pilot of this team and nothing else is written down, so that is what the card calls him.\n\nThe one judgement call in this group is explained on Pringles' card: you named the far right figure Pringles and then named the one on the right the pilot, so the moustache went to Pringles and the flying went to this one, the far right, in the orange parka. Say swap them and they swap.\n\nThe ladder used to put a Pilot two rungs above an Apprentice, so he outranked the rest of his own team. He does not any more: the whole team is at Soldiers and he stands last of the four, which is where being the one they picked to fly puts him.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian."
+  },
+
+  {
+    id: "the-cloaked-alien",
+    name: "The Cloaked Alien",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "He is evil. Just an evil guy.",
+    provenance:
+      "A grey head printed as a skull and then decorated: one eye ringed in " +
+      "white and one in grey, each with a black diamond for a pupil, a small " +
+      "skull nose, curled flourishes worked across both cheeks, and a mouth " +
+      "stitched shut in a grid. A black cap moulded close over the crown. A " +
+      "chrome collar at the neck.\\n\\n" +
+      "A pale grey torso printed with a bare chest - a V of tendons at the " +
+      "collar and ribs curving down both sides. Over it a cape of coarse black " +
+      "cloth, frayed at the hem. One pale grey arm. Dark red hands, and dark " +
+      "red legs printed with grey and black plating and a belt.",
+    tags: ["villain", "alien", "cloak", "skull-face", "undescribed"],
+    images: [
+      { src: "images/the-cloaked-alien-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "Placeholder name, pure physical description, so he is not mistaken for somebody invented. What you said about him is the whole of his card: he is evil, and he is just an evil guy. No name, no history, no side beyond the one that puts him on the bad deck.\\n\\nYou called him a grey alien. The head is printed as a skull rather than as anything alien, and the card says alien anyway, because what you call him is what he is.\\n\\nFiled at Soldiers. He has no job title, and the catalogue's rule for a villain with nothing written down is that he is a threat rather than a bystander - that is the rule, not a claim about him. Tell me what he does and it gets set properly."
+  },
+
+  {
+    id: "the-evil-ninja",
+    name: "The Evil Ninja",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "Ninja",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "An evil ninja.",
+    provenance:
+      "A black helmet moulded close to the skull, a raised ridge over the " +
+      "crown, cheek plates down both sides and a brow that comes to a point " +
+      "over the visor. Through the visor slit, two magenta eyes. Under it a " +
+      "mouth of pale fangs over purple.\\n\\n" +
+      "A black torso printed with a silver-white robe: a zigzagged collar, a " +
+      "sash crossing the chest, a shuriken at one breast, two thin silver " +
+      "shafts crossed diagonally beneath it and a short blade with a brown " +
+      "grip tucked at the other side. A cream belt at the waist. Black arms " +
+      "and black hands. Black legs banded in pale grey, grey panels at the " +
+      "knees and four white dashes across each foot.",
+    tags: ["villain", "ninja", "black", "fanged", "undescribed"],
+    images: [
+      { src: "images/the-evil-ninja-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "Placeholder name, and it is exactly what you called him: an evil ninja. That is the whole card. No name, no history, and no place in the Ninja Lineage or against it.\\n\\nHe is the second evil ninja here. The Crimson Ninja is the other, and the two of them are not linked, because nothing has been said about whether they know each other. One word and they connect.\\n\\nFiled at Elite, which is where the ladder puts a ninja."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
