@@ -12609,7 +12609,7 @@ window.COLLECTION = [
   {
     id: "the-shock-troopers",
     name: "The Shock Troopers",
-    variant: "About twenty",
+    variant: "About twenty, in pauldrons",
     faction: "good",
     origin: "branded",
     theme: "Star Wars",
@@ -12617,28 +12617,30 @@ window.COLLECTION = [
     role: "Clone Trooper",
     group: "The Clone Army",
     location: "",
-    relations: [],
+    relations: [
+      { to: "the-open-faced-shock-troopers", label: "Shock troopers" },
+      { to: "the-shock-trooper-without-shoulder-pads", label: "Shock troopers" },
+    ],
     rating: 0,
-    background: "Shock troopers. There are about twenty of them.",
+    background: "Shock troopers. There are about twenty of them, and they are the ones in shoulder pads.",
     provenance:
-      "Phase 2 helmets banded with red combs over the brow and a red fin " +
-      "standing up from the crown, red flashes at the cheeks. Red chest " +
-      "plates and red ammunition blocks at the belt. Both wear mismatched " +
-      "legs, one red and one white, and both are scuffed and yellowed. " +
-      "Most of them are a later and busier pattern than that first pair: red " +
-      "shoulder pauldrons clipped on over the armour, a red comb of bars " +
-      "printed across the brow, red slashes at both cheeks, and red blocks " +
-      "worked down both legs. Ranked up together they come to roughly twenty - " +
-      "read off the group shot rather than tallied.",
-    tags: ["star-wars", "clone", "trooper", "shock-trooper", "red", "unit", "two", "worn", "branded"],
+      "Phase 2 helmets with a red fin standing off the crown and a red comb " +
+      "of bars printed across the brow, the black T of the visor down the " +
+      "face, and red slashes at both cheeks.\n\n" +
+      "Red pauldrons clipped on over the shoulders, which is the thing that " +
+      "tells this lot from the other two shock trooper cards. A grey yoke " +
+      "under a red chest plate, red ammunition blocks at the belt, white legs " +
+      "with red blocks worked down them.\n\n" +
+      "Ranked up together they come to roughly twenty - read off the group " +
+      "shot rather than tallied.",
+    tags: ["star-wars", "clone", "trooper", "shock-trooper", "red", "unit", "army",
+           "pauldrons", "branded"],
     images: [
-      { src: "images/the-shock-troopers-04.jpg", caption: "One of them, close" },
-      { src: "images/the-shock-troopers-02.jpg", caption: "One of them, in the later pattern" },
-      { src: "images/the-shock-troopers-01.jpg", caption: "The first pair, on mismatched legs" },
+      { src: "images/the-shock-troopers-02.jpg", caption: "One of them" },
       { src: "images/the-shock-troopers-03.jpg", caption: "About twenty of them" },
     ],
     acquired: "",
-    notes: "One entry for all of them. This is now the largest unit in the collection by a wide margin - about twenty, against the dozen Plain Clones and the ten US Army Soldiers - and the only one big enough to look like an army rather than a squad. The two who arrived first are the odd ones out in it: they wear mismatched legs, one red and one white, where the ranks behind them all match. The count is an estimate off the photograph; give me a real number and it goes in.\n\nA clean close shot of one of them leads the card now. You said a shock trooper who is good, and that is what this card has said since it was written - they have been on the good side all along. Nothing moved; the photograph is just better.\n\nWhat it shows that the older ones did not: the red comb printed across the brow in separate bars, red slashes at both cheeks and down the sides of the helmet, a grey shoulder yoke under the red chest plate, and two red ammunition blocks buckled at the belt. Both legs white on this one, with red at the knees and the boots, so he is one of the ranks rather than one of the mismatched first pair."
+    notes: "One entry for all of them. This is now the largest unit in the collection by a wide margin - about twenty, against the dozen Plain Clones and the ten US Army Soldiers - and the only one big enough to look like an army rather than a squad. The two who arrived first are the odd ones out in it: they wear mismatched legs, one red and one white, where the ranks behind them all match. The count is an estimate off the photograph; give me a real number and it goes in.\n\nA clean close shot of one of them leads the card now. You said a shock trooper who is good, and that is what this card has said since it was written - they have been on the good side all along. Nothing moved; the photograph is just better.\n\nWhat it shows that the older ones did not: the red comb printed across the brow in separate bars, red slashes at both cheeks and down the sides of the helmet, a grey shoulder yoke under the red chest plate, and two red ammunition blocks buckled at the belt. Both legs white on this one, with red at the knees and the boots, so he is one of the ranks rather than one of the mismatched first pair.\n\nSPLIT INTO THREE. This card used to hold every shock trooper in the collection, and you have said they are three things rather than one. This is the first: the army, and the ones wearing shoulder pads. The other two have cards of their own now and all three link to each other.\n\nWhat left this card: the pair on mismatched legs, who wear a different helmet altogether and are now The Open-Faced Shock Troopers, and the close shot that was leading this card, who wears no pauldrons and is now The Shock Trooper Without Shoulder Pads. This one keeps the group shot and one of the ranks.\n\nThe count of about twenty is still read off the group photograph rather than tallied, and it does not settle whether the three that left are standing in it. A real number would settle both."
   },
 
 
@@ -23755,6 +23757,78 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-25",
     notes: "Placeholder name, taken from the one thing said about him: he is a good companion robot. Whose companion, and what he does, are both unwritten.\n\nHe is filed at Civilians, and that is the catalogue's own rule rather than a judgement about him - a good figure with no job title written down falls there. He is the sort of thing that rule was made for and he may still be in the wrong place: say what he does and he moves.\n\nHe is the only card in the collection that is a head and nothing else. Everything else here, down to the astromechs and the Television, has a body under it."
+  },
+
+  {
+    id: "the-open-faced-shock-troopers",
+    name: "The Open-Faced Shock Troopers",
+    variant: "Two figures",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [
+      { to: "the-shock-troopers", label: "Shock troopers" },
+      { to: "the-shock-trooper-without-shoulder-pads", label: "Shock troopers" },
+    ],
+    rating: 0,
+    background: "Two shock troopers, and they are the open-faced ones.",
+    provenance:
+      "Two of them, and the helmet is the whole of the difference. A narrow " +
+      "black slit across the eyes and nothing else: the rest of the face is " +
+      "left white and open, with small dark vents where the breather sits. " +
+      "Every other shock trooper here wears the full black T down the face " +
+      "with red slashes at both cheeks.\n\n" +
+      "Above the slit, the same kit as the rest of them - a red comb of bars " +
+      "printed across the brow and a red fin standing off the crown. A red " +
+      "chest yoke over a white torso with a printed belt under it, and no " +
+      "pauldrons on either of them.\n\n" +
+      "Both wear mismatched legs, one red and one white. Both are scuffed and " +
+      "yellowed, more than anything else in the unit.",
+    tags: ["star-wars", "clone", "trooper", "shock-trooper", "red", "open-faced",
+           "two", "mismatched", "worn", "branded"],
+    images: [
+      { src: "images/the-shock-troopers-01.jpg", caption: "The two of them" }
+    ],
+    acquired: "",
+    notes: "One of three shock trooper cards, split out of the single entry that used to hold all of them. These are the two you called the open-faced ones, and the name is earned rather than borrowed: their visor is a thin slit across the eyes where everybody else's is the full black T covering the face. Standing next to the others it is the first thing you see.\n\nThey are also the two who arrived first, and the odd ones out in kit: mismatched legs, one red and one white on each, where the ranks all match. They are the most worn figures in the unit.\n\nYou wrote separate next to them. I have read that as these two being a card of their own rather than part of the army - if you meant that the two of THEM are separate from each other and want a card each, say so and this splits again."
+  },
+
+  {
+    id: "the-shock-trooper-without-shoulder-pads",
+    name: "The Shock Trooper Without Shoulder Pads",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [
+      { to: "the-shock-troopers", label: "Shock troopers" },
+      { to: "the-open-faced-shock-troopers", label: "Shock troopers" },
+    ],
+    rating: 0,
+    background: "A shock trooper, and the one without shoulder pads.",
+    provenance:
+      "The full black T of the visor down the face with red slashes at both " +
+      "cheeks and along the sides of the helmet, a red comb of bars printed " +
+      "across the brow, and a red fin standing off the crown.\n\n" +
+      "A red chest yoke over a printed harness, two red ammunition blocks " +
+      "buckled at the belt, and a grey yoke showing at the shoulders - with " +
+      "nothing clipped over it, which is what separates him from the ranks. " +
+      "Black hands. White legs with red at the knees and across the boots.",
+    tags: ["star-wars", "clone", "trooper", "shock-trooper", "red", "no-pauldrons",
+           "branded"],
+    images: [
+      { src: "images/the-shock-troopers-04.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "One of three shock trooper cards, split out of the single entry that used to hold all of them. He is the one you sent on his own, and he is here because of what he is not wearing: the army all have red pauldrons clipped over the shoulders and he has none, with the grey yoke bare underneath.\n\nEverything else about him is the army pattern rather than the open-faced one - the full black T visor, the red slashes at the cheeks, the harness and the two ammunition blocks at the belt, white legs with red knees and boots. So he stands between the other two cards: the ranks' face and kit, without the ranks' shoulders.\n\nWhether that means a rank of his own, or just a man who lost his pauldrons, is not something the photograph says."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
