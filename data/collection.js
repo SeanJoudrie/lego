@@ -12611,12 +12611,13 @@ window.COLLECTION = [
       "read off the group shot rather than tallied.",
     tags: ["star-wars", "clone", "trooper", "shock-trooper", "red", "unit", "two", "worn", "branded"],
     images: [
+      { src: "images/the-shock-troopers-04.jpg", caption: "One of them, close" },
       { src: "images/the-shock-troopers-02.jpg", caption: "One of them, in the later pattern" },
       { src: "images/the-shock-troopers-01.jpg", caption: "The first pair, on mismatched legs" },
       { src: "images/the-shock-troopers-03.jpg", caption: "About twenty of them" },
     ],
     acquired: "",
-    notes: "One entry for all of them. This is now the largest unit in the collection by a wide margin - about twenty, against the dozen Plain Clones and the ten US Army Soldiers - and the only one big enough to look like an army rather than a squad. The two who arrived first are the odd ones out in it: they wear mismatched legs, one red and one white, where the ranks behind them all match. The count is an estimate off the photograph; give me a real number and it goes in."
+    notes: "One entry for all of them. This is now the largest unit in the collection by a wide margin - about twenty, against the dozen Plain Clones and the ten US Army Soldiers - and the only one big enough to look like an army rather than a squad. The two who arrived first are the odd ones out in it: they wear mismatched legs, one red and one white, where the ranks behind them all match. The count is an estimate off the photograph; give me a real number and it goes in.\n\nA clean close shot of one of them leads the card now. You said a shock trooper who is good, and that is what this card has said since it was written - they have been on the good side all along. Nothing moved; the photograph is just better.\n\nWhat it shows that the older ones did not: the red comb printed across the brow in separate bars, red slashes at both cheeks and down the sides of the helmet, a grey shoulder yoke under the red chest plate, and two red ammunition blocks buckled at the belt. Both legs white on this one, with red at the knees and the boots, so he is one of the ranks rather than one of the mismatched first pair."
   },
 
 
@@ -20197,7 +20198,7 @@ window.COLLECTION = [
       "white, banded in dark green round the crown and the rim, with a black " +
       "and green main eye, an orange light, a silver port and a small panel " +
       "printed across the front. The white neck stud of the figure underneath " +
-      "shows in the gap.\\n\\n" +
+      "shows in the gap.\n\n" +
       "Below it he is a soldier out of a different world entirely: a moulded " +
       "pale blue tactical vest over a grey undersuit, stitched panels and " +
       "pouches across the chest, with ACU printed in a box in the middle of " +
@@ -20205,7 +20206,7 @@ window.COLLECTION = [
     tags: ["villain", "astromech", "dome", "helmet", "tactical-vest", "acu", "mixed-parts", "custom"],
     images: ["images/the-man-in-the-astromech-head-01.jpg"],
     acquired: "",
-    notes: "Eight astromechs are catalogued here and every one of them is a droid. This is the ninth dome in the collection and the first with a person underneath it.\\n\\nWhat he is wearing below the neck comes from somewhere else again - an ACU vest, an asset containment unit, which is not from the same world as the dome or from this one. So he is three things at once: a soldier's body, a security unit's kit, and a droid's head worn as a mask.\\n\\nThat lands next to a card already here. The Man in the Astromech Head is doing on purpose what the people of the Bin do by necessity - wearing whatever came to hand - except the Bin's residents are built that way and this one chose a droid's face. Nothing says which, so nothing is written between them.\\n\\nHe is also the second figure on that deck to hide behind another thing's head, after the Devoured, whose face is a mouth. The difference is that the Devoured did not choose it."
+    notes: "Eight astromechs are catalogued here and every one of them is a droid. This is the ninth dome in the collection and the first with a person underneath it.\n\nWhat he is wearing below the neck comes from somewhere else again - an ACU vest, an asset containment unit, which is not from the same world as the dome or from this one. So he is three things at once: a soldier's body, a security unit's kit, and a droid's head worn as a mask.\n\nThat lands next to a card already here. The Man in the Astromech Head is doing on purpose what the people of the Bin do by necessity - wearing whatever came to hand - except the Bin's residents are built that way and this one chose a droid's face. Nothing says which, so nothing is written between them.\n\nHe is also the second figure on that deck to hide behind another thing's head, after the Devoured, whose face is a mouth. The difference is that the Devoured did not choose it."
   },
 
   {
@@ -20228,7 +20229,7 @@ window.COLLECTION = [
       "kind a foot soldier wears in a castle. Under it a yellow face split in " +
       "two: the left side machine, a silver plate bolted over the temple with " +
       "a red lens burning in the middle of it, and the right side a man - one " +
-      "eye, a black lip, and teeth bared in a strip of silver.\\n\\n" +
+      "eye, a black lip, and teeth bared in a strip of silver.\n\n" +
       "A grey breastplate printed over the torso with straps, a red shield " +
       "crest at the heart and a belt of pouches beneath. Bare yellow arms, one " +
       "black hand and one yellow. Legs in dark green and blue tartan going " +
@@ -20236,7 +20237,7 @@ window.COLLECTION = [
     tags: ["villain", "cyborg", "soldier", "medieval", "helmet", "tartan", "red-eye", "custom"],
     images: ["images/the-second-cyborg-soldier-01.jpg"],
     acquired: "",
-    notes: "Called the Second Cyborg Soldier because the name was taken one batch ago. The first wears a racing vest with flames on it and has the right side of his head replaced; this one wears a conical helm and tartan and has the left side of his.\\n\\nThat is the interesting part. Cybernetics in this world come from one place - the Discarded's arm, studied and built from - and everything machine-limbed on the villain side has so far been modern: bikers, assassins, robots, a man in racing kit. This one is in castle armour with a tartan on, which means the technology has reached somewhere that does not otherwise have it. Either the timeline is not what it looks like, or somebody carried it back.\\n\\nFifth cyborg on that deck, after Doc Ock, the Brainwashed Assassin, the Evil Cyborg Soldier and the Cyborg."
+    notes: "Called the Second Cyborg Soldier because the name was taken one batch ago. The first wears a racing vest with flames on it and has the right side of his head replaced; this one wears a conical helm and tartan and has the left side of his.\n\nThat is the interesting part. Cybernetics in this world come from one place - the Discarded's arm, studied and built from - and everything machine-limbed on the villain side has so far been modern: bikers, assassins, robots, a man in racing kit. This one is in castle armour with a tartan on, which means the technology has reached somewhere that does not otherwise have it. Either the timeline is not what it looks like, or somebody carried it back.\n\nFifth cyborg on that deck, after Doc Ock, the Brainwashed Assassin, the Evil Cyborg Soldier and the Cyborg."
   },
 
   {
@@ -20258,7 +20259,7 @@ window.COLLECTION = [
       "Pale lavender from the crown to the boots, with no hair and no helmet. " +
       "The face is scarred over in short white slashes - across the brow, down " +
       "one cheek, along the jaw - with two yellow eyes under heavy drawn brows " +
-      "and a wide mouth pulled back off uneven cream teeth.\\n\\n" +
+      "and a wide mouth pulled back off uneven cream teeth.\n\n" +
       "The armour is made rather than manufactured: tan hide panels lashed on " +
       "with cord and crossed sticks, knotted at the shoulders and again at the " +
       "waist, with pale blue crystals set into it - one large at the chest, " +
@@ -20267,7 +20268,7 @@ window.COLLECTION = [
     tags: ["villain", "alien", "primitive", "crystals", "scarred", "lavender", "hide-armour", "custom"],
     images: ["images/the-primitive-alien-01.jpg"],
     acquired: "",
-    notes: "Seventh alien body on that deck with nothing written between it and any of the others. The catalogue holds mercenaries nobody has photographed, a militia with a school, five Alien Soldiers, four Alien Goons, a Grey Alien Soldier and a Blue-Eyed Alien, all kept apart because nothing in the world joined them up. He makes seven doors.\\n\\nWhat separates him from the other six is that he is not equipped, he is dressed. Every alien on that side so far wears printed armour or a uniform of some kind; his is hide and cord and sticks, tied on by hand, with crystals wedged into it. Nothing here is manufactured.\\n\\nThe crystals are the open question. They are set at the chest, the ribs and both thighs, which is where you would put armour plates - so either they are the armour, or they are what he is carrying, or they are what he is. The Rock Monsters waiting in the pending file are crystal too, and nobody has said whether that means anything."
+    notes: "Seventh alien body on that deck with nothing written between it and any of the others. The catalogue holds mercenaries nobody has photographed, a militia with a school, five Alien Soldiers, four Alien Goons, a Grey Alien Soldier and a Blue-Eyed Alien, all kept apart because nothing in the world joined them up. He makes seven doors.\n\nWhat separates him from the other six is that he is not equipped, he is dressed. Every alien on that side so far wears printed armour or a uniform of some kind; his is hide and cord and sticks, tied on by hand, with crystals wedged into it. Nothing here is manufactured.\n\nThe crystals are the open question. They are set at the chest, the ribs and both thighs, which is where you would put armour plates - so either they are the armour, or they are what he is carrying, or they are what he is. The Rock Monsters waiting in the pending file are crystal too, and nobody has said whether that means anything."
   },
 
   {
@@ -20293,14 +20294,14 @@ window.COLLECTION = [
       "standing out from the throat and a hose running back over one shoulder. " +
       "Through the green: a face that is not a face - a white skull mask drawn " +
       "across it with black sockets, a fanged jaw, and two yellow wings " +
-      "sweeping back from the eyes.\\n\\n" +
+      "sweeping back from the eyes.\n\n" +
       "A blue torso printed with the silver rig over it, a pressure gauge at " +
       "one side and a readout at the other. One black arm and one blue, grey " +
       "and black hands, black legs with a blue seam at the hips.",
     tags: ["villain", "king", "sea", "diver", "helmet", "skull-mask", "breathing-gear", "custom"],
     images: ["images/the-underwater-king-01.jpg"],
     acquired: "",
-    notes: "This may be the card that closes the sea, and it is being flagged rather than assumed.\\n\\nFive creatures have arrived down there across four batches - a shark, two squids, an anglerfish and a manta - all built the same way, all on this deck, and every single time the catalogue has refused to group them because habitat is not affiliation and nobody had said they answered to anything. The one line that kept being written was that the squid wears the only insignia, so if there is an order down there it starts with him.\\n\\nNow there is a king. If he is their king, the group exists, the Atlantis Dive Team finally has a named enemy after twelve people and a second crew of three have been diving into nothing, and one of the oldest open questions in this catalogue closes on a word.\\n\\nWhat gives pause is that he is not a creature. He is a man in a diving rig - breathing gear, a pressure gauge, a hose - with a skull painted over his face. The five down there are animals with moulded heads. A king who has to bring his own air is not obviously the king of the things that live in the water, and that is exactly why no line has been drawn.\\n\\nHe is the tenth ruler on the villain side, after two kings, two pharaohs, a queen, an emperor, a dictator, a governor and a supreme chancellor - and the Shadow King is the only other one whose kingdom is a place rather than a people."
+    notes: "This may be the card that closes the sea, and it is being flagged rather than assumed.\n\nFive creatures have arrived down there across four batches - a shark, two squids, an anglerfish and a manta - all built the same way, all on this deck, and every single time the catalogue has refused to group them because habitat is not affiliation and nobody had said they answered to anything. The one line that kept being written was that the squid wears the only insignia, so if there is an order down there it starts with him.\n\nNow there is a king. If he is their king, the group exists, the Atlantis Dive Team finally has a named enemy after twelve people and a second crew of three have been diving into nothing, and one of the oldest open questions in this catalogue closes on a word.\n\nWhat gives pause is that he is not a creature. He is a man in a diving rig - breathing gear, a pressure gauge, a hose - with a skull painted over his face. The five down there are animals with moulded heads. A king who has to bring his own air is not obviously the king of the things that live in the water, and that is exactly why no line has been drawn.\n\nHe is the tenth ruler on the villain side, after two kings, two pharaohs, a queen, an emperor, a dictator, a governor and a supreme chancellor - and the Shadow King is the only other one whose kingdom is a place rather than a people."
   },
 
   {
@@ -20330,7 +20331,7 @@ window.COLLECTION = [
     tags: ["villain", "star-wars", "branded", "clone", "commando", "black", "helmet", "shadow"],
     images: ["images/the-shadow-commando-01.jpg"],
     acquired: "",
-    notes: "Third black-kit unit in this collection, and the name you gave him is the one the other two already carry. The Shadow Troopers are stormtroopers moulded in black instead of white, catalogued good, with a card saying they are the exact photographic negative of the standard figure. The Shadow ARF Trooper is a recon clone issued the same way, catalogued bad. This is the commando version, and it is bad too.\\n\\nSo the black kit now runs across three different unit types, one good and two on this side, and every time one has arrived the same offer has been made and not taken: if the black means one outfit rather than three coincidences, say so and they go in a group together. It is now the oldest unclaimed group in the catalogue.\\n\\nHe is also the fourth clone on the villain side, after the Clone Traitor who turned, Jek-14 who was built by the other side, and the Shadow ARF Trooper. Four Clone Commandos are catalogued - Sev, Fixer, Scorch and Boss - and every one of them is good. This is the first commando against them."
+    notes: "Third black-kit unit in this collection, and the name you gave him is the one the other two already carry. The Shadow Troopers are stormtroopers moulded in black instead of white, catalogued good, with a card saying they are the exact photographic negative of the standard figure. The Shadow ARF Trooper is a recon clone issued the same way, catalogued bad. This is the commando version, and it is bad too.\n\nSo the black kit now runs across three different unit types, one good and two on this side, and every time one has arrived the same offer has been made and not taken: if the black means one outfit rather than three coincidences, say so and they go in a group together. It is now the oldest unclaimed group in the catalogue.\n\nHe is also the fourth clone on the villain side, after the Clone Traitor who turned, Jek-14 who was built by the other side, and the Shadow ARF Trooper. Four Clone Commandos are catalogued - Sev, Fixer, Scorch and Boss - and every one of them is good. This is the first commando against them."
   },
 
   {
@@ -20358,7 +20359,7 @@ window.COLLECTION = [
     tags: ["villain", "yeti", "creature", "snow", "moulded", "non-minifigure", "white", "custom"],
     images: ["images/the-yeti-01.jpg"],
     acquired: "",
-    notes: "There is already a Wampa here - white, shaggy, a predator, and the card that made the point that nobody sent him. A yeti and a wampa are the same idea twice, from two different worlds, and they are both on this deck. Nothing is written between them and nothing should be, but somebody should say whether this world has two of that animal or one animal with two names.\\n\\nAnother of the things on that deck that are simply animals rather than people - the Wampa, the Evil Bug, and the five in the water. And tenth thing in the collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Wampa, Lotso, Gollum, the Giant Orc, Matthew and the Tanker Droid.\\n\\nHis eyes are the detail. The sockets are moulded but nothing is printed in them, so there is nothing looking out - which on a figure this size reads as worse than a painted stare would."
+    notes: "There is already a Wampa here - white, shaggy, a predator, and the card that made the point that nobody sent him. A yeti and a wampa are the same idea twice, from two different worlds, and they are both on this deck. Nothing is written between them and nothing should be, but somebody should say whether this world has two of that animal or one animal with two names.\n\nAnother of the things on that deck that are simply animals rather than people - the Wampa, the Evil Bug, and the five in the water. And tenth thing in the collection that is not minifigure-shaped, after the Kaminoan, the Martian Leader, Jabba, the Wampa, Lotso, Gollum, the Giant Orc, Matthew and the Tanker Droid.\n\nHis eyes are the detail. The sockets are moulded but nothing is printed in them, so there is nothing looking out - which on a figure this size reads as worse than a painted stare would."
   },
 
   {
@@ -20386,7 +20387,7 @@ window.COLLECTION = [
     tags: ["villain", "prince", "heir", "spiked-armour", "scar", "custom"],
     images: ["images/the-evil-kings-son-01.jpg"],
     acquired: "",
-    notes: "Three kings sit on the villain side - the Shadow King, the Light King and the Underwater King - and nothing on this card says which of them is his father. The plastic has an opinion though. He is wearing the same black torso print and the same spiked shoulder piece as the Underwater King's military commander, who arrived in this same batch, and a uniform shared with a king's commander is the strongest thing pointing anywhere. It is still not a word from you, so no line is drawn.\\n\\nIf it is the Shadow King, this card is much heavier than it looks. That one already has a son here: the Shadow Prince, who helped negotiate the end of the Great Shadow War, is on the good deck, and his card says you can tell just by looking at him that he is not full shadow. Two sons, one good and one not, would be the first family in this collection split across the two decks by choice rather than by betrayal.\\n\\nSecond figure on this deck whose title is Prince, after Zuko. The Prince Pretender is over here too and is not a prince at all - he claims the throne rather than being born to it - which makes this one the first heir on the villain side who actually is somebody's son."
+    notes: "Three kings sit on the villain side - the Shadow King, the Light King and the Underwater King - and nothing on this card says which of them is his father. The plastic has an opinion though. He is wearing the same black torso print and the same spiked shoulder piece as the Underwater King's military commander, who arrived in this same batch, and a uniform shared with a king's commander is the strongest thing pointing anywhere. It is still not a word from you, so no line is drawn.\n\nIf it is the Shadow King, this card is much heavier than it looks. That one already has a son here: the Shadow Prince, who helped negotiate the end of the Great Shadow War, is on the good deck, and his card says you can tell just by looking at him that he is not full shadow. Two sons, one good and one not, would be the first family in this collection split across the two decks by choice rather than by betrayal.\n\nSecond figure on this deck whose title is Prince, after Zuko. The Prince Pretender is over here too and is not a prince at all - he claims the throne rather than being born to it - which makes this one the first heir on the villain side who actually is somebody's son."
   },
 
   {
@@ -20445,7 +20446,7 @@ window.COLLECTION = [
     tags: ["villain", "commander", "sea", "helmet", "spiked-armour", "custom"],
     images: ["images/the-underwater-commander-01.jpg"],
     acquired: "",
-    notes: "The first line ever drawn into the water, and you drew it: he commands the Underwater King's military force, said in as many words, so it is on the card as a relation rather than as a guess.\\n\\nThat matters because of what is still not connected. Five creatures are catalogued down there - a shark, two squids, an anglerfish and a manta - and across four batches the catalogue has refused every time to group them, because habitat is not affiliation. There is now a king with a commander and an army, and five animals in the same water, and not one word joining the two halves. If the creatures are his force, the group exists and the Atlantis Dive Team finally has a named enemy.\\n\\nThe other thing on this card is the uniform. The Evil King's Son, in this same batch, is wearing the identical torso print and the identical spiked shoulder piece. A commander and a prince in the same kit is the closest thing to an answer about which king fathered that boy, and it is still not an answer."
+    notes: "The first line ever drawn into the water, and you drew it: he commands the Underwater King's military force, said in as many words, so it is on the card as a relation rather than as a guess.\n\nThat matters because of what is still not connected. Five creatures are catalogued down there - a shark, two squids, an anglerfish and a manta - and across four batches the catalogue has refused every time to group them, because habitat is not affiliation. There is now a king with a commander and an army, and five animals in the same water, and not one word joining the two halves. If the creatures are his force, the group exists and the Atlantis Dive Team finally has a named enemy.\n\nThe other thing on this card is the uniform. The Evil King's Son, in this same batch, is wearing the identical torso print and the identical spiked shoulder piece. A commander and a prince in the same kit is the closest thing to an answer about which king fathered that boy, and it is still not an answer."
   },
 
   {
@@ -20475,7 +20476,7 @@ window.COLLECTION = [
     tags: ["villain", "named", "skull-face", "spiked-armour", "hood", "hook", "custom"],
     images: ["images/thresher-01.jpg"],
     acquired: "",
-    notes: "He has a name, which is rare here. The home-made villains with personal names come to a handful - Quinn, Phalanx, General Shepherd, Johnny Plasma, Wen, Long Arm Johnson, Deus Pater and Matthew - and he is the ninth.\\n\\nHe is also the third figure to arrive in one particular uniform. The Underwater King's Commander wears the identical black torso print and the identical spiked shoulder piece, and so does the Evil King's Son. Three men in the same kit, one of them stated to command a king's military force, one of them a king's son, and this one with a name and a hook. That is a unit in everything but a word from you.\\n\\nThe skull face is the other link. The Underwater King has a skull drawn across his face too, behind a green helmet. So does the Underwater King's Commander have a silver grille over the mouth. Whatever this outfit is, its people do not show their faces and what they show instead is a death's head.\\n\\nThe hook is transparent green, which is the only piece of colour on him."
+    notes: "He has a name, which is rare here. The home-made villains with personal names come to a handful - Quinn, Phalanx, General Shepherd, Johnny Plasma, Wen, Long Arm Johnson, Deus Pater and Matthew - and he is the ninth.\n\nHe is also the third figure to arrive in one particular uniform. The Underwater King's Commander wears the identical black torso print and the identical spiked shoulder piece, and so does the Evil King's Son. Three men in the same kit, one of them stated to command a king's military force, one of them a king's son, and this one with a name and a hook. That is a unit in everything but a word from you.\n\nThe skull face is the other link. The Underwater King has a skull drawn across his face too, behind a green helmet. So does the Underwater King's Commander have a silver grille over the mouth. Whatever this outfit is, its people do not show their faces and what they show instead is a death's head.\n\nThe hook is transparent green, which is the only piece of colour on him."
   },
 
   {
@@ -20505,7 +20506,7 @@ window.COLLECTION = [
     tags: ["villain", "robot", "machine", "grey", "armoured", "red-mouth", "custom"],
     images: ["images/the-tanker-robot-01.jpg"],
     acquired: "",
-    notes: "Not the same thing as the Tanker Droid, which is a built machine standing three times a minifigure's bulk on slab feet. This one is minifigure-shaped and wears armour, which the Droid does not - it is armour all the way through.\\n\\nThe face is the whole card. Every other machine on that deck reads as a machine: the Missile has no face, the Killer Bots have visors, Ultron has a lit grille, the Tanker Droid has one red slit, the Cyborg has a targeting lens. This one is smiling. A red mouth curved upward with the teeth showing underneath is the only cheerful expression on any enemy machine in this collection, and it is the worst thing about him.\\n\\nHe joins a villain side that now holds the Missile, two Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Robot Builder, the Tanker Droid, three Ultrons and the Cyborg."
+    notes: "Not the same thing as the Tanker Droid, which is a built machine standing three times a minifigure's bulk on slab feet. This one is minifigure-shaped and wears armour, which the Droid does not - it is armour all the way through.\n\nThe face is the whole card. Every other machine on that deck reads as a machine: the Missile has no face, the Killer Bots have visors, Ultron has a lit grille, the Tanker Droid has one red slit, the Cyborg has a targeting lens. This one is smiling. A red mouth curved upward with the teeth showing underneath is the only cheerful expression on any enemy machine in this collection, and it is the worst thing about him.\n\nHe joins a villain side that now holds the Missile, two Killer Bots, the Robotic Samurai, the Television, the Successful Replica, the Robot Builder, the Tanker Droid, three Ultrons and the Cyborg."
   },
 
   {
@@ -20533,7 +20534,7 @@ window.COLLECTION = [
     tags: ["villain", "star-wars", "branded", "clone", "trooper", "black", "helmet", "shadow"],
     images: ["images/the-black-clone-trooper-01.jpg"],
     acquired: "",
-    notes: "You called him a shadow soldier and that name is taken, which is why the card reads the way it does. The Shadow Soldiers here are seven blank black figures out of the shadow dimension - no face, no printing, people with everything taken out - and he is a printed clone in black armour. Two very different things cannot hold the same name, so he is filed for what he is until you give him another.\\n\\nWhat he does is complete a set. The black kit now runs across four unit types: the Shadow Troopers, who are stormtroopers in black and filed good; the Shadow ARF Trooper, a recon clone; the Shadow Commando, who arrived last batch; and now the standard trooper. Three of the four are on this side. That offer has been made four times and never taken, and it is the oldest open group in the catalogue.\\n\\nHe is also the fifth clone on the villain side, against eighteen good ones."
+    notes: "You called him a shadow soldier and that name is taken, which is why the card reads the way it does. The Shadow Soldiers here are seven blank black figures out of the shadow dimension - no face, no printing, people with everything taken out - and he is a printed clone in black armour. Two very different things cannot hold the same name, so he is filed for what he is until you give him another.\n\nWhat he does is complete a set. The black kit now runs across four unit types: the Shadow Troopers, who are stormtroopers in black and filed good; the Shadow ARF Trooper, a recon clone; the Shadow Commando, who arrived last batch; and now the standard trooper. Three of the four are on this side. That offer has been made four times and never taken, and it is the oldest open group in the catalogue.\n\nHe is also the fifth clone on the villain side, against eighteen good ones."
   },
 
   {
@@ -20561,7 +20562,7 @@ window.COLLECTION = [
     tags: ["villain", "martian", "alien", "translucent", "green", "non-minifigure", "unprinted", "custom"],
     images: ["images/the-kartians-01.jpg"],
     acquired: "",
-    notes: "The name came in as kartians martians and the card keeps the first word, because that is the one that is not already a card here. The Martians are catalogued separately - three of them, green heads with fangs and magenta arms, in a group with the Martian Leader who took an army into Lego City. These four are not those. They are clear green and they are not minifigure-shaped at all.\\n\\nSo either Kartian is what that species is called and the Martians are something else, or these are the same people seen another way. Nothing has been said and the two cards are kept apart, which is the eighth alien body on that deck with nothing written between it and the others.\\n\\nThey also make the transparent figures a pattern rather than an oddity. Darth Vader's card once claimed he was the only figure here you could see the shelf through; a hologram of Darth Revan corrected that, and these four correct it again. Four at once is more than the rest of the collection has managed in total."
+    notes: "The name came in as kartians martians and the card keeps the first word, because that is the one that is not already a card here. The Martians are catalogued separately - three of them, green heads with fangs and magenta arms, in a group with the Martian Leader who took an army into Lego City. These four are not those. They are clear green and they are not minifigure-shaped at all.\n\nSo either Kartian is what that species is called and the Martians are something else, or these are the same people seen another way. Nothing has been said and the two cards are kept apart, which is the eighth alien body on that deck with nothing written between it and the others.\n\nThey also make the transparent figures a pattern rather than an oddity. Darth Vader's card once claimed he was the only figure here you could see the shelf through; a hologram of Darth Revan corrected that, and these four correct it again. Four at once is more than the rest of the collection has managed in total."
   },
 
   {
@@ -20590,7 +20591,7 @@ window.COLLECTION = [
     tags: ["star-wars", "branded", "droid", "astromech", "dark-red", "armless", "jedi"],
     images: ["images/r4-p17-01.jpg"],
     acquired: "",
-    notes: "Eight astromechs were catalogued here before this batch and every single one of them had an empty relations list. Nobody owned any of them. They were a shelf of droids with no people attached - R2-D2, the Blue, the Cone-Headed, the Brown, the Red-Domed, the Horned, the Junk and the Teal.\\n\\nThis is the first astromech in the collection with an owner, and the owner is already here: Obi-Wan Kenobi, who stands at six figures on one card and until now had no relation written to anybody at all. His card had been empty since it was made. A droid closed it.\\n\\nNamed R4-P17 on the strength of the colours - dark red over white is Obi-Wan's unit - and you said you thought the first one was his, which agrees. If the designation is wrong the card takes a descriptive name instead, the way the Teal Astromech has one."
+    notes: "Eight astromechs were catalogued here before this batch and every single one of them had an empty relations list. Nobody owned any of them. They were a shelf of droids with no people attached - R2-D2, the Blue, the Cone-Headed, the Brown, the Red-Domed, the Horned, the Junk and the Teal.\n\nThis is the first astromech in the collection with an owner, and the owner is already here: Obi-Wan Kenobi, who stands at six figures on one card and until now had no relation written to anybody at all. His card had been empty since it was made. A droid closed it.\n\nNamed R4-P17 on the strength of the colours - dark red over white is Obi-Wan's unit - and you said you thought the first one was his, which agrees. If the designation is wrong the card takes a descriptive name instead, the way the Teal Astromech has one."
   },
 
   {
@@ -20619,7 +20620,7 @@ window.COLLECTION = [
     tags: ["star-wars", "branded", "droid", "astromech", "lime", "armless", "jedi"],
     images: ["images/r7-a7-01.jpg"],
     acquired: "",
-    notes: "The second astromech ever to have somebody, and it arrived in the same batch as the first. Reddish brown and lime is Ahsoka Tano's unit, which makes this R7-A7.\\n\\nHer card is the better fit of the two. Ahsoka already had one relation - Ahsoka's Trooper, who serves under her - so she is one of the few figures here with people written around her rather than beside her. She now has a soldier and a droid.\\n\\nTen astromechs are catalogued now, nine of them good. Two have owners and eight do not, and those eight are still standing on the shelf belonging to nobody."
+    notes: "The second astromech ever to have somebody, and it arrived in the same batch as the first. Reddish brown and lime is Ahsoka Tano's unit, which makes this R7-A7.\n\nHer card is the better fit of the two. Ahsoka already had one relation - Ahsoka's Trooper, who serves under her - so she is one of the few figures here with people written around her rather than beside her. She now has a soldier and a droid.\n\nTen astromechs are catalogued now, nine of them good. Two have owners and eight do not, and those eight are still standing on the shelf belonging to nobody."
   },
 
   {
@@ -20648,7 +20649,7 @@ window.COLLECTION = [
     tags: ["adventurer", "knock-off", "third-party", "fedora", "holster", "indiana-jones"],
     images: ["images/the-knock-off-adventurer-01.jpg"],
     acquired: "",
-    notes: "This world already has a word for him. The Knock-offs are figures that came out of other makers rather than out of Lego, and the lore says they went to war - and there are seven here already, five on the good side and two on the other: the Replica, the Defector, the Car Repairman, the Brute Prince, the Prince's Impersonator, the Knock-off Captain and the Successful Replica.\\n\\nWhat makes him different from all seven is who he is a copy of. Indiana Jones is catalogued here, with his father beside him, and this is a copy of a man who is on the shelf. That has only happened twice before: the Prince's Impersonator, who is a stunt double and filed good, and the False Kai, who went undercover as a ninja and is filed bad. No line is drawn to Indiana Jones, because nothing says the two have ever been in the same room.\\n\\nHe is filed good because nothing said otherwise and the last run of villains has ended. One word moves him."
+    notes: "This world already has a word for him. The Knock-offs are figures that came out of other makers rather than out of Lego, and the lore says they went to war - and there are seven here already, five on the good side and two on the other: the Replica, the Defector, the Car Repairman, the Brute Prince, the Prince's Impersonator, the Knock-off Captain and the Successful Replica.\n\nWhat makes him different from all seven is who he is a copy of. Indiana Jones is catalogued here, with his father beside him, and this is a copy of a man who is on the shelf. That has only happened twice before: the Prince's Impersonator, who is a stunt double and filed good, and the False Kai, who went undercover as a ninja and is filed bad. No line is drawn to Indiana Jones, because nothing says the two have ever been in the same room.\n\nHe is filed good because nothing said otherwise and the last run of villains has ended. One word moves him."
   },
 
   {
@@ -20677,7 +20678,7 @@ window.COLLECTION = [
     tags: ["villain", "indiana-jones", "branded", "woman", "blonde", "jacket"],
     images: ["images/elsa-schneider-01.jpg"],
     acquired: "",
-    notes: "First villain out of Indiana Jones, and the theme goes from two figures to four in one batch. Before this it held Indiana Jones and his father and nothing else - one of the smallest and most one-sided corners of the collection.\\n\\nThe thrift-shop set is the part worth writing down. You found this one secondhand, and the film she is the villain of is the one with the father in it - and the father has been catalogued here for a long time. So the set you picked up is the same story as two cards that were already on the shelf, bought separately and years apart.\\n\\nNamed Elsa Schneider on the strength of the film and the figure; you were not sure of the name either, so if it is wrong the card takes a descriptive one. She is the eleventh woman on the villain side."
+    notes: "First villain out of Indiana Jones, and the theme goes from two figures to four in one batch. Before this it held Indiana Jones and his father and nothing else - one of the smallest and most one-sided corners of the collection.\n\nThe thrift-shop set is the part worth writing down. You found this one secondhand, and the film she is the villain of is the one with the father in it - and the father has been catalogued here for a long time. So the set you picked up is the same story as two cards that were already on the shelf, bought separately and years apart.\n\nNamed Elsa Schneider on the strength of the film and the figure; you were not sure of the name either, so if it is wrong the card takes a descriptive one. She is the eleventh woman on the villain side."
   },
 
   {
@@ -20706,7 +20707,7 @@ window.COLLECTION = [
     tags: ["ninja", "ninjago", "branded", "sailor", "telescope", "red", "traveller"],
     images: ["images/the-ninja-seaman-01.jpg"],
     acquired: "",
-    notes: "He is a red ninja, and this collection already has two of those plus a man who pretended to be one. Kai is catalogued, in the older gi with the rope crossing and the gold flame crest; the Red Ninja is home-made; the False Kai went undercover as Kai and is filed bad. This figure is a different Kai print from the one on Kai's card - diagonal sashes instead of rope, patterned legs instead of plain.\\n\\nSo he is on his own card rather than merged, because you introduced him as the ninja seaman rather than as Kai, and the one-entry rule cuts both ways: putting him on Kai's card would claim he is Kai, and a world that already contains a False Kai is a world where a red ninja is not automatically that man. Say he is Kai and the two cards become one, with the boat as new lore about him.\\n\\nWhat he is doing is unusual on its own terms. Two figures here have Traveller written as their job - one who walks around the city and one who lives in the space between dimensions - and he is not filed as one, but he belongs with them. He is the only person in this collection who travels by sea, and the only ninja whose stated interest is going somewhere rather than fighting."
+    notes: "He is a red ninja, and this collection already has two of those plus a man who pretended to be one. Kai is catalogued, in the older gi with the rope crossing and the gold flame crest; the Red Ninja is home-made; the False Kai went undercover as Kai and is filed bad. This figure is a different Kai print from the one on Kai's card - diagonal sashes instead of rope, patterned legs instead of plain.\n\nSo he is on his own card rather than merged, because you introduced him as the ninja seaman rather than as Kai, and the one-entry rule cuts both ways: putting him on Kai's card would claim he is Kai, and a world that already contains a False Kai is a world where a red ninja is not automatically that man. Say he is Kai and the two cards become one, with the boat as new lore about him.\n\nWhat he is doing is unusual on its own terms. Two figures here have Traveller written as their job - one who walks around the city and one who lives in the space between dimensions - and he is not filed as one, but he belongs with them. He is the only person in this collection who travels by sea, and the only ninja whose stated interest is going somewhere rather than fighting."
   },
 
   {
@@ -20733,7 +20734,7 @@ window.COLLECTION = [
     tags: ["civilian", "chef", "real-person", "woman", "fur-hat", "winter", "custom"],
     images: ["images/sarah-01.jpg"],
     acquired: "",
-    notes: "The seventh figure in this collection named after somebody real, after Kaz, Kenjen, Jimzon, Curtis, George Joudrie and Sean - and the first woman among them.\\n\\nShe and Sean arrived in the same batch and the shelf has an opinion about that. They are wearing the same pale fur-lined hat, they are holding the same brown branch, and they were photographed one after the other in the same light. Nothing has been said about who she is to him, so nothing is drawn - but the two figures were clearly put together as a pair, and that is on the card because it is a fact about the plastic rather than a guess about the people.\\n\\nThird chef here, after the Chef and the Apprentice Chef, and the only one of the three dressed for weather. A chef's whites under a trapper hat is not a kitchen outfit. She is a cook who is outdoors."
+    notes: "The seventh figure in this collection named after somebody real, after Kaz, Kenjen, Jimzon, Curtis, George Joudrie and Sean - and the first woman among them.\n\nShe and Sean arrived in the same batch and the shelf has an opinion about that. They are wearing the same pale fur-lined hat, they are holding the same brown branch, and they were photographed one after the other in the same light. Nothing has been said about who she is to him, so nothing is drawn - but the two figures were clearly put together as a pair, and that is on the card because it is a fact about the plastic rather than a guess about the people.\n\nThird chef here, after the Chef and the Apprentice Chef, and the only one of the three dressed for weather. A chef's whites under a trapper hat is not a kitchen outfit. She is a cook who is outdoors."
   },
 
   {
@@ -20763,7 +20764,7 @@ window.COLLECTION = [
     tags: ["indiana-jones", "branded", "turban", "field-kit", "ambiguous"],
     images: ["images/kazim-01.jpg"],
     acquired: "",
-    notes: "You said I could decide which side he is on, so here is the decision and the reasoning rather than just the answer.\\n\\nHe is filed good. In the film he attacks first and is not an enemy: he belongs to an order sworn to keep something buried, and once he understands what the other man is actually doing he stops and helps. That is a man who was in the way, not a man on the other side - and this collection already knows the difference. It holds the Blue Demigod, who came through uninvited with an army to stop a war and reads as an intrusion rather than an enemy, and the Pharaoh, whose card says cursing the people who rob your own grave is the most defensible thing anybody on that deck has done.\\n\\nThere is a third option and it has never been used. The site has a neutral faction built into it, labelled In Between, with nobody in it - a whole empty deck. He would be the first, and if you would rather have that than a decision, say so and he opens it.\n\nIt has been used since. Three skeletons opened that deck a few batches later, filed neutral because you introduced them that way, and they are the only figures in the collection not on a side. So the offer on this card is no longer hypothetical: In Between exists, it has residents, and he can move there on one word. He stays good until you say otherwise, because a decision was asked for and made.\n\nAnd it has been withdrawn since that. The neutral deck is closed - a whole tab holding one card was not helping anybody, so the skeletons went to the bad deck and the third side came off the page. The offer written above is dead. What replaced it is a combined deck showing both sides at once, which is a different kind of answer to the same problem: he does not need a third side to sit between two, because the page now draws them together anyway.\\n\\nFifth figure out of Indiana Jones, from the same secondhand set as Elsa Schneider."
+    notes: "You said I could decide which side he is on, so here is the decision and the reasoning rather than just the answer.\n\nHe is filed good. In the film he attacks first and is not an enemy: he belongs to an order sworn to keep something buried, and once he understands what the other man is actually doing he stops and helps. That is a man who was in the way, not a man on the other side - and this collection already knows the difference. It holds the Blue Demigod, who came through uninvited with an army to stop a war and reads as an intrusion rather than an enemy, and the Pharaoh, whose card says cursing the people who rob your own grave is the most defensible thing anybody on that deck has done.\n\nThere is a third option and it has never been used. The site has a neutral faction built into it, labelled In Between, with nobody in it - a whole empty deck. He would be the first, and if you would rather have that than a decision, say so and he opens it.\n\nIt has been used since. Three skeletons opened that deck a few batches later, filed neutral because you introduced them that way, and they are the only figures in the collection not on a side. So the offer on this card is no longer hypothetical: In Between exists, it has residents, and he can move there on one word. He stays good until you say otherwise, because a decision was asked for and made.\n\nAnd it has been withdrawn since that. The neutral deck is closed - a whole tab holding one card was not helping anybody, so the skeletons went to the bad deck and the third side came off the page. The offer written above is dead. What replaced it is a combined deck showing both sides at once, which is a different kind of answer to the same problem: he does not need a third side to sit between two, because the page now draws them together anyway.\n\nFifth figure out of Indiana Jones, from the same secondhand set as Elsa Schneider."
   },
 
   {
@@ -20794,7 +20795,7 @@ window.COLLECTION = [
     tags: ["indiana-jones", "branded", "curator", "bowler", "glasses", "suit", "academic"],
     images: ["images/marcus-brody-01.jpg"],
     acquired: "",
-    notes: "The thrift-shop set is resolved. Elsa Schneider came in last batch, and with Kazim and this man the figures line up as one Indiana Jones set from the film with the father in it - and Indiana Jones and his father were both already on this shelf, bought separately and years apart. You picked up secondhand the rest of a story the collection had two thirds of.\\n\\nSix figures out of Indiana Jones now, one of them a knock-off and one of them a villain.\\n\\nHe is also the fourth academic here and the only one who is not a professor. The Alien Professor is dead, the Hogwarts Professor and Professor Sprout are both out of a box, and this one runs a museum. Linked to Indiana Jones as his friend, which the film says outright - the two of them work together and have for years."
+    notes: "The thrift-shop set is resolved. Elsa Schneider came in last batch, and with Kazim and this man the figures line up as one Indiana Jones set from the film with the father in it - and Indiana Jones and his father were both already on this shelf, bought separately and years apart. You picked up secondhand the rest of a story the collection had two thirds of.\n\nSix figures out of Indiana Jones now, one of them a knock-off and one of them a villain.\n\nHe is also the fourth academic here and the only one who is not a professor. The Alien Professor is dead, the Hogwarts Professor and Professor Sprout are both out of a box, and this one runs a museum. Linked to Indiana Jones as his friend, which the film says outright - the two of them work together and have for years."
   },
 
   {
@@ -20823,7 +20824,7 @@ window.COLLECTION = [
     tags: ["animal-crossing", "branded", "bear", "villager", "moulded-head", "jumper", "watering-can"],
     images: ["images/the-bear-villager-01.jpg"],
     acquired: "",
-    notes: "Opens a twenty-first theme. Animal Crossing is the game - the animal one, with the villagers and the island - and that much is certain. Which villager she is, is not: she is a brown bear cub in a jumper with a tree on it, and I cannot put a name to her with enough confidence to write one down. Named for what she is, the way the Teal Astromech and the Blue Imperial Trooper are. If you know her, the card takes it.\\n\\nShe also arrived carrying the same lime green watering can as the Asteroid Gardener in this same batch. Two figures from two entirely different worlds holding the identical piece is the sort of thing this collection notices and does not act on.\\n\\nTwenty-one themes now, and this is the gentlest one in the building. Everything else that came out of a box arrived with a war attached."
+    notes: "Opens a twenty-first theme. Animal Crossing is the game - the animal one, with the villagers and the island - and that much is certain. Which villager she is, is not: she is a brown bear cub in a jumper with a tree on it, and I cannot put a name to her with enough confidence to write one down. Named for what she is, the way the Teal Astromech and the Blue Imperial Trooper are. If you know her, the card takes it.\n\nShe also arrived carrying the same lime green watering can as the Asteroid Gardener in this same batch. Two figures from two entirely different worlds holding the identical piece is the sort of thing this collection notices and does not act on.\n\nTwenty-one themes now, and this is the gentlest one in the building. Everything else that came out of a box arrived with a war attached."
   },
 
   {
@@ -20847,7 +20848,7 @@ window.COLLECTION = [
       "all. An orange vest printed over the torso with a dark belt below it, " +
       "and tan legs under that. He is holding a knight's shield: white-edged, " +
       "quartered blue and red, with a crowned gold lion rearing across the " +
-      "middle of it.\\n\\n" +
+      "middle of it.\n\n" +
       "Beside him are the slimes. One is a spare lime head with the same two " +
       "eyes on it and nothing else. The other stands on its own - a lime body " +
       "with eyes printed straight onto it, and over the top a transparent " +
@@ -20859,7 +20860,7 @@ window.COLLECTION = [
       { src: "images/the-slime-king-02.jpg", caption: "Concept art" },
     ],
     acquired: "",
-    notes: "Sixth king on the good side, after the Prince, King Arthur, the Dwarf King, the City King and the elected one. Rulers in this collection have been drifting the wrong way for a long time - the villain deck holds two kings, two pharaohs, a queen, an emperor, a dictator, a governor, a supreme chancellor and an underwater king, ten in all - so a king arriving on this deck is worth noting on its own.\\n\\nWhat he is carrying is the odd part. The shield is a proper heraldic one, quartered and charged with a crowned lion, and it does not belong to anything else on him. A faceless green man in an orange vest holding somebody's coat of arms is either a king who inherited the arms and not the clothes, or a slime that found a shield.\\n\\nThe slimes are on his card rather than their own because you handed them in as his and they have no faces beyond the eyes. If they are people rather than his, they split off.\n\nThe painting is his. Everything the card describes is in it and nothing was invented for it: one continuous green from crown to boot, two black eyes and no mouth at all, the marigold vest over the wide belt, the tan rags below, and the shield quartered blue and red with the crowned gold lion rearing across the middle. The slimes came out right too - one plain lump with the same two eyes, and one that is a creature inside a creature, its own eyes under a glass dome with another pair showing through."
+    notes: "Sixth king on the good side, after the Prince, King Arthur, the Dwarf King, the City King and the elected one. Rulers in this collection have been drifting the wrong way for a long time - the villain deck holds two kings, two pharaohs, a queen, an emperor, a dictator, a governor, a supreme chancellor and an underwater king, ten in all - so a king arriving on this deck is worth noting on its own.\n\nWhat he is carrying is the odd part. The shield is a proper heraldic one, quartered and charged with a crowned lion, and it does not belong to anything else on him. A faceless green man in an orange vest holding somebody's coat of arms is either a king who inherited the arms and not the clothes, or a slime that found a shield.\n\nThe slimes are on his card rather than their own because you handed them in as his and they have no faces beyond the eyes. If they are people rather than his, they split off.\n\nThe painting is his. Everything the card describes is in it and nothing was invented for it: one continuous green from crown to boot, two black eyes and no mouth at all, the marigold vest over the wide belt, the tan rags below, and the shield quartered blue and red with the crowned gold lion rearing across the middle. The slimes came out right too - one plain lump with the same two eyes, and one that is a creature inside a creature, its own eyes under a glass dome with another pair showing through."
   },
 
   {
@@ -20889,7 +20890,7 @@ window.COLLECTION = [
     tags: ["gardener", "asteroid", "space", "helmet", "shears", "watering-can", "happy", "custom"],
     images: ["images/the-asteroid-gardener-01.jpg"],
     acquired: "",
-    notes: "The first gardener in this collection, and one of very few people here whose card says they enjoy what they do. There are farmers, a fisherman, a chef and a librarian on the good deck, but the word enjoy is almost never written down - most cards say what somebody is for.\\n\\nShe is also the answer to a shape this collection keeps making. Space in here is astronauts, pilots, marshals, militia and a police force; the asteroid belt is somewhere you mine or crash. She lives on one and grows things on it.\\n\\nThe shears are as long as her arm and the watering can is the same lime green piece the bear villager out of Animal Crossing is holding, two cards away and one world over."
+    notes: "The first gardener in this collection, and one of very few people here whose card says they enjoy what they do. There are farmers, a fisherman, a chef and a librarian on the good deck, but the word enjoy is almost never written down - most cards say what somebody is for.\n\nShe is also the answer to a shape this collection keeps making. Space in here is astronauts, pilots, marshals, militia and a police force; the asteroid belt is somewhere you mine or crash. She lives on one and grows things on it.\n\nThe shears are as long as her arm and the watering can is the same lime green piece the bear villager out of Animal Crossing is holding, two cards away and one world over."
   },
 
   {
@@ -20914,14 +20915,14 @@ window.COLLECTION = [
       "full row of teeth. A pale grey officer's tunic printed with a collar " +
       "and tie, two buttoned breast pockets and a belt with buckles at the " +
       "waist; grey arms, flesh hands. Grey trousers printed with thigh pockets " +
-      "and creases, and dark boot caps. He is holding a long black pistol.\\n\\n" +
+      "and creases, and dark boot caps. He is holding a long black pistol.\n\n" +
       "The whole figure is one colour and the printing is line work rather " +
       "than paint, which is what makes him look like a photograph of a man " +
       "instead of a man.",
     tags: ["villain", "indiana-jones", "knock-off", "third-party", "officer", "grey", "monochrome"],
     images: ["images/the-knock-off-officer-01.jpg"],
     acquired: "",
-    notes: "Second figure out of the rip-off set, after the Knock-off Adventurer, and the two of them are the whole point of each other: a copy of the hero and a copy of the man he fights, sold together by somebody who was not allowed to use either name.\\n\\nThat makes eight Knock-offs in this collection now - figures out of other makers rather than out of Lego, which the lore says went to war - and this is the third of the eight on the villain side, after the Knock-off Captain and the Successful Replica.\\n\\nHe is filed bad because of what he is holding and what he is wearing and who he was sold next to. Nothing was said about him, so if that is wrong it is one word."
+    notes: "Second figure out of the rip-off set, after the Knock-off Adventurer, and the two of them are the whole point of each other: a copy of the hero and a copy of the man he fights, sold together by somebody who was not allowed to use either name.\n\nThat makes eight Knock-offs in this collection now - figures out of other makers rather than out of Lego, which the lore says went to war - and this is the third of the eight on the villain side, after the Knock-off Captain and the Successful Replica.\n\nHe is filed bad because of what he is holding and what he is wearing and who he was sold next to. Nothing was said about him, so if that is wrong it is one word."
   },
 
   {
@@ -21014,10 +21015,11 @@ window.COLLECTION = [
       "pattern carries down onto the legs with orange flame shapes at the thighs.",
     tags: ["villain", "ninjago", "branded", "snake", "orange", "shoulder-armour", "spikes"],
     images: [
-      "images/the-third-serpent-01.jpg",
+      { src: "images/the-third-serpent-02.jpg", caption: "The figure" },
+      { src: "images/the-third-serpent-01.jpg", caption: "The first photograph" },
     ],
     acquired: "",
-    notes: "Third snake and a third build. The first has a cobra hood spread back from the skull and spiral eyes. The second has no hood and four orange spines standing out of the crown. This one has neither - a smooth orange skull, black down the spine, and armour bolted over the shoulders. In Ninjago the snakes come in tribes, and three different heads most likely means three different tribes. None of the three cards has a proper name on it yet.\n\nHe is the first of them wearing anything. The other two are printed plastic and nothing more; this one has a piece clipped on over the figure.\n\nStill no group. Three snakes is not a tribe until somebody says which tribes they are - and if it turns out they are all one tribe, that is one word and the group gets made.\n\nThat is four Ninjago villains against seven good: an impostor and three serpents, against six ninja and a ninja who goes to sea. Outside Star Wars no branded theme here has produced more enemies than Ninjago, Marvel and the Agents, and all three are level at four."
+    notes: "Third snake and a third build. The first has a cobra hood spread back from the skull and spiral eyes. The second has no hood and four orange spines standing out of the crown. This one has neither - a smooth orange skull, black down the spine, and armour bolted over the shoulders. In Ninjago the snakes come in tribes, and three different heads most likely means three different tribes. None of the three cards has a proper name on it yet.\n\nHe is the first of them wearing anything. The other two are printed plastic and nothing more; this one has a piece clipped on over the figure.\n\nA closer photograph, and it leads the card now. It carries the printing the first one could only suggest: the horned mask worked in white and copper over blue and olive, the studded belt under it, and the orange flame shapes down the thighs. At this size the two grey points on each shoulder read as gun barrels rather than spikes - say which and the provenance is corrected.\n\nYou called him an orange Ninjago villain, which is what this card already said: bad, Ninjago, orange. Nothing moved.\n\nStill no group. Three snakes is not a tribe until somebody says which tribes they are - and if it turns out they are all one tribe, that is one word and the group gets made.\n\nThat is four Ninjago villains against seven good: an impostor and three serpents, against six ninja and a ninja who goes to sea. Outside Star Wars no branded theme here has produced more enemies than Ninjago, Marvel and the Agents, and all three are level at four."
   },
 
   {
@@ -21938,7 +21940,7 @@ window.COLLECTION = [
       "the legs, with a wide belt at the waist; one carries a silver plate " +
       "worked onto the chest and the other does not. The arms are the " +
       "strangest part: pale cream, bare, jointed twice and much longer than " +
-      "the body needs, ending in open hooks with dark bands at the wrist.\\n\\n" +
+      "the body needs, ending in open hooks with dark bands at the wrist.\n\n" +
       "The heads are beaked. A narrow reptile skull drawn out to a pale hooked " +
       "beak with the teeth showing, a small yellow eye, and a stiff red crest " +
       "standing straight up off the crown. One head is pale tan, the other " +
@@ -22059,7 +22061,7 @@ window.COLLECTION = [
       "armour over the whole body, with enormous curved shoulder plates " +
       "standing out past the arms and ridged gauntlets below them ending in " +
       "grey claw hands. A pale grey plate at the hips and grey bands at both " +
-      "knees, and hooked armoured boots.\\n\\n" +
+      "knees, and hooked armoured boots.\n\n" +
       "The heads are not human and not hidden. A helmet swept back into a " +
       "point at the crown, and under it a jaw that juts forward and splits - " +
       "the mouth opening downward and outward rather than across. One of the " +
@@ -22093,7 +22095,7 @@ window.COLLECTION = [
       "patches over most of it. The scorching runs across the crown of the " +
       "head and down one side of the skull, over both shoulders, across the " +
       "front of the chest frame, round the hips, at both knees and over the " +
-      "toes of both feet.\\n\\n" +
+      "toes of both feet.\n\n" +
       "One arm is whole: hinged at the shoulder and the elbow, hanging down to " +
       "an open claw, burned along its length. The other is gone. What is left " +
       "is a short pale stub at the shoulder with nothing on the end of it.",
@@ -22123,7 +22125,7 @@ window.COLLECTION = [
       "Photographed at last. He was missing from the shelf when this card was " +
       "written, and it held somebody else's product shot until he turned up. " +
       "That picture is still here, second, because what follows was first " +
-      "written off it and it holds.\\n\\n" +
+      "written off it and it holds.\n\n" +
       "A white clone helmet marked in dark green - a broad " +
       "band up the crown, wings sweeping back from the visor, green round the " +
       "breathing grille - over white armour with a black bandolier crossing " +
@@ -22155,23 +22157,28 @@ window.COLLECTION = [
     rating: 0,
     background: "A Halo Hayabusa. He is evil.",
     provenance:
-      "Not photographed. The figure is missing from the shelf and you expect " +
-      "it to turn up, so this card holds a reference picture of the same " +
-      "figure until it does. The picture is somebody else's product shot and " +
-      "carries a watermark, so it wants replacing with your own the day he is " +
-      "found.\\n\\n" +
-      "From that picture: the moulded not-Lego build in deep red over a black " +
+      "Photographed at last. The watermarked product shot this card was " +
+      "written off is second now, kept because the description below was " +
+      "first taken from it.\n\n" +
+      "From the figure: the moulded not-Lego build in deep red over a black " +
       "undersuit, with black at the thighs, the knees and the waist. Over the " +
       "helmet a separate bone-white shell - a samurai hood swept back into a " +
       "horn behind the crown and flared down the cheeks - with a narrow gold " +
       "visor under it. A white plate strapped to one shoulder, black claw " +
-      "hands, and a long black rifle.",
-    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "hayabusa", "red", "samurai", "missing", "no-photograph"],
+      "hands.\n\n" +
+      "What the figure adds, now that it can be looked at: the white shell " +
+      "is textured all over in fine wavering lines like grain, the plate " +
+      "under the gold band is pale with a red breather across the mouth, " +
+      "and the pauldrons are white-edged over black. He is scuffed back to " +
+      "bare plastic along every hard edge. He is carrying nothing: the long " +
+      "black rifle is in the product shot, not in his hands.",
+    tags: ["villain", "halo", "mega-bloks", "not-lego", "knock-off", "hayabusa", "red", "samurai", "found"],
     images: [
-      { src: "images/the-hayabusa-01.jpg", caption: "Reference picture - the figure is missing" },
+      { src: "images/the-hayabusa-02.jpg", caption: "The figure" },
+      { src: "images/the-hayabusa-01.jpg", caption: "Reference picture, from before he turned up" },
     ],
     acquired: "",
-    notes: "Filed bad because you said so. That is worth marking: every other Spartan-shaped figure out of this maker was filed on the standing reasoning - the side rather than the man, because the world notes name that side as the aggressor and nothing had been said about any of them. This is the first one where the word came with the figure, and it went the same way the reasoning did.\n\nHe is the third red Spartan-type here and the three of them now cover the whole spread. The Red Spartan came over to the good guys. The Second Red Spartan did not, and was filed on the default. This one is evil on your word. Same maker, same colour, three different routes onto the page.\n\nThe armour over the armour is what makes him. A separate white shell fitted over the helmet, horned and flared like a samurai hood - which on this shelf puts him with the small number of figures wearing a second head over the first: the Crimson Ninja under his straw hat, the Astronaut Ninja, the stone warriors under their visors. On all of those the outer piece hides a face. On this one it hides a helmet that was already hiding one.\n\nNo photograph of the figure yet. He and Commander Gree are the only two cards here in that state."
+    notes: "Filed bad because you said so. That is worth marking: every other Spartan-shaped figure out of this maker was filed on the standing reasoning - the side rather than the man, because the world notes name that side as the aggressor and nothing had been said about any of them. This is the first one where the word came with the figure, and it went the same way the reasoning did.\n\nHe is the third red Spartan-type here and the three of them now cover the whole spread. The Red Spartan came over to the good guys. The Second Red Spartan did not, and was filed on the default. This one is evil on your word. Same maker, same colour, three different routes onto the page.\n\nThe armour over the armour is what makes him. A separate white shell fitted over the helmet, horned and flared like a samurai hood - which on this shelf puts him with the small number of figures wearing a second head over the first: the Crimson Ninja under his straw hat, the Astronaut Ninja, the stone warriors under their visors. On all of those the outer piece hides a face. On this one it hides a helmet that was already hiding one.\n\nHe has turned up, and he was the last one. This card and Commander Gree's were the only two left holding somebody else's product shot instead of a photograph of your own figure; Gree was found first, and now so is this one. Every card in the collection with a picture on it now has a picture of the thing on your shelf.\n\nEverything the provenance claimed off that watermarked shot holds: deep red over a black undersuit, black at the thighs and knees and waist, the white shell horned behind the crown and flared down the cheeks, the gold band under it, black claw hands. The figure adds the grain worked into the white shell, the red breather across the faceplate, and the white edging on the pauldrons - and takes away the rifle, which he is not holding. You said again that he is evil, and nothing about that had changed."
   },
 
 
@@ -22195,7 +22202,7 @@ window.COLLECTION = [
       "with black sockets lit red at the pupil, one blue-skinned with red hair, " +
       "one split red and black down the middle of the face. Orange, red and " +
       "blond hairpieces, a black helm, a leopard-print collar, a knitted cap " +
-      "with an aerial standing off it.\\n\\n" +
+      "with an aerial standing off it.\n\n" +
       "The kit is as mixed as the faces: studded black torsos, gold sashes, " +
       "bone necklaces, chest rigs, one in blue and green panels. Fourteen " +
       "figures are countable in the photograph and there are more behind them.",
@@ -22204,7 +22211,7 @@ window.COLLECTION = [
       "images/the-evil-space-militia-01.jpg",
     ],
     acquired: "",
-    notes: "This may close a card that has been open since it was written. The Alien Militia Commander is catalogued as a captain of the alien militia and the commander of its school - his card says the people who fight for that militia come up through him - and until now the group had exactly one member in it: him. A crowd of alien soldiers arriving is the thing that card was waiting for, so they are filed there.\\n\\nThe flag is the name. You called them the evil space militia, and this collection already has a Space Militia - seventeen strong, on the good side, whose whole identity is that they have never lost anyone. If these are meant as that unit's opposite number rather than the alien militia's rank and file, it is one word and they move to a group of their own. Both readings are live: they are unmistakably alien, which points one way, and you used the word space, which points the other.\\n\\nEither way they are the largest body of enemy figures in one photograph in the collection. No count written down beyond what can be seen - fourteen faces are countable and the back of the crowd is not.\\n\\nWorth recording what they are not. Every other force on that deck is one kind of thing repeated: the Shadow Soldiers, the Kartians, the Sting Rays, the Martians, the droids. This is a militia in the proper sense - a dozen different species, a dozen different kits, nobody issued the same thing twice. It looks less like an army than like everyone who turned up."
+    notes: "This may close a card that has been open since it was written. The Alien Militia Commander is catalogued as a captain of the alien militia and the commander of its school - his card says the people who fight for that militia come up through him - and until now the group had exactly one member in it: him. A crowd of alien soldiers arriving is the thing that card was waiting for, so they are filed there.\n\nThe flag is the name. You called them the evil space militia, and this collection already has a Space Militia - seventeen strong, on the good side, whose whole identity is that they have never lost anyone. If these are meant as that unit's opposite number rather than the alien militia's rank and file, it is one word and they move to a group of their own. Both readings are live: they are unmistakably alien, which points one way, and you used the word space, which points the other.\n\nEither way they are the largest body of enemy figures in one photograph in the collection. No count written down beyond what can be seen - fourteen faces are countable and the back of the crowd is not.\n\nWorth recording what they are not. Every other force on that deck is one kind of thing repeated: the Shadow Soldiers, the Kartians, the Sting Rays, the Martians, the droids. This is a militia in the proper sense - a dozen different species, a dozen different kits, nobody issued the same thing twice. It looks less like an army than like everyone who turned up."
   },
 
   {
@@ -22226,7 +22233,7 @@ window.COLLECTION = [
     provenance:
       "A black helmet closed over the whole head, with a broad silver faceplate " +
       "across the front cut by a single dark horizontal slot at the eyes. " +
-      "Nothing of the face shows.\\n\\n" +
+      "Nothing of the face shows.\n\n" +
       "A pale cream torso printed with an open collar over a dark undershirt, " +
       "two double magazine pouches high on the left of the chest, a small white " +
       "card or badge at the right with a red mark on it, a white belt with a " +
@@ -22238,7 +22245,7 @@ window.COLLECTION = [
       "images/the-smiling-hitman-01.jpg",
     ],
     acquired: "",
-    notes: "Third hitman here, after the Hitman - a poacher who changed quarry - and the French Hitman. The three of them have nothing in common as figures, which is the interesting part: one is a man in a white jacket with a necklace of teeth, one is in a double-breasted suit with a red tie, and this one is sealed inside a helmet.\\n\\nThe smile is the problem and it is worth stating plainly. You described him as charismatic, charming and a psychopath who smiles through the work, and not one bit of that is visible: the faceplate covers everything. This collection has faces doing enormous work everywhere - three skeletons were sorted onto different decks on the strength of a printed grin - and here is a man whose entire character is an expression nobody can see.\\n\\nThat makes him the opposite of the Pimp, whose card is built on a badge that says one thing while the man is another. This one's badge says nothing at all. If he has a second figure with the helmet off, that is the photograph this card actually wants."
+    notes: "Third hitman here, after the Hitman - a poacher who changed quarry - and the French Hitman. The three of them have nothing in common as figures, which is the interesting part: one is a man in a white jacket with a necklace of teeth, one is in a double-breasted suit with a red tie, and this one is sealed inside a helmet.\n\nThe smile is the problem and it is worth stating plainly. You described him as charismatic, charming and a psychopath who smiles through the work, and not one bit of that is visible: the faceplate covers everything. This collection has faces doing enormous work everywhere - three skeletons were sorted onto different decks on the strength of a printed grin - and here is a man whose entire character is an expression nobody can see.\n\nThat makes him the opposite of the Pimp, whose card is built on a badge that says one thing while the man is another. This one's badge says nothing at all. If he has a second figure with the helmet off, that is the photograph this card actually wants."
   },
 
   /* ---- Figures lost to time. Gone from the shelf, dead in the world. ---- */
@@ -23254,21 +23261,21 @@ window.COLLECTION = [
       "across the jaw and the lip, and a wry closed half-smile. A black torso " +
       "with a pale gold line hooked over at the top running the length of it, a " +
       "red X inside a gold ellipse at the chest, and two sets of three gold bars " +
-      "low down. One blue arm and one black one. Black legs. A black gun in his " +
-      "fist - the receiver under his hand, a heavy ring at the trigger, and a " +
-      "long straight barrel running down past his knee, carried muzzle-down at " +
-      "his side the way the old man carries his.\n\n" +
-      "Photographed as part of the group and cropped out of it, which is why " +
-      "a neighbour shows at the edge.",
+      "low down. One blue arm and one black one. Black legs.\n\n" +
+      "A light grey gun held across him: a short receiver with a grip under " +
+      "it, a thick barrel ribbed in deep rings along its length, and two " +
+      "muzzles at the end of it. The same kind of weapon Pringles carries, " +
+      "in a paler grey.",
     tags: ["bravo-team", "apprentice", "night-watch", "space", "armed",
            "military", "undescribed"],
     images: [
-      { src: "images/the-night-watch-apprentice-01.jpg", caption: "The figure" },
+      { src: "images/the-night-watch-apprentice-02.jpg", caption: "The figure" },
+      { src: "images/the-night-watch-apprentice-01.jpg", caption: "Cropped out of the group shot" },
       { src: "images/bravo-team-01.jpg", caption: "Bravo Team" },
       { src: "images/bravo-team-02.jpg", caption: "Bravo Team, on the dashboard" }
     ],
     acquired: "2026-09-23",
-    notes: "Placeholder name, taken from the only thing said about him: he is the Night Watch apprentice. No name, no history, no age, nothing else - his is the thin card of the four.\n\nThe catalogue already holds a Nightwatch Captain, who has everything in Lego City that happens after dark, and a Young Watchman in Watch Command. I have not linked him to either, because a Night Watch out here among space explorers may be a different thing wearing the same words. Say which it is and they connect.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian.\n\nThe black thing running past his knees is a gun, and his provenance says so. You had already told me every one of them is armed, and I wrote that I could not tell what it was instead of taking you at your word - which is the same mistake as filing him at Civilians, made twice on the same card."
+    notes: "Placeholder name, taken from the only thing said about him: he is the Night Watch apprentice. No name, no history, no age, nothing else - his is the thin card of the four.\n\nThe catalogue already holds a Nightwatch Captain, who has everything in Lego City that happens after dark, and a Young Watchman in Watch Command. I have not linked him to either, because a Night Watch out here among space explorers may be a different thing wearing the same words. Say which it is and they connect.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian.\n\nThe black thing running past his knees is a gun, and his provenance says so. You had already told me every one of them is armed, and I wrote that I could not tell what it was instead of taking you at your word - which is the same mistake as filing him at Civilians, made twice on the same card.\n\nA photograph of him on his own, and it leads the card now. It also corrects the gun, which I had wrong: it is light grey, not black - a short receiver, a thick barrel ribbed in deep rings, two muzzles at the end, the same kind of weapon Pringles carries. I described it off the group shot, where he stands between two other figures in poor light, and what I took for a long black barrel running past his knee was not his. He was armed, exactly as you said; I had the wrong object. The provenance is read off the clear photograph now, and the crop stays on the card behind it."
   },
 
   {
@@ -23312,18 +23319,17 @@ window.COLLECTION = [
       "white shuttle on blue inside a pale ring - and a printed pen pocket with " +
       "two pens at the other. Red arms, yellow hands, red legs. A yellow " +
       "blaster in his fist - grip, trigger guard, and a long barrel angled " +
-      "down his leg.\n\n" +
-      "Photographed as part of the group and cropped out of it, which is why " +
-      "a neighbour shows at the edge.",
+      "down his leg.",
     tags: ["bravo-team", "apprentice", "mentor", "old", "space", "second",
            "armed", "old-school"],
     images: [
-      { src: "images/the-old-apprentice-01.jpg", caption: "The figure" },
+      { src: "images/the-old-apprentice-02.jpg", caption: "The figure" },
+      { src: "images/the-old-apprentice-01.jpg", caption: "Cropped out of the group shot" },
       { src: "images/bravo-team-01.jpg", caption: "Bravo Team" },
       { src: "images/bravo-team-02.jpg", caption: "Bravo Team, on the dashboard" }
     ],
     acquired: "2026-09-23",
-    notes: "Placeholder name, and it is his own paradox rather than a description: technically an apprentice, treated as a mentor. Give me what he is actually called and it goes.\n\nThe ladder files him at Apprentice, next to the Night Watch one, which is correct by the rules and wrong in the room - he is the most experienced person standing there. He now has a line of his own under figures in order.js, at Soldiers with the rest of the team; if he should stand in front of Pringles rather than behind him, say so and he moves.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian.\n\nHis provenance called the yellow piece a rod. It is a blaster - grip, trigger guard, a long barrel angled down his leg. Fixed."
+    notes: "Placeholder name, and it is his own paradox rather than a description: technically an apprentice, treated as a mentor. Give me what he is actually called and it goes.\n\nThe ladder files him at Apprentice, next to the Night Watch one, which is correct by the rules and wrong in the room - he is the most experienced person standing there. He now has a line of his own under figures in order.js, at Soldiers with the rest of the team; if he should stand in front of Pringles rather than behind him, say so and he moves.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian.\n\nHis provenance called the yellow piece a rod. It is a blaster - grip, trigger guard, a long barrel angled down his leg. Fixed.\n\nA photograph of him on his own, and it leads the card now; the crop out of the group shot stays behind it. The blaster is unmistakable in it, held down along his thigh, and so is the rest of the suit - the white and red collar over the yellow undershirt, the double white stripe, the shuttle badge on blue, the pen pocket with two pens in it."
   },
 
   {
@@ -23393,7 +23399,7 @@ window.COLLECTION = [
       "white and one in grey, each with a black diamond for a pupil, a small " +
       "skull nose, curled flourishes worked across both cheeks, and a mouth " +
       "stitched shut in a grid. A black cap moulded close over the crown. A " +
-      "chrome collar at the neck.\\n\\n" +
+      "chrome collar at the neck.\n\n" +
       "A pale grey torso printed with a bare chest - a V of tendons at the " +
       "collar and ribs curving down both sides. Over it a cape of coarse black " +
       "cloth, frayed at the hem. One pale grey arm. Dark red hands, and dark " +
@@ -23403,7 +23409,7 @@ window.COLLECTION = [
       { src: "images/the-cloaked-alien-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-25",
-    notes: "Placeholder name, pure physical description, so he is not mistaken for somebody invented. What you said about him is the whole of his card: he is evil, and he is just an evil guy. No name, no history, no side beyond the one that puts him on the bad deck.\\n\\nYou called him a grey alien. The head is printed as a skull rather than as anything alien, and the card says alien anyway, because what you call him is what he is.\\n\\nFiled at Soldiers. He has no job title, and the catalogue's rule for a villain with nothing written down is that he is a threat rather than a bystander - that is the rule, not a claim about him. Tell me what he does and it gets set properly."
+    notes: "Placeholder name, pure physical description, so he is not mistaken for somebody invented. What you said about him is the whole of his card: he is evil, and he is just an evil guy. No name, no history, no side beyond the one that puts him on the bad deck.\n\nYou called him a grey alien. The head is printed as a skull rather than as anything alien, and the card says alien anyway, because what you call him is what he is.\n\nFiled at Soldiers. He has no job title, and the catalogue's rule for a villain with nothing written down is that he is a threat rather than a bystander - that is the rule, not a claim about him. Tell me what he does and it gets set properly."
   },
 
   {
@@ -23424,7 +23430,7 @@ window.COLLECTION = [
       "A black helmet moulded close to the skull, a raised ridge over the " +
       "crown, cheek plates down both sides and a brow that comes to a point " +
       "over the visor. Through the visor slit, two magenta eyes. Under it a " +
-      "mouth of pale fangs over purple.\\n\\n" +
+      "mouth of pale fangs over purple.\n\n" +
       "A black torso printed with a silver-white robe: a zigzagged collar, a " +
       "sash crossing the chest, a shuriken at one breast, two thin silver " +
       "shafts crossed diagonally beneath it and a short blade with a brown " +
@@ -23436,7 +23442,7 @@ window.COLLECTION = [
       { src: "images/the-evil-ninja-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-25",
-    notes: "Placeholder name, and it is exactly what you called him: an evil ninja. That is the whole card. No name, no history, and no place in the Ninja Lineage or against it.\\n\\nHe is the second evil ninja here. The Crimson Ninja is the other, and the two of them are not linked, because nothing has been said about whether they know each other. One word and they connect.\\n\\nFiled at Elite, which is where the ladder puts a ninja."
+    notes: "Placeholder name, and it is exactly what you called him: an evil ninja. That is the whole card. No name, no history, and no place in the Ninja Lineage or against it.\n\nHe is the second evil ninja here. The Crimson Ninja is the other, and the two of them are not linked, because nothing has been said about whether they know each other. One word and they connect.\n\nFiled at Elite, which is where the ladder puts a ninja."
   },
 
   {
@@ -23465,7 +23471,7 @@ window.COLLECTION = [
       { src: "images/general-grievous-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-25",
-    notes: "He is a good guy here. That is the whole of what has been said about him and it is the reason this card is worth having: the catalogue holds a hundred and forty-odd Star Wars figures and this is one of the few where the world flatly reverses the source. Nothing else is written down - no side, no command, nobody he answers to or for.\\n\\nFiled at Champions, which is where the ladder puts a General. He carries no weapon in the photograph and none of the four arms the films give him; the figure is the two-armed build.\\n\\nNo relations. He is the first named Star Wars commander here on the good side who was a villain in the source - say who he works with and the links get made."
+    notes: "He is a good guy here. That is the whole of what has been said about him and it is the reason this card is worth having: the catalogue holds a hundred and forty-odd Star Wars figures and this is one of the few where the world flatly reverses the source. Nothing else is written down - no side, no command, nobody he answers to or for.\n\nFiled at Champions, which is where the ladder puts a General. He carries no weapon in the photograph and none of the four arms the films give him; the figure is the two-armed build.\n\nNo relations. He is the first named Star Wars commander here on the good side who was a villain in the source - say who he works with and the links get made."
   },
 
   {
@@ -23487,7 +23493,7 @@ window.COLLECTION = [
       "forward. A purple hood moulded over a dark grey face - a blunt muzzle, " +
       "a heavy brow and two narrow pale eyes under it. Purple pauldrons over " +
       "black upper arms and black fists, a purple chest plate with a pale " +
-      "blue light set in it, and a second blue light lower down.\\n\\n" +
+      "blue light set in it, and a second blue light lower down.\n\n" +
       "Two brown straps cross the chest and buckle at the waist. Below them a " +
       "dark hanging skirt of what reads as fur or hide. Black thighs, and " +
       "purple plates strapped over the shins above black feet.",
@@ -23496,7 +23502,7 @@ window.COLLECTION = [
       { src: "images/the-halo-brute-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-25",
-    notes: "Placeholder name. You called him a Mega Bloks brute and nothing else, so the card says nothing else.\\n\\nThe catalogue already holds a Brute and a Brute Prince, and neither is this: the first is the Secretary of War on the good side, the second a Mega Bloks prince. This one is named for what he is out of the box, which is why he carries Halo in front of it.\\n\\nFiled bad, at Soldiers, on the standing reasoning this collection already uses for every figure out of this maker - the side rather than the man, because the world notes name that side as the aggressor and nothing has been said about him. One word moves him."
+    notes: "Placeholder name. You called him a Mega Bloks brute and nothing else, so the card says nothing else.\n\nThe catalogue already holds a Brute and a Brute Prince, and neither is this: the first is the Secretary of War on the good side, the second a Mega Bloks prince. This one is named for what he is out of the box, which is why he carries Halo in front of it.\n\nFiled bad, at Soldiers, on the standing reasoning this collection already uses for every figure out of this maker - the side rather than the man, because the world notes name that side as the aggressor and nothing has been said about him. One word moves him."
   },
 
   {
@@ -23517,7 +23523,7 @@ window.COLLECTION = [
       "A moulded not-Lego build in olive green, scuffed back to bare plastic " +
       "along every edge. A full helmet with a gold visor under a heavy brow. " +
       "Olive over the chest, the shoulders and the upper arms, with plated " +
-      "detail worked into all of it. Bare silver-grey hands.\\n\\n" +
+      "detail worked into all of it. Bare silver-grey hands.\n\n" +
       "The legs change colour at the thigh: dark grey and silver from there " +
       "down, heavily plated at the knee and the shin, standing on wide " +
       "armoured boots.",
@@ -23526,7 +23532,7 @@ window.COLLECTION = [
       { src: "images/the-green-spartan-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-25",
-    notes: "Placeholder name, by the colour, which is how every other Spartan on this shelf is named: the Red Spartan, the Second Red Spartan, the Yellow, the Purple, the Standard ones, the ODSTs. He is the seventh Spartan card and the first green one.\\n\\nOlive green armour and a gold visor is the Master Chief's kit, and he is not named that here because you did not name him that - you said another Mega Bloks figure. Say the word and the card takes the name.\\n\\nFiled bad, at Soldiers, on the same standing reasoning as the rest of them - the side rather than the man, nothing having been said about him. The Red Spartan came over to the good guys and the Hayabusa was called evil outright, so this is not a rule about the shape of the figure. One word moves him."
+    notes: "Placeholder name, by the colour, which is how every other Spartan on this shelf is named: the Red Spartan, the Second Red Spartan, the Yellow, the Purple, the Standard ones, the ODSTs. He is the seventh Spartan card and the first green one.\n\nOlive green armour and a gold visor is the Master Chief's kit, and he is not named that here because you did not name him that - you said another Mega Bloks figure. Say the word and the card takes the name.\n\nFiled bad, at Soldiers, on the same standing reasoning as the rest of them - the side rather than the man, nothing having been said about him. The Red Spartan came over to the good guys and the Hayabusa was called evil outright, so this is not a rule about the shape of the figure. One word moves him."
   },
 
   {
@@ -23546,7 +23552,7 @@ window.COLLECTION = [
     provenance:
       "An olive green head, deeply lined across the forehead, with heavy " +
       "brows over amber eyes and a wide downturned mouth set in jowls. The " +
-      "eyes are worn through to bare plastic in places.\\n\\n" +
+      "eyes are worn through to bare plastic in places.\n\n" +
       "An orange tunic printed with a fur-trimmed cloak over it - wavy fur " +
       "worked along both shoulders and down the front - and a pendant at the " +
       "chest. Brown arms, olive hands, tan legs. Across him, a silver " +
@@ -23556,7 +23562,7 @@ window.COLLECTION = [
       { src: "images/the-green-faced-axeman-01.jpg", caption: "The figure" }
     ],
     acquired: "2026-09-25",
-    notes: "Placeholder name, pure description. What you said is that he is a standard evil one, so that is the background, and everything else about him is unwritten - no name, no side he belongs to, nothing he has done.\\n\\nFiled at Soldiers. He has no job title, and the catalogue's rule for a villain with nothing written down is that he is a threat rather than a bystander. He is carrying a battle axe, so that is not a stretch.\\n\\nOne thing for you to settle, about the filing rather than the man: he is on the Star Wars shelf because you called him a Star Wars one, but the parts read like Castle - a fur-trimmed tunic, a green ogre's face and a double-bitted axe. If the theme should say Castle instead, one word changes it."
+    notes: "Placeholder name, pure description. What you said is that he is a standard evil one, so that is the background, and everything else about him is unwritten - no name, no side he belongs to, nothing he has done.\n\nFiled at Soldiers. He has no job title, and the catalogue's rule for a villain with nothing written down is that he is a threat rather than a bystander. He is carrying a battle axe, so that is not a stretch.\n\nOne thing for you to settle, about the filing rather than the man: he is on the Star Wars shelf because you called him a Star Wars one, but the parts read like Castle - a fur-trimmed tunic, a green ogre's face and a double-bitted axe. If the theme should say Castle instead, one word changes it."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
