@@ -13082,7 +13082,7 @@ window.COLLECTION = [
   {
     id: "quinn",
     name: "Quinn",
-    variant: "Three figures, one man",
+    variant: "Four figures, one man",
     faction: "bad",
     origin: "custom",
     theme: "Creation Mythos",
@@ -13131,6 +13131,9 @@ window.COLLECTION = [
       "turned, and arranged for every one of those betrayals to happen inside " +
       "the same minute of the same day. Students turned on their masters. " +
       "Masters turned on their students. The result was chaos, on purpose.\n\n" +
+      "There is a middle to that. Going into the green thing he ended as, he " +
+      "went hooded and covered - red over plain blue, nothing printed, nothing " +
+      "of him showing at all. That is what he wore through the change.\n\n" +
       "The green is deliberate. Studying the dark arts turned his body neon as " +
       "it went, and he pushed it - he wanted to change the essence of the body " +
       "itself so that nothing could kill him.\n\n" +
@@ -13138,13 +13141,17 @@ window.COLLECTION = [
       "Force, speed beyond following, and the ability to heal himself. Fire " +
       "and explosives do nothing to him.",
     provenance:
-      "Three figures, one man, in order.\n\n" +
+      "Four figures, one man, in order.\n\n" +
       "The soldier: a plain silver combat helmet with ear flaps, a scar through " +
       "one eye, and a white harness printed over grey - standard-issue " +
       "everything, on somebody nobody was looking at.\n\n" +
       "The arms dealer: brown hair, no helmet, a black pauldron across both " +
       "shoulders, a green webbing vest with a yellow-crossed scarf at the " +
       "throat and two pistols holstered on the thighs.\n\n" +
+      "Mid-change: a red hood pulled over the head, and under it no face at " +
+      "all - dark, unprinted, nothing showing. A red cloak down his back. " +
+      "Plain blue arms, body and legs with not a mark on any of them, and red " +
+      "hands. Nothing here says who he is, which is the whole of it.\n\n" +
       "What he made of himself: a translucent neon green head, grinning, one " +
       "eye red. Bone-white spines stand off the collar. Black Sith robes over " +
       "black legs, one hand still flesh and the other gone black.",
@@ -13153,10 +13160,11 @@ window.COLLECTION = [
       { src: "images/quinn-04.jpg", caption: "The man himself" },
       { src: "images/quinn-01.jpg", caption: "The soldier, before any of it" },
       { src: "images/quinn-02.jpg", caption: "The independent arms dealer" },
+      { src: "images/quinn-05.jpg", caption: "Mid-change, hooded and covered" },
       { src: "images/quinn-03.jpg", caption: "What he made of himself" },
     ],
     acquired: "",
-    notes: "The main villain, and the most-anticipated card in the collection - two people have carried written links to an id that did not exist until now, and both light up on this card: Claws, whom he captured and put in a stasis chamber, and the Knighted Civilian, the jogger who shot him through the lung and ended the first uprising. Three photographs on one card because they are three eras of one man, the way Luke and Obi-Wan are done. Open question worth settling: whether the shadow uprising he led with the Shadow King is the same war as the Great Shadow War the Shadow Prince helped negotiate the end of, or a separate one."
+    notes: "The main villain, and the most-anticipated card in the collection - two people have carried written links to an id that did not exist until now, and both light up on this card: Claws, whom he captured and put in a stasis chamber, and the Knighted Civilian, the jogger who shot him through the lung and ended the first uprising. Three photographs on one card because they are three eras of one man, the way Luke and Obi-Wan are done. Open question worth settling: whether the shadow uprising he led with the Shadow King is the same war as the Great Shadow War the Shadow Prince helped negotiate the end of, or a separate one.\n\nFour figures now, not three. The new one is the middle of the change - what he was wearing on the way into the green - and it sits third, between the arms dealer and what he made of himself. It is the only one of the four that shows nothing: a red hood with no face under it, a red cloak, and plain blue with not a mark printed anywhere on it. The three either side of it are all somebody in particular. This one is deliberately nobody, which for a man whose whole vow was never to be used by anyone again is the most legible thing on the card."
   },
 
 
@@ -23429,6 +23437,126 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-25",
     notes: "Placeholder name, and it is exactly what you called him: an evil ninja. That is the whole card. No name, no history, and no place in the Ninja Lineage or against it.\\n\\nHe is the second evil ninja here. The Crimson Ninja is the other, and the two of them are not linked, because nothing has been said about whether they know each other. One word and they connect.\\n\\nFiled at Elite, which is where the ladder puts a ninja."
+  },
+
+  {
+    id: "general-grievous",
+    name: "General Grievous",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "General",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "General Grievous, and in this universe he is a good guy.",
+    provenance:
+      "The moulded droid build rather than a minifigure: a long pale skull " +
+      "with a sloping brow, a dark slot of an eye either side of it and the " +
+      "ribbed breathing plate down the front of the jaw, set on a narrow " +
+      "neck. A thin ribbed chest over an open cage of a torso, jointed arms " +
+      "hanging off shoulder plates, clawed hands, and long jointed legs " +
+      "standing on splayed feet. Bone white throughout, unpainted.",
+    tags: ["star-wars", "branded", "droid", "general", "good", "inverted"],
+    images: [
+      { src: "images/general-grievous-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "He is a good guy here. That is the whole of what has been said about him and it is the reason this card is worth having: the catalogue holds a hundred and forty-odd Star Wars figures and this is one of the few where the world flatly reverses the source. Nothing else is written down - no side, no command, nobody he answers to or for.\\n\\nFiled at Champions, which is where the ladder puts a General. He carries no weapon in the photograph and none of the four arms the films give him; the figure is the two-armed build.\\n\\nNo relations. He is the first named Star Wars commander here on the good side who was a villain in the source - say who he works with and the links get made."
+  },
+
+  {
+    id: "the-halo-brute",
+    name: "The Halo Brute",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Halo",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "",
+    provenance:
+      "A moulded not-Lego build, heavy through the shoulders and stooped " +
+      "forward. A purple hood moulded over a dark grey face - a blunt muzzle, " +
+      "a heavy brow and two narrow pale eyes under it. Purple pauldrons over " +
+      "black upper arms and black fists, a purple chest plate with a pale " +
+      "blue light set in it, and a second blue light lower down.\\n\\n" +
+      "Two brown straps cross the chest and buckle at the waist. Below them a " +
+      "dark hanging skirt of what reads as fur or hide. Black thighs, and " +
+      "purple plates strapped over the shins above black feet.",
+    tags: ["halo", "branded", "knock-off", "brute", "purple", "undescribed"],
+    images: [
+      { src: "images/the-halo-brute-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "Placeholder name. You called him a Mega Bloks brute and nothing else, so the card says nothing else.\\n\\nThe catalogue already holds a Brute and a Brute Prince, and neither is this: the first is the Secretary of War on the good side, the second a Mega Bloks prince. This one is named for what he is out of the box, which is why he carries Halo in front of it.\\n\\nFiled bad, at Soldiers, on the standing reasoning this collection already uses for every figure out of this maker - the side rather than the man, because the world notes name that side as the aggressor and nothing has been said about him. One word moves him."
+  },
+
+  {
+    id: "the-green-spartan",
+    name: "The Green Spartan",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Halo",
+    rank: "",
+    role: "Soldier",
+    group: "The Knock-offs",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "",
+    provenance:
+      "A moulded not-Lego build in olive green, scuffed back to bare plastic " +
+      "along every edge. A full helmet with a gold visor under a heavy brow. " +
+      "Olive over the chest, the shoulders and the upper arms, with plated " +
+      "detail worked into all of it. Bare silver-grey hands.\\n\\n" +
+      "The legs change colour at the thigh: dark grey and silver from there " +
+      "down, heavily plated at the knee and the shin, standing on wide " +
+      "armoured boots.",
+    tags: ["halo", "branded", "knock-off", "spartan", "green", "undescribed"],
+    images: [
+      { src: "images/the-green-spartan-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "Placeholder name, by the colour, which is how every other Spartan on this shelf is named: the Red Spartan, the Second Red Spartan, the Yellow, the Purple, the Standard ones, the ODSTs. He is the seventh Spartan card and the first green one.\\n\\nOlive green armour and a gold visor is the Master Chief's kit, and he is not named that here because you did not name him that - you said another Mega Bloks figure. Say the word and the card takes the name.\\n\\nFiled bad, at Soldiers, on the same standing reasoning as the rest of them - the side rather than the man, nothing having been said about him. The Red Spartan came over to the good guys and the Hayabusa was called evil outright, so this is not a rule about the shape of the figure. One word moves him."
+  },
+
+  {
+    id: "the-green-faced-axeman",
+    name: "The Green-Faced Axeman",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A standard evil one.",
+    provenance:
+      "An olive green head, deeply lined across the forehead, with heavy " +
+      "brows over amber eyes and a wide downturned mouth set in jowls. The " +
+      "eyes are worn through to bare plastic in places.\\n\\n" +
+      "An orange tunic printed with a fur-trimmed cloak over it - wavy fur " +
+      "worked along both shoulders and down the front - and a pendant at the " +
+      "chest. Brown arms, olive hands, tan legs. Across him, a silver " +
+      "double-bitted axe on a long brown haft, held in both hands.",
+    tags: ["villain", "star-wars", "branded", "axe", "green-face", "undescribed"],
+    images: [
+      { src: "images/the-green-faced-axeman-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "Placeholder name, pure description. What you said is that he is a standard evil one, so that is the background, and everything else about him is unwritten - no name, no side he belongs to, nothing he has done.\\n\\nFiled at Soldiers. He has no job title, and the catalogue's rule for a villain with nothing written down is that he is a threat rather than a bystander. He is carrying a battle axe, so that is not a stretch.\\n\\nOne thing for you to settle, about the filing rather than the man: he is on the Star Wars shelf because you called him a Star Wars one, but the parts read like Castle - a fur-trimmed tunic, a green ogre's face and a double-bitted axe. If the theme should say Castle instead, one word changes it."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
