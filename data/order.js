@@ -691,6 +691,13 @@ window.ORDER = {
     // enemy with nothing else written down.
     "the-dock-robot": [5, 44],
 
+    // Provisional, and marked as such on his card: you said to put him at a
+    // higher up villain status and that you would fix it later. Champions is
+    // the second rung of the enemy - above every Elite and below the four who
+    // run it - and he stands last on it rather than in front of anybody who
+    // was already there.
+    "clovis": [3, 24],
+
     // --- Bravo Team, kept together on one rung. The job titles would have
     // scattered them - Explorer and Apprentice both read as civilian trades -
     // and all four went in at Civilians, which was wrong. They hold rank, they

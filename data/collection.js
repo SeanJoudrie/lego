@@ -23691,6 +23691,72 @@ window.COLLECTION = [
     notes: "Named for where he fought, which is what you gave me. Nothing else is written down about him.\n\nHe opens a camouflage. The clone legions here are told apart by colour - blue for the 501st, red for the Shock Troopers, gold for the Golden Company, green for Gree, grey for the pilots - and the only camouflage so far has been the Camo Scouts in jungle green. This is desert, and it is a different thing again: the Scouts wear green blotches over white, and he is sand-brown from the crown down with the pattern carried over the helmet as well.\n\nHe is also the most worn clone in the collection. Wear reads as history on these cards rather than as damage, and his is not scuffing - it is flaking, the print coming away in pieces at the crown, the shoulders, the chest and the hip."
   },
 
+  {
+    id: "clovis",
+    name: "Clovis",
+    variant: "",
+    faction: "bad",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background:
+      "His name is Clovis. He is evil.\n\n" +
+      "His lightsaber is blue, and it does not mean what it would mean " +
+      "anywhere else. He carries it and he is on the other side anyway.",
+    provenance:
+      "Dark blonde hair swept back off the brow. A tan face with heavy black " +
+      "brows, a grey-flecked beard and moustache, a flat closed mouth, and an " +
+      "orange scar running down from the hairline across one temple.\n\n" +
+      "A black jacket over a chest printed as circuitry in blue: white coiled " +
+      "cables running the length of both sides, a triangular badge at the " +
+      "centre with a pale device inside it, and thin white lines and nodes " +
+      "traced across the blue between them. Blue arms, blue hands, blue legs.\n\n" +
+      "A silver hilt with a translucent blue blade, held level across him in " +
+      "both hands.",
+    tags: ["villain", "clovis", "lightsaber", "blue-saber", "scarred", "circuitry",
+           "provisional-rank"],
+    images: [
+      { src: "images/clovis-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "Two things on this card are provisional and both are yours to settle.\n\nThe name. You said his name is Clovis, and then that you do not know his name, in the same breath. Clovis is what the card is called because it is the only name that was said out loud; if it was the wrong word, say so and it changes.\n\nThe rank. You said to put him at a higher up villain status and that you would fix it later, so he is at Champions - the second rung of the enemy, above every Elite and everything below them, and below the four who run it: Quinn, Steel, Phalanx and the Martian Leader. He stands last on that rung rather than jumping in front of anybody already there. Move him with one word.\n\nThe blue saber is the interesting part and it is on the card rather than in this note: in this world a blue blade does not put a man on the good side. One other enemy here holds one - the hologram of Darth Vader, moulded transparent blue from helmet to boots, where the blade is blue because the whole figure is. Clovis is the only solid figure on the bad side carrying a blue blade as a blue blade.\n\nYou also said we had just updated his figure before. Nothing in the catalogue matches him - the nearest is the Robotic Samurai, who wears the same black jacket with the blue circuit chest but has a helmet, a dark face and grey legs, and is a different man. If you meant that card, say so and these two connect."
+  },
+
+  {
+    id: "the-companion-robot",
+    name: "The Companion Robot",
+    variant: "",
+    faction: "good",
+    origin: "custom",
+    theme: "Creation Mythos",
+    rank: "",
+    role: "",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A companion robot. He is one of the good ones.",
+    provenance:
+      "Small, and all of him is the head: a faceted black block with a stud on " +
+      "the crown, a flange standing off either side of it, and one round lens " +
+      "set into the front - translucent dark red, ringed in tiers, deep enough " +
+      "to look into. No face, no limbs, no body under it.\n\n" +
+      "He sits on an orange collar at the top of a long grey rod. Whether the " +
+      "rod is part of him or the stand he was photographed on is not something " +
+      "the picture settles.",
+    tags: ["robot", "companion", "small", "red-lens", "black", "undescribed"],
+    images: [
+      { src: "images/the-companion-robot-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "Placeholder name, taken from the one thing said about him: he is a good companion robot. Whose companion, and what he does, are both unwritten.\n\nHe is filed at Civilians, and that is the catalogue's own rule rather than a judgement about him - a good figure with no job title written down falls there. He is the sort of thing that rule was made for and he may still be in the wrong place: say what he does and he moves.\n\nHe is the only card in the collection that is a head and nothing else. Everything else here, down to the astromechs and the Television, has a body under it."
+  },
+
   /* ---- TEMPLATE: copy this block for each new figure ----
   {
     id: "",
