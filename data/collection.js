@@ -3453,11 +3453,22 @@ window.COLLECTION = [
     background:
       "Built by an old man of the former Verdauf guards. One hand is a minigun. " +
       "He is also a very good mechanic.",
-    provenance: "",
-    tags: ["robot", "verdauf", "minigun", "mechanic", "built"],
-    images: ["images/the-defense-bot-01.jpg"],
+    provenance:
+      "Bronze from the crown to the feet, the same metal everywhere, worn " +
+      "brighter along every raised edge. A blocky head with a deep slot cut " +
+      "across it for a visor and nothing behind the slot. Heavy shoulders, a " +
+      "chest with a round port set in the middle, and thick tapering legs on " +
+      "wide flat feet.\n\n" +
+      "The arms are not a pair. One is a bronze claw, held up and open. The " +
+      "other carries the gun: a dark grey barrel assembly clamped over the " +
+      "forearm, pale at the muzzle, bulky enough to be most of that arm.",
+    tags: ["robot", "verdauf", "minigun", "mechanic", "built", "bronze"],
+    images: [
+      { src: "images/the-defense-bot-02.jpg", caption: "The figure" },
+      { src: "images/the-defense-bot-01.jpg", caption: "The first photograph" }
+    ],
     acquired: "",
-    notes: "The old man who built him is still to come. First mention of the Verdauf guards as distinct from the Verdauf Squadron."
+    notes: "The old man who built him is still to come. First mention of the Verdauf guards as distinct from the Verdauf Squadron.\n\nA clear photograph, and it leads the card now. This card had no provenance at all - the story was written down and the figure never was - so there is one now, read off the new shot, and it bears the card out. One hand is a gun: a dark grey barrel assembly clamped over the whole forearm, which is the minigun the background has claimed since the day it was written. The other arm is an open bronze claw, which is the hand he does the mechanic work with.\n\nYou said the bronze robot is a good guy, which is what this card already said. Nothing moved. He and the Dock Robot are the same build in a different metal, and as of today they are on opposite sides."
   },
 
   {
@@ -7197,7 +7208,7 @@ window.COLLECTION = [
     id: "the-dock-robot",
     name: "The Dock Robot",
     variant: "",
-    faction: "good",
+    faction: "bad",
     origin: "custom",
     theme: "Creation Mythos",
     rank: "",
@@ -7206,14 +7217,24 @@ window.COLLECTION = [
     location: "",
     relations: [],
     rating: 0,
-    background: "A robot put together out of scrap pieces. He works the docks.",
+    background:
+      "A robot put together out of scrap pieces. He works the docks.\n\n" +
+      "He is evil.",
     provenance:
       "Genuinely a kitbash - mismatched greys, a red arm on one side and a " +
-      "white one on the other, nothing matching anything.",
-    tags: ["robot", "scrap", "kitbash", "docks", "worker", "mismatched"],
-    images: ["images/the-dock-robot-01.jpg"],
+      "white one on the other, nothing matching anything.\n\n" +
+      "Closer: a silver head with one slot of a visor cut across it, set on a " +
+      "translucent blue-grey body with the works showing through. The dark red " +
+      "arm is a different mould from the pale one, which ends in a flared " +
+      "white nozzle instead of a hand. Heavy grey legs and broad flat feet " +
+      "under all of it.",
+    tags: ["villain", "robot", "scrap", "kitbash", "docks", "worker", "mismatched"],
+    images: [
+      { src: "images/the-dock-robot-02.jpg", caption: "The figure" },
+      { src: "images/the-dock-robot-01.jpg", caption: "The first photograph" }
+    ],
     acquired: "",
-    notes: "Tenth robot here, and the second whose whole job is being useful rather than fighting, after the Storage Robot. The plastic agrees with the story again: he is described as built from scrap and he is visibly built from scrap."
+    notes: "Tenth robot here, and the second whose whole job is being useful rather than fighting, after the Storage Robot. The plastic agrees with the story again: he is described as built from scrap and he is visibly built from scrap.\n\nHe has changed sides. He was catalogued good on the strength of the job - a scrap robot who works the docks - and you have now said the grey one with the red arm is evil, so that is what he is. The job stays, because you did not take it away: an evil robot who works the docks.\n\nThat cost him a line in order.js. He was on the working people list, which pins the rung and ignores everything else, and leaving him there would have filed a villain below every civilian in the collection. He comes off that list and stands at Soldiers instead, which is where this catalogue puts an enemy with nothing else written down. His trade is still Dockworker; if being evil means he stopped working the docks, say so and the role goes too.\n\nHe is the first figure here to move from one side to the other. Every correction before this one has been a rank, a name or a description."
   },
 
 
@@ -21145,7 +21166,8 @@ window.COLLECTION = [
       "and jaw, and a row of teeth clamped shut below.",
     tags: ["villain", "robot", "skeleton", "steel", "machine", "red-eyes", "skull"],
     images: [
-      "images/the-skeleton-robot-01.jpg",
+      { src: "images/the-skeleton-robot-02.jpg", caption: "The figure" },
+      { src: "images/the-skeleton-robot-01.jpg", caption: "The first photograph" },
     ],
     acquired: "",
     notes: "The first figure in this collection actually built on the skeleton mould. Four cards here already have a ribcage on them and every one of them is a picture: the Black Knight with a silver one printed on a black torso, the Hooded Skeleton with a white one, the Blue-Eyed Alien with bones drawn faintly in darker green, the Haunted Miner lit up in pale green. All of those are minifigures wearing their bones on the outside. This one has no torso at all - ribs with daylight through them and a spine you can see between them.\n\nAnd it is not a skeleton. It is a machine shaped like one: rivets across the brow, metal shading at the jaw, two lit eyes in the sockets. That is new here. Every machine on the villain side looks like a machine - the Missile has no face, the Killer Bots have visors, Ultron has a lit grille, the Tanker Droid has one red slit, the Tanker Robot is smiling. This one is wearing a body, and the body it picked is a dead one.\n\nNamed descriptively, and deliberately not called Steel, because Steel is the name of the figure that arrived with him in the same batch and the two would tangle. You called this one a steel robot and that one Steel. If the skeleton is one of his, say so and the line goes in.\n\nReal skeletons turned up a batch later - two with angry faces and three plain-faced ones, all of them this same mould in bone white gone cream. The plain-faced three opened a neutral deck that has since been closed, and they are on the bad deck now with the rest. So this is no longer the only thing here built this way. It is still the only one of them that is a machine, and the only one whose eyes are lit."
@@ -23600,6 +23622,73 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-25",
     notes: "Placeholder name. You called him an additional Hogwarts student and nothing more, so the card says nothing more - no name, no year, nothing he has done.\n\nEighth Harry Potter card and the fifth student, after Harry, Neville, Fred and Luna. He is only the second figure here wearing the school uniform at all, after Harry - the same grey jumper, the same striped tie, the same Gryffindor lion on the chest. Neville is in a cardigan and Fred in a winter coat, neither of them in uniform, and Luna is in the radish jumper and pink trousers. So the uniform is rarer on this shelf than the school is.\n\nHe is the only student here with a plain face - two dots and a smile, no expression printed on it. Every other named one has a face that is somebody in particular. That is what an unnamed student looks like, and it is the reason the card cannot say more than it does. Tell me who he is."
+  },
+
+  {
+    id: "ig-88",
+    name: "IG-88",
+    variant: "",
+    faction: "bad",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Droid",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "IG-88. He is evil.",
+    provenance:
+      "A tall thin droid in black, built the way the assassin droids are: a " +
+      "cylindrical head with a flat cap on top and a collar ring below it, a " +
+      "band of translucent red set into the neck with the light showing through " +
+      "it, and no face of any kind.\n\n" +
+      "Below that an open skeletal frame - thin jointed arms hanging either " +
+      "side of a narrow chest, a clip hand on one, a bare socket on the other, " +
+      "and long spindly legs standing on flat splayed feet. Black throughout, " +
+      "with the moulding numbers still legible across the hips.",
+    tags: ["villain", "star-wars", "branded", "droid", "assassin-droid", "black", "red-eye"],
+    images: [
+      { src: "images/ig-88-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "You named him and you said he is evil, and that is the whole of the card. Nothing else about him is written down - no employer, nobody he has been sent after.\n\nHe is not one of the IG Battle Droids, who are a unit of their own here and are silver with amber bands across the head. This one is black with a red band, on his own, and named.\n\nFiled at Soldiers, which is where Droid sits on the ladder. In the films he is a bounty hunter, which would be Elite - but nobody has said that is what he does here, so the trade stays generic. One word moves him."
+  },
+
+  {
+    id: "the-geonosis-clone-trooper",
+    name: "The Geonosis Clone Trooper",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Star Wars",
+    rank: "",
+    role: "Clone Trooper",
+    group: "The Clone Army",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "A clone trooper from Geonosis.",
+    provenance:
+      "Desert camouflage throughout - a sand-brown base broken up with pale " +
+      "grey-green blotches worked over every surface, helmet, torso and legs " +
+      "alike, so that nothing on him reads as a clean panel.\n\n" +
+      "A Phase 2 helmet with a black visor slit, dark vents at the mouth and " +
+      "the sides, and the camouflage carried right over the crown. A pale " +
+      "bandolier strap crosses the chest from one shoulder to the opposite hip " +
+      "with a buckle at the middle of it, over a printed belt of pouches. A " +
+      "brown codpiece strap at the waist, plain sand-brown arms, one black " +
+      "hand.\n\n" +
+      "He is the most worn clone on the shelf: the print is chipped away to " +
+      "bare plastic at the crown, both shoulders, the middle of the chest and " +
+      "the right hip, in flakes rather than scuffs.",
+    tags: ["star-wars", "branded", "clone", "trooper", "geonosis", "camouflage",
+           "desert", "worn"],
+    images: [
+      { src: "images/the-geonosis-clone-trooper-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "Named for where he fought, which is what you gave me. Nothing else is written down about him.\n\nHe opens a camouflage. The clone legions here are told apart by colour - blue for the 501st, red for the Shock Troopers, gold for the Golden Company, green for Gree, grey for the pilots - and the only camouflage so far has been the Camo Scouts in jungle green. This is desert, and it is a different thing again: the Scouts wear green blotches over white, and he is sand-brown from the crown down with the pattern carried over the helmet as well.\n\nHe is also the most worn clone in the collection. Wear reads as history on these cards rather than as damage, and his is not scuffing - it is flaking, the print coming away in pieces at the crown, the shoulders, the chest and the hip."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----

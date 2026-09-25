@@ -316,7 +316,7 @@ window.ORDER = {
     "the-snorkel-diver", "the-dive-captain", "the-goggled-diver",
     "santa-claus", "the-replica", "the-hijacked", "the-tin-robot",
     "the-salvager", "the-statue-of-liberty", "the-activist",
-    "the-voiceless", "the-genius-gorilla", "the-dock-robot",
+    "the-voiceless", "the-genius-gorilla",
     "the-spaceship-racer", "the-princes-cousin", "the-princes-impersonator",
     "the-porsche-driver", "the-ferrari-driver", "the-stunt-robot",
     "the-stunt-driver", "george-joudrie", "the-technician",
@@ -682,6 +682,14 @@ window.ORDER = {
     "the-maiden": [10, 52],             // behind the cop and the man with a sword
     "little-red-riding-hood": [10, 60],
     "the-neutral-skeletons": [10, 58],  // they are bones. They cannot move.
+
+    // He was filed good and stood with the working people on the strength of
+    // his job. He is evil now, on your word, and the job did not change - so he
+    // keeps Dockworker as his trade and comes out of the workers list, because
+    // that list pins the rung and would have left a villain ranked under every
+    // civilian in the collection. Soldiers is where this catalogue puts an
+    // enemy with nothing else written down.
+    "the-dock-robot": [5, 44],
 
     // --- Bravo Team, kept together on one rung. The job titles would have
     // scattered them - Explorer and Apprentice both read as civilian trades -
