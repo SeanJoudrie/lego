@@ -20950,10 +20950,12 @@ window.COLLECTION = [
       "printed with dark chevrons down the thighs and plates at the knees.",
     tags: ["star-wars", "branded", "senate", "guard", "blue", "helmet", "visor", "pair"],
     images: [
-      "images/the-senate-guards-01.jpg",
+      { src: "images/the-senate-guards-01.jpg", caption: "The pair" },
+      { src: "images/the-senate-guards-02.jpg", caption: "The plainer one" },
+      { src: "images/the-senate-guards-03.jpg", caption: "The fully kitted one" },
     ],
     acquired: "",
-    notes: "One card, two figures, the way the Shadow Troopers and the Prince's Guards are done - and the two of them are not the same kit, one plain and one fully printed, which normally means a rank difference and nobody has said whether it is one here.\n\nThey guard a building rather than a person, and that is new. Every other guard in this collection stands in front of somebody: Heavy and the Guardsman and the Prince's Guards at the Royal Household, the Ninja Golem in front of a golden sword, the Jedi Palace Guard at a palace, the Royal Guard in front of an emperor, the Gamorrean Guard at Jabba's door. These stand in front of a parliament.\n\nGuard is written as the job on three cards so far - the Jedi Palace Guard good, the Royal Guard and the Gamorrean Guard bad. This card and the retired one turn that over: five now, three good against two.\n\nWorth flagging and not written in. The Imperial Royal Guard is catalogued here, filed bad, standing in front of Palpatine, who is also catalogued. In the films the red guard is what the blue guard turned into once the Senate stopped mattering. That is a real line between two cards sitting on opposite decks, and I have not drawn it, because you have not said it. One word and it goes in.\n\nSmaller thing, and it is only a coincidence of names: this collection already has a Supreme Chancellor. He is a sting ray in all green, and he is filed with the villains."
+    notes: "One card, two figures, the way the Shadow Troopers and the Prince's Guards are done - and the two of them are not the same kit, one plain and one fully printed, which normally means a rank difference and nobody has said whether it is one here.\n\nA photograph of each of them now, behind the shot of the pair. You said again that they are two separate figures and not the same one twice - which is what this card has said since it was written - and the two portraits make it plain: the first has white hands and legs with nothing printed on them at all, the second has black hands, a black belt across the waist and dark chevrons down both thighs. Same helmet, same blue, different kit.\n\nThey guard a building rather than a person, and that is new. Every other guard in this collection stands in front of somebody: Heavy and the Guardsman and the Prince's Guards at the Royal Household, the Ninja Golem in front of a golden sword, the Jedi Palace Guard at a palace, the Royal Guard in front of an emperor, the Gamorrean Guard at Jabba's door. These stand in front of a parliament.\n\nGuard is written as the job on three cards so far - the Jedi Palace Guard good, the Royal Guard and the Gamorrean Guard bad. This card and the retired one turn that over: five now, three good against two.\n\nWorth flagging and not written in. The Imperial Royal Guard is catalogued here, filed bad, standing in front of Palpatine, who is also catalogued. In the films the red guard is what the blue guard turned into once the Senate stopped mattering. That is a real line between two cards sitting on opposite decks, and I have not drawn it, because you have not said it. One word and it goes in.\n\nSmaller thing, and it is only a coincidence of names: this collection already has a Supreme Chancellor. He is a sting ray in all green, and he is filed with the villains."
   },
 
   {
@@ -23216,18 +23218,17 @@ window.COLLECTION = [
       "round the neck. A sleeveless white spacesuit over bare arms, printed " +
       "with an instrument panel - a round dial, a red and blue chevron in a " +
       "rounded frame, panel seams and a row of small buttons - and a red line " +
-      "at the collar. A dark grey blaster with a ribbed barrel in his hand.\n\n" +
-      "Photographed as part of the group and cropped out of it, which is why " +
-      "a neighbour shows at the edge.",
+      "at the collar. A dark grey blaster with a ribbed barrel in his hand.",
     tags: ["bravo-team", "space-explorer", "space", "apprentice", "armed",
            "moustache", "soil", "atmosphere", "first-off-the-ship"],
     images: [
-      { src: "images/pringles-01.jpg", caption: "The figure" },
+      { src: "images/pringles-02.jpg", caption: "The figure" },
+      { src: "images/pringles-01.jpg", caption: "Cropped out of the group shot" },
       { src: "images/bravo-team-01.jpg", caption: "Bravo Team" },
       { src: "images/bravo-team-02.jpg", caption: "Bravo Team, on the dashboard" }
     ],
     acquired: "2026-09-23",
-    notes: "Pringles is not a placeholder - it is what you said everyone calls him - but it is a nickname, so the name on his papers is still open.\n\nOne judgement call went into this group and it is here. You said the one on the far right is Pringles, and then that the one on the right is the pilot; both cannot be the same man. Of the four only two wear a moustache, and the other one is the old man in red you described separately - so Pringles is the one with the moustache and the copper hair, who is also the one with brown hair whose assistant the red man is. That makes him the team's lead explorer and puts the pilot on the far right. If those two are the wrong way round, say swap them and they swap.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian."
+    notes: "Pringles is not a placeholder - it is what you said everyone calls him - but it is a nickname, so the name on his papers is still open.\n\nOne judgement call went into this group and it is here. You said the one on the far right is Pringles, and then that the one on the right is the pilot; both cannot be the same man. Of the four only two wear a moustache, and the other one is the old man in red you described separately - so Pringles is the one with the moustache and the copper hair, who is also the one with brown hair whose assistant the red man is. That makes him the team's lead explorer and puts the pilot on the far right. If those two are the wrong way round, say swap them and they swap.\n\nA photograph of him on his own, and it leads the card now; the crop out of the group stays behind it. It settles the kit: the white spacesuit is sleeveless over bare yellow arms, the yellow collar is a moulded piece round the neck rather than a scarf, the instrument panel printed across the chest carries a dial, a red and blue chevron and a row of switches under it, and the legs are white with black and yellow blocks at the thighs. The blaster is the same dark grey ribbed one.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian."
   },
 
   {
@@ -23362,22 +23363,28 @@ window.COLLECTION = [
       "of the work is the quiet kind. Not one of them is a civilian. The " +
       "adventures are small and action-packed, and all of them are good.",
     provenance:
-      "Cream hair, tousled and swept up. Thick black angled brows, a broad open " +
-      "grin, stubble stippled across the jaw. A yellow collar round the neck. An " +
-      "orange expedition parka with a thick white fur collar and a white fur " +
-      "hem, a white zip up the front, two slanted breast pockets, a dark navy " +
-      "roundel badge at one side and a round instrument face - a compass or a " +
-      "watch - at the other. Black legs. A blue brick in his hand.\n\n" +
-      "Photographed as part of the group and cropped out of it, which is why " +
-      "a neighbour shows at the edge.",
+      "An orange expedition parka with a thick white fur collar and a white " +
+      "fur hem, a grey zip up the front, two slanted breast pockets, and two " +
+      "badges at the chest: a navy roundel with a white comet crossing it, and " +
+      "a compass with its needle showing. Orange arms and blue hands. Black " +
+      "legs with a brown belt across the top of them.\n\n" +
+      "The head is not the same in the two photographs. In the group shot the " +
+      "hair is cream, tousled and swept up, over a broad open grin. On his own " +
+      "the hair is brown and combed back, and the mouth is a closed one-sided " +
+      "smirk. Thick dark brows and stubble across the jaw either way. The coat, " +
+      "the legs and the blue hands are the same in both, so this is the same " +
+      "man with his head changed rather than a second figure - unless it is " +
+      "not, and one word settles it.\n\n" +
+      "He is holding nothing on his own. The blue brick is in the group shot.",
     tags: ["bravo-team", "pilot", "space", "parka", "armed", "apprentice-team"],
     images: [
-      { src: "images/the-bravo-pilot-01.jpg", caption: "The figure" },
+      { src: "images/the-bravo-pilot-02.jpg", caption: "The figure" },
+      { src: "images/the-bravo-pilot-01.jpg", caption: "Cropped out of the group shot" },
       { src: "images/bravo-team-01.jpg", caption: "Bravo Team" },
       { src: "images/bravo-team-02.jpg", caption: "Bravo Team, on the dashboard" }
     ],
     acquired: "2026-09-23",
-    notes: "Placeholder name - he is the pilot of this team and nothing else is written down, so that is what the card calls him.\n\nThe one judgement call in this group is explained on Pringles' card: you named the far right figure Pringles and then named the one on the right the pilot, so the moustache went to Pringles and the flying went to this one, the far right, in the orange parka. Say swap them and they swap.\n\nThe ladder used to put a Pilot two rungs above an Apprentice, so he outranked the rest of his own team. He does not any more: the whole team is at Soldiers and he stands last of the four, which is where being the one they picked to fly puts him.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian."
+    notes: "Placeholder name - he is the pilot of this team and nothing else is written down, so that is what the card calls him.\n\nThe one judgement call in this group is explained on Pringles' card: you named the far right figure Pringles and then named the one on the right the pilot, so the moustache went to Pringles and the flying went to this one, the far right, in the orange parka. Say swap them and they swap.\n\nThe ladder used to put a Pilot two rungs above an Apprentice, so he outranked the rest of his own team. He does not any more: the whole team is at Soldiers and he stands last of the four, which is where being the one they picked to fly puts him.\n\nA photograph of him on his own, and it leads the card now. Two things in it that the group shot could not give: his hands are blue, and the two badges on the parka are a navy roundel with a white comet and a compass with its needle showing - I had the second down as a compass or a watch and it is a compass.\n\nThe head is different between the two photographs - cream hair and an open grin in the group, brown hair and a smirk on his own - while the coat, the legs and the hands are identical. The provenance records both rather than choosing. You said this is the pilot from yesterday, so the card takes that; if the head was swapped, that is worth a line, and if it turns out to be a second figure in the same coat, say so and he gets a card of his own.\n\nCorrected. All four of them went into the catalogue filed at Civilians. The ladder reads Explorer and Apprentice as civilian trades and I let that stand without looking at what this team actually is: they hold rank, they answer for military work, they carry guns, and they kill aliens. All four now sit at Soldiers, together - order.js carries them by name so the team stays on one rung whatever their job titles say, and Space Explorer has been added to the ladder at Soldiers so the title itself stops meaning civilian."
   },
 
   {
@@ -23563,6 +23570,36 @@ window.COLLECTION = [
     ],
     acquired: "2026-09-25",
     notes: "Placeholder name, pure description. What you said is that he is a standard evil one, so that is the background, and everything else about him is unwritten - no name, no side he belongs to, nothing he has done.\n\nFiled at Soldiers. He has no job title, and the catalogue's rule for a villain with nothing written down is that he is a threat rather than a bystander. He is carrying a battle axe, so that is not a stretch.\n\nOne thing for you to settle, about the filing rather than the man: he is on the Star Wars shelf because you called him a Star Wars one, but the parts read like Castle - a fur-trimmed tunic, a green ogre's face and a double-bitted axe. If the theme should say Castle instead, one word changes it."
+  },
+
+  {
+    id: "the-hogwarts-student",
+    name: "The Hogwarts Student",
+    variant: "",
+    faction: "good",
+    origin: "branded",
+    theme: "Harry Potter",
+    rank: "",
+    role: "Student",
+    group: "",
+    location: "",
+    relations: [],
+    rating: 0,
+    background: "Another one of the students.",
+    provenance:
+      "Tousled brown hair over a plain yellow face - two dots for eyes, a " +
+      "small closed smile, nothing else printed on it at all.\n\n" +
+      "A pale grey school jumper printed with a deep V at the neck, a red and " +
+      "gold striped tie knotted under it, a crest at the breast with a lion " +
+      "standing on a red and gold field, and a ribbed hem drawn across the " +
+      "bottom. Grey arms, yellow hands, reddish brown legs scuffed white at " +
+      "the knees and the feet.",
+    tags: ["harry-potter", "branded", "student", "hogwarts", "gryffindor", "undescribed"],
+    images: [
+      { src: "images/the-hogwarts-student-01.jpg", caption: "The figure" }
+    ],
+    acquired: "2026-09-25",
+    notes: "Placeholder name. You called him an additional Hogwarts student and nothing more, so the card says nothing more - no name, no year, nothing he has done.\n\nEighth Harry Potter card and the fifth student, after Harry, Neville, Fred and Luna. He is only the second figure here wearing the school uniform at all, after Harry - the same grey jumper, the same striped tie, the same Gryffindor lion on the chest. Neville is in a cardigan and Fred in a winter coat, neither of them in uniform, and Luna is in the radish jumper and pink trousers. So the uniform is rarer on this shelf than the school is.\n\nHe is the only student here with a plain face - two dots and a smile, no expression printed on it. Every other named one has a face that is somebody in particular. That is what an unnamed student looks like, and it is the reason the card cannot say more than it does. Tell me who he is."
   },
 
   /* ---- TEMPLATE: copy this block for each new figure ----
